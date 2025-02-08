@@ -2,6 +2,7 @@
 
 
 # Data structure
+```
 meta.json // last updated timestamp
 /bills/
     /119/
@@ -22,3 +23,4 @@ meta.json // last updated timestamp
         /data
           HB1234.json // full contents of the bill
           SB1234.json
+```
