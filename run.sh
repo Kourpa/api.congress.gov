@@ -5,8 +5,6 @@ cd ./congress
 python3 -m venv env
 source env/bin/activate
 
-pip install .
-
 cat << 'EOF' > config.yml
 output:
   cache: ../cache
@@ -19,3 +17,5 @@ usc-run bills
 deactivate
 
 cd ..
+
+./sort.py

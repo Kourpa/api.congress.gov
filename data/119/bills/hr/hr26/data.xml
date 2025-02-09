@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="26" updated="2025-02-08T05:08:18Z">
-  <state datetime="2025-01-03">REFERRED</state>
+<bill session="119" type="h" number="26" updated="2025-02-08T09:05:33Z">
+  <state datetime="2025-02-07T10:59:34-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-03"/>
+    <unknown datetime="2025-02-07T10:59:34-05:00"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
@@ -12,6 +12,7 @@
   </titles>
   <sponsor bioguide_id="P000048"/>
   <cosponsors>
+    <cosponsor bioguide_id="B001291" joined="2025-02-07"/>
     <cosponsor bioguide_id="B001307" joined="2025-02-04"/>
     <cosponsor bioguide_id="B001282" joined="2025-01-09"/>
     <cosponsor bioguide_id="B001323" joined="2025-02-05"/>
@@ -40,13 +41,38 @@
     <action datetime="2025-01-03">
       <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-02-07T09:19:51-05:00">
+      <text>Considered under the provisions of rule H. Res. 5.</text>
+    </action>
+    <action datetime="2025-02-07T09:20:21-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 26.</text>
+    </action>
+    <action datetime="2025-02-07T10:18:52-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-02-07T10:19:15-05:00">
+      <text>Mr. Casten moved to recommit to the Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2025-02-07T10:19:27-05:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2025-02-07T10:51:18-05:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 205 - 207 (Roll no. 34).</text>
+    </action>
+    <vote how="roll" type="vote" roll="35" datetime="2025-02-07T10:59:34-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 226 - 188 (Roll no. 35).</text>
+    </vote>
+    <action datetime="2025-02-07T10:59:36-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Unknown, Unknown, Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="133" relation="identical"/>
+    <bill session="119" type="hr" number="5" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Energy"/>
