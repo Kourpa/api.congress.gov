@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 1
           
       - name: Run Script
-        run: /run.sh
+        run: ./run.sh
 
       - name: Commit and push if changed
         run: |
