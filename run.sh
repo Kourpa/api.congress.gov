@@ -14,8 +14,6 @@ EOF
 usc-run govinfo --bulkdata=BILLSTATUS --congress=119
 usc-run bills
 
-deactivate
-
 cd ..
 
 ./sort.py

@@ -26,6 +26,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A
+          git add ./data/*
           git commit -m "Auto-update congress data" || exit 0  # Don't fail if nothing to commit
           git push
