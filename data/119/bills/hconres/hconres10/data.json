@@ -2,6 +2,18 @@
   "actions": [
     {
       "acted_at": "2025-02-10",
+      "action_code": "B00100",
+      "references": [
+        {
+          "reference": "CR H607",
+          "type": null
+        }
+      ],
+      "text": "Sponsor introductory remarks on measure.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-10",
       "action_code": "H12100",
       "references": [],
       "text": "Submitted in House",
@@ -138,7 +150,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-02-10",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -178,6 +191,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-11T09:00:24Z",
+  "updated_at": "2025-02-11T15:06:46Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres10.xml"
 }
