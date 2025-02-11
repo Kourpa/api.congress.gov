@@ -73,8 +73,7 @@ def write_csv(bills_dict, output_file):
         f.write('billid,status,status_at\n')
         for status, bills in bills_dict.items():
             for bill in bills:
-                f.write(f"{bill['billid']},{bill['status']},{
-                        bill['status_at']}\n")
+                f.write(f"{bill['billid']},{bill['status']},{bill['status_at']}\n")
 
 
 # Write main CSV
