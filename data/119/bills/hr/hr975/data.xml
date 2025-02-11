@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="975" updated="2025-02-10T17:56:57Z">
-  <state datetime="2025-02-04">REFERRED</state>
+<bill session="119" type="h" number="975" updated="2025-02-11T14:49:49Z">
+  <state datetime="2025-02-10T17:24:44-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-02-04"/>
+    <unknown datetime="2025-02-10T17:24:44-05:00"/>
   </status>
   <introduced datetime="2025-02-04"/>
   <titles>
@@ -14,6 +14,7 @@
     <cosponsor bioguide_id="C001112" joined="2025-02-07"/>
     <cosponsor bioguide_id="C001117" joined="2025-02-07"/>
     <cosponsor bioguide_id="C001080" joined="2025-02-07"/>
+    <cosponsor bioguide_id="C001059" joined="2025-02-10"/>
     <cosponsor bioguide_id="D000626" joined="2025-02-07"/>
     <cosponsor bioguide_id="F000475" joined="2025-02-07"/>
     <cosponsor bioguide_id="F000454" joined="2025-02-07"/>
@@ -22,11 +23,16 @@
     <cosponsor bioguide_id="H001058" joined="2025-02-04"/>
     <cosponsor bioguide_id="I000056" joined="2025-02-07"/>
     <cosponsor bioguide_id="K000397" joined="2025-02-07"/>
+    <cosponsor bioguide_id="L000491" joined="2025-02-10"/>
     <cosponsor bioguide_id="M001137" joined="2025-02-07"/>
     <cosponsor bioguide_id="M001204" joined="2025-02-07"/>
+    <cosponsor bioguide_id="N000193" joined="2025-02-10"/>
+    <cosponsor bioguide_id="P000608" joined="2025-02-10"/>
     <cosponsor bioguide_id="S001221" joined="2025-02-07"/>
     <cosponsor bioguide_id="S000344" joined="2025-02-07"/>
+    <cosponsor bioguide_id="T000480" joined="2025-02-10"/>
     <cosponsor bioguide_id="T000468" joined="2025-02-07"/>
+    <cosponsor bioguide_id="W000788" joined="2025-02-10"/>
   </cosponsors>
   <actions>
     <action datetime="2025-02-04">
@@ -34,6 +40,23 @@
     </action>
     <action datetime="2025-02-04" state="REFERRED">
       <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2025-02-10T17:14:16-05:00">
+      <text>Mr. Hill (AR) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-02-10T17:14:27-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H601-603" label="consideration"/>
+    </action>
+    <action datetime="2025-02-10T17:14:29-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 975.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-02-10T17:24:44-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H601-602" label="text"/>
+    </vote>
+    <action datetime="2025-02-10T17:24:46-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

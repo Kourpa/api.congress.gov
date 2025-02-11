@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="224" updated="2025-02-06T22:38:51Z">
-  <state datetime="2025-01-07">REFERRED</state>
+<bill session="119" type="h" number="224" updated="2025-02-11T14:41:33Z">
+  <state datetime="2025-02-10T16:19:21-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-07"/>
+    <unknown datetime="2025-02-10T16:19:21-05:00"/>
   </status>
   <introduced datetime="2025-01-07"/>
   <titles>
@@ -11,6 +11,7 @@
   </titles>
   <sponsor bioguide_id="D000594"/>
   <cosponsors>
+    <cosponsor bioguide_id="B001323" joined="2025-02-10"/>
     <cosponsor bioguide_id="C001133" joined="2025-01-07"/>
     <cosponsor bioguide_id="C001120" joined="2025-01-07"/>
     <cosponsor bioguide_id="E000294" joined="2025-01-07"/>
@@ -28,6 +29,23 @@
     </action>
     <action datetime="2025-01-07" state="REFERRED">
       <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2025-02-10T16:01:00-05:00">
+      <text>Mr. Hill (AR) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-02-10T16:01:16-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H593-595" label="consideration"/>
+    </action>
+    <action datetime="2025-02-10T16:01:19-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 224.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-02-10T16:19:21-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H593" label="text"/>
+    </vote>
+    <action datetime="2025-02-10T16:19:29-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

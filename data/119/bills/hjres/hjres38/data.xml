@@ -1,4 +1,4 @@
-<bill session="119" type="hj" number="38" updated="2025-02-08T09:05:22Z">
+<bill session="119" type="hj" number="38" updated="2025-02-11T14:53:30Z">
   <state datetime="2025-02-07">REFERRED</state>
   <status>
     <introduced datetime="2025-02-07"/>
@@ -27,7 +27,12 @@
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="sj" number="14" relation="identical"/>
+    <bill session="119" type="hj" number="30" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
   <amendments/>
 </bill>
