@@ -1,4 +1,4 @@
-<bill session="119" type="hc" number="11" updated="2025-02-12T09:00:43Z">
+<bill session="119" type="hc" number="11" updated="2025-02-12T13:49:50Z">
   <state datetime="2025-02-11T14:01:55-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-02-11T14:01:55-05:00"/>
@@ -16,12 +16,17 @@
     </action>
     <action datetime="2025-02-11T14:01:08-05:00">
       <text>Considered as privileged matter.</text>
+      <reference ref="CR H630-631" label="consideration"/>
     </action>
     <vote how="without objection" type="vote" datetime="2025-02-11T14:01:55-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On agreeing to the resolution Agreed to without objection.</text>
+      <reference ref="CR H631" label="text"/>
     </vote>
     <action datetime="2025-02-11T14:02:00-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2025-02-11">
+      <text>Received in the Senate.</text>
     </action>
   </actions>
   <committees/>
