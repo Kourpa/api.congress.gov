@@ -3,20 +3,34 @@
   <version>3.0.0</version>
   <bill>
     <number>744</number>
-    <updateDate>2025-01-29T09:20:34Z</updateDate>
-    <updateDateIncludingText>2025-01-29T09:20:34Z</updateDateIncludingText>
+    <updateDate>2025-02-12T09:01:16Z</updateDate>
+    <updateDateIncludingText>2025-02-12T09:01:16Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-01-28</introducedDate>
     <congress>119</congress>
-    <cdata/>
+    <cdata>
+      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. NEGUSE:H.R. 744.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H406]&lt;/pre&gt;</constitutionalAuthorityStatementText>
+    </cdata>
     <committees>
       <item>
         <systemCode>hspw00</systemCode>
         <name>Transportation and Infrastructure Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-01-29T15:42:44Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -26,6 +40,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-01-29</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-28</actionDate>
         <text>Referred to the House Committee on Transportation and Infrastructure.</text>
@@ -182,8 +211,8 @@
       </item>
     </titles>
     <latestAction>
-      <actionDate>2025-01-28</actionDate>
-      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      <actionDate>2025-01-29</actionDate>
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

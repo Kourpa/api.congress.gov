@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-03",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Health.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Veterans' Affairs",
       "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Health",
+      "subcommittee_id": "03"
     }
   ],
   "congress": "119",
@@ -80,7 +99,29 @@
   "status": "REFERRED",
   "status_at": "2025-01-03",
   "subjects": [
-    "Armed forces and national security"
+    "Armed forces and national security",
+    "Department of Veterans Affairs",
+    "Drug therapy",
+    "Drug trafficking and controlled substances",
+    "Drug, alcohol, tobacco use",
+    "Family relationships",
+    "Government employee pay, benefits, personnel management",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Health facilities and institutions",
+    "Health information and medical records",
+    "Health personnel",
+    "Higher education",
+    "Hospital care",
+    "Marriage and family status",
+    "Medicaid",
+    "Medical education",
+    "Medical research",
+    "Medical tests and diagnostic methods",
+    "Mental health",
+    "Neurological disorders",
+    "Prescription drugs",
+    "Veterans' medical care"
   ],
   "subjects_top_term": "Armed forces and national security",
   "summary": {
@@ -112,6 +153,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-06T09:05:52Z",
+  "updated_at": "2025-02-12T09:00:45Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr136.xml"
 }

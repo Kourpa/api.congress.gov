@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>192</number>
-    <updateDate>2025-01-17T14:28:33Z</updateDate>
-    <updateDateIncludingText>2025-01-17T14:28:33Z</updateDateIncludingText>
+    <updateDate>2025-02-12T09:00:46Z</updateDate>
+    <updateDateIncludingText>2025-02-12T09:00:46Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -31,6 +31,18 @@
         <name>Transportation and Infrastructure Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw14</systemCode>
+            <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-01-04T14:21:57Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -161,6 +173,21 @@
           <code>2</code>
           <name>House floor actions</name>
         </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-01-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw14</systemCode>
+            <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+        <type>Committee</type>
       </item>
       <item>
         <actionDate>2025-01-03</actionDate>

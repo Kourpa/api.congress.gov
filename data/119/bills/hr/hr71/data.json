@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-06",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Health.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Veterans' Affairs",
       "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Health",
+      "subcommittee_id": "03"
     }
   ],
   "congress": "119",
@@ -180,7 +199,12 @@
   "status": "REFERRED",
   "status_at": "2025-01-03",
   "subjects": [
-    "Armed forces and national security"
+    "Armed forces and national security",
+    "Congressional oversight",
+    "Health care coverage and access",
+    "Health facilities and institutions",
+    "Hospital care",
+    "Veterans' medical care"
   ],
   "subjects_top_term": "Armed forces and national security",
   "summary": {
@@ -212,6 +236,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-05T09:05:23Z",
+  "updated_at": "2025-02-12T09:01:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr71.xml"
 }

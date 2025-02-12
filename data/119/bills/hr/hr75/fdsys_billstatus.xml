@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>75</number>
-    <updateDate>2025-02-05T09:05:46Z</updateDate>
-    <updateDateIncludingText>2025-02-05T09:05:46Z</updateDateIncludingText>
+    <updateDate>2025-02-12T09:01:13Z</updateDate>
+    <updateDateIncludingText>2025-02-12T09:01:13Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,18 @@
         <name>Veterans' Affairs Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-02-06T17:41:36Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -40,6 +52,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-02-06</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-03</actionDate>
         <text>Referred to the Committee on Financial Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -218,8 +245,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-03</actionDate>
-      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2025-02-06</actionDate>
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

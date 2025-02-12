@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="125" updated="2025-02-11T17:11:24Z">
+<bill session="119" type="h" number="125" updated="2025-02-12T09:01:03Z">
   <state datetime="2025-01-03">REFERRED</state>
   <status>
     <introduced datetime="2025-01-03"/>
@@ -24,11 +24,15 @@
     <action datetime="2025-01-03">
       <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Foreign Affairs, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-01-04">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
     <committee code="HSRU" name="House Rules" subcommittee="" activity="Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

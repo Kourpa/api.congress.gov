@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="153" updated="2025-01-17T11:56:32Z">
+<bill session="119" type="h" number="153" updated="2025-02-12T09:00:48Z">
   <state datetime="2025-01-14T14:31:14-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-01-14T14:31:14-05:00"/>
@@ -28,6 +28,9 @@
     </action>
     <action datetime="2025-01-03">
       <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Small Business, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2025-01-04">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
     </action>
     <action datetime="2025-01-13T16:44:43-05:00">
       <text>Mr. Graves moved to suspend the rules and pass the bill.</text>
@@ -59,13 +62,18 @@
   </actions>
   <committees>
     <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Referred To"/>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Emergency management"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Government information and archives"/>
+    <term name="Natural disasters"/>
+    <term name="Public-private cooperation"/>
   </subjects>
   <amendments/>
 </bill>

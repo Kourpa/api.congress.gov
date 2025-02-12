@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="144" updated="2025-01-18T01:08:20Z">
+<bill session="119" type="h" number="144" updated="2025-02-12T09:01:07Z">
   <state datetime="2025-01-15T16:37:06-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-01-15T16:37:06-05:00"/>
@@ -21,6 +21,9 @@
     </action>
     <action datetime="2025-01-03" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2025-01-04">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
     </action>
     <action datetime="2025-01-13T17:07:49-05:00">
       <text>Mr. Graves moved to suspend the rules and pass the bill.</text>
@@ -53,10 +56,15 @@
   <committees>
     <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW02" name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Government operations and politics"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Personnel records"/>
+    <term name="Tennessee Valley Authority"/>
   </subjects>
   <amendments/>
   <summary date="2025-01-16T21:13:06Z" status="Introduced in House"></summary>

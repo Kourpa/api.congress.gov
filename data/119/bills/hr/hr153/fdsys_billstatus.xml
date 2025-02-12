@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>153</number>
-    <updateDate>2025-01-17T11:56:32Z</updateDate>
-    <updateDateIncludingText>2025-01-17T11:56:32Z</updateDateIncludingText>
+    <updateDate>2025-02-12T09:00:48Z</updateDate>
+    <updateDateIncludingText>2025-02-12T09:00:48Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -23,6 +23,30 @@
           <item>
             <name>Referred To</name>
             <date>2025-01-15T17:37:43Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-01-04T14:09:53Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-01-03T16:12:20Z</date>
           </item>
         </activities>
       </item>
@@ -47,18 +71,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-01-03T16:12:25Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hspw00</systemCode>
-        <name>Transportation and Infrastructure Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-01-03T16:12:20Z</date>
           </item>
         </activities>
       </item>
@@ -187,6 +199,21 @@
         </sourceSystem>
       </item>
       <item>
+        <actionDate>2025-01-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
         <actionDate>2025-01-03</actionDate>
         <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Small Business, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
         <type>IntroReferral</type>
@@ -288,7 +315,7 @@
         <party>D</party>
         <state>VI</state>
         <middleName>E.</middleName>
-        <district/>
+        <district>0</district>
         <sponsorshipDate>2025-01-13</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
@@ -297,7 +324,24 @@
       <name>Emergency Management</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Disaster relief and insurance</name>
+          <updateDate>2025-01-23T15:43:23Z</updateDate>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+          <updateDate>2025-01-23T15:43:23Z</updateDate>
+        </item>
+        <item>
+          <name>Natural disasters</name>
+          <updateDate>2025-01-23T15:43:23Z</updateDate>
+        </item>
+        <item>
+          <name>Public-private cooperation</name>
+          <updateDate>2025-01-23T15:43:23Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Emergency Management</name>
         <updateDate>2025-01-16T18:27:24Z</updateDate>

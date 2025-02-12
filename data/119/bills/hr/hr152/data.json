@@ -19,6 +19,16 @@
       "type": "referral"
     },
     {
+      "acted_at": "2025-01-04",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+      "type": "referral"
+    },
+    {
       "acted_at": "2025-01-13T16:38:07-05:00",
       "action_code": "H30300",
       "references": [],
@@ -119,6 +129,15 @@
       ],
       "committee": "House Transportation and Infrastructure",
       "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management",
+      "subcommittee_id": "13"
     }
   ],
   "congress": "119",
@@ -135,7 +154,7 @@
     },
     {
       "bioguide_id": "P000610",
-      "district": null,
+      "district": "0",
       "name": "Plaskett, Stacey E.",
       "original_cosponsor": false,
       "sponsored_at": "2025-01-13",
@@ -171,7 +190,11 @@
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-01-13T19:03:56-05:00",
   "subjects": [
-    "Emergency management"
+    "Congressional oversight",
+    "Disaster relief and insurance",
+    "Emergency management",
+    "Government information and archives",
+    "Government studies and investigations"
   ],
   "subjects_top_term": "Emergency management",
   "summary": null,
@@ -212,6 +235,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-01-16T18:26:17Z",
+  "updated_at": "2025-02-12T09:01:10Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr152.xml"
 }

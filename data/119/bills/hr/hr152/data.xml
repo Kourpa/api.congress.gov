@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="152" updated="2025-01-16T18:26:17Z">
+<bill session="119" type="h" number="152" updated="2025-02-12T09:01:10Z">
   <state datetime="2025-01-13T19:03:56-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-01-13T19:03:56-05:00"/>
@@ -22,6 +22,9 @@
     </action>
     <action datetime="2025-01-03" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2025-01-04">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
     </action>
     <action datetime="2025-01-13T16:38:07-05:00">
       <text>Mr. Graves moved to suspend the rules and pass the bill.</text>
@@ -54,10 +57,15 @@
   <committees>
     <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Emergency management"/>
+    <term name="Congressional oversight"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
   </subjects>
   <amendments/>
 </bill>

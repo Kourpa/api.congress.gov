@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-06",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Health.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Veterans' Affairs",
       "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Health",
+      "subcommittee_id": "03"
     }
   ],
   "congress": "119",
@@ -132,6 +151,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-01-07",
       "state": "CO",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "D000530",
+      "district": "17",
+      "name": "Deluzio, Christopher R.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-11",
+      "state": "PA",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -312,6 +341,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-02-04",
       "state": "MN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "N000002",
+      "district": "12",
+      "name": "Nadler, Jerrold",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-11",
+      "state": "NY",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -597,6 +636,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-11T09:00:19Z",
+  "updated_at": "2025-02-12T09:01:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr211.xml"
 }

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="71" updated="2025-02-05T09:05:23Z">
+<bill session="119" type="h" number="71" updated="2025-02-12T09:01:09Z">
   <state datetime="2025-01-03">REFERRED</state>
   <status>
     <introduced datetime="2025-01-03"/>
@@ -31,13 +31,22 @@
     <action datetime="2025-01-03" state="REFERRED">
       <text>Referred to the House Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-02-06">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Hospital care"/>
+    <term name="Veterans' medical care"/>
   </subjects>
   <amendments/>
   <summary date="2025-02-03T17:27:36Z" status="Introduced in House"></summary>

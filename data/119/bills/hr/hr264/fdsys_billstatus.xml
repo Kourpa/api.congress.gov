@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>264</number>
-    <updateDate>2025-02-06T01:08:15Z</updateDate>
-    <updateDateIncludingText>2025-02-06T01:08:15Z</updateDateIncludingText>
+    <updateDate>2025-02-12T09:00:52Z</updateDate>
+    <updateDateIncludingText>2025-02-12T09:00:52Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,18 @@
         <name>Transportation and Infrastructure Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw14</systemCode>
+            <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-01-10T15:26:15Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -28,6 +40,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-01-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw14</systemCode>
+            <name>Railroads, Pipelines, and Hazardous Materials Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-09</actionDate>
         <text>Referred to the House Committee on Transportation and Infrastructure.</text>
@@ -181,8 +208,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-09</actionDate>
-      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      <actionDate>2025-01-10</actionDate>
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

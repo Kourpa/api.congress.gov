@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="880" updated="2025-02-07T09:02:30Z">
+<bill session="119" type="h" number="880" updated="2025-02-12T09:01:05Z">
   <state datetime="2025-01-31">REFERRED</state>
   <status>
     <introduced datetime="2025-01-31"/>
@@ -21,6 +21,7 @@
     <cosponsor bioguide_id="K000388" joined="2025-02-04"/>
     <cosponsor bioguide_id="M001204" joined="2025-02-04"/>
     <cosponsor bioguide_id="S001221" joined="2025-01-31"/>
+    <cosponsor bioguide_id="V000135" joined="2025-02-11"/>
     <cosponsor bioguide_id="V000136" joined="2025-02-06"/>
     <cosponsor bioguide_id="V000131" joined="2025-02-04"/>
   </cosponsors>
@@ -38,9 +39,13 @@
     <action datetime="2025-01-31" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2025-02-01">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW12" name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects/>

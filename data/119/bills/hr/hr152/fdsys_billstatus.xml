@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>152</number>
-    <updateDate>2025-01-16T18:26:17Z</updateDate>
-    <updateDateIncludingText>2025-01-16T18:26:17Z</updateDateIncludingText>
+    <updateDate>2025-02-12T09:01:10Z</updateDate>
+    <updateDateIncludingText>2025-02-12T09:01:10Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -31,6 +31,18 @@
         <name>Transportation and Infrastructure Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-01-04T14:09:38Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -163,6 +175,21 @@
         </sourceSystem>
       </item>
       <item>
+        <actionDate>2025-01-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
         <actionDate>2025-01-03</actionDate>
         <text>Referred to the House Committee on Transportation and Infrastructure.</text>
         <type>IntroReferral</type>
@@ -232,7 +259,7 @@
         <party>D</party>
         <state>VI</state>
         <middleName>E.</middleName>
-        <district/>
+        <district>0</district>
         <sponsorshipDate>2025-01-13</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
@@ -241,7 +268,24 @@
       <name>Emergency Management</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Congressional oversight</name>
+          <updateDate>2025-01-23T15:45:34Z</updateDate>
+        </item>
+        <item>
+          <name>Disaster relief and insurance</name>
+          <updateDate>2025-01-23T15:45:34Z</updateDate>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+          <updateDate>2025-01-23T15:45:34Z</updateDate>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+          <updateDate>2025-01-23T15:45:34Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Emergency Management</name>
         <updateDate>2025-01-16T18:26:17Z</updateDate>
