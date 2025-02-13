@@ -17,6 +17,37 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-12",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-12",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S932",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S932",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +58,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -48,9 +80,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-02-12",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-02-12",
     "vetoed": false
   },
   "introduced_at": "2025-01-08",
@@ -67,8 +102,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-08",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-02-12",
   "subjects": [
     "California",
     "Law",
@@ -78,34 +113,6 @@
   "subjects_top_term": "Law",
   "summary": null,
   "titles": [
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "LACA",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Local Access to Courts Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "LACA",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Local Access to Courts Act",
-      "type": "short"
-    },
     {
       "as": null,
       "is_for_portion": false,
@@ -117,10 +124,38 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "LACA",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Local Access to Courts Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "LACA",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Local Access to Courts Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "A bill to clarify where court may be held for certain district courts in Texas and California.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-13T05:23:18Z",
+  "updated_at": "2025-02-13T14:52:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s32.xml"
 }
