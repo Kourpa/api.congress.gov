@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="77" updated="2025-02-12T13:53:37Z">
-  <state datetime="2025-01-03">REFERRED</state>
+<bill session="119" type="h" number="77" updated="2025-02-13T09:06:50Z">
+  <state datetime="2025-02-12T17:02:53-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-03"/>
+    <unknown datetime="2025-02-12T17:02:53-05:00"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
@@ -17,6 +17,7 @@
     <cosponsor bioguide_id="G000576" joined="2025-01-03"/>
     <cosponsor bioguide_id="H001096" joined="2025-02-10"/>
     <cosponsor bioguide_id="H001099" joined="2025-02-10"/>
+    <cosponsor bioguide_id="H001100" joined="2025-02-12"/>
     <cosponsor bioguide_id="L000578" joined="2025-01-03"/>
     <cosponsor bioguide_id="M001218" joined="2025-02-10"/>
     <cosponsor bioguide_id="M001219" joined="2025-02-11"/>
@@ -39,10 +40,37 @@
     <action datetime="2025-02-11T14:01:00-05:00">
       <text>Rule H. Res. 122 passed House.</text>
     </action>
+    <action datetime="2025-02-12T15:32:36-05:00">
+      <text>Considered under the provisions of rule H. Res. 122.</text>
+    </action>
+    <action datetime="2025-02-12T15:32:41-05:00">
+      <text>Rule provides for consideration of H.R. 77 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2025-02-12T15:32:44-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 77.</text>
+    </action>
+    <action datetime="2025-02-12T16:28:14-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-02-12T16:28:42-05:00">
+      <text>Ms. Jacobs moved to recommit to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2025-02-12T16:28:58-05:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2025-02-12T16:55:02-05:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 205 - 213 (Roll no. 40).</text>
+    </action>
+    <vote how="roll" type="vote" roll="41" datetime="2025-02-12T17:02:53-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 212 - 208 (Roll no. 41).</text>
+    </vote>
+    <action datetime="2025-02-12T17:02:55-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Unknown, Unknown, Referred To"/>
     <committee code="HSRU" name="House Rules" subcommittee="" activity="Referred To"/>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="122" relation="procedurally-related"/>

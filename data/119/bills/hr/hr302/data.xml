@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="302" updated="2025-02-12T09:01:20Z">
-  <state datetime="2025-01-09">REFERRED</state>
+<bill session="119" type="h" number="302" updated="2025-02-13T09:05:45Z">
+  <state datetime="2025-02-12">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-09"/>
+    <unknown datetime="2025-02-12"/>
   </status>
   <introduced datetime="2025-01-09"/>
   <titles>
@@ -28,10 +28,16 @@
     <action datetime="2025-01-09">
       <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-02-12">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-02-12" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 22 - 16.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>
