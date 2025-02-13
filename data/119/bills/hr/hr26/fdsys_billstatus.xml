@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>26</number>
-    <updateDate>2025-02-11T11:56:21Z</updateDate>
-    <updateDateIncludingText>2025-02-11T11:56:21Z</updateDateIncludingText>
+    <updateDate>2025-02-13T03:08:15Z</updateDate>
+    <updateDateIncludingText>2025-02-13T03:08:15Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -296,26 +296,6 @@
         <actionDate>2025-01-03</actionDate>
         <text>Introduced in House</text>
         <type>IntroReferral</type>
-        <actionCode>Intro-H</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
-      </item>
-      <item>
-        <actionDate>2025-01-03</actionDate>
-        <text>Introduced in House</text>
-        <type>IntroReferral</type>
-        <actionCode>1000</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
-      </item>
-      <item>
-        <actionDate>2025-01-03</actionDate>
-        <text>Introduced in House</text>
-        <type>IntroReferral</type>
         <actionCode>1000</actionCode>
         <sourceSystem>
           <code>9</code>
@@ -547,7 +527,28 @@
       <name>Energy</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Congressional-executive branch relations</name>
+          <updateDate>2025-02-12T14:55:23Z</updateDate>
+        </item>
+        <item>
+          <name>Mining</name>
+          <updateDate>2025-02-12T14:55:23Z</updateDate>
+        </item>
+        <item>
+          <name>Oil and gas</name>
+          <updateDate>2025-02-12T14:55:23Z</updateDate>
+        </item>
+        <item>
+          <name>Presidents and presidential powers, Vice Presidents</name>
+          <updateDate>2025-02-12T14:55:23Z</updateDate>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+          <updateDate>2025-02-12T14:55:23Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Energy</name>
         <updateDate>2025-02-03T11:44:22Z</updateDate>
@@ -566,6 +567,16 @@
     </summaries>
     <title>Protecting American Energy Production Act</title>
     <titles>
+      <item>
+        <titleType>Short Titles from RFS (Referred to Senate) bill text</titleType>
+        <titleTypeCode>255</titleTypeCode>
+        <title>Protecting American Energy Production Act</title>
+        <updateDate>2025-02-13T03:08:15Z</updateDate>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Referred in Senate</billTextVersionName>
+        <billTextVersionCode>RFS</billTextVersionCode>
+      </item>
       <item>
         <titleType>Short Title(s) as Passed House</titleType>
         <titleTypeCode>104</titleTypeCode>
@@ -600,6 +611,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2025-02-10T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr26rfs/xml/BILLS-119hr26rfs.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Engrossed in House</type>
         <date>2025-02-07T05:00:00Z</date>
