@@ -17,6 +17,51 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-13T09:13:45-05:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres5-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 5.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-13T09:14:33-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 35.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-13T10:15:35-05:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-13T10:47:19-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "42",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 264 - 155 (Roll no. 42).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-02-13T10:47:20-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -358,16 +403,26 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-02-13T09:13:45-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-02-13T10:47:19-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-03",
   "number": "35",
   "official_title": "To impose criminal and immigration penalties for intentionally fleeing a pursuing Federal officer while operating a motor vehicle.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres5-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Agent Raul Gonzalez Officer Safety Act",
   "sponsor": {
     "bioguide_id": "C001133",
@@ -377,8 +432,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-03",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-02-13T10:47:19-05:00",
   "subjects": [
     "Border security and unlawful immigration",
     "Congressional oversight",
@@ -420,6 +475,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-14T04:23:16Z",
+  "updated_at": "2025-02-14T09:06:57Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr35.xml"
 }

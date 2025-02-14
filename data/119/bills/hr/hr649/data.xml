@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="649" updated="2025-02-12T09:01:11Z">
-  <state datetime="2025-01-23">REFERRED</state>
+<bill session="119" type="h" number="649" updated="2025-02-14T09:07:36Z">
+  <state datetime="2025-02-12">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-23"/>
+    <unknown datetime="2025-02-12"/>
   </status>
   <introduced datetime="2025-01-23"/>
   <titles>
@@ -32,6 +32,7 @@
     <cosponsor bioguide_id="C001059" joined="2025-01-23"/>
     <cosponsor bioguide_id="C001069" joined="2025-01-23"/>
     <cosponsor bioguide_id="C001119" joined="2025-01-23"/>
+    <cosponsor bioguide_id="C001087" joined="2025-02-13"/>
     <cosponsor bioguide_id="C001063" joined="2025-01-23"/>
     <cosponsor bioguide_id="D000629" joined="2025-02-04"/>
     <cosponsor bioguide_id="D000230" joined="2025-01-23"/>
@@ -44,6 +45,7 @@
     <cosponsor bioguide_id="F000471" joined="2025-01-23"/>
     <cosponsor bioguide_id="F000466" joined="2025-01-23"/>
     <cosponsor bioguide_id="F000459" joined="2025-01-23"/>
+    <cosponsor bioguide_id="F000450" joined="2025-02-13"/>
     <cosponsor bioguide_id="F000472" joined="2025-01-23"/>
     <cosponsor bioguide_id="F000469" joined="2025-01-23"/>
     <cosponsor bioguide_id="G000592" joined="2025-01-23"/>
@@ -62,6 +64,7 @@
     <cosponsor bioguide_id="J000302" joined="2025-01-23"/>
     <cosponsor bioguide_id="K000376" joined="2025-01-23"/>
     <cosponsor bioguide_id="K000388" joined="2025-01-23"/>
+    <cosponsor bioguide_id="L000578" joined="2025-02-13"/>
     <cosponsor bioguide_id="L000600" joined="2025-01-23"/>
     <cosponsor bioguide_id="L000599" joined="2025-01-23"/>
     <cosponsor bioguide_id="L000595" joined="2025-02-04"/>
@@ -79,6 +82,7 @@
     <cosponsor bioguide_id="M001236" joined="2025-02-10"/>
     <cosponsor bioguide_id="N000189" joined="2025-01-23"/>
     <cosponsor bioguide_id="N000193" joined="2025-01-31"/>
+    <cosponsor bioguide_id="O000177" joined="2025-02-13"/>
     <cosponsor bioguide_id="O000086" joined="2025-01-23"/>
     <cosponsor bioguide_id="P000613" joined="2025-01-23"/>
     <cosponsor bioguide_id="P000605" joined="2025-01-23"/>
@@ -101,6 +105,7 @@
     <cosponsor bioguide_id="S001201" joined="2025-02-07"/>
     <cosponsor bioguide_id="T000490" joined="2025-01-23"/>
     <cosponsor bioguide_id="T000478" joined="2025-01-23"/>
+    <cosponsor bioguide_id="T000193" joined="2025-02-13"/>
     <cosponsor bioguide_id="T000487" joined="2025-01-23"/>
     <cosponsor bioguide_id="T000469" joined="2025-01-23"/>
     <cosponsor bioguide_id="V000129" joined="2025-01-23"/>
@@ -125,9 +130,15 @@
     <action datetime="2025-01-23" state="REFERRED">
       <text>Referred to the House Committee on Education and Workforce.</text>
     </action>
+    <action datetime="2025-02-12">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-02-12" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 10.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

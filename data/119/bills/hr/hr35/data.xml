@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="35" updated="2025-02-14T04:23:16Z">
-  <state datetime="2025-01-03">REFERRED</state>
+<bill session="119" type="h" number="35" updated="2025-02-14T09:06:57Z">
+  <state datetime="2025-02-13T10:47:19-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-03"/>
+    <unknown datetime="2025-02-13T10:47:19-05:00"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
@@ -52,11 +52,28 @@
     <action datetime="2025-01-03" state="REFERRED">
       <text>Referred to the House Committee on the Judiciary.</text>
     </action>
+    <action datetime="2025-02-13T09:13:45-05:00">
+      <text>Considered under the provisions of rule H. Res. 5.</text>
+    </action>
+    <action datetime="2025-02-13T09:14:33-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 35.</text>
+    </action>
+    <action datetime="2025-02-13T10:15:35-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="42" datetime="2025-02-13T10:47:19-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 264 - 155 (Roll no. 42).</text>
+    </vote>
+    <action datetime="2025-02-13T10:47:20-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="5" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Crime and law enforcement"/>
     <term name="Border security and unlawful immigration"/>
