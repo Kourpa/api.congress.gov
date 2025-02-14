@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="35" updated="2025-02-14T09:06:57Z">
+<bill session="119" type="h" number="35" updated="2025-02-14T14:12:34Z">
   <state datetime="2025-02-13T10:47:19-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-02-13T10:47:19-05:00"/>
@@ -54,6 +54,7 @@
     </action>
     <action datetime="2025-02-13T09:13:45-05:00">
       <text>Considered under the provisions of rule H. Res. 5.</text>
+      <reference ref="CR H682-691" label="consideration"/>
     </action>
     <action datetime="2025-02-13T09:14:33-05:00">
       <text>DEBATE - The House proceeded with one hour of debate on H.R. 35.</text>
@@ -63,12 +64,17 @@
     </action>
     <vote how="roll" type="vote" roll="42" datetime="2025-02-13T10:47:19-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On passage Passed by the Yeas and Nays: 264 - 155 (Roll no. 42).</text>
+      <reference ref="CR H683" label="text"/>
     </vote>
     <action datetime="2025-02-13T10:47:20-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-02-13">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>

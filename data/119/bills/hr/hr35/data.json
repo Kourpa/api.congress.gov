@@ -24,7 +24,12 @@
       "bill_ids": [
         "hres5-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H682-691",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 5.",
       "type": "action"
     },
@@ -46,7 +51,12 @@
       "acted_at": "2025-02-13T10:47:19-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H683",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "42",
       "status": "PASS_OVER:HOUSE",
@@ -62,6 +72,16 @@
       "references": [],
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-02-13",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Read twice and referred to the Committee on the Judiciary.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -70,6 +90,13 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Judiciary",
+      "committee_id": "SSJU"
+    },
     {
       "activity": [
         "Referred To"
@@ -475,6 +502,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-14T09:06:57Z",
+  "updated_at": "2025-02-14T14:12:34Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr35.xml"
 }
