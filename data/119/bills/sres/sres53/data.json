@@ -22,6 +22,28 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on Foreign Relations.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-19",
+      "action_code": "",
+      "committees": [
+        "SSFR"
+      ],
+      "references": [],
+      "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-19",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -32,6 +54,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Foreign Relations",
@@ -47,6 +70,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-02-04",
       "state": "IN",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "B001243",
+      "district": null,
+      "name": "Blackburn, Marsha",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-19",
+      "state": "TN",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -67,6 +100,26 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-02-04",
       "state": "AR",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "B001305",
+      "district": null,
+      "name": "Budd, Ted",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-19",
+      "state": "NC",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001047",
+      "district": null,
+      "name": "Capito, Shelley Moore",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-19",
+      "state": "WV",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -201,6 +254,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "K000377",
+      "district": null,
+      "name": "Kelly, Mark",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-19",
+      "state": "AZ",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "K000383",
       "district": null,
       "name": "King, Angus S., Jr.",
@@ -221,12 +284,32 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "M000934",
+      "district": null,
+      "name": "Moran, Jerry",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-19",
+      "state": "KS",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "R000122",
       "district": null,
       "name": "Reed, Jack",
       "original_cosponsor": true,
       "sponsored_at": "2025-02-04",
       "state": "RI",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "R000618",
+      "district": null,
+      "name": "Ricketts, Pete",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-19",
+      "state": "NE",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -277,6 +360,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-02-04",
       "state": "FL",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S001181",
+      "district": null,
+      "name": "Shaheen, Jeanne",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-19",
+      "state": "NH",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -339,13 +432,26 @@
       "state": "MA",
       "title": "Sen.",
       "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "W000437",
+      "district": null,
+      "name": "Wicker, Roger F.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-19",
+      "state": "MS",
+      "title": "Sen.",
+      "withdrawn_at": null
     }
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-02-19",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-02-19",
     "vetoed": false
   },
   "introduced_at": "2025-02-04",
@@ -362,8 +468,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-04",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-02-19",
   "subjects": [
     "Armed forces and national security"
   ],
@@ -385,6 +491,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-19T18:24:58Z",
+  "updated_at": "2025-02-20T11:56:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres53.xml"
 }

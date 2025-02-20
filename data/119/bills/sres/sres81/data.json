@@ -131,6 +131,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "L000575",
+      "district": null,
+      "name": "Lankford, James",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-19",
+      "state": "OK",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "L000571",
       "district": null,
       "name": "Lummis, Cynthia M.",
@@ -182,7 +192,14 @@
   "number": "81",
   "official_title": "A resolution calling on the United Kingdom, France, and Germany (E3) to initiate the snapback of sanctions on Iran under United Nations Security Council Resolution 2231 (2015).",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres139-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "R000618",
@@ -194,8 +211,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-02-13",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "International affairs"
+  ],
+  "subjects_top_term": "International affairs",
   "summary": null,
   "titles": [
     {
@@ -213,6 +232,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-15T05:18:37Z",
+  "updated_at": "2025-02-20T14:54:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres81.xml"
 }
