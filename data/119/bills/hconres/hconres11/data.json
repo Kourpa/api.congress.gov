@@ -67,6 +67,13 @@
       "type": "vote",
       "vote_type": "vote2",
       "where": "s"
+    },
+    {
+      "acted_at": "2025-02-20",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -105,8 +112,10 @@
   },
   "status": "PASSED:CONCURRENTRES",
   "status_at": "2025-02-19",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Congress"
+  ],
+  "subjects_top_term": "Congress",
   "summary": null,
   "titles": [
     {
@@ -124,6 +133,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-20T15:11:32Z",
+  "updated_at": "2025-02-21T14:54:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres11.xml"
 }
