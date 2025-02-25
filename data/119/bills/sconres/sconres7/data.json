@@ -63,7 +63,12 @@
     {
       "acted_at": "2025-02-20",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1061-1063, S1075-1119",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -71,7 +76,12 @@
       "acted_at": "2025-02-21",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1119-1125",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "87",
       "status": "PASS_OVER:SENATE",
@@ -6953,6 +6963,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-22T12:08:28Z",
+  "updated_at": "2025-02-24T14:59:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sconres/BILLSTATUS-119sconres7.xml"
 }
