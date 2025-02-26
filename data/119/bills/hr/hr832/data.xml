@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="832" updated="2025-02-24T12:02:44Z">
-  <state datetime="2025-01-31">REFERRED</state>
+<bill session="119" type="h" number="832" updated="2025-02-25T15:30:49Z">
+  <state datetime="2025-02-24T19:03:08-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-31"/>
+    <unknown datetime="2025-02-24T19:03:08-05:00"/>
   </status>
   <introduced datetime="2025-01-31"/>
   <titles>
@@ -22,6 +22,30 @@
     <action datetime="2025-01-31" state="REFERRED">
       <text>Referred to the House Committee on Small Business.</text>
     </action>
+    <action datetime="2025-02-24T16:15:03-05:00">
+      <text>Mr. Williams (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-02-24T16:15:05-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H739-740" label="consideration"/>
+    </action>
+    <action datetime="2025-02-24T16:15:06-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 832.</text>
+    </action>
+    <action datetime="2025-02-24T16:24:50-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2025-02-24T18:56:14-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H749" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="44" datetime="2025-02-24T19:03:08-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 15 (Roll no. 44).</text>
+      <reference ref="CR H739" label="text"/>
+    </vote>
+    <action datetime="2025-02-24T19:03:09-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Referred To"/>
@@ -31,4 +55,5 @@
     <term name="Commerce"/>
   </subjects>
   <amendments/>
+  <summary date="2025-02-24T20:17:11Z" status="Introduced in House"></summary>
 </bill>

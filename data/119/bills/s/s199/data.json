@@ -36,6 +36,16 @@
   "congress": "119",
   "cosponsors": [
     {
+      "bioguide_id": "B001267",
+      "district": null,
+      "name": "Bennet, Michael F.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-24",
+      "state": "CO",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "B001243",
       "district": null,
       "name": "Blackburn, Marsha",
@@ -72,6 +82,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-02-03",
       "state": "TX",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001114",
+      "district": null,
+      "name": "Curtis, John R.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-24",
+      "state": "UT",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -257,7 +277,14 @@
   "number": "199",
   "official_title": "A bill to amend the Internal Revenue Code of 1986 to provide special rules for the taxation of certain residents of Taiwan with income from sources within the United States.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hr33-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "C000880",
@@ -269,8 +296,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-01-23",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Taxation"
+  ],
+  "subjects_top_term": "Taxation",
   "summary": null,
   "titles": [
     {
@@ -302,6 +331,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-22T06:23:24Z",
+  "updated_at": "2025-02-25T20:52:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s199.xml"
 }

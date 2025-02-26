@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="187" updated="2025-02-21T03:38:20Z">
+<bill session="119" type="s" number="187" updated="2025-02-25T20:44:01Z">
   <state datetime="2025-01-22">REFERRED</state>
   <status>
     <introduced datetime="2025-01-22"/>
@@ -36,7 +36,11 @@
   <committees>
     <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="574" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
   <amendments/>
 </bill>

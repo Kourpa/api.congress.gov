@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="825" updated="2025-02-24T11:54:02Z">
-  <state datetime="2025-01-28">REFERRED</state>
+<bill session="119" type="h" number="825" updated="2025-02-25T15:27:28Z">
+  <state datetime="2025-02-24T18:56:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-28"/>
+    <unknown datetime="2025-02-24T18:56:00-05:00"/>
   </status>
   <introduced datetime="2025-01-28"/>
   <titles>
@@ -11,6 +11,7 @@
   </titles>
   <sponsor bioguide_id="W000816"/>
   <cosponsors>
+    <cosponsor bioguide_id="G000604" joined="2025-02-24"/>
     <cosponsor bioguide_id="M000687" joined="2025-01-28"/>
     <cosponsor bioguide_id="S001231" joined="2025-01-28"/>
   </cosponsors>
@@ -21,6 +22,30 @@
     <action datetime="2025-01-28" state="REFERRED">
       <text>Referred to the House Committee on Small Business.</text>
     </action>
+    <action datetime="2025-02-24T16:01:18-05:00">
+      <text>Mr. Williams (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-02-24T16:01:36-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H737-739" label="consideration"/>
+    </action>
+    <action datetime="2025-02-24T16:01:38-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 825.</text>
+    </action>
+    <action datetime="2025-02-24T16:14:38-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2025-02-24T18:31:37-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H748" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="43" datetime="2025-02-24T18:56:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 43).</text>
+      <reference ref="CR H737" label="text"/>
+    </vote>
+    <action datetime="2025-02-24T18:56:01-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Referred To"/>
@@ -28,6 +53,12 @@
   <relatedbills/>
   <subjects>
     <term name="Commerce"/>
+    <term name="Credit and credit markets"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Small business"/>
   </subjects>
   <amendments/>
+  <summary date="2025-02-24T19:53:08Z" status="Introduced in House"></summary>
 </bill>

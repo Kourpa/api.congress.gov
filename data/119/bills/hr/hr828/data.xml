@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="828" updated="2025-02-24T12:11:54Z">
-  <state datetime="2025-01-28">REFERRED</state>
+<bill session="119" type="h" number="828" updated="2025-02-25T16:00:01Z">
+  <state datetime="2025-02-24T17:20:05-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-28"/>
+    <unknown datetime="2025-02-24T17:20:05-05:00"/>
   </status>
   <introduced datetime="2025-01-28"/>
   <titles>
@@ -14,6 +14,7 @@
   <cosponsors>
     <cosponsor bioguide_id="A000379" joined="2025-01-28"/>
     <cosponsor bioguide_id="C001136" joined="2025-01-28"/>
+    <cosponsor bioguide_id="G000604" joined="2025-02-24"/>
   </cosponsors>
   <actions>
     <action datetime="2025-01-28">
@@ -22,6 +23,23 @@
     <action datetime="2025-01-28" state="REFERRED">
       <text>Referred to the House Committee on Small Business.</text>
     </action>
+    <action datetime="2025-02-24T17:09:11-05:00">
+      <text>Mr. Williams (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-02-24T17:09:26-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H746-748" label="consideration"/>
+    </action>
+    <action datetime="2025-02-24T17:09:28-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 828.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-02-24T17:20:05-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H746" label="text"/>
+    </vote>
+    <action datetime="2025-02-24T17:20:07-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Referred To"/>
@@ -29,6 +47,12 @@
   <relatedbills/>
   <subjects>
     <term name="Commerce"/>
+    <term name="Congressional oversight"/>
+    <term name="Credit and credit markets"/>
+    <term name="Government studies and investigations"/>
+    <term name="Small business"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
   </subjects>
   <amendments/>
+  <summary date="2025-02-24T20:14:31Z" status="Introduced in House"></summary>
 </bill>

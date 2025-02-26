@@ -17,6 +17,43 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Small Business.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-24T17:00:12-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Williams (TX) moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-24T17:00:14-05:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H745-746",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H746",
+          "type": "text"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-24T17:00:16-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 804.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-24T17:08:57-05:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -56,6 +93,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "G000604",
+      "district": "2",
+      "name": "Goodlander, Maggie",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-24",
+      "state": "NH",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "P000614",
       "district": "1",
       "name": "Pappas, Chris",
@@ -68,7 +115,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-02-24T17:00:12-05:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -90,10 +138,18 @@
   "status": "REFERRED",
   "status_at": "2025-01-28",
   "subjects": [
-    "Commerce"
+    "Commerce",
+    "Disaster relief and insurance",
+    "Rural conditions and development",
+    "Small business"
   ],
   "subjects_top_term": "Commerce",
-  "summary": null,
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2025-01-28",
+    "date": "2025-02-24T18:01:02Z",
+    "text": ""
+  },
   "titles": [
     {
       "as": null,
@@ -117,6 +173,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-24T11:58:47Z",
+  "updated_at": "2025-02-25T16:03:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr804.xml"
 }
