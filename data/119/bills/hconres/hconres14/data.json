@@ -2,6 +2,13 @@
   "actions": [
     {
       "acted_at": "2025-02-18",
+      "action_code": "H12100",
+      "references": [],
+      "text": "Submitted in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-18",
       "action_code": "1010",
       "references": [],
       "text": "Reported in House",
@@ -26,9 +33,146 @@
       "text": "Placed on the Union Calendar, Calendar No. 1.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-02-25T10:35:04-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres161-119",
+        "hjres20-119",
+        "hjres35-119",
+        "hcres14-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 161 Reported to House. Rule provides for consideration of H.J. Res. 20, H.J. Res. 35 and H. Con. Res. 14. The resolution provides for consideration of two joint resolutions, H.J.Res.20, under a closed rule and H.J.Res. 35, under a closed rule. Also, the resolution provides for consideration of H. Con. Res. 14, under a closed rule. The joint resolutions are debated for one hour each and the concurrent resolution is debated for 3 hours.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T14:09:10-05:00",
+      "action_code": "H1L220",
+      "bill_ids": [
+        "hres161-119"
+      ],
+      "references": [],
+      "text": "Rule H. Res. 161 passed House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T14:09:48-05:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres161-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 161.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T14:09:53-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hjres20-119",
+        "hjres35-119",
+        "hcres14-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.J. Res. 20, H.J. Res. 35 and H. Con. Res. 14. The resolution provides for consideration of two joint resolutions, H.J.Res.20, under a closed rule and H.J.Res. 35, under a closed rule. Also, the resolution provides for consideration of H. Con. Res. 14, under a closed rule. The joint resolutions are debated for one hour each and the concurrent resolution is debated for 3 hours.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T14:15:24-05:00",
+      "action_code": "H32020",
+      "bill_ids": [
+        "hres161-119"
+      ],
+      "references": [],
+      "text": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 161 and Rule XVIII.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T14:15:25-05:00",
+      "action_code": "H32400",
+      "references": [],
+      "text": "The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T14:16:27-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hcres14-119"
+      ],
+      "references": [],
+      "text": "GENERAL DEBATE - The Committee of the Whole proceeded with three hours of general debate on H. Con. Res. 14.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T18:14:22-05:00",
+      "action_code": "H32600",
+      "bill_ids": [
+        "hcres14-119"
+      ],
+      "references": [],
+      "text": "The House rose from the Committee of the Whole House on the state of the Union to report H. Con. Res. 14.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T18:15:02-05:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T18:15:38-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hcres14-119"
+      ],
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - The Chair announced pursuant to clause 1(c) of rule XIX, further consideration on H. Con. Res. 14 is postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T19:40:52-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hcres14-119"
+      ],
+      "references": [],
+      "text": "Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H. Con. Res. 14.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T19:40:53-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25T20:22:05-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "50",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On agreeing to the resolution, as amended Agreed to by the Yeas and Nays: 217 - 215 (Roll no. 50).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt6-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "6"
+    }
+  ],
   "bill_id": "hconres14-119",
   "bill_type": "hconres",
   "by_request": false,
@@ -52,6 +196,8 @@
     "active_at": "2025-02-18",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-02-25T20:22:05-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-18",
@@ -64,6 +210,12 @@
       "identified_by": "House",
       "reason": "related",
       "type": "bill"
+    },
+    {
+      "bill_id": "hres161-119",
+      "identified_by": "House",
+      "reason": "procedurally-related",
+      "type": "bill"
     }
   ],
   "short_title": null,
@@ -75,8 +227,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "INTRODUCED",
-  "status_at": "2025-02-18",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-02-25T20:22:05-05:00",
   "subjects": [
     "Budget deficits and national debt",
     "Budget process",
@@ -107,6 +259,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-25T13:57:27Z",
+  "updated_at": "2025-02-26T09:35:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres14.xml"
 }

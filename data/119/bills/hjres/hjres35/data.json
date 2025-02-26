@@ -17,6 +17,18 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-25T10:35:04-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres161-119",
+        "hjres20-119",
+        "hcres14-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 161 Reported to House. Rule provides for consideration of H.J. Res. 20, H.J. Res. 35 and H. Con. Res. 14. The resolution provides for consideration of two joint resolutions, H.J.Res.20, under a closed rule and H.J.Res. 35, under a closed rule. Also, the resolution provides for consideration of H. Con. Res. 14, under a closed rule. The joint resolutions are debated for one hour each and the concurrent resolution is debated for 3 hours.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -102,6 +114,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-02-04",
       "state": "CO",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "F000482",
+      "district": "0",
+      "name": "Fedorchak, Julie",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-25",
+      "state": "ND",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -218,7 +240,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-02-25T10:35:04-05:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -232,6 +255,12 @@
       "bill_id": "sjres12-119",
       "identified_by": "CRS",
       "reason": "identical",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hres161-119",
+      "identified_by": "House",
+      "reason": "related",
       "type": "bill"
     }
   ],
@@ -272,6 +301,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-25T09:06:03Z",
+  "updated_at": "2025-02-26T09:35:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres35.xml"
 }
