@@ -37,6 +37,48 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 15.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-02-25",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S1322",
+          "type": null
+        }
+      ],
+      "text": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 91.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S1322-1324, S1332-1333",
+          "type": "consideration"
+        }
+      ],
+      "text": "Measure laid before Senate by motion.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-25",
+      "action_code": "",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR S1333",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "roll": "92",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 54 - 44. Record Vote Number: 92.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -83,6 +125,8 @@
     "active_at": "2025-02-24",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-02-25",
     "vetoed": false
   },
   "introduced_at": "2025-02-04",
@@ -99,8 +143,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-04",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-02-25",
   "subjects": [
     "Public lands and natural resources"
   ],
@@ -122,6 +166,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-25T19:55:07Z",
+  "updated_at": "2025-02-26T13:55:00Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres11.xml"
 }
