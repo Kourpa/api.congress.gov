@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>10</number>
-    <updateDate>2025-02-20T19:54:57Z</updateDate>
-    <updateDateIncludingText>2025-02-20T19:54:57Z</updateDateIncludingText>
+    <updateDate>2025-02-27T12:59:54Z</updateDate>
+    <updateDateIncludingText>2025-02-27T12:59:54Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SJRES</type>
@@ -18,6 +18,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-02-26T16:10:27Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-02-03T21:28:18Z</date>
           </item>
@@ -25,6 +29,74 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-02-26</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Failed of passage in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 95. (consideration: CR S1364, S1367-1390)</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>95</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00095.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2025-02-26T23:10:02Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-02-26</actionDate>
+        <text>Failed of passage/not agreed to in Senate: Failed of passage in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 95.</text>
+        <type>Floor</type>
+        <actionCode>18000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>95</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00095.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2025-02-26T23:10:02Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-02-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent pursuant to the order of 02/18/2025.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-02-26</actionDate>
+        <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent pursuant to the order of 02/18/2025.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-02-03</actionDate>
         <committees>
@@ -228,8 +300,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-03</actionDate>
-      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2025-02-26</actionDate>
+      <text>Failed of passage in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 95. (consideration: CR S1364, S1367-1390)</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -17,6 +17,34 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-26",
+      "action_code": "",
+      "committees": [
+        "SSEG"
+      ],
+      "references": [],
+      "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent pursuant to the order of 02/18/2025.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-26",
+      "action_code": "",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR S1364, S1367-1390",
+          "type": "consideration"
+        }
+      ],
+      "result": "fail",
+      "roll": "95",
+      "status": "FAIL:ORIGINATING:SENATE",
+      "text": "Failed of passage in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 95.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +55,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Energy and Natural Resources",
@@ -148,9 +177,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-02-26",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "fail",
+    "senate_passage_result_at": "2025-02-26",
     "vetoed": false
   },
   "introduced_at": "2025-02-03",
@@ -167,8 +199,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-03",
+  "status": "FAIL:ORIGINATING:SENATE",
+  "status_at": "2025-02-26",
   "subjects": [
     "Emergency management"
   ],
@@ -195,6 +227,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-20T19:54:57Z",
+  "updated_at": "2025-02-27T12:59:54Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres10.xml"
 }
