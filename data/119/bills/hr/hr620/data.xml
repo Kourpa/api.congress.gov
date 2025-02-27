@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="620" updated="2025-02-21T06:53:21Z">
+<bill session="119" type="h" number="620" updated="2025-02-27T16:51:24Z">
   <state datetime="2025-01-22">REFERRED</state>
   <status>
     <introduced datetime="2025-01-22"/>
@@ -51,7 +51,11 @@
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="179" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+  </subjects>
   <amendments/>
 </bill>
