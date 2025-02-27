@@ -27,6 +27,27 @@
       "references": [],
       "text": "Referred to the Subcommittee on Water Resources and Environment.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-26",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Subcommittee on Water Resources and Environment Discharged",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-26",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 13.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -37,6 +58,7 @@
   "committees": [
     {
       "activity": [
+        "discharged",
         "Referred To"
       ],
       "committee": "House Transportation and Infrastructure",
@@ -54,6 +76,16 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "D000623",
+      "district": "10",
+      "name": "DeSaulnier, Mark",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-26",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "G000559",
       "district": "8",
@@ -107,7 +139,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-02-26",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -126,8 +159,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-14",
+  "status": "REPORTED",
+  "status_at": "2025-02-26",
   "subjects": [
     "Environmental protection"
   ],
@@ -149,6 +182,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-25T09:05:19Z",
+  "updated_at": "2025-02-27T09:05:54Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1382.xml"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1071" updated="2025-02-25T09:05:31Z">
-  <state datetime="2025-02-06">REFERRED</state>
+<bill session="119" type="h" number="1071" updated="2025-02-27T09:06:27Z">
+  <state datetime="2025-02-26">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-06"/>
+    <unknown datetime="2025-02-26"/>
   </status>
   <introduced datetime="2025-02-06"/>
   <titles>
@@ -11,6 +11,7 @@
   <sponsor bioguide_id="I000056"/>
   <cosponsors>
     <cosponsor bioguide_id="B001322" joined="2025-02-06"/>
+    <cosponsor bioguide_id="C001118" joined="2025-02-26"/>
     <cosponsor bioguide_id="G000603" joined="2025-02-06"/>
     <cosponsor bioguide_id="H001095" joined="2025-02-24"/>
     <cosponsor bioguide_id="S000168" joined="2025-02-06"/>
@@ -22,9 +23,15 @@
     <action datetime="2025-02-06" state="REFERRED">
       <text>Referred to the House Committee on the Judiciary.</text>
     </action>
+    <action datetime="2025-02-26">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-02-26" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

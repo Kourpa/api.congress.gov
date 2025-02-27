@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1382" updated="2025-02-25T09:05:19Z">
-  <state datetime="2025-02-14">REFERRED</state>
+<bill session="119" type="h" number="1382" updated="2025-02-27T09:05:54Z">
+  <state datetime="2025-02-26">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-14"/>
+    <unknown datetime="2025-02-26"/>
   </status>
   <introduced datetime="2025-02-14"/>
   <titles>
@@ -10,6 +10,7 @@
   </titles>
   <sponsor bioguide_id="H001068"/>
   <cosponsors>
+    <cosponsor bioguide_id="D000623" joined="2025-02-26"/>
     <cosponsor bioguide_id="G000559" joined="2025-02-24"/>
     <cosponsor bioguide_id="K000389" joined="2025-02-24"/>
     <cosponsor bioguide_id="M001225" joined="2025-02-14"/>
@@ -26,9 +27,15 @@
     <action datetime="2025-02-15">
       <text>Referred to the Subcommittee on Water Resources and Environment.</text>
     </action>
+    <action datetime="2025-02-26">
+      <text>Subcommittee on Water Resources and Environment Discharged</text>
+    </action>
+    <action datetime="2025-02-26" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 13.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Discharged, Referred To"/>
     <committee code="HSPW02" name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral"/>
   </committees>
   <relatedbills/>

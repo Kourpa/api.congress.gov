@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-26",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-26",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Judiciary",
@@ -35,6 +57,16 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "B001302",
+      "district": "5",
+      "name": "Biggs, Andy",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-26",
+      "state": "AZ",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "B001317",
       "district": "2",
@@ -52,6 +84,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-01-31",
       "state": "MO",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001118",
+      "district": "6",
+      "name": "Cline, Ben",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-26",
+      "state": "VA",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -216,6 +258,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "T000165",
+      "district": "7",
+      "name": "Tiffany, Thomas P.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-02-26",
+      "state": "WI",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "V000133",
       "district": "2",
       "name": "Van Drew, Jefferson",
@@ -238,7 +290,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-02-26",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -257,8 +310,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-31",
+  "status": "REPORTED",
+  "status_at": "2025-02-26",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -278,6 +331,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-07T09:01:35Z",
+  "updated_at": "2025-02-27T09:06:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr875.xml"
 }
