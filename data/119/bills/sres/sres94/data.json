@@ -28,6 +28,27 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-02-27",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S1434",
+          "type": "consideration"
+        },
+        {
+          "reference": "02/25/2025 CR S1352-1358",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -52,6 +73,8 @@
     "active_at": "2025-02-25",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-02-27",
     "vetoed": false
   },
   "introduced_at": "2025-02-25",
@@ -68,8 +91,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-02-25",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-02-27",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -89,6 +112,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-26T11:56:19Z",
+  "updated_at": "2025-02-28T13:26:52Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres94.xml"
 }

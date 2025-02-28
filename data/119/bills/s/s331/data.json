@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-27",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -278,7 +290,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-02-27",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -304,8 +317,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-30",
+  "status": "REPORTED",
+  "status_at": "2025-02-27",
   "subjects": [
     "Crime and law enforcement"
   ],
@@ -341,6 +354,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-21T15:44:18Z",
+  "updated_at": "2025-02-28T12:03:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s331.xml"
 }

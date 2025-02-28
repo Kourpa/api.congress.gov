@@ -121,6 +121,31 @@
       "references": [],
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-02-27",
+      "action_code": "",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR S1419",
+          "type": "consideration"
+        }
+      ],
+      "result": "pass",
+      "roll": "97",
+      "status": "PASSED:BILL",
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 97.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-02-27",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -338,6 +363,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-02-26T16:45:30-05:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-02-27",
     "vetoed": false
   },
   "introduced_at": "2025-02-04",
@@ -367,8 +394,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-02-26T16:45:30-05:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-02-27",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Air quality",
@@ -400,6 +427,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-28T09:06:49Z",
+  "updated_at": "2025-02-28T13:19:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres35.xml"
 }
