@@ -36,7 +36,12 @@
       "bill_ids": [
         "hres161-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H884-889",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 161.",
       "type": "action"
     },
@@ -69,7 +74,12 @@
       "acted_at": "2025-02-27T10:29:11-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H884",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "53",
       "status": "PASS_OVER:HOUSE",
@@ -464,6 +474,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-28T09:06:47Z",
+  "updated_at": "2025-02-28T17:13:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres20.xml"
 }
