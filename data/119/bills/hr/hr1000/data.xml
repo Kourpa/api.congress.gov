@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1000" updated="2025-02-26T09:06:39Z">
-  <state datetime="2025-02-05">REFERRED</state>
+<bill session="119" type="h" number="1000" updated="2025-02-28T09:05:56Z">
+  <state datetime="2025-02-26">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-05"/>
+    <unknown datetime="2025-02-26"/>
   </status>
   <introduced datetime="2025-02-05"/>
   <titles>
@@ -35,10 +35,16 @@
     <action datetime="2025-02-05">
       <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-02-26">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-02-26" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 17 - 8.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

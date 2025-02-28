@@ -27,7 +27,63 @@
         "hcres14-119"
       ],
       "references": [],
-      "text": "Rules Committee Resolution H. Res. 161 Reported to House. Rule provides for consideration of H.J. Res. 20, H.J. Res. 35 and H. Con. Res. 14. The resolution provides for consideration of two joint resolutions, H.J.Res.20, under a closed rule and H.J.Res. 35, under a closed rule. Also, the resolution provides for consideration of H. Con. Res. 14, under a closed rule. The joint resolutions are debated for one hour each and the concurrent resolution is debated for 3 hours.",
+      "text": "Rules Committee Resolution H. Res. 161 Reported to House. Rule provides for consideration of H.J. Res. 20, H.J. Res. 35 and H. Con. Res. 14. The resolution provides for consideration of two joint resolutions, H.J.Res.20, under a closed rule and H.J.Res. 35, under a closed rule. Also, the resolution provides for consideration of H. Con. Res. 14, under a closed rule. The joint resolutions are debatable for one hour each and the concurrent resolution is debatable for 3 hours.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-27T09:12:58-05:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres161-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 161.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-27T09:13:03-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hjres35-119",
+        "hcres14-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.J. Res. 20, H.J. Res. 35 and H. Con. Res. 14. The resolution provides for consideration of two joint resolutions, H.J.Res.20, under a closed rule and H.J.Res. 35, under a closed rule. Also, the resolution provides for consideration of H. Con. Res. 14, under a closed rule. The joint resolutions are debated for one hour each and the concurrent resolution is debated for 3 hours.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-27T09:13:50-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 20.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-27T09:51:31-05:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-27T10:29:11-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "53",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 221 - 198, 2 Present (Roll no. 53).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-02-27T10:29:13-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
     }
   ],
@@ -344,6 +400,8 @@
     "active_at": "2025-02-25T10:35:04-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-02-27T10:29:11-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-15",
@@ -373,8 +431,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-15",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-02-27T10:29:11-05:00",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Department of Energy",
@@ -406,6 +464,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-26T22:41:12Z",
+  "updated_at": "2025-02-28T09:06:47Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres20.xml"
 }
