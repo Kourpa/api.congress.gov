@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1335" updated="2025-02-14T09:35:21Z">
+<bill session="119" type="h" number="1335" updated="2025-03-01T09:06:19Z">
   <state datetime="2025-02-13">REFERRED</state>
   <status>
     <introduced datetime="2025-02-13"/>
@@ -23,9 +23,17 @@
     <action datetime="2025-02-13">
       <text>Referred to the Committee on Education and Workforce, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-02-13">
+      <text>Referred to the Subcommittee on Counterterrorism, Law Enforcement, and Intelligence.</text>
+    </action>
+    <action datetime="2025-02-13">
+      <text>Referred to the Subcommittee on Emergency Management and Technology.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism and Intelligence" activity="Referral"/>
+    <committee code="HSHM12" name="House Homeland Security" subcommittee="Emergency Management and Technology" activity="Referral"/>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

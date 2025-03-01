@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1000" updated="2025-02-28T09:05:56Z">
+<bill session="119" type="h" number="1000" updated="2025-03-01T09:06:20Z">
   <state datetime="2025-02-26">REPORTED</state>
   <status>
     <unknown datetime="2025-02-26"/>
@@ -35,6 +35,9 @@
     <action datetime="2025-02-05">
       <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-02-05">
+      <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+    </action>
     <action datetime="2025-02-26">
       <text>Committee Consideration and Mark-up Session Held</text>
     </action>
@@ -44,6 +47,7 @@
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSHM08" name="House Homeland Security" subcommittee="Cybersecurity and Infrastructure Protection" activity="Referral"/>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

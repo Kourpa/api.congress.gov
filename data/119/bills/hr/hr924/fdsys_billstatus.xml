@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>924</number>
-    <updateDate>2025-02-08T09:01:44Z</updateDate>
-    <updateDateIncludingText>2025-02-08T09:01:44Z</updateDateIncludingText>
+    <updateDate>2025-03-01T09:06:22Z</updateDate>
+    <updateDateIncludingText>2025-03-01T09:06:22Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,30 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>hshm00</systemCode>
+        <name>Homeland Security Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-02-04T18:12:15Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-02-04T17:08:35Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hlig00</systemCode>
         <name>Intelligence (Permanent Select) Committee</name>
         <chamber>House</chamber>
@@ -23,18 +47,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-02-04T17:08:40Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hshm00</systemCode>
-        <name>Homeland Security Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-02-04T17:08:35Z</date>
           </item>
         </activities>
       </item>
@@ -64,6 +76,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-02-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-02-04</actionDate>
         <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -1176,7 +1203,7 @@
     </titles>
     <latestAction>
       <actionDate>2025-02-04</actionDate>
-      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

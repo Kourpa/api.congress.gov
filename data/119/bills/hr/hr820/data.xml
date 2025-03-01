@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="820" updated="2025-02-26T06:53:21Z">
+<bill session="119" type="h" number="820" updated="2025-03-01T09:06:20Z">
   <state datetime="2025-01-28">REFERRED</state>
   <status>
     <introduced datetime="2025-01-28"/>
@@ -36,9 +36,13 @@
     <action datetime="2025-01-28" state="REFERRED">
       <text>Referred to the House Committee on Homeland Security.</text>
     </action>
+    <action datetime="2025-01-28">
+      <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM07" name="House Homeland Security" subcommittee="Transportation and Maritime Security" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects/>

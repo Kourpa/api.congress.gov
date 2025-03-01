@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1327" updated="2025-02-25T09:06:14Z">
+<bill session="119" type="h" number="1327" updated="2025-03-01T09:06:19Z">
   <state datetime="2025-02-13">REFERRED</state>
   <status>
     <introduced datetime="2025-02-13"/>
@@ -20,9 +20,13 @@
     <action datetime="2025-02-13" state="REFERRED">
       <text>Referred to the House Committee on Homeland Security.</text>
     </action>
+    <action datetime="2025-02-13">
+      <text>Referred to the Subcommittee on Counterterrorism, Law Enforcement, and Intelligence.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism and Intelligence" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects/>

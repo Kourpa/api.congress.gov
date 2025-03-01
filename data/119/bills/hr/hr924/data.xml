@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="924" updated="2025-02-08T09:01:44Z">
+<bill session="119" type="h" number="924" updated="2025-03-01T09:06:22Z">
   <state datetime="2025-02-04">REFERRED</state>
   <status>
     <introduced datetime="2025-02-04"/>
@@ -115,10 +115,14 @@
     <action datetime="2025-02-04">
       <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-02-04">
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HLIG" name="House Intelligence (Permanent Select)" subcommittee="" activity="Referred To"/>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Referral"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" subcommittee="" activity="Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>

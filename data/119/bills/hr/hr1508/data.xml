@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1508" updated="2025-02-22T09:35:24Z">
+<bill session="119" type="h" number="1508" updated="2025-03-01T09:06:19Z">
   <state datetime="2025-02-21">REFERRED</state>
   <status>
     <introduced datetime="2025-02-21"/>
@@ -18,6 +18,9 @@
       <text>Introduced in House</text>
     </action>
     <action datetime="2025-02-21" state="REFERRED">
+      <text>Referred to the Subcommittee on Counterterrorism, Law Enforcement, and Intelligence.</text>
+    </action>
+    <action datetime="2025-02-21">
       <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
     <action datetime="2025-02-21">
@@ -27,6 +30,7 @@
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism and Intelligence" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects/>

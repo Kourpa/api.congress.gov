@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>25</number>
-    <updateDate>2025-02-28T09:06:34Z</updateDate>
-    <updateDateIncludingText>2025-02-28T09:06:34Z</updateDateIncludingText>
+    <updateDate>2025-03-01T09:06:18Z</updateDate>
+    <updateDateIncludingText>2025-03-01T09:06:18Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HJRES</type>
@@ -20,6 +20,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2025-02-28T19:56:01Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-02-26T19:06:00Z</date>
@@ -50,6 +54,48 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-02-28</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 3.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-28</actionDate>
+        <text>Reported by the Committee on Ways and Means. H. Rept. 119-7.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-02-28</actionDate>
+        <text>Reported by the Committee on Ways and Means. H. Rept. 119-7.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-02-26</actionDate>
         <committees>
@@ -260,6 +306,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-02-28T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hjres25rh/xml/BILLS-119hjres25rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-01-21T05:00:00Z</date>
         <formats>
@@ -270,8 +325,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-26</actionDate>
-      <text>Ordered to be Reported by the Yeas and Nays: 26 - 16.</text>
+      <actionDate>2025-02-28</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 3.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
