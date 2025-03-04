@@ -17,6 +17,18 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-03T19:17:34-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres177-119",
+        "hjres61-119",
+        "sjres11-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 177 Reported to House. Rule provides for consideration of H.J. Res. 42, H.J. Res. 61 and S.J. Res. 11. The resolution provides for consideration of H.J. Res. 42, H.J. Res. 61, and S.J. Res. 11 under a closed rule with one of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 42 and H.J. Res. 61 and one motion to commit on S.J. Res. 11.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -35,6 +47,36 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "H001099",
+      "district": "8",
+      "name": "Haridopolos, Mike",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "L000578",
+      "district": "1",
+      "name": "LaMalfa, Doug",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "L000597",
+      "district": "15",
+      "name": "Lee, Laurel M.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "M001211",
       "district": "15",
@@ -68,7 +110,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-03T19:17:34-05:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -77,7 +120,14 @@
   "number": "42",
   "official_title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment\".",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres177-119",
+      "identified_by": "House",
+      "reason": "procedurally-related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "C001116",
@@ -110,6 +160,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-25T09:05:50Z",
+  "updated_at": "2025-03-04T11:26:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres42.xml"
 }

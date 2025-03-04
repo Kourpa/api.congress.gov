@@ -1,4 +1,4 @@
-<bill session="119" type="hj" number="42" updated="2025-02-25T09:05:50Z">
+<bill session="119" type="hj" number="42" updated="2025-03-04T11:26:12Z">
   <state datetime="2025-02-12">REFERRED</state>
   <status>
     <introduced datetime="2025-02-12"/>
@@ -10,6 +10,9 @@
   </titles>
   <sponsor bioguide_id="C001116"/>
   <cosponsors>
+    <cosponsor bioguide_id="H001099" joined="2025-03-03"/>
+    <cosponsor bioguide_id="L000578" joined="2025-03-03"/>
+    <cosponsor bioguide_id="L000597" joined="2025-03-03"/>
     <cosponsor bioguide_id="M001211" joined="2025-02-24"/>
     <cosponsor bioguide_id="S001228" joined="2025-02-24"/>
     <cosponsor bioguide_id="T000478" joined="2025-02-24"/>
@@ -21,11 +24,16 @@
     <action datetime="2025-02-12" state="REFERRED">
       <text>Referred to the House Committee on Energy and Commerce.</text>
     </action>
+    <action datetime="2025-03-03T19:17:34-05:00">
+      <text>Rules Committee Resolution H. Res. 177 Reported to House. Rule provides for consideration of H.J. Res. 42, H.J. Res. 61 and S.J. Res. 11. The resolution provides for consideration of H.J. Res. 42, H.J. Res. 61, and S.J. Res. 11 under a closed rule with one of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 42 and H.J. Res. 61 and one motion to commit on S.J. Res. 11.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="177" relation="procedurally-related"/>
+  </relatedbills>
   <subjects>
     <term name="Energy"/>
   </subjects>

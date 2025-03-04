@@ -17,6 +17,18 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-03T19:17:34-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres177-119",
+        "hjres42-119",
+        "sjres11-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 177 Reported to House. Rule provides for consideration of H.J. Res. 42, H.J. Res. 61 and S.J. Res. 11. The resolution provides for consideration of H.J. Res. 42, H.J. Res. 61, and S.J. Res. 11 under a closed rule with one of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 42 and H.J. Res. 61 and one motion to commit on S.J. Res. 11.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -96,6 +108,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "H001099",
+      "district": "8",
+      "name": "Haridopolos, Mike",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "J000302",
       "district": "13",
       "name": "Joyce, John",
@@ -116,12 +138,52 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "L000597",
+      "district": "15",
+      "name": "Lee, Laurel M.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001239",
+      "district": "5",
+      "name": "McGuire, John",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "VA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "P000609",
       "district": "6",
       "name": "Palmer, Gary J.",
       "original_cosponsor": true,
       "sponsored_at": "2025-02-25",
       "state": "AL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "P000048",
+      "district": "11",
+      "name": "Pfluger, August",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "R000603",
+      "district": "7",
+      "name": "Rouzer, David",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "NC",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -168,7 +230,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-03T19:17:34-05:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -177,7 +240,14 @@
   "number": "61",
   "official_title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"National Emission Standards for Hazardous Air Pollutants: Rubber Tire Manufacturing\".",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres177-119",
+      "identified_by": "House",
+      "reason": "procedurally-related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "G000568",
@@ -215,6 +285,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-03T20:30:20Z",
+  "updated_at": "2025-03-04T11:26:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres61.xml"
 }

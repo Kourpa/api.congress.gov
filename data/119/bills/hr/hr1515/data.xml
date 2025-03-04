@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1515" updated="2025-02-25T09:35:34Z">
-  <state datetime="2025-02-24">REFERRED</state>
+<bill session="119" type="h" number="1515" updated="2025-03-04T09:05:43Z">
+  <state datetime="2025-03-03T15:50:56-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-02-24"/>
+    <unknown datetime="2025-03-03T15:50:56-05:00"/>
   </status>
   <introduced datetime="2025-02-24"/>
   <titles>
@@ -11,6 +11,7 @@
   <sponsor bioguide_id="C001108"/>
   <cosponsors>
     <cosponsor bioguide_id="K000389" joined="2025-02-24"/>
+    <cosponsor bioguide_id="K000401" joined="2025-03-03"/>
   </cosponsors>
   <actions>
     <action datetime="2025-02-24">
@@ -18,6 +19,21 @@
     </action>
     <action datetime="2025-02-24" state="REFERRED">
       <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2025-03-03T15:41:17-05:00">
+      <text>Mr. Comer moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-03-03T15:41:28-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-03-03T15:41:30-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1515.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-03-03T15:50:56-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-03-03T15:50:59-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>
