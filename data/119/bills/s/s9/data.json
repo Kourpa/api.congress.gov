@@ -42,6 +42,36 @@
       ],
       "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-03-03",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S1455",
+          "type": null
+        }
+      ],
+      "text": "Motion to proceed to measure considered in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-03",
+      "action_code": "",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR S1455-1456",
+          "type": null
+        }
+      ],
+      "result": "fail",
+      "roll": "100",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 45. Record Vote Number: 100.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -123,6 +153,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C001075",
+      "district": null,
+      "name": "Cassidy, Bill",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "LA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "C001056",
       "district": null,
       "name": "Cornyn, John",
@@ -163,6 +203,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C001098",
+      "district": null,
+      "name": "Cruz, Ted",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "TX",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "D000618",
       "district": null,
       "name": "Daines, Steve",
@@ -179,6 +229,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-01-07",
       "state": "IA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "F000463",
+      "district": null,
+      "name": "Fischer, Deb",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "NE",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -299,6 +359,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-01-07",
       "state": "KS",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001243",
+      "district": null,
+      "name": "McCormick, David",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "PA",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -449,6 +519,8 @@
     "active_at": "2025-01-07",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_cloture_result": "fail",
+    "senate_cloture_result_at": "2025-03-03",
     "vetoed": false
   },
   "introduced_at": "2025-01-07",
@@ -465,9 +537,13 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "INTRODUCED",
-  "status_at": "2025-01-07",
+  "status": "PROV_KILL:CLOTUREFAILED",
+  "status_at": "2025-03-03",
   "subjects": [
+    "Athletes",
+    "Education programs funding",
+    "School athletics",
+    "Sex, gender, sexual orientation discrimination",
     "Sports and recreation"
   ],
   "subjects_top_term": "Sports and recreation",
@@ -500,6 +576,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-28T13:23:24Z",
+  "updated_at": "2025-03-04T14:27:53Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s9.xml"
 }

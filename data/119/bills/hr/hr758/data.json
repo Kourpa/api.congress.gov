@@ -28,7 +28,12 @@
     {
       "acted_at": "2025-03-03T16:13:24-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H933-935",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -49,7 +54,12 @@
     {
       "acted_at": "2025-03-03T18:57:17-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H938-939",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -57,7 +67,12 @@
       "acted_at": "2025-03-03T19:03:47-05:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H933-934",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "55",
       "status": "PASS_OVER:HOUSE",
@@ -181,6 +196,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-04T09:05:28Z",
+  "updated_at": "2025-03-04T13:50:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr758.xml"
 }

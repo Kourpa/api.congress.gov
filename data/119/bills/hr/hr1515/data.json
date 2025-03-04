@@ -28,7 +28,12 @@
     {
       "acted_at": "2025-03-03T15:41:28-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H928-930",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -43,7 +48,12 @@
       "acted_at": "2025-03-03T15:50:56-05:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H928-929",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -112,7 +122,7 @@
   "official_title": "To increase access to agency guidance documents.",
   "popular_title": null,
   "related_bills": [],
-  "short_title": null,
+  "short_title": "GOOD Act",
   "sponsor": {
     "bioguide_id": "C001108",
     "district": "1",
@@ -131,8 +141,36 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "To increase access to agency guidance documents.",
+      "title": "GOOD Act",
       "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "GOOD Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Guidance Out Of Darkness Act",
+      "type": "short"
+    },
+    {
+      "as": "passed house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "GOOD Act",
+      "type": "short"
+    },
+    {
+      "as": "passed house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Guidance Out Of Darkness Act",
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -142,6 +180,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-04T09:05:43Z",
+  "updated_at": "2025-03-04T13:46:11Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1515.xml"
 }

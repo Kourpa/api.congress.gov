@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="872" updated="2025-03-04T09:05:23Z">
+<bill session="119" type="h" number="872" updated="2025-03-04T13:47:12Z">
   <state datetime="2025-03-03T16:02:45-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-03-03T16:02:45-05:00"/>
   </status>
   <introduced datetime="2025-01-31"/>
   <titles>
-    <title type="display">Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025</title>
     <title type="short" as="introduced">Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025</title>
+    <title type="short" as="passed house">Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025</title>
+    <title type="display">Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025</title>
     <title type="official" as="introduced">To require covered contractors implement a vulnerability disclosure policy consistent with NIST guidelines, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M000194"/>
@@ -28,12 +29,14 @@
     </action>
     <action datetime="2025-03-03T15:51:10-05:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H930-932" label="consideration"/>
     </action>
     <action datetime="2025-03-03T15:51:13-05:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 872.</text>
     </action>
     <vote how="by voice vote" type="vote" datetime="2025-03-03T16:02:45-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H930-931" label="text"/>
     </vote>
     <action datetime="2025-03-03T16:02:48-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

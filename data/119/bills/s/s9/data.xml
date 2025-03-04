@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="9" updated="2025-02-28T13:23:24Z">
-  <state datetime="2025-01-07">INTRODUCED</state>
+<bill session="119" type="s" number="9" updated="2025-03-04T14:27:53Z">
+  <state datetime="2025-03-03">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <introduced datetime="2025-01-07"/>
+    <unknown datetime="2025-03-03"/>
   </status>
   <introduced datetime="2025-01-07"/>
   <titles>
@@ -18,12 +18,15 @@
     <cosponsor bioguide_id="B001319" joined="2025-01-07"/>
     <cosponsor bioguide_id="B001305" joined="2025-01-07"/>
     <cosponsor bioguide_id="C001047" joined="2025-01-07"/>
+    <cosponsor bioguide_id="C001075" joined="2025-03-03"/>
     <cosponsor bioguide_id="C001056" joined="2025-01-09"/>
     <cosponsor bioguide_id="C001095" joined="2025-01-07"/>
     <cosponsor bioguide_id="C001096" joined="2025-01-07"/>
     <cosponsor bioguide_id="C000880" joined="2025-01-07"/>
+    <cosponsor bioguide_id="C001098" joined="2025-03-03"/>
     <cosponsor bioguide_id="D000618" joined="2025-01-07"/>
     <cosponsor bioguide_id="E000295" joined="2025-01-07"/>
+    <cosponsor bioguide_id="F000463" joined="2025-03-03"/>
     <cosponsor bioguide_id="G000359" joined="2025-01-07"/>
     <cosponsor bioguide_id="H000601" joined="2025-01-07"/>
     <cosponsor bioguide_id="H001089" joined="2025-01-13"/>
@@ -36,6 +39,7 @@
     <cosponsor bioguide_id="L000577" joined="2025-01-07"/>
     <cosponsor bioguide_id="L000571" joined="2025-01-07"/>
     <cosponsor bioguide_id="M001198" joined="2025-01-07"/>
+    <cosponsor bioguide_id="M001243" joined="2025-03-03"/>
     <cosponsor bioguide_id="M001244" joined="2025-02-27"/>
     <cosponsor bioguide_id="M001190" joined="2025-01-09"/>
     <cosponsor bioguide_id="P000603" joined="2025-01-07"/>
@@ -68,11 +72,23 @@
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
       <reference ref="CR S1434"/>
     </action>
+    <action datetime="2025-03-03">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S1455"/>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="100" datetime="2025-03-03" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 45. Record Vote Number: 100.</text>
+      <reference ref="CR S1455-1456"/>
+    </vote-aux>
   </actions>
   <committees/>
   <relatedbills/>
   <subjects>
     <term name="Sports and recreation"/>
+    <term name="Athletes"/>
+    <term name="Education programs funding"/>
+    <term name="School athletics"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
   </subjects>
   <amendments/>
   <summary date="2025-01-30T22:43:48Z" status="Introduced in Senate"></summary>

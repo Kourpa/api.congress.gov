@@ -38,7 +38,12 @@
     {
       "acted_at": "2025-03-03T15:51:10-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H930-932",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -53,7 +58,12 @@
       "acted_at": "2025-03-03T16:02:45-05:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H930-931",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -142,6 +152,20 @@
   },
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -152,17 +176,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To require covered contractors implement a vulnerability disclosure policy consistent with NIST guidelines, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-04T09:05:23Z",
+  "updated_at": "2025-03-04T13:47:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr872.xml"
 }
