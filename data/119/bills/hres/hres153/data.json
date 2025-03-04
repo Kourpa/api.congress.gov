@@ -27,6 +27,57 @@
       "references": [],
       "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-03T16:21:00-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Mann moved to suspend the rules and agree to the resolution.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-03T16:21:44-05:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H935-937",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-03T16:21:46-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 153.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-03T16:41:14-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H935",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "suspension": null,
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-03-03T16:41:15-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -189,6 +240,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-02-24",
       "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001126",
+      "district": "15",
+      "name": "Carey, Mike",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "OH",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -363,6 +424,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "F000483",
+      "district": "30",
+      "name": "Friedman, Laura",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "G000559",
       "district": "8",
       "name": "Garamendi, John",
@@ -439,6 +510,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-02-24",
       "state": "MI",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "I000056",
+      "district": "48",
+      "name": "Issa, Darrell",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-03",
+      "state": "CA",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -955,9 +1036,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-03T16:21:00-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-03-03T16:41:14-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-24",
@@ -974,8 +1058,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-24",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-03-03T16:41:14-05:00",
   "subjects": [
     "Transportation and public works"
   ],
@@ -1002,6 +1086,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-03T15:20:23Z",
+  "updated_at": "2025-03-04T16:20:01Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres153.xml"
 }
