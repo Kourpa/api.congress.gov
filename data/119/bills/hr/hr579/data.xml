@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="579" updated="2025-03-04T09:06:02Z">
-  <state datetime="2025-01-21">REFERRED</state>
+<bill session="119" type="h" number="579" updated="2025-03-05T09:06:17Z">
+  <state datetime="2025-03-04T14:16:17-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-21"/>
+    <unknown datetime="2025-03-04T14:16:17-05:00"/>
   </status>
   <introduced datetime="2025-01-21"/>
   <titles>
@@ -20,6 +20,21 @@
     </action>
     <action datetime="2025-01-21" state="REFERRED">
       <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2025-03-04T14:06:06-05:00">
+      <text>Mr. Smith (MO) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-03-04T14:06:22-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-03-04T14:06:24-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 579.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-03-04T14:16:17-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-03-04T14:16:19-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

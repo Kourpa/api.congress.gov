@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="919" updated="2025-03-04T20:24:37Z">
-  <state datetime="2025-02-04">REFERRED</state>
+<bill session="119" type="h" number="919" updated="2025-03-05T09:06:26Z">
+  <state datetime="2025-03-04T14:29:31-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-02-04"/>
+    <unknown datetime="2025-03-04T14:29:31-05:00"/>
   </status>
   <introduced datetime="2025-02-04"/>
   <titles>
@@ -20,6 +20,21 @@
     </action>
     <action datetime="2025-02-04" state="REFERRED">
       <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2025-03-04T14:16:35-05:00">
+      <text>Mr. Smith (MO) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-03-04T14:16:49-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-03-04T14:16:51-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 919.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-03-04T14:29:31-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-03-04T14:29:33-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>
