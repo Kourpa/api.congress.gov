@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>177</number>
-    <updateDate>2025-03-05T14:44:37Z</updateDate>
-    <updateDateIncludingText>2025-03-05T14:44:37Z</updateDateIncludingText>
+    <updateDate>2025-03-05T16:31:33Z</updateDate>
+    <updateDateIncludingText>2025-03-05T16:31:33Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -116,6 +116,27 @@
         <sourceSystem>
           <code>2</code>
           <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>57</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll057.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-03-04T19:03:40Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-03-04</actionDate>
+        <actionTime>14:03:40</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 211 - 209 (Roll no. 57). (text: CR H955)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
         </sourceSystem>
         <recordedVotes>
           <recordedVote>
@@ -261,15 +282,6 @@
         <text>Submitted in House</text>
         <type>Committee</type>
         <actionCode>H12100</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
-      </item>
-      <item>
-        <actionDate>2025-03-03</actionDate>
-        <type>Committee</type>
-        <actionCode>5000</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
