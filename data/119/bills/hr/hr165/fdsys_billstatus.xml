@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>165</number>
-    <updateDate>2025-02-04T05:38:17Z</updateDate>
-    <updateDateIncludingText>2025-02-04T05:38:17Z</updateDateIncludingText>
+    <updateDate>2025-03-06T11:56:33Z</updateDate>
+    <updateDateIncludingText>2025-03-06T11:56:33Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <chamber>Senate</chamber>
         <type>Other</type>
         <activities>
+          <item>
+            <name>Markup By</name>
+            <date>2025-03-05T19:30:00Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-01-23T15:51:28Z</date>
@@ -40,6 +44,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-23</actionDate>
         <committees>
@@ -216,20 +234,24 @@
     <subjects>
       <legislativeSubjects>
         <item>
+          <name>Federal-Indian relations</name>
+          <updateDate>2025-02-06T16:59:11Z</updateDate>
+        </item>
+        <item>
           <name>Indian lands and resources rights</name>
           <updateDate>2025-01-27T18:07:26Z</updateDate>
         </item>
         <item>
-          <name>Monuments and memorials</name>
-          <updateDate>2025-01-27T18:06:53Z</updateDate>
+          <name>Land transfers</name>
+          <updateDate>2025-02-06T16:59:11Z</updateDate>
+        </item>
+        <item>
+          <name>South Dakota</name>
+          <updateDate>2025-02-06T16:59:11Z</updateDate>
         </item>
         <item>
           <name>State and local taxation</name>
           <updateDate>2025-01-27T18:16:50Z</updateDate>
-        </item>
-        <item>
-          <name>User charges and fees</name>
-          <updateDate>2025-01-27T18:16:10Z</updateDate>
         </item>
       </legislativeSubjects>
       <policyArea>
@@ -323,8 +345,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-23</actionDate>
-      <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+      <actionDate>2025-03-05</actionDate>
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

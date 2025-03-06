@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="620" updated="2025-03-04T15:23:25Z">
-  <state datetime="2025-02-18">REFERRED</state>
+<bill session="119" type="s" number="620" updated="2025-03-06T13:38:12Z">
+  <state datetime="2025-03-05">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-18"/>
+    <unknown datetime="2025-03-05"/>
   </status>
   <introduced datetime="2025-02-18"/>
   <titles>
@@ -22,11 +22,16 @@
     <action datetime="2025-02-18" state="REFERRED">
       <text>Read twice and referred to the Committee on Indian Affairs.</text>
     </action>
+    <action datetime="2025-03-05" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SLIA" name="Senate Indian Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SLIA" name="Senate Indian Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
-  <subjects/>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
   <amendments/>
 </bill>
