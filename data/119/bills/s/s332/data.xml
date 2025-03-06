@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="332" updated="2025-03-04T12:53:21Z">
+<bill session="119" type="s" number="332" updated="2025-03-06T16:55:38Z">
   <state datetime="2025-01-30">REFERRED</state>
   <status>
     <introduced datetime="2025-01-30"/>
@@ -11,6 +11,7 @@
   </titles>
   <sponsor bioguide_id="R000608"/>
   <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2025-03-05"/>
     <cosponsor bioguide_id="L000575" joined="2025-01-30"/>
   </cosponsors>
   <actions>
@@ -24,7 +25,11 @@
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="768" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
   <amendments/>
 </bill>

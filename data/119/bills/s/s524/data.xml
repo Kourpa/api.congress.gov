@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="524" updated="2025-03-06T07:23:20Z">
-  <state datetime="2025-02-11">REFERRED</state>
+<bill session="119" type="s" number="524" updated="2025-03-06T14:15:20Z">
+  <state datetime="2025-03-05">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-02-11"/>
+    <unknown datetime="2025-03-05"/>
   </status>
   <introduced datetime="2025-02-11"/>
   <titles>
+    <title type="display">Coast Guard Authorization Act of 2025</title>
     <title type="short" as="introduced">Coast Guard Authorization Act of 2025</title>
     <title type="short" as="passed senate">Coast Guard Authorization Act of 2025</title>
-    <title type="display">Coast Guard Authorization Act of 2025</title>
     <title type="official" as="introduced">A bill to authorize appropriations for the Coast Guard, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001098"/>
@@ -23,9 +23,17 @@
     <action datetime="2025-02-11" state="REFERRED">
       <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
     </action>
+    <action datetime="2025-03-05">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-03-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1521-1568" label="consideration"/>
+      <reference ref="CR S1522-1568" label="text"/>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

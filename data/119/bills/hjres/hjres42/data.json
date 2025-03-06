@@ -36,7 +36,12 @@
       "bill_ids": [
         "hres177-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H991-996",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 177.",
       "type": "action"
     },
@@ -75,7 +80,12 @@
     {
       "acted_at": "2025-03-05T16:35:15-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H997-998",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -83,7 +93,12 @@
       "acted_at": "2025-03-05T16:44:35-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H991",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "59",
       "status": "PASS_OVER:HOUSE",
@@ -237,6 +252,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-06T09:05:53Z",
+  "updated_at": "2025-03-06T13:48:38Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres42.xml"
 }

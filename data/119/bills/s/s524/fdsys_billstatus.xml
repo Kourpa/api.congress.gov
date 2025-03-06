@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>524</number>
-    <updateDate>2025-03-06T07:23:20Z</updateDate>
-    <updateDateIncludingText>2025-03-06T07:23:20Z</updateDateIncludingText>
+    <updateDate>2025-03-06T14:15:20Z</updateDate>
+    <updateDateIncludingText>2025-03-06T14:15:20Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -18,6 +18,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-03-05T22:42:38Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-02-11T20:44:38Z</date>
           </item>
@@ -25,6 +29,54 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-05</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S1521-1568; text: CR S1522-1568)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-03-05</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-03-05</actionDate>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-02-11</actionDate>
         <committees>
@@ -96,6 +148,12 @@
     <title>Coast Guard Authorization Act of 2025</title>
     <titles>
       <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Coast Guard Authorization Act of 2025</title>
+        <updateDate>2025-03-06T11:58:18Z</updateDate>
+      </item>
+      <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
         <titleTypeCode>105</titleTypeCode>
         <title>Coast Guard Authorization Act of 2025</title>
@@ -104,12 +162,6 @@
         <chamberName>Senate</chamberName>
         <billTextVersionName>Engrossed in Senate</billTextVersionName>
         <billTextVersionCode>ES</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Coast Guard Authorization Act of 2025</title>
-        <updateDate>2025-03-05T16:23:18Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -149,8 +201,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-11</actionDate>
-      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2025-03-05</actionDate>
+      <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S1521-1568; text: CR S1522-1568)</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

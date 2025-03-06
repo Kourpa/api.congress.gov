@@ -1,4 +1,4 @@
-<bill session="119" type="hj" number="42" updated="2025-03-06T09:05:53Z">
+<bill session="119" type="hj" number="42" updated="2025-03-06T13:48:38Z">
   <state datetime="2025-03-05T16:44:35-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-03-05T16:44:35-05:00"/>
@@ -29,6 +29,7 @@
     </action>
     <action datetime="2025-03-05T13:00:13-05:00">
       <text>Considered under the provisions of rule H. Res. 177.</text>
+      <reference ref="CR H991-996" label="consideration"/>
     </action>
     <action datetime="2025-03-05T13:00:18-05:00">
       <text>Rule provides for consideration of H.J. Res. 42, H.J. Res. 61 and S.J. Res. 11. The resolution provides for consideration of H.J. Res. 42, H.J. Res. 61, and S.J. Res. 11 under a closed rule with one of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 42 and H.J. Res. 61 and one motion to commit on S.J. Res. 11.</text>
@@ -44,9 +45,11 @@
     </action>
     <action datetime="2025-03-05T16:35:15-05:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H997-998" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="59" datetime="2025-03-05T16:44:35-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On passage Passed by the Yeas and Nays: 222 - 203 (Roll no. 59).</text>
+      <reference ref="CR H991" label="text"/>
     </vote>
     <action datetime="2025-03-05T16:44:37-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

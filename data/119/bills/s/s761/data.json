@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Indian Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-05",
+      "action_code": "",
+      "committees": [
+        "SLIA"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Indian Affairs. Ordered to be reported without amendment favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Indian Affairs",
@@ -248,7 +260,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-05",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -267,10 +280,12 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-26",
-  "subjects": [],
-  "subjects_top_term": null,
+  "status": "REPORTED",
+  "status_at": "2025-03-05",
+  "subjects": [
+    "Native Americans"
+  ],
+  "subjects_top_term": "Native Americans",
   "summary": null,
   "titles": [
     {
@@ -295,6 +310,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-05T12:03:18Z",
+  "updated_at": "2025-03-06T17:09:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s761.xml"
 }

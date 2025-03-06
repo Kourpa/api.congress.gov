@@ -61,6 +61,31 @@
       ],
       "text": "Measure laid before Senate by motion.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-03-05",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S1503, S1510-1511, S1520-1521",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-05",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "106",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 51 - 47. Record Vote Number: 106.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -137,6 +162,8 @@
     "active_at": "2025-03-04",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-03-05",
     "vetoed": false
   },
   "introduced_at": "2025-02-27",
@@ -160,8 +187,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-27",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-03-05",
   "subjects": [
     "Finance and financial sector"
   ],
@@ -188,6 +215,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-05T15:00:47Z",
+  "updated_at": "2025-03-06T14:13:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres28.xml"
 }
