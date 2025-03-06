@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-04",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-04",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Energy and Commerce",
@@ -48,7 +70,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-04",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -67,27 +90,27 @@
     "title": "Del.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-27",
+  "status": "REPORTED",
+  "status_at": "2025-03-04",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
   "titles": [
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "To direct the Secretary of Commerce to submit to Congress a report containing an assessment of the value, cost, and feasibility of a trans-Atlantic submarine fiber optic cable connecting the contiguous United States, the United States Virgin Islands, Ghana, and Nigeria.",
-      "type": "display"
-    },
     {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "To direct the Secretary of Commerce to submit to Congress a report containing an assessment of the value, cost, and feasibility of a trans-Atlantic submarine fiber optic cable connecting the contiguous United States, the United States Virgin Islands, Ghana, and Nigeria.",
       "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To direct the Secretary of Commerce to submit to Congress a report containing an assessment of the value, cost, and feasibility of a trans-Atlantic submarine fiber optic cable connecting the contiguous United States, the United States Virgin Islands, Ghana, and Nigeria.",
+      "type": "display"
     }
   ],
-  "updated_at": "2025-02-28T09:36:00Z",
+  "updated_at": "2025-03-06T10:18:37Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1737.xml"
 }

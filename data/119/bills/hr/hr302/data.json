@@ -48,6 +48,16 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 22 - 16.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-02-14",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -58,18 +68,27 @@
   "committees": [
     {
       "activity": [
+        "Referred To"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Conservation, Research, and Biotechnology",
+      "subcommittee_id": "14"
+    },
+    {
+      "activity": [
         "Markup By",
         "Referred To"
       ],
       "committee": "House Natural Resources",
       "committee_id": "HSII"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Agriculture",
-      "committee_id": "HSAG"
     }
   ],
   "congress": "119",
@@ -160,7 +179,16 @@
   "status": "REPORTED",
   "status_at": "2025-02-12",
   "subjects": [
-    "Public lands and natural resources"
+    "Administrative law and regulatory procedures",
+    "Department of Agriculture",
+    "Department of the Interior",
+    "Indian lands and resources rights",
+    "Intergovernmental relations",
+    "Land use and conservation",
+    "Licensing and registrations",
+    "Public lands and natural resources",
+    "State and local government operations",
+    "Water use and supply"
   ],
   "subjects_top_term": "Public lands and natural resources",
   "summary": null,
@@ -187,6 +215,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-26T20:55:21Z",
+  "updated_at": "2025-03-06T09:06:34Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr302.xml"
 }

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>113</number>
-    <updateDate>2025-02-08T13:51:07Z</updateDate>
-    <updateDateIncludingText>2025-02-08T13:51:07Z</updateDateIncludingText>
+    <updateDate>2025-03-06T09:06:08Z</updateDate>
+    <updateDateIncludingText>2025-03-06T09:06:08Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -19,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-03-05T16:50:15Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-02-05T15:03:35Z</date>
           </item>
@@ -26,6 +30,48 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-05</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 7.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-05</actionDate>
+        <text>Reported adversely by the Committee on Homeland Security. H. Rept. 119-11.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hshm00</systemCode>
+            <name>Homeland Security Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-03-05</actionDate>
+        <text>Reported adversely by the Committee on Homeland Security. H. Rept. 119-11.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hshm00</systemCode>
+            <name>Homeland Security Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-02-05</actionDate>
         <text>Referred to the House Committee on Homeland Security.</text>
@@ -104,6 +150,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hres113rh/xml/BILLS-119hres113rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-02-05T05:00:00Z</date>
         <formats>
@@ -114,8 +169,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-05</actionDate>
-      <text>Referred to the House Committee on Homeland Security.</text>
+      <actionDate>2025-03-05</actionDate>
+      <text>Placed on the House Calendar, Calendar No. 7.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

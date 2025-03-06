@@ -1,11 +1,12 @@
-<bill session="119" type="h" number="1766" updated="2025-03-04T09:35:46Z">
-  <state datetime="2025-03-03">REFERRED</state>
+<bill session="119" type="h" number="1766" updated="2025-03-06T10:23:21Z">
+  <state datetime="2025-03-04">REPORTED</state>
   <status>
-    <introduced datetime="2025-03-03"/>
+    <unknown datetime="2025-03-04"/>
   </status>
   <introduced datetime="2025-03-03"/>
   <titles>
-    <title type="display">To amend the National Telecommunications and Information Administration Organization Act to establish the Office of Policy Development and Cybersecurity, and for other purposes.</title>
+    <title type="display">NTIA Policy and Cybersecurity Coordination Act</title>
+    <title type="short" as="introduced">NTIA Policy and Cybersecurity Coordination Act</title>
     <title type="official" as="introduced">To amend the National Telecommunications and Information Administration Organization Act to establish the Office of Policy Development and Cybersecurity, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="O000019"/>
@@ -19,9 +20,15 @@
     <action datetime="2025-03-03" state="REFERRED">
       <text>Referred to the House Committee on Energy and Commerce.</text>
     </action>
+    <action datetime="2025-03-04">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-03-04" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

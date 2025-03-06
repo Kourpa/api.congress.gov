@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="484" updated="2025-02-25T09:06:09Z">
+<bill session="119" type="h" number="484" updated="2025-03-06T09:06:33Z">
   <state datetime="2025-01-16">REFERRED</state>
   <status>
     <introduced datetime="2025-01-16"/>
@@ -67,9 +67,17 @@
     <action datetime="2025-01-16" state="REFERRED">
       <text>Referred to the House Committee on Agriculture.</text>
     </action>
+    <action datetime="2025-02-14">
+      <text>Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.</text>
+    </action>
+    <action datetime="2025-02-14">
+      <text>Referred to the Subcommittee on Nutrition, Foreign Agriculture, and Horticulture.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG22" name="House Agriculture" subcommittee="Commodity Markets, Digital Assets, and Rural Development" activity="Referral"/>
+    <committee code="HSAG03" name="House Agriculture" subcommittee="Nutrition and Foreign Agriculture" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

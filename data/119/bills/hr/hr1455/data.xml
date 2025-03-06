@@ -1,11 +1,13 @@
-<bill session="119" type="h" number="1455" updated="2025-02-22T09:35:15Z">
-  <state datetime="2025-02-21">REFERRED</state>
+<bill session="119" type="h" number="1455" updated="2025-03-06T09:06:44Z">
+  <state datetime="2025-03-04">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-21"/>
+    <unknown datetime="2025-03-04"/>
   </status>
   <introduced datetime="2025-02-21"/>
   <titles>
-    <title type="display">To codify the Institute for Telecommunication Sciences and to direct the Assistant Secretary of Commerce for Communications and Information to establish an initiative to support the development of emergency communication and tracking technologies, and for other purposes.</title>
+    <title type="display">ITS Codification Act</title>
+    <title type="short" as="introduced">Institute for Telecommunication Sciences Codification Act</title>
+    <title type="short" as="introduced">ITS Codification Act</title>
     <title type="official" as="introduced">To codify the Institute for Telecommunication Sciences and to direct the Assistant Secretary of Commerce for Communications and Information to establish an initiative to support the development of emergency communication and tracking technologies, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001103"/>
@@ -19,9 +21,15 @@
     <action datetime="2025-02-21" state="REFERRED">
       <text>Referred to the House Committee on Energy and Commerce.</text>
     </action>
+    <action datetime="2025-03-04">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-03-04" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Agriculture.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-14",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-14",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +51,24 @@
       ],
       "committee": "House Agriculture",
       "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Conservation, Research, and Biotechnology",
+      "subcommittee_id": "14"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Livestock, Dairy, and Poultry",
+      "subcommittee_id": "29"
     }
   ],
   "congress": "119",
@@ -112,6 +150,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-25T17:00:00Z",
+  "updated_at": "2025-03-06T09:06:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr388.xml"
 }

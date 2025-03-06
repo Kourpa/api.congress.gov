@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>556</number>
-    <updateDate>2025-02-27T18:54:10Z</updateDate>
-    <updateDateIncludingText>2025-02-27T18:54:10Z</updateDateIncludingText>
+    <updateDate>2025-03-06T09:06:17Z</updateDate>
+    <updateDateIncludingText>2025-03-06T09:06:17Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,18 @@
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-02-20T18:11:25Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -40,6 +52,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-02-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Forestry.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-16</actionDate>
         <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -822,7 +849,28 @@
       <name>Public Lands and Natural Resources</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Hazardous wastes and toxic substances</name>
+          <updateDate>2025-03-03T19:29:49Z</updateDate>
+        </item>
+        <item>
+          <name>Hunting and fishing</name>
+          <updateDate>2025-03-03T19:29:49Z</updateDate>
+        </item>
+        <item>
+          <name>Land use and conservation</name>
+          <updateDate>2025-03-03T19:29:49Z</updateDate>
+        </item>
+        <item>
+          <name>Metals</name>
+          <updateDate>2025-03-03T19:29:49Z</updateDate>
+        </item>
+        <item>
+          <name>Wildlife conservation and habitat protection</name>
+          <updateDate>2025-03-03T19:29:49Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Public Lands and Natural Resources</name>
         <updateDate>2025-02-27T18:54:10Z</updateDate>
@@ -865,8 +913,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-16</actionDate>
-      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2025-02-20</actionDate>
+      <text>Referred to the Subcommittee on Forestry.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

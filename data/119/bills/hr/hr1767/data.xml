@@ -1,11 +1,12 @@
-<bill session="119" type="h" number="1767" updated="2025-03-04T09:35:25Z">
-  <state datetime="2025-03-03">REFERRED</state>
+<bill session="119" type="h" number="1767" updated="2025-03-06T10:23:21Z">
+  <state datetime="2025-03-04">REPORTED</state>
   <status>
-    <introduced datetime="2025-03-03"/>
+    <unknown datetime="2025-03-04"/>
   </status>
   <introduced datetime="2025-03-03"/>
   <titles>
-    <title type="display">To require the Consumer Product Safety Commission to promulgate a mandatory consumer product safety standard with respect to retractable awnings.</title>
+    <title type="display">Awning Safety Act of 2025</title>
+    <title type="short" as="introduced">Awning Safety Act of 2025</title>
     <title type="official" as="introduced">To require the Consumer Product Safety Commission to promulgate a mandatory consumer product safety standard with respect to retractable awnings.</title>
   </titles>
   <sponsor bioguide_id="B001306"/>
@@ -19,9 +20,15 @@
     <action datetime="2025-03-03" state="REFERRED">
       <text>Referred to the House Committee on Energy and Commerce.</text>
     </action>
+    <action datetime="2025-03-04">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-03-04" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

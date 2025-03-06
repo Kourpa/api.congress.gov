@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="372" updated="2025-02-20T22:06:37Z">
+<bill session="119" type="h" number="372" updated="2025-03-06T09:06:39Z">
   <state datetime="2025-01-13">REFERRED</state>
   <status>
     <introduced datetime="2025-01-13"/>
@@ -24,10 +24,14 @@
     <action datetime="2025-01-13">
       <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Agriculture, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-02-20">
+      <text>Referred to the Subcommittee on Nutrition, Foreign Agriculture, and Horticulture.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG03" name="House Agriculture" subcommittee="Nutrition and Foreign Agriculture" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

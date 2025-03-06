@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1049</number>
-    <updateDate>2025-02-20T18:35:14Z</updateDate>
-    <updateDateIncludingText>2025-02-20T18:35:14Z</updateDateIncludingText>
+    <updateDate>2025-03-06T09:06:23Z</updateDate>
+    <updateDateIncludingText>2025-03-06T09:06:23Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-03-05T22:37:18Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-02-12T15:01:05Z</date>
           </item>
@@ -32,6 +36,48 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-05</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 7.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-05</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-13.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-03-05</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-13.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-02-12</actionDate>
         <committees>
@@ -188,6 +234,16 @@
     <title>Transparency in Reporting of Adversarial Contributions to Education Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Transparency in Reporting of Adversarial Contributions to Education Act</title>
+        <updateDate>2025-03-06T07:23:19Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Transparency in Reporting of Adversarial Contributions to Education Act</title>
@@ -212,6 +268,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-03-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr1049rh/xml/BILLS-119hr1049rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-02-06T05:00:00Z</date>
         <formats>
@@ -222,8 +287,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-12</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 20 - 13.</text>
+      <actionDate>2025-03-05</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 7.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

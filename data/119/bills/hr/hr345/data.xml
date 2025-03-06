@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="345" updated="2025-02-11T05:08:17Z">
+<bill session="119" type="h" number="345" updated="2025-03-06T09:06:19Z">
   <state datetime="2025-01-13">REFERRED</state>
   <status>
     <introduced datetime="2025-01-13"/>
@@ -35,11 +35,15 @@
     <action datetime="2025-01-13">
       <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Armed Services, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-02-14">
+      <text>Referred to the Subcommittee on Forestry.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG15" name="House Agriculture" subcommittee="Forestry and Horticulture" activity="Referral"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
-    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

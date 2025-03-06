@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>36</number>
-    <updateDate>2025-02-27T13:54:59Z</updateDate>
-    <updateDateIncludingText>2025-02-27T13:54:59Z</updateDateIncludingText>
+    <updateDate>2025-03-06T09:06:05Z</updateDate>
+    <updateDateIncludingText>2025-03-06T09:06:05Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HJRES</type>
@@ -19,6 +19,18 @@
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-02-14T17:52:23Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -46,6 +58,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-02-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Forestry.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-02-05</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -205,8 +232,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-05</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2025-02-14</actionDate>
+      <text>Referred to the Subcommittee on Forestry.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
