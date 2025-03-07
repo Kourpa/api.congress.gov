@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>190</number>
-    <updateDate>2025-03-07T09:05:35Z</updateDate>
-    <updateDateIncludingText>2025-03-07T09:05:35Z</updateDateIncludingText>
+    <updateDate>2025-03-07T14:23:32Z</updateDate>
+    <updateDateIncludingText>2025-03-07T14:23:32Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -19,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-03-06T15:58:00Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-03-05T15:00:45Z</date>
           </item>
@@ -26,6 +30,81 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-06</actionDate>
+        <actionTime>10:58:29</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-06</actionDate>
+        <actionTime>10:58:28</actionTime>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H1020)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-06</actionDate>
+        <actionTime>10:58:28</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.  (text: CR H1020)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-06</actionDate>
+        <actionTime>10:58:02</actionTime>
+        <text>Considered by unanimous consent. (consideration: CR H1020)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-06</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-06</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-06</actionDate>
+        <actionTime>10:58:00</actionTime>
+        <text>Mrs. Miller (IL) asked unanimous consent to discharge from committee and consider.</text>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-03-05</actionDate>
         <text>Referred to the House Committee on House Administration.</text>
@@ -47,15 +126,6 @@
         <text>Submitted in House</text>
         <type>Committee</type>
         <actionCode>H12100</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
-      </item>
-      <item>
-        <actionDate>2025-03-05</actionDate>
-        <type>Committee</type>
-        <actionCode>5000</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -126,8 +196,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-05</actionDate>
-      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2025-03-06</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>10:58:29</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

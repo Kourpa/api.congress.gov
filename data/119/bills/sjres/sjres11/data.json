@@ -129,7 +129,12 @@
       "bill_ids": [
         "hres177-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1014-1019",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 177.",
       "type": "action"
     },
@@ -162,7 +167,12 @@
       "acted_at": "2025-03-06T10:21:53-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1014-1015",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "61",
       "status": "PASSED:BILL",
@@ -290,6 +300,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-07T09:06:20Z",
+  "updated_at": "2025-03-07T14:01:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres11.xml"
 }

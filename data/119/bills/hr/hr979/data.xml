@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="979" updated="2025-03-07T09:07:07Z">
+<bill session="119" type="h" number="979" updated="2025-03-07T14:23:06Z">
   <state datetime="2025-02-05">REFERRED</state>
   <status>
     <introduced datetime="2025-02-05"/>
@@ -123,7 +123,11 @@
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="315" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
   <amendments/>
 </bill>

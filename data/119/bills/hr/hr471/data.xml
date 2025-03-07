@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="471" updated="2025-02-27T19:28:50Z">
+<bill session="119" type="h" number="471" updated="2025-03-07T11:56:28Z">
   <state datetime="2025-01-23T15:45:53-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-01-23T15:45:53-05:00"/>
@@ -133,8 +133,13 @@
     <action datetime="2025-01-28">
       <text>Received in the Senate.</text>
     </action>
+    <action datetime="2025-03-06">
+      <text>Committee on Agriculture, Nutrition, and Forestry Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology. Hearings held.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="" activity=""/>
+    <committee code="SSAF14" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="Conservation, Climate, Forestry, and Natural Resources" activity="Hearings By (Subcommittee)"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>

@@ -85,9 +85,75 @@
       ],
       "text": "Motion to proceed to measure considered in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-03-06",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S1596",
+          "type": null
+        }
+      ],
+      "text": "Motion to proceed to measure considered in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-06",
+      "action_code": "",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR S1596",
+          "type": null
+        }
+      ],
+      "result": "pass",
+      "roll": "110",
+      "text": "Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 82 - 12. Record Vote Number: 110.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt1236-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "1236"
+    },
+    {
+      "amendment_id": "samdt1235-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "1235"
+    },
+    {
+      "amendment_id": "samdt1234-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "1234"
+    },
+    {
+      "amendment_id": "samdt1233-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "1233"
+    },
+    {
+      "amendment_id": "samdt1232-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "1232"
+    },
+    {
+      "amendment_id": "samdt1231-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "1231"
+    }
+  ],
   "bill_id": "s331-119",
   "bill_type": "s",
   "by_request": false,
@@ -132,6 +198,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-01-30",
       "state": "WV",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001035",
+      "district": null,
+      "name": "Collins, Susan M.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-06",
+      "state": "ME",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -236,6 +312,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "J000312",
+      "district": null,
+      "name": "Justice, James C.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-06",
+      "state": "WV",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "K000377",
       "district": null,
       "name": "Kelly, Mark",
@@ -286,12 +372,32 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "M001243",
+      "district": null,
+      "name": "McCormick, David",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-06",
+      "state": "PA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "M001244",
       "district": null,
       "name": "Moody, Ashley",
       "original_cosponsor": false,
       "sponsored_at": "2025-02-11",
       "state": "FL",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "R000618",
+      "district": null,
+      "name": "Ricketts, Pete",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-06",
+      "state": "NE",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -326,6 +432,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "S001198",
+      "district": null,
+      "name": "Sullivan, Dan",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-06",
+      "state": "AK",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "T000476",
       "district": null,
       "name": "Tillis, Thomas",
@@ -352,6 +468,8 @@
     "active_at": "2025-02-27",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_cloture_result": "pass",
+    "senate_cloture_result_at": "2025-03-06",
     "vetoed": false
   },
   "introduced_at": "2025-01-30",
@@ -436,6 +554,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-06T14:13:57Z",
+  "updated_at": "2025-03-07T14:00:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s331.xml"
 }
