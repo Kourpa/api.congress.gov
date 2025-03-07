@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1716" updated="2025-02-28T09:35:46Z">
-  <state datetime="2025-02-27">REFERRED</state>
+<bill session="119" type="h" number="1716" updated="2025-03-07T09:06:16Z">
+  <state datetime="2025-03-05">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-27"/>
+    <unknown datetime="2025-03-05"/>
   </status>
   <introduced datetime="2025-02-27"/>
   <titles>
@@ -23,10 +23,16 @@
     <action datetime="2025-02-27">
       <text>Referred to the Committee on Financial Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-03-05">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-03-05" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 0.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

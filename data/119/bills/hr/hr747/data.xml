@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="747" updated="2025-02-25T05:08:23Z">
-  <state datetime="2025-01-28">REFERRED</state>
+<bill session="119" type="h" number="747" updated="2025-03-07T09:06:27Z">
+  <state datetime="2025-03-05">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-28"/>
+    <unknown datetime="2025-03-05"/>
   </status>
   <introduced datetime="2025-01-28"/>
   <titles>
@@ -30,11 +30,17 @@
     <action datetime="2025-01-28">
       <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-03-05">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-03-05" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 0.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
