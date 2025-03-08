@@ -1,7 +1,7 @@
-<bill session="119" type="hc" number="9" updated="2025-02-10T19:59:35Z">
-  <state datetime="2025-02-06">REFERRED</state>
+<bill session="119" type="hc" number="9" updated="2025-03-08T09:05:53Z">
+  <state datetime="2025-02-26">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-06"/>
+    <unknown datetime="2025-02-26"/>
   </status>
   <introduced datetime="2025-02-06"/>
   <titles>
@@ -13,19 +13,33 @@
     <cosponsor bioguide_id="S001211" joined="2025-02-06"/>
   </cosponsors>
   <actions>
-    <action datetime="2025-02-06">
-      <text>Submitted in House</text>
-    </action>
     <action datetime="2025-02-06" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2025-02-26">
+      <text>Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged</text>
+    </action>
+    <action datetime="2025-02-26">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-02-26" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Law enforcement officers"/>
+    <term name="Monuments and memorials"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Music"/>
+    <term name="U.S. Capitol"/>
   </subjects>
   <amendments/>
 </bill>

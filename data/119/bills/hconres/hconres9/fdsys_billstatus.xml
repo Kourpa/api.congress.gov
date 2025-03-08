@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>9</number>
-    <updateDate>2025-02-10T19:59:35Z</updateDate>
-    <updateDateIncludingText>2025-02-10T19:59:35Z</updateDateIncludingText>
+    <updateDate>2025-03-08T09:05:53Z</updateDate>
+    <updateDateIncludingText>2025-03-08T09:05:53Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -17,7 +17,27 @@
         <name>Transportation and Infrastructure Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-02-06T15:09:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
+          <item>
+            <name>Markup By</name>
+            <date>2025-02-26T18:10:59Z</date>
+          </item>
+          <item>
+            <name>Discharged from</name>
+            <date>2025-02-26T16:44:16Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-02-06T15:08:15Z</date>
@@ -26,6 +46,45 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-02-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-02-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-02-26</actionDate>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-02-06</actionDate>
         <text>Referred to the House Committee on Transportation and Infrastructure.</text>
@@ -41,25 +100,6 @@
             <name>Transportation and Infrastructure Committee</name>
           </item>
         </committees>
-      </item>
-      <item>
-        <actionDate>2025-02-06</actionDate>
-        <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
-      </item>
-      <item>
-        <actionDate>2025-02-06</actionDate>
-        <type>Committee</type>
-        <actionCode>5000</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
       </item>
     </actions>
     <sponsors>
@@ -91,7 +131,36 @@
       <name>Congress</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Commemorative events and holidays</name>
+          <updateDate>2025-03-03T16:27:50Z</updateDate>
+        </item>
+        <item>
+          <name>Government buildings, facilities, and property</name>
+          <updateDate>2025-03-03T16:27:50Z</updateDate>
+        </item>
+        <item>
+          <name>Law enforcement officers</name>
+          <updateDate>2025-03-03T16:27:50Z</updateDate>
+        </item>
+        <item>
+          <name>Monuments and memorials</name>
+          <updateDate>2025-03-03T16:27:50Z</updateDate>
+        </item>
+        <item>
+          <name>Museums, exhibitions, cultural centers</name>
+          <updateDate>2025-03-03T16:27:50Z</updateDate>
+        </item>
+        <item>
+          <name>Music</name>
+          <updateDate>2025-03-03T16:27:50Z</updateDate>
+        </item>
+        <item>
+          <name>U.S. Capitol</name>
+          <updateDate>2025-03-03T16:27:50Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Congress</name>
         <updateDate>2025-02-10T19:59:35Z</updateDate>
@@ -126,8 +195,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-06</actionDate>
-      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      <actionDate>2025-02-26</actionDate>
+      <text>Ordered to be Reported by Voice Vote.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

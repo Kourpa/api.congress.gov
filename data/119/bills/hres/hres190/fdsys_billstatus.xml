@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>190</number>
-    <updateDate>2025-03-07T14:23:32Z</updateDate>
-    <updateDateIncludingText>2025-03-07T14:23:32Z</updateDateIncludingText>
+    <updateDate>2025-03-08T09:05:52Z</updateDate>
+    <updateDateIncludingText>2025-03-08T09:05:52Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -18,6 +18,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-03-06T15:58:01Z</date>
+          </item>
           <item>
             <name>Discharged From</name>
             <date>2025-03-06T15:58:00Z</date>
@@ -55,6 +59,17 @@
       <item>
         <actionDate>2025-03-06</actionDate>
         <actionTime>10:58:28</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H1020)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-06</actionDate>
+        <actionTime>10:58:28</actionTime>
         <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.  (text: CR H1020)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
@@ -83,6 +98,12 @@
           <code>2</code>
           <name>House floor actions</name>
         </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
       </item>
       <item>
         <actionDate>2025-03-06</actionDate>
@@ -93,6 +114,28 @@
           <code>9</code>
           <name>Library of Congress</name>
         </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-03-06</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
       </item>
       <item>
         <actionDate>2025-03-06</actionDate>
@@ -120,16 +163,6 @@
             <name>Committee on House Administration</name>
           </item>
         </committees>
-      </item>
-      <item>
-        <actionDate>2025-03-05</actionDate>
-        <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
       </item>
     </actions>
     <sponsors>

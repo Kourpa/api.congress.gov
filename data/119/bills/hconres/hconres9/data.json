@@ -2,13 +2,6 @@
   "actions": [
     {
       "acted_at": "2025-02-06",
-      "action_code": "H12100",
-      "references": [],
-      "text": "Submitted in House",
-      "type": "action"
-    },
-    {
-      "acted_at": "2025-02-06",
       "action_code": "H11100",
       "committees": [
         "HSPW"
@@ -17,6 +10,34 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Transportation and Infrastructure.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-26",
+      "action_code": "",
+      "references": [],
+      "text": "Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-26",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-02-26",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,10 +48,21 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
+        "discharged",
         "Referred To"
       ],
       "committee": "House Transportation and Infrastructure",
       "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management",
+      "subcommittee_id": "13"
     }
   ],
   "congress": "119",
@@ -48,7 +80,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-02-26",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -67,10 +100,17 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-06",
+  "status": "REPORTED",
+  "status_at": "2025-02-26",
   "subjects": [
-    "Congress"
+    "Commemorative events and holidays",
+    "Congress",
+    "Government buildings, facilities, and property",
+    "Law enforcement officers",
+    "Monuments and memorials",
+    "Museums, exhibitions, cultural centers",
+    "Music",
+    "U.S. Capitol"
   ],
   "subjects_top_term": "Congress",
   "summary": null,
@@ -90,6 +130,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-10T19:59:35Z",
+  "updated_at": "2025-03-08T09:05:53Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres9.xml"
 }
