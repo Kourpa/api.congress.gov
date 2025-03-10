@@ -2,6 +2,13 @@
   "actions": [
     {
       "acted_at": "2025-03-05",
+      "action_code": "1025",
+      "references": [],
+      "text": "Submitted in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-05",
       "action_code": "H11100",
       "committees": [
         "HSHA"
@@ -121,8 +128,10 @@
   },
   "status": "PASSED:SIMPLERES",
   "status_at": "2025-03-06T10:58:28-05:00",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Congress"
+  ],
+  "subjects_top_term": "Congress",
   "summary": null,
   "titles": [
     {
@@ -140,6 +149,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-08T09:05:52Z",
+  "updated_at": "2025-03-10T17:37:05Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres190.xml"
 }
