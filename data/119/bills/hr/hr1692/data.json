@@ -28,7 +28,16 @@
     {
       "acted_at": "2025-03-10T16:52:34-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1055-1056",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H1055",
+          "type": "text"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -98,8 +107,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-02-27",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Government operations and politics"
+  ],
+  "subjects_top_term": "Government operations and politics",
   "summary": null,
   "titles": [
     {
@@ -131,6 +142,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-11T08:05:59Z",
+  "updated_at": "2025-03-11T14:46:34Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1692.xml"
 }

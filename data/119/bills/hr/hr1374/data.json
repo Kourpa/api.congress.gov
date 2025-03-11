@@ -38,7 +38,12 @@
     {
       "acted_at": "2025-03-10T16:59:52-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1056-1057",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -53,7 +58,12 @@
       "acted_at": "2025-03-10T17:12:15-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1056",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -142,8 +152,10 @@
   },
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-03-10T17:12:15-04:00",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Emergency management"
+  ],
+  "subjects_top_term": "Emergency management",
   "summary": null,
   "titles": [
     {
@@ -168,6 +180,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-11T08:07:20Z",
+  "updated_at": "2025-03-11T14:45:32Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1374.xml"
 }

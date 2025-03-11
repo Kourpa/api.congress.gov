@@ -38,7 +38,12 @@
     {
       "acted_at": "2025-03-10T16:46:09-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1053-1054",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -53,7 +58,12 @@
       "acted_at": "2025-03-10T16:51:41-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1053-1054",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -162,8 +172,10 @@
   },
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-03-10T16:51:41-04:00",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Foreign trade and international finance"
+  ],
+  "subjects_top_term": "Foreign trade and international finance",
   "summary": null,
   "titles": [
     {
@@ -188,6 +200,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-11T08:06:21Z",
+  "updated_at": "2025-03-11T14:44:45Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1166.xml"
 }
