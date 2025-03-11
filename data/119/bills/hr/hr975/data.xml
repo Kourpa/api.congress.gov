@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="975" updated="2025-02-15T05:23:17Z">
+<bill session="119" type="h" number="975" updated="2025-03-10T19:25:12Z">
   <state datetime="2025-02-10T17:24:44-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-02-10T17:24:44-05:00"/>
@@ -68,7 +68,9 @@
     <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="185" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Finance and financial sector"/>
     <term name="Administrative remedies"/>
