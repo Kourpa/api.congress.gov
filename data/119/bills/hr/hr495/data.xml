@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="495" updated="2025-03-05T16:27:24Z">
-  <state datetime="2025-01-16">REFERRED</state>
+<bill session="119" type="h" number="495" updated="2025-03-11T08:05:51Z">
+  <state datetime="2025-03-10T18:53:25-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-16"/>
+    <unknown datetime="2025-03-10T18:53:25-04:00"/>
   </status>
   <introduced datetime="2025-01-16"/>
   <titles>
@@ -13,6 +13,7 @@
   <cosponsors>
     <cosponsor bioguide_id="B001302" joined="2025-01-16"/>
     <cosponsor bioguide_id="C001110" joined="2025-01-16"/>
+    <cosponsor bioguide_id="G000602" joined="2025-03-10"/>
     <cosponsor bioguide_id="G000565" joined="2025-01-16"/>
     <cosponsor bioguide_id="G000591" joined="2025-01-21"/>
     <cosponsor bioguide_id="H001077" joined="2025-01-16"/>
@@ -28,6 +29,27 @@
     </action>
     <action datetime="2025-01-16">
       <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+    </action>
+    <action datetime="2025-03-10T16:01:04-04:00">
+      <text>Mr. Green (TN) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-03-10T16:01:06-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-03-10T16:01:08-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 495.</text>
+    </action>
+    <action datetime="2025-03-10T16:08:15-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2025-03-10T18:31:41-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="63" datetime="2025-03-10T18:53:25-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 63).</text>
+    </vote>
+    <action datetime="2025-03-10T18:53:26-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

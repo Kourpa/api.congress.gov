@@ -27,6 +27,47 @@
       "references": [],
       "text": "Referred to the Subcommittee on Transportation and Maritime Security.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-10T16:16:39-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Green (TN) moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-10T16:16:51-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-10T16:16:53-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 862.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-10T16:24:24-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-03-10T16:24:26-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -85,6 +126,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "G000602",
+      "district": "4",
+      "name": "Gillen, Laura",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-10",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "L000598",
       "district": "1",
       "name": "LaLota, Nick",
@@ -127,9 +178,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-10T16:16:39-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-03-10T16:24:24-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-31",
@@ -146,8 +200,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-31",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-03-10T16:24:24-04:00",
   "subjects": [
     "Transportation and public works"
   ],
@@ -181,6 +235,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-07T09:06:54Z",
+  "updated_at": "2025-03-11T08:05:34Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr862.xml"
 }

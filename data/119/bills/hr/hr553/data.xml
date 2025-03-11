@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="553" updated="2025-02-28T20:38:50Z">
+<bill session="119" type="h" number="553" updated="2025-03-11T08:07:01Z">
   <state datetime="2025-01-16">REFERRED</state>
   <status>
     <introduced datetime="2025-01-16"/>
@@ -22,9 +22,13 @@
     <action datetime="2025-01-16" state="REFERRED">
       <text>Referred to the House Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-02-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

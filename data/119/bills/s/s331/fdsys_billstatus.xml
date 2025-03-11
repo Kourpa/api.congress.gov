@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>331</number>
-    <updateDate>2025-03-10T18:20:18Z</updateDate>
-    <updateDateIncludingText>2025-03-10T18:20:18Z</updateDateIncludingText>
+    <updateDate>2025-03-11T11:08:20Z</updateDate>
+    <updateDateIncludingText>2025-03-11T11:08:20Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -51,6 +51,30 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-03-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by motion.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-03-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-03-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to measure considered in Senate.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2025-03-06</actionDate>
         <sourceSystem>
@@ -488,6 +512,16 @@
         <sponsorshipDate>2025-03-06</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <sponsorshipDate>2025-03-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <cboCostEstimates>
       <item>
@@ -545,7 +579,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>HALT Fentanyl Act</title>
-        <updateDate>2025-03-07T12:03:18Z</updateDate>
+        <updateDate>2025-03-11T11:03:19Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Reported to Senate</titleType>
@@ -594,10 +628,477 @@
     </titles>
     <amendments>
       <amendment>
+        <number>1244</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2025-03-11T11:08:20Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>S001217</bioguideId>
+            <fullName>Sen. Scott, Rick [R-FL]</fullName>
+            <firstName>Rick</firstName>
+            <lastName>Scott</lastName>
+            <party>R</party>
+            <state>FL</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2025-03-10T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>331</number>
+          <title>HALT Fentanyl Act</title>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>1243</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2025-03-11T11:08:20Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C001088</bioguideId>
+            <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+            <firstName>Christopher</firstName>
+            <lastName>Coons</lastName>
+            <party>D</party>
+            <state>DE</state>
+            <middleName>A.</middleName>
+          </item>
+        </sponsors>
+        <submittedDate>2025-03-10T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>331</number>
+          <title>HALT Fentanyl Act</title>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>1242</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2025-03-11T11:08:20Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C001088</bioguideId>
+            <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+            <firstName>Christopher</firstName>
+            <lastName>Coons</lastName>
+            <party>D</party>
+            <state>DE</state>
+            <middleName>A.</middleName>
+          </item>
+        </sponsors>
+        <submittedDate>2025-03-10T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>331</number>
+          <title>HALT Fentanyl Act</title>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>1241</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2025-03-11T11:08:20Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C001113</bioguideId>
+            <fullName>Sen. Cortez Masto, Catherine [D-NV]</fullName>
+            <firstName>Catherine</firstName>
+            <lastName>Cortez Masto</lastName>
+            <party>D</party>
+            <state>NV</state>
+          </item>
+        </sponsors>
+        <submittedDate>2025-03-10T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>331</number>
+          <title>HALT Fentanyl Act</title>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>1240</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2025-03-11T11:08:20Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C001113</bioguideId>
+            <fullName>Sen. Cortez Masto, Catherine [D-NV]</fullName>
+            <firstName>Catherine</firstName>
+            <lastName>Cortez Masto</lastName>
+            <party>D</party>
+            <state>NV</state>
+          </item>
+        </sponsors>
+        <submittedDate>2025-03-10T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>331</number>
+          <title>HALT Fentanyl Act</title>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>1239</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2025-03-11T11:08:20Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>B001303</bioguideId>
+            <fullName>Sen. Blunt Rochester, Lisa [D-DE]</fullName>
+            <firstName>Lisa</firstName>
+            <lastName>Blunt Rochester</lastName>
+            <party>D</party>
+            <state>DE</state>
+          </item>
+        </sponsors>
+        <submittedDate>2025-03-10T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>331</number>
+          <title>HALT Fentanyl Act</title>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>1238</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2025-03-11T11:08:20Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>L000570</bioguideId>
+            <fullName>Sen. Lujan, Ben Ray [D-NM]</fullName>
+            <firstName>Ben</firstName>
+            <lastName>Lujan</lastName>
+            <party>D</party>
+            <state>NM</state>
+            <middleName>R.</middleName>
+          </item>
+        </sponsors>
+        <submittedDate>2025-03-10T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>331</number>
+          <title>HALT Fentanyl Act</title>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>1237</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the bill.</purpose>
+        <updateDate>2025-03-11T11:08:20Z</updateDate>
+        <latestAction>
+          <actionDate>2025-03-10</actionDate>
+          <text>Amendment SA 1237 proposed by Senator Thune for Senator Grassley. To improve the bill.</text>
+          <links>
+            <link>
+              <name>SA 1237</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/1237</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>G000386</bioguideId>
+            <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+            <firstName>Chuck</firstName>
+            <lastName>Grassley</lastName>
+            <party>R</party>
+            <state>IA</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2025-03-10T04:00:00Z</proposedDate>
+        <submittedDate>2025-03-10T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>331</number>
+          <title>HALT Fentanyl Act</title>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1237 proposed by Senator Thune for Senator Grassley. To improve the bill.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-03-10</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 1237 proposed by Senator Thune for Senator Grassley.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
         <number>1236</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2025-03-07T12:08:22Z</updateDate>
+        <updateDate>2025-03-10T21:24:28Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001288</bioguideId>
@@ -608,6 +1109,41 @@
             <state>NJ</state>
           </item>
         </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
+          <count>3</count>
+          <item>
+            <bioguideId>P000145</bioguideId>
+            <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+            <firstName>Alex</firstName>
+            <lastName>Padilla</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>S001150</bioguideId>
+            <fullName>Sen. Schiff, Adam B. [D-CA]</fullName>
+            <firstName>Adam</firstName>
+            <lastName>Schiff</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <middleName>B.</middleName>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>B001303</bioguideId>
+            <fullName>Sen. Blunt Rochester, Lisa [D-DE]</fullName>
+            <firstName>Lisa</firstName>
+            <lastName>Blunt Rochester</lastName>
+            <party>D</party>
+            <state>DE</state>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+        </cosponsors>
         <submittedDate>2025-03-06T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -617,7 +1153,7 @@
           <originChamberCode>S</originChamberCode>
           <number>331</number>
           <title>HALT Fentanyl Act</title>
-          <updateDateIncludingText>2025-03-10</updateDateIncludingText>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -648,7 +1184,7 @@
         <number>1235</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2025-03-07T12:08:21Z</updateDate>
+        <updateDate>2025-03-10T21:24:16Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001288</bioguideId>
@@ -659,6 +1195,41 @@
             <state>NJ</state>
           </item>
         </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
+          <count>3</count>
+          <item>
+            <bioguideId>P000145</bioguideId>
+            <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+            <firstName>Alex</firstName>
+            <lastName>Padilla</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>S001150</bioguideId>
+            <fullName>Sen. Schiff, Adam B. [D-CA]</fullName>
+            <firstName>Adam</firstName>
+            <lastName>Schiff</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <middleName>B.</middleName>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>B001303</bioguideId>
+            <fullName>Sen. Blunt Rochester, Lisa [D-DE]</fullName>
+            <firstName>Lisa</firstName>
+            <lastName>Blunt Rochester</lastName>
+            <party>D</party>
+            <state>DE</state>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+        </cosponsors>
         <submittedDate>2025-03-06T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -668,7 +1239,7 @@
           <originChamberCode>S</originChamberCode>
           <number>331</number>
           <title>HALT Fentanyl Act</title>
-          <updateDateIncludingText>2025-03-10</updateDateIncludingText>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -699,7 +1270,7 @@
         <number>1234</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2025-03-07T12:08:21Z</updateDate>
+        <updateDate>2025-03-10T21:23:58Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001288</bioguideId>
@@ -710,6 +1281,41 @@
             <state>NJ</state>
           </item>
         </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
+          <count>3</count>
+          <item>
+            <bioguideId>P000145</bioguideId>
+            <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+            <firstName>Alex</firstName>
+            <lastName>Padilla</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>S001150</bioguideId>
+            <fullName>Sen. Schiff, Adam B. [D-CA]</fullName>
+            <firstName>Adam</firstName>
+            <lastName>Schiff</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <middleName>B.</middleName>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>B001303</bioguideId>
+            <fullName>Sen. Blunt Rochester, Lisa [D-DE]</fullName>
+            <firstName>Lisa</firstName>
+            <lastName>Blunt Rochester</lastName>
+            <party>D</party>
+            <state>DE</state>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+        </cosponsors>
         <submittedDate>2025-03-06T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -719,7 +1325,7 @@
           <originChamberCode>S</originChamberCode>
           <number>331</number>
           <title>HALT Fentanyl Act</title>
-          <updateDateIncludingText>2025-03-10</updateDateIncludingText>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -750,7 +1356,7 @@
         <number>1233</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2025-03-07T12:08:21Z</updateDate>
+        <updateDate>2025-03-10T21:23:43Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001288</bioguideId>
@@ -761,6 +1367,41 @@
             <state>NJ</state>
           </item>
         </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
+          <count>3</count>
+          <item>
+            <bioguideId>P000145</bioguideId>
+            <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+            <firstName>Alex</firstName>
+            <lastName>Padilla</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>S001150</bioguideId>
+            <fullName>Sen. Schiff, Adam B. [D-CA]</fullName>
+            <firstName>Adam</firstName>
+            <lastName>Schiff</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <middleName>B.</middleName>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>B001303</bioguideId>
+            <fullName>Sen. Blunt Rochester, Lisa [D-DE]</fullName>
+            <firstName>Lisa</firstName>
+            <lastName>Blunt Rochester</lastName>
+            <party>D</party>
+            <state>DE</state>
+            <sponsorshipDate>2025-03-10</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+        </cosponsors>
         <submittedDate>2025-03-06T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -770,7 +1411,7 @@
           <originChamberCode>S</originChamberCode>
           <number>331</number>
           <title>HALT Fentanyl Act</title>
-          <updateDateIncludingText>2025-03-10</updateDateIncludingText>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -821,7 +1462,7 @@
           <originChamberCode>S</originChamberCode>
           <number>331</number>
           <title>HALT Fentanyl Act</title>
-          <updateDateIncludingText>2025-03-10</updateDateIncludingText>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -949,7 +1590,7 @@
           <originChamberCode>S</originChamberCode>
           <number>331</number>
           <title>HALT Fentanyl Act</title>
-          <updateDateIncludingText>2025-03-10</updateDateIncludingText>
+          <updateDateIncludingText>2025-03-11</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -998,8 +1639,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-06</actionDate>
-      <text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 82 - 12. Record Vote Number: 110. (CR S1596)</text>
+      <actionDate>2025-03-10</actionDate>
+      <text>Measure laid before Senate by motion.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

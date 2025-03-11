@@ -27,6 +27,62 @@
       "references": [],
       "text": "Referred to the Subcommittee on Border Security and Enforcement.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-10T16:39:40-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Green (TN) moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-10T16:39:43-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-10T16:39:45-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 993.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-10T16:45:32-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-10T19:02:06-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-10T19:08:27-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "65",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 9 (Roll no. 65).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-03-10T19:08:28-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -55,6 +111,16 @@
   "congress": "119",
   "cosponsors": [
     {
+      "bioguide_id": "G000602",
+      "district": "4",
+      "name": "Gillen, Laura",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-10",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "L000603",
       "district": "8",
       "name": "Luttrell, Morgan",
@@ -67,9 +133,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-10T16:39:40-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-03-10T19:08:27-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-05",
@@ -86,8 +155,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-05",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-03-10T19:08:27-04:00",
   "subjects": [
     "Immigration"
   ],
@@ -121,6 +190,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-10T19:34:53Z",
+  "updated_at": "2025-03-11T08:06:55Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr993.xml"
 }

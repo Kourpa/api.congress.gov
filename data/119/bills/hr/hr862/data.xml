@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="862" updated="2025-03-07T09:06:54Z">
-  <state datetime="2025-01-31">REFERRED</state>
+<bill session="119" type="h" number="862" updated="2025-03-11T08:05:34Z">
+  <state datetime="2025-03-10T16:24:24-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-31"/>
+    <unknown datetime="2025-03-10T16:24:24-04:00"/>
   </status>
   <introduced datetime="2025-01-31"/>
   <titles>
@@ -14,6 +14,7 @@
     <cosponsor bioguide_id="C001112" joined="2025-02-12"/>
     <cosponsor bioguide_id="C001127" joined="2025-02-25"/>
     <cosponsor bioguide_id="G000597" joined="2025-01-31"/>
+    <cosponsor bioguide_id="G000602" joined="2025-03-10"/>
     <cosponsor bioguide_id="L000598" joined="2025-03-04"/>
     <cosponsor bioguide_id="L000599" joined="2025-02-24"/>
     <cosponsor bioguide_id="M001238" joined="2025-03-06"/>
@@ -28,6 +29,21 @@
     </action>
     <action datetime="2025-01-31">
       <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
+    </action>
+    <action datetime="2025-03-10T16:16:39-04:00">
+      <text>Mr. Green (TN) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-03-10T16:16:51-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-03-10T16:16:53-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 862.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-03-10T16:24:24-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-03-10T16:24:26-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>
