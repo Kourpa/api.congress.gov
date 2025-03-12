@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="736" updated="2025-02-15T05:23:16Z">
+<bill session="119" type="h" number="736" updated="2025-03-12T17:12:55Z">
   <state datetime="2025-02-10T18:58:32-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-02-10T18:58:32-05:00"/>
@@ -65,7 +65,9 @@
     <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="505" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Finance and financial sector"/>
     <term name="Business records"/>
