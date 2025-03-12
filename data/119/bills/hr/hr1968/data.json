@@ -56,7 +56,12 @@
       "bill_ids": [
         "hres211-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1102-1124",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 211.",
       "type": "action"
     },
@@ -91,7 +96,12 @@
       "committees": [
         "HSAP"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1123-1124",
+          "type": "text"
+        }
+      ],
       "text": "Ms. Meng moved to recommit to the Committee on Appropriations.",
       "type": "action"
     },
@@ -112,7 +122,12 @@
     {
       "acted_at": "2025-03-11T17:34:21-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1124-1126",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -130,7 +145,12 @@
       "acted_at": "2025-03-11T17:47:28-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1102-1113",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "70",
       "status": "PASS_OVER:HOUSE",
@@ -256,6 +276,13 @@
       "type": "short"
     },
     {
+      "as": "senate calendar) bill text",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -270,6 +297,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-12T10:56:28Z",
+  "updated_at": "2025-03-12T15:11:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1968.xml"
 }

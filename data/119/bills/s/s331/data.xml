@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="331" updated="2025-03-12T11:08:25Z">
+<bill session="119" type="s" number="331" updated="2025-03-12T13:12:05Z">
   <state datetime="2025-02-27">REPORTED</state>
   <status>
     <unknown datetime="2025-02-27"/>
@@ -95,9 +95,11 @@
     </action>
     <action datetime="2025-03-11">
       <text>Considered by Senate.</text>
+      <reference ref="CR S1659" label="consideration"/>
     </action>
     <action datetime="2025-03-11">
       <text>Cloture motion on the measure presented in Senate.</text>
+      <reference ref="CR S1659"/>
     </action>
   </actions>
   <committees>

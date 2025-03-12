@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="211" updated="2025-03-12T08:36:11Z">
+<bill session="119" type="hr" number="211" updated="2025-03-12T15:11:14Z">
   <state datetime="2025-03-11T14:06:22-04:00">PASSED:SIMPLERES</state>
   <status>
     <unknown datetime="2025-03-11T14:06:22-04:00"/>
@@ -22,6 +22,7 @@
     </calendar>
     <action datetime="2025-03-11T12:27:20-04:00">
       <text>Considered as privileged matter.</text>
+      <reference ref="CR H1083-1093" label="consideration"/>
     </action>
     <action datetime="2025-03-11T12:30:43-04:00">
       <text>DEBATE - The House proceeded with one hour of debate on H. Res. 211.</text>
@@ -31,6 +32,7 @@
     </action>
     <vote how="roll" type="vote" roll="67" datetime="2025-03-11T14:06:22-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
       <text>On agreeing to the resolution Agreed to by recorded vote: 216 - 214 (Roll no. 67).</text>
+      <reference ref="CR H1083" label="text"/>
     </vote>
     <action datetime="2025-03-11T14:06:25-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -46,4 +48,7 @@
   </relatedbills>
   <subjects/>
   <amendments/>
+  <committee-reports>
+    <report>H. Rept. 119-15</report>
+  </committee-reports>
 </bill>

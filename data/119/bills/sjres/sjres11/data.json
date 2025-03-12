@@ -102,18 +102,6 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-03-03T19:17:34-05:00",
-      "action_code": "H1L210",
-      "bill_ids": [
-        "hres177-119",
-        "hjres42-119",
-        "hjres61-119"
-      ],
-      "references": [],
-      "text": "Rules Committee Resolution H. Res. 177 Reported to House. Rule provides for consideration of H.J. Res. 42, H.J. Res. 61 and S.J. Res. 11. The resolution provides for consideration of H.J. Res. 42, H.J. Res. 61, and S.J. Res. 11 under a closed rule with one of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 42 and H.J. Res. 61 and one motion to commit on S.J. Res. 11.",
-      "type": "action"
-    },
-    {
       "acted_at": "2025-03-04T14:03:41-05:00",
       "action_code": "H1L220",
       "bill_ids": [
@@ -188,6 +176,20 @@
       "references": [],
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-03-10",
+      "action_code": "28000",
+      "references": [],
+      "text": "Presented to President",
+      "type": "topresident"
+    },
+    {
+      "acted_at": "2025-03-10",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -232,7 +234,8 @@
   "history": {
     "active": true,
     "active_at": "2025-02-24",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2025-03-10",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-03-06T10:21:53-05:00",
@@ -300,6 +303,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-07T14:01:22Z",
+  "updated_at": "2025-03-12T11:43:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres11.xml"
 }

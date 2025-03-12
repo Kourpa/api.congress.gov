@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1692" updated="2025-03-12T08:07:40Z">
+<bill session="119" type="h" number="1692" updated="2025-03-12T14:50:58Z">
   <state datetime="2025-03-11T17:54:49-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-03-11T17:54:49-04:00"/>
@@ -27,7 +27,6 @@
     <action datetime="2025-03-10T16:52:34-04:00">
       <text>Considered under suspension of the rules.</text>
       <reference ref="CR H1055-1056" label="consideration"/>
-      <reference ref="CR H1055" label="text"/>
     </action>
     <action datetime="2025-03-10T16:52:35-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1692.</text>
@@ -37,9 +36,11 @@
     </action>
     <action datetime="2025-03-11T17:54:26-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H1127" label="consideration"/>
     </action>
     <vote how="by voice vote" type="vote" datetime="2025-03-11T17:54:49-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="3/10/2025 CR H1055" label="text"/>
     </vote>
     <action datetime="2025-03-11T17:54:54-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

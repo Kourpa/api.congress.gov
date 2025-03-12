@@ -77,7 +77,12 @@
       "bill_ids": [
         "hres211-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1093-1099",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 211.",
       "type": "action"
     },
@@ -116,7 +121,12 @@
     {
       "acted_at": "2025-03-11T17:11:49-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1124",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -124,7 +134,12 @@
       "acted_at": "2025-03-11T17:34:12-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1093-1094",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "68",
       "status": "PASS_OVER:HOUSE",
@@ -494,6 +509,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-12T08:36:11Z",
+  "updated_at": "2025-03-12T15:11:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1156.xml"
 }
