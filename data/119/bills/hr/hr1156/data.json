@@ -58,9 +58,98 @@
       "text": "Placed on the Union Calendar, Calendar No. 2.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-03-11T10:09:59-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres211-119",
+        "hjres25-119",
+        "hr1968-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 211 Reported to House. Rule provides for consideration of H.J. Res. 25, H.R. 1156 and H.R. 1968. The resolution provides for consideration of H.J. Res. 25, H.R. 1156, and H.R. 1968 under a closed rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-11T14:16:12-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres211-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 211.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-11T14:16:17-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hjres25-119",
+        "hr1968-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.J. Res. 25, H.R. 1156 and H.R. 1968. The resolution provides for consideration of H.J. Res. 25, H.R. 1156, and H.R. 1968 under a closed rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-11T14:17:10-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 1156.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-11T15:06:07-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-11T15:06:33-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1156, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Davis (IL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-11T17:11:49-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-11T17:34:12-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "68",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 295 - 127 (Roll no. 68).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-03-11T17:34:13-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt7-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "7"
+    }
+  ],
   "bill_id": "hr1156-119",
   "bill_type": "hr",
   "by_request": false,
@@ -337,13 +426,22 @@
     "active_at": "2025-02-12",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-03-11T17:34:12-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-10",
   "number": "1156",
   "official_title": "To amend the CARES Act to extend the statute of limitations for fraud under certain unemployment programs, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres211-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Pandemic Unemployment Fraud Enforcement Act",
   "sponsor": {
     "bioguide_id": "S001195",
@@ -353,8 +451,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-02-12",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-03-11T17:34:12-04:00",
   "subjects": [
     "Cardiovascular and respiratory health",
     "Emergency medical services and trauma care",
@@ -396,6 +494,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-06T01:26:12Z",
+  "updated_at": "2025-03-12T08:36:11Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1156.xml"
 }

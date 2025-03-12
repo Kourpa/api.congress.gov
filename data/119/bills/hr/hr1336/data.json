@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-11",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Health.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-11",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Subcommittee Hearings Held",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -31,6 +51,16 @@
       ],
       "committee": "House Veterans' Affairs",
       "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "Hearings By (subcommittee)",
+        "referral"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Health",
+      "subcommittee_id": "03"
     }
   ],
   "congress": "119",
@@ -76,12 +106,32 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "K000404",
+      "district": "0",
+      "name": "King-Hinds, Kimberlyn",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-11",
+      "state": "MP",
+      "title": "Del.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "M000317",
       "district": "11",
       "name": "Malliotakis, Nicole",
       "original_cosponsor": true,
       "sponsored_at": "2025-02-13",
       "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001240",
+      "district": "6",
+      "name": "McDowell, Addison",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-11",
+      "state": "NC",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -128,7 +178,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-11",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -168,6 +219,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-02-26T09:06:12Z",
+  "updated_at": "2025-03-12T08:07:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1336.xml"
 }

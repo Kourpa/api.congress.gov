@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>201</number>
-    <updateDate>2025-03-04T16:11:10Z</updateDate>
-    <updateDateIncludingText>2025-03-04T16:11:10Z</updateDateIncludingText>
+    <updateDate>2025-03-12T11:03:18Z</updateDate>
+    <updateDateIncludingText>2025-03-12T11:03:18Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -17,6 +17,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Hearings By (full committee)</name>
+            <date>2025-03-11T14:30:02Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-01-23T15:48:26Z</date>
@@ -31,8 +35,8 @@
         <number>530</number>
         <type>HR</type>
         <latestAction>
-          <actionDate>2025-01-16</actionDate>
-          <text>Referred to the House Committee on Veterans' Affairs.</text>
+          <actionDate>2025-02-20</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -43,6 +47,20 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-03-11</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-23</actionDate>
         <committees>
@@ -95,7 +113,40 @@
       <name>Armed Forces and National Security</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Aviation and airports</name>
+          <updateDate>2025-03-10T15:24:07Z</updateDate>
+        </item>
+        <item>
+          <name>Cancer</name>
+          <updateDate>2025-03-10T15:24:07Z</updateDate>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+          <updateDate>2025-03-10T15:24:07Z</updateDate>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+          <updateDate>2025-03-10T15:24:07Z</updateDate>
+        </item>
+        <item>
+          <name>Hazardous wastes and toxic substances</name>
+          <updateDate>2025-03-10T15:24:07Z</updateDate>
+        </item>
+        <item>
+          <name>Medical research</name>
+          <updateDate>2025-03-10T15:24:07Z</updateDate>
+        </item>
+        <item>
+          <name>Research administration and funding</name>
+          <updateDate>2025-03-10T15:24:07Z</updateDate>
+        </item>
+        <item>
+          <name>Veterans' medical care</name>
+          <updateDate>2025-03-10T15:24:07Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Armed Forces and National Security</name>
         <updateDate>2025-02-26T21:10:25Z</updateDate>
@@ -118,7 +169,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>ACES Act</title>
-        <updateDate>2025-02-25T05:08:20Z</updateDate>
+        <updateDate>2025-03-12T11:03:18Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -149,8 +200,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-23</actionDate>
-      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2025-03-11</actionDate>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

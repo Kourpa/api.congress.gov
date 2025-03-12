@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>124</number>
-    <updateDate>2025-03-03T20:41:40Z</updateDate>
-    <updateDateIncludingText>2025-03-03T20:41:40Z</updateDateIncludingText>
+    <updateDate>2025-03-12T11:03:17Z</updateDate>
+    <updateDateIncludingText>2025-03-12T11:03:17Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -17,6 +17,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Hearings By (full committee)</name>
+            <date>2025-03-11T14:30:00Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-01-16T19:05:51Z</date>
@@ -43,6 +47,20 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-03-11</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-16</actionDate>
         <committees>
@@ -247,7 +265,40 @@
       <name>Armed Forces and National Security</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Congressional oversight</name>
+          <updateDate>2025-03-07T15:24:25Z</updateDate>
+        </item>
+        <item>
+          <name>Department of Veterans Affairs</name>
+          <updateDate>2025-03-07T15:24:25Z</updateDate>
+        </item>
+        <item>
+          <name>Employee performance</name>
+          <updateDate>2025-03-07T15:24:25Z</updateDate>
+        </item>
+        <item>
+          <name>Employment discrimination and employee rights</name>
+          <updateDate>2025-03-07T15:24:25Z</updateDate>
+        </item>
+        <item>
+          <name>Government employee pay, benefits, personnel management</name>
+          <updateDate>2025-03-07T15:24:25Z</updateDate>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+          <updateDate>2025-03-07T15:24:25Z</updateDate>
+        </item>
+        <item>
+          <name>Judicial review and appeals</name>
+          <updateDate>2025-03-07T15:24:25Z</updateDate>
+        </item>
+        <item>
+          <name>Veterans' medical care</name>
+          <updateDate>2025-03-07T15:24:25Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Armed Forces and National Security</name>
         <updateDate>2025-02-28T20:30:50Z</updateDate>
@@ -270,7 +321,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Restore VA Accountability Act of 2025</title>
-        <updateDate>2025-02-19T03:23:20Z</updateDate>
+        <updateDate>2025-03-12T11:03:17Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -309,8 +360,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-16</actionDate>
-      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2025-03-11</actionDate>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

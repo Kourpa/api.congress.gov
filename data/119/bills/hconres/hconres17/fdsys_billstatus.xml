@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>17</number>
-    <updateDate>2025-03-11T13:36:12Z</updateDate>
-    <updateDateIncludingText>2025-03-11T13:36:12Z</updateDateIncludingText>
+    <updateDate>2025-03-12T10:56:29Z</updateDate>
+    <updateDateIncludingText>2025-03-12T10:56:29Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -31,6 +31,14 @@
     </committees>
     <actions>
       <item>
+        <actionDate>2025-03-11</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2025-03-10</actionDate>
         <actionTime>19:09:21</actionTime>
         <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -55,7 +63,7 @@
       <item>
         <actionDate>2025-03-10</actionDate>
         <actionTime>19:09:18</actionTime>
-        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.</text>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H1060)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -199,7 +207,36 @@
       <name>Congress</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Commemorative events and holidays</name>
+          <updateDate>2025-03-11T17:45:40Z</updateDate>
+        </item>
+        <item>
+          <name>Crime victims</name>
+          <updateDate>2025-03-11T17:45:40Z</updateDate>
+        </item>
+        <item>
+          <name>Europe</name>
+          <updateDate>2025-03-11T17:45:40Z</updateDate>
+        </item>
+        <item>
+          <name>Germany</name>
+          <updateDate>2025-03-11T17:45:40Z</updateDate>
+        </item>
+        <item>
+          <name>Religion</name>
+          <updateDate>2025-03-11T17:45:40Z</updateDate>
+        </item>
+        <item>
+          <name>U.S. Capitol</name>
+          <updateDate>2025-03-11T17:45:40Z</updateDate>
+        </item>
+        <item>
+          <name>War crimes, genocide, crimes against humanity</name>
+          <updateDate>2025-03-11T17:45:40Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Congress</name>
         <updateDate>2025-03-10T17:39:29Z</updateDate>
@@ -224,6 +261,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in House</type>
+        <date>2025-03-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hconres17eh/xml/BILLS-119hconres17eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-05T05:00:00Z</date>
         <formats>
@@ -234,9 +280,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-10</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>19:09:21</actionTime>
+      <actionDate>2025-03-11</actionDate>
+      <text>Received in the Senate.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

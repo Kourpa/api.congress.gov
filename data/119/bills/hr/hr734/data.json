@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Agriculture.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-02-28",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Agriculture",
       "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Nutrition and Foreign Agriculture",
+      "subcommittee_id": "03"
     }
   ],
   "congress": "119",
@@ -79,6 +98,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-01T13:46:42Z",
+  "updated_at": "2025-03-12T08:07:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr734.xml"
 }

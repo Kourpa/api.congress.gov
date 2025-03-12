@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>901</number>
-    <updateDate>2025-03-12T02:38:25Z</updateDate>
-    <updateDateIncludingText>2025-03-12T02:38:25Z</updateDateIncludingText>
+    <updateDate>2025-03-12T10:56:32Z</updateDate>
+    <updateDateIncludingText>2025-03-12T10:56:32Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,18 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 21 (Friday, January 31, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. STRONG:H.R. 901.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution of the UnitedStates[Page H434]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-03-11T18:48:36Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hshm00</systemCode>
         <name>Homeland Security Committee</name>
@@ -40,6 +52,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-11</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2025-03-10</actionDate>
         <actionTime>19:01:56</actionTime>
@@ -75,7 +101,7 @@
       <item>
         <actionDate>2025-03-10</actionDate>
         <actionTime>19:01:55</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 64).</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 64). (text: CR H1051)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -332,9 +358,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-10</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>19:01:56</actionTime>
+      <actionDate>2025-03-11</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

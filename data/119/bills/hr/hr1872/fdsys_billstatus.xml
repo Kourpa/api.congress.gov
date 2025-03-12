@@ -3,20 +3,38 @@
   <version>3.0.0</version>
   <bill>
     <number>1872</number>
-    <updateDate>2025-03-06T09:35:15Z</updateDate>
-    <updateDateIncludingText>2025-03-06T09:35:15Z</updateDateIncludingText>
+    <updateDate>2025-03-12T08:07:13Z</updateDate>
+    <updateDateIncludingText>2025-03-12T08:07:13Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-03-05</introducedDate>
     <congress>119</congress>
-    <cdata/>
+    <cdata>
+      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 42 (Wednesday, March 5, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. JACKSON of Texas:H.R. 1872.Congress has the power to enact this legislation pursuantto the following:Article I Section 8 of the United States Constitution.[Page H1010]&lt;/pre&gt;</constitutionalAuthorityStatementText>
+    </cdata>
     <committees>
       <item>
         <systemCode>hsvr00</systemCode>
         <name>Veterans' Affairs Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2025-03-10T19:16:53Z</date>
+              </item>
+              <item>
+                <name>Referred to</name>
+                <date>2025-03-10T19:16:45Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -26,6 +44,36 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-03-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-03-05</actionDate>
         <text>Referred to the House Committee on Veterans' Affairs.</text>
@@ -104,8 +152,8 @@
       </item>
     </titles>
     <latestAction>
-      <actionDate>2025-03-05</actionDate>
-      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2025-03-10</actionDate>
+      <text>Subcommittee Hearings Held</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

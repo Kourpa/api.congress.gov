@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1692" updated="2025-03-11T14:46:34Z">
-  <state datetime="2025-02-27">REFERRED</state>
+<bill session="119" type="h" number="1692" updated="2025-03-12T08:07:40Z">
+  <state datetime="2025-03-11T17:54:49-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-02-27"/>
+    <unknown datetime="2025-03-11T17:54:49-04:00"/>
   </status>
   <introduced datetime="2025-02-27"/>
   <titles>
@@ -35,6 +35,15 @@
     <action datetime="2025-03-10T16:59:31-04:00">
       <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Green (TN) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
     </action>
+    <action datetime="2025-03-11T17:54:26-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-03-11T17:54:49-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-03-11T17:54:54-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
@@ -42,6 +51,11 @@
   <relatedbills/>
   <subjects>
     <term name="Government operations and politics"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Computers and information technology"/>
+    <term name="Internet, web applications, social media"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Research and development"/>
   </subjects>
   <amendments/>
 </bill>

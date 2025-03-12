@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-11",
+      "action_code": "",
+      "committee": "Committee on Veterans' Affairs",
+      "committees": [
+        "SSVA"
+      ],
+      "references": [],
+      "text": "Committee on Veterans' Affairs. Hearings held.",
+      "type": "hearings"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Hearings By (full committee)",
         "Referred To"
       ],
       "committee": "Senate Veterans' Affairs",
@@ -198,7 +210,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-11",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -227,7 +240,15 @@
   "status": "REFERRED",
   "status_at": "2025-01-16",
   "subjects": [
-    "Armed forces and national security"
+    "Armed forces and national security",
+    "Congressional oversight",
+    "Department of Veterans Affairs",
+    "Employee performance",
+    "Employment discrimination and employee rights",
+    "Government employee pay, benefits, personnel management",
+    "Government studies and investigations",
+    "Judicial review and appeals",
+    "Veterans' medical care"
   ],
   "subjects_top_term": "Armed forces and national security",
   "summary": {
@@ -266,6 +287,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-03T20:41:40Z",
+  "updated_at": "2025-03-12T11:03:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s124.xml"
 }
