@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1294" updated="2025-03-12T15:08:22Z">
+<bill session="119" type="h" number="1294" updated="2025-03-13T13:53:34Z">
   <state datetime="2025-02-13">REFERRED</state>
   <status>
     <introduced datetime="2025-02-13"/>
@@ -29,7 +29,11 @@
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
     <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Referral"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="578" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
   <amendments/>
 </bill>
