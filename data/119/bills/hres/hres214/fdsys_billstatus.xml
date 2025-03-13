@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>214</number>
-    <updateDate>2025-03-13T08:06:50Z</updateDate>
-    <updateDateIncludingText>2025-03-13T08:06:50Z</updateDateIncludingText>
+    <updateDate>2025-03-13T18:41:57Z</updateDate>
+    <updateDateIncludingText>2025-03-13T18:41:57Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -58,9 +58,10 @@
       </item>
       <item>
         <actionDate>2025-03-11</actionDate>
-        <text>Introduced in House</text>
-        <type>IntroReferral</type>
-        <actionCode>Intro-H</actionCode>
+        <actionTime>17:56:19</actionTime>
+        <text>Submitted in House</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -68,9 +69,18 @@
       </item>
       <item>
         <actionDate>2025-03-11</actionDate>
-        <text>Introduced in House</text>
+        <text>Submitted in House</text>
         <type>IntroReferral</type>
-        <actionCode>1000</actionCode>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-11</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -89,6 +99,16 @@
         <isByRequest>N</isByRequest>
       </item>
     </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Congress</name>
+        <updateDate>2025-03-13T15:12:02Z</updateDate>
+      </policyArea>
+    </subjects>
     <title>Electing Members to certain standing committees of the House of Representatives.</title>
     <titles>
       <item>
