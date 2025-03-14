@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="72" updated="2025-03-14T10:56:36Z">
+<bill session="119" type="sr" number="72" updated="2025-03-14T12:10:24Z">
   <state datetime="2025-03-13">PASSED:SIMPLERES</state>
   <status>
     <unknown datetime="2025-03-13"/>
@@ -22,13 +22,14 @@
     </action>
     <action datetime="2025-02-11" state="REFERRED">
       <text>Referred to the Committee on Foreign Relations.</text>
-      <reference ref="CR S863" label="text"/>
     </action>
     <action datetime="2025-03-13">
       <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2025-03-13" where="s" result="pass" state="PASSED:SIMPLERES">
       <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S1751" label="consideration"/>
+      <reference ref="02/11/2025 CR S863" label="text"/>
     </vote>
   </actions>
   <committees>
