@@ -1,10 +1,50 @@
 {
   "actions": [
     {
+      "acted_at": "2025-03-14",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": 131,
+      "text": "Amendment SA 1272, under the order of 3/14/2025, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 131.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-03-14",
+      "action_code": "",
+      "references": [],
+      "text": "Amendment SA 1272 proposed by Senator Van Hollen. To prohibit the use of appropriated amounts by DOGE.",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-03-13",
       "action_code": "Intro-S",
       "references": [],
       "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-14",
+      "action_code": "95000",
+      "references": [],
+      "text": "Senate amendment not agreed to: Amendment SA 1272, under the order of 3/14/2025, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 131.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-14",
+      "action_code": "97000",
+      "references": [],
+      "text": "Roll call votes on amendments in Senate: Amendment SA 1272, under the order of 3/14/2025, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 131.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-14",
+      "action_code": "93000",
+      "references": [],
+      "text": "Senate amendment proposed (on the floor): Amendment SA 1272 proposed by Senator Van Hollen.",
       "type": "action"
     },
     {
@@ -29,7 +69,8 @@
   "congress": "119",
   "introduced_at": "2025-03-13",
   "number": 1272,
-  "purpose": null,
+  "proposed_at": "2025-03-14T04:00:00Z",
+  "purpose": "To prohibit the use of appropriated amounts by DOGE.",
   "sponsor": {
     "bioguide_id": "V000128",
     "district": null,
@@ -38,7 +79,7 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2025-03-13",
-  "updated_at": "2025-03-14T11:08:23Z"
+  "status": "fail",
+  "status_at": "2025-03-14",
+  "updated_at": "2025-03-15T11:08:26Z"
 }

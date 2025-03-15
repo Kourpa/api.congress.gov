@@ -193,6 +193,40 @@
       ],
       "text": "Considered by Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-03-14",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-14",
+      "action_code": "",
+      "references": [],
+      "text": "The committee substitute agreed to by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-14",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "127",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Yea-Nay Vote. 84 - 16. Record Vote Number: 127.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-03-14",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [
@@ -743,6 +777,8 @@
     "enacted": false,
     "senate_cloture_result": "pass",
     "senate_cloture_result_at": "2025-03-06",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-03-14",
     "vetoed": false
   },
   "introduced_at": "2025-01-30",
@@ -766,8 +802,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-02-27",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-03-14",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Crime and law enforcement",
@@ -785,48 +821,6 @@
   },
   "titles": [
     {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Halt All Lethal Trafficking of Fentanyl Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "HALT Fentanyl Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Halt All Lethal Trafficking of Fentanyl Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "HALT Fentanyl Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Halt All Lethal Trafficking of Fentanyl Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "HALT Fentanyl Act",
-      "type": "short"
-    },
-    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -837,10 +831,52 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "Halt All Lethal Trafficking of Fentanyl Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "HALT Fentanyl Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Halt All Lethal Trafficking of Fentanyl Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "HALT Fentanyl Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Halt All Lethal Trafficking of Fentanyl Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "HALT Fentanyl Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "A bill to amend the Controlled Substances Act with respect to the scheduling of fentanyl-related substances, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-15T03:23:19Z",
+  "updated_at": "2025-03-15T11:08:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s331.xml"
 }
