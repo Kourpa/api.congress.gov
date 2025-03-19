@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="845" updated="2025-03-03T14:18:24Z">
+<bill session="119" type="h" number="845" updated="2025-03-19T08:05:32Z">
   <state datetime="2025-01-31">REFERRED</state>
   <status>
     <introduced datetime="2025-01-31"/>
@@ -50,9 +50,13 @@
     <action datetime="2025-01-31" state="REFERRED">
       <text>Referred to the House Committee on Natural Resources.</text>
     </action>
+    <action datetime="2025-03-18">
+      <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII13" name="House Natural Resources" subcommittee="Water, Wildlife and Fisheries" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="130" relation="unknown"/>
