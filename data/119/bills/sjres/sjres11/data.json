@@ -179,17 +179,28 @@
     },
     {
       "acted_at": "2025-03-10",
-      "action_code": "28000",
-      "references": [],
-      "text": "Presented to President",
-      "type": "topresident"
-    },
-    {
-      "acted_at": "2025-03-10",
       "action_code": "E20000",
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2025-03-14",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
+    },
+    {
+      "acted_at": "2025-03-14",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "3",
+      "references": [],
+      "text": "Became Public Law No: 119-3.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -230,13 +241,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "3"
+  },
   "history": {
     "active": true,
     "active_at": "2025-02-24",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2025-03-10",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2025-03-14",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-03-06T10:21:53-05:00",
     "senate_passage_result": "pass",
@@ -270,8 +285,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2025-03-06T10:21:53-05:00",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2025-03-14",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Archaeology and anthropology",
@@ -303,6 +318,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-12T17:59:33Z",
+  "updated_at": "2025-03-19T20:48:51Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres11.xml"
 }

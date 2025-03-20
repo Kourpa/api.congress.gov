@@ -1,7 +1,7 @@
-<bill session="119" type="sj" number="11" updated="2025-03-12T17:59:33Z">
-  <state datetime="2025-03-06T10:21:53-05:00">PASSED:BILL</state>
+<bill session="119" type="sj" number="11" updated="2025-03-19T20:48:51Z">
+  <state datetime="2025-03-14">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-03-06T10:21:53-05:00"/>
+    <unknown datetime="2025-03-14"/>
   </status>
   <introduced datetime="2025-02-04"/>
   <titles>
@@ -71,11 +71,14 @@
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
     <topresident datetime="2025-03-10">
-      <text>Presented to President</text>
-    </topresident>
-    <topresident datetime="2025-03-10">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-03-14" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="119-3" type="public" datetime="2025-03-14">
+      <text>Became Public Law No: 119-3.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
