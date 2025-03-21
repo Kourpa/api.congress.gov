@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Agriculture.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-20",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-20",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +51,24 @@
       ],
       "committee": "House Agriculture",
       "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Commodity Markets, Digital Assets, and Rural Development",
+      "subcommittee_id": "22"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on General Farm Commodities, Risk Management, and Credit",
+      "subcommittee_id": "16"
     }
   ],
   "congress": "119",
@@ -137,6 +175,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-20T19:45:06Z",
+  "updated_at": "2025-03-21T08:05:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1246.xml"
 }

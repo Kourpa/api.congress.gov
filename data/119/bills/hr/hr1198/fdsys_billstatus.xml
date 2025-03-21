@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1198</number>
-    <updateDate>2025-03-20T19:42:32Z</updateDate>
-    <updateDateIncludingText>2025-03-20T19:42:32Z</updateDateIncludingText>
+    <updateDate>2025-03-21T08:05:15Z</updateDate>
+    <updateDateIncludingText>2025-03-21T08:05:15Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,30 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition and Foreign Agriculture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-03-14T20:36:56Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-02-11T15:04:15Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsba00</systemCode>
         <name>Financial Services Committee</name>
         <chamber>House</chamber>
@@ -23,18 +47,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-02-11T15:04:20Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hsag00</systemCode>
-        <name>Agriculture Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-02-11T15:04:15Z</date>
           </item>
         </activities>
       </item>
@@ -58,6 +70,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-03-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition and Foreign Agriculture Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-02-11</actionDate>
         <text>Referred to the Committee on Agriculture, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -194,8 +221,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-11</actionDate>
-      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2025-03-14</actionDate>
+      <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
