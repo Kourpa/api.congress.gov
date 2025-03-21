@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1398" updated="2025-03-20T19:57:30Z">
+<bill session="119" type="h" number="1398" updated="2025-03-21T08:05:16Z">
   <state datetime="2025-02-18">REFERRED</state>
   <status>
     <introduced datetime="2025-02-18"/>
@@ -22,9 +22,13 @@
     <action datetime="2025-02-18" state="REFERRED">
       <text>Referred to the House Committee on Agriculture.</text>
     </action>
+    <action datetime="2025-03-20">
+      <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG03" name="House Agriculture" subcommittee="Nutrition and Foreign Agriculture" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

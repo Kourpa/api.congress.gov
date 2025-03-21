@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>185</number>
-    <updateDate>2025-03-10T19:28:12Z</updateDate>
-    <updateDateIncludingText>2025-03-10T19:28:12Z</updateDateIncludingText>
+    <updateDate>2025-03-21T08:05:18Z</updateDate>
+    <updateDateIncludingText>2025-03-21T08:05:18Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,30 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. McGOVERN:H.R. 185.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8The single subject of this legislation is:[Page H42]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag29</systemCode>
+            <name>Livestock, Dairy, and Poultry Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-03-14T20:35:35Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-01-03T16:12:50Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsba00</systemCode>
         <name>Financial Services Committee</name>
@@ -243,18 +267,6 @@
         </activities>
       </item>
       <item>
-        <systemCode>hsag00</systemCode>
-        <name>Agriculture Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-01-03T16:12:50Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
         <systemCode>hswm00</systemCode>
         <name>Ways and Means Committee</name>
         <chamber>House</chamber>
@@ -274,8 +286,8 @@
         <number>97</number>
         <type>S</type>
         <latestAction>
-          <actionDate>2025-01-15</actionDate>
-          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+          <actionDate>2025-03-12</actionDate>
+          <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -302,6 +314,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-03-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag29</systemCode>
+            <name>Livestock, Dairy, and Poultry Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Livestock, Dairy, and Poultry.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-03</actionDate>
         <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Agriculture, Armed Services, Veterans' Affairs, Oversight and Government Reform, Intelligence (Permanent Select), Foreign Affairs, Education and Workforce, Small Business, the Judiciary, Natural Resources, House Administration, Energy and Commerce, Homeland Security, Science, Space, and Technology, Appropriations, Rules, Ethics, Transportation and Infrastructure, the Budget, and Financial Services , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -652,6 +679,26 @@
         <actionDate>2025-01-03</actionDate>
         <text>Introduced in House</text>
         <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-01-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-01-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
         <actionCode>1000</actionCode>
         <sourceSystem>
           <code>9</code>
@@ -676,7 +723,212 @@
       <name>Government Operations and Politics</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Advisory bodies</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Agricultural marketing and promotion</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Appropriations</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Bank accounts, deposits, capital</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Banking and financial institutions regulation</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Business records</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Central Intelligence Agency (CIA)</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Child safety and welfare</name>
+          <updateDate>2025-03-13T15:40:58Z</updateDate>
+        </item>
+        <item>
+          <name>Computers and information technology</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Department of Defense</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Department of Energy</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Department of Health and Human Services</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Department of Homeland Security</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Department of Labor</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Department of State</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Department of the Treasury</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Disability assistance</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Employee benefits and pensions</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Employment discrimination and employee rights</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Financial services and investments</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>First responders and emergency personnel</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Government employee pay, benefits, personnel management</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Higher education</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Historical and cultural resources</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>House of Representatives</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Human trafficking</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Income tax credits</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Income tax deferral</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Income tax exclusion</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Inflation and prices</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Interest, dividends, interest rates</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Law enforcement officers</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Life, casualty, property insurance</name>
+          <updateDate>2025-03-13T15:40:56Z</updateDate>
+        </item>
+        <item>
+          <name>Livestock</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Manufacturing</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Military personnel and dependents</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Museums, exhibitions, cultural centers</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Navigation, waterways, harbors</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Office of Personnel Management (OPM)</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Sales and excise taxes</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Securities</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Small business</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Student aid and college costs</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Tax administration and collection, taxpayers</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>U.S. and foreign investments</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Veterans' education, employment, rehabilitation</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+        <item>
+          <name>Wages and earnings</name>
+          <updateDate>2025-03-13T15:40:57Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Government Operations and Politics</name>
         <updateDate>2025-03-10T19:28:12Z</updateDate>
@@ -719,8 +971,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-03</actionDate>
-      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Agriculture, Armed Services, Veterans' Affairs, Oversight and Government Reform, Intelligence (Permanent Select), Foreign Affairs, Education and Workforce, Small Business, the Judiciary, Natural Resources, House Administration, Energy and Commerce, Homeland Security, Science, Space, and Technology, Appropriations, Rules, Ethics, Transportation and Infrastructure, the Budget, and Financial Services , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2025-03-14</actionDate>
+      <text>Referred to the Subcommittee on Livestock, Dairy, and Poultry.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
