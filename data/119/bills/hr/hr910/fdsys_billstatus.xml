@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>910</number>
-    <updateDate>2025-03-20T21:20:17Z</updateDate>
-    <updateDateIncludingText>2025-03-20T21:20:17Z</updateDateIncludingText>
+    <updateDate>2025-03-22T08:05:34Z</updateDate>
+    <updateDateIncludingText>2025-03-22T08:05:34Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-03-21T20:20:21Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-03-05T15:45:00Z</date>
           </item>
@@ -32,6 +36,48 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-21</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 10.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-21</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-20.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-03-21</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-20.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-03-05</actionDate>
         <committees>
@@ -157,6 +203,16 @@
     <title>Taiwan Non-Discrimination Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Taiwan Non-Discrimination Act of 2025</title>
+        <updateDate>2025-03-22T06:08:19Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Taiwan Non-Discrimination Act of 2025</title>
@@ -181,6 +237,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-03-21T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr910rh/xml/BILLS-119hr910rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-02-04T05:00:00Z</date>
         <formats>
@@ -191,8 +256,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-05</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 0.</text>
+      <actionDate>2025-03-21</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 10.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

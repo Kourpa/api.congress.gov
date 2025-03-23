@@ -1,11 +1,12 @@
-<bill session="119" type="s" number="752" updated="2025-03-12T10:56:30Z">
+<bill session="119" type="s" number="752" updated="2025-03-23T11:23:00Z">
   <state datetime="2025-02-26">REFERRED</state>
   <status>
     <introduced datetime="2025-02-26"/>
   </status>
   <introduced datetime="2025-02-26"/>
   <titles>
-    <title type="display">A bill to amend title XIX of the Social Security Act to streamline enrollment under the Medicaid program of certain providers across State lines.</title>
+    <title type="display">Accelerating Kids&#8217; Access to Care Act</title>
+    <title type="short" as="introduced">Accelerating Kids&#8217; Access to Care Act</title>
     <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to streamline enrollment under the Medicaid program of certain providers across State lines.</title>
   </titles>
   <sponsor bioguide_id="G000386"/>
@@ -52,7 +53,12 @@
   <committees>
     <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="1509" relation="unknown"/>
+    <bill session="119" type="s" number="891" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
   <amendments/>
 </bill>

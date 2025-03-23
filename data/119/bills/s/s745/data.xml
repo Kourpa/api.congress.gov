@@ -1,11 +1,12 @@
-<bill session="119" type="s" number="745" updated="2025-03-04T11:56:21Z">
+<bill session="119" type="s" number="745" updated="2025-03-23T11:21:01Z">
   <state datetime="2025-02-26">REFERRED</state>
   <status>
     <introduced datetime="2025-02-26"/>
   </status>
   <introduced datetime="2025-02-26"/>
   <titles>
-    <title type="display">A bill to amend the Individuals with Disabilities Education Act to require notification with respect to individualized education program teams, and for other purposes.</title>
+    <title type="display">Empowering Families in Special Education Act</title>
+    <title type="short" as="introduced">Empowering Families in Special Education Act</title>
     <title type="official" as="introduced">A bill to amend the Individuals with Disabilities Education Act to require notification with respect to individualized education program teams, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="S001227"/>
@@ -25,7 +26,11 @@
   <committees>
     <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="1570" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
   <amendments/>
 </bill>
