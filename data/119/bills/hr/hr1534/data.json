@@ -28,7 +28,16 @@
     {
       "acted_at": "2025-03-24T15:37:39-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1209-1212",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H1209-1211",
+          "type": "text"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -99,6 +108,12 @@
   "status": "REFERRED",
   "status_at": "2025-02-24",
   "subjects": [
+    "Advanced technology and technological innovations",
+    "Air quality",
+    "Climate change and greenhouse gases",
+    "Infrastructure development",
+    "Research and development",
+    "Rural conditions and development",
     "Science, technology, communications"
   ],
   "subjects_top_term": "Science, technology, communications",
@@ -138,6 +153,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-25T08:05:51Z",
+  "updated_at": "2025-03-25T13:43:58Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1534.xml"
 }

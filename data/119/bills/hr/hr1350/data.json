@@ -28,7 +28,12 @@
     {
       "acted_at": "2025-03-24T15:13:28-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1205-1207",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -43,7 +48,12 @@
       "acted_at": "2025-03-24T15:24:45-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1205-1206",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -124,6 +134,15 @@
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-03-24T15:24:45-04:00",
   "subjects": [
+    "Advanced technology and technological innovations",
+    "Biological and life sciences",
+    "Computers and information technology",
+    "Congressional oversight",
+    "Department of Energy",
+    "Earth sciences",
+    "Intergovernmental relations",
+    "National Science Foundation",
+    "Research and development",
     "Science, technology, communications"
   ],
   "subjects_top_term": "Science, technology, communications",
@@ -163,6 +182,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-25T08:05:57Z",
+  "updated_at": "2025-03-25T13:36:35Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1350.xml"
 }

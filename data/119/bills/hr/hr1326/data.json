@@ -48,7 +48,12 @@
     {
       "acted_at": "2025-03-24T15:05:28-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1204-1205",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -69,7 +74,12 @@
     {
       "acted_at": "2025-03-24T19:03:49-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1214",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -77,7 +87,12 @@
       "acted_at": "2025-03-24T19:10:25-04:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1204",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "73",
       "status": "PASS_OVER:HOUSE",
@@ -175,7 +190,22 @@
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-03-24T19:10:25-04:00",
   "subjects": [
-    "Agriculture and food"
+    "Advanced technology and technological innovations",
+    "Agricultural practices and innovations",
+    "Agricultural research",
+    "Agriculture and food",
+    "Alternative and renewable resources",
+    "Climate change and greenhouse gases",
+    "Department of Agriculture",
+    "Department of Energy",
+    "Energy research",
+    "Energy storage, supplies, demand",
+    "Fires",
+    "Forests, forestry, trees",
+    "Pest management",
+    "Research administration and funding",
+    "Research and development",
+    "Water use and supply"
   ],
   "subjects_top_term": "Agriculture and food",
   "summary": {
@@ -207,6 +237,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-25T08:06:09Z",
+  "updated_at": "2025-03-25T13:24:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1326.xml"
 }
