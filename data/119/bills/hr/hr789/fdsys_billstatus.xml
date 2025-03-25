@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>789</number>
-    <updateDate>2025-03-07T09:06:28Z</updateDate>
-    <updateDateIncludingText>2025-03-07T09:06:28Z</updateDateIncludingText>
+    <updateDate>2025-03-25T08:05:38Z</updateDate>
+    <updateDateIncludingText>2025-03-25T08:05:38Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-03-24T20:58:08Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-03-05T14:01:47Z</date>
           </item>
@@ -32,6 +36,48 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-24</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 24.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-24</actionDate>
+        <text>Reported by the Committee on Small Business. H. Rept. 119-35.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-03-24</actionDate>
+        <text>Reported by the Committee on Small Business. H. Rept. 119-35.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-03-05</actionDate>
         <committees>
@@ -150,7 +196,24 @@
       <name>Commerce</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Government information and archives</name>
+          <updateDate>2025-03-13T14:55:58Z</updateDate>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+          <updateDate>2025-03-13T14:55:58Z</updateDate>
+        </item>
+        <item>
+          <name>Rule of law and government transparency</name>
+          <updateDate>2025-03-13T14:55:58Z</updateDate>
+        </item>
+        <item>
+          <name>Small business</name>
+          <updateDate>2025-03-13T14:55:58Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Commerce</name>
         <updateDate>2025-03-01T17:13:36Z</updateDate>
@@ -158,6 +221,16 @@
     </subjects>
     <title>Transparency and Predictability in Small Business Opportunities Act</title>
     <titles>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Transparency and Predictability in Small Business Opportunities Act</title>
+        <updateDate>2025-03-25T07:38:18Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
@@ -183,6 +256,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-03-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr789rh/xml/BILLS-119hr789rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-01-28T05:00:00Z</date>
         <formats>
@@ -193,8 +275,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-05</actionDate>
-      <text>Ordered to be Reported by the Yeas and Nays: 25 - 0.</text>
+      <actionDate>2025-03-24</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 24.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

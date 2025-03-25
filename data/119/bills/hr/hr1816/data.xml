@@ -1,16 +1,18 @@
-<bill session="119" type="h" number="1816" updated="2025-03-19T13:28:37Z">
+<bill session="119" type="h" number="1816" updated="2025-03-25T08:05:30Z">
   <state datetime="2025-03-05">REPORTED</state>
   <status>
     <unknown datetime="2025-03-05"/>
   </status>
   <introduced datetime="2025-03-03"/>
   <titles>
-    <title type="display">WOSB Accountability Act</title>
     <title type="short" as="introduced">WOSB Accountability Act</title>
+    <title type="short" as="reported to house">WOSB Accountability Act</title>
+    <title type="display">WOSB Accountability Act</title>
     <title type="official" as="introduced">To establish requirements relating to certification of small business concerns owned and controlled by women for certain purposes, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="V000081"/>
   <cosponsors>
+    <cosponsor bioguide_id="F000466" joined="2025-03-24"/>
     <cosponsor bioguide_id="G000604" joined="2025-03-05"/>
     <cosponsor bioguide_id="L000598" joined="2025-03-03"/>
   </cosponsors>
@@ -27,9 +29,15 @@
     <action datetime="2025-03-05" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 25 - 0.</text>
     </action>
+    <action datetime="2025-03-24">
+      <text>Reported by the Committee on Small Business. H. Rept. 119-37.</text>
+    </action>
+    <calendar datetime="2025-03-24" calendar="Union" number="26">
+      <text>Placed on the Union Calendar, Calendar No. 26.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="1586" relation="unknown"/>
