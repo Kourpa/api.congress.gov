@@ -17,6 +17,18 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-24T19:43:25-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres242-119",
+        "hjres75-119",
+        "hr1048-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 242 Reported to House. Rule provides for consideration of H.J. Res. 24, H.J. Res. 75 and H.R. 1048. The resolution provides for consideration of H.J. Res. 24 and H.J. Res. 75 under a closed rule, and provides for consideration of H.R. 1048 under a structured rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -35,6 +47,16 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "C001103",
+      "district": "1",
+      "name": "Carter, Earl L. \"Buddy\"",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-24",
+      "state": "GA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "C001116",
       "district": "9",
@@ -118,7 +140,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-24T19:43:25-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -127,7 +150,14 @@
   "number": "24",
   "official_title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers\".",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres242-119",
+      "identified_by": "House",
+      "reason": "procedurally-related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "B000740",
@@ -170,6 +200,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-22T08:05:51Z",
+  "updated_at": "2025-03-25T12:26:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres24.xml"
 }

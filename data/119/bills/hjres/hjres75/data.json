@@ -17,6 +17,18 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-24T19:43:25-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres242-119",
+        "hjres24-119",
+        "hr1048-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 242 Reported to House. Rule provides for consideration of H.J. Res. 24, H.J. Res. 75 and H.R. 1048. The resolution provides for consideration of H.J. Res. 24 and H.J. Res. 75 under a closed rule, and provides for consideration of H.R. 1048 under a structured rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -46,12 +58,42 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C001103",
+      "district": "1",
+      "name": "Carter, Earl L. \"Buddy\"",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-24",
+      "state": "GA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001120",
+      "district": "2",
+      "name": "Crenshaw, Dan",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-24",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "D000628",
       "district": "2",
       "name": "Dunn, Neal P.",
       "original_cosponsor": false,
       "sponsored_at": "2025-03-21",
       "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "G000603",
+      "district": "26",
+      "name": "Gill, Brandon",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-24",
+      "state": "TX",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -66,6 +108,46 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "L000599",
+      "district": "17",
+      "name": "Lawler, Michael",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-24",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001233",
+      "district": "8",
+      "name": "Messmer, Mark",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-24",
+      "state": "IN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001235",
+      "district": "2",
+      "name": "Moore, Riley",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-24",
+      "state": "WV",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "N000189",
+      "district": "4",
+      "name": "Newhouse, Dan",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-24",
+      "state": "WA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "P000609",
       "district": "6",
       "name": "Palmer, Gary J.",
@@ -74,11 +156,22 @@
       "state": "AL",
       "title": "Rep.",
       "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "P000605",
+      "district": "10",
+      "name": "Perry, Scott",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-03-24",
+      "state": "PA",
+      "title": "Rep.",
+      "withdrawn_at": null
     }
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-24T19:43:25-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -87,7 +180,14 @@
   "number": "75",
   "official_title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of Energy Efficiency and Renewable Energy, Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers\".",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres242-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "G000601",
@@ -108,7 +208,12 @@
     "Lighting, heating, cooling"
   ],
   "subjects_top_term": "Energy",
-  "summary": null,
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2025-03-10",
+    "date": "2025-03-24T13:28:54Z",
+    "text": ""
+  },
   "titles": [
     {
       "as": "introduced",
@@ -125,6 +230,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-22T08:06:29Z",
+  "updated_at": "2025-03-25T08:05:43Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres75.xml"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1350" updated="2025-03-25T05:38:18Z">
-  <state datetime="2025-02-13">REFERRED</state>
+<bill session="119" type="h" number="1350" updated="2025-03-25T08:05:57Z">
+  <state datetime="2025-03-24T15:24:45-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-02-13"/>
+    <unknown datetime="2025-03-24T15:24:45-04:00"/>
   </status>
   <introduced datetime="2025-02-13"/>
   <titles>
@@ -21,6 +21,21 @@
     </action>
     <action datetime="2025-02-13" state="REFERRED">
       <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2025-03-24T15:13:16-04:00">
+      <text>Mr. Babin moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-03-24T15:13:28-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-03-24T15:13:30-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1350.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-03-24T15:24:45-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-03-24T15:24:47-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>
