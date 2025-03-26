@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1326" updated="2025-03-26T02:08:20Z">
+<bill session="119" type="h" number="1326" updated="2025-03-26T10:56:32Z">
   <state datetime="2025-03-24T19:10:25-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-03-24T19:10:25-04:00"/>
@@ -52,8 +52,12 @@
     <action datetime="2025-03-24T19:10:26-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-03-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSAG14" name="House Agriculture" subcommittee="Conservation, Research, and Biotechnology" activity="Referral"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>

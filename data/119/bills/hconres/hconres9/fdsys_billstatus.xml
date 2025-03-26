@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>9</number>
-    <updateDate>2025-03-17T16:17:17Z</updateDate>
-    <updateDateIncludingText>2025-03-17T16:17:17Z</updateDateIncludingText>
+    <updateDate>2025-03-26T08:06:47Z</updateDate>
+    <updateDateIncludingText>2025-03-26T08:06:47Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -31,6 +31,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-03-25T17:40:03Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-02-26T18:10:59Z</date>
           </item>
@@ -46,6 +50,48 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-25</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 13.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-25</actionDate>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-39.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-03-25</actionDate>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-39.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-02-26</actionDate>
         <committees>
@@ -100,6 +146,26 @@
             <name>Transportation and Infrastructure Committee</name>
           </item>
         </committees>
+      </item>
+      <item>
+        <actionDate>2025-02-06</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-06</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
       </item>
       <item>
         <actionDate>2025-02-06</actionDate>
@@ -214,6 +280,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-03-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hconres9rh/xml/BILLS-119hconres9rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-02-06T05:00:00Z</date>
         <formats>
@@ -224,8 +299,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-26</actionDate>
-      <text>Ordered to be Reported by Voice Vote.</text>
+      <actionDate>2025-03-25</actionDate>
+      <text>Placed on the House Calendar, Calendar No. 13.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
