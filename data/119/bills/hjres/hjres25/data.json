@@ -165,6 +165,38 @@
       "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 27.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-03-26",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 70 - 28. Record Vote Number: 150.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-26",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S1856-1864",
+          "type": "consideration"
+        }
+      ],
+      "text": "Measure laid before Senate by motion.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-26",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "151",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 70 - 28. Record Vote Number: 151.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -286,6 +318,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-03-11T17:53:46-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-03-26",
     "vetoed": false
   },
   "introduced_at": "2025-01-21",
@@ -315,8 +349,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-03-11T17:53:46-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-03-26",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Congressional oversight",
@@ -350,6 +384,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-13T10:56:45Z",
+  "updated_at": "2025-03-27T12:18:04Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres25.xml"
 }

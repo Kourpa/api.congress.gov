@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>530</number>
-    <updateDate>2025-03-25T08:05:54Z</updateDate>
-    <updateDateIncludingText>2025-03-25T08:05:54Z</updateDateIncludingText>
+    <updateDate>2025-03-27T08:07:19Z</updateDate>
+    <updateDateIncludingText>2025-03-27T08:07:19Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,20 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <subcommittees>
+          <item>
+            <systemCode>hsvr09</systemCode>
+            <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2025-03-26T17:47:09Z</date>
+              </item>
+              <item>
+                <name>Referred to</name>
+                <date>2025-03-26T17:47:03Z</date>
+              </item>
+            </activities>
+          </item>
           <item>
             <systemCode>hsvr03</systemCode>
             <name>Health Subcommittee</name>
@@ -58,6 +72,36 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-03-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr09</systemCode>
+            <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-03-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr09</systemCode>
+            <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-02-20</actionDate>
         <committees>
@@ -519,8 +563,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-20</actionDate>
-      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2025-03-26</actionDate>
+      <text>Subcommittee Hearings Held</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

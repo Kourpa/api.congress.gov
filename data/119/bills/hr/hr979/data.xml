@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="979" updated="2025-03-25T08:05:50Z">
+<bill session="119" type="h" number="979" updated="2025-03-27T08:07:33Z">
   <state datetime="2025-02-05">REFERRED</state>
   <status>
     <introduced datetime="2025-02-05"/>
@@ -48,12 +48,14 @@
     <cosponsor bioguide_id="E000246" joined="2025-03-18"/>
     <cosponsor bioguide_id="E000294" joined="2025-02-26"/>
     <cosponsor bioguide_id="E000298" joined="2025-03-10"/>
+    <cosponsor bioguide_id="E000235" joined="2025-03-26"/>
     <cosponsor bioguide_id="F000475" joined="2025-02-12"/>
     <cosponsor bioguide_id="F000470" joined="2025-03-05"/>
     <cosponsor bioguide_id="F000471" joined="2025-03-06"/>
     <cosponsor bioguide_id="F000466" joined="2025-02-26"/>
     <cosponsor bioguide_id="F000459" joined="2025-02-12"/>
     <cosponsor bioguide_id="F000474" joined="2025-02-12"/>
+    <cosponsor bioguide_id="F000450" joined="2025-03-26"/>
     <cosponsor bioguide_id="G000602" joined="2025-02-24"/>
     <cosponsor bioguide_id="G000592" joined="2025-02-07"/>
     <cosponsor bioguide_id="G000585" joined="2025-03-05"/>
@@ -122,6 +124,7 @@
     <cosponsor bioguide_id="T000478" joined="2025-03-03"/>
     <cosponsor bioguide_id="T000467" joined="2025-03-18"/>
     <cosponsor bioguide_id="T000165" joined="2025-03-10"/>
+    <cosponsor bioguide_id="T000480" joined="2025-03-26"/>
     <cosponsor bioguide_id="T000468" joined="2025-03-05"/>
     <cosponsor bioguide_id="T000481" joined="2025-03-05"/>
     <cosponsor bioguide_id="T000487" joined="2025-03-10"/>
@@ -153,12 +156,16 @@
     <action datetime="2025-02-05">
       <text>Referred to the Subcommittee on Emergency Management and Technology.</text>
     </action>
+    <action datetime="2025-02-05">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW12" name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral"/>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
     <committee code="HSHM12" name="House Homeland Security" subcommittee="Emergency Management and Technology" activity="Referral"/>
     <committee code="HSHM07" name="House Homeland Security" subcommittee="Transportation and Maritime Security" activity="Referral"/>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>

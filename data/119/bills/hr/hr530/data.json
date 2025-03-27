@@ -27,6 +27,26 @@
       "references": [],
       "text": "Referred to the Subcommittee on Health.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-26",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-26",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Subcommittee Hearings Held",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -41,6 +61,16 @@
       ],
       "committee": "House Veterans' Affairs",
       "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "Hearings By (subcommittee)",
+        "referral"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Disability Assistance and Memorial Affairs",
+      "subcommittee_id": "09"
     },
     {
       "activity": [
@@ -327,7 +357,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-26",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -396,6 +427,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-25T08:05:54Z",
+  "updated_at": "2025-03-27T08:07:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr530.xml"
 }

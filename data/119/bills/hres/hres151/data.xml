@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="151" updated="2025-03-15T08:05:30Z">
+<bill session="119" type="hr" number="151" updated="2025-03-27T08:07:24Z">
   <state datetime="2025-02-21">REFERRED</state>
   <status>
     <introduced datetime="2025-02-21"/>
@@ -33,19 +33,20 @@
     <cosponsor bioguide_id="W000822" joined="2025-02-21"/>
   </cosponsors>
   <actions>
-    <action datetime="2025-02-21">
-      <text>Submitted in House</text>
-    </action>
     <action datetime="2025-02-21" state="REFERRED">
       <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
     <action datetime="2025-02-21">
       <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-02-21">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW05" name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

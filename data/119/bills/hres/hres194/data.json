@@ -2,13 +2,6 @@
   "actions": [
     {
       "acted_at": "2025-03-05",
-      "action_code": "H12100",
-      "references": [],
-      "text": "Submitted in House",
-      "type": "action"
-    },
-    {
-      "acted_at": "2025-03-05",
       "action_code": "H11100",
       "committees": [
         "HSPW"
@@ -27,6 +20,16 @@
       "references": [],
       "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-05",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Water Resources and Environment.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -39,15 +42,24 @@
       "activity": [
         "Referred To"
       ],
-      "committee": "House Natural Resources",
-      "committee_id": "HSII"
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Water Resources and Environment",
+      "subcommittee_id": "02"
     },
     {
       "activity": [
         "Referred To"
       ],
-      "committee": "House Transportation and Infrastructure",
-      "committee_id": "HSPW"
+      "committee": "House Natural Resources",
+      "committee_id": "HSII"
     }
   ],
   "congress": "119",
@@ -205,6 +217,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-11T08:07:01Z",
+  "updated_at": "2025-03-27T08:07:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres194.xml"
 }

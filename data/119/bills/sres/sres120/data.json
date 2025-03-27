@@ -13,15 +13,41 @@
       "committees": [
         "SSJU"
       ],
-      "references": [
-        {
-          "reference": "CR S1632",
-          "type": "text"
-        }
-      ],
+      "references": [],
       "status": "REFERRED",
       "text": "Referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-26",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-26",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S1864",
+          "type": "consideration"
+        },
+        {
+          "reference": "03/10/2025 CR S1632",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -32,6 +58,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -113,9 +140,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-26",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-03-26",
     "vetoed": false
   },
   "introduced_at": "2025-03-10",
@@ -132,8 +162,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-03-10",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-03-26",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -153,6 +183,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-13T04:19:34Z",
+  "updated_at": "2025-03-27T12:25:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres120.xml"
 }

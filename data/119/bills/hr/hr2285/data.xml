@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2285" updated="2025-03-25T08:23:18Z">
+<bill session="119" type="h" number="2285" updated="2025-03-27T08:07:42Z">
   <state datetime="2025-03-24">REFERRED</state>
   <status>
     <introduced datetime="2025-03-24"/>
@@ -16,15 +16,25 @@
       <text>Introduced in House</text>
     </action>
     <action datetime="2025-03-24" state="REFERRED">
+      <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+    </action>
+    <action datetime="2025-03-24">
       <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
     <action datetime="2025-03-24">
       <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-03-25">
+      <text>Subcommittee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-03-25">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism and Intelligence" activity="Reporting, Markup, Referral"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>
