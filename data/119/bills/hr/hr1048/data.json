@@ -239,6 +239,67 @@
       "references": [],
       "text": "Committee of the Whole House on the state of the Union rises leaving H.R. 1048 as unfinished business.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27T10:26:11-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H1312-1316",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27T10:26:25-04:00",
+      "action_code": "H32050",
+      "references": [],
+      "text": "The House resolved into Committee of the Whole House on the state of the Union for further consideration.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27T10:46:40-04:00",
+      "action_code": "H32600",
+      "references": [],
+      "text": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1048.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27T10:47:44-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27T10:47:55-04:00",
+      "action_code": "H34400",
+      "references": [],
+      "text": "The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27T10:54:47-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "83",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 241 - 169 (Roll no. 83).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-03-27T10:54:49-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [
@@ -515,6 +576,8 @@
     "active_at": "2025-02-12",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-03-27T10:54:47-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-06",
@@ -556,8 +619,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-02-12",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-03-27T10:54:47-04:00",
   "subjects": [
     "Civil actions and liability",
     "Congressional oversight",
@@ -608,6 +671,20 @@
       "type": "short"
     },
     {
+      "as": "passed house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Defending Education Transparency and Ending Rogue Regimes Engaging in Nefarious Transactions Act",
+      "type": "short"
+    },
+    {
+      "as": "passed house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "DETERRENT Act",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -622,6 +699,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-26T15:07:21Z",
+  "updated_at": "2025-03-28T14:08:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1048.xml"
 }

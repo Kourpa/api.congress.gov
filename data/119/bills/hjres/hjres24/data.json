@@ -29,6 +29,72 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 242 Reported to House. Rule provides for consideration of H.J. Res. 24, H.J. Res. 75 and H.R. 1048. The resolution provides for consideration of H.J. Res. 24 and H.J. Res. 75 under a closed rule, and provides for consideration of H.R. 1048 under a structured rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27T09:17:55-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres242-119"
+      ],
+      "references": [
+        {
+          "reference": "CR H1307-1311",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under the provisions of rule H. Res. 242.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27T09:18:00-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hjres75-119",
+        "hr1048-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.J. Res. 24, H.J. Res. 75 and H.R. 1048. The resolution provides for consideration of H.J. Res. 24 and H.J. Res. 75 under a closed rule, and provides for consideration of H.R. 1048 under a structured rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27T09:18:17-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 24.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27T09:50:59-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27T10:18:20-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR H1307",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "roll": "77",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 203 - 182 (Roll no. 77).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-03-27T10:18:22-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -154,6 +220,8 @@
     "active_at": "2025-03-24T19:43:25-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-03-27T10:18:20-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-16",
@@ -177,8 +245,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-16",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-03-27T10:18:20-04:00",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Department of Energy",
@@ -210,6 +278,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-26T08:05:55Z",
+  "updated_at": "2025-03-29T08:05:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres24.xml"
 }

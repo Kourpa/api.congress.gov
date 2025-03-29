@@ -1,7 +1,7 @@
-<bill session="119" type="hj" number="75" updated="2025-03-27T13:34:18Z">
-  <state datetime="2025-03-10">REFERRED</state>
+<bill session="119" type="hj" number="75" updated="2025-03-29T08:05:38Z">
+  <state datetime="2025-03-27T10:25:31-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-03-10"/>
+    <unknown datetime="2025-03-27T10:25:31-04:00"/>
   </status>
   <introduced datetime="2025-03-10"/>
   <titles>
@@ -37,7 +37,6 @@
     <action datetime="2025-03-26T14:01:03-04:00">
       <text>Considered under the provisions of rule H. Res. 242.</text>
       <reference ref="CR H1284-1290" label="consideration"/>
-      <reference ref="CR H1284" label="text"/>
     </action>
     <action datetime="2025-03-26T14:01:07-04:00">
       <text>Rule provides for consideration of H.J. Res. 24, H.J. Res. 75 and H.R. 1048. The resolution provides for consideration of H.J. Res. 24 and H.J. Res. 75 under a closed rule, and provides for consideration of H.R. 1048 under a structured rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.</text>
@@ -50,6 +49,17 @@
     </action>
     <action datetime="2025-03-26T14:37:23-04:00">
       <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 75, the Chair put the question on passage of the joint resolution and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-03-27T10:18:23-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1312" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="78" datetime="2025-03-27T10:25:31-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 214 - 193 (Roll no. 78).</text>
+      <reference ref="3/26/2024 CR H1284" label="text"/>
+    </vote>
+    <action datetime="2025-03-27T10:25:33-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

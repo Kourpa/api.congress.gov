@@ -9,12 +9,22 @@
     },
     {
       "acted_at": "2025-03-21",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "status": "REFERRED",
+      "text": "Referred to the Subcommittee on Emergency Management and Technology.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-21",
       "action_code": "H11100",
       "committees": [
         "HSSY"
       ],
       "references": [],
-      "status": "REFERRED",
       "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Foreign Affairs, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
     },
@@ -51,6 +61,15 @@
       ],
       "committee": "House Homeland Security",
       "committee_id": "HSHM"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM",
+      "subcommittee": "Subcommittee on Emergency Management and Technology",
+      "subcommittee_id": "12"
     },
     {
       "activity": [
@@ -202,7 +221,7 @@
   "official_title": "To amend the Energy Independence and Security Act of 2007 to expand and reauthorize the United States-Israel Energy Cooperation program, and for other purposes.",
   "popular_title": null,
   "related_bills": [],
-  "short_title": null,
+  "short_title": "BIRD Energy and U.S.-Israel Energy Center Reauthorization Act of 2025",
   "sponsor": {
     "bioguide_id": "W000797",
     "district": "25",
@@ -221,8 +240,15 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "To amend the Energy Independence and Security Act of 2007 to expand and reauthorize the United States-Israel Energy Cooperation program, and for other purposes.",
+      "title": "BIRD Energy and U.S.-Israel Energy Center Reauthorization Act of 2025",
       "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "BIRD Energy and U.S.-Israel Energy Center Reauthorization Act of 2025",
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -232,6 +258,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-22T08:06:20Z",
+  "updated_at": "2025-03-29T06:23:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2280.xml"
 }
