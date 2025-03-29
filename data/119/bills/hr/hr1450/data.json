@@ -48,6 +48,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 49 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-03-27",
+      "action_code": "H12200",
+      "committees": [
+        "HSBA"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Financial Services. H. Rept. 119-47, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27",
+      "action_code": "H12300",
+      "committees": [
+        "HSFA"
+      ],
+      "references": [],
+      "text": "Committee on Foreign Affairs discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "34",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 34.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -58,18 +88,20 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Foreign Affairs",
+      "committee_id": "HSFA"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Financial Services",
       "committee_id": "HSBA"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Foreign Affairs",
-      "committee_id": "HSFA"
     }
   ],
   "congress": "119",
@@ -120,6 +152,20 @@
   "summary": null,
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "OFAC Licensure for Investigators Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "OFAC Licensure for Investigators Act",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -130,17 +176,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "OFAC Licensure for Investigators Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To require the Office of Foreign Assets Control to develop a program under which private sector firms may receive a license to conduct nominal financial transactions in furtherance of the firms' investigations, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-18T18:25:16Z",
+  "updated_at": "2025-03-28T08:07:00Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1450.xml"
 }

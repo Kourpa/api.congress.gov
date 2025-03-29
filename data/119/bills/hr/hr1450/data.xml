@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="1450" updated="2025-03-18T18:25:16Z">
+<bill session="119" type="h" number="1450" updated="2025-03-28T08:07:00Z">
   <state datetime="2025-03-05">REPORTED</state>
   <status>
     <unknown datetime="2025-03-05"/>
   </status>
   <introduced datetime="2025-02-21"/>
   <titles>
-    <title type="display">OFAC Licensure for Investigators Act</title>
     <title type="short" as="introduced">OFAC Licensure for Investigators Act</title>
+    <title type="short" as="reported to house">OFAC Licensure for Investigators Act</title>
+    <title type="display">OFAC Licensure for Investigators Act</title>
     <title type="official" as="introduced">To require the Office of Foreign Assets Control to develop a program under which private sector firms may receive a license to conduct nominal financial transactions in furtherance of the firms' investigations, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="B001281"/>
@@ -29,10 +30,19 @@
     <action datetime="2025-03-05" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 49 - 0.</text>
     </action>
+    <action datetime="2025-03-27">
+      <text>Reported by the Committee on Financial Services. H. Rept. 119-47, Part I.</text>
+    </action>
+    <action datetime="2025-03-27">
+      <text>Committee on Foreign Affairs discharged.</text>
+    </action>
+    <calendar datetime="2025-03-27" calendar="Union" number="34">
+      <text>Placed on the Union Calendar, Calendar No. 34.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
-    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

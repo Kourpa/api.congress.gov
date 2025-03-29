@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1861" updated="2025-03-21T18:37:08Z">
+<bill session="119" type="h" number="1861" updated="2025-03-28T08:07:14Z">
   <state datetime="2025-03-05">REFERRED</state>
   <status>
     <introduced datetime="2025-03-05"/>
@@ -21,10 +21,14 @@
     <action datetime="2025-03-05">
       <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-03-05">
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

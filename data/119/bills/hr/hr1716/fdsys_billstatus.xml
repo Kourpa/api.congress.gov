@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1716</number>
-    <updateDate>2025-03-07T09:06:16Z</updateDate>
-    <updateDateIncludingText>2025-03-07T09:06:16Z</updateDateIncludingText>
+    <updateDate>2025-03-28T11:23:18Z</updateDate>
+    <updateDateIncludingText>2025-03-28T11:23:18Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,11 +15,31 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-03-27T18:22:32Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-02-27T14:07:00Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsba00</systemCode>
         <name>Financial Services Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2025-03-27T18:22:19Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-03-05T15:47:00Z</date>
@@ -30,20 +50,82 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hsfa00</systemCode>
-        <name>Foreign Affairs Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-02-27T14:07:00Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-27</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 35.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-03-27</actionDate>
+        <text>Committee on Foreign Affairs discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-03-27</actionDate>
+        <text>Committee on Foreign Affairs discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-03-27</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-48, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-03-27</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-48, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-03-05</actionDate>
         <committees>
@@ -156,6 +238,16 @@
     <title>Taiwan Conflict Deterrence Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Taiwan Conflict Deterrence Act of 2025</title>
+        <updateDate>2025-03-28T11:23:18Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Taiwan Conflict Deterrence Act of 2025</title>
@@ -180,6 +272,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-03-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr1716rh/xml/BILLS-119hr1716rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-02-27T05:00:00Z</date>
         <formats>
@@ -190,8 +291,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-05</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 0.</text>
+      <actionDate>2025-03-27</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 35.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

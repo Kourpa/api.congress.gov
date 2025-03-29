@@ -48,6 +48,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-03-27",
+      "action_code": "H12200",
+      "committees": [
+        "HSBA"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 119-48, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27",
+      "action_code": "H12300",
+      "committees": [
+        "HSFA"
+      ],
+      "references": [],
+      "text": "Committee on Foreign Affairs discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-03-27",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "35",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 35.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -58,18 +88,20 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Foreign Affairs",
+      "committee_id": "HSFA"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Financial Services",
       "committee_id": "HSBA"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Foreign Affairs",
-      "committee_id": "HSFA"
     }
   ],
   "congress": "119",
@@ -114,6 +146,20 @@
   "summary": null,
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Taiwan Conflict Deterrence Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Taiwan Conflict Deterrence Act of 2025",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -124,17 +170,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Taiwan Conflict Deterrence Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To deter Chinese aggression towards Taiwan by requiring the Secretary of the Treasury to publish a report on financial institutions and accounts connected to senior officials of the People's Republic of China, to restrict financial services for certain immediate family of such officials, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-07T09:06:16Z",
+  "updated_at": "2025-03-28T11:23:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1716.xml"
 }

@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Foreign Relations.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-27",
+      "action_code": "",
+      "committees": [
+        "SSFR"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Foreign Relations",
@@ -78,7 +90,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-03-27",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -97,8 +110,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-12",
+  "status": "REPORTED",
+  "status_at": "2025-03-27",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -125,6 +138,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-12T02:23:33Z",
+  "updated_at": "2025-03-28T11:03:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s555.xml"
 }
