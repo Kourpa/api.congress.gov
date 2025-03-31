@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2038" updated="2025-03-26T17:37:43Z">
+<bill session="119" type="h" number="2038" updated="2025-03-31T14:18:11Z">
   <state datetime="2025-03-11">REFERRED</state>
   <status>
     <introduced datetime="2025-03-11"/>
@@ -59,7 +59,9 @@
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="934" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Finance and financial sector"/>
   </subjects>
