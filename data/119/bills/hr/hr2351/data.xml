@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2351" updated="2025-03-27T08:18:51Z">
+<bill session="119" type="h" number="2351" updated="2025-04-01T08:06:32Z">
   <state datetime="2025-03-26">REFERRED</state>
   <status>
     <introduced datetime="2025-03-26"/>
@@ -9,7 +9,9 @@
     <title type="display">To direct the Commandant of the Coast Guard to update the policy of the Coast Guard regarding the use of medication to treat drug overdose, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M001240"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000601" joined="2025-03-31"/>
+  </cosponsors>
   <actions>
     <action datetime="2025-03-26">
       <text>Introduced in House</text>
@@ -17,9 +19,13 @@
     <action datetime="2025-03-26" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2025-03-27">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW07" name="House Transportation and Infrastructure" subcommittee="Coast Guard and Maritime Transportation" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects/>

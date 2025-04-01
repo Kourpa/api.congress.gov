@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1923" updated="2025-03-26T08:06:47Z">
+<bill session="119" type="h" number="1923" updated="2025-04-01T08:05:49Z">
   <state datetime="2025-03-06">REFERRED</state>
   <status>
     <introduced datetime="2025-03-06"/>
@@ -47,8 +47,13 @@
     <action datetime="2025-03-06">
       <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Education and Workforce, Oversight and Government Reform, Armed Services, Energy and Commerce, Science, Space, and Technology, Transportation and Infrastructure, and Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-03-28">
+      <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG15" name="House Agriculture" subcommittee="Forestry and Horticulture" activity="Referral"/>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
@@ -56,7 +61,6 @@
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
-    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

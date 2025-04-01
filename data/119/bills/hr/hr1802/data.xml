@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1802" updated="2025-03-19T16:01:55Z">
+<bill session="119" type="h" number="1802" updated="2025-04-01T08:05:39Z">
   <state datetime="2025-03-03">REFERRED</state>
   <status>
     <introduced datetime="2025-03-03"/>
@@ -30,10 +30,18 @@
     <action datetime="2025-03-03">
       <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Energy and Commerce, Agriculture, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-03-28">
+      <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+    </action>
+    <action datetime="2025-03-28">
+      <text>Referred to the Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSRU" name="House Rules" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG14" name="House Agriculture" subcommittee="Conservation, Research, and Biotechnology" activity="Referral"/>
+    <committee code="HSAG29" name="House Agriculture" subcommittee="Livestock, Dairy, and Poultry" activity="Referral"/>
+    <committee code="HSRU" name="House Rules" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
   </committees>
