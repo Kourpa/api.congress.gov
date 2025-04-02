@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1491</number>
-    <updateDate>2025-04-02T02:53:19Z</updateDate>
-    <updateDateIncludingText>2025-04-02T02:53:19Z</updateDateIncludingText>
+    <updateDate>2025-04-02T10:56:31Z</updateDate>
+    <updateDateIncludingText>2025-04-02T10:56:31Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,18 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 35 (Friday, February 21, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. MURPHY:H.R. 1491.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 1[Page H730]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-04-01T19:37:59Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hswm00</systemCode>
         <name>Ways and Means Committee</name>
@@ -36,6 +48,84 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-04-01</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2025-04-01</actionDate>
+        <actionTime>14:34:06</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-01</actionDate>
+        <actionTime>14:34:05</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 88).</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>88</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll088.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-04-01T18:34:05Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-04-01</actionDate>
+        <actionTime>14:34:05</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 88).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>88</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll088.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-04-01T18:34:05Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-04-01</actionDate>
+        <actionTime>14:16:06</actionTime>
+        <text>Considered as unfinished business.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-03-31</actionDate>
         <actionTime>17:35:53</actionTime>
@@ -351,9 +441,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-31</actionDate>
-      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
-      <actionTime>17:35:53</actionTime>
+      <actionDate>2025-04-01</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

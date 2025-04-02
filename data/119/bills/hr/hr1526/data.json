@@ -58,6 +58,21 @@
       "text": "Placed on the Union Calendar, Calendar No. 27.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-04-01T10:03:16-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres282-119",
+        "hr22-119",
+        "sjres18-119",
+        "sjres28-119",
+        "hres23-119",
+        "hres164-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 282 Reported to House. Rule provides for consideration of H.R. 22, H.R. 1526, S.J. Res. 18 and S.J. Res. 28. The resolution provides for consideration of H.R. 22, H.R. 1526, S.J. Res. 18, and S.J. Res. 28 under a closed rule. The resolution provides for one hour of debate on each measure and one motion to recommit on H.R. 22 and H.R. 1526, and one motion to commit on S.J. Res. 18 and S.J. Res. 28. The resolution also provides that H. Res. 23 and H. Res. 164 are laid on the table.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -233,7 +248,14 @@
   "number": "1526",
   "official_title": "To amend title 28, United States Code, to limit the authority of district courts to provide injunctive relief, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres282-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "No Rogue Rulings Act of 2025",
   "sponsor": {
     "bioguide_id": "I000056",
@@ -294,6 +316,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-28T19:33:44Z",
+  "updated_at": "2025-04-02T08:35:44Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1526.xml"
 }
