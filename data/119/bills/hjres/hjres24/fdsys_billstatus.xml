@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>24</number>
-    <updateDate>2025-04-01T18:02:44Z</updateDate>
-    <updateDateIncludingText>2025-04-01T18:02:44Z</updateDateIncludingText>
+    <updateDate>2025-04-03T13:09:05Z</updateDate>
+    <updateDateIncludingText>2025-04-03T13:09:05Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HJRES</type>
@@ -51,6 +51,32 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-04-02</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by motion.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-04-02</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 161.</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>161</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00161.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2025-04-03T00:03:53Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
       <item>
         <actionDate>2025-03-31</actionDate>
         <sourceSystem>
@@ -395,6 +421,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Received in Senate</type>
+        <date>2025-03-31T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hjres24rds/xml/BILLS-119hjres24rds.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Engrossed in House</type>
         <date>2025-03-27T04:00:00Z</date>
         <formats>
@@ -414,8 +449,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-31</actionDate>
-      <text>Received in the Senate.</text>
+      <actionDate>2025-04-02</actionDate>
+      <text>Measure laid before Senate by motion.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
