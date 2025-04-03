@@ -17,6 +17,36 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Finance.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-02",
+      "action_code": "",
+      "committees": [
+        "SSFI"
+      ],
+      "references": [],
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-02",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-02",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "160",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 160.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +57,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Finance",
@@ -128,9 +159,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-04-02",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-04-02",
     "vetoed": false
   },
   "introduced_at": "2025-03-11",
@@ -147,8 +181,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-03-11",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-04-02",
   "subjects": [
     "Foreign trade and international finance"
   ],
@@ -175,6 +209,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-04-02T10:56:30Z",
+  "updated_at": "2025-04-03T13:09:01Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres37.xml"
 }

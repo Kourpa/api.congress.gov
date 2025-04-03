@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="248" updated="2025-03-04T09:06:02Z">
-  <state datetime="2025-01-09">REFERRED</state>
+<bill session="119" type="h" number="248" updated="2025-04-03T13:59:28Z">
+  <state datetime="2025-04-02">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-09"/>
+    <unknown datetime="2025-04-02"/>
   </status>
   <introduced datetime="2025-01-09"/>
   <titles>
@@ -29,9 +29,18 @@
     <action datetime="2025-01-10">
       <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
     </action>
+    <action datetime="2025-04-02">
+      <text>Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged</text>
+    </action>
+    <action datetime="2025-04-02">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-04-02" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSPW14" name="House Transportation and Infrastructure" subcommittee="Railroads, Pipelines, and Hazardous Materials" activity="Referral"/>
   </committees>
   <relatedbills>
@@ -39,6 +48,10 @@
   </relatedbills>
   <subjects>
     <term name="Transportation and public works"/>
+    <term name="Child safety and welfare"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="National Railroad Passenger Corporation (Amtrak)"/>
+    <term name="Railroads"/>
   </subjects>
   <amendments/>
   <summary date="2025-02-07T13:42:32Z" status="Introduced in House"></summary>

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="188" updated="2025-02-12T09:00:53Z">
-  <state datetime="2025-01-03">REFERRED</state>
+<bill session="119" type="h" number="188" updated="2025-04-03T13:59:46Z">
+  <state datetime="2025-04-02">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-03"/>
+    <unknown datetime="2025-04-02"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
@@ -23,9 +23,18 @@
     <action datetime="2025-01-04">
       <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
     </action>
+    <action datetime="2025-04-02">
+      <text>Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged</text>
+    </action>
+    <action datetime="2025-04-02">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-04-02" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSPW14" name="House Transportation and Infrastructure" subcommittee="Railroads, Pipelines, and Hazardous Materials" activity="Referral"/>
   </committees>
   <relatedbills/>

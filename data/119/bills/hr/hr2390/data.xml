@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2390" updated="2025-04-01T08:05:27Z">
-  <state datetime="2025-03-26">REFERRED</state>
+<bill session="119" type="h" number="2390" updated="2025-04-03T13:59:38Z">
+  <state datetime="2025-04-02">REPORTED</state>
   <status>
-    <introduced datetime="2025-03-26"/>
+    <unknown datetime="2025-04-02"/>
   </status>
   <introduced datetime="2025-03-26"/>
   <titles>
@@ -21,9 +21,18 @@
     <action datetime="2025-03-27">
       <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
     </action>
+    <action datetime="2025-04-02">
+      <text>Subcommittee on Coast Guard and Maritime Transportation Discharged</text>
+    </action>
+    <action datetime="2025-04-02">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-04-02" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSPW07" name="House Transportation and Infrastructure" subcommittee="Coast Guard and Maritime Transportation" activity="Referral"/>
   </committees>
   <relatedbills/>
