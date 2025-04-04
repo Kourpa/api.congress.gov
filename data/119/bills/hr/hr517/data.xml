@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="517" updated="2025-04-03T13:23:21Z">
+<bill session="119" type="h" number="517" updated="2025-04-04T17:17:57Z">
   <state datetime="2025-03-31T18:56:03-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-03-31T18:56:03-04:00"/>
@@ -40,6 +40,7 @@
     </action>
     <action datetime="2025-03-31T16:30:50-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1347-1348: 1" label="consideration"/>
     </action>
     <action datetime="2025-03-31T16:30:52-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 517.</text>
@@ -49,9 +50,11 @@
     </action>
     <action datetime="2025-03-31T18:30:40-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H1356: 5" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="84" datetime="2025-03-31T18:56:03-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 84).</text>
+      <reference ref="CR H1347: 1" label="text"/>
     </vote>
     <action datetime="2025-03-31T18:56:04-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

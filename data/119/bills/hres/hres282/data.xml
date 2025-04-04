@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="282" updated="2025-04-03T13:59:19Z">
+<bill session="119" type="hr" number="282" updated="2025-04-04T17:26:36Z">
   <state datetime="2025-04-01T14:16:00-04:00">FAIL:ORIGINATING:HOUSE</state>
   <status>
     <unknown datetime="2025-04-01T14:16:00-04:00"/>
@@ -22,12 +22,15 @@
     </calendar>
     <action datetime="2025-04-01T12:19:58-04:00">
       <text>Considered as privileged matter.</text>
+      <reference ref="CR H1389: 6" label="consideration"/>
+      <reference ref="CR H1389-1390" label="text"/>
     </action>
     <action datetime="2025-04-01T12:24:36-04:00">
       <text>DEBATE - The House proceeded with one hour of debate on H. Res. 282.</text>
     </action>
     <action datetime="2025-04-01T13:58:22-04:00">
       <text>On ordering the previous question Agreed to by the Yeas and Nays: 215 - 213 (Roll no. 86).</text>
+      <reference ref="CR H1397-1398" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="87" datetime="2025-04-01T14:16:00-04:00" where="h" result="fail" state="FAIL:ORIGINATING:HOUSE">
       <text>On agreeing to the resolution Failed by recorded vote: 206 - 222 (Roll no. 87).</text>

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="998" updated="2025-04-04T05:08:20Z">
+<bill session="119" type="h" number="998" updated="2025-04-04T17:19:06Z">
   <state datetime="2025-03-31T16:53:02-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-03-31T16:53:02-04:00"/>
@@ -40,12 +40,14 @@
     </action>
     <action datetime="2025-03-31T16:45:20-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1348-1349: 1" label="consideration"/>
     </action>
     <action datetime="2025-03-31T16:45:21-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 998.</text>
     </action>
     <vote how="by voice vote" type="vote" datetime="2025-03-31T16:53:02-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1348-1349" label="text"/>
     </vote>
     <action datetime="2025-03-31T16:53:04-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

@@ -117,7 +117,20 @@
   "number": "2224",
   "official_title": "To amend the Internal Revenue Code of 1986 to clarify that products derived from tar sands are crude oil for purposes of the Federal excise tax on petroleum, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s1026-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr383-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Tar Sands Tax Loophole Elimination Act",
   "sponsor": {
     "bioguide_id": "S001145",
@@ -129,8 +142,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-03-18",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Taxation"
+  ],
+  "subjects_top_term": "Taxation",
   "summary": null,
   "titles": [
     {
@@ -155,6 +170,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-04T05:08:24Z",
+  "updated_at": "2025-04-04T17:03:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2224.xml"
 }
