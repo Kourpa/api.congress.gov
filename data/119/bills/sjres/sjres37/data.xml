@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="37" updated="2025-04-03T13:09:01Z">
+<bill session="119" type="sj" number="37" updated="2025-04-04T10:56:27Z">
   <state datetime="2025-04-02">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-04-02"/>
@@ -36,6 +36,15 @@
     <vote how="roll" type="vote" roll="160" datetime="2025-04-02" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate without amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 160.</text>
     </vote>
+    <action datetime="2025-04-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2025-04-03T11:02:28-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2025-04-03T11:02:30-04:00">
+      <text>Held at the desk.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>

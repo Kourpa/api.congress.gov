@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-03",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on the Judiciary. Ordered to be reported without amendment favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -148,7 +160,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-04-03",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -167,8 +180,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-11",
+  "status": "REPORTED",
+  "status_at": "2025-04-03",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -195,6 +208,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-03T13:18:18Z",
+  "updated_at": "2025-04-04T11:03:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s527.xml"
 }

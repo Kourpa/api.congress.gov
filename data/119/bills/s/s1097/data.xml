@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1097" updated="2025-04-03T17:16:01Z">
-  <state datetime="2025-03-24">REFERRED</state>
+<bill session="119" type="s" number="1097" updated="2025-04-04T11:03:21Z">
+  <state datetime="2025-04-03">REPORTED</state>
   <status>
-    <introduced datetime="2025-03-24"/>
+    <unknown datetime="2025-04-03"/>
   </status>
   <introduced datetime="2025-03-24"/>
   <titles>
@@ -24,9 +24,12 @@
       <text>Read twice and referred to the Committee on the Judiciary.</text>
       <reference ref="CR S1804-1805" label="text"/>
     </action>
+    <action datetime="2025-04-03" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
