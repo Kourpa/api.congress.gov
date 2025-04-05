@@ -1,10 +1,42 @@
 {
   "actions": [
     {
+      "acted_at": "2025-04-05",
+      "action_code": "",
+      "how": "Voice Vote",
+      "references": [],
+      "result": "fail",
+      "text": "Amendment SA 1441 not agreed to in Senate by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-04-05",
+      "action_code": "",
+      "references": [],
+      "text": "Amendment SA 1441 proposed by Senator Booker to Amendment SA 1717. To establish a deficit-neutral reserve fund relating to stopping the Department of Agriculture from not honoring contracts made with farmers and farm-serving organizations.",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-04-03",
       "action_code": "Intro-S",
       "references": [],
       "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-05",
+      "action_code": "93000",
+      "references": [],
+      "text": "Senate amendment proposed (on the floor): Amendment SA 1441 proposed by Senator Booker to Amendment SA 1717.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-05",
+      "action_code": "95000",
+      "references": [],
+      "text": "Senate amendment not agreed to: Amendment SA 1441 not agreed to in Senate by Voice Vote.",
       "type": "action"
     },
     {
@@ -17,7 +49,14 @@
   ],
   "amendment_id": "samdt1441-119",
   "amendment_type": "samdt",
-  "amends_amendment": null,
+  "amends_amendment": {
+    "amendment_id": "samdt1717-119",
+    "amendment_type": "samdt",
+    "congress": 119,
+    "description": "",
+    "number": 1717,
+    "purpose": "In the nature of a substitute."
+  },
   "amends_bill": {
     "bill_id": "hconres14-119",
     "bill_type": "hconres",
@@ -29,7 +68,8 @@
   "congress": "119",
   "introduced_at": "2025-04-03",
   "number": 1441,
-  "purpose": null,
+  "proposed_at": "2025-04-05T04:00:00Z",
+  "purpose": "To establish a deficit-neutral reserve fund relating to stopping the Department of Agriculture from not honoring contracts made with farmers and farm-serving organizations.",
   "sponsor": {
     "bioguide_id": "B001288",
     "district": null,
@@ -38,7 +78,7 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2025-04-03",
-  "updated_at": "2025-04-04T11:09:10Z"
+  "status": "fail",
+  "status_at": "2025-04-05",
+  "updated_at": "2025-04-05T11:09:31Z"
 }

@@ -1,10 +1,50 @@
 {
   "actions": [
     {
+      "acted_at": "2025-04-04",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": 174,
+      "text": "Amendment SA 1310 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 174.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-04-04",
+      "action_code": "",
+      "references": [],
+      "text": "Amendment SA 1310 proposed by Senator Warner to Amendment SA 1717. To establish a deficit-neutral reserve fund relating to strengthening protections for members of the Armed Forces by prohibiting the use of any commercial messaging application to transmit information revealing the timing, sequencing, or weapons to be used during impending United States military operations in foreign countries that may endanger the lives of members of the Armed Forces.",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-04-03",
       "action_code": "Intro-S",
       "references": [],
       "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-04",
+      "action_code": "95000",
+      "references": [],
+      "text": "Senate amendment not agreed to: Amendment SA 1310 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 174.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-04",
+      "action_code": "97000",
+      "references": [],
+      "text": "Roll call votes on amendments in Senate: Amendment SA 1310 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 174.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-04",
+      "action_code": "93000",
+      "references": [],
+      "text": "Senate amendment proposed (on the floor): Amendment SA 1310 proposed by Senator Warner to Amendment SA 1717.",
       "type": "action"
     },
     {
@@ -17,7 +57,14 @@
   ],
   "amendment_id": "samdt1310-119",
   "amendment_type": "samdt",
-  "amends_amendment": null,
+  "amends_amendment": {
+    "amendment_id": "samdt1717-119",
+    "amendment_type": "samdt",
+    "congress": 119,
+    "description": "",
+    "number": 1717,
+    "purpose": "In the nature of a substitute."
+  },
   "amends_bill": {
     "bill_id": "hconres14-119",
     "bill_type": "hconres",
@@ -29,7 +76,8 @@
   "congress": "119",
   "introduced_at": "2025-04-03",
   "number": 1310,
-  "purpose": null,
+  "proposed_at": "2025-04-04T04:00:00Z",
+  "purpose": "To establish a deficit-neutral reserve fund relating to strengthening protections for members of the Armed Forces by prohibiting the use of any commercial messaging application to transmit information revealing the timing, sequencing, or weapons to be used during impending United States military operations in foreign countries that may endanger the lives of members of the Armed Forces.",
   "sponsor": {
     "bioguide_id": "W000805",
     "district": null,
@@ -38,7 +86,7 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2025-04-03",
-  "updated_at": "2025-04-04T11:09:01Z"
+  "status": "fail",
+  "status_at": "2025-04-04",
+  "updated_at": "2025-04-05T11:09:31Z"
 }

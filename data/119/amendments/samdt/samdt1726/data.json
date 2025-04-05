@@ -1,10 +1,50 @@
 {
   "actions": [
     {
+      "acted_at": "2025-04-04",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": 173,
+      "text": "Amendment SA 1726 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 173.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-04-04",
+      "action_code": "",
+      "references": [],
+      "text": "Amendment SA 1726 proposed by Senator Lujan to Amendment SA 1717. To strike the provision relating to instructions to the Committee on Agriculture.",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-04-03",
       "action_code": "Intro-S",
       "references": [],
       "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-04",
+      "action_code": "93000",
+      "references": [],
+      "text": "Senate amendment proposed (on the floor): Amendment SA 1726 proposed by Senator Lujan to Amendment SA 1717.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-04",
+      "action_code": "95000",
+      "references": [],
+      "text": "Senate amendment not agreed to: Amendment SA 1726 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 173.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-04",
+      "action_code": "97000",
+      "references": [],
+      "text": "Roll call votes on amendments in Senate: Amendment SA 1726 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 173.",
       "type": "action"
     },
     {
@@ -36,7 +76,8 @@
   "congress": "119",
   "introduced_at": "2025-04-03",
   "number": 1726,
-  "purpose": null,
+  "proposed_at": "2025-04-04T04:00:00Z",
+  "purpose": "To strike the provision relating to instructions to the Committee on Agriculture.",
   "sponsor": {
     "bioguide_id": "L000570",
     "district": null,
@@ -45,7 +86,7 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2025-04-03",
-  "updated_at": "2025-04-04T11:09:30Z"
+  "status": "fail",
+  "status_at": "2025-04-04",
+  "updated_at": "2025-04-05T11:09:32Z"
 }

@@ -1,10 +1,50 @@
 {
   "actions": [
     {
+      "acted_at": "2025-04-05",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": 186,
+      "text": "Amendment SA 1693 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 186.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-04-05",
+      "action_code": "",
+      "references": [],
+      "text": "Amendment SA 1693 proposed by Senator Baldwin to Amendment SA 1717. To establish a deficit-neutral reserve fund relating to preventing a reduction in Medicaid funding that could lead to rural hospital closures, cost increases for individuals with other kinds of insurance, or higher rates of uncompensated care.",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-04-03",
       "action_code": "Intro-S",
       "references": [],
       "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-05",
+      "action_code": "93000",
+      "references": [],
+      "text": "Senate amendment proposed (on the floor): Amendment SA 1693 proposed by Senator Baldwin to Amendment SA 1717.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-05",
+      "action_code": "95000",
+      "references": [],
+      "text": "Senate amendment not agreed to: Amendment SA 1693 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 186.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-05",
+      "action_code": "97000",
+      "references": [],
+      "text": "Roll call votes on amendments in Senate: Amendment SA 1693 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 186.",
       "type": "action"
     },
     {
@@ -17,7 +57,14 @@
   ],
   "amendment_id": "samdt1693-119",
   "amendment_type": "samdt",
-  "amends_amendment": null,
+  "amends_amendment": {
+    "amendment_id": "samdt1717-119",
+    "amendment_type": "samdt",
+    "congress": 119,
+    "description": "",
+    "number": 1717,
+    "purpose": "In the nature of a substitute."
+  },
   "amends_bill": {
     "bill_id": "hconres14-119",
     "bill_type": "hconres",
@@ -29,7 +76,8 @@
   "congress": "119",
   "introduced_at": "2025-04-03",
   "number": 1693,
-  "purpose": null,
+  "proposed_at": "2025-04-05T04:00:00Z",
+  "purpose": "To establish a deficit-neutral reserve fund relating to preventing a reduction in Medicaid funding that could lead to rural hospital closures, cost increases for individuals with other kinds of insurance, or higher rates of uncompensated care.",
   "sponsor": {
     "bioguide_id": "B001230",
     "district": null,
@@ -38,7 +86,7 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2025-04-03",
-  "updated_at": "2025-04-04T11:09:28Z"
+  "status": "fail",
+  "status_at": "2025-04-05",
+  "updated_at": "2025-04-05T11:09:32Z"
 }
