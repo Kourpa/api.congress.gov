@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="801" updated="2025-03-26T08:06:15Z">
+<bill session="119" type="h" number="801" updated="2025-04-08T08:06:20Z">
   <state datetime="2025-01-28">REFERRED</state>
   <status>
     <introduced datetime="2025-01-28"/>
@@ -38,6 +38,7 @@
     <cosponsor bioguide_id="M001205" joined="2025-01-28"/>
     <cosponsor bioguide_id="M001206" joined="2025-03-21"/>
     <cosponsor bioguide_id="M001234" joined="2025-03-11"/>
+    <cosponsor bioguide_id="N000191" joined="2025-04-07"/>
     <cosponsor bioguide_id="N000147" joined="2025-03-03"/>
     <cosponsor bioguide_id="P000613" joined="2025-02-24"/>
     <cosponsor bioguide_id="P000614" joined="2025-01-28"/>
@@ -52,6 +53,7 @@
     <cosponsor bioguide_id="S001218" joined="2025-02-24"/>
     <cosponsor bioguide_id="T000478" joined="2025-02-24"/>
     <cosponsor bioguide_id="T000488" joined="2025-02-04"/>
+    <cosponsor bioguide_id="T000463" joined="2025-04-07"/>
   </cosponsors>
   <actions>
     <action datetime="2025-01-28">
@@ -64,7 +66,11 @@
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="317" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+  </subjects>
   <amendments/>
 </bill>
