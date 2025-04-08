@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1912" updated="2025-04-03T19:14:56Z">
+<bill session="119" type="h" number="1912" updated="2025-04-08T08:06:12Z">
   <state datetime="2025-03-06">REFERRED</state>
   <status>
     <introduced datetime="2025-03-06"/>
@@ -13,6 +13,7 @@
   <cosponsors>
     <cosponsor bioguide_id="C001133" joined="2025-03-06"/>
     <cosponsor bioguide_id="F000466" joined="2025-03-21"/>
+    <cosponsor bioguide_id="H001090" joined="2025-04-07"/>
     <cosponsor bioguide_id="M001210" joined="2025-03-06"/>
     <cosponsor bioguide_id="N000193" joined="2025-03-06"/>
     <cosponsor bioguide_id="S001226" joined="2025-03-06"/>
@@ -25,15 +26,23 @@
     <action datetime="2025-03-06" state="REFERRED">
       <text>Referred to the House Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-03-27">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR09" name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="892" relation="identical"/>
   </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Veterans' pensions and compensation"/>
   </subjects>
   <amendments/>
   <summary date="2025-04-02T19:04:10Z" status="Introduced in House"></summary>

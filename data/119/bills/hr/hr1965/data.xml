@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1965" updated="2025-03-26T15:14:07Z">
+<bill session="119" type="h" number="1965" updated="2025-04-08T08:06:32Z">
   <state datetime="2025-03-06">REFERRED</state>
   <status>
     <introduced datetime="2025-03-06"/>
@@ -12,22 +12,30 @@
   <sponsor bioguide_id="V000136"/>
   <cosponsors>
     <cosponsor bioguide_id="F000466" joined="2025-03-18"/>
+    <cosponsor bioguide_id="H001090" joined="2025-04-07"/>
     <cosponsor bioguide_id="V000129" joined="2025-03-06"/>
   </cosponsors>
   <actions>
     <action datetime="2025-03-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2025-03-03">
       <text>Sponsor introductory remarks on measure.</text>
       <reference ref="CR H924-925"/>
     </action>
-    <action datetime="2025-03-06">
+    <action datetime="2025-03-03">
       <text>Introduced in House</text>
     </action>
     <action datetime="2025-03-06" state="REFERRED">
       <text>Referred to the House Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-03-27">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR10" name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
