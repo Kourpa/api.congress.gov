@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-27",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Veterans' Affairs",
       "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Disability Assistance and Memorial Affairs",
+      "subcommittee_id": "09"
     }
   ],
   "congress": "119",
@@ -57,7 +76,14 @@
   "number": "1685",
   "official_title": "To amend title 38, United States Code, to extend increased dependency and indemnity compensation paid to surviving spouses of veterans who die from amyotrophic lateral sclerosis, regardless of how long the veterans had such disease prior to death.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s749-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Justice for ALS Veterans Act of 2025",
   "sponsor": {
     "bioguide_id": "F000466",
@@ -73,7 +99,12 @@
     "Armed forces and national security"
   ],
   "subjects_top_term": "Armed forces and national security",
-  "summary": null,
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2025-02-27",
+    "date": "2025-04-08T16:12:49Z",
+    "text": ""
+  },
   "titles": [
     {
       "as": null,
@@ -97,6 +128,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-04T19:57:26Z",
+  "updated_at": "2025-04-08T16:12:59Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1685.xml"
 }

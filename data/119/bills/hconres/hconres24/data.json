@@ -17,6 +17,13 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on House Administration.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-07",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -48,7 +55,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-04-07",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -70,7 +78,11 @@
   "status": "REFERRED",
   "status_at": "2025-04-01",
   "subjects": [
-    "Congress"
+    "Alaska Natives and Hawaiians",
+    "Congress",
+    "Congressional tributes",
+    "U.S. Capitol",
+    "U.S. history"
   ],
   "subjects_top_term": "Congress",
   "summary": null,
@@ -90,6 +102,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-03T13:58:10Z",
+  "updated_at": "2025-04-08T13:41:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres24.xml"
 }

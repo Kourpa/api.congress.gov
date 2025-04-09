@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1663" updated="2025-03-25T17:57:25Z">
+<bill session="119" type="h" number="1663" updated="2025-04-08T16:06:53Z">
   <state datetime="2025-02-27">REFERRED</state>
   <status>
     <introduced datetime="2025-02-27"/>
@@ -16,6 +16,7 @@
     <cosponsor bioguide_id="C001133" joined="2025-02-27"/>
     <cosponsor bioguide_id="C001053" joined="2025-02-27"/>
     <cosponsor bioguide_id="L000599" joined="2025-02-27"/>
+    <cosponsor bioguide_id="S001196" joined="2025-04-07"/>
     <cosponsor bioguide_id="V000129" joined="2025-02-27"/>
     <cosponsor bioguide_id="W000804" joined="2025-02-27"/>
   </cosponsors>
@@ -26,13 +27,18 @@
     <action datetime="2025-02-27" state="REFERRED">
       <text>Referred to the House Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-03-27">
+      <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR08" name="House Veterans' Affairs" subcommittee="Oversight and Investigations" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Armed forces and national security"/>
   </subjects>
   <amendments/>
+  <summary date="2025-04-08T16:04:16Z" status="Introduced in House"></summary>
 </bill>

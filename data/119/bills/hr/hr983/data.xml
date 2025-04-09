@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="983" updated="2025-03-24T17:24:55Z">
-  <state datetime="2025-02-05">REFERRED</state>
+<bill session="119" type="h" number="983" updated="2025-04-08T18:15:46Z">
+  <state datetime="2025-04-07T16:31:06-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-02-05"/>
+    <unknown datetime="2025-04-07T16:31:06-04:00"/>
   </status>
   <introduced datetime="2025-02-05"/>
   <titles>
@@ -24,6 +24,23 @@
     <action datetime="2025-03-07">
       <text>Referred to the Subcommittee on Economic Opportunity.</text>
     </action>
+    <action datetime="2025-04-07T16:17:37-04:00">
+      <text>Mr. Bost moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-04-07T16:17:49-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1432-1433: 1" label="consideration"/>
+    </action>
+    <action datetime="2025-04-07T16:17:50-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 983.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-04-07T16:31:06-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1432" label="text"/>
+    </vote>
+    <action datetime="2025-04-07T16:31:11-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
@@ -33,6 +50,9 @@
   <relatedbills/>
   <subjects>
     <term name="Armed forces and national security"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
   </subjects>
   <amendments/>
   <summary date="2025-03-24T17:24:51Z" status="Introduced in House"></summary>

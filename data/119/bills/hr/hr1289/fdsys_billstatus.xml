@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1289</number>
-    <updateDate>2025-03-20T16:36:36Z</updateDate>
-    <updateDateIncludingText>2025-03-20T16:36:36Z</updateDateIncludingText>
+    <updateDate>2025-04-08T15:37:24Z</updateDate>
+    <updateDateIncludingText>2025-04-08T15:37:24Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,18 @@
         <name>Veterans' Affairs Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-03-14T17:52:09Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -28,6 +40,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-03-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-02-13</actionDate>
         <text>Referred to the House Committee on Veterans' Affairs.</text>
@@ -100,6 +127,17 @@
         <updateDate>2025-03-20T16:36:36Z</updateDate>
       </policyArea>
     </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2025-02-13</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2025-04-08T15:37:20Z</updateDate>
+        <cdata>
+          <text>&lt;p&gt;&lt;strong&gt;Veterans Nutrition and Wellness Act of 2025&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This bill requires the Department of Veterans Affairs (VA) to establish and implement the Food is Medicine pilot program, under which the VA must provide medically&amp;nbsp;tailored meals and groceries, nutrition education, and cooking classes to certain veterans who are enrolled in the VA health care system. Specifically, the program is for veterans enrolled in the VA health care system who receive VA care for (1) multiple chronic conditions, or (2) maternal health and are at risk of&amp;nbsp;preeclampsia or gestational diabetes.&lt;/p&gt;&lt;p&gt;The three-year pilot program also requires the VA to (1) develop and seek to implement training programs for VA health care providers in integrating the program into the treatment plans of veterans, and (2) seek to collaborate with community-based organizations to procure&amp;nbsp;locally&amp;nbsp;sourced produce and expand the availability of medically&amp;nbsp;tailored meals and groceries.&lt;/p&gt;</text>
+        </cdata>
+      </summary>
+    </summaries>
     <title>Veterans Nutrition and Wellness Act of 2025</title>
     <titles>
       <item>
@@ -137,8 +175,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-13</actionDate>
-      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2025-03-14</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>22</number>
-    <updateDate>2025-04-01T18:41:49Z</updateDate>
-    <updateDateIncludingText>2025-04-01T18:41:49Z</updateDateIncludingText>
+    <updateDate>2025-04-08T18:21:14Z</updateDate>
+    <updateDateIncludingText>2025-04-08T18:21:14Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -19,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-04-07T23:06:06Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-03-31T16:02:30Z</date>
           </item>
@@ -26,6 +30,93 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-04-07</actionDate>
+        <actionTime>19:06:55</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-07</actionDate>
+        <actionTime>19:06:53</actionTime>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H1443)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-07</actionDate>
+        <actionTime>19:06:53</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-07</actionDate>
+        <actionTime>19:06:07</actionTime>
+        <text>Considered by unanimous consent. (consideration: CR H1443: 1)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-07</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-04-07</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-04-07</actionDate>
+        <actionTime>19:06:05</actionTime>
+        <text>Mr. Steil asked unanimous consent to discharge from committee and consider.</text>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-03-31</actionDate>
         <text>Referred to the House Committee on House Administration.</text>
@@ -79,7 +170,24 @@
       <name>Congress</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Commemorative events and holidays</name>
+          <updateDate>2025-04-08T13:50:51Z</updateDate>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+          <updateDate>2025-04-08T13:50:51Z</updateDate>
+        </item>
+        <item>
+          <name>Military history</name>
+          <updateDate>2025-04-08T13:51:05Z</updateDate>
+        </item>
+        <item>
+          <name>U.S. Capitol</name>
+          <updateDate>2025-04-08T13:50:51Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Congress</name>
         <updateDate>2025-04-01T18:41:49Z</updateDate>
@@ -114,8 +222,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-31</actionDate>
-      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2025-04-07</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>19:06:55</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

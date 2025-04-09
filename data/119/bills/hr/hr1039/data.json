@@ -37,6 +37,77 @@
       "references": [],
       "text": "Subcommittee Hearings Held",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T17:00:15-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Bost moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T17:00:28-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H1437-1439: 1",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T17:00:29-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1039.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T17:13:26-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T18:58:29-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H1442-1443: 2",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T19:04:59-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR H1437: 1",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "roll": "90",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 90).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-04-07T19:05:00-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -162,6 +233,8 @@
     "active_at": "2025-03-26",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-04-07T19:04:59-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-06",
@@ -178,8 +251,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-06",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-04-07T19:04:59-04:00",
   "subjects": [
     "Armed forces and national security",
     "Congressional oversight",
@@ -221,6 +294,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-03T13:59:14Z",
+  "updated_at": "2025-04-08T18:18:58Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1039.xml"
 }

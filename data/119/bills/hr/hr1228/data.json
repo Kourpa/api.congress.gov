@@ -19,7 +19,7 @@
       "type": "referral"
     },
     {
-      "acted_at": "2025-03-26",
+      "acted_at": "2025-03-21",
       "action_code": "",
       "committees": [
         "HSVR"
@@ -36,6 +36,43 @@
       ],
       "references": [],
       "text": "Subcommittee Hearings Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T16:31:11-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Bost moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T16:31:32-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H1433: 1",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H1433-1434",
+          "type": "text"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T16:31:33-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1228.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T16:47:52-04:00",
+      "action_code": "H37210",
+      "references": [],
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bost objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.",
       "type": "action"
     }
   ],
@@ -55,6 +92,8 @@
     {
       "activity": [
         "Hearings By (subcommittee)",
+        "Hearings By (subcommittee)",
+        "referral",
         "referral"
       ],
       "committee": "House Veterans' Affairs",
@@ -101,7 +140,10 @@
   "status": "REFERRED",
   "status_at": "2025-02-12",
   "subjects": [
-    "Armed forces and national security"
+    "Armed forces and national security",
+    "Department of Veterans Affairs",
+    "Executive agency funding and structure",
+    "Veterans' pensions and compensation"
   ],
   "subjects_top_term": "Armed forces and national security",
   "summary": {
@@ -133,6 +175,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-27T08:06:22Z",
+  "updated_at": "2025-04-08T18:16:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1228.xml"
 }

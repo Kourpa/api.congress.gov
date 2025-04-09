@@ -17,6 +17,60 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on House Administration.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-07T19:06:05-04:00",
+      "action_code": "H30200",
+      "references": [],
+      "text": "Mr. Steil asked unanimous consent to discharge from committee and consider.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07",
+      "action_code": "H12300",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "Committee on House Administration discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T19:06:07-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H1443: 1",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T19:06:53-04:00",
+      "action_code": "H37100",
+      "how": "without objection",
+      "references": [
+        {
+          "reference": "CR H1443",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On agreeing to the resolution Agreed to without objection.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-04-07T19:06:55-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -27,6 +81,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Committee on House Administration",
@@ -37,9 +92,12 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-04-07T19:06:05-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-04-07T19:06:53-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-03-31",
@@ -56,10 +114,14 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-03-31",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-04-07T19:06:53-04:00",
   "subjects": [
-    "Congress"
+    "Commemorative events and holidays",
+    "Congress",
+    "Congressional tributes",
+    "Military history",
+    "U.S. Capitol"
   ],
   "subjects_top_term": "Congress",
   "summary": null,
@@ -79,6 +141,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-04-01T18:41:49Z",
+  "updated_at": "2025-04-08T18:21:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres22.xml"
 }

@@ -65,6 +65,70 @@
       "text": "Placed on the House Calendar, Calendar No. 13.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-04-07T16:00:28-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Perry moved to suspend the rules and agree to the resolution.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T16:00:46-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H1429-1430: 5",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T16:00:47-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hcres9-119"
+      ],
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 9.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T16:06:57-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hcres9-119"
+      ],
+      "references": [],
+      "text": "DEBATE - The House resumed debate on H. Con. Res. 9.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-07T16:09:02-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H1429",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-04-07T16:09:04-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -112,6 +176,8 @@
     "active_at": "2025-02-26",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-04-07T16:09:02-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-06",
@@ -128,8 +194,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-02-26",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-04-07T16:09:02-04:00",
   "subjects": [
     "Commemorative events and holidays",
     "Congress",
@@ -163,6 +229,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-03-26T08:06:47Z",
+  "updated_at": "2025-04-08T18:14:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres9.xml"
 }

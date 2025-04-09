@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="586" updated="2025-04-01T08:05:22Z">
-  <state datetime="2025-01-21">REFERRED</state>
+<bill session="119" type="h" number="586" updated="2025-04-08T18:18:09Z">
+  <state datetime="2025-04-07T18:56:38-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-21"/>
+    <unknown datetime="2025-04-07T18:56:38-04:00"/>
   </status>
   <introduced datetime="2025-01-21"/>
   <titles>
@@ -16,6 +16,7 @@
     <cosponsor bioguide_id="F000466" joined="2025-01-21"/>
     <cosponsor bioguide_id="G000583" joined="2025-01-21"/>
     <cosponsor bioguide_id="L000599" joined="2025-01-28"/>
+    <cosponsor bioguide_id="G000600" joined="2025-04-07"/>
     <cosponsor bioguide_id="R000622" joined="2025-03-31"/>
     <cosponsor bioguide_id="R000579" joined="2025-01-21"/>
   </cosponsors>
@@ -28,6 +29,30 @@
     </action>
     <action datetime="2025-02-25">
       <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2025-04-07T16:48:13-04:00">
+      <text>Mr. Bost moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-04-07T16:48:25-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1435-1437" label="consideration"/>
+    </action>
+    <action datetime="2025-04-07T16:48:26-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 586.</text>
+    </action>
+    <action datetime="2025-04-07T16:59:47-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2025-04-07T18:31:04-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H1441-1442: 5" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="89" datetime="2025-04-07T18:56:38-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 89).</text>
+      <reference ref="CR H1435-1436: 1" label="text"/>
+    </vote>
+    <action datetime="2025-04-07T18:56:39-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>
