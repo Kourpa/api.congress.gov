@@ -36,7 +36,12 @@
     {
       "acted_at": "2025-04-08T12:11:17-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1473-1480",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -57,7 +62,12 @@
     {
       "acted_at": "2025-04-08T14:15:23-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1480-1481",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -72,7 +82,12 @@
       "acted_at": "2025-04-08T15:23:12-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1473: 2",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "92",
       "status": "PASSED:SIMPLERES",
@@ -178,7 +193,9 @@
   "status": "PASSED:SIMPLERES",
   "status_at": "2025-04-08T15:23:12-04:00",
   "subjects": [
-    "Congress"
+    "Congress",
+    "House of Representatives",
+    "Legislative rules and procedure"
   ],
   "subjects_top_term": "Congress",
   "summary": null,
@@ -198,6 +215,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-09T08:06:31Z",
+  "updated_at": "2025-04-09T13:22:05Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres294.xml"
 }
