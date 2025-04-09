@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="983" updated="2025-04-09T03:53:16Z">
+<bill session="119" type="h" number="983" updated="2025-04-09T10:56:28Z">
   <state datetime="2025-04-07T16:31:06-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-04-07T16:31:06-04:00"/>
@@ -42,8 +42,12 @@
     <action datetime="2025-04-07T16:31:11-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-04-08">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSVR10" name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>

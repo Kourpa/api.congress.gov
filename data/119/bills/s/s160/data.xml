@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="160" updated="2025-04-09T03:38:15Z">
-  <state datetime="2025-01-21">REFERRED</state>
+<bill session="119" type="s" number="160" updated="2025-04-09T12:32:49Z">
+  <state datetime="2025-04-08">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-01-21"/>
+    <unknown datetime="2025-04-08"/>
   </status>
   <introduced datetime="2025-01-21"/>
   <titles>
+    <title type="display">Aerial Firefighting Enhancement Act of 2025</title>
     <title type="short" as="introduced">Aerial Firefighting Enhancement Act of 2025</title>
     <title type="short" as="passed senate">Aerial Firefighting Enhancement Act of 2025</title>
-    <title type="display">Aerial Firefighting Enhancement Act of 2025</title>
     <title type="official" as="introduced">A bill to amend the Wildfire Suppression Aircraft Transfer Act of 1996 to reauthorize the sale by the Department of Defense of aircraft and parts for wildfire suppression purposes, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="S001232"/>
@@ -28,9 +28,20 @@
     <action datetime="2025-01-21" state="REFERRED">
       <text>Read twice and referred to the Committee on Armed Services.</text>
     </action>
+    <action datetime="2025-04-08">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2025-04-08">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S2480: 2" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-04-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S2480" label="text"/>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Referred To"/>
+    <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="956" relation="identical"/>
@@ -42,6 +53,8 @@
     <term name="Forests, forestry, trees"/>
     <term name="Military assistance, sales, and agreements"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s2223"/>
+  </amendments>
   <summary date="2025-03-18T15:59:17Z" status="Introduced in Senate"></summary>
 </bill>

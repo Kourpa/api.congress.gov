@@ -1,16 +1,16 @@
-<bill session="119" type="s" number="423" updated="2025-04-09T03:38:15Z">
-  <state datetime="2025-02-05">REFERRED</state>
+<bill session="119" type="s" number="423" updated="2025-04-09T12:31:17Z">
+  <state datetime="2025-04-08">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-02-05"/>
+    <unknown datetime="2025-04-08"/>
   </status>
   <introduced datetime="2025-02-05"/>
   <titles>
+    <title type="display">PRO Veterans Act of 2025</title>
     <title type="short" as="introduced">PRO Veterans Act of 2025</title>
     <title type="short" as="introduced">Protecting Regular Order for Veterans Act of 2025</title>
     <title type="short" as="passed senate" partial="1">Improving Veterans&#8217; Experience Act of 2025</title>
     <title type="short" as="passed senate" partial="1">PRO Veterans Act of 2025</title>
     <title type="short" as="passed senate" partial="1">Protecting Regular Order for Veterans Act of 2025</title>
-    <title type="display">PRO Veterans Act of 2025</title>
     <title type="official" as="introduced">A bill to protect regular order for budgeting for the Department of Veterans Affairs, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="S001198"/>
@@ -36,9 +36,20 @@
     <action datetime="2025-02-05" state="REFERRED">
       <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-04-08">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2025-04-08">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S2480: 1" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-04-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S2478-2479: 4" label="text of amendment in the nature of a substitute"/>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="396" relation="unknown"/>
@@ -46,5 +57,7 @@
   <subjects>
     <term name="Armed forces and national security"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s2222"/>
+  </amendments>
 </bill>

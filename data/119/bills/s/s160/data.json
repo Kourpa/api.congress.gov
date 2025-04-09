@@ -17,9 +17,55 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Armed Services.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-08",
+      "action_code": "",
+      "committees": [
+        "SSAS"
+      ],
+      "references": [],
+      "text": "Senate Committee on Armed Services discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-08",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S2480: 2",
+          "type": "consideration"
+        }
+      ],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-08",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S2480",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt2223-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "2223"
+    }
+  ],
   "bill_id": "s160-119",
   "bill_type": "s",
   "by_request": false,
@@ -27,6 +73,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Armed Services",
@@ -118,9 +165,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-04-08",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-04-08",
     "vetoed": false
   },
   "introduced_at": "2025-01-21",
@@ -144,8 +194,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-21",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-04-08",
   "subjects": [
     "Armed forces and national security",
     "Aviation and airports",
@@ -162,6 +212,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Aerial Firefighting Enhancement Act of 2025",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -176,13 +233,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Aerial Firefighting Enhancement Act of 2025",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -190,6 +240,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-09T03:38:15Z",
+  "updated_at": "2025-04-09T12:32:49Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s160.xml"
 }

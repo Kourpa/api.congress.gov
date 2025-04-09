@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>160</number>
-    <updateDate>2025-04-09T03:38:15Z</updateDate>
-    <updateDateIncludingText>2025-04-09T03:38:15Z</updateDateIncludingText>
+    <updateDate>2025-04-09T12:32:49Z</updateDate>
+    <updateDateIncludingText>2025-04-09T12:32:48Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -17,6 +17,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-04-08T23:23:13Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-01-21T19:40:57Z</date>
@@ -43,6 +47,62 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-04-08</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S2480)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-04-08</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-08</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S2480: 2)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-04-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-04-08</actionDate>
+        <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-01-21</actionDate>
         <committees>
@@ -205,6 +265,12 @@
     <title>Aerial Firefighting Enhancement Act of 2025</title>
     <titles>
       <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Aerial Firefighting Enhancement Act of 2025</title>
+        <updateDate>2025-04-09T10:58:19Z</updateDate>
+      </item>
+      <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
         <titleTypeCode>105</titleTypeCode>
         <title>Aerial Firefighting Enhancement Act of 2025</title>
@@ -213,12 +279,6 @@
         <chamberName>Senate</chamberName>
         <billTextVersionName>Engrossed in Senate</billTextVersionName>
         <billTextVersionCode>ES</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Aerial Firefighting Enhancement Act of 2025</title>
-        <updateDate>2025-04-03T13:18:18Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -237,6 +297,129 @@
         <billTextVersionCode>IS</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>2223</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To modify the period for exercise of authority for the sale by the Department of Defense aircraft and parts for wildfire suppression purposes.</purpose>
+        <updateDate>2025-04-09T12:32:49Z</updateDate>
+        <latestAction>
+          <actionDate>2025-04-08</actionDate>
+          <text>Amendment SA 2223 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 2223</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/2223</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S001232</bioguideId>
+            <fullName>Sen. Sheehy, Tim [R-MT]</fullName>
+            <firstName>Tim</firstName>
+            <lastName>Sheehy</lastName>
+            <party>R</party>
+            <state>MT</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>L000571</bioguideId>
+            <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+            <firstName>Cynthia</firstName>
+            <lastName>Lummis</lastName>
+            <party>R</party>
+            <state>WY</state>
+            <type>Submitted on behalf of</type>
+          </item>
+          <item>
+            <bioguideId>L000571</bioguideId>
+            <fullName>Rep. Lummis, Cynthia M. [R-WY-At Large]</fullName>
+            <firstName>Cynthia</firstName>
+            <lastName>Lummis</lastName>
+            <party>R</party>
+            <state>WY</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2025-04-08T04:00:00Z</proposedDate>
+        <submittedDate>2025-04-08T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>160</number>
+          <title>Aerial Firefighting Enhancement Act of 2025</title>
+          <updateDateIncludingText>2025-04-09</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2025-04-08</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2223 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2025-04-08</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2223 proposed by Senator Lummis for Senator Sheehy. (consideration: CR S2480: 2)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2025-04-08</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-04-08</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-04-08</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 2223 proposed by Senator Lummis for Senator Sheehy.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-04-08</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 2223 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Engrossed in Senate</type>
@@ -258,8 +441,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-21</actionDate>
-      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <actionDate>2025-04-08</actionDate>
+      <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S2480)</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
