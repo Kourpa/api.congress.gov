@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>186</number>
-    <updateDate>2025-03-06T09:05:33Z</updateDate>
-    <updateDateIncludingText>2025-03-06T09:05:33Z</updateDateIncludingText>
+    <updateDate>2025-04-10T08:06:09Z</updateDate>
+    <updateDateIncludingText>2025-04-10T08:06:09Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -19,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-04-10T00:32:28Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-03-04T15:02:10Z</date>
           </item>
@@ -26,6 +30,48 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-04-09</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 22.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-09</actionDate>
+        <text>Reported adversely by the Committee on Oversight and Government Reform. H. Rept. 119-57.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-04-09</actionDate>
+        <text>Reported adversely by the Committee on Oversight and Government Reform. H. Rept. 119-57.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-03-04</actionDate>
         <text>Referred to the House Committee on Oversight and Government Reform.</text>
@@ -41,25 +87,6 @@
             <name>Oversight and Government Reform Committee</name>
           </item>
         </committees>
-      </item>
-      <item>
-        <actionDate>2025-03-04</actionDate>
-        <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
-      </item>
-      <item>
-        <actionDate>2025-03-04</actionDate>
-        <type>Committee</type>
-        <actionCode>5000</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
       </item>
     </actions>
     <sponsors>
@@ -321,6 +348,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-04-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hres186rh/xml/BILLS-119hres186rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-04T05:00:00Z</date>
         <formats>
@@ -331,8 +367,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-04</actionDate>
-      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+      <actionDate>2025-04-09</actionDate>
+      <text>Placed on the House Calendar, Calendar No. 22.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

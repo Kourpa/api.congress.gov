@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1423" updated="2025-04-03T13:58:02Z">
+<bill session="119" type="h" number="1423" updated="2025-04-10T08:06:17Z">
   <state datetime="2025-02-18">REFERRED</state>
   <status>
     <introduced datetime="2025-02-18"/>
@@ -11,11 +11,13 @@
   </titles>
   <sponsor bioguide_id="L000593"/>
   <cosponsors>
+    <cosponsor bioguide_id="B001285" joined="2025-04-09"/>
     <cosponsor bioguide_id="B001315" joined="2025-03-31"/>
     <cosponsor bioguide_id="C001117" joined="2025-03-10"/>
     <cosponsor bioguide_id="C001133" joined="2025-02-18"/>
     <cosponsor bioguide_id="C001119" joined="2025-04-01"/>
     <cosponsor bioguide_id="F000466" joined="2025-03-31"/>
+    <cosponsor bioguide_id="F000469" joined="2025-04-09"/>
     <cosponsor bioguide_id="H001085" joined="2025-02-18"/>
     <cosponsor bioguide_id="K000388" joined="2025-02-18"/>
     <cosponsor bioguide_id="L000601" joined="2025-03-18"/>
@@ -25,6 +27,7 @@
     <cosponsor bioguide_id="M001227" joined="2025-02-18"/>
     <cosponsor bioguide_id="M001214" joined="2025-02-18"/>
     <cosponsor bioguide_id="N000147" joined="2025-02-18"/>
+    <cosponsor bioguide_id="N000193" joined="2025-04-09"/>
     <cosponsor bioguide_id="O000086" joined="2025-03-05"/>
     <cosponsor bioguide_id="P000614" joined="2025-03-31"/>
     <cosponsor bioguide_id="G000600" joined="2025-02-18"/>
@@ -51,10 +54,16 @@
     <action datetime="2025-03-10">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2025-04-09">
+      <text>Subcommittee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-04-09">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
-    <committee code="HSVR10" name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Hearings By (Subcommittee), Referral"/>
+    <committee code="HSVR10" name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Reporting, Markup, Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="649" relation="identical"/>

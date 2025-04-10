@@ -17,6 +17,36 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-08",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-08",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Subcommittee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-09",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -31,6 +61,17 @@
       ],
       "committee": "House Veterans' Affairs",
       "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "reporting",
+        "markup",
+        "referral"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Disability Assistance and Memorial Affairs",
+      "subcommittee_id": "09"
     }
   ],
   "congress": "119",
@@ -48,7 +89,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-04-08",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -95,6 +137,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-04T04:53:19Z",
+  "updated_at": "2025-04-10T08:06:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2303.xml"
 }

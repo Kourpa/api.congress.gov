@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>160</number>
-    <updateDate>2025-04-09T12:32:49Z</updateDate>
-    <updateDateIncludingText>2025-04-09T12:32:48Z</updateDateIncludingText>
+    <updateDate>2025-04-10T11:08:16Z</updateDate>
+    <updateDateIncludingText>2025-04-10T11:08:16Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -47,6 +47,36 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-04-09</actionDate>
+        <actionTime>12:27:38</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-09</actionDate>
+        <actionTime>12:23:13</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-09</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2025-04-08</actionDate>
         <sourceSystem>
@@ -268,7 +298,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Aerial Firefighting Enhancement Act of 2025</title>
-        <updateDate>2025-04-09T10:58:19Z</updateDate>
+        <updateDate>2025-04-10T11:03:16Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
@@ -302,8 +332,8 @@
         <number>2223</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <purpose>To modify the period for exercise of authority for the sale by the Department of Defense aircraft and parts for wildfire suppression purposes.</purpose>
-        <updateDate>2025-04-09T12:32:49Z</updateDate>
+        <purpose>To modify the period for exercise of authority for the sale by the Department of Defense of aircraft and parts for wildfire suppression purposes.</purpose>
+        <updateDate>2025-04-10T11:08:16Z</updateDate>
         <latestAction>
           <actionDate>2025-04-08</actionDate>
           <text>Amendment SA 2223 agreed to in Senate by Unanimous Consent.</text>
@@ -354,7 +384,7 @@
           <originChamberCode>S</originChamberCode>
           <number>160</number>
           <title>Aerial Firefighting Enhancement Act of 2025</title>
-          <updateDateIncludingText>2025-04-09</updateDateIncludingText>
+          <updateDateIncludingText>2025-04-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>6</count>
@@ -388,9 +418,9 @@
             </item>
             <item>
               <actionDate>2025-04-08</actionDate>
-              <text>Senate amendment submitted</text>
+              <text>Senate amendment proposed (on the floor): Amendment SA 2223 proposed by Senator Lummis for Senator Sheehy.</text>
               <type>Floor</type>
-              <actionCode>91000</actionCode>
+              <actionCode>93000</actionCode>
               <sourceSystem>
                 <code>9</code>
                 <name>Library of Congress</name>
@@ -398,9 +428,9 @@
             </item>
             <item>
               <actionDate>2025-04-08</actionDate>
-              <text>Senate amendment proposed (on the floor): Amendment SA 2223 proposed by Senator Lummis for Senator Sheehy.</text>
+              <text>Senate amendment submitted</text>
               <type>Floor</type>
-              <actionCode>93000</actionCode>
+              <actionCode>91000</actionCode>
               <sourceSystem>
                 <code>9</code>
                 <name>Library of Congress</name>
@@ -441,8 +471,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-08</actionDate>
-      <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S2480)</text>
+      <actionDate>2025-04-09</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>12:27:38</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1665</number>
-    <updateDate>2025-04-01T08:05:34Z</updateDate>
-    <updateDateIncludingText>2025-04-01T08:05:34Z</updateDateIncludingText>
+    <updateDate>2025-04-10T08:06:29Z</updateDate>
+    <updateDateIncludingText>2025-04-10T08:06:29Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,22 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>hsii00</systemCode>
+        <name>Natural Resources Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Markup By</name>
+            <date>2025-04-09T22:14:55Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-02-27T14:01:00Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsag00</systemCode>
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
@@ -24,6 +40,10 @@
             <systemCode>hsag22</systemCode>
             <name>Commodity Markets, Digital Assets, and Rural Development Subcommittee</name>
             <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-04-09T22:14:43Z</date>
+              </item>
               <item>
                 <name>Referred to</name>
                 <date>2025-03-28T20:46:26Z</date>
@@ -50,22 +70,40 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hsii00</systemCode>
-        <name>Natural Resources Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-02-27T14:01:00Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
       <item>
-        <actionDate>2025-03-28</actionDate>
+        <actionDate>2025-04-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-04-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-04-09</actionDate>
         <committees>
           <item>
             <systemCode>hsag22</systemCode>
@@ -219,8 +257,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-28</actionDate>
-      <text>Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.</text>
+      <actionDate>2025-04-09</actionDate>
+      <text>Ordered to be Reported by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

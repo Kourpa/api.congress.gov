@@ -39,7 +39,7 @@
       "type": "referral"
     },
     {
-      "acted_at": "2025-03-28",
+      "acted_at": "2025-04-09",
       "action_code": "",
       "committees": [
         "HSAG"
@@ -47,6 +47,27 @@
       "references": [],
       "text": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-09",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-09",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by Unanimous Consent.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -57,6 +78,14 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
+        "Referred To"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII"
+    },
+    {
+      "activity": [
         "Referred To"
       ],
       "committee": "House Agriculture",
@@ -64,6 +93,7 @@
     },
     {
       "activity": [
+        "referral",
         "referral"
       ],
       "committee": "House Agriculture",
@@ -77,13 +107,6 @@
       ],
       "committee": "House Energy and Commerce",
       "committee_id": "HSIF"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Natural Resources",
-      "committee_id": "HSII"
     }
   ],
   "congress": "119",
@@ -101,7 +124,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-04-09",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -120,8 +144,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-27",
+  "status": "REPORTED",
+  "status_at": "2025-04-09",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -155,6 +179,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-01T08:05:34Z",
+  "updated_at": "2025-04-10T08:06:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1665.xml"
 }

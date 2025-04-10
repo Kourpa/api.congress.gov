@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="362" updated="2025-03-13T10:56:42Z">
-  <state datetime="2025-02-03">REFERRED</state>
+<bill session="119" type="s" number="362" updated="2025-04-10T10:56:28Z">
+  <state datetime="2025-04-09">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-03"/>
+    <unknown datetime="2025-04-09"/>
   </status>
   <introduced datetime="2025-02-03"/>
   <titles>
@@ -22,15 +22,21 @@
     <action datetime="2025-03-12">
       <text>Committee on Energy and Natural Resources. Hearings held.</text>
     </action>
+    <action datetime="2025-04-09" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Hearings By (Full Committee), Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Markup By, Hearings By (Full Committee), Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="931" relation="identical"/>
   </relatedbills>
   <subjects>
     <term name="Energy"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Mining"/>
+    <term name="Montana"/>
   </subjects>
   <amendments/>
 </bill>

@@ -17,6 +17,47 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Homeland Security.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-07",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-09",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Subcommittee on Cybersecurity and Infrastructure Protection Discharged",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-09",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-09",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,10 +68,21 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
+        "discharged",
         "Referred To"
       ],
       "committee": "House Homeland Security",
       "committee_id": "HSHM"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM",
+      "subcommittee": "Subcommittee on Cybersecurity and Infrastructure Protection",
+      "subcommittee_id": "08"
     }
   ],
   "congress": "119",
@@ -78,7 +130,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-04-09",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -97,8 +150,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-04-07",
+  "status": "REPORTED",
+  "status_at": "2025-04-09",
   "subjects": [
     "Science, technology, communications"
   ],
@@ -127,6 +180,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-08T16:38:22Z",
+  "updated_at": "2025-04-10T08:06:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2659.xml"
 }
