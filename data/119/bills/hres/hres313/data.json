@@ -33,7 +33,12 @@
     {
       "acted_at": "2025-04-09T14:15:25-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1525-1530",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -54,7 +59,12 @@
     {
       "acted_at": "2025-04-09T15:31:02-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1531-1532: 3",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -69,7 +79,12 @@
       "acted_at": "2025-04-09T16:13:42-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1525: 3",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "94",
       "status": "PASSED:SIMPLERES",
@@ -150,6 +165,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-10T12:41:13Z",
+  "updated_at": "2025-04-10T16:11:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres313.xml"
 }

@@ -99,7 +99,7 @@
           "type": "consideration"
         },
         {
-          "reference": "CR H1482",
+          "reference": "CR H1482: 1",
           "type": "text"
         }
       ],
@@ -149,7 +149,12 @@
     {
       "acted_at": "2025-04-09T18:10:39-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1550-1552",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -159,7 +164,12 @@
       "committees": [
         "HSJU"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1550-1551",
+          "type": "text"
+        }
+      ],
       "text": "Ms. Ross moved to recommit to the Committee on the Judiciary.",
       "type": "action"
     },
@@ -460,6 +470,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-10T08:06:11Z",
+  "updated_at": "2025-04-10T16:01:56Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1526.xml"
 }
