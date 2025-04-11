@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="1203" updated="2025-04-11T02:53:18Z">
+<bill session="119" type="s" number="1203" updated="2025-04-11T13:29:32Z">
   <state datetime="2025-03-31">REFERRED</state>
   <status>
     <introduced datetime="2025-03-31"/>
@@ -26,7 +26,11 @@
   <committees>
     <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="2525" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
   <amendments/>
 </bill>

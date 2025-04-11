@@ -211,6 +211,24 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2025-04-10",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
+    },
+    {
+      "acted_at": "2025-04-10",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "5",
+      "references": [],
+      "text": "Became Public Law No: 119-5.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -324,13 +342,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "5"
+  },
   "history": {
     "active": true,
     "active_at": "2025-02-26",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2025-04-01",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2025-04-10",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-03-11T17:53:46-04:00",
     "senate_passage_result": "pass",
@@ -364,8 +386,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2025-03-26",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2025-04-10",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Congressional oversight",
@@ -399,6 +421,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-07T12:59:24Z",
+  "updated_at": "2025-04-11T15:32:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres25.xml"
 }

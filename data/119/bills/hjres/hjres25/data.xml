@@ -1,7 +1,7 @@
-<bill session="119" type="hj" number="25" updated="2025-04-07T12:59:24Z">
-  <state datetime="2025-03-26">PASSED:BILL</state>
+<bill session="119" type="hj" number="25" updated="2025-04-11T15:32:16Z">
+  <state datetime="2025-04-10">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-03-26"/>
+    <unknown datetime="2025-04-10"/>
   </status>
   <introduced datetime="2025-01-21"/>
   <titles>
@@ -88,6 +88,12 @@
     <topresident datetime="2025-04-01">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-04-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="119-5" type="public" datetime="2025-04-10">
+      <text>Became Public Law No: 119-5.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Reported By, Markup By, Referred To"/>
