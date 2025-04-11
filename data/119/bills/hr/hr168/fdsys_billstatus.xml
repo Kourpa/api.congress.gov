@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>168</number>
-    <updateDate>2025-03-29T02:23:23Z</updateDate>
-    <updateDateIncludingText>2025-03-29T02:23:23Z</updateDateIncludingText>
+    <updateDate>2025-04-11T08:06:54Z</updateDate>
+    <updateDateIncludingText>2025-04-11T08:06:55Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,30 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 1 (Friday, January 3, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. LaMALFA:H.R. 168.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8 of the U.S. ConstitutionArticle 4%ction 3 of the U.S. ConstitutionThe single subject of this legislation is:To improve the ability of the Secretary of Agriculture andthe Secretary of the Interior to carry out forest managementactives that reduce the risk of catastrophic wildfires.[Page H42]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-04-04T13:10:57Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-01-03T16:27:10Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsii00</systemCode>
         <name>Natural Resources Committee</name>
@@ -26,20 +50,23 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hsag00</systemCode>
-        <name>Agriculture Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-01-03T16:27:10Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-04-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-03</actionDate>
         <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -77,6 +104,26 @@
         <text>Introduced in House</text>
         <type>IntroReferral</type>
         <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-01-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-01-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -150,8 +197,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-03</actionDate>
-      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2025-04-04</actionDate>
+      <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

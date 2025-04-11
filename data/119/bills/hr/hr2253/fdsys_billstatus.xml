@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2253</number>
-    <updateDate>2025-04-10T08:06:46Z</updateDate>
-    <updateDateIncludingText>2025-04-10T08:06:46Z</updateDateIncludingText>
+    <updateDate>2025-04-11T08:06:15Z</updateDate>
+    <updateDateIncludingText>2025-04-11T08:06:15Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,18 @@
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag29</systemCode>
+            <name>Livestock, Dairy, and Poultry Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-04-04T13:14:19Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -28,6 +40,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-04-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag29</systemCode>
+            <name>Livestock, Dairy, and Poultry Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Livestock, Dairy, and Poultry.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-03-21</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -852,8 +879,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-21</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2025-04-04</actionDate>
+      <text>Referred to the Subcommittee on Livestock, Dairy, and Poultry.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

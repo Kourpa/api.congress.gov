@@ -55,6 +55,111 @@
       "references": [],
       "text": "Rule H. Res. 294 passed House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-04-10T09:19:02-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres294-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 294.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-10T09:19:07-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "sjres18-119",
+        "sjres28-119",
+        "hr1526-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of S.J. Res. 18, S.J. Res. 28, H.R. 1526 and H.R. 22. The resolution provides for consideration of H.R. 22, H.R. 1526, S.J. Res. 18, and S.J. Res. 28 under a closed rule. The resolution provides for one hour of debate on each measure and one motion to recommit on H.R. 22 and H.R. 1526, and one motion to commit on S.J. Res. 18 and S.J. Res. 28.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-10T09:19:29-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 22.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-10T10:30:11-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-10T10:30:49-04:00",
+      "action_code": "H36200",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "Ms. Johnson (TX) moved to recommit to the Committee on House Administration.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-10T10:31:07-04:00",
+      "action_code": "H8A000",
+      "references": [],
+      "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-10T10:31:32-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 22, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Ms. Johnson (TX) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-10T11:11:24-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-10T11:17:00-04:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "On motion to recommit Failed by the Yeas and Nays: 211 - 215 (Roll no. 101).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-10T11:23:50-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "102",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 220 - 208 (Roll no. 102).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-04-10T11:23:51-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-10",
+      "action_code": "",
+      "references": [],
+      "text": "Received in the Senate.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -65,6 +170,8 @@
   "committees": [
     {
       "activity": [
+        "Unknown",
+        "Unknown",
         "Referred To"
       ],
       "committee": "House Committee on House Administration",
@@ -360,6 +467,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-01-03",
       "state": "IA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "F000484",
+      "district": "6",
+      "name": "Fine, Randy",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-04-10",
+      "state": "FL",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -914,6 +1031,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "P000622",
+      "district": "1",
+      "name": "Patronis, Jimmy",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-04-10",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "P000605",
       "district": "10",
       "name": "Perry, Scott",
@@ -1160,6 +1287,8 @@
     "active_at": "2025-04-01T10:03:16-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-04-10T11:23:50-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-03",
@@ -1195,8 +1324,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-03",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-04-10T11:23:50-04:00",
   "subjects": [
     "Citizenship and naturalization",
     "Civil actions and liability",
@@ -1262,6 +1391,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-11T02:23:14Z",
+  "updated_at": "2025-04-11T10:56:45Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr22.xml"
 }

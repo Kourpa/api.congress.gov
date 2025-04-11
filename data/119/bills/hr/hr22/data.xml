@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="22" updated="2025-04-11T02:23:14Z">
-  <state datetime="2025-01-03">REFERRED</state>
+<bill session="119" type="h" number="22" updated="2025-04-11T10:56:45Z">
+  <state datetime="2025-04-10T11:23:50-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-03"/>
+    <unknown datetime="2025-04-10T11:23:50-04:00"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
@@ -43,6 +43,7 @@
     <cosponsor bioguide_id="E000298" joined="2025-01-03"/>
     <cosponsor bioguide_id="F000246" joined="2025-03-10"/>
     <cosponsor bioguide_id="F000446" joined="2025-01-03"/>
+    <cosponsor bioguide_id="F000484" joined="2025-04-10"/>
     <cosponsor bioguide_id="F000475" joined="2025-01-03"/>
     <cosponsor bioguide_id="F000470" joined="2025-01-07"/>
     <cosponsor bioguide_id="F000469" joined="2025-01-03"/>
@@ -98,6 +99,7 @@
     <cosponsor bioguide_id="O000175" joined="2025-01-03"/>
     <cosponsor bioguide_id="O000086" joined="2025-01-03"/>
     <cosponsor bioguide_id="P000609" joined="2025-01-03"/>
+    <cosponsor bioguide_id="P000622" joined="2025-04-10"/>
     <cosponsor bioguide_id="P000605" joined="2025-01-03"/>
     <cosponsor bioguide_id="P000048" joined="2025-01-03"/>
     <cosponsor bioguide_id="R000610" joined="2025-02-04"/>
@@ -139,9 +141,45 @@
     <action datetime="2025-04-08T15:23:13-04:00">
       <text>Rule H. Res. 294 passed House.</text>
     </action>
+    <action datetime="2025-04-10T09:19:02-04:00">
+      <text>Considered under the provisions of rule H. Res. 294.</text>
+    </action>
+    <action datetime="2025-04-10T09:19:07-04:00">
+      <text>Rule provides for consideration of S.J. Res. 18, S.J. Res. 28, H.R. 1526 and H.R. 22. The resolution provides for consideration of H.R. 22, H.R. 1526, S.J. Res. 18, and S.J. Res. 28 under a closed rule. The resolution provides for one hour of debate on each measure and one motion to recommit on H.R. 22 and H.R. 1526, and one motion to commit on S.J. Res. 18 and S.J. Res. 28.</text>
+    </action>
+    <action datetime="2025-04-10T09:19:29-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 22.</text>
+    </action>
+    <action datetime="2025-04-10T10:30:11-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-04-10T10:30:49-04:00">
+      <text>Ms. Johnson (TX) moved to recommit to the Committee on House Administration.</text>
+    </action>
+    <action datetime="2025-04-10T10:31:07-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2025-04-10T10:31:32-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 22, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Ms. Johnson (TX) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-04-10T11:11:24-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2025-04-10T11:17:00-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 211 - 215 (Roll no. 101).</text>
+    </action>
+    <vote how="roll" type="vote" roll="102" datetime="2025-04-10T11:23:50-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 220 - 208 (Roll no. 102).</text>
+    </vote>
+    <action datetime="2025-04-10T11:23:51-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2025-04-10">
+      <text>Received in the Senate.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Unknown, Unknown, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="282" relation="unknown"/>
