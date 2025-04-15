@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1508" updated="2025-04-02T14:30:26Z">
-  <state datetime="2025-02-21">REFERRED</state>
+<bill session="119" type="h" number="1508" updated="2025-04-15T08:05:23Z">
+  <state datetime="2025-04-09">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-21"/>
+    <unknown datetime="2025-04-09"/>
   </status>
   <introduced datetime="2025-02-21"/>
   <titles>
@@ -33,15 +33,26 @@
     <action datetime="2025-03-25">
       <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
     </action>
+    <action datetime="2025-04-09">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-04-09" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Discharged, Referred To"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism and Intelligence" activity="Reporting, Markup, Referral"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Homeland security"/>
+    <term name="Research and development"/>
+    <term name="Terrorism"/>
   </subjects>
   <amendments/>
 </bill>
