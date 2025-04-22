@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1442" updated="2025-04-12T08:06:13Z">
+<bill session="119" type="h" number="1442" updated="2025-04-22T19:57:08Z">
   <state datetime="2025-04-08">REPORTED</state>
   <status>
     <unknown datetime="2025-04-08"/>
@@ -30,7 +30,11 @@
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="289" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
   <amendments/>
 </bill>
