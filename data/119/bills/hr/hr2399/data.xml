@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="2399" updated="2025-04-12T08:06:07Z">
+<bill session="119" type="h" number="2399" updated="2025-04-25T08:23:19Z">
   <state datetime="2025-04-08">REPORTED</state>
   <status>
     <unknown datetime="2025-04-08"/>
   </status>
   <introduced datetime="2025-03-27"/>
   <titles>
-    <title type="display">Rural Broadband Protection Act of 2025</title>
     <title type="short" as="introduced">Rural Broadband Protection Act of 2025</title>
+    <title type="short" as="reported to house">Rural Broadband Protection Act of 2025</title>
+    <title type="display">Rural Broadband Protection Act of 2025</title>
     <title type="official" as="introduced">To require the Federal Communications Commission to establish a vetting process for prospective applicants for high-cost universal service program funding.</title>
   </titles>
   <sponsor bioguide_id="H001093"/>
@@ -26,15 +27,24 @@
     <action datetime="2025-04-08" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 51 - 1.</text>
     </action>
+    <action datetime="2025-04-24">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-78.</text>
+    </action>
+    <calendar datetime="2025-04-24" calendar="Union" number="55">
+      <text>Placed on the Union Calendar, Calendar No. 55.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="98" relation="identical"/>
   </relatedbills>
   <subjects>
     <term name="Science, technology, communications"/>
+    <term name="Internet, web applications, social media"/>
+    <term name="Rural conditions and development"/>
+    <term name="Telephone and wireless communication"/>
   </subjects>
   <amendments/>
   <summary date="2025-04-07T14:53:52Z" status="Introduced in House"></summary>

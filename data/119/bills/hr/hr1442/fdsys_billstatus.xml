@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1442</number>
-    <updateDate>2025-04-25T04:23:20Z</updateDate>
-    <updateDateIncludingText>2025-04-25T04:23:20Z</updateDateIncludingText>
+    <updateDate>2025-04-25T08:05:31Z</updateDate>
+    <updateDateIncludingText>2025-04-25T08:05:31Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2025-04-24T15:42:33Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-04-08T19:12:18Z</date>
@@ -50,6 +54,48 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-04-24</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 44.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-24</actionDate>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-67.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-04-24</actionDate>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-67.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-04-08</actionDate>
         <committees>
@@ -232,8 +278,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-08</actionDate>
-      <text>Ordered to be Reported by the Yeas and Nays: 50 - 1.</text>
+      <actionDate>2025-04-24</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 44.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

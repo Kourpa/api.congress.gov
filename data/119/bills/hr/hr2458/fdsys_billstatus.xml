@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2458</number>
-    <updateDate>2025-04-23T17:51:10Z</updateDate>
-    <updateDateIncludingText>2025-04-23T17:51:10Z</updateDateIncludingText>
+    <updateDate>2025-04-25T08:23:19Z</updateDate>
+    <updateDateIncludingText>2025-04-25T08:23:19Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-04-24T15:41:47Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-04-08T19:29:48Z</date>
           </item>
@@ -32,6 +36,48 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-04-24</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 42.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-24</actionDate>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-65.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-04-24</actionDate>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-65.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-04-08</actionDate>
         <committees>
@@ -169,6 +215,16 @@
     <title>Secure Space Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Secure Space Act of 2025</title>
+        <updateDate>2025-04-25T08:23:19Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Secure Space Act of 2025</title>
@@ -193,6 +249,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-04-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2458rh/xml/BILLS-119hr2458rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-27T04:00:00Z</date>
         <formats>
@@ -203,8 +268,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-08</actionDate>
-      <text>Ordered to be Reported by the Yeas and Nays: 52 - 1.</text>
+      <actionDate>2025-04-24</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 42.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
