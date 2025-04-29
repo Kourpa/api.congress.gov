@@ -17,6 +17,28 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-28",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-28",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +49,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -35,6 +58,16 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "B001303",
+      "district": null,
+      "name": "Blunt Rochester, Lisa",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-04-28",
+      "state": "DE",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "C001047",
       "district": null,
@@ -56,6 +89,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "D000563",
+      "district": null,
+      "name": "Durbin, Richard J.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-04-28",
+      "state": "IL",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "M000133",
       "district": null,
       "name": "Markey, Edward J.",
@@ -64,13 +107,36 @@
       "state": "MA",
       "title": "Sen.",
       "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "P000145",
+      "district": null,
+      "name": "Padilla, Alex",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-04-28",
+      "state": "CA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "V000128",
+      "district": null,
+      "name": "Van Hollen, Chris",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-04-28",
+      "state": "MD",
+      "title": "Sen.",
+      "withdrawn_at": null
     }
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-04-28",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-04-28",
     "vetoed": false
   },
   "introduced_at": "2025-04-01",
@@ -94,8 +160,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-04-01",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-04-28",
   "subjects": [
     "Crime and law enforcement"
   ],
@@ -117,6 +183,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-04-04T13:35:40Z",
+  "updated_at": "2025-04-29T10:56:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres149.xml"
 }

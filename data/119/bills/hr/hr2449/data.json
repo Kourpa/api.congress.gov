@@ -58,6 +58,47 @@
       "text": "Placed on the Union Calendar, Calendar No. 51.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-04-28T16:37:13-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Bilirakis moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-28T16:37:24-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-28T16:37:26-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2449.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-28T16:46:41-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-04-28T16:46:44-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -107,6 +148,8 @@
     "active_at": "2025-04-08",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-04-28T16:46:41-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-03-27",
@@ -123,8 +166,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-04-08",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-04-28T16:46:41-04:00",
   "subjects": [
     "Advanced technology and technological innovations",
     "Advisory bodies",
@@ -191,6 +234,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-26T00:41:12Z",
+  "updated_at": "2025-04-29T08:05:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2449.xml"
 }
