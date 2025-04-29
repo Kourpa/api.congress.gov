@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2255</number>
-    <updateDate>2025-04-21T16:05:17Z</updateDate>
-    <updateDateIncludingText>2025-04-21T16:05:17Z</updateDateIncludingText>
+    <updateDate>2025-04-29T08:05:40Z</updateDate>
+    <updateDateIncludingText>2025-04-29T08:05:40Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-04-28T16:35:20Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-03-25T16:42:55Z</date>
           </item>
@@ -32,6 +36,48 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-04-28</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 57.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-04-28</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-80.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-04-28</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-80.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-03-25</actionDate>
         <committees>
@@ -142,13 +188,23 @@
         <updateDate>2025-03-28T12:33:00Z</updateDate>
       </policyArea>
     </subjects>
-    <title>Federal Law Enforcement Officer Service Weapon Purchase Act</title>
+    <title>Federal Law Enforcement Officer Service Weapon Purchase Act of 2025</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>Federal Law Enforcement Officer Service Weapon Purchase Act</title>
-        <updateDate>2025-03-27T03:23:24Z</updateDate>
+        <title>Federal Law Enforcement Officer Service Weapon Purchase Act of 2025</title>
+        <updateDate>2025-04-29T05:53:19Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Federal Law Enforcement Officer Service Weapon Purchase Act of 2025</title>
+        <updateDate>2025-04-29T05:53:18Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -169,6 +225,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-04-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2255rh/xml/BILLS-119hr2255rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-21T04:00:00Z</date>
         <formats>
@@ -179,8 +244,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-25</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 14 - 9.</text>
+      <actionDate>2025-04-28</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 57.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
