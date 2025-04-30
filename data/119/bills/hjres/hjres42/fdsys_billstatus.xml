@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>42</number>
-    <updateDate>2025-04-30T00:26:26Z</updateDate>
-    <updateDateIncludingText>2025-04-30T00:26:26Z</updateDateIncludingText>
+    <updateDate>2025-04-30T10:56:27Z</updateDate>
+    <updateDateIncludingText>2025-04-30T10:56:27Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HJRES</type>
@@ -51,6 +51,32 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-04-29</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by motion.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-04-29</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 222.</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>222</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00222.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2025-04-30T01:49:01Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
       <item>
         <actionDate>2025-03-06</actionDate>
         <sourceSystem>
@@ -409,8 +435,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-06</actionDate>
-      <text>Received in the Senate.</text>
+      <actionDate>2025-04-29</actionDate>
+      <text>Measure laid before Senate by motion.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
