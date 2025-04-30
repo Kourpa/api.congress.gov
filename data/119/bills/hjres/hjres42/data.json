@@ -125,14 +125,24 @@
     {
       "acted_at": "2025-04-29",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "2",
+          "type": "CR S2644"
+        }
+      ],
       "text": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 222.",
       "type": "action"
     },
     {
       "acted_at": "2025-04-29",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S2644",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by motion.",
       "type": "action"
     }
@@ -283,6 +293,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-04-30T10:56:27Z",
+  "updated_at": "2025-04-30T14:13:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres42.xml"
 }
