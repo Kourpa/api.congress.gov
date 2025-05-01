@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="616" updated="2025-05-01T04:38:16Z">
-  <state datetime="2025-02-18">REFERRED</state>
+<bill session="119" type="s" number="616" updated="2025-05-01T11:43:15Z">
+  <state datetime="2025-04-30">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-02-18"/>
+    <unknown datetime="2025-04-30"/>
   </status>
   <introduced datetime="2025-02-18"/>
   <titles>
+    <title type="display">Foundation of the Federal Bar Association Charter Amendments Act of 2025</title>
     <title type="short" as="introduced">Foundation of the Federal Bar Association Charter Amendments Act of 2025</title>
     <title type="short" as="passed senate">Foundation of the Federal Bar Association Charter Amendments Act of 2025</title>
-    <title type="display">Foundation of the Federal Bar Association Charter Amendments Act of 2025</title>
     <title type="official" as="introduced">A bill to amend title 36, United States Code, to revise the Federal charter for the Foundation of the Federal Bar Association.</title>
   </titles>
   <sponsor bioguide_id="K000393"/>
@@ -21,9 +21,15 @@
     <action datetime="2025-02-18" state="REFERRED">
       <text>Read twice and referred to the Committee on the Judiciary.</text>
     </action>
+    <action datetime="2025-04-30">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-04-30" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

@@ -1,7 +1,7 @@
-<bill session="119" type="hc" number="9" updated="2025-04-12T13:06:13Z">
-  <state datetime="2025-04-07T16:09:02-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="hc" number="9" updated="2025-05-01T10:56:32Z">
+  <state datetime="2025-04-30">PASSED:CONCURRENTRES</state>
   <status>
-    <unknown datetime="2025-04-07T16:09:02-04:00"/>
+    <unknown datetime="2025-04-30"/>
   </status>
   <introduced datetime="2025-02-06"/>
   <titles>
@@ -57,6 +57,9 @@
     <action datetime="2025-04-08">
       <text>Received in the Senate.</text>
     </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2025-04-30" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>

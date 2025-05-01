@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="688" updated="2025-03-25T10:58:19Z">
-  <state datetime="2025-02-24">REFERRED</state>
+<bill session="119" type="s" number="688" updated="2025-05-01T11:48:16Z">
+  <state datetime="2025-04-30">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-24"/>
+    <unknown datetime="2025-04-30"/>
   </status>
   <introduced datetime="2025-02-24"/>
   <titles>
@@ -14,6 +14,7 @@
   <cosponsors>
     <cosponsor bioguide_id="M001153" joined="2025-03-24"/>
     <cosponsor bioguide_id="W000802" joined="2025-02-24"/>
+    <cosponsor bioguide_id="W000437" joined="2025-04-30"/>
   </cosponsors>
   <actions>
     <action datetime="2025-02-24">
@@ -22,9 +23,12 @@
     <action datetime="2025-02-24" state="REFERRED">
       <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
     </action>
+    <action datetime="2025-04-30" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

@@ -1,7 +1,7 @@
-<bill session="119" type="sj" number="49" updated="2025-04-29T19:57:01Z">
-  <state datetime="2025-04-10">REFERRED</state>
+<bill session="119" type="sj" number="49" updated="2025-05-01T10:56:25Z">
+  <state datetime="2025-04-30">FAIL:ORIGINATING:SENATE</state>
   <status>
-    <introduced datetime="2025-04-10"/>
+    <unknown datetime="2025-04-30"/>
   </status>
   <introduced datetime="2025-04-10"/>
   <titles>
@@ -24,9 +24,24 @@
     <action datetime="2025-04-10" state="REFERRED">
       <text>Read twice and referred to the Committee on Finance.</text>
     </action>
+    <action datetime="2025-04-30">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2025-04-30">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote" roll="225" datetime="2025-04-30" where="s" result="fail" state="FAIL:ORIGINATING:SENATE">
+      <text>Failed of passage in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 225.</text>
+    </vote>
+    <action datetime="2025-04-30">
+      <text>Motion by Senator Thune to reconsider the vote by which S.J. Res. 49 failed of passage (Record Vote No. 225) made in Senate.</text>
+    </action>
+    <action datetime="2025-04-30">
+      <text>Motion to table the motion to reconsider the vote by which S.J. Res. 49 failed of passage (Record Vote No. 225) agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 226.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
+    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

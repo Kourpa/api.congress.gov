@@ -119,7 +119,7 @@
       "acted_at": "2025-03-06",
       "action_code": "",
       "references": [],
-      "text": "Received in the Senate.",
+      "text": "Received in the Senate, read twice.",
       "type": "action"
     },
     {
@@ -145,6 +145,26 @@
       ],
       "text": "Measure laid before Senate by motion.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-04-30",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-30",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "223",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 52 - 46. Record Vote Number: 223.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -232,6 +252,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-03-05T16:44:35-05:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-04-30",
     "vetoed": false
   },
   "introduced_at": "2025-02-12",
@@ -255,8 +277,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-03-05T16:44:35-05:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-04-30",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Congressional oversight",
@@ -293,6 +315,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-04-30T14:13:24Z",
+  "updated_at": "2025-05-01T10:56:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres42.xml"
 }
