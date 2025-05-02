@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>42</number>
-    <updateDate>2025-05-01T16:00:00Z</updateDate>
-    <updateDateIncludingText>2025-05-01T16:00:00Z</updateDateIncludingText>
+    <updateDate>2025-05-02T10:56:27Z</updateDate>
+    <updateDateIncludingText>2025-05-02T10:56:27Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HJRES</type>
@@ -51,6 +51,14 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-05-01</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2025-04-30</actionDate>
         <sourceSystem>
@@ -462,6 +470,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Received in Senate</type>
+        <date>2025-03-06T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hjres42rds/xml/BILLS-119hjres42rds.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Engrossed in House</type>
         <date>2025-03-05T05:00:00Z</date>
         <formats>
@@ -481,8 +498,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-30</actionDate>
-      <text>Passed Senate without amendment by Yea-Nay Vote. 52 - 46. Record Vote Number: 223.</text>
+      <actionDate>2025-05-01</actionDate>
+      <text>Message on Senate action sent to the House.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
