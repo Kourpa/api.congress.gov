@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1315" updated="2025-03-17T12:53:28Z">
+<bill session="119" type="h" number="1315" updated="2025-05-06T16:03:32Z">
   <state datetime="2025-02-13">REFERRED</state>
   <status>
     <introduced datetime="2025-02-13"/>
@@ -26,7 +26,11 @@
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="568" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
   <amendments/>
 </bill>
