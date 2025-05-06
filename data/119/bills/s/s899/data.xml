@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="899" updated="2025-03-27T18:33:20Z">
+<bill session="119" type="s" number="899" updated="2025-05-05T20:56:20Z">
   <state datetime="2025-03-06">REFERRED</state>
   <status>
     <introduced datetime="2025-03-06"/>
@@ -24,7 +24,12 @@
   <committees>
     <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="118" type="s" number="2890" relation="unknown"/>
+    <bill session="119" type="h" number="1991" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
   <amendments/>
 </bill>
