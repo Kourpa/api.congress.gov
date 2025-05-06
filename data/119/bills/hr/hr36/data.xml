@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="36" updated="2025-05-06T08:05:19Z">
+<bill session="119" type="h" number="36" updated="2025-05-06T17:01:45Z">
   <state datetime="2025-05-05T18:59:03-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-05-05T18:59:03-04:00"/>
@@ -46,6 +46,7 @@
     </action>
     <action datetime="2025-05-05T15:29:28-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1823-1828: 1" label="consideration"/>
     </action>
     <action datetime="2025-05-05T15:29:30-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 36.</text>
@@ -55,9 +56,11 @@
     </action>
     <action datetime="2025-05-05T18:52:16-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H1840-1841: 1" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="116" datetime="2025-05-05T18:59:03-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 349 - 42 (Roll no. 116).</text>
+      <reference ref="CR H1824-1826" label="text"/>
     </vote>
     <action datetime="2025-05-05T18:59:04-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

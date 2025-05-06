@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="530" updated="2025-05-06T08:05:31Z">
+<bill session="119" type="h" number="530" updated="2025-05-06T16:57:53Z">
   <state datetime="2025-05-05T18:52:14-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-05-05T18:52:14-04:00"/>
@@ -73,6 +73,7 @@
     </action>
     <action datetime="2025-05-05T14:40:45-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1815-1817: 6" label="consideration"/>
     </action>
     <action datetime="2025-05-05T14:40:47-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 530.</text>
@@ -82,9 +83,11 @@
     </action>
     <action datetime="2025-05-05T18:30:45-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H1839-1840: 4" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="115" datetime="2025-05-05T18:52:14-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 5 (Roll no. 115).</text>
+      <reference ref="CR H1815: 6" label="text"/>
     </vote>
     <action datetime="2025-05-05T18:52:15-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

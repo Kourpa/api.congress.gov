@@ -38,7 +38,16 @@
     {
       "acted_at": "2025-05-05T15:05:20-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1819: 1",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H1819-1820",
+          "type": "text"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -148,6 +157,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-06T08:05:44Z",
+  "updated_at": "2025-05-06T16:59:34Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1503.xml"
 }
