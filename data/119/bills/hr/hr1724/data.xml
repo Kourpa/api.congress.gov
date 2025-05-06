@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1724" updated="2025-05-01T13:37:37Z">
-  <state datetime="2025-02-27">REFERRED</state>
+<bill session="119" type="h" number="1724" updated="2025-05-06T08:05:54Z">
+  <state datetime="2025-05-05T16:17:19-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-02-27"/>
+    <unknown datetime="2025-05-05T16:17:19-04:00"/>
   </status>
   <introduced datetime="2025-02-27"/>
   <titles>
@@ -17,6 +17,21 @@
     </action>
     <action datetime="2025-02-27" state="REFERRED">
       <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2025-05-05T16:08:02-04:00">
+      <text>Mr. Mast moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-05-05T16:08:09-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-05-05T16:08:10-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1724.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-05-05T16:17:19-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-05-05T16:17:21-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

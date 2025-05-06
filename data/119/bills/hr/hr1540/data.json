@@ -27,6 +27,47 @@
       "references": [],
       "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-05-05T15:56:01-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Mast moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-05T15:56:16-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-05T15:56:17-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1540.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-05T16:07:54-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-05-05T16:07:57-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -103,6 +144,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "N000147",
+      "district": "0",
+      "name": "Norton, Eleanor Holmes",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-05-05",
+      "state": "DC",
+      "title": "Del.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "O000175",
       "district": "5",
       "name": "Ogles, Andrew",
@@ -165,9 +216,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-05-05T15:56:01-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-05-05T16:07:54-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-24",
@@ -191,8 +245,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-24",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-05-05T16:07:54-04:00",
   "subjects": [
     "International affairs"
   ],
@@ -226,6 +280,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-02T19:39:51Z",
+  "updated_at": "2025-05-06T08:05:41Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1540.xml"
 }

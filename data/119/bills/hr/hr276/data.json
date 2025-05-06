@@ -88,6 +88,17 @@
       "text": "Placed on the Union Calendar, Calendar No. 60.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-05-05T18:19:02-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres377-119",
+        "hr881-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 377 Reported to House. Rule provides for consideration of H.R. 276 and H.R. 881. The resolution provides for consideration of H.R. 276 and H.R. 881 under a closed rule with one hour of debate and one motion to recommit on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -304,7 +315,14 @@
   "number": "276",
   "official_title": "To rename the Gulf of Mexico as the \"Gulf of America\".",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres377-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Gulf of America Act",
   "sponsor": {
     "bioguide_id": "G000596",
@@ -358,6 +376,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-01T20:41:11Z",
+  "updated_at": "2025-05-06T08:35:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr276.xml"
 }

@@ -67,6 +67,62 @@
       "references": [],
       "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-05-05T14:40:25-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Bergman moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-05T14:40:45-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-05T14:40:47-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 530.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-05T14:57:05-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-05T18:30:45-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-05T18:52:14-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "115",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 5 (Roll no. 115).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-05-05T18:52:15-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -137,12 +193,32 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C001133",
+      "district": "6",
+      "name": "Ciscomani, Juan",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-05-05",
+      "state": "AZ",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "C001120",
       "district": "2",
       "name": "Crenshaw, Dan",
       "original_cosponsor": false,
       "sponsored_at": "2025-01-22",
       "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001121",
+      "district": "6",
+      "name": "Crow, Jason",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-05-05",
+      "state": "CO",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -433,6 +509,8 @@
     "active_at": "2025-03-26",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-05-05T18:52:14-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-16",
@@ -456,8 +534,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-16",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-05-05T18:52:14-04:00",
   "subjects": [
     "Armed forces and national security",
     "Aviation and airports",
@@ -499,6 +577,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-29T08:05:16Z",
+  "updated_at": "2025-05-06T08:05:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr530.xml"
 }

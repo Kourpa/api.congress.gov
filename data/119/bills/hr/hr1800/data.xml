@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1800" updated="2025-05-02T19:54:25Z">
-  <state datetime="2025-03-03">REFERRED</state>
+<bill session="119" type="h" number="1800" updated="2025-05-06T08:05:57Z">
+  <state datetime="2025-05-05T16:48:52-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-03-03"/>
+    <unknown datetime="2025-05-05T16:48:52-04:00"/>
   </status>
   <introduced datetime="2025-03-03"/>
   <titles>
@@ -10,7 +10,10 @@
     <title type="official" as="introduced">To repeal the sunset provision of the Iran Sanctions Act of 1996, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M001230"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000602" joined="2025-05-05"/>
+    <cosponsor bioguide_id="S000344" joined="2025-05-05"/>
+  </cosponsors>
   <actions>
     <action datetime="2025-03-03">
       <text>Introduced in House</text>
@@ -29,6 +32,21 @@
     </action>
     <action datetime="2025-03-03">
       <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Ways and Means, the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2025-05-05T16:37:02-04:00">
+      <text>Mr. Mast moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-05-05T16:37:12-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-05-05T16:37:14-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1800.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-05-05T16:48:52-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-05-05T16:48:53-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

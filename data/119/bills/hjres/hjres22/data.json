@@ -17,6 +17,13 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-05-05",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -58,8 +65,10 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
-    "awaiting_signature": false,
+    "active": true,
+    "active_at": "2025-05-05",
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2025-05-05",
     "enacted": false,
     "vetoed": false
   },
@@ -103,6 +112,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-02-18T23:24:47Z",
+  "updated_at": "2025-05-06T08:05:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres22.xml"
 }
