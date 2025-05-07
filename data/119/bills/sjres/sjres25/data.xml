@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="25" updated="2025-03-04T12:48:22Z">
+<bill session="119" type="sj" number="25" updated="2025-05-07T14:12:36Z">
   <state datetime="2025-02-25">REFERRED</state>
   <status>
     <introduced datetime="2025-02-25"/>
@@ -21,7 +21,11 @@
   <committees>
     <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="hj" number="68" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
   <amendments/>
 </bill>

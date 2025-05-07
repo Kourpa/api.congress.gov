@@ -203,6 +203,12 @@
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
+    },
+    {
+      "bill_id": "sjres26-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
     }
   ],
   "short_title": null,
@@ -216,8 +222,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-03-03",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "International affairs"
+  ],
+  "subjects_top_term": "International affairs",
   "summary": null,
   "titles": [
     {
@@ -235,6 +243,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-06T15:56:13Z",
+  "updated_at": "2025-05-07T14:15:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres69.xml"
 }

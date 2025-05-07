@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="1582" updated="2025-05-07T10:58:18Z">
+<bill session="119" type="s" number="1582" updated="2025-05-07T13:08:16Z">
   <state datetime="2025-05-01">INTRODUCED</state>
   <status>
     <introduced datetime="2025-05-01"/>
@@ -27,9 +27,11 @@
     </calendar>
     <action datetime="2025-05-06">
       <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="3" label="CR S2772"/>
     </action>
     <action datetime="2025-05-06">
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S2772"/>
     </action>
   </actions>
   <committees/>
