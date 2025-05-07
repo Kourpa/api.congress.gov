@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-05-06",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -27,6 +37,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Veterans' Affairs",
@@ -128,7 +139,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-05-06",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -168,6 +180,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-06T08:05:55Z",
+  "updated_at": "2025-05-07T08:06:03Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3132.xml"
 }

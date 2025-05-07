@@ -140,6 +140,26 @@
       ],
       "text": "Measure laid before Senate by motion.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-05-06",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-06",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "232",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 55 - 45. Record Vote Number: 232.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -367,6 +387,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-03-05T16:29:26-05:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-05-06",
     "vetoed": false
   },
   "introduced_at": "2025-02-25",
@@ -396,8 +418,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-03-05T16:29:26-05:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-05-06",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Air quality",
@@ -431,6 +453,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-06T13:21:32Z",
+  "updated_at": "2025-05-07T10:56:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres61.xml"
 }

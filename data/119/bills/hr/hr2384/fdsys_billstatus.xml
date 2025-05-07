@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2384</number>
-    <updateDate>2025-04-08T08:05:43Z</updateDate>
-    <updateDateIncludingText>2025-04-08T08:05:43Z</updateDateIncludingText>
+    <updateDate>2025-05-07T08:23:15Z</updateDate>
+    <updateDateIncludingText>2025-05-07T08:23:15Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-05-06T19:50:10Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-04-02T15:02:00Z</date>
           </item>
@@ -32,6 +36,48 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-05-06</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 67.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-05-06</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-93.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-05-06</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-93.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-04-02</actionDate>
         <committees>
@@ -161,6 +207,16 @@
     <title>Financial Technology Protection Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Financial Technology Protection Act of 2025</title>
+        <updateDate>2025-05-07T08:23:15Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Financial Technology Protection Act of 2025</title>
@@ -185,6 +241,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-05-06T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2384rh/xml/BILLS-119hr2384rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-26T04:00:00Z</date>
         <formats>
@@ -195,8 +260,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-02</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 49 - 0.</text>
+      <actionDate>2025-05-06</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 67.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

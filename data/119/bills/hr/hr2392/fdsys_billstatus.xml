@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2392</number>
-    <updateDate>2025-04-29T08:05:44Z</updateDate>
-    <updateDateIncludingText>2025-04-29T08:05:44Z</updateDateIncludingText>
+    <updateDate>2025-05-07T08:23:16Z</updateDate>
+    <updateDateIncludingText>2025-05-07T08:23:16Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-05-06T19:51:05Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-04-02T15:00:00Z</date>
           </item>
@@ -32,6 +36,48 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-05-06</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 68.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-05-06</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-94.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-05-06</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-94.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-04-02</actionDate>
         <committees>
@@ -379,6 +425,26 @@
     <title>STABLE Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>STABLE Act of 2025</title>
+        <updateDate>2025-05-07T08:23:16Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Stablecoin Transparency and Accountability for a Better Ledger Economy Act of 2025</title>
+        <updateDate>2025-05-07T08:23:16Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>STABLE Act of 2025</title>
@@ -411,6 +477,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-05-06T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2392rh/xml/BILLS-119hr2392rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-26T04:00:00Z</date>
         <formats>
@@ -421,8 +496,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-02</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 32 - 17.</text>
+      <actionDate>2025-05-06</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 68.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

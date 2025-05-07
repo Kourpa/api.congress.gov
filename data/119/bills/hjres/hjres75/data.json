@@ -165,6 +165,13 @@
       "references": [],
       "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-05-06",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -318,7 +325,8 @@
   "history": {
     "active": true,
     "active_at": "2025-03-24T19:43:25-04:00",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2025-05-06",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-03-27T10:25:31-04:00",
@@ -380,6 +388,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-02T13:31:30Z",
+  "updated_at": "2025-05-07T08:06:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres75.xml"
 }
