@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="881" updated="2025-05-07T08:06:07Z">
-  <state datetime="2025-04-09">REPORTED</state>
+<bill session="119" type="h" number="881" updated="2025-05-08T08:09:13Z">
+  <state datetime="2025-05-07T17:36:58-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-04-09"/>
+    <unknown datetime="2025-05-07T17:36:58-04:00"/>
   </status>
   <introduced datetime="2025-01-31"/>
   <titles>
@@ -49,6 +49,30 @@
     <action datetime="2025-05-06T14:02:53-04:00">
       <text>Rule H. Res. 377 passed House.</text>
     </action>
+    <action datetime="2025-05-07T14:03:49-04:00">
+      <text>Considered under the provisions of rule H. Res. 377.</text>
+    </action>
+    <action datetime="2025-05-07T14:03:54-04:00">
+      <text>Rule provides for consideration of H.R. 276 and H.R. 881. The resolution provides for consideration of H.R. 276 and H.R. 881 under a closed rule with one hour of debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2025-05-07T14:05:15-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 881.</text>
+    </action>
+    <action datetime="2025-05-07T14:28:16-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-05-07T14:28:20-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate of H.R. 881, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Pfluger demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-05-07T17:29:31-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="120" datetime="2025-05-07T17:36:58-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 266 - 153 (Roll no. 120).</text>
+    </vote>
+    <action datetime="2025-05-07T17:37:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
@@ -66,7 +90,9 @@
     <term name="Higher education"/>
     <term name="International exchange and broadcasting"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h17"/>
+  </amendments>
   <summary date="2025-05-01T21:14:48Z" status="Introduced in House"></summary>
   <committee-reports>
     <report>H. Rept. 119-87</report>

@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Small Business.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-04-30",
+      "action_code": "",
+      "committees": [
+        "HSSM"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-04-30",
+      "action_code": "",
+      "committees": [
+        "HSSM"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported in the Nature of a Substitute by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Small Business",
@@ -37,7 +59,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-04-30",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -56,8 +79,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-03-11",
+  "status": "REPORTED",
+  "status_at": "2025-04-30",
   "subjects": [
     "Commerce"
   ],
@@ -86,6 +109,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-06T14:59:32Z",
+  "updated_at": "2025-05-08T08:06:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2027.xml"
 }

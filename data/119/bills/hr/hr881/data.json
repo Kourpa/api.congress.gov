@@ -99,9 +99,85 @@
       "references": [],
       "text": "Rule H. Res. 377 passed House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-05-07T14:03:49-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres377-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 377.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-07T14:03:54-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr276-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 276 and H.R. 881. The resolution provides for consideration of H.R. 276 and H.R. 881 under a closed rule with one hour of debate and one motion to recommit on each bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-07T14:05:15-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 881.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-07T14:28:16-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-07T14:28:20-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate of H.R. 881, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Pfluger demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-07T17:29:31-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-07T17:36:58-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "120",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 266 - 153 (Roll no. 120).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-05-07T17:37:00-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt17-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "17"
+    }
+  ],
   "bill_id": "hr881-119",
   "bill_type": "hr",
   "by_request": false,
@@ -188,6 +264,8 @@
     "active_at": "2025-04-09",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-05-07T17:36:58-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-31",
@@ -211,8 +289,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-04-09",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-05-07T17:36:58-04:00",
   "subjects": [
     "Area studies and international education",
     "Asia",
@@ -259,6 +337,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-07T08:06:07Z",
+  "updated_at": "2025-05-08T08:09:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr881.xml"
 }

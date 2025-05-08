@@ -56,6 +56,26 @@
       ],
       "text": "Measure laid before Senate by motion.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-05-07",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-07",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "237",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 237.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -132,6 +152,8 @@
     "active_at": "2025-05-06",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-05-07",
     "vetoed": false
   },
   "introduced_at": "2025-02-04",
@@ -155,8 +177,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-04",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-05-07",
   "subjects": [
     "Finance and financial sector"
   ],
@@ -183,6 +205,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-07T13:05:39Z",
+  "updated_at": "2025-05-08T10:56:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres13.xml"
 }

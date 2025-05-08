@@ -1,7 +1,7 @@
-<bill session="119" type="sj" number="13" updated="2025-05-07T13:05:39Z">
-  <state datetime="2025-02-04">REFERRED</state>
+<bill session="119" type="sj" number="13" updated="2025-05-08T10:56:29Z">
+  <state datetime="2025-05-07">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-02-04"/>
+    <unknown datetime="2025-05-07"/>
   </status>
   <introduced datetime="2025-02-04"/>
   <titles>
@@ -36,6 +36,12 @@
       <text>Measure laid before Senate by motion.</text>
       <reference ref="CR S2769: 1" label="consideration"/>
     </action>
+    <action datetime="2025-05-07">
+      <text>Considered by Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="237" datetime="2025-05-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 237.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Discharged From, Referred To"/>
