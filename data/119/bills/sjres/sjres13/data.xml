@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="13" updated="2025-05-08T10:56:29Z">
+<bill session="119" type="sj" number="13" updated="2025-05-08T13:53:04Z">
   <state datetime="2025-05-07">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-05-07"/>
@@ -38,9 +38,11 @@
     </action>
     <action datetime="2025-05-07">
       <text>Considered by Senate.</text>
+      <reference ref="CR S2789, S2789-2796: 6" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="237" datetime="2025-05-07" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 237.</text>
+      <reference ref="CR S2793: 2" label="text"/>
     </vote>
   </actions>
   <committees>
@@ -51,6 +53,11 @@
   </relatedbills>
   <subjects>
     <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Congressional oversight"/>
+    <term name="Corporate finance and management"/>
+    <term name="Department of the Treasury"/>
   </subjects>
   <amendments/>
   <summary date="2025-05-06T16:58:09Z" status="Introduced in Senate"></summary>

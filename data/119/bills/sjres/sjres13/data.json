@@ -60,7 +60,12 @@
     {
       "acted_at": "2025-05-07",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S2789, S2789-2796: 6",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -68,7 +73,12 @@
       "acted_at": "2025-05-07",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S2793: 2",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "237",
       "status": "PASS_OVER:SENATE",
@@ -180,6 +190,11 @@
   "status": "PASS_OVER:SENATE",
   "status_at": "2025-05-07",
   "subjects": [
+    "Administrative law and regulatory procedures",
+    "Banking and financial institutions regulation",
+    "Congressional oversight",
+    "Corporate finance and management",
+    "Department of the Treasury",
     "Finance and financial sector"
   ],
   "subjects_top_term": "Finance and financial sector",
@@ -205,6 +220,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-08T10:56:29Z",
+  "updated_at": "2025-05-08T13:53:04Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres13.xml"
 }
