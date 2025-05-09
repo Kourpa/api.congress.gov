@@ -56,6 +56,33 @@
       ],
       "text": "Measure laid before Senate by motion.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-05-08",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-08",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "238",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 50 - 38. Record Vote Number: 238.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-05-08",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -242,6 +269,8 @@
     "active_at": "2025-03-05",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-05-08",
     "vetoed": false
   },
   "introduced_at": "2025-01-27",
@@ -265,8 +294,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-27",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-05-08",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Broadcasting, cable, digital technologies",
@@ -299,6 +328,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-08T13:36:15Z",
+  "updated_at": "2025-05-09T10:56:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres7.xml"
 }

@@ -147,6 +147,33 @@
       ],
       "text": "Measure laid before Senate by motion.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-05-08",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-08",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "239",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 50 - 43. Record Vote Number: 239.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-05-08",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -204,6 +231,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-04-29T17:42:50-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-05-08",
     "vetoed": false
   },
   "introduced_at": "2025-02-21",
@@ -227,8 +256,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-04-29T17:42:50-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-05-08",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Arizona",
@@ -262,6 +291,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-07T13:07:24Z",
+  "updated_at": "2025-05-09T10:56:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres60.xml"
 }

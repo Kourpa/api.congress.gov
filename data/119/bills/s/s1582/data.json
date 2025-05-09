@@ -47,9 +47,55 @@
       ],
       "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-05-08",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to proceed to consideration of measure made in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-08",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "240",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 240.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-05-08",
+      "action_code": "",
+      "references": [],
+      "text": "Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 240) made in Senate.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt2226-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "2226"
+    },
+    {
+      "amendment_id": "samdt2225-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "2225"
+    },
+    {
+      "amendment_id": "samdt2224-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "2224"
+    }
+  ],
   "bill_id": "s1582-119",
   "bill_type": "s",
   "by_request": false,
@@ -94,6 +140,8 @@
     "active_at": "2025-05-01",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_cloture_result": "fail",
+    "senate_cloture_result_at": "2025-05-08",
     "vetoed": false
   },
   "introduced_at": "2025-05-01",
@@ -110,10 +158,30 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "INTRODUCED",
-  "status_at": "2025-05-01",
+  "status": "PROV_KILL:CLOTUREFAILED",
+  "status_at": "2025-05-08",
   "subjects": [
-    "Finance and financial sector"
+    "Accounting and auditing",
+    "Bank accounts, deposits, capital",
+    "Banking and financial institutions regulation",
+    "Bankruptcy",
+    "Business records",
+    "Civil actions and liability",
+    "Congressional oversight",
+    "Currency",
+    "Digital media",
+    "Finance and financial sector",
+    "Financial crises and stabilization",
+    "Financial services and investments",
+    "Fraud offenses and financial crimes",
+    "Government studies and investigations",
+    "Interest, dividends, interest rates",
+    "International monetary system and foreign exchange",
+    "Judicial procedure and administration",
+    "Judicial review and appeals",
+    "Licensing and registrations",
+    "Securities",
+    "State and local government operations"
   ],
   "subjects_top_term": "Finance and financial sector",
   "summary": null,
@@ -147,6 +215,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-08T11:03:18Z",
+  "updated_at": "2025-05-09T11:08:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1582.xml"
 }

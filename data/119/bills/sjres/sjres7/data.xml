@@ -1,7 +1,7 @@
-<bill session="119" type="sj" number="7" updated="2025-05-08T13:36:15Z">
-  <state datetime="2025-01-27">REFERRED</state>
+<bill session="119" type="sj" number="7" updated="2025-05-09T10:56:28Z">
+  <state datetime="2025-05-08">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-01-27"/>
+    <unknown datetime="2025-05-08"/>
   </status>
   <introduced datetime="2025-01-27"/>
   <titles>
@@ -46,6 +46,15 @@
     <action datetime="2025-05-06">
       <text>Measure laid before Senate by motion.</text>
       <reference ref="CR S2770-2772: 4" label="consideration"/>
+    </action>
+    <action datetime="2025-05-08">
+      <text>Considered by Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="238" datetime="2025-05-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 50 - 38. Record Vote Number: 238.</text>
+    </vote>
+    <action datetime="2025-05-08">
+      <text>Message on Senate action sent to the House.</text>
     </action>
   </actions>
   <committees>
