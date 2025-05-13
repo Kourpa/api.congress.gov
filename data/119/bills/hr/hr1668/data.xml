@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1668" updated="2025-03-27T08:07:18Z">
+<bill session="119" type="h" number="1668" updated="2025-05-13T18:22:26Z">
   <state datetime="2025-02-27">REFERRED</state>
   <status>
     <introduced datetime="2025-02-27"/>
@@ -44,7 +44,9 @@
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="771" relation="identical"/>
+  </relatedbills>
   <subjects/>
   <amendments/>
 </bill>
