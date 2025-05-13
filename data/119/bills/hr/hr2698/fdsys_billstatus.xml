@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2698</number>
-    <updateDate>2025-05-05T12:16:25Z</updateDate>
-    <updateDateIncludingText>2025-05-05T12:16:25Z</updateDateIncludingText>
+    <updateDate>2025-05-13T08:05:20Z</updateDate>
+    <updateDateIncludingText>2025-05-13T08:05:20Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,40 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 62 (Monday, April 7, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. THOMPSON of Mississippi:H.R. 2698.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H1461]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>hshm00</systemCode>
+        <name>Homeland Security Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-04-07T21:02:51Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hshm05</systemCode>
+            <name>Counterterrorism and Intelligence Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-04-07T21:02:51Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-04-07T16:03:50Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsju00</systemCode>
         <name>Judiciary Committee</name>
@@ -26,20 +60,38 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hshm00</systemCode>
-        <name>Homeland Security Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-04-07T16:03:50Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-04-07</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-04-07</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm05</systemCode>
+            <name>Counterterrorism and Intelligence Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-04-07</actionDate>
         <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -327,7 +379,7 @@
     </textVersions>
     <latestAction>
       <actionDate>2025-04-07</actionDate>
-      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

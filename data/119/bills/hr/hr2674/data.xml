@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2674" updated="2025-05-05T13:17:37Z">
+<bill session="119" type="h" number="2674" updated="2025-05-13T08:05:18Z">
   <state datetime="2025-04-07">REFERRED</state>
   <status>
     <introduced datetime="2025-04-07"/>
@@ -22,9 +22,13 @@
     <action datetime="2025-04-07" state="REFERRED">
       <text>Referred to the House Committee on Homeland Security.</text>
     </action>
+    <action datetime="2025-04-07">
+      <text>Referred to the Subcommittee on Emergency Management and Technology.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM12" name="House Homeland Security" subcommittee="Emergency Management and Technology" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
