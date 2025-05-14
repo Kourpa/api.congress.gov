@@ -1,4 +1,4 @@
-<bill session="119" type="hc" number="19" updated="2025-03-12T09:48:19Z">
+<bill session="119" type="hc" number="19" updated="2025-05-14T15:10:59Z">
   <state datetime="2025-03-11">REFERRED</state>
   <status>
     <introduced datetime="2025-03-11"/>
@@ -26,7 +26,11 @@
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="sc" number="10" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
   <amendments/>
 </bill>

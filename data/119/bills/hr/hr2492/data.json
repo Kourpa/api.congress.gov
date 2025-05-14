@@ -48,7 +48,12 @@
     {
       "acted_at": "2025-05-13T17:31:37-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1983-1984",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -63,7 +68,12 @@
       "acted_at": "2025-05-13T17:39:21-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1983",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -177,6 +187,10 @@
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-05-13T17:39:21-04:00",
   "subjects": [
+    "Electric power generation and transmission",
+    "Fires",
+    "Forests, forestry, trees",
+    "Licensing and registrations",
     "Public lands and natural resources"
   ],
   "subjects_top_term": "Public lands and natural resources",
@@ -209,6 +223,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-14T08:05:54Z",
+  "updated_at": "2025-05-14T13:43:10Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2492.xml"
 }

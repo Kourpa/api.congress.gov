@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="249" updated="2025-05-14T08:05:27Z">
+<bill session="119" type="h" number="249" updated="2025-05-14T13:44:50Z">
   <state datetime="2025-05-13T19:03:03-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-05-13T19:03:03-04:00"/>
@@ -46,6 +46,7 @@
     </action>
     <action datetime="2025-05-13T17:08:35-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1979-1980" label="consideration"/>
     </action>
     <action datetime="2025-05-13T17:08:38-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 249.</text>
@@ -55,9 +56,11 @@
     </action>
     <action datetime="2025-05-13T18:56:02-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H1986-1987" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="124" datetime="2025-05-13T19:03:03-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 50, 2 Present (Roll no. 124).</text>
+      <reference ref="CR H1979" label="text"/>
     </vote>
     <action datetime="2025-05-13T19:03:04-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

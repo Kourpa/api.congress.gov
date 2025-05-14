@@ -28,7 +28,12 @@
     {
       "acted_at": "2025-05-13T16:54:52-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1975-1976",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -43,7 +48,12 @@
       "acted_at": "2025-05-13T17:00:44-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1975-1976",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -103,6 +113,10 @@
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-05-13T17:00:44-04:00",
   "subjects": [
+    "Arizona",
+    "Forests, forestry, trees",
+    "Geography and mapping",
+    "Land transfers",
     "Public lands and natural resources"
   ],
   "subjects_top_term": "Public lands and natural resources",
@@ -135,6 +149,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-14T08:05:23Z",
+  "updated_at": "2025-05-14T13:40:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1829.xml"
 }
