@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1829" updated="2025-05-12T18:17:11Z">
-  <state datetime="2025-03-04">REFERRED</state>
+<bill session="119" type="h" number="1829" updated="2025-05-14T08:05:23Z">
+  <state datetime="2025-05-13T17:00:44-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-03-04"/>
+    <unknown datetime="2025-05-13T17:00:44-04:00"/>
   </status>
   <introduced datetime="2025-03-04"/>
   <titles>
@@ -17,6 +17,21 @@
     </action>
     <action datetime="2025-03-04" state="REFERRED">
       <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2025-05-13T16:54:39-04:00">
+      <text>Mr. Westerman moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-05-13T16:54:52-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-05-13T16:54:55-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1829.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-05-13T17:00:44-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-05-13T17:00:46-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>
