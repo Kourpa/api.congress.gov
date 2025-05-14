@@ -58,6 +58,18 @@
       "text": "Placed on the Union Calendar, Calendar No. 57.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-05-13T18:20:04-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres405-119",
+        "hr2240-119",
+        "hr2243-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 405 Reported to House. Rule provides for consideration of H.R. 2240, H.R. 2243 and H.R. 2255. The resolution provides for consideration of H.R. 2240, H.R. 2243, and H.R. 2255. All bills are being considered under a closed rule with each bill having one motion to recommit.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -92,7 +104,14 @@
   "number": "2255",
   "official_title": "To allow Federal law enforcement officers to purchase retired service weapons, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres405-119",
+      "identified_by": "House",
+      "reason": "procedurally-related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Federal Law Enforcement Officer Service Weapon Purchase Act of 2025",
   "sponsor": {
     "bioguide_id": "F000478",
@@ -147,6 +166,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-09T18:26:14Z",
+  "updated_at": "2025-05-14T08:06:01Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2255.xml"
 }

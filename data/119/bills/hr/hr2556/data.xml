@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2556" updated="2025-04-06T14:26:58Z">
+<bill session="119" type="h" number="2556" updated="2025-05-14T08:05:44Z">
   <state datetime="2025-04-01">REFERRED</state>
   <status>
     <introduced datetime="2025-04-01"/>
@@ -25,11 +25,15 @@
     <action datetime="2025-04-01">
       <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-05-13">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Referral"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

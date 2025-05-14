@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1596" updated="2025-05-14T04:23:21Z">
-  <state datetime="2025-05-05">REFERRED</state>
+<bill session="119" type="s" number="1596" updated="2025-05-14T10:58:18Z">
+  <state datetime="2025-05-13">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-05-05"/>
+    <unknown datetime="2025-05-13"/>
   </status>
   <introduced datetime="2025-05-05"/>
   <titles>
@@ -20,9 +20,15 @@
     <action datetime="2025-05-05" state="REFERRED">
       <text>Read twice and referred to the Committee on Environment and Public Works.</text>
     </action>
+    <action datetime="2025-05-13">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="2025-05-13" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Referred To"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>
