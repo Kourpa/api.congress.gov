@@ -19,10 +19,57 @@
       "type": "referral"
     },
     {
-      "acted_at": "2025-04-07",
-      "action_code": "",
+      "acted_at": "2025-05-14T17:38:49-04:00",
+      "action_code": "H30200",
       "references": [],
-      "text": "Message on Senate action sent to the House.",
+      "text": "Mr. Steil asked unanimous consent to discharge from committee and consider.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14",
+      "action_code": "H12300",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "Committee on House Administration discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T17:38:53-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H2033",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T17:39:23-04:00",
+      "action_code": "H37100",
+      "how": "without objection",
+      "references": [
+        {
+          "reference": "CR H2033",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On agreeing to the resolution Agreed to without objection.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-05-14T17:39:24-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
     }
   ],
@@ -34,6 +81,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Committee on House Administration",
@@ -56,9 +104,11 @@
   "enacted_as": null,
   "history": {
     "active": true,
-    "active_at": "2025-04-07",
+    "active_at": "2025-05-14T17:38:49-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-05-14T17:39:23-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-04-01",
@@ -75,8 +125,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-04-01",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-05-14T17:39:23-04:00",
   "subjects": [
     "Alaska Natives and Hawaiians",
     "Congress",
@@ -102,6 +152,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-04-08T13:41:21Z",
+  "updated_at": "2025-05-15T14:59:35Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres24.xml"
 }

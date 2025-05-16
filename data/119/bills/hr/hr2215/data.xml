@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2215" updated="2025-05-14T13:43:53Z">
-  <state datetime="2025-03-18">REFERRED</state>
+<bill session="119" type="h" number="2215" updated="2025-05-15T14:53:22Z">
+  <state datetime="2025-05-14T13:56:08-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-03-18"/>
+    <unknown datetime="2025-05-14T13:56:08-04:00"/>
   </status>
   <introduced datetime="2025-03-18"/>
   <titles>
@@ -24,13 +24,23 @@
     <action datetime="2025-05-13T17:39:35-04:00">
       <text>Considered under suspension of the rules.</text>
       <reference ref="CR H1984-1985" label="consideration"/>
-      <reference ref="CR H1984" label="text"/>
     </action>
     <action datetime="2025-05-13T17:39:37-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2215.</text>
     </action>
     <action datetime="2025-05-13T17:46:06-04:00">
       <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2025-05-14T13:31:27-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2021-2022" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="125" datetime="2025-05-14T13:56:08-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 31 (Roll no. 125).</text>
+      <reference ref="5/13/2025 CR H1984" label="text"/>
+    </vote>
+    <action datetime="2025-05-14T13:56:09-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

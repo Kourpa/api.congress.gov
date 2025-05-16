@@ -17,6 +17,77 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-05-14T14:45:07-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Schmidt moved to suspend the rules and agree to the resolution.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T14:45:22-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H2027-2031",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T14:45:23-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 352.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T15:13:47-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T17:29:08-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H2032-2033",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T17:36:22-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR H2027-2028",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "roll": "129",
+      "status": "PASSED:SIMPLERES",
+      "suspension": true,
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 129).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-05-14T17:36:24-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -62,6 +133,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-04-24",
       "state": "PA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "F000450",
+      "district": "5",
+      "name": "Foxx, Virginia",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-05-14",
+      "state": "NC",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -116,6 +197,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "S001190",
+      "district": "10",
+      "name": "Schneider, Bradley Scott",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-05-14",
+      "state": "IL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "T000478",
       "district": "24",
       "name": "Tenney, Claudia",
@@ -128,9 +219,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-05-14T14:45:07-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-05-14T17:36:22-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-04-24",
@@ -147,8 +241,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-04-24",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-05-14T17:36:22-04:00",
   "subjects": [
     "Civil rights and liberties, minority issues"
   ],
@@ -175,6 +269,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-14T08:05:59Z",
+  "updated_at": "2025-05-15T14:58:53Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres352.xml"
 }

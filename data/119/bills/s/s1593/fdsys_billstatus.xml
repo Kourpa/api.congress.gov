@@ -3,14 +3,26 @@
   <version>3.0.0</version>
   <bill>
     <number>1593</number>
-    <updateDate>2025-05-09T10:56:24Z</updateDate>
-    <updateDateIncludingText>2025-05-09T10:56:24Z</updateDateIncludingText>
+    <updateDate>2025-05-15T10:56:27Z</updateDate>
+    <updateDateIncludingText>2025-05-15T10:56:27Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
     <introducedDate>2025-05-05</introducedDate>
     <congress>119</congress>
     <committees>
+      <item>
+        <systemCode>sssb00</systemCode>
+        <name>Small Business and Entrepreneurship Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Hearings By (full committee)</name>
+            <date>2025-05-14T20:47:15Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>ssfi00</systemCode>
         <name>Finance Committee</name>
@@ -25,6 +37,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-05-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>sssb00</systemCode>
+            <name>Small Business and Entrepreneurship Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-05-05</actionDate>
         <committees>
@@ -164,8 +190,8 @@
       </item>
     </titles>
     <latestAction>
-      <actionDate>2025-05-05</actionDate>
-      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2025-05-14</actionDate>
+      <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

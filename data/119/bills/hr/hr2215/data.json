@@ -32,10 +32,6 @@
         {
           "reference": "CR H1984-1985",
           "type": "consideration"
-        },
-        {
-          "reference": "CR H1984",
-          "type": "text"
         }
       ],
       "text": "Considered under suspension of the rules.",
@@ -53,6 +49,44 @@
       "action_code": "H37220",
       "references": [],
       "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T13:31:27-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H2021-2022",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T13:56:08-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "5/13/2025 CR H1984",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "roll": "125",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 31 (Roll no. 125).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-05-14T13:56:09-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
     }
   ],
@@ -78,6 +112,8 @@
     "active_at": "2025-05-13T17:39:26-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-05-14T13:56:08-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-03-18",
@@ -101,8 +137,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-03-18",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-05-14T13:56:08-04:00",
   "subjects": [
     "Congressional oversight",
     "Historic sites and heritage areas",
@@ -140,6 +176,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-14T13:43:53Z",
+  "updated_at": "2025-05-15T14:53:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2215.xml"
 }

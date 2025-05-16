@@ -70,9 +70,101 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 405 Reported to House. Rule provides for consideration of H.R. 2240, H.R. 2243 and H.R. 2255. The resolution provides for consideration of H.R. 2240, H.R. 2243, and H.R. 2255. All bills are being considered under a closed rule with each bill having one motion to recommit.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T14:16:29-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres405-119"
+      ],
+      "references": [
+        {
+          "reference": "CR H2024-2027",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under the provisions of rule H. Res. 405.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T14:16:34-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr2240-119",
+        "hr2255-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 2240, H.R. 2243 and H.R. 2255. The resolution provides for consideration of H.R. 2240, H.R. 2243, and H.R. 2255. All bills are being considered under a closed rule with each bill having one motion to recommit.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T14:16:55-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 2243.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T14:43:48-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T14:44:26-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2243, the Chair put the question passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T17:01:07-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H2031-2032",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-14T17:29:05-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR H2024",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
+      "result": "pass",
+      "roll": "128",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 229 - 193 (Roll no. 128).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-05-14T17:29:07-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt19-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "19"
+    }
+  ],
   "bill_id": "hr2243-119",
   "bill_type": "hr",
   "by_request": false,
@@ -279,6 +371,8 @@
     "active_at": "2025-03-25",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-05-14T17:29:05-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-03-21",
@@ -302,8 +396,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-03-25",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-05-14T17:29:05-04:00",
   "subjects": [
     "Crime and law enforcement",
     "Educational facilities and institutions",
@@ -352,6 +446,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-15T00:28:25Z",
+  "updated_at": "2025-05-15T15:07:49Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2243.xml"
 }

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1682</number>
-    <updateDate>2025-05-14T13:34:57Z</updateDate>
-    <updateDateIncludingText>2025-05-14T13:34:57Z</updateDateIncludingText>
+    <updateDate>2025-05-15T10:56:30Z</updateDate>
+    <updateDateIncludingText>2025-05-15T10:56:30Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,18 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 39 (Thursday, February 27, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. EVANS of Colorado:H.R. 1682.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H919]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>sseg00</systemCode>
+        <name>Energy and Natural Resources Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-05-14T15:58:08Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsag00</systemCode>
         <name>Agriculture Committee</name>
@@ -41,6 +53,20 @@
     </committees>
     <actions>
       <item>
+        <actionDate>2025-05-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2025-05-13</actionDate>
         <actionTime>16:08:35</actionTime>
         <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -65,7 +91,7 @@
       <item>
         <actionDate>2025-05-13</actionDate>
         <actionTime>16:08:32</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1965)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -230,13 +256,33 @@
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
     </cosponsors>
-    <title>To amend the Federal Lands Recreation Enhancement Act to provide for lifetime National Parks and Federal Recreational Lands Passes for family members of members of the Armed Forces who lost their lives while serving their country.</title>
+    <title>BELO’S Act</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>To amend the Federal Lands Recreation Enhancement Act to provide for lifetime National Parks and Federal Recreational Lands Passes for family members of members of the Armed Forces who lost their lives while serving their country.</title>
-        <updateDate>2025-02-28T09:06:14Z</updateDate>
+        <title>BELO’S Act</title>
+        <updateDate>2025-05-15T03:39:37Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>BELO’S Act</title>
+        <updateDate>2025-05-15T03:38:24Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>Benefits that Endure for Lifetimes Of Service Act</title>
+        <updateDate>2025-05-15T03:38:24Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
@@ -245,10 +291,20 @@
         <updateDate>2025-02-28T09:06:14Z</updateDate>
       </item>
     </titles>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2025-05-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr1682eh/xml/BILLS-119hr1682eh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
     <latestAction>
-      <actionDate>2025-05-13</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>16:08:35</actionTime>
+      <actionDate>2025-05-14</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

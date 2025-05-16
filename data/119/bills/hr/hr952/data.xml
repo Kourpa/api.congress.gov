@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="952" updated="2025-05-14T17:24:47Z">
+<bill session="119" type="h" number="952" updated="2025-05-15T10:56:33Z">
   <state datetime="2025-05-13T17:31:26-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-05-13T17:31:26-04:00"/>
   </status>
   <introduced datetime="2025-02-04"/>
   <titles>
-    <title type="display">Reversionary Interest Conveyance Act</title>
     <title type="short" as="introduced">Reversionary Interest Conveyance Act</title>
+    <title type="short" as="passed house">Reversionary Interest Conveyance Act</title>
+    <title type="display">Reversionary Interest Conveyance Act</title>
     <title type="official" as="introduced">To convey the reversionary interest of the United States in certain land in Sacramento, California.</title>
   </titles>
   <sponsor bioguide_id="M001163"/>
@@ -35,8 +36,12 @@
     <action datetime="2025-05-13T17:31:28-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-05-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

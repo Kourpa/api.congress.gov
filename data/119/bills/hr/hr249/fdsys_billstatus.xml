@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>249</number>
-    <updateDate>2025-05-15T00:23:50Z</updateDate>
-    <updateDateIncludingText>2025-05-15T00:23:50Z</updateDateIncludingText>
+    <updateDate>2025-05-15T10:56:35Z</updateDate>
+    <updateDateIncludingText>2025-05-15T10:56:35Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,18 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 5 (Thursday, January 9, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. PALLONE:H.R. 249.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18[Page H92]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>sseg00</systemCode>
+        <name>Energy and Natural Resources Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-05-14T15:55:40Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsii00</systemCode>
         <name>Natural Resources Committee</name>
@@ -41,6 +53,20 @@
       </committeeReport>
     </committeeReports>
     <actions>
+      <item>
+        <actionDate>2025-05-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2025-05-13</actionDate>
         <actionTime>19:03:04</actionTime>
@@ -76,7 +102,7 @@
       <item>
         <actionDate>2025-05-13</actionDate>
         <actionTime>19:03:03</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 50, 2 Present (Roll no. 124).</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 50, 2 Present (Roll no. 124). (text: CR H1979)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -465,6 +491,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in House</type>
+        <date>2025-05-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr249eh/xml/BILLS-119hr249eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Reported in House</type>
         <date>2025-04-17T04:00:00Z</date>
         <formats>
@@ -484,9 +519,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-13</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>19:03:04</actionTime>
+      <actionDate>2025-05-14</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
