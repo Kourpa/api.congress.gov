@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2799" updated="2025-05-14T08:05:56Z">
+<bill session="119" type="h" number="2799" updated="2025-05-16T17:43:21Z">
   <state datetime="2025-04-09">REFERRED</state>
   <status>
     <introduced datetime="2025-04-09"/>
@@ -95,7 +95,11 @@
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="1374" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
   <amendments/>
 </bill>
