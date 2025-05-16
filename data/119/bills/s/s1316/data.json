@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-05-15",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on the Judiciary. Ordered to be reported without amendment favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -158,7 +170,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-05-15",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -177,8 +190,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-04-07",
+  "status": "REPORTED",
+  "status_at": "2025-05-15",
   "subjects": [
     "Crime and law enforcement"
   ],
@@ -207,6 +220,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-15T11:03:16Z",
+  "updated_at": "2025-05-16T11:03:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1316.xml"
 }
