@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2201</number>
-    <updateDate>2025-05-18T04:38:18Z</updateDate>
-    <updateDateIncludingText>2025-05-18T04:38:18Z</updateDateIncludingText>
+    <updateDate>2025-05-18T12:06:14Z</updateDate>
+    <updateDateIncludingText>2025-05-18T12:06:14Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -41,6 +41,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-05-17T14:11:05Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-05-06T14:18:01Z</date>
           </item>
@@ -51,7 +55,57 @@
         </activities>
       </item>
     </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 119-98</citation>
+      </committeeReport>
+    </committeeReports>
     <actions>
+      <item>
+        <actionDate>2025-05-17</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 71.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00071</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-05-17</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-98.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-05-17</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-98.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-05-06</actionDate>
         <committees>
@@ -353,8 +407,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-06</actionDate>
-      <text>Ordered to be Reported by Voice Vote.</text>
+      <actionDate>2025-05-17</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 71.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
