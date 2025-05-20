@@ -173,6 +173,16 @@
       "status": "ENACTED:SIGNED",
       "text": "Signed by President.",
       "type": "signed"
+    },
+    {
+      "acted_at": "2025-05-09",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "7",
+      "references": [],
+      "text": "Became Public Law No: 119-7.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -292,13 +302,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "7"
+  },
   "history": {
     "active": true,
     "active_at": "2025-03-24T19:43:25-04:00",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2025-05-09",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2025-05-09",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-03-27T10:18:20-04:00",
     "senate_passage_result": "pass",
@@ -359,6 +373,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-19T15:31:21Z",
+  "updated_at": "2025-05-20T14:29:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres24.xml"
 }

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="965" updated="2025-02-13T03:08:15Z">
+<bill session="119" type="h" number="965" updated="2025-05-20T14:04:19Z">
   <state datetime="2025-02-10T17:41:03-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-02-10T17:41:03-05:00"/>
@@ -92,7 +92,9 @@
     <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="1415" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Housing and community development"/>
     <term name="Disability assistance"/>

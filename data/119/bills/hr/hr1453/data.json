@@ -28,7 +28,12 @@
     {
       "acted_at": "2025-05-19T15:33:22-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2115-2116",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -43,7 +48,12 @@
       "acted_at": "2025-05-19T15:42:06-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2115",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -114,7 +124,12 @@
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-05-19T15:42:06-04:00",
   "subjects": [
-    "Energy"
+    "Alternative and renewable resources",
+    "Energy",
+    "Energy storage, supplies, demand",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Internet, web applications, social media"
   ],
   "subjects_top_term": "Energy",
   "summary": {
@@ -146,6 +161,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-20T08:05:44Z",
+  "updated_at": "2025-05-20T15:31:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1453.xml"
 }
