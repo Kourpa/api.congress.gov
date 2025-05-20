@@ -140,6 +140,21 @@
       "references": [],
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-05-19",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
+    },
+    {
+      "acted_at": "2025-05-19",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
     }
   ],
   "amendments": [],
@@ -374,7 +389,8 @@
   "history": {
     "active": true,
     "active_at": "2025-02-13",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2025-05-19",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-04-28T19:05:27-04:00",
@@ -403,8 +419,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2025-04-28T19:05:27-04:00",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2025-05-19",
   "subjects": [
     "Child safety and welfare",
     "Crimes against children",
@@ -412,6 +428,7 @@
     "Digital media",
     "Fraud offenses and financial crimes",
     "Internet, web applications, social media",
+    "Pornography",
     "Science, technology, communications",
     "Sex offenses"
   ],
@@ -480,6 +497,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-04-30T08:06:20Z",
+  "updated_at": "2025-05-20T11:58:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s146.xml"
 }

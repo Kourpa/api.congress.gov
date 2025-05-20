@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1263" updated="2025-05-01T19:54:03Z">
-  <state datetime="2025-02-12">REFERRED</state>
+<bill session="119" type="h" number="1263" updated="2025-05-20T08:05:59Z">
+  <state datetime="2025-05-19T18:55:41-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-02-12"/>
+    <unknown datetime="2025-05-19T18:55:41-04:00"/>
   </status>
   <introduced datetime="2025-02-12"/>
   <titles>
@@ -23,6 +23,27 @@
     </action>
     <action datetime="2025-02-12" state="REFERRED">
       <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2025-05-19T15:59:09-04:00">
+      <text>Mr. Huizenga moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-05-19T15:59:19-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-05-19T15:59:20-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1263.</text>
+    </action>
+    <action datetime="2025-05-19T16:11:52-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2025-05-19T18:30:47-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="132" datetime="2025-05-19T18:55:41-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 334 - 51 (Roll no. 132).</text>
+    </vote>
+    <action datetime="2025-05-19T18:55:42-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

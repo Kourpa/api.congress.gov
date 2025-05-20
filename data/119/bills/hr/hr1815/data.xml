@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1815" updated="2025-05-20T04:38:17Z">
-  <state datetime="2025-03-03">REFERRED</state>
+<bill session="119" type="h" number="1815" updated="2025-05-20T08:05:33Z">
+  <state datetime="2025-05-19T17:03:08-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-03-03"/>
+    <unknown datetime="2025-05-19T17:03:08-04:00"/>
   </status>
   <introduced datetime="2025-03-03"/>
   <titles>
@@ -34,9 +34,30 @@
     <action datetime="2025-05-06">
       <text>Committee Consideration and Mark-up Session Held</text>
     </action>
+    <action datetime="2025-05-19">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-104.</text>
+    </action>
+    <calendar datetime="2025-05-19" calendar="Union" number="77">
+      <text>Placed on the Union Calendar, Calendar No. 77.</text>
+    </calendar>
+    <action datetime="2025-05-19T16:39:25-04:00">
+      <text>Mr. Bost moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-05-19T16:39:50-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-05-19T16:39:52-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1815.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-05-19T17:03:08-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-05-19T17:03:11-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSVR10" name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Reporting, Markup, Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills/>
