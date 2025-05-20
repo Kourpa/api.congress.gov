@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="1578" updated="2025-05-16T08:06:05Z">
-  <state datetime="2025-02-25">REFERRED</state>
+<bill session="119" type="h" number="1578" updated="2025-05-20T08:05:30Z">
+  <state datetime="2025-05-19T17:45:40-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-02-25"/>
+    <unknown datetime="2025-05-19T17:45:40-04:00"/>
   </status>
   <introduced datetime="2025-02-25"/>
   <titles>
-    <title type="display">Veterans Claims Education Act of 2025</title>
     <title type="short" as="introduced">Veterans Claims Education Act of 2025</title>
+    <title type="short" as="reported to house">Veterans Claims Education Act of 2025</title>
+    <title type="display">Veterans Claims Education Act of 2025</title>
     <title type="official" as="introduced">To amend title 38, United States Code, to promote assistance from persons recognized by the Secretary of Veterans Affairs for individuals who file certain claims under laws administered by the Secretary.</title>
   </titles>
   <sponsor bioguide_id="P000608"/>
@@ -15,9 +16,11 @@
     <cosponsor bioguide_id="D000530" joined="2025-02-25"/>
     <cosponsor bioguide_id="F000466" joined="2025-05-13"/>
     <cosponsor bioguide_id="H001090" joined="2025-05-15"/>
+    <cosponsor bioguide_id="M001241" joined="2025-05-19"/>
     <cosponsor bioguide_id="N000193" joined="2025-04-24"/>
     <cosponsor bioguide_id="O000019" joined="2025-02-25"/>
     <cosponsor bioguide_id="R000600" joined="2025-03-24"/>
+    <cosponsor bioguide_id="S001201" joined="2025-05-19"/>
   </cosponsors>
   <actions>
     <action datetime="2025-02-25">
@@ -38,9 +41,30 @@
     <action datetime="2025-05-06">
       <text>Committee Consideration and Mark-up Session Held</text>
     </action>
+    <action datetime="2025-05-19">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-102.</text>
+    </action>
+    <calendar datetime="2025-05-19" calendar="Union" number="75">
+      <text>Placed on the Union Calendar, Calendar No. 75.</text>
+    </calendar>
+    <action datetime="2025-05-19T17:36:21-04:00">
+      <text>Mr. Bost moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-05-19T17:36:32-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-05-19T17:36:34-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1578.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-05-19T17:45:40-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-05-19T17:45:41-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSVR09" name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills/>
