@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1595</number>
-    <updateDate>2025-05-16T11:03:16Z</updateDate>
-    <updateDateIncludingText>2025-05-16T11:03:16Z</updateDateIncludingText>
+    <updateDate>2025-05-21T12:28:44Z</updateDate>
+    <updateDateIncludingText>2025-05-21T12:28:44Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -18,6 +18,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-05-20T20:25:41Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-05-15T17:30:10Z</date>
           </item>
@@ -29,6 +33,44 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-05-20</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 84.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2025-05-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-05-20</actionDate>
+        <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-05-15</actionDate>
         <committees>
@@ -144,13 +186,23 @@
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
     </cosponsors>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Crime and Law Enforcement</name>
+        <updateDate>2025-05-21T12:28:44Z</updateDate>
+      </policyArea>
+    </subjects>
     <title>Improving Police CARE Act</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Improving Police CARE Act</title>
-        <updateDate>2025-05-16T11:03:16Z</updateDate>
+        <updateDate>2025-05-21T11:03:17Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -189,8 +241,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-15</actionDate>
-      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <actionDate>2025-05-20</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 84.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

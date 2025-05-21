@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="129" updated="2025-05-21T04:53:18Z">
-  <state datetime="2025-01-16">REFERRED</state>
+<bill session="119" type="s" number="129" updated="2025-05-21T10:58:18Z">
+  <state datetime="2025-05-20">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-01-16"/>
+    <unknown datetime="2025-05-20"/>
   </status>
   <introduced datetime="2025-01-16"/>
   <titles>
+    <title type="display">No Tax on Tips Act</title>
     <title type="short" as="introduced">No Tax on Tips Act</title>
     <title type="short" as="passed senate">No Tax on Tips Act</title>
-    <title type="display">No Tax on Tips Act</title>
     <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to eliminate the application of the income tax on qualified tips through a deduction allowed to all individual taxpayers, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001098"/>
@@ -28,9 +28,15 @@
     <action datetime="2025-01-16" state="REFERRED">
       <text>Read twice and referred to the Committee on Finance.</text>
     </action>
+    <action datetime="2025-05-20">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-05-20" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
+    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="482" relation="identical"/>
