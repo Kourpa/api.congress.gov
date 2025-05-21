@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1223" updated="2025-05-21T08:06:47Z">
+<bill session="119" type="h" number="1223" updated="2025-05-21T15:59:37Z">
   <state datetime="2025-05-20T14:12:22-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-05-20T14:12:22-04:00"/>
@@ -37,7 +37,6 @@
     <action datetime="2025-05-19T15:24:50-04:00">
       <text>Considered under suspension of the rules.</text>
       <reference ref="CR H2113-2115" label="consideration"/>
-      <reference ref="CR H2113-2114" label="text"/>
     </action>
     <action datetime="2025-05-19T15:24:52-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1223.</text>
@@ -47,9 +46,11 @@
     </action>
     <action datetime="2025-05-20T14:05:25-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H2168" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="136" datetime="2025-05-20T14:12:22-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 11 (Roll no. 136).</text>
+      <reference ref="5/19/2025 CR H2113-2114" label="text"/>
     </vote>
     <action datetime="2025-05-20T14:12:23-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
