@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="689" updated="2025-03-04T09:05:18Z">
-  <state datetime="2025-01-23">REFERRED</state>
+<bill session="119" type="h" number="689" updated="2025-05-22T12:22:30Z">
+  <state datetime="2025-05-21">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-23"/>
+    <unknown datetime="2025-05-21"/>
   </status>
   <introduced datetime="2025-01-23"/>
   <titles>
@@ -38,15 +38,27 @@
     <action datetime="2025-01-23" state="REFERRED">
       <text>Referred to the House Committee on Oversight and Government Reform.</text>
     </action>
+    <action datetime="2025-05-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-05-21" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 23 - 19.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="238" relation="identical"/>
   </relatedbills>
   <subjects>
     <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Licensing and registrations"/>
   </subjects>
   <amendments/>
 </bill>

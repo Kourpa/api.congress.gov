@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1223" updated="2025-05-22T08:05:35Z">
+<bill session="119" type="h" number="1223" updated="2025-05-22T12:16:04Z">
   <state datetime="2025-05-20T14:12:22-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-05-20T14:12:22-04:00"/>
@@ -57,8 +57,12 @@
     <action datetime="2025-05-20T14:12:23-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-05-21">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>

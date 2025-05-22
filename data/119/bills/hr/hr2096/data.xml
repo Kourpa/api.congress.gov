@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2096" updated="2025-05-21T13:54:00Z">
-  <state datetime="2025-03-14">REFERRED</state>
+<bill session="119" type="h" number="2096" updated="2025-05-22T12:22:37Z">
+  <state datetime="2025-05-21">REPORTED</state>
   <status>
-    <introduced datetime="2025-03-14"/>
+    <unknown datetime="2025-05-21"/>
   </status>
   <introduced datetime="2025-03-14"/>
   <titles>
@@ -22,9 +22,15 @@
     <action datetime="2025-03-14" state="REFERRED">
       <text>Referred to the House Committee on Oversight and Government Reform.</text>
     </action>
+    <action datetime="2025-05-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-05-21" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 23 - 18.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

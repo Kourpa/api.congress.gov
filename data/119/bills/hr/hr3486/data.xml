@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3486" updated="2025-05-20T08:05:56Z">
-  <state datetime="2025-05-19">REFERRED</state>
+<bill session="119" type="h" number="3486" updated="2025-05-22T12:22:14Z">
+  <state datetime="2025-05-21">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-19"/>
+    <unknown datetime="2025-05-21"/>
   </status>
   <introduced datetime="2025-05-19"/>
   <titles>
@@ -21,9 +21,15 @@
     <action datetime="2025-05-19" state="REFERRED">
       <text>Referred to the House Committee on the Judiciary.</text>
     </action>
+    <action datetime="2025-05-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-05-21" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 14 - 10.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

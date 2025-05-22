@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1" updated="2025-05-22T10:28:24Z">
-  <state datetime="2025-05-20">INTRODUCED</state>
+<bill session="119" type="h" number="1" updated="2025-05-22T12:22:20Z">
+  <state datetime="2025-05-22T06:56:37-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-05-20"/>
+    <unknown datetime="2025-05-22T06:56:37-04:00"/>
   </status>
   <introduced datetime="2025-05-20"/>
   <titles>
@@ -18,14 +18,51 @@
     <calendar datetime="2025-05-20" calendar="Union" number="78">
       <text>Placed on the Union Calendar, Calendar No. 78.</text>
     </calendar>
+    <action datetime="2025-05-21T23:52:56-04:00">
+      <text>Rules Committee Resolution H. Res. 436 Reported to House. Rule provides for consideration of H.R. 1. The resolution provides for consideration of H.R. 1 under a closed rule with two hours of general debate and one motion to recommit.</text>
+    </action>
+    <action datetime="2025-05-22T02:39:47-04:00">
+      <text>Rule H. Res. 436 passed House.</text>
+    </action>
+    <action datetime="2025-05-22T02:53:13-04:00">
+      <text>Considered under the provisions of rule H. Res. 436.</text>
+    </action>
+    <action datetime="2025-05-22T02:53:18-04:00">
+      <text>Rule provides for consideration of H.R. 1. The resolution provides for consideration of H.R. 1 under a closed rule with two hours of general debate and one motion to recommit.</text>
+    </action>
+    <action datetime="2025-05-22T02:54:26-04:00">
+      <text>DEBATE - The House proceeded with two hours of debate on H.R. 1.</text>
+    </action>
+    <action datetime="2025-05-22T06:21:24-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-05-22T06:22:11-04:00">
+      <text>Mrs. Trahan moved to recommit to the Committee on the Budget.</text>
+    </action>
+    <action datetime="2025-05-22T06:22:27-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2025-05-22T06:48:46-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 212 - 216 (Roll no. 144).</text>
+    </action>
+    <vote how="roll" type="vote" roll="145" datetime="2025-05-22T06:56:37-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 215 - 214, 1 Present (Roll no. 145).</text>
+    </vote>
+    <action datetime="2025-05-22T06:56:39-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSBU" name="House Budget" subcommittee="" activity="Reported Original Measure"/>
+    <committee code="HSBU" name="House Budget" subcommittee="" activity="Unknown, Unknown, Reported Original Measure"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="436" relation="procedurally-related"/>
+  </relatedbills>
   <subjects>
     <term name="Economics and public finance"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h22"/>
+  </amendments>
   <summary date="2025-05-22T00:41:41Z" status="Introduced in House"></summary>
 </bill>

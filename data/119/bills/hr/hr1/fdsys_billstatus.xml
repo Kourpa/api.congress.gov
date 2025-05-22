@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1</number>
-    <updateDate>2025-05-22T10:28:24Z</updateDate>
-    <updateDateIncludingText>2025-05-22T10:28:24Z</updateDateIncludingText>
+    <updateDate>2025-05-22T12:22:20Z</updateDate>
+    <updateDateIncludingText>2025-05-22T12:22:20Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,13 +19,214 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Unknown</name>
+            <date>2025-05-22T10:48:46Z</date>
+          </item>
+          <item>
+            <name>Unknown</name>
+            <date>2025-05-22T10:22:11Z</date>
+          </item>
+          <item>
             <name>Reported Original Measure</name>
             <date>2025-05-21T03:55:00Z</date>
           </item>
         </activities>
       </item>
     </committees>
+    <relatedBills>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 1) to provide for reconciliation pursuant to title II of H. Con. Res. 14.</title>
+        <congress>119</congress>
+        <number>436</number>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2025-05-22</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>02:39:48</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <actionTime>06:56:39</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <actionTime>06:56:37</actionTime>
+        <text>On passage Passed by the Yeas and Nays: 215 - 214, 1 Present (Roll no. 145).</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>145</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll145.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-05-22T10:56:37Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <actionTime>06:56:37</actionTime>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 215 - 214, 1 Present (Roll no. 145).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>145</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll145.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-05-22T10:56:37Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <actionTime>06:48:46</actionTime>
+        <text>On motion to recommit Failed by the Yeas and Nays: 212 - 216 (Roll no. 144).</text>
+        <type>Floor</type>
+        <actionCode>H36210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>144</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll144.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-05-22T10:48:46Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <actionTime>06:22:27</actionTime>
+        <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+        <type>Floor</type>
+        <actionCode>H8A000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <actionTime>06:22:11</actionTime>
+        <text>Mrs. Trahan moved to recommit to the Committee on the Budget.</text>
+        <type>Floor</type>
+        <actionCode>H36200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <actionTime>06:21:24</actionTime>
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <actionTime>02:54:26</actionTime>
+        <text>DEBATE - The House proceeded with two hours of debate on H.R. 1.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <actionTime>02:53:18</actionTime>
+        <text>Rule provides for consideration of H.R. 1. The resolution provides for consideration of H.R. 1 under a closed rule with two hours of general debate and one motion to recommit.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <actionTime>02:53:13</actionTime>
+        <text>Considered under the provisions of rule H. Res. 436.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <actionTime>02:39:47</actionTime>
+        <text>Rule H. Res. 436 passed House.</text>
+        <type>Floor</type>
+        <actionCode>H1L220</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-05-21</actionDate>
+        <actionTime>23:52:56</actionTime>
+        <text>Rules Committee Resolution H. Res. 436 Reported to House. Rule provides for consideration of H.R. 1. The resolution provides for consideration of H.R. 1 under a closed rule with two hours of general debate and one motion to recommit.</text>
+        <type>Floor</type>
+        <actionCode>H1L210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-05-20</actionDate>
         <text>Placed on the Union Calendar, Calendar No. 78.</text>
@@ -131,6 +332,92 @@
         <updateDate>2025-05-21T08:06:44Z</updateDate>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>22</number>
+        <congress>119</congress>
+        <type>HAMDT</type>
+        <description>Pursuant to the provisions of H. Res. 436, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 119-3, modified by the amendment printed in House Report 119-113, is considered as adopted.</description>
+        <updateDate>2025-05-22T12:09:13Z</updateDate>
+        <latestAction>
+          <actionDate>2025-05-22</actionDate>
+          <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+        </latestAction>
+        <sponsors>
+          <item>
+            <name>Rules Committee</name>
+          </item>
+        </sponsors>
+        <submittedDate>2025-05-22T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1</number>
+          <title>One Big Beautiful Bill Act</title>
+          <updateDateIncludingText>2025-05-22</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2025-05-22</actionDate>
+              <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-05-22</actionDate>
+              <text>Amendment in the nature of a substitute reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+            <item>
+              <actionDate>2025-05-22</actionDate>
+              <text>House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+            <item>
+              <actionDate>2025-05-22</actionDate>
+              <text>House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Reported in House</type>
@@ -143,8 +430,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-20</actionDate>
-      <text>Placed on the Union Calendar, Calendar No. 78.</text>
+      <actionDate>2025-05-22</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>06:56:39</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

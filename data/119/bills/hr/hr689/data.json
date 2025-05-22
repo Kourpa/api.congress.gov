@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Oversight and Government Reform.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-05-21",
+      "action_code": "",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-21",
+      "action_code": "",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by the Yeas and Nays: 23 - 19.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Oversight and Government Reform",
@@ -218,7 +240,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-05-21",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -244,10 +267,16 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-23",
+  "status": "REPORTED",
+  "status_at": "2025-05-21",
   "subjects": [
-    "Government operations and politics"
+    "Accounting and auditing",
+    "Administrative law and regulatory procedures",
+    "Administrative remedies",
+    "Congressional oversight",
+    "Government operations and politics",
+    "Legal fees and court costs",
+    "Licensing and registrations"
   ],
   "subjects_top_term": "Government operations and politics",
   "summary": null,
@@ -281,6 +310,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-04T09:05:18Z",
+  "updated_at": "2025-05-22T12:22:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr689.xml"
 }

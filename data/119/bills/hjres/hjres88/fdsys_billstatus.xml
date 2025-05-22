@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>88</number>
-    <updateDate>2025-05-15T10:13:46Z</updateDate>
-    <updateDateIncludingText>2025-05-15T10:13:46Z</updateDateIncludingText>
+    <updateDate>2025-05-22T12:16:01Z</updateDate>
+    <updateDateIncludingText>2025-05-22T12:16:01Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HJRES</type>
@@ -67,6 +67,40 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-05-21</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by motion.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-05-21</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 276.</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>276</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00276.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2025-05-22T03:37:31Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-05-21</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2025-05-01</actionDate>
         <actionTime>10:39:12</actionTime>
@@ -829,9 +863,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-01</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>10:39:12</actionTime>
+      <actionDate>2025-05-21</actionDate>
+      <text>Measure laid before Senate by motion.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

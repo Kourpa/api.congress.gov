@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-05-21",
+      "action_code": "",
+      "committees": [
+        "SSCM"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Commerce, Science, and Transportation",
@@ -48,7 +60,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-05-21",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -67,10 +80,12 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-04-30",
-  "subjects": [],
-  "subjects_top_term": null,
+  "status": "REPORTED",
+  "status_at": "2025-05-21",
+  "subjects": [
+    "Science, technology, communications"
+  ],
+  "subjects_top_term": "Science, technology, communications",
   "summary": null,
   "titles": [
     {
@@ -95,6 +110,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-10T04:38:21Z",
+  "updated_at": "2025-05-22T15:25:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1523.xml"
 }

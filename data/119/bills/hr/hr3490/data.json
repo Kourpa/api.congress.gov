@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Oversight and Government Reform.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-05-21",
+      "action_code": "",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-21",
+      "action_code": "",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by the Yeas and Nays: 42 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Oversight and Government Reform",
@@ -48,7 +70,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-05-21",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -67,8 +90,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-19",
+  "status": "REPORTED",
+  "status_at": "2025-05-21",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -88,6 +111,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-20T08:05:46Z",
+  "updated_at": "2025-05-22T12:22:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3490.xml"
 }

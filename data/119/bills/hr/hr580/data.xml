@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="580" updated="2025-05-01T21:02:15Z">
-  <state datetime="2025-01-21">REFERRED</state>
+<bill session="119" type="h" number="580" updated="2025-05-22T12:22:24Z">
+  <state datetime="2025-05-21">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-21"/>
+    <unknown datetime="2025-05-21"/>
   </status>
   <introduced datetime="2025-01-21"/>
   <titles>
@@ -32,16 +32,39 @@
     <action datetime="2025-01-21">
       <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Rules, the Budget, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-05-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-05-21" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 23 - 19.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>
     <committee code="HSRU" name="House Rules" subcommittee="" activity="Referred To"/>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Competition and antitrust"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Federal Reserve System"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Labor market"/>
+    <term name="Monetary policy"/>
+    <term name="Office of Management and Budget (OMB)"/>
+    <term name="Performance measurement"/>
+    <term name="Small business"/>
+    <term name="State and local finance"/>
   </subjects>
   <amendments/>
 </bill>

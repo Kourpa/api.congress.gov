@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1092" updated="2025-05-14T16:14:19Z">
-  <state datetime="2025-03-24">REFERRED</state>
+<bill session="119" type="s" number="1092" updated="2025-05-22T12:18:15Z">
+  <state datetime="2025-05-21">REPORTED</state>
   <status>
-    <introduced datetime="2025-03-24"/>
+    <unknown datetime="2025-05-21"/>
   </status>
   <introduced datetime="2025-03-24"/>
   <titles>
@@ -29,15 +29,34 @@
     <action datetime="2025-03-24" state="REFERRED">
       <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
     </action>
+    <action datetime="2025-05-21" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="2269" relation="identical"/>
   </relatedbills>
   <subjects>
     <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer affairs"/>
+    <term name="Cosmetics and personal care"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental education"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Federal Trade Commission (FTC)"/>
+    <term name="Government information and archives"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Manufacturing"/>
+    <term name="Marketing and advertising"/>
+    <term name="Pest management"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Solid waste and recycling"/>
+    <term name="Water quality"/>
   </subjects>
   <amendments/>
 </bill>
