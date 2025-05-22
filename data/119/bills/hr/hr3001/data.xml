@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3001" updated="2025-05-16T03:38:17Z">
+<bill session="119" type="h" number="3001" updated="2025-05-22T17:45:52Z">
   <state datetime="2025-04-24">REFERRED</state>
   <status>
     <introduced datetime="2025-04-24"/>
@@ -110,7 +110,13 @@
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="3338" relation="unknown"/>
+    <bill session="119" type="h" number="155" relation="unknown"/>
+    <bill session="119" type="h" number="1685" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
   <amendments/>
 </bill>

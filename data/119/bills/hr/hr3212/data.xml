@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3212" updated="2025-05-14T04:23:22Z">
+<bill session="119" type="h" number="3212" updated="2025-05-22T16:22:55Z">
   <state datetime="2025-05-06">REFERRED</state>
   <status>
     <introduced datetime="2025-05-06"/>
@@ -29,7 +29,11 @@
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="1617" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
   <amendments/>
 </bill>
