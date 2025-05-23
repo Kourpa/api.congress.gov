@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="1051" updated="2025-05-23T02:53:16Z">
-  <state datetime="2025-03-13">REFERRED</state>
+<bill session="119" type="s" number="1051" updated="2025-05-23T10:58:17Z">
+  <state datetime="2025-05-22">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-03-13"/>
+    <unknown datetime="2025-05-22"/>
   </status>
   <introduced datetime="2025-03-13"/>
   <titles>
+    <title type="display">Historic Greenwood District&#8212;Black Wall Street National Monument Establishment Act</title>
     <title type="short" as="introduced">Historic Greenwood District&#8212;Black Wall Street National Monument Establishment Act</title>
     <title type="short" as="passed senate">Historic Greenwood District&#8212;Black Wall Street National Monument Establishment Act</title>
-    <title type="display">Historic Greenwood District&#8212;Black Wall Street National Monument Establishment Act</title>
     <title type="official" as="introduced">A bill to establish the Historic Greenwood District-Black Wall Street National Monument in the State of Oklahoma, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="L000575"/>
@@ -21,9 +21,15 @@
     <action datetime="2025-03-13" state="REFERRED">
       <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
+    <action datetime="2025-05-22">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-05-22" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

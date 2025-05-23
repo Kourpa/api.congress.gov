@@ -123,8 +123,35 @@
       "acted_at": "2025-05-21",
       "action_code": "",
       "references": [],
-      "text": "Received in the Senate.",
+      "text": "Received in the Senate, read twice.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-05-22",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 278.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-22",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by motion.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-22",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "279",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 51 - 45. Record Vote Number: 279.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -392,6 +419,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-04-30T17:42:57-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-05-22",
     "vetoed": false
   },
   "introduced_at": "2025-04-02",
@@ -421,8 +450,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-04-30T17:42:57-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-05-22",
   "subjects": [
     "Air quality",
     "California",
@@ -456,6 +485,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-22T12:16:01Z",
+  "updated_at": "2025-05-23T10:56:36Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres87.xml"
 }

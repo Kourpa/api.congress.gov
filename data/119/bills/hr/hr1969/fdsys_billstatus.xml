@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1969</number>
-    <updateDate>2025-05-23T02:53:16Z</updateDate>
-    <updateDateIncludingText>2025-05-23T02:53:16Z</updateDateIncludingText>
+    <updateDate>2025-05-23T10:56:37Z</updateDate>
+    <updateDateIncludingText>2025-05-23T10:56:37Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,18 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 44 (Monday, March 10, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mrs. MILLER-MEEKS:H.R. 1969.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the US Constitution[Page H1067]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>ssva00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-05-22T17:25:40Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsvr00</systemCode>
         <name>Veterans' Affairs Committee</name>
@@ -60,6 +72,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-05-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2025-05-22</actionDate>
         <actionTime>06:58:52</actionTime>
@@ -437,8 +463,7 @@
     </textVersions>
     <latestAction>
       <actionDate>2025-05-22</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>06:58:52</actionTime>
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
