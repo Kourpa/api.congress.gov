@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1469" updated="2025-05-20T08:05:55Z">
-  <state datetime="2025-02-21">REFERRED</state>
+<bill session="119" type="h" number="1469" updated="2025-05-23T08:05:54Z">
+  <state datetime="2025-05-20">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-21"/>
+    <unknown datetime="2025-05-20"/>
   </status>
   <introduced datetime="2025-02-21"/>
   <titles>
@@ -22,9 +22,15 @@
     <action datetime="2025-02-21" state="REFERRED">
       <text>Referred to the House Committee on Financial Services.</text>
     </action>
+    <action datetime="2025-05-20">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-05-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 51 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
