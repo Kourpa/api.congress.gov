@@ -46,7 +46,12 @@
       "bill_ids": [
         "hres436-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2235-2357",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 436.",
       "type": "action"
     },
@@ -77,7 +82,12 @@
       "committees": [
         "HSBU"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CRH2356",
+          "type": null
+        }
+      ],
       "text": "Mrs. Trahan moved to recommit to the Committee on the Budget.",
       "type": "action"
     },
@@ -102,7 +112,12 @@
       "acted_at": "2025-05-22T06:56:37-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2235-2234",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "145",
       "status": "PASS_OVER:HOUSE",
@@ -131,7 +146,10 @@
   "bill_id": "hr1-119",
   "bill_type": "hr",
   "by_request": false,
-  "committee_reports": [],
+  "committee_reports": [
+    "H. Rept. 119-106",
+    "H. Rept. 119-106,Book 2"
+  ],
   "committees": [
     {
       "activity": [
@@ -211,6 +229,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-23T12:09:13Z",
+  "updated_at": "2025-05-27T16:51:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1.xml"
 }

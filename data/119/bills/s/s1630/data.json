@@ -281,7 +281,7 @@
     {
       "bill_id": "hr3235-119",
       "identified_by": "CRS",
-      "reason": "identical",
+      "reason": "related",
       "type": "bill"
     }
   ],
@@ -296,8 +296,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-05-06",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Health"
+  ],
+  "subjects_top_term": "Health",
   "summary": null,
   "titles": [
     {
@@ -329,6 +331,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-22T17:19:06Z",
+  "updated_at": "2025-05-27T14:57:01Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1630.xml"
 }
