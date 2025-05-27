@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="730" updated="2025-04-21T12:24:17Z">
+<bill session="119" type="h" number="730" updated="2025-05-27T13:04:12Z">
   <state datetime="2025-03-24T14:37:00-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-03-24T14:37:00-04:00"/>
@@ -48,7 +48,9 @@
     <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referred To"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="1602" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Education"/>
     <term name="Academic performance and assessments"/>
