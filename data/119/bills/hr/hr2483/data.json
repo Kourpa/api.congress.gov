@@ -68,24 +68,69 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 13.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-05-29",
+      "action_code": "H12200",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-114, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-29",
+      "action_code": "H12300",
+      "committees": [
+        "HSED"
+      ],
+      "references": [],
+      "text": "Committee on Education and Workforce discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-29",
+      "action_code": "H12300",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee on the Judiciary discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-29",
+      "action_code": "H12300",
+      "committees": [
+        "HSBA"
+      ],
+      "references": [],
+      "text": "Committee on Financial Services discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-05-29",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "84",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 84.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
   "bill_id": "hr2483-119",
   "bill_type": "hr",
   "by_request": false,
-  "committee_reports": [],
+  "committee_reports": [
+    "H. Rept. 119-114"
+  ],
   "committees": [
     {
       "activity": [
-        "Markup By",
-        "Referred To"
-      ],
-      "committee": "House Energy and Commerce",
-      "committee_id": "HSIF"
-    },
-    {
-      "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Financial Services",
@@ -93,6 +138,7 @@
     },
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Judiciary",
@@ -100,10 +146,20 @@
     },
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Education and Workforce",
       "committee_id": "HSED"
+    },
+    {
+      "activity": [
+        "Reported By",
+        "Markup By",
+        "Referred To"
+      ],
+      "committee": "House Energy and Commerce",
+      "committee_id": "HSIF"
     }
   ],
   "congress": "119",
@@ -235,6 +291,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-30T02:53:20Z",
+  "updated_at": "2025-05-30T12:26:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2483.xml"
 }
