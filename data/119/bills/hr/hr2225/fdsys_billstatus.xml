@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2225</number>
-    <updateDate>2025-06-03T21:09:23Z</updateDate>
-    <updateDateIncludingText>2025-06-03T21:09:23Z</updateDateIncludingText>
+    <updateDate>2025-06-04T08:06:29Z</updateDate>
+    <updateDateIncludingText>2025-06-04T08:06:29Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2025-06-03T16:57:19Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-05-20T20:38:00Z</date>
@@ -50,6 +54,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 96.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00096</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-126.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-126.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-05-20</actionDate>
         <committees>
@@ -401,6 +450,17 @@
         <sponsorshipDate>2025-05-20</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>M001188</bioguideId>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <firstName>Grace</firstName>
+        <lastName>Meng</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <district>6</district>
+        <sponsorshipDate>2025-06-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Finance and Financial Sector</name>
@@ -428,6 +488,16 @@
     <title>Access to Small Business Investor Capital Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Access to Small Business Investor Capital Act</title>
+        <updateDate>2025-06-04T06:53:18Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Access to Small Business Investor Capital Act</title>
@@ -452,6 +522,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-06-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2225rh/xml/BILLS-119hr2225rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-18T04:00:00Z</date>
         <formats>
@@ -462,8 +541,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-20</actionDate>
-      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <actionDate>2025-06-03</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 96.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

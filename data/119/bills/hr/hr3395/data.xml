@@ -1,16 +1,18 @@
-<bill session="119" type="h" number="3395" updated="2025-05-27T15:00:47Z">
+<bill session="119" type="h" number="3395" updated="2025-06-04T08:06:44Z">
   <state datetime="2025-05-20">REPORTED</state>
   <status>
     <unknown datetime="2025-05-20"/>
   </status>
   <introduced datetime="2025-05-14"/>
   <titles>
-    <title type="display">Middle Market IPO Cost Act</title>
     <title type="short" as="introduced">Middle Market IPO Cost Act</title>
+    <title type="short" as="reported to house">Middle Market IPO Cost Act</title>
+    <title type="display">Middle Market IPO Cost Act</title>
     <title type="official" as="introduced">To require the Comptroller General of the United States to carry out a study of the costs associated with small- and medium-sized companies to undertake initial public offerings.</title>
   </titles>
   <sponsor bioguide_id="H001047"/>
   <cosponsors>
+    <cosponsor bioguide_id="L000599" joined="2025-06-03"/>
     <cosponsor bioguide_id="S000250" joined="2025-05-19"/>
   </cosponsors>
   <actions>
@@ -26,13 +28,25 @@
     <action datetime="2025-05-20" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 0.</text>
     </action>
+    <action datetime="2025-06-03">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-128.</text>
+    </action>
+    <calendar datetime="2025-06-03" calendar="Union" number="98">
+      <text>Placed on the Union Calendar, Calendar No. 98.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Finance and financial sector"/>
+    <term name="Accounting and auditing"/>
+    <term name="Congressional oversight"/>
+    <term name="Financial services and investments"/>
+    <term name="Government studies and investigations"/>
+    <term name="Securities"/>
+    <term name="Small business"/>
   </subjects>
   <amendments/>
 </bill>

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3394</number>
-    <updateDate>2025-05-27T15:05:50Z</updateDate>
-    <updateDateIncludingText>2025-05-27T15:05:50Z</updateDateIncludingText>
+    <updateDate>2025-06-04T08:05:58Z</updateDate>
+    <updateDateIncludingText>2025-06-04T08:05:58Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-06-03T16:45:22Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-05-20T20:00:00Z</date>
           </item>
@@ -32,6 +36,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 85.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00085</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-115.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-115.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-05-20</actionDate>
         <committees>
@@ -151,7 +200,16 @@
       <name>Finance and Financial Sector</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Financial services and investments</name>
+          <updateDate>2025-06-03T13:20:56Z</updateDate>
+        </item>
+        <item>
+          <name>Securities</name>
+          <updateDate>2025-06-03T13:20:56Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Finance and Financial Sector</name>
         <updateDate>2025-05-27T15:05:50Z</updateDate>
@@ -159,6 +217,16 @@
     </subjects>
     <title>Fair Investment Opportunities for Professional Experts Act</title>
     <titles>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Fair Investment Opportunities for Professional Experts Act</title>
+        <updateDate>2025-06-04T06:08:17Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
@@ -184,6 +252,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-06-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr3394rh/xml/BILLS-119hr3394rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-05-14T04:00:00Z</date>
         <formats>
@@ -194,8 +271,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-20</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 45 - 1.</text>
+      <actionDate>2025-06-03</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 85.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

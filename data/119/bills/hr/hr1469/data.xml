@@ -1,13 +1,15 @@
-<bill session="119" type="h" number="1469" updated="2025-05-23T08:05:54Z">
+<bill session="119" type="h" number="1469" updated="2025-06-04T08:06:06Z">
   <state datetime="2025-05-20">REPORTED</state>
   <status>
     <unknown datetime="2025-05-20"/>
   </status>
   <introduced datetime="2025-02-21"/>
   <titles>
-    <title type="display">Senior Security Act of 2025</title>
     <title type="short" as="introduced">National Senior Investor Initiative Act of 2025</title>
     <title type="short" as="introduced">Senior Security Act of 2025</title>
+    <title type="short" as="reported to house">National Senior Investor Initiative Act of 2025</title>
+    <title type="short" as="reported to house">Senior Security Act of 2025</title>
+    <title type="display">Senior Security Act of 2025</title>
     <title type="official" as="introduced">To create an interdivisional taskforce at the Securities and Exchange Commission for senior investors.</title>
   </titles>
   <sponsor bioguide_id="G000583"/>
@@ -28,13 +30,26 @@
     <action datetime="2025-05-20" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 51 - 0.</text>
     </action>
+    <action datetime="2025-06-03">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-124.</text>
+    </action>
+    <calendar datetime="2025-06-03" calendar="Union" number="94">
+      <text>Placed on the Union Calendar, Calendar No. 94.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Finance and financial sector"/>
+    <term name="Aging"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Congressional oversight"/>
+    <term name="Financial literacy"/>
+    <term name="Financial services and investments"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government studies and investigations"/>
   </subjects>
   <amendments/>
 </bill>

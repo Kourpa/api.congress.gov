@@ -1,13 +1,14 @@
-<bill session="119" type="h" number="3339" updated="2025-05-23T08:05:52Z">
+<bill session="119" type="h" number="3339" updated="2025-06-04T08:06:20Z">
   <state datetime="2025-05-20">REPORTED</state>
   <status>
     <unknown datetime="2025-05-20"/>
   </status>
   <introduced datetime="2025-05-13"/>
   <titles>
+    <title type="short" as="introduced">Equal Opportunity for All Investors Act of 2025</title>
+    <title type="short" as="reported to house">Equal Opportunity for All Investors Act of 2025</title>
     <title type="official" as="introduced">To require certification examinations for accredited investors, and for other purposes.</title>
     <title type="display">Equal Opportunity for All Investors Act of 2025</title>
-    <title type="short" as="introduced">Equal Opportunity for All Investors Act of 2025</title>
   </titles>
   <sponsor bioguide_id="F000474"/>
   <cosponsors>
@@ -29,13 +30,22 @@
     <action datetime="2025-05-20" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 2.</text>
     </action>
+    <action datetime="2025-06-03">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-127.</text>
+    </action>
+    <calendar datetime="2025-06-03" calendar="Union" number="97">
+      <text>Placed on the Union Calendar, Calendar No. 97.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Financial services and investments"/>
+    <term name="Securities"/>
   </subjects>
   <amendments/>
 </bill>

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3395</number>
-    <updateDate>2025-05-27T15:00:47Z</updateDate>
-    <updateDateIncludingText>2025-05-27T15:00:47Z</updateDateIncludingText>
+    <updateDate>2025-06-04T08:06:44Z</updateDate>
+    <updateDateIncludingText>2025-06-04T08:06:44Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-06-03T16:58:19Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-05-20T20:08:00Z</date>
           </item>
@@ -32,6 +36,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 98.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00098</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-128.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-128.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-05-20</actionDate>
         <committees>
@@ -124,12 +173,48 @@
         <sponsorshipDate>2025-05-19</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>L000599</bioguideId>
+        <fullName>Rep. Lawler, Michael [R-NY-17]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Lawler</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <district>17</district>
+        <sponsorshipDate>2025-06-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Finance and Financial Sector</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Accounting and auditing</name>
+          <updateDate>2025-05-28T16:07:17Z</updateDate>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+          <updateDate>2025-05-28T16:07:17Z</updateDate>
+        </item>
+        <item>
+          <name>Financial services and investments</name>
+          <updateDate>2025-05-28T16:07:17Z</updateDate>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+          <updateDate>2025-05-28T16:07:17Z</updateDate>
+        </item>
+        <item>
+          <name>Securities</name>
+          <updateDate>2025-05-28T16:07:17Z</updateDate>
+        </item>
+        <item>
+          <name>Small business</name>
+          <updateDate>2025-05-28T16:07:17Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Finance and Financial Sector</name>
         <updateDate>2025-05-27T15:00:47Z</updateDate>
@@ -137,6 +222,16 @@
     </subjects>
     <title>Middle Market IPO Cost Act</title>
     <titles>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Middle Market IPO Cost Act</title>
+        <updateDate>2025-06-04T06:08:17Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
@@ -162,6 +257,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-06-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr3395rh/xml/BILLS-119hr3395rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-05-14T04:00:00Z</date>
         <formats>
@@ -172,8 +276,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-20</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 0.</text>
+      <actionDate>2025-06-03</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 98.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

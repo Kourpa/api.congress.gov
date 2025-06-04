@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="1713" updated="2025-05-24T08:05:49Z">
+<bill session="119" type="h" number="1713" updated="2025-06-04T08:06:11Z">
   <state datetime="2025-03-05">REPORTED</state>
   <status>
     <unknown datetime="2025-03-05"/>
   </status>
   <introduced datetime="2025-02-27"/>
   <titles>
-    <title type="display">Agricultural Risk Review Act of 2025</title>
     <title type="short" as="introduced">Agricultural Risk Review Act of 2025</title>
+    <title type="short" as="reported to house">Agricultural Risk Review Act of 2025</title>
+    <title type="display">Agricultural Risk Review Act of 2025</title>
     <title type="official" as="introduced">To amend the Defense Production Act of 1950 to include the Secretary of Agriculture as a member of the Committee on Foreign Investment in the United States, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="L000491"/>
@@ -51,11 +52,23 @@
     <action datetime="2025-03-05" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 0.</text>
     </action>
+    <action datetime="2025-06-03">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-129, Part I.</text>
+    </action>
+    <action datetime="2025-06-03">
+      <text>Committee on Energy and Commerce discharged.</text>
+    </action>
+    <action datetime="2025-06-03">
+      <text>Committee on Foreign Affairs discharged.</text>
+    </action>
+    <calendar datetime="2025-06-03" calendar="Union" number="99">
+      <text>Placed on the Union Calendar, Calendar No. 99.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
-    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="1576" relation="unknown"/>

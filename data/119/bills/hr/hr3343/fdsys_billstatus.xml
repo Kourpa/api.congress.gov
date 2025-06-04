@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3343</number>
-    <updateDate>2025-05-23T08:05:57Z</updateDate>
-    <updateDateIncludingText>2025-05-23T08:05:57Z</updateDateIncludingText>
+    <updateDate>2025-06-04T08:05:42Z</updateDate>
+    <updateDateIncludingText>2025-06-04T08:05:42Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-06-03T16:49:40Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-05-20T20:10:00Z</date>
           </item>
@@ -32,6 +36,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 89.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00089</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-119.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-119.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-05-20</actionDate>
         <committees>
@@ -128,7 +177,36 @@
       <name>Finance and Financial Sector</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Accounting and auditing</name>
+          <updateDate>2025-06-02T20:06:42Z</updateDate>
+        </item>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+          <updateDate>2025-06-02T20:06:42Z</updateDate>
+        </item>
+        <item>
+          <name>Business records</name>
+          <updateDate>2025-06-02T20:06:42Z</updateDate>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+          <updateDate>2025-06-02T20:06:42Z</updateDate>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+          <updateDate>2025-06-02T20:06:42Z</updateDate>
+        </item>
+        <item>
+          <name>Securities</name>
+          <updateDate>2025-06-02T20:06:42Z</updateDate>
+        </item>
+        <item>
+          <name>Securities and Exchange Commission (SEC)</name>
+          <updateDate>2025-06-02T20:06:42Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Finance and Financial Sector</name>
         <updateDate>2025-05-22T17:57:32Z</updateDate>
@@ -136,6 +214,16 @@
     </subjects>
     <title>Greenlighting Growth Act</title>
     <titles>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Greenlighting Growth Act</title>
+        <updateDate>2025-06-04T06:53:18Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
         <titleTypeCode>6</titleTypeCode>
@@ -161,6 +249,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-06-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr3343rh/xml/BILLS-119hr3343rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-05-13T04:00:00Z</date>
         <formats>
@@ -171,8 +268,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-20</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 2.</text>
+      <actionDate>2025-06-03</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 89.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
