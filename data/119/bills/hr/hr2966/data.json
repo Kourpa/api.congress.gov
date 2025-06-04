@@ -58,6 +58,19 @@
       "text": "Placed on the Union Calendar, Calendar No. 83.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-06-03T19:20:02-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres458-119",
+        "hr2483-119",
+        "hr2931-119",
+        "hr2987-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 458 Reported to House. Rule provides for consideration of H.R. 2483, H.R. 2931, H.R. 2966 and H.R. 2987. The resolution provides for consideration of H.R. 2483 under a structured rule and for consideration of H.R. 2931, H.R. 2966, and H.R. 2987 under a closed rule. The resolution provides for one hour of debate and one motion to recommit on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -103,7 +116,14 @@
   "number": "2966",
   "official_title": "To require the Administrator of the Small Business Administration to require an applicant for certain loans of the Administration to provide certain citizenship status documentation, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres458-119",
+      "identified_by": "House",
+      "reason": "procedurally-related",
+      "type": "bill"
+    }
+  ],
   "short_title": "American Entrepreneurs First Act of 2025",
   "sponsor": {
     "bioguide_id": "V000134",
@@ -160,6 +180,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-03T14:09:32Z",
+  "updated_at": "2025-06-04T08:06:46Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2966.xml"
 }

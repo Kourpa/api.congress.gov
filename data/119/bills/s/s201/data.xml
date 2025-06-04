@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="201" updated="2025-06-04T03:23:27Z">
-  <state datetime="2025-01-23">REFERRED</state>
+<bill session="119" type="s" number="201" updated="2025-06-04T12:55:03Z">
+  <state datetime="2025-06-03">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-01-23"/>
+    <unknown datetime="2025-06-03"/>
   </status>
   <introduced datetime="2025-01-23"/>
   <titles>
@@ -26,9 +26,19 @@
     <action datetime="2025-03-11">
       <text>Committee on Veterans' Affairs. Hearings held.</text>
     </action>
+    <action datetime="2025-06-03">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2025-06-03">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S3209-3210" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-06-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Hearings By (Full Committee), Referred To"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Discharged From, Hearings By (Full Committee), Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="530" relation="unknown"/>
@@ -44,6 +54,8 @@
     <term name="Research administration and funding"/>
     <term name="Veterans' medical care"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s2296"/>
+  </amendments>
   <summary date="2025-03-04T16:11:00Z" status="Introduced in Senate"></summary>
 </bill>

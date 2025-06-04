@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>201</number>
-    <updateDate>2025-06-04T03:23:27Z</updateDate>
-    <updateDateIncludingText>2025-06-04T03:23:27Z</updateDateIncludingText>
+    <updateDate>2025-06-04T12:55:03Z</updateDate>
+    <updateDateIncludingText>2025-06-04T12:55:03Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -17,6 +17,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-06-03T22:06:46Z</date>
+          </item>
           <item>
             <name>Hearings By (full committee)</name>
             <date>2025-03-11T14:30:02Z</date>
@@ -47,6 +51,62 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S3209-3210)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-06-03</actionDate>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-03-11</actionDate>
         <committees>
@@ -190,7 +250,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>ACES Act of 2025</title>
-        <updateDate>2025-06-04T03:23:27Z</updateDate>
+        <updateDate>2025-06-04T10:58:18Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
@@ -219,6 +279,146 @@
         <billTextVersionCode>IS</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>2296</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2025-06-04T11:08:17Z</updateDate>
+        <latestAction>
+          <actionDate>2025-06-03</actionDate>
+          <text>Amendment SA 2296 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 2296</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/2296</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>K000377</bioguideId>
+            <fullName>Sen. Kelly, Mark [D-AZ]</fullName>
+            <firstName>Mark</firstName>
+            <lastName>Kelly</lastName>
+            <party>D</party>
+            <state>AZ</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>M000934</bioguideId>
+            <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+            <firstName>Jerry</firstName>
+            <lastName>Moran</lastName>
+            <party>R</party>
+            <state>KS</state>
+            <type>Submitted on behalf of</type>
+          </item>
+          <item>
+            <bioguideId>M000934</bioguideId>
+            <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+            <firstName>Jerry</firstName>
+            <lastName>Moran</lastName>
+            <party>R</party>
+            <state>KS</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>C001095</bioguideId>
+            <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+            <firstName>Tom</firstName>
+            <lastName>Cotton</lastName>
+            <party>R</party>
+            <state>AR</state>
+            <sponsorshipDate>2025-06-03</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2025-06-03T04:00:00Z</proposedDate>
+        <submittedDate>2025-06-03T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>201</number>
+          <title>ACES Act of 2025</title>
+          <updateDateIncludingText>2025-06-04</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2025-06-03</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2296 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2025-06-03</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2296 proposed by Senator Moran for Senator Kelly. In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2025-06-03</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-06-03</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-06-03</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 2296 proposed by Senator Moran for Senator Kelly.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-06-03</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 2296 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Engrossed in Senate</type>
@@ -240,8 +440,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-11</actionDate>
-      <text>Committee on Veterans' Affairs. Hearings held.</text>
+      <actionDate>2025-06-03</actionDate>
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

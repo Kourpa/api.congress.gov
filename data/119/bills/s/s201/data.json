@@ -28,9 +28,50 @@
       "references": [],
       "text": "Committee on Veterans' Affairs. Hearings held.",
       "type": "hearings"
+    },
+    {
+      "acted_at": "2025-06-03",
+      "action_code": "",
+      "committees": [
+        "SSVA"
+      ],
+      "references": [],
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-03",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S3209-3210",
+          "type": "consideration"
+        }
+      ],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-03",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt2296-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "2296"
+    }
+  ],
   "bill_id": "s201-119",
   "bill_type": "s",
   "by_request": false,
@@ -38,6 +79,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Hearings By (full committee)",
         "Referred To"
       ],
@@ -84,6 +126,8 @@
     "active_at": "2025-03-11",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-06-03",
     "vetoed": false
   },
   "introduced_at": "2025-01-23",
@@ -107,8 +151,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-23",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-06-03",
   "subjects": [
     "Armed forces and national security",
     "Aviation and airports",
@@ -157,6 +201,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-04T03:23:27Z",
+  "updated_at": "2025-06-04T12:55:03Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s201.xml"
 }
