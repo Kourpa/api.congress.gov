@@ -1,7 +1,7 @@
-<bill session="119" type="hr" number="458" updated="2025-06-04T21:06:12Z">
-  <state datetime="2025-06-03">INTRODUCED</state>
+<bill session="119" type="hr" number="458" updated="2025-06-05T10:32:30Z">
+  <state datetime="2025-06-04T14:03:39-04:00">PASSED:SIMPLERES</state>
   <status>
-    <introduced datetime="2025-06-03"/>
+    <unknown datetime="2025-06-04T14:03:39-04:00"/>
   </status>
   <introduced datetime="2025-06-03"/>
   <titles>
@@ -20,6 +20,27 @@
     <calendar datetime="2025-06-03" calendar="House" number="30">
       <text>Placed on the House Calendar, Calendar No. 30.</text>
     </calendar>
+    <action datetime="2025-06-04T12:14:20-04:00">
+      <text>Considered as privileged matter.</text>
+    </action>
+    <action datetime="2025-06-04T12:19:03-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H. Res. 458.</text>
+    </action>
+    <action datetime="2025-06-04T13:15:39-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 458, the Chair put the question on ordering the previous question and by voice vote announced that the ayes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-06-04T13:32:31-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2025-06-04T13:57:23-04:00">
+      <text>On ordering the previous question Agreed to by the Yeas and Nays: 213 - 206 (Roll no. 148).</text>
+    </action>
+    <vote how="roll" type="vote" roll="149" datetime="2025-06-04T14:03:39-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to by recorded vote: 217 - 208 (Roll no. 149).</text>
+    </vote>
+    <action datetime="2025-06-04T14:03:40-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSRU" name="House Rules" subcommittee="" activity="Reported Original Measure"/>
@@ -30,7 +51,9 @@
     <bill session="119" type="h" number="2966" relation="unknown"/>
     <bill session="119" type="h" number="2987" relation="procedurally-related"/>
   </relatedbills>
-  <subjects/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
   <amendments/>
   <committee-reports>
     <report>H. Rept. 119-130</report>
