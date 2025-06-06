@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Foreign Relations.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-05",
+      "action_code": "",
+      "committees": [
+        "SSFR"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Foreign Relations",
@@ -68,7 +80,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-05",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -87,8 +100,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-22",
+  "status": "REPORTED",
+  "status_at": "2025-06-05",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -115,6 +128,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-04T14:53:18Z",
+  "updated_at": "2025-06-06T11:03:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1900.xml"
 }

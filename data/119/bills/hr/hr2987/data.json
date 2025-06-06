@@ -81,9 +81,114 @@
       "references": [],
       "text": "Rule H. Res. 458 passed House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-06-05T12:50:50-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres458-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 458.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-05T12:50:55-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr2483-119",
+        "hr2931-119",
+        "hr2966-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 2483, H.R. 2931, H.R. 2966 and H.R. 2987. The resolution provides for consideration of H.R. 2483 under a structured rule and for consideration of H.R. 2931, H.R. 2966, and H.R. 2987 under a closed rule. The resolution provides for one hour of debate and one motion to recommit on each bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-05T12:52:16-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 2987.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-05T13:13:24-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-05T13:13:44-04:00",
+      "action_code": "H36200",
+      "committees": [
+        "HSSM"
+      ],
+      "references": [],
+      "text": "Ms. Velazquez moved to recommit to the Committee on Small Business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-05T13:13:57-04:00",
+      "action_code": "H8A000",
+      "references": [],
+      "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-05T13:14:10-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2987, the Chair put the question on motion to recommit and by voice vote, announced that the noes had prevailed. Ms. Velazquez demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-05T16:50:30-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-05T16:57:08-04:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSSM"
+      ],
+      "references": [],
+      "text": "On motion to recommit Failed by the Yeas and Nays: 201 - 212 (Roll no. 154).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-05T17:03:23-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "155",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 214 - 198 (Roll no. 155).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-06-05T17:03:26-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt28-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "28"
+    }
+  ],
   "bill_id": "hr2987-119",
   "bill_type": "hr",
   "by_request": false,
@@ -93,6 +198,8 @@
   "committees": [
     {
       "activity": [
+        "Unknown",
+        "Unknown",
         "Reported By",
         "Markup By",
         "Referred To"
@@ -109,6 +216,8 @@
     "active_at": "2025-04-30",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-06-05T17:03:23-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-04-24",
@@ -132,8 +241,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-04-30",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-06-05T17:03:23-04:00",
   "subjects": [
     "Administrative remedies",
     "Commerce",
@@ -193,6 +302,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-05T22:06:13Z",
+  "updated_at": "2025-06-06T08:09:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2987.xml"
 }

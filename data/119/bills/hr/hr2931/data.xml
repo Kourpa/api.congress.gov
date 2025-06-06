@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2931" updated="2025-06-05T22:06:13Z">
-  <state datetime="2025-04-30">REPORTED</state>
+<bill session="119" type="h" number="2931" updated="2025-06-06T08:09:12Z">
+  <state datetime="2025-06-05T16:50:26-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-04-30"/>
+    <unknown datetime="2025-06-05T16:50:26-04:00"/>
   </status>
   <introduced datetime="2025-04-17"/>
   <titles>
@@ -36,9 +36,42 @@
     <action datetime="2025-06-03T19:20:02-04:00">
       <text>Rules Committee Resolution H. Res. 458 Reported to House. Rule provides for consideration of H.R. 2483, H.R. 2931, H.R. 2966 and H.R. 2987. The resolution provides for consideration of H.R. 2483 under a structured rule and for consideration of H.R. 2931, H.R. 2966, and H.R. 2987 under a closed rule. The resolution provides for one hour of debate and one motion to recommit on each bill.</text>
     </action>
+    <action datetime="2025-06-05T12:14:38-04:00">
+      <text>Considered under the provisions of rule H. Res. 458.</text>
+    </action>
+    <action datetime="2025-06-05T12:14:43-04:00">
+      <text>Rule provides for consideration of H.R. 2483, H.R. 2931, H.R. 2966 and H.R. 2987. The resolution provides for consideration of H.R. 2483 under a structured rule and for consideration of H.R. 2931, H.R. 2966, and H.R. 2987 under a closed rule. The resolution provides for one hour of debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2025-06-05T12:16:20-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2931.</text>
+    </action>
+    <action datetime="2025-06-05T12:49:29-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-06-05T12:50:08-04:00">
+      <text>Mr. Cisneros moved to recommit to the Committee on Small Business.</text>
+    </action>
+    <action datetime="2025-06-05T12:50:16-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2025-06-05T12:50:34-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2931, the Chair put the question on motion to recommit and by voice vote, announced that the noes had prevailed. Mr. Cisneros demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-06-05T16:16:25-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2025-06-05T16:43:17-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 202 - 210 (Roll no. 152).</text>
+    </action>
+    <vote how="roll" type="vote" roll="153" datetime="2025-06-05T16:50:26-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 211 - 199 (Roll no. 153).</text>
+    </vote>
+    <action datetime="2025-06-05T16:50:28-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>
+    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="458" relation="procedurally-related"/>
@@ -52,7 +85,9 @@
     <term name="Small Business Administration"/>
     <term name="State and local government operations"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h27"/>
+  </amendments>
   <summary date="2025-06-03T13:09:06Z" status="Introduced in House"></summary>
   <committee-reports>
     <report>H. Rept. 119-110</report>

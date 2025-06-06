@@ -22,6 +22,17 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on Foreign Relations.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-05",
+      "action_code": "",
+      "committees": [
+        "SSFR"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -32,6 +43,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Foreign Relations",
@@ -91,6 +103,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "H000273",
+      "district": null,
+      "name": "Hickenlooper, John W.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-06-05",
+      "state": "CO",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "K000384",
       "district": null,
       "name": "Kaine, Tim",
@@ -127,6 +149,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-06-03",
       "state": "GA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "P000595",
+      "district": null,
+      "name": "Peters, Gary C.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-06-05",
+      "state": "MI",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -173,7 +205,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-05",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -192,8 +225,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-14",
+  "status": "REPORTED",
+  "status_at": "2025-06-05",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -213,6 +246,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-06-04T10:56:23Z",
+  "updated_at": "2025-06-06T10:56:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres227.xml"
 }
