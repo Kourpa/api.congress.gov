@@ -71,6 +71,63 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 458 Reported to House. Rule provides for consideration of H.R. 2483, H.R. 2931, H.R. 2966 and H.R. 2987. The resolution provides for consideration of H.R. 2483 under a structured rule and for consideration of H.R. 2931, H.R. 2966, and H.R. 2987 under a closed rule. The resolution provides for one hour of debate and one motion to recommit on each bill.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-06-06T09:14:13-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres458-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 458.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-06T09:14:18-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr2483-119",
+        "hr2931-119",
+        "hr2987-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 2483, H.R. 2931, H.R. 2966 and H.R. 2987. The resolution provides for consideration of H.R. 2483 under a structured rule and for consideration of H.R. 2931, H.R. 2966, and H.R. 2987 under a closed rule. The resolution provides for one hour of debate and one motion to recommit on each bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-06T09:15:20-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 2966.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-06T09:42:43-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-06T10:17:21-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "156",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 217 - 190 (Roll no. 156).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-06-06T10:17:23-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -110,6 +167,8 @@
     "active_at": "2025-04-30",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-06-06T10:17:21-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-04-17",
@@ -133,8 +192,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-04-30",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-06-06T10:17:21-04:00",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Commerce",
@@ -152,13 +211,6 @@
   },
   "titles": [
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "American Entrepreneurs First Act of 2025",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -173,6 +225,20 @@
       "type": "short"
     },
     {
+      "as": "passed house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "American Entrepreneurs First Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "American Entrepreneurs First Act of 2025",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -180,6 +246,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-05T22:06:13Z",
+  "updated_at": "2025-06-07T08:06:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2966.xml"
 }
