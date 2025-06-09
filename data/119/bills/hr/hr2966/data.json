@@ -78,7 +78,12 @@
       "bill_ids": [
         "hres458-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2510-2515",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 458.",
       "type": "action"
     },
@@ -112,7 +117,12 @@
       "acted_at": "2025-06-06T10:17:21-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2510-2511",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "156",
       "status": "PASS_OVER:HOUSE",
@@ -253,6 +263,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-07T08:09:11Z",
+  "updated_at": "2025-06-09T12:14:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2966.xml"
 }
