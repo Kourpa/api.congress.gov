@@ -1,7 +1,7 @@
-<bill session="119" type="hr" number="480" updated="2025-06-06T08:18:18Z">
-  <state datetime="2025-06-05">REFERRED</state>
+<bill session="119" type="hr" number="480" updated="2025-06-10T08:05:42Z">
+  <state datetime="2025-06-09T19:10:40-04:00">PASSED:SIMPLERES</state>
   <status>
-    <introduced datetime="2025-06-05"/>
+    <unknown datetime="2025-06-09T19:10:40-04:00"/>
   </status>
   <introduced datetime="2025-06-05"/>
   <titles>
@@ -19,9 +19,24 @@
     <action datetime="2025-06-05" state="REFERRED">
       <text>Referred to the House Committee on House Administration.</text>
     </action>
+    <action datetime="2025-06-09T19:10:31-04:00">
+      <text>Mr. Steil asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2025-06-09">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2025-06-09T19:10:33-04:00">
+      <text>Considered by unanimous consent.</text>
+    </action>
+    <vote how="without objection" type="vote" datetime="2025-06-09T19:10:40-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="2025-06-09T19:10:45-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

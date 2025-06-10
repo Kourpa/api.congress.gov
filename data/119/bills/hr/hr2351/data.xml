@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2351" updated="2025-06-09T23:26:12Z">
-  <state datetime="2025-04-02">REPORTED</state>
+<bill session="119" type="h" number="2351" updated="2025-06-10T08:05:25Z">
+  <state datetime="2025-06-09T17:22:25-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-04-02"/>
+    <unknown datetime="2025-06-09T17:22:25-04:00"/>
   </status>
   <introduced datetime="2025-03-26"/>
   <titles>
@@ -38,6 +38,21 @@
     <calendar datetime="2025-06-06" calendar="Union" number="118">
       <text>Placed on the Union Calendar, Calendar No. 118.</text>
     </calendar>
+    <action datetime="2025-06-09T17:15:05-04:00">
+      <text>Mr. Ezell moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-06-09T17:15:14-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-06-09T17:15:17-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2351.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-06-09T17:22:25-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-06-09T17:22:27-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
