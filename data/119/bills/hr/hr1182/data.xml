@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1182" updated="2025-06-10T08:05:20Z">
+<bill session="119" type="h" number="1182" updated="2025-06-10T14:53:23Z">
   <state datetime="2025-06-09T17:55:38-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-06-09T17:55:38-04:00"/>
@@ -47,12 +47,14 @@
     </action>
     <action datetime="2025-06-09T17:49:08-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2552-2554" label="consideration"/>
     </action>
     <action datetime="2025-06-09T17:49:09-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1182.</text>
     </action>
     <vote how="by voice vote" type="vote" datetime="2025-06-09T17:55:38-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2552-2553" label="text"/>
     </vote>
     <action datetime="2025-06-09T17:55:41-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

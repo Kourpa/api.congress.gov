@@ -28,7 +28,12 @@
     {
       "acted_at": "2025-06-09T16:00:41-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2539-2542",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -49,7 +54,12 @@
     {
       "acted_at": "2025-06-09T19:03:06-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2559",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -57,7 +67,12 @@
       "acted_at": "2025-06-09T19:10:05-04:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2539",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "159",
       "status": "PASSED:SIMPLERES",
@@ -819,7 +834,11 @@
   "status": "PASSED:SIMPLERES",
   "status_at": "2025-06-09T19:10:05-04:00",
   "subjects": [
-    "Civil rights and liberties, minority issues"
+    "Civil rights and liberties, minority issues",
+    "Colorado",
+    "First Amendment rights",
+    "Religion",
+    "Violent crime"
   ],
   "subjects_top_term": "Civil rights and liberties, minority issues",
   "summary": {
@@ -844,6 +863,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-06-10T08:05:50Z",
+  "updated_at": "2025-06-10T15:26:00Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres481.xml"
 }
