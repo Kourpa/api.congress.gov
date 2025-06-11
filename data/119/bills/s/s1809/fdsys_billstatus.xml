@@ -3,14 +3,32 @@
   <version>3.0.0</version>
   <bill>
     <number>1809</number>
-    <updateDate>2025-06-10T11:03:18Z</updateDate>
-    <updateDateIncludingText>2025-06-10T11:03:18Z</updateDateIncludingText>
+    <updateDate>2025-06-11T11:03:16Z</updateDate>
+    <updateDateIncludingText>2025-06-11T11:03:16Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
     <introducedDate>2025-05-20</introducedDate>
     <congress>119</congress>
     <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>ssga22</systemCode>
+            <name>Governmental Operations and Border Management Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2025-06-10T16:01:34Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+      </item>
       <item>
         <systemCode>ssju00</systemCode>
         <name>Judiciary Committee</name>
@@ -25,6 +43,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-06-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga22</systemCode>
+            <name>Governmental Operations and Border Management Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs Subcommittee on Border Management, Federal Workforce, and Regulatory Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-05-20</actionDate>
         <committees>
@@ -144,6 +176,16 @@
         <sponsorshipDate>2025-06-09</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <firstName>Marsha</firstName>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <sponsorshipDate>2025-06-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <title>Drone Espionage Act</title>
     <titles>
@@ -151,7 +193,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Drone Espionage Act</title>
-        <updateDate>2025-06-10T11:03:18Z</updateDate>
+        <updateDate>2025-06-11T11:03:16Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -182,8 +224,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-20</actionDate>
-      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2025-06-10</actionDate>
+      <text>Committee on Homeland Security and Governmental Affairs Subcommittee on Border Management, Federal Workforce, and Regulatory Affairs. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

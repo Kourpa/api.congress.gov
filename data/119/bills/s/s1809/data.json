@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-10",
+      "action_code": "",
+      "committee": "Committee on Homeland Security and Governmental Affairs Subcommittee on Border Management, Federal Workforce, and Regulatory Affairs",
+      "committees": [
+        "SSGA"
+      ],
+      "references": [],
+      "text": "Committee on Homeland Security and Governmental Affairs Subcommittee on Border Management, Federal Workforce, and Regulatory Affairs. Hearings held.",
+      "type": "hearings"
     }
   ],
   "amendments": [],
@@ -25,6 +36,20 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [],
+      "committee": "Senate Homeland Security and Governmental Affairs",
+      "committee_id": "SSGA"
+    },
+    {
+      "activity": [
+        "Hearings By (subcommittee)"
+      ],
+      "committee": "Senate Homeland Security and Governmental Affairs",
+      "committee_id": "SSGA",
+      "subcommittee": "Subcommittee on Governmental Operations and Border Management",
+      "subcommittee_id": "22"
+    },
     {
       "activity": [
         "Referred To"
@@ -35,6 +60,16 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "B001243",
+      "district": null,
+      "name": "Blackburn, Marsha",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-06-10",
+      "state": "TN",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "B001305",
       "district": null,
@@ -118,7 +153,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-10",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -165,6 +201,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-10T11:03:18Z",
+  "updated_at": "2025-06-11T11:03:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1809.xml"
 }

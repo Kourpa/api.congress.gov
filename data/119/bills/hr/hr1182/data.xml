@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1182" updated="2025-06-11T08:05:16Z">
+<bill session="119" type="h" number="1182" updated="2025-06-11T12:11:12Z">
   <state datetime="2025-06-09T17:55:38-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-06-09T17:55:38-04:00"/>
@@ -60,8 +60,12 @@
     <action datetime="2025-06-09T17:55:41-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-06-10">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSPW14" name="House Transportation and Infrastructure" subcommittee="Railroads, Pipelines, and Hazardous Materials" activity="Referral"/>
   </committees>
@@ -81,4 +85,7 @@
   </subjects>
   <amendments/>
   <summary date="2025-06-06T13:06:36Z" status="Introduced in House"></summary>
+  <committee-reports>
+    <report>H. Rept. 119-141</report>
+  </committee-reports>
 </bill>
