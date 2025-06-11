@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="421" updated="2025-03-28T18:25:08Z">
-  <state datetime="2025-01-15">REFERRED</state>
+<bill session="119" type="h" number="421" updated="2025-06-11T08:05:58Z">
+  <state datetime="2025-06-10">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-15"/>
+    <unknown datetime="2025-06-10"/>
   </status>
   <introduced datetime="2025-01-15"/>
   <titles>
@@ -31,11 +31,17 @@
     <action datetime="2025-01-15">
       <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Small Business, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-06-10">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-06-10" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 13 - 12.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Referred To"/>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

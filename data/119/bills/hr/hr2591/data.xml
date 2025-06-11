@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2591" updated="2025-06-10T08:05:46Z">
+<bill session="119" type="h" number="2591" updated="2025-06-11T08:06:14Z">
   <state datetime="2025-04-02">REFERRED</state>
   <status>
     <introduced datetime="2025-04-02"/>
@@ -14,6 +14,7 @@
     <cosponsor bioguide_id="B001298" joined="2025-05-23"/>
     <cosponsor bioguide_id="B001301" joined="2025-05-15"/>
     <cosponsor bioguide_id="C001112" joined="2025-06-02"/>
+    <cosponsor bioguide_id="C001072" joined="2025-06-10"/>
     <cosponsor bioguide_id="D000629" joined="2025-05-15"/>
     <cosponsor bioguide_id="F000466" joined="2025-05-15"/>
     <cosponsor bioguide_id="H001091" joined="2025-06-02"/>
@@ -25,6 +26,7 @@
     <cosponsor bioguide_id="M001219" joined="2025-06-09"/>
     <cosponsor bioguide_id="N000002" joined="2025-05-23"/>
     <cosponsor bioguide_id="N000147" joined="2025-05-21"/>
+    <cosponsor bioguide_id="O000086" joined="2025-06-10"/>
     <cosponsor bioguide_id="R000579" joined="2025-06-09"/>
     <cosponsor bioguide_id="S001212" joined="2025-04-02"/>
     <cosponsor bioguide_id="T000468" joined="2025-06-09"/>
@@ -38,9 +40,13 @@
     <action datetime="2025-04-02" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2025-04-03">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW05" name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
