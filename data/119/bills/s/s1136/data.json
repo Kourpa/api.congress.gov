@@ -17,6 +17,39 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-10",
+      "action_code": "",
+      "committee": "Committee on Homeland Security and Governmental Affairs Subcommittee on Border Management, Federal Workforce, and Regulatory Affairs",
+      "committees": [
+        "SSGA"
+      ],
+      "references": [],
+      "text": "Committee on Homeland Security and Governmental Affairs Subcommittee on Border Management, Federal Workforce, and Regulatory Affairs. Hearings held.",
+      "type": "hearings"
+    },
+    {
+      "acted_at": "2025-06-10",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-10",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,10 +60,25 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
       "committee_id": "SSJU"
+    },
+    {
+      "activity": [],
+      "committee": "Senate Homeland Security and Governmental Affairs",
+      "committee_id": "SSGA"
+    },
+    {
+      "activity": [
+        "Hearings By (subcommittee)"
+      ],
+      "committee": "Senate Homeland Security and Governmental Affairs",
+      "committee_id": "SSGA",
+      "subcommittee": "Subcommittee on Governmental Operations and Border Management",
+      "subcommittee_id": "22"
     }
   ],
   "congress": "119",
@@ -68,9 +116,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-10",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-06-10",
     "vetoed": false
   },
   "introduced_at": "2025-03-26",
@@ -94,42 +145,14 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-03-26",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-06-10",
   "subjects": [
     "Crime and law enforcement"
   ],
   "subjects_top_term": "Crime and law enforcement",
   "summary": null,
   "titles": [
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "DETERRENCE Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Deterring External Threats and Ensuring Robust Responses to Egregious and Nefarious Criminal Endeavors Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "DETERRENCE Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Deterring External Threats and Ensuring Robust Responses to Egregious and Nefarious Criminal Endeavors Act",
-      "type": "short"
-    },
     {
       "as": null,
       "is_for_portion": false,
@@ -141,10 +164,38 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "DETERRENCE Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Deterring External Threats and Ensuring Robust Responses to Egregious and Nefarious Criminal Endeavors Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "DETERRENCE Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Deterring External Threats and Ensuring Robust Responses to Egregious and Nefarious Criminal Endeavors Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "A bill to authorize sentencing enhancements for certain criminal offenses directed by or coordinated with foreign governments.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-11T03:53:17Z",
+  "updated_at": "2025-06-11T10:58:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1136.xml"
 }

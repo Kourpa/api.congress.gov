@@ -1,15 +1,15 @@
-<bill session="119" type="s" number="1136" updated="2025-06-11T03:53:17Z">
-  <state datetime="2025-03-26">REFERRED</state>
+<bill session="119" type="s" number="1136" updated="2025-06-11T10:58:17Z">
+  <state datetime="2025-06-10">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-03-26"/>
+    <unknown datetime="2025-06-10"/>
   </status>
   <introduced datetime="2025-03-26"/>
   <titles>
+    <title type="display">DETERRENCE Act</title>
     <title type="short" as="introduced">DETERRENCE Act</title>
     <title type="short" as="introduced">Deterring External Threats and Ensuring Robust Responses to Egregious and Nefarious Criminal Endeavors Act</title>
     <title type="short" as="passed senate">DETERRENCE Act</title>
     <title type="short" as="passed senate">Deterring External Threats and Ensuring Robust Responses to Egregious and Nefarious Criminal Endeavors Act</title>
-    <title type="display">DETERRENCE Act</title>
     <title type="official" as="introduced">A bill to authorize sentencing enhancements for certain criminal offenses directed by or coordinated with foreign governments.</title>
   </titles>
   <sponsor bioguide_id="H001076"/>
@@ -25,9 +25,20 @@
     <action datetime="2025-03-26" state="REFERRED">
       <text>Read twice and referred to the Committee on the Judiciary.</text>
     </action>
+    <action datetime="2025-06-10">
+      <text>Committee on Homeland Security and Governmental Affairs Subcommittee on Border Management, Federal Workforce, and Regulatory Affairs. Hearings held.</text>
+    </action>
+    <action datetime="2025-06-10">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-06-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity=""/>
+    <committee code="SSGA22" name="Senate Homeland Security and Governmental Affairs" subcommittee="Governmental Operations and Border Management" activity="Hearings By (Subcommittee)"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="2394" relation="identical"/>
