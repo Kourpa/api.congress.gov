@@ -36,7 +36,12 @@
     {
       "acted_at": "2025-06-10T12:09:42-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2581-2587",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -57,7 +62,12 @@
     {
       "acted_at": "2025-06-10T13:31:02-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2587-2588",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -78,7 +88,12 @@
     {
       "acted_at": "2025-06-10T14:07:37-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2589",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -86,7 +101,12 @@
       "acted_at": "2025-06-10T14:16:08-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2581-2582",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "161",
       "status": "PASSED:SIMPLERES",
@@ -192,6 +212,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-11T08:05:52Z",
+  "updated_at": "2025-06-11T14:44:51Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres489.xml"
 }

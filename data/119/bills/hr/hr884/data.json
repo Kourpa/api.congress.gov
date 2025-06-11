@@ -78,7 +78,12 @@
       "bill_ids": [
         "hres489-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2594-2600",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 489.",
       "type": "action"
     },
@@ -118,7 +123,12 @@
     {
       "acted_at": "2025-06-10T17:32:22-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2601-2602",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -126,7 +136,12 @@
       "acted_at": "2025-06-10T17:39:57-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2594",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "163",
       "status": "PASS_OVER:HOUSE",
@@ -376,6 +391,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-06-11T08:09:12Z",
+  "updated_at": "2025-06-11T14:54:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr884.xml"
 }
