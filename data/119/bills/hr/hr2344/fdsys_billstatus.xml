@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2344</number>
-    <updateDate>2025-06-10T21:22:57Z</updateDate>
-    <updateDateIncludingText>2025-06-10T21:22:57Z</updateDateIncludingText>
+    <updateDate>2025-06-12T08:06:21Z</updateDate>
+    <updateDateIncludingText>2025-06-12T08:06:21Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,30 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw02</systemCode>
+            <name>Water Resources and Environment Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-03-25T20:45:51Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-03-25T14:00:15Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsif00</systemCode>
         <name>Energy and Commerce Committee</name>
         <chamber>House</chamber>
@@ -23,18 +47,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-03-25T14:00:20Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hspw00</systemCode>
-        <name>Transportation and Infrastructure Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-03-25T14:00:15Z</date>
           </item>
         </activities>
       </item>
@@ -58,6 +70,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-03-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw02</systemCode>
+            <name>Water Resources and Environment Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-03-25</actionDate>
         <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -205,7 +232,7 @@
     </textVersions>
     <latestAction>
       <actionDate>2025-03-25</actionDate>
-      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Appropriations.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-11T09:55:47-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres499-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 499 Reported to House. Rule provides for consideration of H.R. 4 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-11T16:51:07-04:00",
+      "action_code": "H1L220",
+      "bill_ids": [
+        "hres499-119"
+      ],
+      "references": [],
+      "text": "Rule H. Res. 499 passed House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -88,7 +108,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-11T09:55:47-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -97,8 +118,15 @@
   "number": "4",
   "official_title": "To rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.",
   "popular_title": null,
-  "related_bills": [],
-  "short_title": null,
+  "related_bills": [
+    {
+      "bill_id": "hres499-119",
+      "identified_by": "House",
+      "reason": "procedurally-related",
+      "type": "bill"
+    }
+  ],
+  "short_title": "Rescissions Act of 2025",
   "sponsor": {
     "bioguide_id": "S001176",
     "district": "1",
@@ -117,8 +145,15 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "To rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.",
+      "title": "Rescissions Act of 2025",
       "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Rescissions Act of 2025",
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -128,6 +163,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-11T13:20:16Z",
+  "updated_at": "2025-06-12T12:51:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4.xml"
 }

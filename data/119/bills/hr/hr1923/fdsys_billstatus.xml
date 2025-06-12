@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1923</number>
-    <updateDate>2025-06-06T14:17:56Z</updateDate>
-    <updateDateIncludingText>2025-06-06T14:17:56Z</updateDateIncludingText>
+    <updateDate>2025-06-12T08:07:05Z</updateDate>
+    <updateDateIncludingText>2025-06-12T08:07:05Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -39,6 +39,30 @@
         </activities>
       </item>
       <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-03-06T21:42:16Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-03-06T14:05:15Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hssm00</systemCode>
         <name>Small Business Committee</name>
         <chamber>House</chamber>
@@ -47,18 +71,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-03-06T14:05:20Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hspw00</systemCode>
-        <name>Transportation and Infrastructure Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-03-06T14:05:15Z</date>
           </item>
         </activities>
       </item>
@@ -149,6 +161,21 @@
           <name>House committee actions</name>
         </sourceSystem>
         <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-03-06</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
         <type>Committee</type>
       </item>
       <item>

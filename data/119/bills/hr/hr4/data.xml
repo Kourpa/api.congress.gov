@@ -1,11 +1,12 @@
-<bill session="119" type="h" number="4" updated="2025-06-11T13:20:16Z">
+<bill session="119" type="h" number="4" updated="2025-06-12T12:51:14Z">
   <state datetime="2025-06-06">REFERRED</state>
   <status>
     <introduced datetime="2025-06-06"/>
   </status>
   <introduced datetime="2025-06-06"/>
   <titles>
-    <title type="display">To rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.</title>
+    <title type="display">Rescissions Act of 2025</title>
+    <title type="short" as="introduced">Rescissions Act of 2025</title>
     <title type="official" as="introduced">To rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.</title>
   </titles>
   <sponsor bioguide_id="S001176"/>
@@ -23,11 +24,19 @@
     <action datetime="2025-06-06" state="REFERRED">
       <text>Referred to the House Committee on Appropriations.</text>
     </action>
+    <action datetime="2025-06-11T09:55:47-04:00">
+      <text>Rules Committee Resolution H. Res. 499 Reported to House. Rule provides for consideration of H.R. 4 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2025-06-11T16:51:07-04:00">
+      <text>Rule H. Res. 499 passed House.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="499" relation="procedurally-related"/>
+  </relatedbills>
   <subjects/>
   <amendments/>
 </bill>

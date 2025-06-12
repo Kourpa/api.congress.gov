@@ -27,6 +27,21 @@
       "references": [],
       "text": "Referred to the Committee on the Budget, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-11T16:51:25-04:00",
+      "action_code": "H1B000",
+      "bill_ids": [
+        "hres499-119"
+      ],
+      "how": "by special rule",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Pursuant to the provisions of H. Res. 499, H. Res. 492 is considered passed House.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
     }
   ],
   "amendments": [],
@@ -54,16 +69,32 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-11T16:51:25-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-06-11T16:51:25-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-06-10",
   "number": "492",
   "official_title": "Directing the Clerk of the House of Representatives to make a correction in the engrossment of H.R. 1.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hr1-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hres499-119",
+      "identified_by": "House",
+      "reason": "procedurally-related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "A000375",
@@ -73,8 +104,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-06-10",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-06-11T16:51:25-04:00",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -94,6 +125,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-06-11T08:18:21Z",
+  "updated_at": "2025-06-12T12:51:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres492.xml"
 }

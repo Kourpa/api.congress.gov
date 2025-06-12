@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3107" updated="2025-06-06T14:17:56Z">
+<bill session="119" type="h" number="3107" updated="2025-06-12T08:06:50Z">
   <state datetime="2025-04-30">REFERRED</state>
   <status>
     <introduced datetime="2025-04-30"/>
@@ -41,10 +41,14 @@
     <action datetime="2025-04-30">
       <text>Referred to the Committee on Armed Services, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-04-30">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW07" name="House Transportation and Infrastructure" subcommittee="Coast Guard and Maritime Transportation" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
