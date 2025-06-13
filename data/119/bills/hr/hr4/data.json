@@ -44,7 +44,12 @@
       "bill_ids": [
         "hres499-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2796-2805",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 499.",
       "type": "action"
     },
@@ -75,7 +80,12 @@
       "committees": [
         "HSAP"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2805",
+          "type": "text"
+        }
+      ],
       "text": "Ms. Kelly (IL) moved to recommit to the Committee on Appropriations.",
       "type": "action"
     },
@@ -96,7 +106,12 @@
     {
       "acted_at": "2025-06-12T15:36:38-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2806-2808",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -114,7 +129,12 @@
       "acted_at": "2025-06-12T15:54:16-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2796",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "168",
       "status": "PASS_OVER:HOUSE",
@@ -234,8 +254,10 @@
   },
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-06-12T15:54:16-04:00",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Economics and public finance"
+  ],
+  "subjects_top_term": "Economics and public finance",
   "summary": null,
   "titles": [
     {
@@ -267,6 +289,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-13T08:06:30Z",
+  "updated_at": "2025-06-13T15:12:54Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4.xml"
 }
