@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Science, Space, and Technology.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-11",
+      "action_code": "",
+      "committees": [
+        "HSSY"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-11",
+      "action_code": "",
+      "committees": [
+        "HSSY"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by the Yeas and Nays: 35 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Science, Space, and Technology",
@@ -58,7 +80,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-11",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -77,8 +100,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-07",
+  "status": "REPORTED",
+  "status_at": "2025-06-11",
   "subjects": [
     "Science, technology, communications"
   ],
@@ -107,6 +130,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2025-05-22T16:18:25Z",
+  "updated_at": "2025-06-13T08:06:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3259.xml"
 }

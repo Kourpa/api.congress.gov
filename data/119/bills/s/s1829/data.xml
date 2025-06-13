@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1829" updated="2025-06-11T11:03:16Z">
-  <state datetime="2025-05-21">REFERRED</state>
+<bill session="119" type="s" number="1829" updated="2025-06-13T11:03:17Z">
+  <state datetime="2025-06-12">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-21"/>
+    <unknown datetime="2025-06-12"/>
   </status>
   <introduced datetime="2025-05-21"/>
   <titles>
@@ -27,9 +27,12 @@
     <action datetime="2025-05-21" state="REFERRED">
       <text>Read twice and referred to the Committee on the Judiciary.</text>
     </action>
+    <action datetime="2025-06-12" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="118" type="h" number="7949" relation="identical"/>

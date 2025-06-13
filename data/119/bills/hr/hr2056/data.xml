@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2056" updated="2025-06-13T05:53:16Z">
-  <state datetime="2025-03-25">REPORTED</state>
+<bill session="119" type="h" number="2056" updated="2025-06-13T10:56:28Z">
+  <state datetime="2025-06-12T16:14:02-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-03-25"/>
+    <unknown datetime="2025-06-12T16:14:02-04:00"/>
   </status>
   <introduced datetime="2025-03-11"/>
   <titles>
@@ -61,9 +61,25 @@
     <action datetime="2025-06-11T15:09:08-04:00">
       <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2056, the Chair put the question on the motion to recommit and announced that the noes had prevailed. Mr. Lynch demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
     </action>
+    <action datetime="2025-06-12T16:01:19-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2025-06-12T16:07:13-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 205 - 215 (Roll no. 170).</text>
+    </action>
+    <vote how="roll" type="vote" roll="171" datetime="2025-06-12T16:14:02-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 224 - 194 (Roll no. 171).</text>
+    </vote>
+    <action datetime="2025-06-12T16:14:03-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2025-06-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Unknown, Reported By, Markup By, Referred To"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1522" relation="unknown"/>

@@ -17,6 +17,28 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-12",
+      "action_code": "",
+      "committees": [
+        "SSBK"
+      ],
+      "references": [],
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +49,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Banking, Housing, and Urban Affairs",
@@ -478,9 +501,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-12",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-06-12",
     "vetoed": false
   },
   "introduced_at": "2025-04-10",
@@ -504,14 +530,21 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-04-10",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-06-12",
   "subjects": [
     "Finance and financial sector"
   ],
   "subjects_top_term": "Finance and financial sector",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Homebuyers Privacy Protection Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -527,13 +560,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Homebuyers Privacy Protection Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -541,6 +567,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-13T05:53:16Z",
+  "updated_at": "2025-06-13T10:58:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1467.xml"
 }

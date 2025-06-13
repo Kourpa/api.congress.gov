@@ -37,6 +37,99 @@
       "references": [],
       "text": "Rule H. Res. 499 passed House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T13:30:45-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres499-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 499.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T13:30:50-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 4 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T13:31:38-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 4.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T14:59:58-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T15:00:36-04:00",
+      "action_code": "H36200",
+      "committees": [
+        "HSAP"
+      ],
+      "references": [],
+      "text": "Ms. Kelly (IL) moved to recommit to the Committee on Appropriations.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T15:00:46-04:00",
+      "action_code": "H8A000",
+      "references": [],
+      "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T15:01:02-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 4, the Chair put the question on motion to recommit and by voice vote, announced that the noes had prevailed. Ms. Kelly (IL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T15:36:38-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T15:43:21-04:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSAP"
+      ],
+      "references": [],
+      "text": "On motion to recommit Failed by the Yeas and Nays: 208 - 218 (Roll no. 167).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T15:54:16-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "168",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 214 - 212 (Roll no. 168).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-06-12T15:54:18-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -47,6 +140,8 @@
   "committees": [
     {
       "activity": [
+        "Unknown",
+        "Unknown",
         "Referred To"
       ],
       "committee": "House Appropriations",
@@ -112,6 +207,8 @@
     "active_at": "2025-06-11T09:55:47-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-06-12T15:54:16-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-06-06",
@@ -135,8 +232,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-06-06",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-06-12T15:54:16-04:00",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -170,6 +267,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-13T05:53:16Z",
+  "updated_at": "2025-06-13T08:06:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4.xml"
 }

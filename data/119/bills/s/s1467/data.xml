@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="1467" updated="2025-06-13T05:53:16Z">
-  <state datetime="2025-04-10">REFERRED</state>
+<bill session="119" type="s" number="1467" updated="2025-06-13T10:58:19Z">
+  <state datetime="2025-06-12">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-04-10"/>
+    <unknown datetime="2025-06-12"/>
   </status>
   <introduced datetime="2025-04-10"/>
   <titles>
+    <title type="display">Homebuyers Privacy Protection Act</title>
     <title type="short" as="introduced">Homebuyers Privacy Protection Act</title>
     <title type="short" as="passed senate">Homebuyers Privacy Protection Act</title>
-    <title type="display">Homebuyers Privacy Protection Act</title>
     <title type="official" as="introduced">A bill to amend the Fair Credit Reporting Act to prevent consumer reporting agencies from furnishing consumer reports under certain circumstances, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="R000122"/>
@@ -64,9 +64,15 @@
     <action datetime="2025-04-10" state="REFERRED">
       <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
     </action>
+    <action datetime="2025-06-12">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-06-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="2808" relation="identical"/>

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2056</number>
-    <updateDate>2025-06-13T05:53:16Z</updateDate>
-    <updateDateIncludingText>2025-06-13T05:53:16Z</updateDateIncludingText>
+    <updateDate>2025-06-13T10:56:28Z</updateDate>
+    <updateDateIncludingText>2025-06-13T10:56:28Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,11 +15,27 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-06-12T21:53:37Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsgo00</systemCode>
         <name>Oversight and Government Reform Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Unknown</name>
+            <date>2025-06-12T20:07:13Z</date>
+          </item>
           <item>
             <name>Unknown</name>
             <date>2025-06-11T19:08:46Z</date>
@@ -84,6 +100,111 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-06-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2025-06-12</actionDate>
+        <actionTime>16:14:03</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-06-12</actionDate>
+        <actionTime>16:14:02</actionTime>
+        <text>On passage Passed by the Yeas and Nays: 224 - 194 (Roll no. 171).</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>171</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll171.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-06-12T20:14:02Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-06-12</actionDate>
+        <actionTime>16:14:02</actionTime>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 224 - 194 (Roll no. 171).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>171</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll171.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-06-12T20:14:02Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-06-12</actionDate>
+        <actionTime>16:07:13</actionTime>
+        <text>On motion to recommit Failed by the Yeas and Nays: 205 - 215 (Roll no. 170).</text>
+        <type>Floor</type>
+        <actionCode>H36210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>170</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll170.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-06-12T20:07:13Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-06-12</actionDate>
+        <actionTime>16:01:19</actionTime>
+        <text>Considered as unfinished business.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-06-11</actionDate>
         <actionTime>15:09:08</actionTime>
@@ -522,9 +643,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-11</actionDate>
-      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2056, the Chair put the question on the motion to recommit and announced that the noes had prevailed. Mr. Lynch demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
-      <actionTime>15:09:08</actionTime>
+      <actionDate>2025-06-12</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

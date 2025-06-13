@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3259" updated="2025-05-22T16:18:25Z">
-  <state datetime="2025-05-07">REFERRED</state>
+<bill session="119" type="h" number="3259" updated="2025-06-13T08:06:20Z">
+  <state datetime="2025-06-11">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-07"/>
+    <unknown datetime="2025-06-11"/>
   </status>
   <introduced datetime="2025-05-07"/>
   <titles>
@@ -21,9 +21,15 @@
     <action datetime="2025-05-07" state="REFERRED">
       <text>Referred to the House Committee on Science, Space, and Technology.</text>
     </action>
+    <action datetime="2025-06-11">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-06-11" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 35 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

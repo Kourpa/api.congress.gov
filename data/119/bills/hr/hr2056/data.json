@@ -145,6 +145,54 @@
       "references": [],
       "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2056, the Chair put the question on the motion to recommit and announced that the noes had prevailed. Mr. Lynch demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T16:01:19-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T16:07:13-04:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "text": "On motion to recommit Failed by the Yeas and Nays: 205 - 215 (Roll no. 170).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12T16:14:02-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "171",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 224 - 194 (Roll no. 171).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-06-12T16:14:03-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12",
+      "action_code": "",
+      "committees": [
+        "SSGA"
+      ],
+      "references": [],
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "type": "referral"
     }
   ],
   "amendments": [
@@ -164,6 +212,14 @@
   "committees": [
     {
       "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Homeland Security and Governmental Affairs",
+      "committee_id": "SSGA"
+    },
+    {
+      "activity": [
+        "Unknown",
         "Unknown",
         "Reported By",
         "Markup By",
@@ -192,6 +248,8 @@
     "active_at": "2025-03-25",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-06-12T16:14:02-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-03-11",
@@ -221,8 +279,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-03-25",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-06-12T16:14:02-04:00",
   "subjects": [
     "District of Columbia",
     "Federal preemption",
@@ -274,6 +332,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-13T05:53:16Z",
+  "updated_at": "2025-06-13T10:56:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2056.xml"
 }

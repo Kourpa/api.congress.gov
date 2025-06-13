@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Ways and Means.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-12",
+      "action_code": "H12300",
+      "committees": [
+        "HSWM"
+      ],
+      "references": [],
+      "text": "Committee on Ways and Means discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-12",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "125",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 125.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -27,6 +47,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Ways and Means",
@@ -88,7 +109,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-12",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -130,6 +152,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-22T20:56:14Z",
+  "updated_at": "2025-06-13T08:06:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres93.xml"
 }
