@@ -22,6 +22,28 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-16",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-16",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -32,6 +54,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -53,9 +76,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-16",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-06-16",
     "vetoed": false
   },
   "introduced_at": "2025-05-22",
@@ -72,8 +98,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-22",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-06-16",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -93,6 +119,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-24T03:33:31Z",
+  "updated_at": "2025-06-17T10:56:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres247.xml"
 }

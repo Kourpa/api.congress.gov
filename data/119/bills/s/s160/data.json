@@ -135,6 +135,24 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2025-06-12",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
+    },
+    {
+      "acted_at": "2025-06-12",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "18",
+      "references": [],
+      "text": "Became Public Law No: 119-18.",
+      "type": "enacted"
     }
   ],
   "amendments": [
@@ -242,13 +260,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "18"
+  },
   "history": {
     "active": true,
     "active_at": "2025-04-08",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2025-06-10",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2025-06-12",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-06-03T15:04:55-04:00",
     "senate_passage_result": "pass",
@@ -276,8 +298,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2025-06-03T15:04:55-04:00",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2025-06-12",
   "subjects": [
     "Armed forces and national security",
     "Aviation and airports",
@@ -329,6 +351,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-11T08:05:47Z",
+  "updated_at": "2025-06-17T11:33:35Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s160.xml"
 }

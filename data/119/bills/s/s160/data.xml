@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="160" updated="2025-06-11T08:05:47Z">
-  <state datetime="2025-06-03T15:04:55-04:00">PASSED:BILL</state>
+<bill session="119" type="s" number="160" updated="2025-06-17T11:33:35Z">
+  <state datetime="2025-06-12">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-06-03T15:04:55-04:00"/>
+    <unknown datetime="2025-06-12"/>
   </status>
   <introduced datetime="2025-01-21"/>
   <titles>
@@ -69,6 +69,12 @@
     <topresident datetime="2025-06-10">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-06-12" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="119-18" type="public" datetime="2025-06-12">
+      <text>Became Public Law No: 119-18.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Discharged From, Referred To"/>
