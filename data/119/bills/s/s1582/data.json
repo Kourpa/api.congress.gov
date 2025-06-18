@@ -271,6 +271,26 @@
       "references": [],
       "text": "Cloture on the bill, as amended invoked in Senate by Yea-Nay Vote. 67 - 27. Record Vote Number: 312.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-06-17",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-17",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "318",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Yea-Nay Vote. 68 - 30. Record Vote Number: 318.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [
@@ -1073,6 +1093,26 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "M001242",
+      "district": null,
+      "name": "Moreno, Bernie",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-06-17",
+      "state": "OH",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "R000618",
+      "district": null,
+      "name": "Ricketts, Pete",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-06-17",
+      "state": "NE",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "S001184",
       "district": null,
       "name": "Scott, Tim",
@@ -1101,6 +1141,8 @@
     "enacted": false,
     "senate_cloture_result": "fail",
     "senate_cloture_result_at": "2025-05-08",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-06-17",
     "vetoed": false
   },
   "introduced_at": "2025-05-01",
@@ -1117,8 +1159,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PROV_KILL:CLOTUREFAILED",
-  "status_at": "2025-05-08",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-06-17",
   "subjects": [
     "Accounting and auditing",
     "Administrative law and regulatory procedures",
@@ -1153,39 +1195,39 @@
   },
   "titles": [
     {
-      "as": "senate calendar) bill text",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "GENIUS Act",
-      "type": "short"
-    },
-    {
-      "as": "senate calendar) bill text",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Guiding and Establishing National Innovation for U.S. Stablecoins Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "GENIUS Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Guiding and Establishing National Innovation for U.S. Stablecoins Act",
-      "type": "short"
-    },
-    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "GENIUS Act",
       "type": "display"
+    },
+    {
+      "as": "senate calendar) bill text",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "GENIUS Act",
+      "type": "short"
+    },
+    {
+      "as": "senate calendar) bill text",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Guiding and Establishing National Innovation for U.S. Stablecoins Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "GENIUS Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Guiding and Establishing National Innovation for U.S. Stablecoins Act",
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -1195,6 +1237,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-18T05:23:17Z",
+  "updated_at": "2025-06-18T10:58:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1582.xml"
 }

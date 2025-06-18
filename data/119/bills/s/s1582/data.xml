@@ -1,20 +1,22 @@
-<bill session="119" type="s" number="1582" updated="2025-06-18T05:23:17Z">
-  <state datetime="2025-05-08">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="s" number="1582" updated="2025-06-18T10:58:16Z">
+  <state datetime="2025-06-17">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-05-08"/>
+    <unknown datetime="2025-06-17"/>
   </status>
   <introduced datetime="2025-05-01"/>
   <titles>
+    <title type="display">GENIUS Act</title>
     <title type="short" as="senate calendar) bill text">GENIUS Act</title>
     <title type="short" as="senate calendar) bill text">Guiding and Establishing National Innovation for U.S. Stablecoins Act</title>
     <title type="short" as="passed senate">GENIUS Act</title>
     <title type="short" as="passed senate">Guiding and Establishing National Innovation for U.S. Stablecoins Act</title>
-    <title type="display">GENIUS Act</title>
     <title type="official" as="introduced">A bill to provide for the regulation of payment stablecoins, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="H000601"/>
   <cosponsors>
     <cosponsor bioguide_id="L000571" joined="2025-05-01"/>
+    <cosponsor bioguide_id="M001242" joined="2025-06-17"/>
+    <cosponsor bioguide_id="R000618" joined="2025-06-17"/>
     <cosponsor bioguide_id="S001184" joined="2025-05-01"/>
     <cosponsor bioguide_id="S001198" joined="2025-05-07"/>
   </cosponsors>
@@ -112,6 +114,12 @@
     <action datetime="2025-06-12">
       <text>Cloture on the bill, as amended invoked in Senate by Yea-Nay Vote. 67 - 27. Record Vote Number: 312.</text>
     </action>
+    <action datetime="2025-06-17">
+      <text>Considered by Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="318" datetime="2025-06-17" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 68 - 30. Record Vote Number: 318.</text>
+    </vote>
   </actions>
   <committees/>
   <relatedbills/>
