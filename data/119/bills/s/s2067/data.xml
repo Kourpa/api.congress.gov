@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2067" updated="2025-06-13T10:56:18Z">
+<bill session="119" type="s" number="2067" updated="2025-06-18T10:56:18Z">
   <state datetime="2025-06-12">INTRODUCED</state>
   <status>
     <introduced datetime="2025-06-12"/>
@@ -9,7 +9,11 @@
     <title type="official" as="introduced">A bill to rescind certain budget authority proposed to be rescinded in special messages transmitted to the Congress by the President on June 3, 2025, in accordance with section 1012(a) of the Congressional Budget and Impoundment Control Act of 1974.</title>
   </titles>
   <sponsor bioguide_id="S001227"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001243" joined="2025-06-17"/>
+    <cosponsor bioguide_id="L000571" joined="2025-06-17"/>
+    <cosponsor bioguide_id="P000603" joined="2025-06-17"/>
+  </cosponsors>
   <actions>
     <action datetime="2025-06-12">
       <text>Introduced in Senate</text>
@@ -20,6 +24,7 @@
   </actions>
   <committees>
     <committee code="SSBU" name="Senate Budget" subcommittee="" activity="Referred To"/>
+    <committee code="SSAP" name="Senate Appropriations" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>
