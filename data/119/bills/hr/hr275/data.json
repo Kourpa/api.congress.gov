@@ -78,6 +78,26 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 12.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-06-17",
+      "action_code": "H12200",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-163.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-17",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "130",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 130.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -88,6 +108,7 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
         "Markup By",
         "discharged",
         "discharged",
@@ -98,6 +119,15 @@
     },
     {
       "activity": [
+        "referral"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM",
+      "subcommittee": "Subcommittee on Counterterrorism and Intelligence",
+      "subcommittee_id": "05"
+    },
+    {
+      "activity": [
         "referral",
         "referral"
       ],
@@ -105,15 +135,6 @@
       "committee_id": "HSHM",
       "subcommittee": "Subcommittee on Border Security and Enforcement",
       "subcommittee_id": "11"
-    },
-    {
-      "activity": [
-        "referral"
-      ],
-      "committee": "House Homeland Security",
-      "committee_id": "HSHM",
-      "subcommittee": "Subcommittee on Counterterrorism and Intelligence",
-      "subcommittee_id": "05"
     },
     {
       "activity": [
@@ -201,7 +222,7 @@
   "official_title": "To require the Secretary of Homeland Security to publish on a monthly basis the number of special interest aliens encountered attempting to unlawfully enter the United States, and for other purposes.",
   "popular_title": null,
   "related_bills": [],
-  "short_title": "Special Interest Alien Reporting Act of 2024",
+  "short_title": "Special Interest Alien Reporting Act of 2025",
   "sponsor": {
     "bioguide_id": "G000596",
     "district": "14",
@@ -230,7 +251,7 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Special Interest Alien Reporting Act of 2024",
+      "title": "Special Interest Alien Reporting Act of 2025",
       "type": "display"
     },
     {
@@ -241,6 +262,13 @@
       "type": "short"
     },
     {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Special Interest Alien Reporting Act of 2025",
+      "type": "short"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -248,6 +276,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-13T18:05:13Z",
+  "updated_at": "2025-06-18T08:05:42Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr275.xml"
 }
