@@ -275,7 +275,12 @@
     {
       "acted_at": "2025-06-17",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S3418-3432",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -283,7 +288,12 @@
       "acted_at": "2025-06-17",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S3419-3432",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "318",
       "status": "PASS_OVER:SENATE",
@@ -1237,6 +1247,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-18T10:58:16Z",
+  "updated_at": "2025-06-18T13:11:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1582.xml"
 }

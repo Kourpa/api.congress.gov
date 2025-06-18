@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="1582" updated="2025-06-18T10:58:16Z">
+<bill session="119" type="s" number="1582" updated="2025-06-18T13:11:09Z">
   <state datetime="2025-06-17">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-06-17"/>
@@ -116,9 +116,11 @@
     </action>
     <action datetime="2025-06-17">
       <text>Considered by Senate.</text>
+      <reference ref="CR S3418-3432" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="318" datetime="2025-06-17" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate with an amendment by Yea-Nay Vote. 68 - 30. Record Vote Number: 318.</text>
+      <reference ref="CR S3419-3432" label="text"/>
     </vote>
   </actions>
   <committees/>
