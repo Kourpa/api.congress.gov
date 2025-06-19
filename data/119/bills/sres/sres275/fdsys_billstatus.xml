@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>275</number>
-    <updateDate>2025-06-13T14:40:00Z</updateDate>
-    <updateDateIncludingText>2025-06-13T14:40:00Z</updateDateIncludingText>
+    <updateDate>2025-06-19T10:56:28Z</updateDate>
+    <updateDateIncludingText>2025-06-19T10:56:28Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SRES</type>
@@ -18,6 +18,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-06-18T19:14:19Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-06-12T19:32:52Z</date>
           </item>
@@ -25,6 +29,54 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-06-18</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-06-18</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-06-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-06-18</actionDate>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-06-12</actionDate>
         <committees>
@@ -102,8 +154,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-12</actionDate>
-      <text>Referred to the Committee on the Judiciary. (text: CR S3393)</text>
+      <actionDate>2025-06-18</actionDate>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
