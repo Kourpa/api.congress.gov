@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="356" updated="2025-06-19T03:38:14Z">
-  <state datetime="2025-02-03">REFERRED</state>
+<bill session="119" type="s" number="356" updated="2025-06-19T10:58:18Z">
+  <state datetime="2025-06-18">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-02-03"/>
+    <unknown datetime="2025-06-18"/>
   </status>
   <introduced datetime="2025-02-03"/>
   <titles>
+    <title type="display">Secure Rural Schools Reauthorization Act of 2025</title>
     <title type="short" as="introduced">Secure Rural Schools Reauthorization Act of 2025</title>
     <title type="short" as="passed senate">Secure Rural Schools Reauthorization Act of 2025</title>
-    <title type="display">Secure Rural Schools Reauthorization Act of 2025</title>
     <title type="official" as="introduced">A bill to extend the Secure Rural Schools and Community Self-Determination Act of 2000.</title>
   </titles>
   <sponsor bioguide_id="C000880"/>
@@ -47,9 +47,15 @@
     <action datetime="2025-02-03" state="REFERRED">
       <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
+    <action datetime="2025-06-18">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="2025-06-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="1383" relation="identical"/>

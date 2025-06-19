@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="282" updated="2025-06-19T03:38:15Z">
-  <state datetime="2025-01-28">REFERRED</state>
+<bill session="119" type="s" number="282" updated="2025-06-19T10:58:18Z">
+  <state datetime="2025-06-18">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-01-28"/>
+    <unknown datetime="2025-06-18"/>
   </status>
   <introduced datetime="2025-01-28"/>
   <titles>
+    <title type="display">Katahdin Woods and Waters National Monument Access Act</title>
     <title type="short" as="introduced">Katahdin Woods and Waters National Monument Access Act</title>
     <title type="short" as="passed senate">Katahdin Woods and Waters National Monument Access Act</title>
-    <title type="display">Katahdin Woods and Waters National Monument Access Act</title>
     <title type="official" as="introduced">A bill to provide greater regional access to the Katahdin Woods and Waters National Monument in the State of Maine, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="K000383"/>
@@ -19,9 +19,15 @@
     <action datetime="2025-01-28" state="REFERRED">
       <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
+    <action datetime="2025-06-18">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="2025-06-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="154" updated="2025-06-19T03:38:15Z">
-  <state datetime="2025-01-21">REFERRED</state>
+<bill session="119" type="s" number="154" updated="2025-06-19T10:58:18Z">
+  <state datetime="2025-06-18">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-01-21"/>
+    <unknown datetime="2025-06-18"/>
   </status>
   <introduced datetime="2025-01-21"/>
   <titles>
+    <title type="display">Colorado River Basin System Conservation Extension Act</title>
     <title type="short" as="introduced">Colorado River Basin System Conservation Extension Act</title>
     <title type="short" as="passed senate">Colorado River Basin System Conservation Extension Act</title>
-    <title type="display">Colorado River Basin System Conservation Extension Act</title>
     <title type="official" as="introduced">A bill to amend the Energy and Water Development and Related Agencies Appropriations Act, 2015, to reauthorize the Colorado River System conservation pilot program.</title>
   </titles>
   <sponsor bioguide_id="H000273"/>
@@ -24,9 +24,15 @@
     <action datetime="2025-01-21" state="REFERRED">
       <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
+    <action datetime="2025-06-18">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="2025-06-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="231" relation="unknown"/>
