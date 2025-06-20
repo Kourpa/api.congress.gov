@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="282" updated="2025-06-19T10:58:18Z">
+<bill session="119" type="s" number="282" updated="2025-06-20T15:37:44Z">
   <state datetime="2025-06-18">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-06-18"/>
@@ -21,9 +21,11 @@
     </action>
     <action datetime="2025-06-18">
       <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+      <reference ref="CR S3458" label="consideration"/>
     </action>
     <vote how="by Voice Vote" type="vote" datetime="2025-06-18" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate without amendment by Voice Vote.</text>
+      <reference ref="CR S3459" label="text"/>
     </vote>
   </actions>
   <committees>
@@ -32,6 +34,17 @@
   <relatedbills/>
   <subjects>
     <term name="Public lands and natural resources"/>
+    <term name="Environmental education"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Geography and mapping"/>
+    <term name="Horticulture and plants"/>
+    <term name="Hunting and fishing"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land transfers"/>
+    <term name="Maine"/>
+    <term name="Monuments and memorials"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
   </subjects>
   <amendments/>
 </bill>
