@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2808" updated="2025-06-21T03:53:17Z">
+<bill session="119" type="h" number="2808" updated="2025-06-21T12:21:14Z">
   <state datetime="2025-06-10">REPORTED</state>
   <status>
     <unknown datetime="2025-06-10"/>
@@ -51,6 +51,7 @@
     <cosponsor bioguide_id="G000591" joined="2025-04-10"/>
     <cosponsor bioguide_id="H001099" joined="2025-04-30"/>
     <cosponsor bioguide_id="H001082" joined="2025-04-28"/>
+    <cosponsor bioguide_id="H001091" joined="2025-06-20"/>
     <cosponsor bioguide_id="H001058" joined="2025-05-07"/>
     <cosponsor bioguide_id="J000301" joined="2025-04-10"/>
     <cosponsor bioguide_id="K000385" joined="2025-06-17"/>
@@ -81,6 +82,7 @@
     <cosponsor bioguide_id="R000305" joined="2025-06-05"/>
     <cosponsor bioguide_id="R000609" joined="2025-04-29"/>
     <cosponsor bioguide_id="S001228" joined="2025-05-17"/>
+    <cosponsor bioguide_id="S001190" joined="2025-06-20"/>
     <cosponsor bioguide_id="S001157" joined="2025-06-04"/>
     <cosponsor bioguide_id="S000250" joined="2025-06-09"/>
     <cosponsor bioguide_id="S000344" joined="2025-04-28"/>
@@ -113,9 +115,15 @@
     <action datetime="2025-06-10" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 46 - 0.</text>
     </action>
+    <action datetime="2025-06-20">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-166.</text>
+    </action>
+    <calendar datetime="2025-06-20" calendar="Union" number="133">
+      <text>Placed on the Union Calendar, Calendar No. 133.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1467" relation="identical"/>
@@ -130,4 +138,7 @@
   </subjects>
   <amendments/>
   <summary date="2025-06-18T18:22:48Z" status="Introduced in House"></summary>
+  <committee-reports>
+    <report>H. Rept. 119-166</report>
+  </committee-reports>
 </bill>
