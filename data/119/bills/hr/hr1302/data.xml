@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1302" updated="2025-05-07T14:12:28Z">
+<bill session="119" type="h" number="1302" updated="2025-06-23T17:57:26Z">
   <state datetime="2025-02-13">REFERRED</state>
   <status>
     <introduced datetime="2025-02-13"/>
@@ -29,7 +29,9 @@
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSAG16" name="House Agriculture" subcommittee="General Farm Commodities, Risk Management, and Credit" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="1826" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Agriculture and food"/>
   </subjects>
