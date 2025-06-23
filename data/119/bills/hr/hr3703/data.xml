@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3703" updated="2025-06-18T08:05:48Z">
+<bill session="119" type="h" number="3703" updated="2025-06-23T14:01:29Z">
   <state datetime="2025-06-04">REFERRED</state>
   <status>
     <introduced datetime="2025-06-04"/>
@@ -51,7 +51,11 @@
   <committees>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="1166" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+  </subjects>
   <amendments/>
 </bill>
