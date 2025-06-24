@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="3633" updated="2025-06-21T08:05:31Z">
+<bill session="119" type="h" number="3633" updated="2025-06-24T08:05:58Z">
   <state datetime="2025-06-10">REPORTED</state>
   <status>
     <unknown datetime="2025-06-10"/>
   </status>
   <introduced datetime="2025-05-29"/>
   <titles>
-    <title type="display">Digital Asset Market Clarity Act of 2025</title>
     <title type="short" as="introduced">Digital Asset Market Clarity Act of 2025</title>
+    <title type="short" as="reported to house">Digital Asset Market Clarity Act of 2025</title>
+    <title type="display">Digital Asset Market Clarity Act of 2025</title>
     <title type="official" as="introduced">To provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="H001072"/>
@@ -28,6 +29,7 @@
     <cosponsor bioguide_id="M001235" joined="2025-06-20"/>
     <cosponsor bioguide_id="N000193" joined="2025-06-20"/>
     <cosponsor bioguide_id="S001213" joined="2025-05-29"/>
+    <cosponsor bioguide_id="S001215" joined="2025-06-23"/>
     <cosponsor bioguide_id="T000488" joined="2025-06-20"/>
     <cosponsor bioguide_id="T000467" joined="2025-05-29"/>
     <cosponsor bioguide_id="T000486" joined="2025-05-29"/>
@@ -46,12 +48,27 @@
       <text>Committee Consideration and Mark-up Session Held</text>
     </action>
     <action datetime="2025-06-10" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 47 - 6.</text>
+    </action>
+    <action datetime="2025-06-10">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-06-10">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 19.</text>
     </action>
+    <action datetime="2025-06-23">
+      <text>Reported (Amended) by the Committee on Agriculture. H. Rept. 119-168, Part I.</text>
+    </action>
+    <action datetime="2025-06-23">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-168, Part II.</text>
+    </action>
+    <calendar datetime="2025-06-23" calendar="Union" number="134">
+      <text>Placed on the Union Calendar, Calendar No. 134.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
-    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
+    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="3690" relation="unknown"/>
