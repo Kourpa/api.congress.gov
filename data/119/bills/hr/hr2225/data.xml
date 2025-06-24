@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2225" updated="2025-06-23T22:02:40Z">
-  <state datetime="2025-05-20">REPORTED</state>
+<bill session="119" type="h" number="2225" updated="2025-06-24T08:05:20Z">
+  <state datetime="2025-06-23T16:41:52-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-05-20"/>
+    <unknown datetime="2025-06-23T16:41:52-04:00"/>
   </status>
   <introduced datetime="2025-03-18"/>
   <titles>
@@ -57,6 +57,21 @@
     <calendar datetime="2025-06-03" calendar="Union" number="96">
       <text>Placed on the Union Calendar, Calendar No. 96.</text>
     </calendar>
+    <action datetime="2025-06-23T16:29:03-04:00">
+      <text>Mrs. Wagner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-06-23T16:29:17-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-06-23T16:29:20-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2225.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-06-23T16:41:52-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-06-23T16:41:54-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>

@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-23",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Water, Wildlife and Fisheries.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Natural Resources",
       "committee_id": "HSII"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII",
+      "subcommittee": "Subcommittee on Water, Wildlife and Fisheries",
+      "subcommittee_id": "13"
     }
   ],
   "congress": "119",
@@ -184,6 +203,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-04T08:06:38Z",
+  "updated_at": "2025-06-24T08:05:47Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1676.xml"
 }

@@ -3,14 +3,44 @@
   <version>3.0.0</version>
   <bill>
     <number>15</number>
-    <updateDate>2025-06-20T14:43:09Z</updateDate>
-    <updateDateIncludingText>2025-06-20T14:43:09Z</updateDateIncludingText>
+    <updateDate>2025-06-24T10:56:21Z</updateDate>
+    <updateDateIncludingText>2025-06-24T10:56:21Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SCONRES</type>
     <introducedDate>2025-06-18</introducedDate>
     <congress>119</congress>
     <actions>
+      <item>
+        <actionDate>2025-06-23</actionDate>
+        <actionTime>15:29:07</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-06-23</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-06-23</actionDate>
+        <actionTime>15:19:26</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-06-18</actionDate>
         <sourceSystem>
@@ -191,10 +221,20 @@
           </item>
         </formats>
       </item>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2025-06-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119sconres15ats/xml/BILLS-119sconres15ats.xml</url>
+          </item>
+        </formats>
+      </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-18</actionDate>
-      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3478; text: CR S3477)</text>
+      <actionDate>2025-06-23</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>15:29:07</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

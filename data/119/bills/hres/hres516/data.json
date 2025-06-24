@@ -17,6 +17,19 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-23T20:24:48-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres530-119",
+        "hr3944-119",
+        "hr275-119",
+        "hr875-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 530 Reported to House. Rule provides for consideration of H.R. 3944, H.R. 275, H.R. 875 and H. Res. 516. The resolution provides for consideration of H.R. 3944 under a structured rule and H.R. 275, H.R. 875, and H.Res. 516 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 3944, H.R. 275, and H.R. 875.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -118,7 +131,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-23T20:24:48-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -132,6 +146,12 @@
       "bill_id": "hres496-119",
       "identified_by": "CRS",
       "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hres530-119",
+      "identified_by": "House",
+      "reason": "procedurally-related",
       "type": "bill"
     }
   ],
@@ -167,6 +187,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-06-20T12:30:37Z",
+  "updated_at": "2025-06-24T08:05:38Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres516.xml"
 }

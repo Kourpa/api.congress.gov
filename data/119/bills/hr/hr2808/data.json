@@ -58,6 +58,47 @@
       "text": "Placed on the Union Calendar, Calendar No. 133.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-06-23T17:42:58-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Rose moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-23T17:43:15-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-23T17:43:18-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2808.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-23T17:53:50-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-06-23T17:53:53-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -977,6 +1018,8 @@
     "active_at": "2025-06-10",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-06-23T17:53:50-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-04-10",
@@ -1000,8 +1043,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-06-10",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-06-23T17:53:50-04:00",
   "subjects": [
     "Consumer credit",
     "Finance and financial sector",
@@ -1047,6 +1090,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-23T08:05:15Z",
+  "updated_at": "2025-06-24T12:32:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2808.xml"
 }

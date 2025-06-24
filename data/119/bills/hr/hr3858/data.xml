@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3858" updated="2025-06-13T05:53:17Z">
+<bill session="119" type="h" number="3858" updated="2025-06-24T08:05:56Z">
   <state datetime="2025-06-10">REFERRED</state>
   <status>
     <introduced datetime="2025-06-10"/>
@@ -26,11 +26,15 @@
     <action datetime="2025-06-10">
       <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Transportation and Infrastructure, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-06-23">
+      <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII13" name="House Natural Resources" subcommittee="Water, Wildlife and Fisheries" activity="Referral"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

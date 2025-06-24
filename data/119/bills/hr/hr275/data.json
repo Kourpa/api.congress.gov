@@ -98,6 +98,19 @@
       "text": "Placed on the Union Calendar, Calendar No. 130.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-06-23T20:24:48-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres530-119",
+        "hr3944-119",
+        "hr875-119",
+        "hres516-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 530 Reported to House. Rule provides for consideration of H.R. 3944, H.R. 275, H.R. 875 and H. Res. 516. The resolution provides for consideration of H.R. 3944 under a structured rule and H.R. 275, H.R. 875, and H.Res. 516 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 3944, H.R. 275, and H.R. 875.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -223,7 +236,14 @@
   "number": "275",
   "official_title": "To require the Secretary of Homeland Security to publish on a monthly basis the number of special interest aliens encountered attempting to unlawfully enter the United States, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres530-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Special Interest Alien Reporting Act of 2025",
   "sponsor": {
     "bioguide_id": "G000596",
@@ -278,6 +298,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-18T19:41:12Z",
+  "updated_at": "2025-06-24T12:41:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr275.xml"
 }
