@@ -59,7 +59,12 @@
     {
       "acted_at": "2025-06-23T14:19:28-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2845-2846, H2877-2878",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -81,7 +86,12 @@
       "acted_at": "2025-06-23T18:55:41-04:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2845-2846",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "172",
       "status": "PASS_OVER:HOUSE",
@@ -229,6 +239,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-24T08:05:50Z",
+  "updated_at": "2025-06-24T15:18:34Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1998.xml"
 }
