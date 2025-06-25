@@ -28,7 +28,16 @@
     {
       "acted_at": "2025-06-24T14:59:25-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2909-2913",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H2909-2910",
+          "type": "text"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -159,7 +168,13 @@
   "status": "REFERRED",
   "status_at": "2025-06-17",
   "subjects": [
-    "Government operations and politics"
+    "Congressional tributes",
+    "Crime victims",
+    "Government operations and politics",
+    "Law enforcement officers",
+    "Minnesota",
+    "State and local government operations",
+    "Violent crime"
   ],
   "subjects_top_term": "Government operations and politics",
   "summary": {
@@ -184,6 +199,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-06-25T08:06:21Z",
+  "updated_at": "2025-06-25T14:51:56Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres519.xml"
 }

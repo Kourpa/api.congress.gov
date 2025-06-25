@@ -10,7 +10,12 @@
     {
       "acted_at": "2025-06-24T14:20:04-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2909",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -18,7 +23,12 @@
       "acted_at": "2025-06-24T14:20:27-04:00",
       "action_code": "H37100",
       "how": "without objection",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2909",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:SIMPLERES",
       "suspension": null,
@@ -88,6 +98,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-25T08:06:45Z",
+  "updated_at": "2025-06-25T14:47:00Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres538.xml"
 }
