@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2954</number>
-    <updateDate>2025-06-24T20:11:19Z</updateDate>
-    <updateDateIncludingText>2025-06-24T20:11:19Z</updateDateIncludingText>
+    <updateDate>2025-06-25T08:06:40Z</updateDate>
+    <updateDateIncludingText>2025-06-25T08:06:40Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,22 @@
         <name>Veterans' Affairs Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2025-06-11T13:49:57Z</date>
+              </item>
+              <item>
+                <name>Referred to</name>
+                <date>2025-05-12T13:49:33Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -46,6 +62,36 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-06-11</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-05-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-04-17</actionDate>
         <text>Referred to the House Committee on Veterans' Affairs.</text>
@@ -201,8 +247,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-17</actionDate>
-      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2025-06-11</actionDate>
+      <text>Subcommittee Hearings Held</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

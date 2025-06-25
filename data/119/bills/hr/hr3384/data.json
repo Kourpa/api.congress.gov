@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-11",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Hearings Held by the Subcommittee on Economic Opportunity Prior to Referral.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-23",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Economic Opportunity.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,13 +51,24 @@
       ],
       "committee": "House Veterans' Affairs",
       "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "referral",
+        "Hearings By (subcommittee)"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Economic Opportunity",
+      "subcommittee_id": "10"
     }
   ],
   "congress": "119",
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-11",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -86,6 +117,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-03T19:58:48Z",
+  "updated_at": "2025-06-25T08:06:03Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3384.xml"
 }
