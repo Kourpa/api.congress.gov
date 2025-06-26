@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="233" updated="2025-06-13T11:03:17Z">
-  <state datetime="2025-01-23">REFERRED</state>
+<bill session="119" type="s" number="233" updated="2025-06-26T11:03:19Z">
+  <state datetime="2025-06-25">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-23"/>
+    <unknown datetime="2025-06-25"/>
   </status>
   <introduced datetime="2025-01-23"/>
   <titles>
@@ -25,9 +25,12 @@
     <action datetime="2025-01-23" state="REFERRED">
       <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
     </action>
+    <action datetime="2025-06-25" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="693" relation="identical"/>

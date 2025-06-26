@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-25",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-25",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by Unanimous Consent.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Natural Resources",
@@ -37,7 +59,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-25",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -63,8 +86,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-27",
+  "status": "REPORTED",
+  "status_at": "2025-06-25",
   "subjects": [
     "Colorado",
     "Lakes and rivers",
@@ -97,6 +120,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-24T20:10:31Z",
+  "updated_at": "2025-06-26T08:06:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1729.xml"
 }

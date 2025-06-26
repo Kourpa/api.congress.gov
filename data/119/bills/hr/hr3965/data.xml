@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3965" updated="2025-06-21T04:23:17Z">
-  <state datetime="2025-06-12">REFERRED</state>
+<bill session="119" type="h" number="3965" updated="2025-06-26T08:06:34Z">
+  <state datetime="2025-06-25">REPORTED</state>
   <status>
-    <introduced datetime="2025-06-12"/>
+    <unknown datetime="2025-06-25"/>
   </status>
   <introduced datetime="2025-06-12"/>
   <titles>
@@ -32,9 +32,22 @@
     <action datetime="2025-06-12" state="REFERRED">
       <text>Referred to the House Committee on Homeland Security.</text>
     </action>
+    <action datetime="2025-06-12">
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+    </action>
+    <action datetime="2025-06-25">
+      <text>Subcommittee on Border Security and Enforcement Discharged</text>
+    </action>
+    <action datetime="2025-06-25">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-06-25" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects/>

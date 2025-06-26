@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4070" updated="2025-06-25T08:06:19Z">
-  <state datetime="2025-06-23">REFERRED</state>
+<bill session="119" type="h" number="4070" updated="2025-06-26T08:06:05Z">
+  <state datetime="2025-06-25">REPORTED</state>
   <status>
-    <introduced datetime="2025-06-23"/>
+    <unknown datetime="2025-06-25"/>
   </status>
   <introduced datetime="2025-06-23"/>
   <titles>
@@ -15,6 +15,7 @@
     <cosponsor bioguide_id="B001325" joined="2025-06-24"/>
     <cosponsor bioguide_id="B001317" joined="2025-06-23"/>
     <cosponsor bioguide_id="C001132" joined="2025-06-23"/>
+    <cosponsor bioguide_id="C001120" joined="2025-06-25"/>
     <cosponsor bioguide_id="E000300" joined="2025-06-23"/>
     <cosponsor bioguide_id="G000597" joined="2025-06-23"/>
     <cosponsor bioguide_id="G000593" joined="2025-06-23"/>
@@ -24,6 +25,7 @@
     <cosponsor bioguide_id="G000591" joined="2025-06-23"/>
     <cosponsor bioguide_id="H001077" joined="2025-06-23"/>
     <cosponsor bioguide_id="H001058" joined="2025-06-24"/>
+    <cosponsor bioguide_id="L000599" joined="2025-06-25"/>
     <cosponsor bioguide_id="L000603" joined="2025-06-24"/>
     <cosponsor bioguide_id="M001230" joined="2025-06-23"/>
     <cosponsor bioguide_id="M001157" joined="2025-06-23"/>
@@ -40,9 +42,22 @@
     <action datetime="2025-06-23" state="REFERRED">
       <text>Referred to the House Committee on Homeland Security.</text>
     </action>
+    <action datetime="2025-06-23">
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+    </action>
+    <action datetime="2025-06-25">
+      <text>Subcommittee on Border Security and Enforcement Discharged</text>
+    </action>
+    <action datetime="2025-06-25">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-06-25" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects/>

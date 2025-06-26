@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2556" updated="2025-06-03T14:02:40Z">
-  <state datetime="2025-04-01">REFERRED</state>
+<bill session="119" type="h" number="2556" updated="2025-06-26T08:06:15Z">
+  <state datetime="2025-06-25">REPORTED</state>
   <status>
-    <introduced datetime="2025-04-01"/>
+    <unknown datetime="2025-06-25"/>
   </status>
   <introduced datetime="2025-04-01"/>
   <titles>
@@ -11,7 +11,9 @@
     <title type="official" as="introduced">To enhance national security and energy independence through comprehensive offshore energy resource assessment and mapping, to establish a framework for the regular review and standardization of offshore resource exploration methodologies, and for related purposes.</title>
   </titles>
   <sponsor bioguide_id="H001095"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001323" joined="2025-06-25"/>
+  </cosponsors>
   <actions>
     <action datetime="2025-04-01">
       <text>Introduced in House</text>
@@ -31,9 +33,18 @@
     <action datetime="2025-05-20">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2025-06-25">
+      <text>Subcommittee on Energy and Mineral Resources Discharged</text>
+    </action>
+    <action datetime="2025-06-25">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-06-25" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 25 - 18.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSII06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Hearings By (Subcommittee), Referral"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
