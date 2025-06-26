@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2625</number>
-    <updateDate>2025-05-24T08:05:26Z</updateDate>
-    <updateDateIncludingText>2025-05-24T08:05:26Z</updateDateIncludingText>
+    <updateDate>2025-06-26T08:06:18Z</updateDate>
+    <updateDateIncludingText>2025-06-26T08:06:18Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-06-25T19:36:01Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-05-06T14:18:40Z</date>
           </item>
@@ -32,6 +36,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-06-25</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 137.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00137</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-06-25</actionDate>
+        <text>Reported by the Committee on Veterans' Affairs. H. Rept. 119-171.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-06-25</actionDate>
+        <text>Reported by the Committee on Veterans' Affairs. H. Rept. 119-171.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-05-06</actionDate>
         <committees>
@@ -175,6 +224,26 @@
     <title>VERY Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>VERY Act of 2025</title>
+        <updateDate>2025-06-26T07:23:24Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Veterans Employment Readiness Yield Act of 2025</title>
+        <updateDate>2025-06-26T07:23:24Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>VERY Act of 2025</title>
@@ -207,6 +276,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-06-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2625rh/xml/BILLS-119hr2625rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-04-03T04:00:00Z</date>
         <formats>
@@ -217,8 +295,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-06</actionDate>
-      <text>Ordered to be Reported by Voice Vote.</text>
+      <actionDate>2025-06-25</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 137.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
