@@ -111,9 +111,94 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 530 Reported to House. Rule provides for consideration of H.R. 3944, H.R. 275, H.R. 875 and H. Res. 516. The resolution provides for consideration of H.R. 3944 under a structured rule and H.R. 275, H.R. 875, and H.Res. 516 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 3944, H.R. 275, and H.R. 875.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-06-26T13:02:36-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres530-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 530.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-26T13:02:41-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr3944-119",
+        "hr875-119",
+        "hres516-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 3944, H.R. 275, H.R. 875 and H. Res. 516. The resolution provides for consideration of H.R. 3944 under a structured rule and H.R. 275, H.R. 875, and H.Res. 516 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 3944, H.R. 275, and H.R. 875.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-26T13:03:46-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 275.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-26T13:42:01-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-26T13:42:52-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 275, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Correa demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-26T15:27:34-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-26T15:36:46-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "184",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 231 - 182 (Roll no. 184).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-06-26T15:36:48-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-26T15:36:49-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "UNANIMOUS CONSENT REQUEST - Ms. Greene (GA) asked unanimous consent that the Clerk be directed to make the change in the engrossment of H.R. 275 placed at the desk. Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt39-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "39"
+    }
+  ],
   "bill_id": "hr275-119",
   "bill_type": "hr",
   "by_request": false,
@@ -230,6 +315,8 @@
     "active_at": "2025-04-09",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-06-26T15:36:46-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-09",
@@ -253,8 +340,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-04-09",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-06-26T15:36:46-04:00",
   "subjects": [
     "Border security and unlawful immigration",
     "Congressional oversight",
@@ -298,6 +385,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-25T20:41:14Z",
+  "updated_at": "2025-06-27T08:09:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr275.xml"
 }

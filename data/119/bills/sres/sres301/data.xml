@@ -1,7 +1,7 @@
-<bill session="119" type="sr" number="301" updated="2025-06-26T06:48:21Z">
-  <state datetime="2025-06-24">REFERRED</state>
+<bill session="119" type="sr" number="301" updated="2025-06-27T10:56:23Z">
+  <state datetime="2025-06-26">PASSED:SIMPLERES</state>
   <status>
-    <introduced datetime="2025-06-24"/>
+    <unknown datetime="2025-06-26"/>
   </status>
   <introduced datetime="2025-06-24"/>
   <titles>
@@ -11,6 +11,7 @@
   <sponsor bioguide_id="K000367"/>
   <cosponsors>
     <cosponsor bioguide_id="B001230" joined="2025-06-24"/>
+    <cosponsor bioguide_id="D000563" joined="2025-06-26"/>
     <cosponsor bioguide_id="G000386" joined="2025-06-24"/>
     <cosponsor bioguide_id="S000148" joined="2025-06-24"/>
     <cosponsor bioguide_id="S001203" joined="2025-06-24"/>
@@ -24,9 +25,15 @@
       <text>Referred to the Committee on the Judiciary.</text>
       <reference ref="CR S3519" label="text"/>
     </action>
+    <action datetime="2025-06-26">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-06-26" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

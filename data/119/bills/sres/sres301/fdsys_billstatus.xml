@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>301</number>
-    <updateDate>2025-06-26T06:48:21Z</updateDate>
-    <updateDateIncludingText>2025-06-26T06:48:21Z</updateDateIncludingText>
+    <updateDate>2025-06-27T10:56:23Z</updateDate>
+    <updateDateIncludingText>2025-06-27T10:56:23Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SRES</type>
@@ -18,6 +18,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-06-26T23:20:52Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-06-24T22:34:05Z</date>
           </item>
@@ -25,6 +29,54 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-06-26</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-06-26</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-06-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-06-26</actionDate>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-06-24</actionDate>
         <committees>
@@ -113,6 +165,17 @@
         <sponsorshipDate>2025-06-24</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Durbin</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2025-06-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <title>A resolution condemning the attacks on Minnesota lawmakers in Brooklyn Park and Champlin, Minnesota and calling for unity and the rejection of political violence in Minnesota and across the United States.</title>
     <titles>
@@ -143,8 +206,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-24</actionDate>
-      <text>Referred to the Committee on the Judiciary. (text: CR S3519)</text>
+      <actionDate>2025-06-26</actionDate>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

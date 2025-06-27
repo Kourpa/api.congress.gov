@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="875" updated="2025-06-25T20:41:14Z">
-  <state datetime="2025-02-26">REPORTED</state>
+<bill session="119" type="h" number="875" updated="2025-06-27T08:09:15Z">
+  <state datetime="2025-06-26T15:27:31-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-02-26"/>
+    <unknown datetime="2025-06-26T15:27:31-04:00"/>
   </status>
   <introduced datetime="2025-01-31"/>
   <titles>
@@ -58,6 +58,30 @@
     <action datetime="2025-06-23T20:24:48-04:00">
       <text>Rules Committee Resolution H. Res. 530 Reported to House. Rule provides for consideration of H.R. 3944, H.R. 275, H.R. 875 and H. Res. 516. The resolution provides for consideration of H.R. 3944 under a structured rule and H.R. 275, H.R. 875, and H.Res. 516 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 3944, H.R. 275, and H.R. 875.</text>
     </action>
+    <action datetime="2025-06-26T12:21:23-04:00">
+      <text>Considered under the provisions of rule H. Res. 530.</text>
+    </action>
+    <action datetime="2025-06-26T12:21:28-04:00">
+      <text>Rule provides for consideration of H.R. 3944, H.R. 275, H.R. 875 and H. Res. 516. The resolution provides for consideration of H.R. 3944 under a structured rule and H.R. 275, H.R. 875, and H.Res. 516 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 3944, H.R. 275, and H.R. 875.</text>
+    </action>
+    <action datetime="2025-06-26T12:22:20-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 875.</text>
+    </action>
+    <action datetime="2025-06-26T12:59:52-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-06-26T13:00:41-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 875, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-06-26T15:00:30-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="183" datetime="2025-06-26T15:27:31-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 246 - 160 (Roll no. 183).</text>
+    </vote>
+    <action datetime="2025-06-26T15:27:33-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -71,7 +95,9 @@
     <term name="Drug, alcohol, tobacco use"/>
     <term name="Immigration status and procedures"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h38"/>
+  </amendments>
   <summary date="2025-05-23T20:34:40Z" status="Introduced in House"></summary>
   <committee-reports>
     <report>H. Rept. 119-30</report>
