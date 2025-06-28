@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>275</number>
-    <updateDate>2025-06-28T02:38:20Z</updateDate>
-    <updateDateIncludingText>2025-06-28T02:38:20Z</updateDateIncludingText>
+    <updateDate>2025-06-28T10:56:21Z</updateDate>
+    <updateDateIncludingText>2025-06-28T10:56:21Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,21 +15,23 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-06-27T21:15:50Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hshm00</systemCode>
         <name>Homeland Security Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
         <subcommittees>
-          <item>
-            <systemCode>hshm05</systemCode>
-            <name>Counterterrorism and Intelligence Subcommittee</name>
-            <activities>
-              <item>
-                <name>Referred to</name>
-                <date>2025-01-19T15:13:04Z</date>
-              </item>
-            </activities>
-          </item>
           <item>
             <systemCode>hshm11</systemCode>
             <name>Border Security and Enforcement Subcommittee</name>
@@ -41,6 +43,16 @@
               <item>
                 <name>Referred to</name>
                 <date>2025-01-09T18:42:53Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hshm05</systemCode>
+            <name>Counterterrorism and Intelligence Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-01-19T15:13:04Z</date>
               </item>
             </activities>
           </item>
@@ -109,9 +121,23 @@
     </relatedBills>
     <actions>
       <item>
+        <actionDate>2025-06-27</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2025-06-26</actionDate>
         <actionTime>15:36:49</actionTime>
-        <text>UNANIMOUS CONSENT REQUEST - Ms. Greene (GA) asked unanimous consent that the Clerk be directed to make the change in the engrossment of H.R. 275 placed at the desk. Agreed to without objection.</text>
+        <text>CORRECTION TO ENGROSSMENT - Ms. Greene (GA) asked unanimous consent that in the engrossment of H.R. 275, the Clerk be directed to make corrections, which were placed at the desk. Agreed to without objection.</text>
         <type>Floor</type>
         <actionCode>H8D000</actionCode>
         <sourceSystem>
@@ -154,7 +180,7 @@
       <item>
         <actionDate>2025-06-26</actionDate>
         <actionTime>15:36:46</actionTime>
-        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 231 - 182 (Roll no. 184).</text>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 231 - 182 (Roll no. 184). (text of amendment in the nature of a substitute: CR H2989)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -706,9 +732,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-26</actionDate>
-      <text>UNANIMOUS CONSENT REQUEST - Ms. Greene (GA) asked unanimous consent that the Clerk be directed to make the change in the engrossment of H.R. 275 placed at the desk. Agreed to without objection.</text>
-      <actionTime>15:36:49</actionTime>
+      <actionDate>2025-06-27</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

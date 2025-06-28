@@ -40,6 +40,63 @@
       "references": [],
       "text": "Rule H. Res. 530 passed House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-06-27T09:13:32-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres530-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 530.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-27T09:13:37-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr3944-119",
+        "hr275-119",
+        "hr875-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 3944, H.R. 275, H.R. 875 and H. Res. 516. The resolution provides for consideration of H.R. 3944 under a structured rule and H.R. 275, H.R. 875, and H.Res. 516 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 3944, H.R. 275, and H.R. 875.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-27T09:14:01-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 516.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-27T10:10:10-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule on the resolution and preamble.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-27T10:38:50-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "185",
+      "status": "PASSED:SIMPLERES",
+      "suspension": null,
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 215 - 195 (Roll no. 185).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-06-27T10:38:52-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -145,6 +202,8 @@
     "active_at": "2025-06-23T20:24:48-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-06-27T10:38:50-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-06-17",
@@ -174,8 +233,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-06-17",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-06-27T10:38:50-04:00",
   "subjects": [
     "California",
     "Crime and law enforcement",
@@ -207,6 +266,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-06-25T20:41:14Z",
+  "updated_at": "2025-06-28T08:06:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres516.xml"
 }
