@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3062" updated="2025-06-24T08:05:25Z">
-  <state datetime="2025-04-29">REFERRED</state>
+<bill session="119" type="h" number="3062" updated="2025-06-29T08:05:39Z">
+  <state datetime="2025-06-25">REPORTED</state>
   <status>
-    <introduced datetime="2025-04-29"/>
+    <unknown datetime="2025-06-25"/>
   </status>
   <introduced datetime="2025-04-29"/>
   <titles>
@@ -38,9 +38,15 @@
     <action datetime="2025-06-05">
       <text>Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 16 - 13.</text>
     </action>
+    <action datetime="2025-06-25">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-06-25" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 28 - 23.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSPW14" name="House Transportation and Infrastructure" subcommittee="Railroads, Pipelines, and Hazardous Materials" activity="Referral"/>
