@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1923" updated="2025-06-12T08:07:05Z">
+<bill session="119" type="h" number="1923" updated="2025-06-30T19:47:49Z">
   <state datetime="2025-03-06">REFERRED</state>
   <status>
     <introduced datetime="2025-03-06"/>
@@ -67,7 +67,10 @@
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="744" relation="unknown"/>
+    <bill session="119" type="s" number="773" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
   </subjects>
