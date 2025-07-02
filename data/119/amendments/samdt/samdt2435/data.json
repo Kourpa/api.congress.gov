@@ -1,10 +1,50 @@
 {
   "actions": [
     {
+      "acted_at": "2025-07-01",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": 362,
+      "text": "Amendment SA 2435, under the order of 7/1/2025, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 362.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-07-01",
+      "action_code": "",
+      "references": [],
+      "text": "Amendment SA 2435 proposed by Senator Sanders to Amendment SA 2360. To cut the price of prescription drugs under Medicare in half and expand Medicare to cover dental, vision, and hearing.",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-06-29",
       "action_code": "Intro-S",
       "references": [],
       "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-01",
+      "action_code": "93000",
+      "references": [],
+      "text": "Senate amendment proposed (on the floor): Amendment SA 2435 proposed by Senator Sanders to Amendment SA 2360.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-01",
+      "action_code": "95000",
+      "references": [],
+      "text": "Senate amendment not agreed to: Amendment SA 2435, under the order of 7/1/2025, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 362.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-01",
+      "action_code": "97000",
+      "references": [],
+      "text": "Roll call votes on amendments in Senate: Amendment SA 2435, under the order of 7/1/2025, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 362.",
       "type": "action"
     },
     {
@@ -36,7 +76,8 @@
   "congress": "119",
   "introduced_at": "2025-06-29",
   "number": 2435,
-  "purpose": null,
+  "proposed_at": "2025-07-01T04:00:00Z",
+  "purpose": "To cut the price of prescription drugs under Medicare in half and expand Medicare to cover dental, vision, and hearing.",
   "sponsor": {
     "bioguide_id": "S000033",
     "district": null,
@@ -45,7 +86,7 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2025-06-29",
-  "updated_at": "2025-06-30T11:08:52Z"
+  "status": "fail",
+  "status_at": "2025-07-01",
+  "updated_at": "2025-07-02T11:08:28Z"
 }

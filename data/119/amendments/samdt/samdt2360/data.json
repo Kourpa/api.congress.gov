@@ -1,6 +1,18 @@
 {
   "actions": [
     {
+      "acted_at": "2025-07-01",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": 371,
+      "text": "Amendment SA 2360, as amended, agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 371.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
       "acted_at": "2025-06-29",
       "action_code": "",
       "references": [],
@@ -49,16 +61,30 @@
     },
     {
       "acted_at": "2025-06-28",
-      "action_code": "91000",
+      "action_code": "93000",
       "references": [],
-      "text": "Senate amendment submitted",
+      "text": "Senate amendment proposed (on the floor): Amendment SA 2360 proposed by Senator Thune for Senator Graham.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-01",
+      "action_code": "94000",
+      "references": [],
+      "text": "Senate amendment agreed to: Amendment SA 2360, as amended, agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 371.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-01",
+      "action_code": "97000",
+      "references": [],
+      "text": "Roll call votes on amendments in Senate: Amendment SA 2360, as amended, agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 371.",
       "type": "action"
     },
     {
       "acted_at": "2025-06-28",
-      "action_code": "93000",
+      "action_code": "91000",
       "references": [],
-      "text": "Senate amendment proposed (on the floor): Amendment SA 2360 proposed by Senator Thune for Senator Graham.",
+      "text": "Senate amendment submitted",
       "type": "action"
     }
   ],
@@ -86,7 +112,7 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2025-06-28",
-  "updated_at": "2025-07-01T18:58:43Z"
+  "status": "pass",
+  "status_at": "2025-07-01",
+  "updated_at": "2025-07-02T11:08:26Z"
 }
