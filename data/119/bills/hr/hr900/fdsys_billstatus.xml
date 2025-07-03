@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>900</number>
-    <updateDate>2025-07-01T20:09:53Z</updateDate>
-    <updateDateIncludingText>2025-07-01T20:09:53Z</updateDateIncludingText>
+    <updateDate>2025-07-03T20:03:52Z</updateDate>
+    <updateDateIncludingText>2025-07-03T20:03:52Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-07-02T13:27:27Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-04-09T22:07:06Z</date>
           </item>
@@ -32,6 +36,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-07-02</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 147.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00147</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-07-02</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-182.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-07-02</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-182.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-04-09</actionDate>
         <committees>
@@ -287,8 +336,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-09</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.</text>
+      <actionDate>2025-07-02</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 147.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
