@@ -2,6 +2,25 @@
   "actions": [
     {
       "acted_at": "2025-07-02",
+      "action_code": "1000",
+      "references": [],
+      "text": "Introduced in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-02",
+      "action_code": "B00100",
+      "references": [
+        {
+          "reference": "CR E641",
+          "type": null
+        }
+      ],
+      "text": "Sponsor introductory remarks on measure.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-02",
       "action_code": "Intro-H",
       "references": [],
       "text": "Introduced in House",
@@ -71,7 +90,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-07-02",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -111,6 +131,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-03T20:03:50Z",
+  "updated_at": "2025-07-07T13:17:39Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4276.xml"
 }
