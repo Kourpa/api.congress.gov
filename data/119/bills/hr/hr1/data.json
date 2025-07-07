@@ -231,14 +231,24 @@
     {
       "acted_at": "2025-07-03T03:29:30-04:00",
       "action_code": "H40150",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3059-3187",
+          "type": "consideration"
+        }
+      ],
       "text": "Mr. Arrington moved that the House agree to the Senate amendment.",
       "type": "action"
     },
     {
       "acted_at": "2025-07-03T03:30:06-04:00",
       "action_code": "H8D000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3143",
+          "type": null
+        }
+      ],
       "text": "Mr. Arrington moved that the House agree to the Senate amendment to H.R. 1.",
       "type": "action"
     },
@@ -263,7 +273,12 @@
       "acted_at": "2025-07-03T14:31:38-04:00",
       "action_code": "H41610",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3059-3143",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "190",
       "status": "PASSED:BILL",
@@ -3684,6 +3699,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-07T11:23:10Z",
+  "updated_at": "2025-07-07T16:06:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1.xml"
 }
