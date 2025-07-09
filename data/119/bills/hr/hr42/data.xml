@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="42" updated="2025-07-04T08:05:47Z">
-  <state datetime="2025-06-18">PASSED:BILL</state>
+<bill session="119" type="h" number="42" updated="2025-07-09T13:02:31Z">
+  <state datetime="2025-07-07">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-06-18"/>
+    <unknown datetime="2025-07-07"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
@@ -50,6 +50,12 @@
     <topresident datetime="2025-07-03">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-07-07" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="119-22" type="public" datetime="2025-07-07">
+      <text>Became Public Law No: 119-22.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
