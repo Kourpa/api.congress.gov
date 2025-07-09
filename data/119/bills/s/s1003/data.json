@@ -49,6 +49,18 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-07-08",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -168,6 +180,8 @@
     "active_at": "2025-04-30",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-07-08",
     "vetoed": false
   },
   "introduced_at": "2025-03-12",
@@ -191,8 +205,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-04-30",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-07-08",
   "subjects": [
     "Animal protection and human-animal relationships",
     "Emergency communications systems",
@@ -207,6 +221,13 @@
     "text": ""
   },
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Lulu\u2019s Law",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -229,13 +250,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Lulu\u2019s Law",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -243,6 +257,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-09T04:23:19Z",
+  "updated_at": "2025-07-09T10:58:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1003.xml"
 }
