@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="504" updated="2025-07-09T01:47:22Z">
+<bill session="119" type="h" number="504" updated="2025-07-11T08:05:24Z">
   <state datetime="2025-06-25">REPORTED</state>
   <status>
     <unknown datetime="2025-06-25"/>
   </status>
   <introduced datetime="2025-01-16"/>
   <titles>
-    <title type="display">Miccosukee Reserved Area Amendments Act</title>
     <title type="short" as="introduced">Miccosukee Reserved Area Amendments Act</title>
+    <title type="short" as="reported to house">Miccosukee Reserved Area Amendments Act</title>
+    <title type="display">Miccosukee Reserved Area Amendments Act</title>
     <title type="official" as="introduced">To amend the Miccosukee Reserved Area Act to authorize the expansion of the Miccosukee Reserved Area and to carry out activities to protect structures within the Osceola Camp from flooding, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000593"/>
@@ -43,12 +44,21 @@
     <action datetime="2025-06-25" state="REPORTED">
       <text>Ordered to be Reported by Unanimous Consent.</text>
     </action>
+    <action datetime="2025-07-10">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 119-189, Part I.</text>
+    </action>
+    <action datetime="2025-07-10">
+      <text>Committee on Transportation discharged.</text>
+    </action>
+    <calendar datetime="2025-07-10" calendar="Union" number="154">
+      <text>Placed on the Union Calendar, Calendar No. 154.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Discharged, Referred To"/>
-    <committee code="HSII24" name="House Natural Resources" subcommittee="Indian and Insular Affairs" activity="Hearings By (Subcommittee), Referral"/>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSPW02" name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
+    <committee code="HSII24" name="House Natural Resources" subcommittee="Indian and Insular Affairs" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="673" relation="identical"/>

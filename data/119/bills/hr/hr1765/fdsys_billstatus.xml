@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1765</number>
-    <updateDate>2025-06-20T14:20:17Z</updateDate>
-    <updateDateIncludingText>2025-06-20T14:20:17Z</updateDateIncludingText>
+    <updateDate>2025-07-11T08:06:07Z</updateDate>
+    <updateDateIncludingText>2025-07-11T08:06:07Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,11 +15,31 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-07-10T15:44:56Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-03-03T17:01:30Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsif00</systemCode>
         <name>Energy and Commerce Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2025-07-10T15:44:38Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-03-04T15:56:15Z</date>
@@ -30,20 +50,85 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hsfa00</systemCode>
-        <name>Foreign Affairs Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-03-03T17:01:30Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 160.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00160</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <text>Committee on Foreign Affairs discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <text>Committee on Foreign Affairs discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-196, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-196, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-03-04</actionDate>
         <committees>
@@ -229,6 +314,16 @@
     <title>Promoting United States Wireless Leadership Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Promoting United States Wireless Leadership Act of 2025</title>
+        <updateDate>2025-07-11T05:38:18Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Promoting United States Wireless Leadership Act of 2025</title>
@@ -253,6 +348,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-07-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr1765rh/xml/BILLS-119hr1765rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-03T05:00:00Z</date>
         <formats>
@@ -263,8 +367,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-04</actionDate>
-      <text>Ordered to be Reported by Voice Vote.</text>
+      <actionDate>2025-07-10</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 160.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

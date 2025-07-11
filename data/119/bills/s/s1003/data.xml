@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="1003" updated="2025-07-09T17:57:49Z">
+<bill session="119" type="s" number="1003" updated="2025-07-11T11:19:46Z">
   <state datetime="2025-07-08">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-07-08"/>
@@ -44,6 +44,15 @@
       <reference ref="CR S4261" label="consideration"/>
       <reference ref="CR S4261" label="text"/>
     </vote>
+    <action datetime="2025-07-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2025-07-10T11:04:54-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2025-07-10T11:05:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>

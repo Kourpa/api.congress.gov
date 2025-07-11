@@ -88,6 +88,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by Unanimous Consent.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-07-10",
+      "action_code": "H12200",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 119-189, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-10",
+      "action_code": "H12300",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Committee on Transportation discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-10",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "154",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 154.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -98,6 +128,24 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Water Resources and Environment",
+      "subcommittee_id": "02"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "discharged",
         "Referred To"
@@ -114,22 +162,6 @@
       "committee_id": "HSII",
       "subcommittee": "Subcommittee on Indian and Insular Affairs",
       "subcommittee_id": "24"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Transportation and Infrastructure",
-      "committee_id": "HSPW"
-    },
-    {
-      "activity": [
-        "referral"
-      ],
-      "committee": "House Transportation and Infrastructure",
-      "committee_id": "HSPW",
-      "subcommittee": "Subcommittee on Water Resources and Environment",
-      "subcommittee_id": "02"
     }
   ],
   "congress": "119",
@@ -212,6 +244,20 @@
   },
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Miccosukee Reserved Area Amendments Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Miccosukee Reserved Area Amendments Act",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -222,17 +268,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Miccosukee Reserved Area Amendments Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To amend the Miccosukee Reserved Area Act to authorize the expansion of the Miccosukee Reserved Area and to carry out activities to protect structures within the Osceola Camp from flooding, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-09T01:47:22Z",
+  "updated_at": "2025-07-11T08:05:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr504.xml"
 }

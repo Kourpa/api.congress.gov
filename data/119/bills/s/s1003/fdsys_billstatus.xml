@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1003</number>
-    <updateDate>2025-07-09T17:57:49Z</updateDate>
-    <updateDateIncludingText>2025-07-09T17:57:49Z</updateDateIncludingText>
+    <updateDate>2025-07-11T11:19:46Z</updateDate>
+    <updateDateIncludingText>2025-07-11T11:19:46Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -56,6 +56,36 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <actionTime>11:05:00</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <actionTime>11:04:54</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2025-07-08</actionDate>
         <sourceSystem>
@@ -305,7 +335,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Lulu’s Law</title>
-        <updateDate>2025-07-09T10:58:18Z</updateDate>
+        <updateDate>2025-07-11T11:03:19Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
@@ -374,8 +404,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-08</actionDate>
-      <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S4261; text: CR S4261)</text>
+      <actionDate>2025-07-10</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>11:05:00</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

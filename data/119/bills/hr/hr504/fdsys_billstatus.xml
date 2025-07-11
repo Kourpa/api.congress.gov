@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>504</number>
-    <updateDate>2025-07-09T01:47:22Z</updateDate>
-    <updateDateIncludingText>2025-07-09T01:47:22Z</updateDateIncludingText>
+    <updateDate>2025-07-11T08:05:24Z</updateDate>
+    <updateDateIncludingText>2025-07-11T08:05:24Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,34 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 9 (Thursday, January 16, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. GIMENEZ:H.R. 504.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the Constitution statingthat Congress has the authority to ``make all laws whichshall be necessary and proper for carrying into execution theforegoing powers, and all other powers vested by theConstitution''.[Page H222]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw02</systemCode>
+            <name>Water Resources and Environment Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-01-17T15:38:15Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-07-10T15:38:54Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-01-16T14:10:05Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsii00</systemCode>
         <name>Natural Resources Committee</name>
@@ -37,6 +65,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-07-10T15:38:25Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-06-25T20:33:25Z</date>
           </item>
@@ -47,30 +79,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-01-16T14:10:00Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hspw00</systemCode>
-        <name>Transportation and Infrastructure Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <subcommittees>
-          <item>
-            <systemCode>hspw02</systemCode>
-            <name>Water Resources and Environment Subcommittee</name>
-            <activities>
-              <item>
-                <name>Referred to</name>
-                <date>2025-01-17T15:38:15Z</date>
-              </item>
-            </activities>
-          </item>
-        </subcommittees>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-01-16T14:10:05Z</date>
           </item>
         </activities>
       </item>
@@ -94,6 +102,83 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 154.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00154</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <text>Committee on Transportation discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <text>Committee on Transportation discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 119-189, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 119-189, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-06-25</actionDate>
         <committees>
@@ -327,6 +412,16 @@
     <title>Miccosukee Reserved Area Amendments Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Miccosukee Reserved Area Amendments Act</title>
+        <updateDate>2025-07-11T04:38:17Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Miccosukee Reserved Area Amendments Act</title>
@@ -351,6 +446,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-07-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr504rh/xml/BILLS-119hr504rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-01-16T05:00:00Z</date>
         <formats>
@@ -361,8 +465,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-25</actionDate>
-      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <actionDate>2025-07-10</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 154.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

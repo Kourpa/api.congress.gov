@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4" updated="2025-06-23T17:39:35Z">
+<bill session="119" type="h" number="4" updated="2025-07-11T10:56:25Z">
   <state datetime="2025-06-12T15:54:16-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-06-12T15:54:16-04:00"/>
@@ -68,8 +68,13 @@
     <action datetime="2025-06-12T15:54:18-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-07-10">
+      <text>Received in the Senate and Read twice and referred jointly to the Committee on Appropriations; the Budget pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSBU" name="Senate Budget" subcommittee="" activity="Referred To"/>
+    <committee code="SSAP" name="Senate Appropriations" subcommittee="" activity="Referred To"/>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Unknown, Unknown, Referred To"/>
   </committees>
   <relatedbills>

@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="1765" updated="2025-06-20T14:20:17Z">
+<bill session="119" type="h" number="1765" updated="2025-07-11T08:06:07Z">
   <state datetime="2025-03-04">REPORTED</state>
   <status>
     <unknown datetime="2025-03-04"/>
   </status>
   <introduced datetime="2025-03-03"/>
   <titles>
-    <title type="display">Promoting United States Wireless Leadership Act of 2025</title>
     <title type="short" as="introduced">Promoting United States Wireless Leadership Act of 2025</title>
+    <title type="short" as="reported to house">Promoting United States Wireless Leadership Act of 2025</title>
+    <title type="display">Promoting United States Wireless Leadership Act of 2025</title>
     <title type="official" as="introduced">To direct the Assistant Secretary of Commerce for Communications and Information to take certain actions to enhance the representation of the United States and promote United States leadership in communications standards-setting bodies, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="K000398"/>
@@ -31,10 +32,19 @@
     <action datetime="2025-03-04" state="REPORTED">
       <text>Ordered to be Reported by Voice Vote.</text>
     </action>
+    <action datetime="2025-07-10">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-196, Part I.</text>
+    </action>
+    <action datetime="2025-07-10">
+      <text>Committee on Foreign Affairs discharged.</text>
+    </action>
+    <calendar datetime="2025-07-10" calendar="Union" number="160">
+      <text>Placed on the Union Calendar, Calendar No. 160.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
-    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

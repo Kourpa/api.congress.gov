@@ -1,7 +1,7 @@
-<bill session="119" type="sr" number="315" updated="2025-07-10T10:56:21Z">
-  <state datetime="2025-07-08">REFERRED</state>
+<bill session="119" type="sr" number="315" updated="2025-07-11T10:56:24Z">
+  <state datetime="2025-07-10">PASSED:SIMPLERES</state>
   <status>
-    <introduced datetime="2025-07-08"/>
+    <unknown datetime="2025-07-10"/>
   </status>
   <introduced datetime="2025-07-08"/>
   <titles>
@@ -28,6 +28,7 @@
     <cosponsor bioguide_id="R000584" joined="2025-07-08"/>
     <cosponsor bioguide_id="R000608" joined="2025-07-08"/>
     <cosponsor bioguide_id="S001150" joined="2025-07-08"/>
+    <cosponsor bioguide_id="S001217" joined="2025-07-10"/>
     <cosponsor bioguide_id="S001208" joined="2025-07-08"/>
     <cosponsor bioguide_id="S001198" joined="2025-07-08"/>
     <cosponsor bioguide_id="V000128" joined="2025-07-08"/>
@@ -40,9 +41,15 @@
       <text>Referred to the Committee on Energy and Natural Resources.</text>
       <reference ref="CR S4260" label="text"/>
     </action>
+    <action datetime="2025-07-10">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-07-10" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

@@ -22,6 +22,28 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on Energy and Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-07-10",
+      "action_code": "",
+      "committees": [
+        "SSEG"
+      ],
+      "references": [],
+      "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-10",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -32,6 +54,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Energy and Natural Resources",
@@ -221,6 +244,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "S001217",
+      "district": null,
+      "name": "Scott, Rick",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-07-10",
+      "state": "FL",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "S001208",
       "district": null,
       "name": "Slotkin, Elissa",
@@ -253,9 +286,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-07-10",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-07-10",
     "vetoed": false
   },
   "introduced_at": "2025-07-08",
@@ -272,8 +308,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-07-08",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-07-10",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -293,6 +329,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-07-10T10:56:21Z",
+  "updated_at": "2025-07-11T10:56:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres315.xml"
 }

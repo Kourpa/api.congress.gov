@@ -273,6 +273,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C001091",
+      "district": "20",
+      "name": "Castro, Joaquin",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-07-10",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "C001080",
       "district": "28",
       "name": "Chu, Judy",
@@ -319,6 +329,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-05-20",
       "state": "NJ",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001110",
+      "district": "46",
+      "name": "Correa, J. Luis",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-07-10",
+      "state": "CA",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -953,6 +973,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "N000188",
+      "district": "1",
+      "name": "Norcross, Donald",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-07-10",
+      "state": "NJ",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "N000147",
       "district": "0",
       "name": "Norton, Eleanor Holmes",
@@ -1384,7 +1414,14 @@
   "number": "3514",
   "official_title": "To amend title XVIII of the Social Security Act to establish requirements with respect to the use of prior authorization under Medicare Advantage plans.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s1816-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
+    }
+  ],
   "short_title": "Improving Seniors\u2019 Timely Access to Care Act of 2025",
   "sponsor": {
     "bioguide_id": "K000376",
@@ -1396,8 +1433,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-05-20",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Health"
+  ],
+  "subjects_top_term": "Health",
   "summary": null,
   "titles": [
     {
@@ -1422,6 +1461,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-03T20:04:29Z",
+  "updated_at": "2025-07-11T12:36:45Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3514.xml"
 }

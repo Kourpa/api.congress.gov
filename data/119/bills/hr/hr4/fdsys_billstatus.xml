@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4</number>
-    <updateDate>2025-06-23T17:39:35Z</updateDate>
-    <updateDateIncludingText>2025-06-23T17:39:35Z</updateDateIncludingText>
+    <updateDate>2025-07-11T10:56:25Z</updateDate>
+    <updateDateIncludingText>2025-07-11T10:56:25Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,30 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 97 (Friday, June 6, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. SCALISE:H.R. 4.Congress has the power to enact this legislation pursuantto the following:ArticleISection9Clause7[Page H2534]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>ssbu00</systemCode>
+        <name>Budget Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-07-10T17:54:37Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>ssap00</systemCode>
+        <name>Appropriations Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-07-10T17:54:00Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsap00</systemCode>
         <name>Appropriations Committee</name>
@@ -55,6 +79,24 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-07-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+          <item>
+            <systemCode>ssbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred jointly to the Committee on Appropriations; the Budget pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2025-06-12</actionDate>
         <actionTime>15:54:18</actionTime>
@@ -722,9 +764,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-12</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>15:54:18</actionTime>
+      <actionDate>2025-07-10</actionDate>
+      <text>Received in the Senate and Read twice and referred jointly to the Committee on Appropriations; the Budget pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
