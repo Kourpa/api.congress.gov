@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3972</number>
-    <updateDate>2025-07-09T02:02:54Z</updateDate>
-    <updateDateIncludingText>2025-07-09T02:02:54Z</updateDateIncludingText>
+    <updateDate>2025-07-15T08:06:23Z</updateDate>
+    <updateDateIncludingText>2025-07-15T08:06:23Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,30 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw12</systemCode>
+            <name>Highways and Transit Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-06-13T20:53:02Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-06-12T14:01:30Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsif00</systemCode>
         <name>Energy and Commerce Committee</name>
         <chamber>House</chamber>
@@ -23,18 +47,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-06-12T14:01:35Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hspw00</systemCode>
-        <name>Transportation and Infrastructure Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-06-12T14:01:30Z</date>
           </item>
         </activities>
       </item>
@@ -58,6 +70,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-06-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw12</systemCode>
+            <name>Highways and Transit Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-06-12</actionDate>
         <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -193,8 +220,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-12</actionDate>
-      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2025-06-13</actionDate>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

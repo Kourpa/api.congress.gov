@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3649</number>
-    <updateDate>2025-06-03T14:35:20Z</updateDate>
-    <updateDateIncludingText>2025-06-03T14:35:20Z</updateDateIncludingText>
+    <updateDate>2025-07-15T08:06:24Z</updateDate>
+    <updateDateIncludingText>2025-07-15T08:06:24Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,30 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 91 (Thursday, May 29, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. NEGUSE:H.R. 3649.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2377]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw12</systemCode>
+            <name>Highways and Transit Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-05-30T19:46:15Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-05-29T15:02:00Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsif00</systemCode>
         <name>Energy and Commerce Committee</name>
@@ -26,20 +50,23 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hspw00</systemCode>
-        <name>Transportation and Infrastructure Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-05-29T15:02:00Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-05-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw12</systemCode>
+            <name>Highways and Transit Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-05-29</actionDate>
         <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -177,8 +204,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-29</actionDate>
-      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2025-05-30</actionDate>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

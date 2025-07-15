@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3972" updated="2025-07-09T02:02:54Z">
+<bill session="119" type="h" number="3972" updated="2025-07-15T08:06:23Z">
   <state datetime="2025-06-12">REFERRED</state>
   <status>
     <introduced datetime="2025-06-12"/>
@@ -24,10 +24,14 @@
     <action datetime="2025-06-12">
       <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-06-13">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW12" name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1066" relation="identical"/>

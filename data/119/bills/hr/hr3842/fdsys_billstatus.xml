@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3842</number>
-    <updateDate>2025-06-17T05:18:25Z</updateDate>
-    <updateDateIncludingText>2025-06-17T05:18:25Z</updateDateIncludingText>
+    <updateDate>2025-07-15T08:05:52Z</updateDate>
+    <updateDateIncludingText>2025-07-15T08:05:52Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,18 @@
         <name>Transportation and Infrastructure Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw07</systemCode>
+            <name>Coast Guard and Maritime Transportation Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-06-10T20:30:30Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -28,6 +40,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-06-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw07</systemCode>
+            <name>Coast Guard and Maritime Transportation Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-06-09</actionDate>
         <text>Referred to the House Committee on Transportation and Infrastructure.</text>
@@ -120,8 +147,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-09</actionDate>
-      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      <actionDate>2025-06-10</actionDate>
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
