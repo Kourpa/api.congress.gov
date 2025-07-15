@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3924" updated="2025-06-17T04:23:21Z">
+<bill session="119" type="h" number="3924" updated="2025-07-15T17:17:31Z">
   <state datetime="2025-06-11">REFERRED</state>
   <status>
     <introduced datetime="2025-06-11"/>
@@ -29,14 +29,22 @@
     <action datetime="2025-06-11">
       <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Science, Space, and Technology, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-06-12">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="2039" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
   <amendments/>
 </bill>

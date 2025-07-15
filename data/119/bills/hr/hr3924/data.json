@@ -47,6 +47,16 @@
       "references": [],
       "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, Science, Space, and Technology, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-12",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -61,6 +71,15 @@
       ],
       "committee": "House Transportation and Infrastructure",
       "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management",
+      "subcommittee_id": "13"
     },
     {
       "activity": [
@@ -108,7 +127,14 @@
   "number": "3924",
   "official_title": "To direct the Secretary of Agriculture, the Secretary of the Interior, and the Secretary of Homeland Security to carry out a quadrennial fire review, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s2039-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Wildfire Risk Evaluation Act",
   "sponsor": {
     "bioguide_id": "N000191",
@@ -120,8 +146,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-06-11",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Emergency management"
+  ],
+  "subjects_top_term": "Emergency management",
   "summary": null,
   "titles": [
     {
@@ -146,6 +174,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-17T04:23:21Z",
+  "updated_at": "2025-07-15T17:17:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3924.xml"
 }
