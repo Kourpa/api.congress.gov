@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4065" updated="2025-07-08T07:23:25Z">
+<bill session="119" type="h" number="4065" updated="2025-07-16T13:40:14Z">
   <state datetime="2025-06-20">REFERRED</state>
   <status>
     <introduced datetime="2025-06-20"/>
@@ -29,7 +29,11 @@
     <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="1403" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
   <amendments/>
 </bill>
