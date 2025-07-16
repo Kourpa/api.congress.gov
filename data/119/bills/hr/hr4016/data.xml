@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4016" updated="2025-07-03T14:54:24Z">
+<bill session="119" type="h" number="4016" updated="2025-07-16T08:35:39Z">
   <state datetime="2025-06-16">INTRODUCED</state>
   <status>
     <introduced datetime="2025-06-16"/>
@@ -7,7 +7,6 @@
   <titles>
     <title type="display">Department of Defense Appropriations Act, 2026</title>
     <title type="short" as="reported to house">Department of Defense Appropriations Act, 2026</title>
-    <title type="short" as="reported to house" partial="1">Department of Defense Appropriations Act, 2026</title>
     <title type="official" as="introduced">Making appropriations for the Department of Defense for the fiscal year ending September 30, 2026, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C000059"/>
@@ -19,11 +18,16 @@
     <calendar datetime="2025-06-16" calendar="Union" number="129">
       <text>Placed on the Union Calendar, Calendar No. 129.</text>
     </calendar>
+    <action datetime="2025-07-15T09:34:09-04:00">
+      <text>Rules Committee Resolution H. Res. 580 Reported to House. Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Reported Original Measure"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="580" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
     <term name="Africa"/>

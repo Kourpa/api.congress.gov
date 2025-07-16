@@ -322,6 +322,29 @@
       "references": [],
       "text": "Held at the desk.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-07-15T09:34:09-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres580-119",
+        "hr4016-119",
+        "hr3633-119",
+        "hr1919-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 580 Reported to House. Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-15T14:29:18-04:00",
+      "action_code": "H1L220",
+      "bill_ids": [
+        "hres580-119"
+      ],
+      "references": [],
+      "text": "Rule H. Res. 580 failed passage of House.",
+      "type": "action"
     }
   ],
   "amendments": [
@@ -1180,7 +1203,14 @@
   "number": "1582",
   "official_title": "A bill to provide for the regulation of payment stablecoins, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres580-119",
+      "identified_by": "House",
+      "reason": "procedurally-related",
+      "type": "bill"
+    }
+  ],
   "short_title": "GENIUS Act",
   "sponsor": {
     "bioguide_id": "H000601",
@@ -1268,6 +1298,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-11T18:50:16Z",
+  "updated_at": "2025-07-16T08:07:11Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1582.xml"
 }

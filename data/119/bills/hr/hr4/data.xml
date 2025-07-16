@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4" updated="2025-07-12T02:23:16Z">
+<bill session="119" type="h" number="4" updated="2025-07-16T11:08:22Z">
   <state datetime="2025-06-12T15:54:16-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-06-12T15:54:16-04:00"/>
@@ -72,9 +72,21 @@
     <action datetime="2025-07-10">
       <text>Received in the Senate and Read twice and referred jointly to the Committee on Appropriations; the Budget pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.</text>
     </action>
+    <action datetime="2025-07-15">
+      <text>Motion to discharge Senate Committees on Appropriations; the Budget made. Pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.</text>
+    </action>
+    <action datetime="2025-07-15">
+      <text>Senate Committee on Appropriations; the Budget discharged by Yea-Nay Vote. 51 - 50. Record Vote Number: 391 Pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.</text>
+    </action>
+    <action datetime="2025-07-15">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 392.</text>
+    </action>
+    <action datetime="2025-07-15">
+      <text>Measure laid before Senate by motion.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSBU" name="Senate Budget" subcommittee="" activity="Referred To"/>
+    <committee code="SSBU" name="Senate Budget" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="SSAP" name="Senate Appropriations" subcommittee="" activity="Referred To"/>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Unknown, Unknown, Referred To"/>
   </committees>
@@ -151,6 +163,8 @@
     <term name="Women's health"/>
     <term name="World health"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s2853"/>
+  </amendments>
   <summary date="2025-06-13T18:27:57Z" status="Passed House"></summary>
 </bill>

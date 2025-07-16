@@ -19,6 +19,19 @@
       "text": "Placed on the Union Calendar, Calendar No. 129.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-07-15T09:34:09-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres580-119",
+        "hr3633-119",
+        "hr1919-119",
+        "s1582-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 580 Reported to House. Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -41,7 +54,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-07-15T09:34:09-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -50,7 +64,14 @@
   "number": "4016",
   "official_title": "Making appropriations for the Department of Defense for the fiscal year ending September 30, 2026, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres580-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Department of Defense Appropriations Act, 2026",
   "sponsor": {
     "bioguide_id": "C000059",
@@ -175,13 +196,6 @@
       "type": "short"
     },
     {
-      "as": "reported to house",
-      "is_for_portion": true,
-      "textVersionCode": null,
-      "title": "Department of Defense Appropriations Act, 2026",
-      "type": "short"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -189,6 +203,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-03T14:54:24Z",
+  "updated_at": "2025-07-16T08:35:39Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4016.xml"
 }

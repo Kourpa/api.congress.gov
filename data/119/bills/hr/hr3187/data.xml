@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3187" updated="2025-06-26T17:29:02Z">
-  <state datetime="2025-05-05">REFERRED</state>
+<bill session="119" type="h" number="3187" updated="2025-07-16T08:07:21Z">
+  <state datetime="2025-07-15">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-05"/>
+    <unknown datetime="2025-07-15"/>
   </status>
   <introduced datetime="2025-05-05"/>
   <titles>
@@ -23,9 +23,18 @@
     <action datetime="2025-06-10">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2025-07-15">
+      <text>Subcommittee on Federal Lands Discharged</text>
+    </action>
+    <action datetime="2025-07-15">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-07-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills/>

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="435" updated="2025-06-25T16:32:17Z">
-  <state datetime="2025-01-15">REFERRED</state>
+<bill session="119" type="h" number="435" updated="2025-07-16T08:07:12Z">
+  <state datetime="2025-07-15">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-15"/>
+    <unknown datetime="2025-07-15"/>
   </status>
   <introduced datetime="2025-01-15"/>
   <titles>
@@ -30,11 +30,17 @@
     <action datetime="2025-04-04">
       <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
     </action>
+    <action datetime="2025-07-15">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-07-15" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSAG15" name="House Agriculture" subcommittee="Forestry and Horticulture" activity="Referral"/>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

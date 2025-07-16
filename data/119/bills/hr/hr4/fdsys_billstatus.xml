@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4</number>
-    <updateDate>2025-07-12T02:23:16Z</updateDate>
-    <updateDateIncludingText>2025-07-12T02:23:16Z</updateDateIncludingText>
+    <updateDate>2025-07-16T11:08:22Z</updateDate>
+    <updateDateIncludingText>2025-07-16T11:08:22Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-07-16T01:19:27Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-07-10T17:54:37Z</date>
@@ -79,6 +83,108 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-07-15</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by motion.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-07-15</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 392.</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>392</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00392.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2025-07-16T01:46:11Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-07-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+          <item>
+            <systemCode>ssbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Appropriations; the Budget discharged by Yea-Nay Vote. 51 - 50. Record Vote Number: 391 Pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.</text>
+        <type>Discharge</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>391</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00391.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2025-07-16T01:19:27Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-07-15</actionDate>
+        <text>Senate Committee on Appropriations; the Budget discharged by Yea-Nay Vote. 51 - 50. Record Vote Number: 391 Pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+          <item>
+            <systemCode>ssbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>391</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00391.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2025-07-16T01:19:27Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-07-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+          <item>
+            <systemCode>ssbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to discharge Senate Committees on Appropriations; the Budget made. Pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.</text>
+        <type>Discharge</type>
+      </item>
       <item>
         <actionDate>2025-07-10</actionDate>
         <committees>
@@ -753,6 +859,111 @@
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>2853</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2025-07-16T11:08:22Z</updateDate>
+        <latestAction>
+          <actionDate>2025-07-15</actionDate>
+          <text>Amendment SA 2853 proposed by Senator Thune for Senator Schmitt. In the nature of a substitute.</text>
+          <links>
+            <link>
+              <name>SA 2853</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/2853</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S001227</bioguideId>
+            <fullName>Sen. Schmitt, Eric [R-MO]</fullName>
+            <firstName>Eric</firstName>
+            <lastName>Schmitt</lastName>
+            <party>R</party>
+            <state>MO</state>
+            <middleName>S.</middleName>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Submitted on behalf of</type>
+          </item>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2025-07-15T04:00:00Z</proposedDate>
+        <submittedDate>2025-07-15T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>4</number>
+          <title>Rescissions Act of 2025</title>
+          <updateDateIncludingText>2025-07-16</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2025-07-15</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2853 proposed by Senator Thune for Senator Schmitt. In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2025-07-15</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-07-15</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-07-15</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 2853 proposed by Senator Thune for Senator Schmitt.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Referred in Senate</type>
@@ -783,8 +994,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-10</actionDate>
-      <text>Received in the Senate and Read twice and referred jointly to the Committee on Appropriations; the Budget pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.</text>
+      <actionDate>2025-07-15</actionDate>
+      <text>Measure laid before Senate by motion.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1815" updated="2025-05-31T18:26:12Z">
-  <state datetime="2025-05-19T17:03:08-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="1815" updated="2025-07-16T10:56:26Z">
+  <state datetime="2025-07-15">PASSED:BILL</state>
   <status>
-    <unknown datetime="2025-05-19T17:03:08-04:00"/>
+    <unknown datetime="2025-07-15"/>
   </status>
   <introduced datetime="2025-03-03"/>
   <titles>
@@ -62,9 +62,15 @@
     <action datetime="2025-05-20">
       <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-07-15">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="2025-07-15" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSVR10" name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Reporting, Markup, Hearings By (Subcommittee), Referral"/>
   </committees>

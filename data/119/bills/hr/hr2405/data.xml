@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2405" updated="2025-05-14T12:58:33Z">
-  <state datetime="2025-03-27">REFERRED</state>
+<bill session="119" type="h" number="2405" updated="2025-07-16T08:06:31Z">
+  <state datetime="2025-07-15">REPORTED</state>
   <status>
-    <introduced datetime="2025-03-27"/>
+    <unknown datetime="2025-07-15"/>
   </status>
   <introduced datetime="2025-03-27"/>
   <titles>
@@ -35,12 +35,18 @@
     <action datetime="2025-04-18">
       <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
     </action>
+    <action datetime="2025-07-15">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-07-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSAG15" name="House Agriculture" subcommittee="Forestry and Horticulture" activity="Referral"/>
     <committee code="HSAG14" name="House Agriculture" subcommittee="Conservation, Research, and Biotechnology" activity="Referral"/>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="471" relation="unknown"/>
