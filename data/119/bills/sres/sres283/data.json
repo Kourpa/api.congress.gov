@@ -36,7 +36,12 @@
     {
       "acted_at": "2025-07-14",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S4342: 1",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -44,7 +49,12 @@
       "acted_at": "2025-07-14",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S4342-4343",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:SIMPLERES",
       "text": "Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.",
@@ -243,6 +253,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-07-15T11:08:29Z",
+  "updated_at": "2025-07-16T17:51:32Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres283.xml"
 }

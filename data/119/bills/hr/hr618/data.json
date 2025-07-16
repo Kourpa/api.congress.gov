@@ -147,6 +147,24 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2025-07-16",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
+    },
+    {
+      "acted_at": "2025-07-16",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "24",
+      "references": [],
+      "text": "Became Public Law No: 119-24.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -200,13 +218,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "24"
+  },
   "history": {
     "active": true,
     "active_at": "2025-02-12",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2025-07-03",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2025-07-16",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-05-13T17:26:08-04:00",
     "senate_passage_result": "pass",
@@ -227,8 +249,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2025-06-18",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2025-07-16",
   "subjects": [
     "Environmental assessment, monitoring, research",
     "Land transfers",
@@ -286,6 +308,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-04T08:05:46Z",
+  "updated_at": "2025-07-16T18:35:04Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr618.xml"
 }

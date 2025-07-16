@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="433" updated="2025-07-16T11:48:11Z">
+<bill session="119" type="s" number="433" updated="2025-07-16T17:36:18Z">
   <state datetime="2025-07-14">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-07-14"/>
@@ -33,6 +33,8 @@
     </calendar>
     <vote how="by Voice Vote" type="vote" datetime="2025-07-14" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate with an amendment by Voice Vote.</text>
+      <reference ref="CR S4339: 1" label="consideration"/>
+      <reference ref="CR S4340-4341" label="text of amendment in the nature of a substitute"/>
     </vote>
     <action datetime="2025-07-15">
       <text>Message on Senate action sent to the House.</text>
