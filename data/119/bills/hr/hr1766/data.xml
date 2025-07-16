@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1766" updated="2025-07-09T02:43:57Z">
-  <state datetime="2025-03-04">REPORTED</state>
+<bill session="119" type="h" number="1766" updated="2025-07-15T22:00:56Z">
+  <state datetime="2025-07-14T15:33:21-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-03-04"/>
+    <unknown datetime="2025-07-14T15:33:21-04:00"/>
   </status>
   <introduced datetime="2025-03-03"/>
   <titles>
@@ -33,6 +33,24 @@
     <calendar datetime="2025-06-30" calendar="Union" number="141">
       <text>Placed on the Union Calendar, Calendar No. 141.</text>
     </calendar>
+    <action datetime="2025-07-14T15:22:18-04:00">
+      <text>Mr. Latta moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-07-14T15:22:31-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-07-14T15:22:32-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1766.</text>
+    </action>
+    <action datetime="2025-07-14T15:27:41-04:00">
+      <text>DEBATE - The House resumed debate on H.R. 1766.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-07-14T15:33:21-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-07-14T15:33:24-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -55,4 +73,7 @@
   </subjects>
   <amendments/>
   <summary date="2025-03-28T18:02:29Z" status="Introduced in House"></summary>
+  <committee-reports>
+    <report>H. Rept. 119-175</report>
+  </committee-reports>
 </bill>
