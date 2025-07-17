@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="504" updated="2025-07-16T15:53:24Z">
-  <state datetime="2025-07-14T17:09:28-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="504" updated="2025-07-17T17:42:47Z">
+  <state datetime="2025-07-14T18:05:28-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-07-14T17:09:28-04:00"/>
+    <unknown datetime="2025-07-14T18:05:28-04:00"/>
   </status>
   <introduced datetime="2025-01-16"/>
   <titles>
@@ -54,20 +54,22 @@
     <calendar datetime="2025-07-10" calendar="Union" number="154">
       <text>Placed on the Union Calendar, Calendar No. 154.</text>
     </calendar>
-    <action datetime="2025-07-14T17:02:29-04:00">
-      <text>Mr. Westerman moved to suspend the rules and pass the bill.</text>
-    </action>
-    <action datetime="2025-07-14T17:02:42-04:00">
-      <text>Considered under suspension of the rules.</text>
-    </action>
     <action datetime="2025-07-14T17:02:44-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 504.</text>
     </action>
-    <vote how="by voice vote" type="vote" datetime="2025-07-14T17:09:28-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
-      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
-    </vote>
     <action datetime="2025-07-14T17:09:30-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2025-07-14T17:58:42-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3228-3230: 1" label="consideration"/>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-07-14T18:05:28-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3228-3229" label="text"/>
+    </vote>
+    <action datetime="2025-07-14T18:54:29-04:00">
+      <text>Mr. Westerman moved to suspend the rules and pass the bill.</text>
     </action>
     <action datetime="2025-07-15">
       <text>Received in the Senate.</text>

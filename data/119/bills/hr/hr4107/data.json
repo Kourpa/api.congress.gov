@@ -372,7 +372,7 @@
     {
       "bill_id": "s2142-119",
       "identified_by": "CRS",
-      "reason": "identical",
+      "reason": "related",
       "type": "bill"
     }
   ],
@@ -387,8 +387,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-06-24",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Armed forces and national security"
+  ],
+  "subjects_top_term": "Armed forces and national security",
   "summary": null,
   "titles": [
     {
@@ -420,6 +422,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-17T15:49:30Z",
+  "updated_at": "2025-07-17T18:51:47Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4107.xml"
 }

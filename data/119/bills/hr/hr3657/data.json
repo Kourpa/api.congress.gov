@@ -97,13 +97,6 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-07-14T16:12:20-04:00",
-      "action_code": "H30000",
-      "references": [],
-      "text": "Considered under suspension of the rules.",
-      "type": "action"
-    },
-    {
       "acted_at": "2025-07-14T16:12:22-04:00",
       "action_code": "H8D000",
       "references": [],
@@ -111,10 +104,22 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-07-14T16:19:00-04:00",
+      "acted_at": "2025-07-14T16:19:01-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-14T17:15:00-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3221-3222",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -124,10 +129,15 @@
       "where": "h"
     },
     {
-      "acted_at": "2025-07-14T16:19:01-04:00",
-      "action_code": "H38310",
-      "references": [],
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "acted_at": "2025-07-14T22:44:20-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H3221-3223",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
       "type": "action"
     },
     {
@@ -215,7 +225,7 @@
     "awaiting_signature": false,
     "enacted": false,
     "house_passage_result": "pass",
-    "house_passage_result_at": "2025-07-14T16:19:00-04:00",
+    "house_passage_result_at": "2025-07-14T17:15:00-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-05-29",
@@ -233,7 +243,7 @@
     "type": "person"
   },
   "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-07-14T16:19:00-04:00",
+  "status_at": "2025-07-14T17:15:00-04:00",
   "subjects": [
     "Alternative and renewable resources",
     "Electric power generation and transmission",
@@ -291,6 +301,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-17T02:23:21Z",
+  "updated_at": "2025-07-17T16:44:49Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3657.xml"
 }

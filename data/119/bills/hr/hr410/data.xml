@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="410" updated="2025-07-17T02:23:21Z">
-  <state datetime="2025-07-14T17:02:27-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="410" updated="2025-07-17T17:34:18Z">
+  <state datetime="2025-07-14T17:58:27-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-07-14T17:02:27-04:00"/>
+    <unknown datetime="2025-07-14T17:58:27-04:00"/>
   </status>
   <introduced datetime="2025-01-15"/>
   <titles>
@@ -45,18 +45,20 @@
     <action datetime="2025-07-14T16:55:00-04:00">
       <text>Mr. Westerman moved to suspend the rules and pass the bill.</text>
     </action>
-    <action datetime="2025-07-14T16:55:17-04:00">
-      <text>Considered under suspension of the rules.</text>
-    </action>
     <action datetime="2025-07-14T16:55:18-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 410.</text>
     </action>
-    <vote how="by voice vote" type="vote" datetime="2025-07-14T17:02:27-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
-      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
-    </vote>
     <action datetime="2025-07-14T17:02:29-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-07-14T17:51:17-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3227-3228: 1" label="consideration"/>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-07-14T17:58:27-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H3227" label="text"/>
+    </vote>
     <action datetime="2025-07-15">
       <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
