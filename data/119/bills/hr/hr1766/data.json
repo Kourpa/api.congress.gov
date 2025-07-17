@@ -67,13 +67,6 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-07-14T15:22:31-04:00",
-      "action_code": "H30000",
-      "references": [],
-      "text": "Considered under suspension of the rules.",
-      "type": "action"
-    },
-    {
       "acted_at": "2025-07-14T15:22:32-04:00",
       "action_code": "H8D000",
       "references": [],
@@ -88,10 +81,34 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-07-14T15:33:21-04:00",
+      "acted_at": "2025-07-14T15:33:24-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-14T16:18:31-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H3214-3215: 1",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-14T16:29:21-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3214",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -99,13 +116,6 @@
       "type": "vote",
       "vote_type": "vote",
       "where": "h"
-    },
-    {
-      "acted_at": "2025-07-14T15:33:24-04:00",
-      "action_code": "H38310",
-      "references": [],
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "type": "action"
     },
     {
       "acted_at": "2025-07-15",
@@ -163,7 +173,7 @@
     "awaiting_signature": false,
     "enacted": false,
     "house_passage_result": "pass",
-    "house_passage_result_at": "2025-07-14T15:33:21-04:00",
+    "house_passage_result_at": "2025-07-14T16:29:21-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-03-03",
@@ -188,7 +198,7 @@
     "type": "person"
   },
   "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-07-14T15:33:21-04:00",
+  "status_at": "2025-07-14T16:29:21-04:00",
   "subjects": [
     "Advanced technology and technological innovations",
     "Computer security and identity theft",
@@ -253,6 +263,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-17T02:23:22Z",
+  "updated_at": "2025-07-17T16:03:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1766.xml"
 }

@@ -67,13 +67,6 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-07-14T16:34:11-04:00",
-      "action_code": "H30000",
-      "references": [],
-      "text": "Considered under suspension of the rules.",
-      "type": "action"
-    },
-    {
       "acted_at": "2025-07-14T16:34:12-04:00",
       "action_code": "H8D000",
       "references": [],
@@ -81,10 +74,34 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-07-14T16:40:58-04:00",
+      "acted_at": "2025-07-14T16:41:00-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-14T17:30:11-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H3225: 1",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-14T17:36:58-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3225",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -92,13 +109,6 @@
       "type": "vote",
       "vote_type": "vote",
       "where": "h"
-    },
-    {
-      "acted_at": "2025-07-14T16:41:00-04:00",
-      "action_code": "H38310",
-      "references": [],
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "type": "action"
     },
     {
       "acted_at": "2025-07-15",
@@ -143,7 +153,7 @@
     "awaiting_signature": false,
     "enacted": false,
     "house_passage_result": "pass",
-    "house_passage_result_at": "2025-07-14T16:40:58-04:00",
+    "house_passage_result_at": "2025-07-14T17:36:58-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-27",
@@ -168,7 +178,7 @@
     "type": "person"
   },
   "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-07-14T16:40:58-04:00",
+  "status_at": "2025-07-14T17:36:58-04:00",
   "subjects": [
     "Colorado",
     "Lakes and rivers",
@@ -227,6 +237,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-17T02:23:21Z",
+  "updated_at": "2025-07-17T16:04:38Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1729.xml"
 }
