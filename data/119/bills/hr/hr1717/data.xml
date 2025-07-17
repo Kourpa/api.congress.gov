@@ -1,14 +1,14 @@
-<bill session="119" type="h" number="1717" updated="2025-07-17T02:38:21Z">
+<bill session="119" type="h" number="1717" updated="2025-07-17T11:31:37Z">
   <state datetime="2025-07-15T14:36:43-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-07-15T14:36:43-04:00"/>
   </status>
   <introduced datetime="2025-02-27"/>
   <titles>
+    <title type="display">Communications Security Act</title>
     <title type="short" as="introduced">Communications Security Act</title>
     <title type="short" as="reported to house">Communications Security Act</title>
     <title type="short" as="passed house">Communications Security Act</title>
-    <title type="display">Communications Security Act</title>
     <title type="official" as="introduced">To direct the Federal Communications Commission to establish a council to make recommendations on ways to increase the security, reliability, and interoperability of communications networks, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M001226"/>
@@ -55,8 +55,12 @@
     <action datetime="2025-07-15T14:36:45-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-07-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>

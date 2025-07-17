@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3831</number>
-    <updateDate>2025-07-15T08:05:20Z</updateDate>
-    <updateDateIncludingText>2025-07-15T08:05:20Z</updateDateIncludingText>
+    <updateDate>2025-07-17T11:33:06Z</updateDate>
+    <updateDateIncludingText>2025-07-17T11:33:06Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,18 @@
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-07-16T15:10:13Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -28,6 +40,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-07-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-06-06</actionDate>
         <text>Referred to the House Committee on Natural Resources.</text>
@@ -112,6 +139,18 @@
         <sponsorshipDate>2025-07-14</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>B001257</bioguideId>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <firstName>Gus</firstName>
+        <lastName>Bilirakis</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <middleName>M.</middleName>
+        <district>12</district>
+        <sponsorshipDate>2025-07-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Public Lands and Natural Resources</name>
@@ -129,7 +168,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Florida Safe Seas Act of 2025</title>
-        <updateDate>2025-06-13T05:53:17Z</updateDate>
+        <updateDate>2025-07-17T11:33:06Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -160,8 +199,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-06</actionDate>
-      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2025-07-16</actionDate>
+      <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

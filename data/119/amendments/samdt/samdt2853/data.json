@@ -1,6 +1,25 @@
 {
   "actions": [
     {
+      "acted_at": "2025-07-17",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": 410,
+      "text": "Amendment SA 2853 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 410.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-07-16",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-07-15",
       "action_code": "",
       "references": [
@@ -21,16 +40,30 @@
     },
     {
       "acted_at": "2025-07-15",
-      "action_code": "91000",
+      "action_code": "93000",
       "references": [],
-      "text": "Senate amendment submitted",
+      "text": "Senate amendment proposed (on the floor): Amendment SA 2853 proposed by Senator Thune for Senator Schmitt.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17",
+      "action_code": "94000",
+      "references": [],
+      "text": "Senate amendment agreed to: Amendment SA 2853 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 410.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17",
+      "action_code": "97000",
+      "references": [],
+      "text": "Roll call votes on amendments in Senate: Amendment SA 2853 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 410.",
       "type": "action"
     },
     {
       "acted_at": "2025-07-15",
-      "action_code": "93000",
+      "action_code": "91000",
       "references": [],
-      "text": "Senate amendment proposed (on the floor): Amendment SA 2853 proposed by Senator Thune for Senator Schmitt.",
+      "text": "Senate amendment submitted",
       "type": "action"
     }
   ],
@@ -58,7 +91,7 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2025-07-15",
-  "updated_at": "2025-07-16T18:38:20Z"
+  "status": "pass",
+  "status_at": "2025-07-17",
+  "updated_at": "2025-07-17T11:08:31Z"
 }

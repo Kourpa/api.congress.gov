@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>180</number>
-    <updateDate>2025-02-14T19:48:47Z</updateDate>
-    <updateDateIncludingText>2025-02-14T19:48:47Z</updateDateIncludingText>
+    <updateDate>2025-07-17T11:33:35Z</updateDate>
+    <updateDateIncludingText>2025-07-17T11:33:35Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,18 @@
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-07-16T15:09:28Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -28,6 +40,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-07-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-03</actionDate>
         <text>Referred to the House Committee on Natural Resources.</text>
@@ -49,6 +76,26 @@
         <text>Introduced in House</text>
         <type>IntroReferral</type>
         <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-01-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-01-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -104,7 +151,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Endangered Species Transparency and Reasonableness Act of 2025</title>
-        <updateDate>2025-02-04T07:53:28Z</updateDate>
+        <updateDate>2025-07-17T11:33:35Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -135,8 +182,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-03</actionDate>
-      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2025-07-16</actionDate>
+      <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

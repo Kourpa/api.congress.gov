@@ -1,7 +1,7 @@
-<bill session="119" type="hr" number="580" updated="2025-07-17T00:41:14Z">
-  <state datetime="2025-07-15T14:29:17-04:00">FAIL:ORIGINATING:HOUSE</state>
+<bill session="119" type="hr" number="580" updated="2025-07-17T11:32:59Z">
+  <state datetime="2025-07-16T23:04:07-04:00">PASSED:SIMPLERES</state>
   <status>
-    <unknown datetime="2025-07-15T14:29:17-04:00"/>
+    <unknown datetime="2025-07-16T23:04:07-04:00"/>
   </status>
   <introduced datetime="2025-07-15"/>
   <titles>
@@ -44,15 +44,24 @@
     <action datetime="2025-07-15T14:30:18-04:00">
       <text>POSTPONED PROCEEDINGS - The Chair put the question on the motion to reconsider and by voice vote, announced that the ayes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
     </action>
+    <action datetime="2025-07-16T12:28:26-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2025-07-16T13:18:26-04:00">
+      <text>On motion to reconsider Agreed to by the Yeas and Nays: 215 - 211 (Roll no. 197).</text>
+    </action>
+    <vote how="roll" type="vote" roll="198" datetime="2025-07-16T23:04:07-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to by recorded vote: 217 - 212 (Roll no. 198).</text>
+    </vote>
   </actions>
   <committees>
     <committee code="HSRU" name="House Rules" subcommittee="" activity="Reported Original Measure"/>
   </committees>
   <relatedbills>
+    <bill session="119" type="h" number="1919" relation="procedurally-related"/>
+    <bill session="119" type="s" number="1582" relation="procedurally-related"/>
     <bill session="119" type="h" number="4016" relation="unknown"/>
     <bill session="119" type="h" number="3633" relation="unknown"/>
-    <bill session="119" type="h" number="1919" relation="unknown"/>
-    <bill session="119" type="s" number="1582" relation="procedurally-related"/>
   </relatedbills>
   <subjects/>
   <amendments/>
