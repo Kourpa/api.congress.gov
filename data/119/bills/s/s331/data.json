@@ -364,12 +364,22 @@
       "type": "topresident"
     },
     {
-      "acted_at": "2025-07-17",
+      "acted_at": "2025-07-16",
       "action_code": "E30000",
       "references": [],
       "status": "ENACTED:SIGNED",
       "text": "Signed by President.",
       "type": "signed"
+    },
+    {
+      "acted_at": "2025-07-17",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "26",
+      "references": [],
+      "text": "Became Public Law No: 119-26.",
+      "type": "enacted"
     }
   ],
   "amendments": [
@@ -912,13 +922,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "26"
+  },
   "history": {
     "active": true,
     "active_at": "2025-02-27",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2025-07-17",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2025-07-17",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-06-12T15:36:34-04:00",
     "senate_cloture_result": "pass",
@@ -949,7 +963,7 @@
     "type": "person"
   },
   "status": "ENACTED:SIGNED",
-  "status_at": "2025-07-17",
+  "status_at": "2025-07-16",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Crime and law enforcement",
@@ -1037,6 +1051,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-16T20:15:13Z",
+  "updated_at": "2025-07-17T15:18:43Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s331.xml"
 }

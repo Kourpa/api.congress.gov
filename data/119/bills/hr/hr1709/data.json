@@ -67,13 +67,6 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-07-14T15:00:53-04:00",
-      "action_code": "H30000",
-      "references": [],
-      "text": "Considered under suspension of the rules.",
-      "type": "action"
-    },
-    {
       "acted_at": "2025-07-14T15:00:55-04:00",
       "action_code": "H8D000",
       "references": [],
@@ -88,17 +81,46 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-07-14T18:30:47-04:00",
+      "acted_at": "2025-07-14T15:56:53-04:00",
       "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H3209-3211: 7",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-14T18:56:49-04:00",
+      "action_code": "H38310",
       "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-14T19:26:47-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H3230-3231: 4",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
     {
-      "acted_at": "2025-07-14T18:56:48-04:00",
+      "acted_at": "2025-07-14T19:52:48-04:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3209-3210: 7",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "191",
       "status": "PASS_OVER:HOUSE",
@@ -107,13 +129,6 @@
       "type": "vote",
       "vote_type": "vote",
       "where": "h"
-    },
-    {
-      "acted_at": "2025-07-14T18:56:49-04:00",
-      "action_code": "H38310",
-      "references": [],
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
-      "type": "action"
     },
     {
       "acted_at": "2025-07-15",
@@ -201,7 +216,7 @@
     "awaiting_signature": false,
     "enacted": false,
     "house_passage_result": "pass",
-    "house_passage_result_at": "2025-07-14T18:56:48-04:00",
+    "house_passage_result_at": "2025-07-14T19:52:48-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-27",
@@ -219,7 +234,7 @@
     "type": "person"
   },
   "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-07-14T18:56:48-04:00",
+  "status_at": "2025-07-14T19:52:48-04:00",
   "subjects": [
     "Computer security and identity theft",
     "Congressional oversight",
@@ -279,6 +294,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-17T02:23:21Z",
+  "updated_at": "2025-07-17T14:46:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1709.xml"
 }
