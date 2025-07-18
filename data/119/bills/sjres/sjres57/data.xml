@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="57" updated="2025-06-11T03:48:17Z">
+<bill session="119" type="sj" number="57" updated="2025-07-18T14:44:17Z">
   <state datetime="2025-06-09">REFERRED</state>
   <status>
     <introduced datetime="2025-06-09"/>
@@ -21,7 +21,11 @@
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="hj" number="100" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
   <amendments/>
 </bill>
