@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-07-17",
+      "action_code": "",
+      "committees": [
+        "SSEG"
+      ],
+      "references": [],
+      "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17",
+      "action_code": "",
+      "committees": [
+        "SSAF"
+      ],
+      "references": [],
+      "text": "Referred to the Committee on Agriculture, Nutrition, and Forestry.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -27,6 +47,14 @@
   "committees": [
     {
       "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Agriculture, Nutrition, and Forestry",
+      "committee_id": "SSAF"
+    },
+    {
+      "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Energy and Natural Resources",
@@ -58,7 +86,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-07-17",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -143,6 +172,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-10T11:03:21Z",
+  "updated_at": "2025-07-18T11:03:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s350.xml"
 }

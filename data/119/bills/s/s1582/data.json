@@ -345,6 +345,84 @@
       "references": [],
       "text": "Rule H. Res. 580 passed House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17T10:36:25-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres580-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 580.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17T10:36:30-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr4016-119",
+        "hr3633-119",
+        "hr1919-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17T10:37:02-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on S. 1582.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17T11:43:10-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17T11:43:32-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on S. 1582, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Ms. Waters demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17T15:30:40-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17T15:54:11-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "200",
+      "status": "PASSED:BILL",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 308 - 122 (Roll no. 200).",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-07-17T15:54:13-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [
@@ -1191,8 +1269,11 @@
   "history": {
     "active": true,
     "active_at": "2025-05-01",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2025-07-17",
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-07-17T15:54:11-04:00",
     "senate_cloture_result": "fail",
     "senate_cloture_result_at": "2025-05-08",
     "senate_passage_result": "pass",
@@ -1220,8 +1301,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASS_OVER:SENATE",
-  "status_at": "2025-06-17",
+  "status": "PASSED:BILL",
+  "status_at": "2025-07-17T15:54:11-04:00",
   "subjects": [
     "Accounting and auditing",
     "Administrative law and regulatory procedures",
@@ -1312,6 +1393,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-18T03:23:19Z",
+  "updated_at": "2025-07-18T11:10:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1582.xml"
 }

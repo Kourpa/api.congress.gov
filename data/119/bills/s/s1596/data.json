@@ -141,6 +141,13 @@
       ],
       "text": "Considered as unfinished business.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-07-17",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -175,7 +182,8 @@
   "history": {
     "active": true,
     "active_at": "2025-05-13",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2025-07-17",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-07-14T20:06:44-04:00",
@@ -256,6 +264,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-17T17:30:19Z",
+  "updated_at": "2025-07-18T11:10:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1596.xml"
 }

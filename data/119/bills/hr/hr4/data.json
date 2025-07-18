@@ -322,6 +322,28 @@
       "type": "vote",
       "vote_type": "vote2",
       "where": "s"
+    },
+    {
+      "acted_at": "2025-07-17",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-18T00:04:36-04:00",
+      "action_code": "H1B000",
+      "bill_ids": [
+        "hres590-119"
+      ],
+      "how": "by special rule",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "House agreed to Senate amendment pursuant to H. Res. 590.",
+      "type": "vote",
+      "vote_type": "pingpong",
+      "where": "h"
     }
   ],
   "amendments": [
@@ -692,7 +714,7 @@
     "awaiting_signature": false,
     "enacted": false,
     "house_passage_result": "pass",
-    "house_passage_result_at": "2025-06-12T15:54:16-04:00",
+    "house_passage_result_at": "2025-07-18T00:04:36-04:00",
     "senate_passage_result": "pass",
     "senate_passage_result_at": "2025-07-17",
     "vetoed": false
@@ -724,8 +746,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_BACK:SENATE",
-  "status_at": "2025-07-17",
+  "status": "PASSED:BILL",
+  "status_at": "2025-07-18T00:04:36-04:00",
   "subjects": [
     "Abortion",
     "Adult education and literacy",
@@ -854,6 +876,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-17T21:26:15Z",
+  "updated_at": "2025-07-18T11:10:59Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4.xml"
 }

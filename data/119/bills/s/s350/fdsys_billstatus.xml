@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>350</number>
-    <updateDate>2025-07-10T11:03:21Z</updateDate>
-    <updateDateIncludingText>2025-07-10T11:03:21Z</updateDateIncludingText>
+    <updateDate>2025-07-18T11:03:17Z</updateDate>
+    <updateDateIncludingText>2025-07-18T11:03:17Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -12,11 +12,27 @@
     <congress>119</congress>
     <committees>
       <item>
+        <systemCode>ssaf00</systemCode>
+        <name>Agriculture, Nutrition, and Forestry Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-07-17T22:18:19Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>sseg00</systemCode>
         <name>Energy and Natural Resources Committee</name>
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-07-17T22:18:10Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-01-30T23:35:54Z</date>
@@ -25,6 +41,50 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-07-17</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssaf00</systemCode>
+            <name>Agriculture, Nutrition, and Forestry Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2025-07-17</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-07-17</actionDate>
+        <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-01-30</actionDate>
         <committees>
@@ -244,7 +304,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Wildfire Emergency Act of 2025</title>
-        <updateDate>2025-07-10T11:03:21Z</updateDate>
+        <updateDate>2025-07-18T11:03:17Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -275,8 +335,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-30</actionDate>
-      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2025-07-17</actionDate>
+      <text>Referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
