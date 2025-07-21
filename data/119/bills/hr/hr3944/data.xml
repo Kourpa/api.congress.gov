@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3944" updated="2025-07-18T13:38:24Z">
+<bill session="119" type="h" number="3944" updated="2025-07-21T13:04:07Z">
   <state datetime="2025-06-25T17:09:59-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-06-25T17:09:59-04:00"/>
@@ -113,9 +113,11 @@
     </calendar>
     <action datetime="2025-07-17">
       <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="1" label="CR S4449"/>
     </action>
     <action datetime="2025-07-17">
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S4449"/>
     </action>
   </actions>
   <committees>

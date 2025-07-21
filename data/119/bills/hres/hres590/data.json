@@ -33,7 +33,12 @@
     {
       "acted_at": "2025-07-17T22:03:16-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3451-3461: 4",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -55,7 +60,12 @@
       "acted_at": "2025-07-18T00:04:12-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3451",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "203",
       "status": "PASSED:SIMPLERES",
@@ -136,6 +146,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-18T21:41:14Z",
+  "updated_at": "2025-07-21T16:06:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres590.xml"
 }

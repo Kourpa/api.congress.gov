@@ -297,14 +297,24 @@
     {
       "acted_at": "2025-07-17",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "1",
+          "type": "CR S4449"
+        }
+      ],
       "text": "Motion to proceed to consideration of measure made in Senate.",
       "type": "action"
     },
     {
       "acted_at": "2025-07-17",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S4449",
+          "type": null
+        }
+      ],
       "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
     }
@@ -531,6 +541,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-18T13:38:24Z",
+  "updated_at": "2025-07-21T13:04:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3944.xml"
 }
