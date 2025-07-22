@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1450" updated="2025-07-16T22:29:20Z">
-  <state datetime="2025-03-05">REPORTED</state>
+<bill session="119" type="h" number="1450" updated="2025-07-22T08:05:32Z">
+  <state datetime="2025-07-21T18:32:32-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-03-05"/>
+    <unknown datetime="2025-07-21T18:32:32-04:00"/>
   </status>
   <introduced datetime="2025-02-21"/>
   <titles>
@@ -39,6 +39,21 @@
     <calendar datetime="2025-03-27" calendar="Union" number="34">
       <text>Placed on the Union Calendar, Calendar No. 34.</text>
     </calendar>
+    <action datetime="2025-07-21T18:19:34-04:00">
+      <text>Mr. Hill (AR) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-07-21T18:19:47-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-07-21T18:19:49-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1450.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-07-21T18:32:32-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-07-21T18:32:37-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Discharged From, Referred To"/>

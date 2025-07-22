@@ -88,6 +88,54 @@
       "text": "Placed on the Union Calendar, Calendar No. 170.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-07-21T16:18:15-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Stauber moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-21T16:18:26-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-21T16:18:28-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 183.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-21T16:31:26-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-07-21T16:31:31-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-21T16:31:35-04:00",
+      "action_code": "H38800",
+      "references": [],
+      "text": "The title of the measure was amended. Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -142,6 +190,8 @@
     "active_at": "2025-06-25",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-07-21T16:31:26-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-03",
@@ -158,8 +208,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-06-25",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-07-21T16:31:26-04:00",
   "subjects": [
     "Government employee pay, benefits, personnel management",
     "Law enforcement officers",
@@ -205,6 +255,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2025-07-17T11:33:42Z",
+  "updated_at": "2025-07-22T08:05:50Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr183.xml"
 }

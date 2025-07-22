@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2170" updated="2025-06-24T16:26:43Z">
-  <state datetime="2025-03-18">REFERRED</state>
+<bill session="119" type="h" number="2170" updated="2025-07-22T08:05:53Z">
+  <state datetime="2025-07-21T15:40:03-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-03-18"/>
+    <unknown datetime="2025-07-21T15:40:03-04:00"/>
   </status>
   <introduced datetime="2025-03-18"/>
   <titles>
@@ -31,6 +31,21 @@
     </action>
     <action datetime="2025-04-04">
       <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2025-07-21T15:27:01-04:00">
+      <text>Mr. Bost moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-07-21T15:27:03-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-07-21T15:27:04-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2170.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-07-21T15:40:03-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-07-21T15:40:04-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>
