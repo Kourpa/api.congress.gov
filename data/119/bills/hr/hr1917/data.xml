@@ -1,14 +1,14 @@
-<bill session="119" type="h" number="1917" updated="2025-07-22T08:05:56Z">
-  <state datetime="2025-06-25">REPORTED</state>
+<bill session="119" type="h" number="1917" updated="2025-07-23T14:54:46Z">
+  <state datetime="2025-07-22T16:57:07-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-06-25"/>
+    <unknown datetime="2025-07-22T16:57:07-04:00"/>
   </status>
   <introduced datetime="2025-03-06"/>
   <titles>
-    <title type="short" as="introduced">Great Lakes Mass Marking Program Act of 2025</title>
-    <title type="short" as="reported to house">Great Lakes Mass Marking Program Act of 2025</title>
     <title type="display">Great Lakes Mass Marking Program Act of 2025</title>
     <title type="official" as="introduced">To establish the Great Lakes Mass Marking Program, and for other purposes.</title>
+    <title type="short" as="introduced">Great Lakes Mass Marking Program Act of 2025</title>
+    <title type="short" as="reported to house">Great Lakes Mass Marking Program Act of 2025</title>
   </titles>
   <sponsor bioguide_id="D000624"/>
   <cosponsors>
@@ -47,6 +47,30 @@
     <calendar datetime="2025-07-21" calendar="Union" number="171">
       <text>Placed on the Union Calendar, Calendar No. 171.</text>
     </calendar>
+    <action datetime="2025-07-22T16:08:34-04:00">
+      <text>Mr. Tiffany moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-07-22T16:08:45-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3543-3544: 1" label="consideration"/>
+    </action>
+    <action datetime="2025-07-22T16:08:46-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1917.</text>
+    </action>
+    <action datetime="2025-07-22T16:18:44-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2025-07-22T16:48:58-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3545: 1" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="216" datetime="2025-07-22T16:57:07-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 360 - 57 (Roll no. 216).</text>
+      <reference ref="CR H3543: 1" label="text"/>
+    </vote>
+    <action datetime="2025-07-22T16:57:08-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>

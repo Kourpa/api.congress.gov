@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3174" updated="2025-07-22T17:15:10Z">
-  <state datetime="2025-05-01">REFERRED</state>
+<bill session="119" type="h" number="3174" updated="2025-07-23T14:13:54Z">
+  <state datetime="2025-07-22">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-01"/>
+    <unknown datetime="2025-07-22"/>
   </status>
   <introduced datetime="2025-05-01"/>
   <titles>
@@ -20,6 +20,7 @@
     <cosponsor bioguide_id="L000598" joined="2025-07-21"/>
     <cosponsor bioguide_id="M001204" joined="2025-05-13"/>
     <cosponsor bioguide_id="M001224" joined="2025-05-13"/>
+    <cosponsor bioguide_id="S001228" joined="2025-07-22"/>
     <cosponsor bioguide_id="V000134" joined="2025-07-21"/>
     <cosponsor bioguide_id="W000829" joined="2025-07-17"/>
   </cosponsors>
@@ -30,9 +31,15 @@
     <action datetime="2025-05-01" state="REFERRED">
       <text>Referred to the House Committee on Small Business.</text>
     </action>
+    <action datetime="2025-07-22">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-07-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Referred To"/>
+    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1555" relation="identical"/>
