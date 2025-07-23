@@ -321,7 +321,12 @@
     {
       "acted_at": "2025-07-22",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "6",
+          "type": "CR S4515"
+        }
+      ],
       "text": "Motion to proceed to measure considered in Senate.",
       "type": "action"
     },
@@ -329,7 +334,12 @@
       "acted_at": "2025-07-22",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "6",
+          "type": "CR S4520"
+        }
+      ],
       "result": "pass",
       "roll": "423",
       "text": "Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 91 - 7. Record Vote Number: 423.",
@@ -616,6 +626,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-23T11:08:26Z",
+  "updated_at": "2025-07-23T12:53:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3944.xml"
 }
