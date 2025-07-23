@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3339" updated="2025-07-22T19:24:49Z">
+<bill session="119" type="h" number="3339" updated="2025-07-23T10:56:23Z">
   <state datetime="2025-07-21T17:30:12-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-07-21T17:30:12-04:00"/>
@@ -7,6 +7,7 @@
   <titles>
     <title type="short" as="introduced">Equal Opportunity for All Investors Act of 2025</title>
     <title type="short" as="reported to house">Equal Opportunity for All Investors Act of 2025</title>
+    <title type="short" as="passed house">Equal Opportunity for All Investors Act of 2025</title>
     <title type="official" as="introduced">To require certification examinations for accredited investors, and for other purposes.</title>
     <title type="display">Equal Opportunity for All Investors Act of 2025</title>
   </titles>
@@ -53,8 +54,12 @@
     <action datetime="2025-07-21T17:30:13-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-07-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>
