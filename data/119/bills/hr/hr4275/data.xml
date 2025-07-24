@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4275" updated="2025-07-24T03:38:21Z">
-  <state datetime="2025-07-15">REPORTED</state>
+<bill session="119" type="h" number="4275" updated="2025-07-24T10:56:29Z">
+  <state datetime="2025-07-23T16:09:13-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-07-15"/>
+    <unknown datetime="2025-07-23T16:09:13-04:00"/>
   </status>
   <introduced datetime="2025-07-02"/>
   <titles>
@@ -43,8 +43,33 @@
     <calendar datetime="2025-07-22" calendar="Union" number="174">
       <text>Placed on the Union Calendar, Calendar No. 174.</text>
     </calendar>
+    <action datetime="2025-07-23T14:00:38-04:00">
+      <text>Mr. Graves moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-07-23T14:00:51-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-07-23T14:00:53-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4275.</text>
+    </action>
+    <action datetime="2025-07-23T14:21:57-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2025-07-23T16:02:23-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="218" datetime="2025-07-23T16:09:13-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 12 (Roll no. 218).</text>
+    </vote>
+    <action datetime="2025-07-23T16:09:15-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2025-07-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSPW07" name="House Transportation and Infrastructure" subcommittee="Coast Guard and Maritime Transportation" activity="Referral"/>
   </committees>

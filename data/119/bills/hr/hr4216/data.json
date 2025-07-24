@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Foreign Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-07-22",
+      "action_code": "",
+      "committees": [
+        "HSFA"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-22",
+      "action_code": "",
+      "committees": [
+        "HSFA"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Foreign Affairs",
@@ -88,7 +110,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-07-22",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -107,8 +130,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-06-27",
+  "status": "REPORTED",
+  "status_at": "2025-07-22",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -135,6 +158,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-16T07:23:24Z",
+  "updated_at": "2025-07-24T08:06:32Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4216.xml"
 }

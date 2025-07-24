@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1144" updated="2025-07-23T14:13:29Z">
-  <state datetime="2025-02-07">REFERRED</state>
+<bill session="119" type="h" number="1144" updated="2025-07-24T08:07:03Z">
+  <state datetime="2025-07-22">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-07"/>
+    <unknown datetime="2025-07-22"/>
   </status>
   <introduced datetime="2025-02-07"/>
   <titles>
@@ -20,6 +20,7 @@
     <cosponsor bioguide_id="S000168" joined="2025-02-07"/>
     <cosponsor bioguide_id="S000344" joined="2025-07-22"/>
     <cosponsor bioguide_id="V000129" joined="2025-02-25"/>
+    <cosponsor bioguide_id="V000138" joined="2025-07-23"/>
     <cosponsor bioguide_id="W000812" joined="2025-03-05"/>
     <cosponsor bioguide_id="W000795" joined="2025-02-25"/>
   </cosponsors>
@@ -36,11 +37,17 @@
     <action datetime="2025-02-07">
       <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-07-22">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-07-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
-    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="2961" relation="unknown"/>

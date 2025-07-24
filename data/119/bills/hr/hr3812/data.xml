@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3812" updated="2025-06-24T18:11:56Z">
-  <state datetime="2025-06-06">REFERRED</state>
+<bill session="119" type="h" number="3812" updated="2025-07-24T08:07:21Z">
+  <state datetime="2025-07-23">REPORTED</state>
   <status>
-    <introduced datetime="2025-06-06"/>
+    <unknown datetime="2025-07-23"/>
   </status>
   <introduced datetime="2025-06-06"/>
   <titles>
@@ -21,9 +21,15 @@
     <action datetime="2025-06-06" state="REFERRED">
       <text>Referred to the House Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-07-23">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-07-23" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

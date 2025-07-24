@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="740" updated="2025-07-23T02:36:38Z">
+<bill session="119" type="h" number="740" updated="2025-07-24T08:07:00Z">
   <state datetime="2025-01-28">REFERRED</state>
   <status>
     <introduced datetime="2025-01-28"/>
@@ -52,6 +52,7 @@
     <cosponsor bioguide_id="R000609" joined="2025-04-01"/>
     <cosponsor bioguide_id="S001212" joined="2025-04-29"/>
     <cosponsor bioguide_id="S001220" joined="2025-06-30"/>
+    <cosponsor bioguide_id="S001188" joined="2025-07-23"/>
     <cosponsor bioguide_id="T000478" joined="2025-04-01"/>
     <cosponsor bioguide_id="T000480" joined="2025-05-08"/>
     <cosponsor bioguide_id="V000135" joined="2025-02-04"/>
@@ -64,9 +65,12 @@
     <action datetime="2025-01-28" state="REFERRED">
       <text>Referred to the House Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-07-23">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="275" relation="unknown"/>

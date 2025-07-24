@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4275</number>
-    <updateDate>2025-07-24T03:38:21Z</updateDate>
-    <updateDateIncludingText>2025-07-24T03:38:21Z</updateDateIncludingText>
+    <updateDate>2025-07-24T10:56:29Z</updateDate>
+    <updateDateIncludingText>2025-07-24T10:56:29Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,18 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 114 (Wednesday, July 2, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. GRAVES:H.R. 4275.Congress has the power to enact this legislation pursuantto the following:Clauses 1, 3, and 18 of Section 8, Article 1 of theConstitution.[Page H3189]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>sscm00</systemCode>
+        <name>Commerce, Science, and Transportation Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-07-23T23:50:55Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hspw00</systemCode>
         <name>Transportation and Infrastructure Committee</name>
@@ -52,6 +64,128 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-07-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2025-07-23</actionDate>
+        <actionTime>16:09:15</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-07-23</actionDate>
+        <actionTime>16:09:13</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 12 (Roll no. 218).</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>218</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll218.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-07-23T20:09:13Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-07-23</actionDate>
+        <actionTime>16:09:13</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 399 - 12 (Roll no. 218).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>218</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll218.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-07-23T20:09:13Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-07-23</actionDate>
+        <actionTime>16:02:23</actionTime>
+        <text>Considered as unfinished business.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-07-23</actionDate>
+        <actionTime>14:21:57</actionTime>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <type>Floor</type>
+        <actionCode>H37220</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-07-23</actionDate>
+        <actionTime>14:00:53</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4275.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-07-23</actionDate>
+        <actionTime>14:00:51</actionTime>
+        <text>Considered under suspension of the rules.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-07-23</actionDate>
+        <actionTime>14:00:38</actionTime>
+        <text>Mr. Graves moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-07-22</actionDate>
         <text>Placed on the Union Calendar, Calendar No. 174.</text>
@@ -338,8 +472,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-22</actionDate>
-      <text>Placed on the Union Calendar, Calendar No. 174.</text>
+      <actionDate>2025-07-23</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

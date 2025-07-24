@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-07-23",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -27,6 +37,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Veterans' Affairs",
@@ -436,6 +447,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "S001188",
+      "district": "3",
+      "name": "Stutzman, Marlin A.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-07-23",
+      "state": "IN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "T000478",
       "district": "24",
       "name": "Tenney, Claudia",
@@ -478,7 +499,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-07-23",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -557,6 +579,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-23T02:36:38Z",
+  "updated_at": "2025-07-24T08:07:00Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr740.xml"
 }

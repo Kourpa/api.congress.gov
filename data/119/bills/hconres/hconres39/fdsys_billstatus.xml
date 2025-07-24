@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>39</number>
-    <updateDate>2025-07-03T13:57:55Z</updateDate>
-    <updateDateIncludingText>2025-07-03T13:57:55Z</updateDateIncludingText>
+    <updateDate>2025-07-24T10:56:29Z</updateDate>
+    <updateDateIncludingText>2025-07-24T10:56:29Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -30,6 +30,24 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-07-23</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-07-23</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-06-27</actionDate>
         <sourceSystem>
@@ -179,7 +197,24 @@
       <name>Congress</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Commemorative events and holidays</name>
+          <updateDate>2025-07-07T13:09:46Z</updateDate>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+          <updateDate>2025-07-07T13:09:46Z</updateDate>
+        </item>
+        <item>
+          <name>Military history</name>
+          <updateDate>2025-07-07T13:09:46Z</updateDate>
+        </item>
+        <item>
+          <name>U.S. Capitol</name>
+          <updateDate>2025-07-07T13:09:46Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Congress</name>
         <updateDate>2025-07-03T13:57:55Z</updateDate>
@@ -223,8 +258,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-27</actionDate>
-      <text>Received in the Senate.</text>
+      <actionDate>2025-07-23</actionDate>
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

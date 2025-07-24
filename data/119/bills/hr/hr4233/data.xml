@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4233" updated="2025-07-23T14:13:29Z">
-  <state datetime="2025-06-27">REFERRED</state>
+<bill session="119" type="h" number="4233" updated="2025-07-24T11:03:12Z">
+  <state datetime="2025-07-22">REPORTED</state>
   <status>
-    <introduced datetime="2025-06-27"/>
+    <unknown datetime="2025-07-22"/>
   </status>
   <introduced datetime="2025-06-27"/>
   <titles>
@@ -26,13 +26,19 @@
     <action datetime="2025-06-27" state="REFERRED">
       <text>Referred to the House Committee on Foreign Affairs.</text>
     </action>
+    <action datetime="2025-07-22">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-07-22" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 48 - 2.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
-    <term name="Foreign trade and international finance"/>
+    <term name="International affairs"/>
   </subjects>
   <amendments/>
 </bill>
