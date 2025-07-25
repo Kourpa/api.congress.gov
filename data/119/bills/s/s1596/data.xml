@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1596" updated="2025-07-18T11:10:26Z">
-  <state datetime="2025-07-14T20:06:44-04:00">PASSED:BILL</state>
+<bill session="119" type="s" number="1596" updated="2025-07-25T11:36:57Z">
+  <state datetime="2025-07-24">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-07-14T20:06:44-04:00"/>
+    <unknown datetime="2025-07-24"/>
   </status>
   <introduced datetime="2025-05-05"/>
   <titles>
@@ -42,30 +42,33 @@
     <action datetime="2025-07-14T16:47:37-04:00">
       <text>Mr. Westerman moved to suspend the rules and pass the bill.</text>
     </action>
+    <action datetime="2025-07-14T16:47:55-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3226-3227" label="consideration"/>
+    </action>
     <action datetime="2025-07-14T16:47:57-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on S. 1596.</text>
     </action>
     <action datetime="2025-07-14T16:54:38-04:00">
       <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
     </action>
-    <action datetime="2025-07-14T19:10:46-04:00">
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    <action datetime="2025-07-14T19:04:10-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3231-3232" label="consideration"/>
     </action>
-    <vote how="roll" type="vote2" roll="193" datetime="2025-07-14T20:06:44-04:00" where="h" result="pass" suspension="1" state="PASSED:BILL">
+    <vote how="roll" type="vote2" roll="193" datetime="2025-07-14T19:10:44-04:00" where="h" result="pass" suspension="1" state="PASSED:BILL">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 0 (Roll no. 193).</text>
       <reference ref="CR H3226-3227: 2" label="text"/>
     </vote>
-    <action datetime="2025-07-14T20:31:55-04:00">
-      <text>Considered under suspension of the rules.</text>
-      <reference ref="CR H3226-3227" label="consideration"/>
-    </action>
-    <action datetime="2025-07-14T23:44:10-04:00">
-      <text>Considered as unfinished business.</text>
-      <reference ref="CR H3231-3232" label="consideration"/>
+    <action datetime="2025-07-14T19:10:46-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
     <topresident datetime="2025-07-17">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-07-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
   </actions>
   <committees>
     <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Discharged From, Referred To"/>

@@ -79,6 +79,18 @@
       "type": "action"
     },
     {
+      "acted_at": "2025-07-14T16:47:55-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H3226-3227",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-07-14T16:47:57-04:00",
       "action_code": "H8D000",
       "references": [],
@@ -93,14 +105,19 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-07-14T19:10:46-04:00",
-      "action_code": "H38310",
-      "references": [],
-      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "acted_at": "2025-07-14T19:04:10-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H3231-3232",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
       "type": "action"
     },
     {
-      "acted_at": "2025-07-14T20:06:44-04:00",
+      "acted_at": "2025-07-14T19:10:44-04:00",
       "action_code": "H37300",
       "how": "roll",
       "references": [
@@ -119,27 +136,10 @@
       "where": "h"
     },
     {
-      "acted_at": "2025-07-14T20:31:55-04:00",
-      "action_code": "H30000",
-      "references": [
-        {
-          "reference": "CR H3226-3227",
-          "type": "consideration"
-        }
-      ],
-      "text": "Considered under suspension of the rules.",
-      "type": "action"
-    },
-    {
-      "acted_at": "2025-07-14T23:44:10-04:00",
-      "action_code": "H30000",
-      "references": [
-        {
-          "reference": "CR H3231-3232",
-          "type": "consideration"
-        }
-      ],
-      "text": "Considered as unfinished business.",
+      "acted_at": "2025-07-14T19:10:46-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
     },
     {
@@ -148,6 +148,14 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2025-07-24",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
     }
   ],
   "amendments": [],
@@ -183,10 +191,10 @@
     "active": true,
     "active_at": "2025-05-13",
     "awaiting_signature": true,
-    "awaiting_signature_since": "2025-07-17",
+    "awaiting_signature_since": "2025-07-24",
     "enacted": false,
     "house_passage_result": "pass",
-    "house_passage_result_at": "2025-07-14T20:06:44-04:00",
+    "house_passage_result_at": "2025-07-14T19:10:44-04:00",
     "senate_passage_result": "pass",
     "senate_passage_result_at": "2025-05-13",
     "vetoed": false
@@ -212,8 +220,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2025-07-14T20:06:44-04:00",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2025-07-24",
   "subjects": [
     "Public lands and natural resources",
     "Texas",
@@ -264,6 +272,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-18T11:10:26Z",
+  "updated_at": "2025-07-25T11:36:57Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1596.xml"
 }
