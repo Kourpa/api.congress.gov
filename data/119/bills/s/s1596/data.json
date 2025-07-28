@@ -156,6 +156,16 @@
       "status": "ENACTED:SIGNED",
       "text": "Signed by President.",
       "type": "signed"
+    },
+    {
+      "acted_at": "2025-07-24",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "30",
+      "references": [],
+      "text": "Became Public Law No: 119-30.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -186,13 +196,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "30"
+  },
   "history": {
     "active": true,
     "active_at": "2025-05-13",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2025-07-24",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2025-07-24",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-07-14T19:10:44-04:00",
     "senate_passage_result": "pass",
@@ -272,6 +286,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-25T22:02:15Z",
+  "updated_at": "2025-07-28T13:31:03Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1596.xml"
 }
