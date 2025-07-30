@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1020" updated="2025-07-30T02:18:49Z">
-  <state datetime="2025-03-13">REFERRED</state>
+<bill session="119" type="s" number="1020" updated="2025-07-30T13:45:07Z">
+  <state datetime="2025-07-29">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-03-13"/>
+    <unknown datetime="2025-07-29"/>
   </status>
   <introduced datetime="2025-03-13"/>
   <titles>
@@ -24,9 +24,17 @@
     <action datetime="2025-03-13" state="REFERRED">
       <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
+    <action datetime="2025-07-29">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-07-29" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4797-4798" label="consideration"/>
+      <reference ref="CR S4797-4798" label="text"/>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="2072" relation="identical"/>

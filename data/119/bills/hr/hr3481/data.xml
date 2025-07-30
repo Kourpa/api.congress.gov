@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3481" updated="2025-07-29T18:48:40Z">
-  <state datetime="2025-05-19">REFERRED</state>
+<bill session="119" type="h" number="3481" updated="2025-07-30T12:51:45Z">
+  <state datetime="2025-07-23">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-19"/>
+    <unknown datetime="2025-07-23"/>
   </status>
   <introduced datetime="2025-05-19"/>
   <titles>
@@ -11,6 +11,7 @@
   </titles>
   <sponsor bioguide_id="B001321"/>
   <cosponsors>
+    <cosponsor bioguide_id="L000590" joined="2025-07-29"/>
     <cosponsor bioguide_id="T000491" joined="2025-05-19"/>
     <cosponsor bioguide_id="V000135" joined="2025-05-20"/>
     <cosponsor bioguide_id="V000138" joined="2025-07-23"/>
@@ -28,9 +29,15 @@
     <action datetime="2025-06-11">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2025-07-03">
+      <text>Subcommittee on Economic Opportunity Discharged</text>
+    </action>
+    <action datetime="2025-07-23" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Discharged, Referred To"/>
     <committee code="HSVR10" name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>

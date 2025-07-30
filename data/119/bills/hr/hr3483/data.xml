@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3483" updated="2025-06-27T16:13:34Z">
-  <state datetime="2025-05-19">REFERRED</state>
+<bill session="119" type="h" number="3483" updated="2025-07-30T12:52:20Z">
+  <state datetime="2025-07-23">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-19"/>
+    <unknown datetime="2025-07-23"/>
   </status>
   <introduced datetime="2025-05-19"/>
   <titles>
@@ -25,9 +25,15 @@
     <action datetime="2025-06-11">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2025-07-03">
+      <text>Subcommittee on Oversight and Investigations Discharged</text>
+    </action>
+    <action datetime="2025-07-23" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 12 - 11.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Discharged, Referred To"/>
     <committee code="HSVR08" name="House Veterans' Affairs" subcommittee="Oversight and Investigations" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills/>

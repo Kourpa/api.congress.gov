@@ -49,6 +49,27 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 84.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-07-29",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S4796: 1",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S4797: 1",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -146,6 +167,8 @@
     "active_at": "2025-05-15",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-07-29",
     "vetoed": false
   },
   "introduced_at": "2025-05-05",
@@ -162,8 +185,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-05-15",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-07-29",
   "subjects": [
     "Crime and law enforcement",
     "Emergency medical services and trauma care",
@@ -172,48 +195,6 @@
   "subjects_top_term": "Crime and law enforcement",
   "summary": null,
   "titles": [
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Improving Police CARE Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Improving Police Critical Aid for Responding to Emergencies Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Improving Police CARE Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Improving Police Critical Aid for Responding to Emergencies Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Improving Police CARE Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Improving Police Critical Aid for Responding to Emergencies Act",
-      "type": "short"
-    },
     {
       "as": null,
       "is_for_portion": false,
@@ -225,10 +206,52 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "Improving Police CARE Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Improving Police Critical Aid for Responding to Emergencies Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Improving Police CARE Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Improving Police Critical Aid for Responding to Emergencies Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Improving Police CARE Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Improving Police Critical Aid for Responding to Emergencies Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "A bill to establish standards for trauma kits purchased using funds provided under the Edward Byrne Memorial Justice Assistance Grant Program.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-30T06:38:23Z",
+  "updated_at": "2025-07-30T13:44:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1595.xml"
 }

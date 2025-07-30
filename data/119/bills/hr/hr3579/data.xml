@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3579" updated="2025-06-26T17:48:19Z">
-  <state datetime="2025-05-23">REFERRED</state>
+<bill session="119" type="h" number="3579" updated="2025-07-30T12:51:42Z">
+  <state datetime="2025-07-23">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-23"/>
+    <unknown datetime="2025-07-23"/>
   </status>
   <introduced datetime="2025-05-23"/>
   <titles>
@@ -28,9 +28,15 @@
     <action datetime="2025-06-11">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2025-07-03">
+      <text>Subcommittee on Economic Opportunity Discharged</text>
+    </action>
+    <action datetime="2025-07-23" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Discharged, Referred To"/>
     <committee code="HSVR10" name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills/>

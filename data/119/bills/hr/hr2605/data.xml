@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2605" updated="2025-07-24T08:07:01Z">
-  <state datetime="2025-04-02">REFERRED</state>
+<bill session="119" type="h" number="2605" updated="2025-07-30T12:52:14Z">
+  <state datetime="2025-07-23">REPORTED</state>
   <status>
-    <introduced datetime="2025-04-02"/>
+    <unknown datetime="2025-07-23"/>
   </status>
   <introduced datetime="2025-04-02"/>
   <titles>
@@ -31,13 +31,16 @@
     <cosponsor bioguide_id="K000404" joined="2025-04-02"/>
     <cosponsor bioguide_id="L000598" joined="2025-04-02"/>
     <cosponsor bioguide_id="L000599" joined="2025-04-02"/>
+    <cosponsor bioguide_id="L000590" joined="2025-07-29"/>
     <cosponsor bioguide_id="M000194" joined="2025-04-02"/>
     <cosponsor bioguide_id="M000317" joined="2025-05-05"/>
+    <cosponsor bioguide_id="M001231" joined="2025-07-29"/>
     <cosponsor bioguide_id="M001220" joined="2025-04-02"/>
     <cosponsor bioguide_id="M001222" joined="2025-05-15"/>
     <cosponsor bioguide_id="M001215" joined="2025-04-02"/>
     <cosponsor bioguide_id="M001234" joined="2025-07-02"/>
     <cosponsor bioguide_id="M001210" joined="2025-04-02"/>
+    <cosponsor bioguide_id="N000191" joined="2025-07-29"/>
     <cosponsor bioguide_id="N000147" joined="2025-04-02"/>
     <cosponsor bioguide_id="P000048" joined="2025-04-02"/>
     <cosponsor bioguide_id="R000600" joined="2025-04-02"/>
@@ -67,9 +70,15 @@
     <action datetime="2025-06-12">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2025-07-03">
+      <text>Subcommittee on Health Discharged</text>
+    </action>
+    <action datetime="2025-07-23" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Discharged, Referred To"/>
     <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>
