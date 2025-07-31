@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="972" updated="2025-05-21T19:45:47Z">
-  <state datetime="2025-03-11">REFERRED</state>
+<bill session="119" type="s" number="972" updated="2025-07-31T11:03:18Z">
+  <state datetime="2025-07-30">REPORTED</state>
   <status>
-    <introduced datetime="2025-03-11"/>
+    <unknown datetime="2025-07-30"/>
   </status>
   <introduced datetime="2025-03-11"/>
   <titles>
@@ -21,9 +21,12 @@
     <action datetime="2025-03-11" state="REFERRED">
       <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-07-30" state="REPORTED">
+      <text>Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="1872" relation="unknown"/>

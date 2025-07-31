@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="872" updated="2025-07-30T02:52:31Z">
-  <state datetime="2025-03-05">REFERRED</state>
+<bill session="119" type="s" number="872" updated="2025-07-31T11:03:18Z">
+  <state datetime="2025-07-30">REPORTED</state>
   <status>
-    <introduced datetime="2025-03-05"/>
+    <unknown datetime="2025-07-30"/>
   </status>
   <introduced datetime="2025-03-05"/>
   <titles>
@@ -12,6 +12,7 @@
   <sponsor bioguide_id="E000295"/>
   <cosponsors>
     <cosponsor bioguide_id="L000575" joined="2025-03-05"/>
+    <cosponsor bioguide_id="M001244" joined="2025-07-30"/>
     <cosponsor bioguide_id="M001242" joined="2025-03-05"/>
     <cosponsor bioguide_id="P000595" joined="2025-03-05"/>
   </cosponsors>
@@ -22,9 +23,12 @@
     <action datetime="2025-03-05" state="REFERRED">
       <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </action>
+    <action datetime="2025-07-30" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="2069" relation="identical"/>

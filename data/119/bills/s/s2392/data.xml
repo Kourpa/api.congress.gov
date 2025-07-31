@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2392" updated="2025-07-29T20:50:16Z">
-  <state datetime="2025-07-23">REFERRED</state>
+<bill session="119" type="s" number="2392" updated="2025-07-31T11:03:19Z">
+  <state datetime="2025-07-30">REPORTED</state>
   <status>
-    <introduced datetime="2025-07-23"/>
+    <unknown datetime="2025-07-30"/>
   </status>
   <introduced datetime="2025-07-23"/>
   <titles>
@@ -15,6 +15,7 @@
     <cosponsor bioguide_id="B001277" joined="2025-07-23"/>
     <cosponsor bioguide_id="B001236" joined="2025-07-23"/>
     <cosponsor bioguide_id="C001075" joined="2025-07-23"/>
+    <cosponsor bioguide_id="C001113" joined="2025-07-30"/>
     <cosponsor bioguide_id="C001096" joined="2025-07-23"/>
     <cosponsor bioguide_id="D000622" joined="2025-07-23"/>
     <cosponsor bioguide_id="G000574" joined="2025-07-23"/>
@@ -34,9 +35,12 @@
     <action datetime="2025-07-23" state="REFERRED">
       <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-07-30" state="REPORTED">
+      <text>Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

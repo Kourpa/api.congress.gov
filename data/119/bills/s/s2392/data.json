@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-07-30",
+      "action_code": "",
+      "committees": [
+        "SSVA"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Veterans' Affairs",
@@ -72,6 +84,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-07-23",
       "state": "LA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001113",
+      "district": null,
+      "name": "Cortez Masto, Catherine",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-07-30",
+      "state": "NV",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -188,7 +210,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-07-30",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -207,8 +230,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-07-23",
+  "status": "REPORTED",
+  "status_at": "2025-07-30",
   "subjects": [
     "Armed forces and national security"
   ],
@@ -237,6 +260,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-29T20:50:16Z",
+  "updated_at": "2025-07-31T11:03:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2392.xml"
 }
