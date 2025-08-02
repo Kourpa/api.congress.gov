@@ -17,9 +17,45 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-08-01",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-08-01",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-08-01",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt3680-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3680"
+    }
+  ],
   "bill_id": "s1659-119",
   "bill_type": "s",
   "by_request": false,
@@ -27,6 +63,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -138,9 +175,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-08-01",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-08-01",
     "vetoed": false
   },
   "introduced_at": "2025-05-07",
@@ -164,14 +204,21 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-07",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-08-01",
   "subjects": [
     "Finance and financial sector"
   ],
   "subjects_top_term": "Finance and financial sector",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Bankruptcy Administration Improvement Act of 2025",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -187,13 +234,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Bankruptcy Administration Improvement Act of 2025",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -201,6 +241,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-08-02T05:53:21Z",
+  "updated_at": "2025-08-02T11:09:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1659.xml"
 }
