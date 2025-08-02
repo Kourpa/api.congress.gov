@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3944" updated="2025-08-01T11:08:58Z">
-  <state datetime="2025-06-25T17:09:59-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="3944" updated="2025-08-02T11:09:13Z">
+  <state datetime="2025-08-01">PASS_BACK:SENATE</state>
   <status>
-    <unknown datetime="2025-06-25T17:09:59-04:00"/>
+    <unknown datetime="2025-08-01"/>
   </status>
   <introduced datetime="2025-06-12"/>
   <titles>
@@ -138,6 +138,15 @@
       <reference ref="CR S4588: 1" label="consideration"/>
       <reference ref="CR S4588-4598" label="text"/>
     </action>
+    <action datetime="2025-08-01">
+      <text>Considered by Senate.</text>
+    </action>
+    <action datetime="2025-08-01">
+      <text>The committee substitute withdrawn by Unanimous Consent.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="480" datetime="2025-08-01" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate under the order of 8/1/2025, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 87 - 9. Record Vote Number: 480.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSAP" name="Senate Appropriations" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -226,6 +235,20 @@
     <amendment number="h37"/>
     <amendment number="h36"/>
     <amendment number="h35"/>
+    <amendment number="s3486"/>
+    <amendment number="s3485"/>
+    <amendment number="s3466"/>
+    <amendment number="s3447"/>
+    <amendment number="s3433"/>
+    <amendment number="s3432"/>
+    <amendment number="s3431"/>
+    <amendment number="s3430"/>
+    <amendment number="s3428"/>
+    <amendment number="s3418"/>
+    <amendment number="s3416"/>
+    <amendment number="s3415"/>
+    <amendment number="s3414"/>
+    <amendment number="s3413"/>
     <amendment number="s3412"/>
     <amendment number="s3411"/>
     <amendment number="s3409"/>

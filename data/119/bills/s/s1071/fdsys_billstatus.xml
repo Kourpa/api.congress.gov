@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1071</number>
-    <updateDate>2025-05-12T14:50:04Z</updateDate>
-    <updateDateIncludingText>2025-05-12T14:50:04Z</updateDateIncludingText>
+    <updateDate>2025-08-02T10:56:31Z</updateDate>
+    <updateDateIncludingText>2025-08-02T10:56:31Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -18,6 +18,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-08-02T01:56:44Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-03-14T14:48:33Z</date>
           </item>
@@ -25,6 +29,54 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-08-01</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-08-01</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-08-01</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-08-01</actionDate>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-03-14</actionDate>
         <committees>
@@ -102,6 +154,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in Senate</type>
+        <date>2025-08-01T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119s1071es/xml/BILLS-119s1071es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in Senate</type>
         <date>2025-03-14T04:00:00Z</date>
         <formats>
@@ -112,8 +173,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-14</actionDate>
-      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2025-08-01</actionDate>
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

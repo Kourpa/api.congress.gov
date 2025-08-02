@@ -381,6 +381,33 @@
       ],
       "text": "Measure laid before Senate by motion.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-08-01",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-08-01",
+      "action_code": "",
+      "references": [],
+      "text": "The committee substitute withdrawn by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-08-01",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "480",
+      "status": "PASS_BACK:SENATE",
+      "text": "Passed Senate under the order of 8/1/2025, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 87 - 9. Record Vote Number: 480.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [
@@ -401,6 +428,90 @@
       "amendment_type": "hamdt",
       "chamber": "h",
       "number": "35"
+    },
+    {
+      "amendment_id": "samdt3486-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3486"
+    },
+    {
+      "amendment_id": "samdt3485-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3485"
+    },
+    {
+      "amendment_id": "samdt3466-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3466"
+    },
+    {
+      "amendment_id": "samdt3447-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3447"
+    },
+    {
+      "amendment_id": "samdt3433-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3433"
+    },
+    {
+      "amendment_id": "samdt3432-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3432"
+    },
+    {
+      "amendment_id": "samdt3431-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3431"
+    },
+    {
+      "amendment_id": "samdt3430-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3430"
+    },
+    {
+      "amendment_id": "samdt3428-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3428"
+    },
+    {
+      "amendment_id": "samdt3418-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3418"
+    },
+    {
+      "amendment_id": "samdt3416-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3416"
+    },
+    {
+      "amendment_id": "samdt3415-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3415"
+    },
+    {
+      "amendment_id": "samdt3414-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3414"
+    },
+    {
+      "amendment_id": "samdt3413-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3413"
     },
     {
       "amendment_id": "samdt3412-119",
@@ -1168,6 +1279,8 @@
     "house_passage_result_at": "2025-06-25T17:09:59-04:00",
     "senate_cloture_result": "pass",
     "senate_cloture_result_at": "2025-07-22",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-08-01",
     "vetoed": false
   },
   "introduced_at": "2025-06-12",
@@ -1191,8 +1304,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-06-25T17:09:59-04:00",
+  "status": "PASS_BACK:SENATE",
+  "status_at": "2025-08-01",
   "subjects": [
     "Abortion",
     "Alaska",
@@ -1320,6 +1433,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-08-01T11:08:58Z",
+  "updated_at": "2025-08-02T11:09:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3944.xml"
 }

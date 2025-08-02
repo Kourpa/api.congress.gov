@@ -17,6 +17,28 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-08-01",
+      "action_code": "",
+      "committees": [
+        "SSVA"
+      ],
+      "references": [],
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-08-01",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +49,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Veterans' Affairs",
@@ -48,9 +71,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-08-01",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-08-01",
     "vetoed": false
   },
   "introduced_at": "2025-03-14",
@@ -67,8 +93,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-03-14",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-08-01",
   "subjects": [
     "Armed forces and national security"
   ],
@@ -90,6 +116,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-12T14:50:04Z",
+  "updated_at": "2025-08-02T10:56:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1071.xml"
 }
