@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1155" updated="2025-06-17T10:56:17Z">
-  <state datetime="2025-03-26">REFERRED</state>
+<bill session="119" type="s" number="1155" updated="2025-08-03T10:56:21Z">
+  <state datetime="2025-08-02">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-03-26"/>
+    <unknown datetime="2025-08-02"/>
   </status>
   <introduced datetime="2025-03-26"/>
   <titles>
@@ -19,9 +19,15 @@
     <action datetime="2025-03-26" state="REFERRED">
       <text>Read twice and referred to the Committee on Foreign Relations.</text>
     </action>
+    <action datetime="2025-08-02">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-08-02" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Referred To"/>
+    <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
