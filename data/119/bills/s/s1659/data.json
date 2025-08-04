@@ -31,7 +31,12 @@
     {
       "acted_at": "2025-08-01",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S5475-5476",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -39,7 +44,12 @@
       "acted_at": "2025-08-01",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S5475-5476",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:SENATE",
       "text": "Passed Senate without amendment by Unanimous Consent.",
@@ -241,6 +251,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-08-03T22:03:01Z",
+  "updated_at": "2025-08-04T18:15:00Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1659.xml"
 }
