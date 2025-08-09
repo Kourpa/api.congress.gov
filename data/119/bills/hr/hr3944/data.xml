@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3944" updated="2025-08-07T11:08:21Z">
+<bill session="119" type="h" number="3944" updated="2025-08-09T10:56:17Z">
   <state datetime="2025-08-01">PASS_BACK:SENATE</state>
   <status>
     <unknown datetime="2025-08-01"/>
@@ -152,6 +152,9 @@
     <vote how="roll" type="vote2" roll="480" datetime="2025-08-01" where="s" result="pass" state="PASS_BACK:SENATE">
       <text>Passed Senate under the order of 8/1/2025, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 87 - 9. Record Vote Number: 480.</text>
     </vote>
+    <action datetime="2025-08-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSAP" name="Senate Appropriations" subcommittee="" activity="Reported By, Markup By, Referred To"/>
