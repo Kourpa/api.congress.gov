@@ -53,7 +53,18 @@
     }
   ],
   "congress": "119",
-  "cosponsors": [],
+  "cosponsors": [
+    {
+      "bioguide_id": "H001052",
+      "district": "1",
+      "name": "Harris, Andy",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-08-15",
+      "state": "MD",
+      "title": "Rep.",
+      "withdrawn_at": null
+    }
+  ],
   "enacted_as": null,
   "history": {
     "active": false,
@@ -78,7 +89,11 @@
   "status": "REFERRED",
   "status_at": "2025-02-04",
   "subjects": [
-    "Armed forces and national security"
+    "Armed forces and national security",
+    "Government lending and loan guarantees",
+    "Higher education",
+    "Student aid and college costs",
+    "Veterans' education, employment, rehabilitation"
   ],
   "subjects_top_term": "Armed forces and national security",
   "summary": {
@@ -110,6 +125,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-19T15:57:18Z",
+  "updated_at": "2025-08-16T08:05:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr968.xml"
 }
