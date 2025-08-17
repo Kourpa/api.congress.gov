@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="423" updated="2025-08-15T08:05:16Z">
-  <state datetime="2025-07-21T15:09:23-04:00">PASSED:BILL</state>
+<bill session="119" type="s" number="423" updated="2025-08-16T22:01:13Z">
+  <state datetime="2025-08-14">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-07-21T15:09:23-04:00"/>
+    <unknown datetime="2025-08-14"/>
   </status>
   <introduced datetime="2025-02-05"/>
   <titles>
@@ -79,6 +79,12 @@
     <topresident datetime="2025-08-12">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-08-14" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="119-33" type="public" datetime="2025-08-14">
+      <text>Became Public Law No: 119-33.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Discharged From, Referred To"/>
