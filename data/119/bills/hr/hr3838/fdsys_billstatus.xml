@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3838</number>
-    <updateDate>2025-08-20T04:23:22Z</updateDate>
-    <updateDateIncludingText>2025-08-20T04:23:22Z</updateDateIncludingText>
+    <updateDate>2025-08-20T08:05:38Z</updateDate>
+    <updateDateIncludingText>2025-08-20T08:05:38Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-08-19T14:01:38Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-07-15T13:04:42Z</date>
           </item>
@@ -32,6 +36,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-08-19</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 189.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00189</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-08-19</actionDate>
+        <text>Reported (Amended) by the Committee on Armed Services. H. Rept. 119-231.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-08-19</actionDate>
+        <text>Reported (Amended) by the Committee on Armed Services. H. Rept. 119-231.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-07-15</actionDate>
         <committees>
@@ -267,8 +316,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-15</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 55 - 2.</text>
+      <actionDate>2025-08-19</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 189.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
