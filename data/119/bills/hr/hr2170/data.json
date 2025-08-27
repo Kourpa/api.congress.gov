@@ -122,6 +122,13 @@
       "references": [],
       "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-08-25",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -272,7 +279,8 @@
   "history": {
     "active": true,
     "active_at": "2025-07-21T15:27:01-04:00",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2025-08-25",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-07-21T15:40:03-04:00",
@@ -325,6 +333,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-08-09T10:56:17Z",
+  "updated_at": "2025-08-26T08:05:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2170.xml"
 }
