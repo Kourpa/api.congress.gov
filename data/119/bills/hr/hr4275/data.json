@@ -171,14 +171,14 @@
   "committees": [
     {
       "activity": [
-        "Exchange of Letters"
+        "Bills of Interest - Exchange of Letters"
       ],
       "committee": "House Armed Services",
       "committee_id": "HSAS"
     },
     {
       "activity": [
-        "Exchange of Letters"
+        "Bills of Interest - Exchange of Letters"
       ],
       "committee": "House Homeland Security",
       "committee_id": "HSHM"
@@ -267,7 +267,14 @@
   "number": "4275",
   "official_title": "To authorize appropriations for the Coast Guard, to establish the Secretary of the Coast Guard, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s524-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Coast Guard Authorization Act of 2025",
   "sponsor": {
     "bioguide_id": "G000546",
@@ -407,6 +414,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-08-15T18:24:34Z",
+  "updated_at": "2025-08-29T15:45:51Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4275.xml"
 }
