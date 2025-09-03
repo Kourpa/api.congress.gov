@@ -49,6 +49,18 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-09-02",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -126,6 +138,8 @@
     "active_at": "2025-07-24",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-09-02",
     "vetoed": false
   },
   "introduced_at": "2025-03-13",
@@ -142,10 +156,15 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-24",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-09-02",
   "subjects": [
-    "Crime and law enforcement"
+    "Computers and information technology",
+    "Congressional oversight",
+    "Crime and law enforcement",
+    "Criminal justice information and records",
+    "Government information and archives",
+    "Missing persons"
   ],
   "subjects_top_term": "Crime and law enforcement",
   "summary": null,
@@ -186,6 +205,20 @@
       "type": "short"
     },
     {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "TRACE Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Tracking and Reporting Absent Community-Members Everywhere Act",
+      "type": "short"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -193,6 +226,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-30T12:48:19Z",
+  "updated_at": "2025-09-03T10:58:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1038.xml"
 }

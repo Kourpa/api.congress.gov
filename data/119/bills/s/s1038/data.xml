@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1038" updated="2025-07-30T12:48:19Z">
-  <state datetime="2025-07-24">REPORTED</state>
+<bill session="119" type="s" number="1038" updated="2025-09-03T10:58:21Z">
+  <state datetime="2025-09-02">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-07-24"/>
+    <unknown datetime="2025-09-02"/>
   </status>
   <introduced datetime="2025-03-13"/>
   <titles>
@@ -10,6 +10,8 @@
     <title type="short" as="introduced">Tracking and Reporting Absent Community-Members Everywhere Act</title>
     <title type="short" as="reported to senate">TRACE Act</title>
     <title type="short" as="reported to senate">Tracking and Reporting Absent Community-Members Everywhere Act</title>
+    <title type="short" as="passed senate">TRACE Act</title>
+    <title type="short" as="passed senate">Tracking and Reporting Absent Community-Members Everywhere Act</title>
     <title type="official" as="introduced">A bill to direct the Attorney General to include a data field in the National Missing and Unidentified Persons System to indicate whether the last known location of a missing person was confirmed or was suspected to have been on Federal land, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="T000476"/>
@@ -36,6 +38,9 @@
     <calendar datetime="2025-07-28" calendar="Senate Legislative" under="General Orders" number="126">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-09-02" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -43,6 +48,11 @@
   <relatedbills/>
   <subjects>
     <term name="Crime and law enforcement"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Government information and archives"/>
+    <term name="Missing persons"/>
   </subjects>
   <amendments/>
 </bill>

@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>3692</number>
-    <updateDate>2025-08-09T08:05:39Z</updateDate>
-    <updateDateIncludingText>2025-08-09T08:05:39Z</updateDateIncludingText>
+    <updateDate>2025-09-03T08:05:35Z</updateDate>
+    <updateDateIncludingText>2025-09-03T08:05:35Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-06-03</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/3692</legislationUrl>
     <cdata>
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 94 (Tuesday, June 3, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. MOULTON:H.R. 3692.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3: ``To regulate commerce withforeign nations, and among the several states, and with theIndian tribes''[Page H2420]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
@@ -19,6 +20,18 @@
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-08-29T20:22:51Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -28,6 +41,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-08-29</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-06-03</actionDate>
         <text>Referred to the House Committee on Natural Resources.</text>
@@ -150,6 +178,17 @@
         <sponsorshipDate>2025-08-08</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>L000599</bioguideId>
+        <fullName>Rep. Lawler, Michael [R-NY-17]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Lawler</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <district>17</district>
+        <sponsorshipDate>2025-09-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Public Lands and Natural Resources</name>
@@ -190,8 +229,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-03</actionDate>
-      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2025-08-29</actionDate>
+      <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

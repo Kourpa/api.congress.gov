@@ -1,17 +1,21 @@
-<bill session="119" type="h" number="4669" updated="2025-08-13T08:05:29Z">
+<bill session="119" type="h" number="4669" updated="2025-09-03T08:05:39Z">
   <state datetime="2025-07-23">REFERRED</state>
   <status>
     <introduced datetime="2025-07-23"/>
   </status>
   <introduced datetime="2025-07-23"/>
   <titles>
-    <title type="display">To authorize and improve the Federal Emergency Management Agency and reform Federal disaster mitigation, preparedness, response, and recovery, and for other purposes.</title>
+    <title type="display">FEMA Act of 2025</title>
+    <title type="short" as="introduced">FEMA Act of 2025</title>
+    <title type="short" as="introduced">Fixing Emergency Management for Americans Act of 2025</title>
     <title type="official" as="introduced">To authorize and improve the Federal Emergency Management Agency and reform Federal disaster mitigation, preparedness, response, and recovery, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000546"/>
   <cosponsors>
+    <cosponsor bioguide_id="C001103" joined="2025-09-02"/>
     <cosponsor bioguide_id="E000246" joined="2025-08-01"/>
     <cosponsor bioguide_id="E000235" joined="2025-08-01"/>
+    <cosponsor bioguide_id="F000484" joined="2025-09-02"/>
     <cosponsor bioguide_id="F000483" joined="2025-08-12"/>
     <cosponsor bioguide_id="H001099" joined="2025-08-12"/>
     <cosponsor bioguide_id="L000560" joined="2025-07-23"/>
@@ -30,10 +34,14 @@
     <action datetime="2025-07-23">
       <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-09-02">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

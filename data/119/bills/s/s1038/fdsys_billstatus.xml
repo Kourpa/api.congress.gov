@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>1038</number>
-    <updateDate>2025-07-30T12:48:19Z</updateDate>
-    <updateDateIncludingText>2025-07-30T12:48:19Z</updateDateIncludingText>
+    <updateDate>2025-09-03T10:58:21Z</updateDate>
+    <updateDateIncludingText>2025-09-03T10:58:21Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
     <introducedDate>2025-03-13</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/1038</legislationUrl>
     <committees>
       <item>
         <systemCode>ssju00</systemCode>
@@ -33,6 +34,24 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-09-02</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-09-02</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-07-28</actionDate>
         <sourceSystem>
@@ -181,7 +200,28 @@
       <name>Crime and Law Enforcement</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Computers and information technology</name>
+          <updateDate>2025-08-07T17:53:03Z</updateDate>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+          <updateDate>2025-08-07T17:53:03Z</updateDate>
+        </item>
+        <item>
+          <name>Criminal justice information and records</name>
+          <updateDate>2025-08-07T17:53:03Z</updateDate>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+          <updateDate>2025-08-07T17:53:03Z</updateDate>
+        </item>
+        <item>
+          <name>Missing persons</name>
+          <updateDate>2025-08-07T17:53:03Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Crime and Law Enforcement</name>
         <updateDate>2025-05-13T17:50:00Z</updateDate>
@@ -193,12 +233,32 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>TRACE Act</title>
-        <updateDate>2025-07-30T12:48:19Z</updateDate>
+        <updateDate>2025-09-03T10:58:21Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate</titleType>
+        <titleTypeCode>105</titleTypeCode>
+        <title>TRACE Act</title>
+        <updateDate>2025-09-03T04:08:18Z</updateDate>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate</titleType>
+        <titleTypeCode>105</titleTypeCode>
+        <title>Tracking and Reporting Absent Community-Members Everywhere Act</title>
+        <updateDate>2025-09-03T04:08:18Z</updateDate>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Reported to Senate</titleType>
         <titleTypeCode>103</titleTypeCode>
-        <title>TRACE Act</title>
+        <title>Tracking and Reporting Absent Community-Members Everywhere Act</title>
         <updateDate>2025-07-30T06:38:22Z</updateDate>
         <chamberCode>S</chamberCode>
         <chamberName>Senate</chamberName>
@@ -208,7 +268,7 @@
       <item>
         <titleType>Short Title(s) as Reported to Senate</titleType>
         <titleTypeCode>103</titleTypeCode>
-        <title>Tracking and Reporting Absent Community-Members Everywhere Act</title>
+        <title>TRACE Act</title>
         <updateDate>2025-07-30T06:38:22Z</updateDate>
         <chamberCode>S</chamberCode>
         <chamberName>Senate</chamberName>
@@ -242,6 +302,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in Senate</type>
+        <date>2025-09-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119s1038es/xml/BILLS-119s1038es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Reported to Senate</type>
         <date>2025-07-28T04:00:00Z</date>
         <formats>
@@ -261,8 +330,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-28</actionDate>
-      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.</text>
+      <actionDate>2025-09-02</actionDate>
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
