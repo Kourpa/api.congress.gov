@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2296" updated="2025-08-18T17:39:31Z">
+<bill session="119" type="s" number="2296" updated="2025-09-03T11:08:32Z">
   <state datetime="2025-07-15">REPORTED</state>
   <status>
     <unknown datetime="2025-07-15"/>
@@ -34,31 +34,350 @@
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
       <reference ref="4" label="CR S5522"/>
     </action>
+    <action datetime="2025-09-02">
+      <text>Motion to proceed to measure considered in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="500" datetime="2025-09-02" where="s" result="pass">
+      <text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 14. Record Vote Number: 500.</text>
+    </vote-aux>
   </actions>
   <committees>
     <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Reported Original Measure"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1988" relation="unknown"/>
-    <bill session="119" type="h" number="3917" relation="unknown"/>
     <bill session="119" type="s" number="2604" relation="unknown"/>
-    <bill session="119" type="s" number="2602" relation="unknown"/>
     <bill session="119" type="s" number="2259" relation="unknown"/>
     <bill session="119" type="s" number="2453" relation="unknown"/>
-    <bill session="119" type="s" number="2607" relation="unknown"/>
-    <bill session="119" type="s" number="2606" relation="unknown"/>
-    <bill session="119" type="s" number="2599" relation="unknown"/>
-    <bill session="119" type="s" number="2600" relation="unknown"/>
     <bill session="119" type="s" number="2648" relation="unknown"/>
     <bill session="119" type="s" number="2601" relation="unknown"/>
     <bill session="119" type="s" number="2603" relation="unknown"/>
     <bill session="119" type="s" number="2605" relation="unknown"/>
+    <bill session="119" type="h" number="3917" relation="unknown"/>
+    <bill session="119" type="s" number="2602" relation="unknown"/>
+    <bill session="119" type="s" number="2607" relation="unknown"/>
+    <bill session="119" type="s" number="2606" relation="unknown"/>
+    <bill session="119" type="s" number="2599" relation="unknown"/>
+    <bill session="119" type="s" number="2600" relation="unknown"/>
     <bill session="119" type="s" number="2091" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Adoption and foster care"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Advisory bodies"/>
+    <term name="Africa"/>
+    <term name="Air quality"/>
+    <term name="Alabama"/>
+    <term name="Alaska"/>
+    <term name="Alliances"/>
+    <term name="Appropriations"/>
+    <term name="Arab-Israeli relations"/>
+    <term name="Arizona"/>
+    <term name="Arkansas"/>
+    <term name="Armed Forces Retirement Home"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Asia"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Athletes"/>
+    <term name="Atmospheric science and weather"/>
+    <term name="Australia"/>
+    <term name="Aviation and airports"/>
+    <term name="Belgium"/>
+    <term name="Blood and blood diseases"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Budget process"/>
+    <term name="Building construction"/>
+    <term name="California"/>
+    <term name="Canada"/>
+    <term name="Caribbean area"/>
+    <term name="Chemical and biological weapons"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="China"/>
+    <term name="Civil actions and liability"/>
+    <term name="Coal"/>
+    <term name="Coast guard"/>
+    <term name="Collective security"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Competition and antitrust"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Computers and information technology"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional oversight"/>
+    <term name="Connecticut"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Crime prevention"/>
+    <term name="Cuba"/>
+    <term name="Defense Nuclear Facilities Safety Board"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Energy"/>
+    <term name="Detention of persons"/>
+    <term name="Digital media"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Disability and paralysis"/>
+    <term name="Disability assistance"/>
+    <term name="District of Columbia"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employee hiring"/>
+    <term name="Employment and training programs"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Espionage and treason"/>
+    <term name="Europe"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Family planning and birth control"/>
+    <term name="Family relationships"/>
+    <term name="Federal officials"/>
+    <term name="Fiji"/>
+    <term name="Firearms and explosives"/>
+    <term name="Fires"/>
+    <term name="Florida"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Foreign labor"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="France"/>
+    <term name="Free trade and trade barriers"/>
+    <term name="Georgia"/>
+    <term name="Germany"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Greenland"/>
+    <term name="Guam"/>
+    <term name="Hawaii"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health care quality"/>
+    <term name="Health personnel"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Higher education"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Housing industry and standards"/>
+    <term name="Human trafficking"/>
+    <term name="Idaho"/>
+    <term name="Illinois"/>
+    <term name="India"/>
+    <term name="Indiana"/>
+    <term name="Industrial policy and productivity"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Inflation and prices"/>
+    <term name="Infrastructure development"/>
+    <term name="Intellectual property"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Intergovernmental relations"/>
+    <term name="International organizations and cooperation"/>
+    <term name="International scientific cooperation"/>
+    <term name="Iowa"/>
+    <term name="Iran"/>
+    <term name="Iraq"/>
+    <term name="Israel"/>
+    <term name="Japan"/>
+    <term name="Jordan"/>
+    <term name="Judges"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Kansas"/>
+    <term name="Kentucky"/>
+    <term name="Kiribati"/>
+    <term name="Land transfers"/>
+    <term name="Latin America"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Lease and rental services"/>
+    <term name="Lebanon"/>
+    <term name="Licensing and registrations"/>
+    <term name="Maine"/>
+    <term name="Manufacturing"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Marshall Islands"/>
+    <term name="Maryland"/>
+    <term name="Massachusetts"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Mental health"/>
+    <term name="Metals"/>
+    <term name="Mexico"/>
+    <term name="Micronesia"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military civil functions"/>
+    <term name="Military education and training"/>
+    <term name="Military facilities and property"/>
+    <term name="Military history"/>
+    <term name="Military law"/>
+    <term name="Military medicine"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Military readiness"/>
+    <term name="Minority education"/>
+    <term name="Missing persons"/>
+    <term name="Mississippi"/>
+    <term name="Missouri"/>
+    <term name="Montana"/>
+    <term name="Motor vehicles"/>
+    <term name="National Guard and reserves"/>
+    <term name="Nauru"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Neurological disorders"/>
+    <term name="Nevada"/>
+    <term name="New Hampshire"/>
+    <term name="New Jersey"/>
+    <term name="New Mexico"/>
+    <term name="New York State"/>
+    <term name="New Zealand"/>
+    <term name="North America"/>
+    <term name="North Carolina"/>
+    <term name="North Dakota"/>
+    <term name="North Korea"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Norway"/>
+    <term name="Nuclear Regulatory Commission (NRC)"/>
+    <term name="Nuclear power"/>
+    <term name="Nuclear weapons"/>
+    <term name="Nutrition and diet"/>
+    <term name="Oceania"/>
+    <term name="Ohio"/>
+    <term name="Oil and gas"/>
+    <term name="Oklahoma"/>
+    <term name="Oregon"/>
+    <term name="Organized crime"/>
+    <term name="Palau"/>
+    <term name="Panama"/>
+    <term name="Papua New Guinea"/>
+    <term name="Pennsylvania"/>
+    <term name="Performance measurement"/>
+    <term name="Personnel records"/>
+    <term name="Philippines"/>
+    <term name="Poland"/>
+    <term name="Professional sports"/>
+    <term name="Protection of officials"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Public-private cooperation"/>
+    <term name="Puerto Rico"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Radio spectrum allocation"/>
+    <term name="Radioactive wastes and releases"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Rhode Island"/>
+    <term name="Russia"/>
+    <term name="Samoa"/>
+    <term name="School administration"/>
+    <term name="School athletics"/>
+    <term name="Seafood"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Sex offenses"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Singapore"/>
+    <term name="Small business"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Solid waste and recycling"/>
+    <term name="Solomon Islands"/>
+    <term name="South Carolina"/>
+    <term name="South Dakota"/>
+    <term name="South Korea"/>
+    <term name="Space flight and exploration"/>
+    <term name="Spacecraft and satellites"/>
+    <term name="Spain"/>
+    <term name="Special education"/>
+    <term name="Strategic materials and reserves"/>
+    <term name="Surgery and anesthesia"/>
+    <term name="Syria"/>
+    <term name="Taiwan"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Technology assessment"/>
+    <term name="Television and film"/>
+    <term name="Tennessee"/>
+    <term name="Terrorism"/>
+    <term name="Texas"/>
+    <term name="Thailand"/>
+    <term name="Tonga"/>
+    <term name="Transportation costs"/>
+    <term name="Travel and tourism"/>
+    <term name="Tuvalu"/>
+    <term name="U.S. territories and protectorates"/>
+    <term name="Ukraine"/>
   </subjects>
   <amendments>
+    <amendment number="s3749"/>
+    <amendment number="s3748"/>
+    <amendment number="s3747"/>
+    <amendment number="s3746"/>
+    <amendment number="s3745"/>
+    <amendment number="s3744"/>
+    <amendment number="s3743"/>
+    <amendment number="s3742"/>
+    <amendment number="s3741"/>
+    <amendment number="s3740"/>
+    <amendment number="s3739"/>
+    <amendment number="s3738"/>
+    <amendment number="s3737"/>
+    <amendment number="s3736"/>
+    <amendment number="s3735"/>
+    <amendment number="s3734"/>
+    <amendment number="s3733"/>
+    <amendment number="s3732"/>
+    <amendment number="s3731"/>
+    <amendment number="s3730"/>
+    <amendment number="s3729"/>
+    <amendment number="s3728"/>
+    <amendment number="s3727"/>
+    <amendment number="s3726"/>
+    <amendment number="s3725"/>
+    <amendment number="s3724"/>
+    <amendment number="s3723"/>
+    <amendment number="s3722"/>
+    <amendment number="s3721"/>
+    <amendment number="s3720"/>
+    <amendment number="s3719"/>
+    <amendment number="s3718"/>
+    <amendment number="s3717"/>
+    <amendment number="s3716"/>
+    <amendment number="s3715"/>
+    <amendment number="s3714"/>
+    <amendment number="s3713"/>
+    <amendment number="s3712"/>
+    <amendment number="s3711"/>
+    <amendment number="s3710"/>
+    <amendment number="s3709"/>
+    <amendment number="s3708"/>
+    <amendment number="s3707"/>
+    <amendment number="s3706"/>
+    <amendment number="s3705"/>
+    <amendment number="s3704"/>
+    <amendment number="s3703"/>
+    <amendment number="s3702"/>
+    <amendment number="s3701"/>
+    <amendment number="s3700"/>
+    <amendment number="s3699"/>
+    <amendment number="s3698"/>
+    <amendment number="s3697"/>
+    <amendment number="s3696"/>
+    <amendment number="s3695"/>
+    <amendment number="s3694"/>
+    <amendment number="s3693"/>
+    <amendment number="s3692"/>
+    <amendment number="s3691"/>
+    <amendment number="s3690"/>
+    <amendment number="s3689"/>
+    <amendment number="s3688"/>
+    <amendment number="s3687"/>
+    <amendment number="s3686"/>
     <amendment number="s3685"/>
     <amendment number="s3684"/>
     <amendment number="s3683"/>

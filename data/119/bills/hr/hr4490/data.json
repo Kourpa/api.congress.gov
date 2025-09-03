@@ -38,6 +38,54 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by Voice Vote.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-09-02T16:52:01-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Baumgartner moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-02T16:52:16-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-02T16:52:18-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4490.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-02T17:04:37-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-09-02T17:04:40-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-02T17:04:43-04:00",
+      "action_code": "H38800",
+      "references": [],
+      "text": "The title of the measure was amended. Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -144,11 +192,13 @@
     "active_at": "2025-07-22",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-09-02T17:04:37-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-07-17",
   "number": "4490",
-  "official_title": "To amend the International Organizations Immunities Act to extend diplomatic privileges and immunities to certain additional international and regional organizations, and for other purposes.",
+  "official_title": "To amend the International Organizations Immunities Act to extend privileges and immunities to certain additional international and regional organizations, and for other purposes",
   "popular_title": null,
   "related_bills": [
     {
@@ -173,8 +223,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-22",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-09-02T17:04:37-04:00",
   "subjects": [
     "ASEAN countries",
     "Africa",
@@ -186,14 +236,33 @@
     "International organizations and cooperation"
   ],
   "subjects_top_term": "International affairs",
-  "summary": null,
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2025-07-17",
+    "date": "2025-09-03T15:19:26Z",
+    "text": ""
+  },
   "titles": [
     {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "PARTNER Act",
+      "title": "To amend the International Organizations Immunities Act to extend privileges and immunities to certain additional international and regional organizations, and for other purposes",
       "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To amend the International Organizations Immunities Act to extend diplomatic privileges and immunities to certain additional international and regional organizations, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": "amended by house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To amend the International Organizations Immunities Act to extend privileges and immunities to certain additional international and regional organizations, and for other purposes",
+      "type": "official"
     },
     {
       "as": "introduced",
@@ -208,15 +277,8 @@
       "textVersionCode": null,
       "title": "Providing Appropriate Recognition and Treatment Needed to Enhance Relations Act",
       "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "To amend the International Organizations Immunities Act to extend diplomatic privileges and immunities to certain additional international and regional organizations, and for other purposes.",
-      "type": "official"
     }
   ],
-  "updated_at": "2025-08-28T19:50:18Z",
+  "updated_at": "2025-09-03T15:20:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4490.xml"
 }
