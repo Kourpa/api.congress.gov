@@ -1,7 +1,7 @@
-<bill session="119" type="hr" number="668" updated="2025-09-03T12:54:53Z">
-  <state datetime="2025-09-02">REFERRED</state>
+<bill session="119" type="hr" number="668" updated="2025-09-04T12:36:15Z">
+  <state datetime="2025-09-03T14:06:59-04:00">PASSED:SIMPLERES</state>
   <status>
-    <introduced datetime="2025-09-02"/>
+    <unknown datetime="2025-09-03T14:06:59-04:00"/>
   </status>
   <introduced datetime="2025-09-02"/>
   <titles>
@@ -26,6 +26,9 @@
     <action datetime="2025-09-02" state="REFERRED">
       <text>Referred to the House Committee on Rules.</text>
     </action>
+    <vote how="by special rule" type="vote" datetime="2025-09-03T14:06:59-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>Pursuant to the provisions of H. Res. 672, H. Res. 668 is considered passed House.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="HSRU" name="House Rules" subcommittee="" activity="Referred To"/>
@@ -35,4 +38,5 @@
     <term name="Congress"/>
   </subjects>
   <amendments/>
+  <summary date="2025-09-03T20:51:14Z" status="Introduced in House"></summary>
 </bill>

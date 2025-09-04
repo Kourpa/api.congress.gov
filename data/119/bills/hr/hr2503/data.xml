@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="2503" updated="2025-09-03T08:05:34Z">
+<bill session="119" type="h" number="2503" updated="2025-09-04T10:56:24Z">
   <state datetime="2025-09-02T16:51:56-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-09-02T16:51:56-04:00"/>
   </status>
   <introduced datetime="2025-03-31"/>
   <titles>
-    <title type="display">Undersea Cable Control Act</title>
     <title type="short" as="introduced">Undersea Cable Control Act</title>
+    <title type="short" as="passed house">Undersea Cable Control Act</title>
+    <title type="display">Undersea Cable Control Act</title>
     <title type="official" as="introduced">To require the development of a strategy to eliminate the availability to foreign adversaries of goods and technologies capable of supporting undersea cables, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="K000398"/>
@@ -42,8 +43,12 @@
     <action datetime="2025-09-02T16:52:00-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-09-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>

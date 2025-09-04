@@ -17,6 +17,47 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Homeland Security.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-08-29",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Transportation and Maritime Security.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2025-09-03",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Subcommittee on Transportation and Maritime Security Discharged",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-03",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-03",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by the Yeas and Nays: 22 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,10 +68,21 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
+        "discharged",
         "Referred To"
       ],
       "committee": "House Homeland Security",
       "committee_id": "HSHM"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM",
+      "subcommittee": "Subcommittee on Transportation and Maritime Security",
+      "subcommittee_id": "07"
     }
   ],
   "congress": "119",
@@ -58,7 +110,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-09-03",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -77,8 +130,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-08-29",
+  "status": "REPORTED",
+  "status_at": "2025-09-03",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -105,6 +158,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-08-30T08:23:20Z",
+  "updated_at": "2025-09-04T08:06:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5062.xml"
 }

@@ -17,6 +17,21 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Rules.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-09-03T14:06:59-04:00",
+      "action_code": "H1B000",
+      "bill_ids": [
+        "hres672-119"
+      ],
+      "how": "by special rule",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Pursuant to the provisions of H. Res. 672, H. Res. 668 is considered passed House.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
     }
   ],
   "amendments": [],
@@ -118,9 +133,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-09-03T14:06:59-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-09-03T14:06:59-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-09-02",
@@ -137,13 +155,18 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-09-02",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-09-03T14:06:59-04:00",
   "subjects": [
     "Congress"
   ],
   "subjects_top_term": "Congress",
-  "summary": null,
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2025-09-02",
+    "date": "2025-09-03T20:51:14Z",
+    "text": ""
+  },
   "titles": [
     {
       "as": "introduced",
@@ -160,6 +183,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-09-03T12:54:53Z",
+  "updated_at": "2025-09-04T12:36:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres668.xml"
 }

@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="4215" updated="2025-09-03T08:05:54Z">
+<bill session="119" type="h" number="4215" updated="2025-09-04T10:56:22Z">
   <state datetime="2025-09-02T16:13:44-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-09-02T16:13:44-04:00"/>
   </status>
   <introduced datetime="2025-06-27"/>
   <titles>
-    <title type="display">International Traffic in Arms Regulations Licensing Reform Act</title>
     <title type="short" as="introduced">International Traffic in Arms Regulations Licensing Reform Act</title>
+    <title type="short" as="passed house">International Traffic in Arms Regulations Licensing Reform Act</title>
+    <title type="display">International Traffic in Arms Regulations Licensing Reform Act</title>
     <title type="official" as="introduced">To require the Secretary of State to promulgate expedited and fixed timelines for the decision-making process to license the export of certain defense articles and defense services, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="B001322"/>
@@ -46,8 +47,12 @@
     <action datetime="2025-09-02T16:13:47-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-09-03">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>

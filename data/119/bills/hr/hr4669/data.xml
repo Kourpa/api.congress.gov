@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4669" updated="2025-09-03T08:05:39Z">
-  <state datetime="2025-07-23">REFERRED</state>
+<bill session="119" type="h" number="4669" updated="2025-09-04T08:06:14Z">
+  <state datetime="2025-09-03">REPORTED</state>
   <status>
-    <introduced datetime="2025-07-23"/>
+    <unknown datetime="2025-09-03"/>
   </status>
   <introduced datetime="2025-07-23"/>
   <titles>
@@ -13,12 +13,14 @@
   <sponsor bioguide_id="G000546"/>
   <cosponsors>
     <cosponsor bioguide_id="C001103" joined="2025-09-02"/>
+    <cosponsor bioguide_id="C001053" joined="2025-09-03"/>
     <cosponsor bioguide_id="E000246" joined="2025-08-01"/>
     <cosponsor bioguide_id="E000235" joined="2025-08-01"/>
     <cosponsor bioguide_id="F000484" joined="2025-09-02"/>
     <cosponsor bioguide_id="F000483" joined="2025-08-12"/>
     <cosponsor bioguide_id="H001099" joined="2025-08-12"/>
     <cosponsor bioguide_id="L000560" joined="2025-07-23"/>
+    <cosponsor bioguide_id="M001217" joined="2025-09-03"/>
     <cosponsor bioguide_id="R000603" joined="2025-08-01"/>
     <cosponsor bioguide_id="S001211" joined="2025-07-23"/>
     <cosponsor bioguide_id="T000460" joined="2025-08-12"/>
@@ -37,9 +39,18 @@
     <action datetime="2025-09-02">
       <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
     </action>
+    <action datetime="2025-09-03">
+      <text>Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged</text>
+    </action>
+    <action datetime="2025-09-03">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-09-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 57 - 3.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
   </committees>

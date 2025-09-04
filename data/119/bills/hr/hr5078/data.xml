@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5078" updated="2025-09-03T08:23:20Z">
-  <state datetime="2025-09-02">REFERRED</state>
+<bill session="119" type="h" number="5078" updated="2025-09-04T08:06:38Z">
+  <state datetime="2025-09-03">REPORTED</state>
   <status>
-    <introduced datetime="2025-09-02"/>
+    <unknown datetime="2025-09-03"/>
   </status>
   <introduced datetime="2025-09-02"/>
   <titles>
@@ -23,9 +23,22 @@
     <action datetime="2025-09-02" state="REFERRED">
       <text>Referred to the House Committee on Homeland Security.</text>
     </action>
+    <action datetime="2025-09-02">
+      <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+    </action>
+    <action datetime="2025-09-03">
+      <text>Subcommittee on Cybersecurity and Infrastructure Protection Discharged</text>
+    </action>
+    <action datetime="2025-09-03">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-09-03" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 21 - 1.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSHM08" name="House Homeland Security" subcommittee="Cybersecurity and Infrastructure Protection" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects/>

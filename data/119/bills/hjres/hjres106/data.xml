@@ -1,7 +1,7 @@
-<bill session="119" type="hj" number="106" updated="2025-07-18T21:31:07Z">
-  <state datetime="2025-07-14">REFERRED</state>
+<bill session="119" type="hj" number="106" updated="2025-09-04T08:06:37Z">
+  <state datetime="2025-09-03T21:33:30-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-07-14"/>
+    <unknown datetime="2025-09-03T21:33:30-04:00"/>
   </status>
   <introduced datetime="2025-07-14"/>
   <titles>
@@ -17,11 +17,43 @@
     <action datetime="2025-07-14" state="REFERRED">
       <text>Referred to the House Committee on Natural Resources.</text>
     </action>
+    <action datetime="2025-09-03T09:57:13-04:00">
+      <text>Rules Committee Resolution H. Res. 672 Reported to House. Rule provides for consideration of H.R. 4553, H.J. Res. 104, H.J. Res. 105 and H.J. Res. 106. The resolution provides for consideration of H.R. 4553 under a structured rule, and H.J. Res. 104, H.J. Res. 105, and H.J. Res. 106 under a closed rule. The resolution provides for one hour of general debate and a motion to recommit on each measure. The resolution further provides that H. Res. 668 and H. Res. 605 are adopted, and H. Res. 598 is laid on the table.</text>
+    </action>
+    <action datetime="2025-09-03T14:06:11-04:00">
+      <text>Rule H. Res. 672 passed House.</text>
+    </action>
+    <action datetime="2025-09-03T15:10:14-04:00">
+      <text>Considered under the provisions of rule H. Res. 672.</text>
+    </action>
+    <action datetime="2025-09-03T15:10:19-04:00">
+      <text>Rule provides for consideration of H.R. 4553, H.J. Res. 104, H.J. Res. 105 and H.J. Res. 106. The resolution provides for consideration of H.R. 4553 under a structured rule, and H.J. Res. 104, H.J. Res. 105, and H.J. Res. 106 under a closed rule. The resolution provides for one hour of general debate and a motion to recommit on each measure. The resolution further provides that H. Res. 668 and H. Res. 605 are adopted, and H. Res. 598 is laid on the table.</text>
+    </action>
+    <action datetime="2025-09-03T15:11:09-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.J. Res. 106.</text>
+    </action>
+    <action datetime="2025-09-03T15:42:49-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-09-03T15:43:11-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 106, the Chair put the question on passage of the joint resolution and by voice vote, announced that the ayes had prevailed. Mr. Neguse demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-09-03T21:27:19-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="225" datetime="2025-09-03T21:33:30-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 215 - 210 (Roll no. 225).</text>
+    </vote>
+    <action datetime="2025-09-03T21:33:31-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="672" relation="procedurally related"/>
+  </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
   </subjects>

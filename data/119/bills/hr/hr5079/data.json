@@ -67,6 +67,47 @@
       "references": [],
       "text": "Referred to the Committee on Homeland Security, and in addition to the Committees on Oversight and Government Reform, Intelligence (Permanent Select), Energy and Commerce, Armed Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-09-02",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2025-09-03",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Subcommittee on Cybersecurity and Infrastructure Protection Discharged",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-03",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-03",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -75,6 +116,24 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Markup By",
+        "discharged",
+        "Referred To"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM",
+      "subcommittee": "Subcommittee on Cybersecurity and Infrastructure Protection",
+      "subcommittee_id": "08"
+    },
     {
       "activity": [
         "Referred To"
@@ -109,13 +168,6 @@
       ],
       "committee": "House Oversight and Government Reform",
       "committee_id": "HSGO"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Homeland Security",
-      "committee_id": "HSHM"
     }
   ],
   "congress": "119",
@@ -133,7 +185,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-09-03",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -152,8 +205,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-09-02",
+  "status": "REPORTED",
+  "status_at": "2025-09-03",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -180,6 +233,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-03T08:23:20Z",
+  "updated_at": "2025-09-04T08:06:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5079.xml"
 }
