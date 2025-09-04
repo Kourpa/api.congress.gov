@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="747" updated="2025-09-04T10:56:26Z">
+<bill session="119" type="h" number="747" updated="2025-09-04T15:33:25Z">
   <state datetime="2025-09-02T19:04:13-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-09-02T19:04:13-04:00"/>
@@ -58,6 +58,7 @@
     </action>
     <action datetime="2025-09-02T16:23:21-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3728-3731" label="consideration"/>
     </action>
     <action datetime="2025-09-02T16:23:23-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 747.</text>
@@ -67,9 +68,11 @@
     </action>
     <action datetime="2025-09-02T18:57:17-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H3741-3742: 4" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="220" datetime="2025-09-02T19:04:13-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 4 (Roll no. 220).</text>
+      <reference ref="CR H3728-3729: 1" label="text"/>
     </vote>
     <action datetime="2025-09-02T19:04:15-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

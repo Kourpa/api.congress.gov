@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4216" updated="2025-09-04T10:56:21Z">
+<bill session="119" type="h" number="4216" updated="2025-09-04T15:32:42Z">
   <state datetime="2025-09-02T18:57:03-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-09-02T18:57:03-04:00"/>
@@ -36,6 +36,7 @@
     </action>
     <action datetime="2025-09-02T16:14:07-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3727-3728" label="consideration"/>
     </action>
     <action datetime="2025-09-02T16:14:09-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4216.</text>
@@ -45,9 +46,11 @@
     </action>
     <action datetime="2025-09-02T18:32:10-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H3741: 3" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="219" datetime="2025-09-02T18:57:03-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 20 (Roll no. 219).</text>
+      <reference ref="CR H3727: 1" label="text"/>
     </vote>
     <action datetime="2025-09-02T18:57:05-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
