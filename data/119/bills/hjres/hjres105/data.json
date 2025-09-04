@@ -40,7 +40,12 @@
       "bill_ids": [
         "hres672-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3791-3796",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 672.",
       "type": "action"
     },
@@ -83,7 +88,12 @@
     {
       "acted_at": "2025-09-03T21:33:38-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3820-3821",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -91,7 +101,12 @@
       "acted_at": "2025-09-03T21:39:45-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3791: 1",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "226",
       "status": "PASS_OVER:HOUSE",
@@ -190,6 +205,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-09-04T17:21:13Z",
+  "updated_at": "2025-09-04T19:26:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres105.xml"
 }
