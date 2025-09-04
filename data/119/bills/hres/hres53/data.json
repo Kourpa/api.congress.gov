@@ -159,7 +159,7 @@
     {
       "bill_id": "s5-119",
       "identified_by": "House",
-      "reason": "procedurally-related",
+      "reason": "procedurally related",
       "type": "bill"
     }
   ],
@@ -174,8 +174,10 @@
   },
   "status": "PASSED:SIMPLERES",
   "status_at": "2025-01-22T14:07:21-05:00",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Congress"
+  ],
+  "subjects_top_term": "Congress",
   "summary": null,
   "titles": [
     {
@@ -193,6 +195,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-05-27T14:12:39Z",
+  "updated_at": "2025-09-03T17:28:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres53.xml"
 }
