@@ -324,7 +324,12 @@
     {
       "acted_at": "2025-09-04T09:16:50-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3835-3842: 2",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -413,7 +418,12 @@
       "committees": [
         "HSAP"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3841",
+          "type": "text"
+        }
+      ],
       "text": "Ms. Budzinski moved to recommit to the Committee on Appropriations.",
       "type": "action"
     },
@@ -714,6 +724,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2025-09-05T08:35:20Z",
+  "updated_at": "2025-09-05T16:01:46Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4553.xml"
 }
