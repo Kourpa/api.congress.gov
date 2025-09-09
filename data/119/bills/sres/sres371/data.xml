@@ -1,7 +1,7 @@
-<bill session="119" type="sr" number="371" updated="2025-09-04T13:32:46Z">
-  <state datetime="2025-09-02">REFERRED</state>
+<bill session="119" type="sr" number="371" updated="2025-09-09T15:00:48Z">
+  <state datetime="2025-09-08">PASSED:SIMPLERES</state>
   <status>
-    <introduced datetime="2025-09-02"/>
+    <unknown datetime="2025-09-08"/>
   </status>
   <introduced datetime="2025-09-02"/>
   <titles>
@@ -20,11 +20,24 @@
       <text>Referred to the Committee on the Judiciary.</text>
       <reference ref="CR S5566-5567" label="text"/>
     </action>
+    <action datetime="2025-09-08">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2025-09-08">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6439: 3" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-09-08" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S6439" label="text"/>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>
-  <amendments/>
+  <amendments>
+    <amendment number="s3827"/>
+  </amendments>
 </bill>
