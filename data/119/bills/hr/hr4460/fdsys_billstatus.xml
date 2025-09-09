@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>4460</number>
-    <updateDate>2025-07-30T14:03:54Z</updateDate>
-    <updateDateIncludingText>2025-07-30T14:03:54Z</updateDateIncludingText>
+    <updateDate>2025-09-09T08:05:38Z</updateDate>
+    <updateDateIncludingText>2025-09-09T08:05:38Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-07-16</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/4460</legislationUrl>
     <cdata>
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 122 (Wednesday, July 16, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. MEUSER:H.R. 4460.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H3368]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
@@ -20,6 +21,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2025-09-08T17:47:29Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-07-23T17:00:14Z</date>
@@ -36,6 +41,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-09-08</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 208.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00208</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-09-08</actionDate>
+        <text>Reported by the Committee on Financial Services. H. Rept. 119-251.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-08</actionDate>
+        <text>Reported by the Committee on Financial Services. H. Rept. 119-251.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-07-23</actionDate>
         <committees>
@@ -134,7 +184,12 @@
       <name>Finance and Financial Sector</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Government information and archives</name>
+          <updateDate>2025-08-27T17:47:24Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Finance and Financial Sector</name>
         <updateDate>2025-07-30T14:03:54Z</updateDate>
@@ -142,6 +197,26 @@
     </subjects>
     <title>SAFE Guidance Act</title>
     <titles>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>SAFE Guidance Act</title>
+        <updateDate>2025-09-09T07:23:26Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Stop Agency Fiat Enforcement of Guidance Act</title>
+        <updateDate>2025-09-09T07:23:26Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
@@ -175,6 +250,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-09-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr4460rh/xml/BILLS-119hr4460rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-07-16T04:00:00Z</date>
         <formats>
@@ -185,8 +269,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-23</actionDate>
-      <text>Ordered to be Reported by the Yeas and Nays: 26 - 23.</text>
+      <actionDate>2025-09-08</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 208.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

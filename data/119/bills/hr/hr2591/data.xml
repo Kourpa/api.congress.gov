@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="2591" updated="2025-09-08T13:14:11Z">
-  <state datetime="2025-06-11">REPORTED</state>
+<bill session="119" type="h" number="2591" updated="2025-09-09T08:05:58Z">
+  <state datetime="2025-09-08T16:57:37-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-06-11"/>
+    <unknown datetime="2025-09-08T16:57:37-04:00"/>
   </status>
   <introduced datetime="2025-04-02"/>
   <titles>
-    <title type="display">Mental Health in Aviation Act of 2025</title>
     <title type="short" as="introduced">Mental Health in Aviation Act of 2025</title>
+    <title type="short" as="reported to house">Mental Health in Aviation Act of 2025</title>
+    <title type="display">Mental Health in Aviation Act of 2025</title>
     <title type="official" as="introduced">To require the Administrator of the Federal Aviation Administration to revise regulations for certain individuals carrying out aviation activities who disclose a mental health diagnosis or condition, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001117"/>
@@ -16,6 +17,7 @@
     <cosponsor bioguide_id="B001301" joined="2025-05-15"/>
     <cosponsor bioguide_id="C001112" joined="2025-06-02"/>
     <cosponsor bioguide_id="C001072" joined="2025-06-10"/>
+    <cosponsor bioguide_id="C001119" joined="2025-09-08"/>
     <cosponsor bioguide_id="D000629" joined="2025-05-15"/>
     <cosponsor bioguide_id="D000530" joined="2025-06-11"/>
     <cosponsor bioguide_id="E000300" joined="2025-08-29"/>
@@ -30,6 +32,7 @@
     <cosponsor bioguide_id="K000391" joined="2025-07-15"/>
     <cosponsor bioguide_id="L000598" joined="2025-08-08"/>
     <cosponsor bioguide_id="L000560" joined="2025-04-02"/>
+    <cosponsor bioguide_id="L000599" joined="2025-09-08"/>
     <cosponsor bioguide_id="L000397" joined="2025-07-22"/>
     <cosponsor bioguide_id="M000871" joined="2025-04-02"/>
     <cosponsor bioguide_id="M001240" joined="2025-06-09"/>
@@ -72,9 +75,30 @@
     <action datetime="2025-06-11" state="REPORTED">
       <text>Ordered to be Reported (Amended) by Voice Vote.</text>
     </action>
+    <action datetime="2025-09-08">
+      <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-242.</text>
+    </action>
+    <calendar datetime="2025-09-08" calendar="Union" number="199">
+      <text>Placed on the Union Calendar, Calendar No. 199.</text>
+    </calendar>
+    <action datetime="2025-09-08T16:45:33-04:00">
+      <text>Mr. Barrett moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-09-08T16:45:53-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-09-08T16:45:55-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2591.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-09-08T16:57:37-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-09-08T16:57:41-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSPW05" name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral"/>
   </committees>
   <relatedbills/>

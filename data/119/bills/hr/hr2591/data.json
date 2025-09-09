@@ -58,6 +58,67 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by Voice Vote.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-09-08",
+      "action_code": "H12200",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-242.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "199",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 199.",
+      "type": "calendar",
+      "under": null
+    },
+    {
+      "acted_at": "2025-09-08T16:45:33-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Barrett moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08T16:45:53-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08T16:45:55-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2591.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08T16:57:37-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-09-08T16:57:41-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -68,6 +129,7 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
         "Markup By",
         "discharged",
         "Referred To"
@@ -134,6 +196,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-06-10",
       "state": "IN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001119",
+      "district": "2",
+      "name": "Craig, Angie",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-09-08",
+      "state": "MN",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -274,6 +346,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-04-02",
       "state": "WA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "L000599",
+      "district": "17",
+      "name": "Lawler, Michael",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-09-08",
+      "state": "NY",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -504,6 +586,8 @@
     "active_at": "2025-06-11",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-09-08T16:57:37-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-04-02",
@@ -520,8 +604,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-06-11",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-09-08T16:57:37-04:00",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Aviation and airports",
@@ -542,6 +626,20 @@
   },
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Mental Health in Aviation Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Mental Health in Aviation Act of 2025",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -552,17 +650,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Mental Health in Aviation Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To require the Administrator of the Federal Aviation Administration to revise regulations for certain individuals carrying out aviation activities who disclose a mental health diagnosis or condition, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-08T13:14:11Z",
+  "updated_at": "2025-09-09T08:05:58Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2591.xml"
 }
