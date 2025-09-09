@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="452" updated="2025-09-09T11:08:35Z">
+<bill session="119" type="h" number="452" updated="2025-09-09T15:04:40Z">
   <state datetime="2025-09-08">PASS_BACK:SENATE</state>
   <status>
     <unknown datetime="2025-09-08"/>
@@ -347,9 +347,11 @@
     </action>
     <action datetime="2025-09-08">
       <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S6439-6440: 3" label="consideration"/>
     </action>
     <vote how="by Unanimous Consent" type="vote2" datetime="2025-09-08" where="s" result="pass" state="PASS_BACK:SENATE">
       <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S6439: 3" label="text of amendment in the nature of a substitute"/>
     </vote>
   </actions>
   <committees>

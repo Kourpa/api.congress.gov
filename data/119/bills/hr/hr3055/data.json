@@ -129,7 +129,12 @@
     {
       "acted_at": "2025-09-08T16:57:54-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3874-3875: 1",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -144,7 +149,12 @@
       "acted_at": "2025-09-08T17:02:22-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3874",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -328,6 +338,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-09T08:05:24Z",
+  "updated_at": "2025-09-09T15:06:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3055.xml"
 }

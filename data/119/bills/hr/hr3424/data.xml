@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3424" updated="2025-09-09T08:23:22Z">
+<bill session="119" type="h" number="3424" updated="2025-09-09T15:14:23Z">
   <state datetime="2025-09-08T18:56:43-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-09-08T18:56:43-04:00"/>
@@ -47,6 +47,7 @@
     </action>
     <action datetime="2025-09-08T17:09:52-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3876-3877" label="consideration"/>
     </action>
     <action datetime="2025-09-08T17:09:53-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3424.</text>
@@ -56,9 +57,11 @@
     </action>
     <action datetime="2025-09-08T18:31:11-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H3880-3881: 4" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="240" datetime="2025-09-08T18:56:43-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 1 (Roll no. 240).</text>
+      <reference ref="CR H3876: 1" label="text"/>
     </vote>
     <action datetime="2025-09-08T18:56:44-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

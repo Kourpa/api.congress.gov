@@ -92,7 +92,12 @@
     {
       "acted_at": "2025-09-08",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S6439-6440: 3",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -100,7 +105,12 @@
       "acted_at": "2025-09-08",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S6439: 3",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "status": "PASS_BACK:SENATE",
       "text": "Passed Senate with an amendment by Unanimous Consent.",
@@ -3237,6 +3247,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-09T11:08:35Z",
+  "updated_at": "2025-09-09T15:04:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr452.xml"
 }
