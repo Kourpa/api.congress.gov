@@ -1,13 +1,14 @@
-<bill session="119" type="h" number="3425" updated="2025-09-08T14:02:28Z">
-  <state datetime="2025-06-11">REPORTED</state>
+<bill session="119" type="h" number="3425" updated="2025-09-09T08:08:22Z">
+  <state datetime="2025-09-08T19:02:53-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-06-11"/>
+    <unknown datetime="2025-09-08T19:02:53-04:00"/>
   </status>
   <introduced datetime="2025-05-15"/>
   <titles>
-    <title type="display">POST Act of 2025</title>
+    <title type="display">Personnel Oversight and Shift Tracking Act of 2025</title>
     <title type="short" as="introduced">Personnel Oversight and Shift Tracking Act of 2025</title>
     <title type="short" as="introduced">POST Act of 2025</title>
+    <title type="short" as="reported to house">Personnel Oversight and Shift Tracking Act of 2025</title>
     <title type="official" as="introduced">To direct the Director of the Federal Protective Service to establish processes to strengthen oversight, performance, and accountability of contract security personnel engaged in the protection of certain buildings and grounds, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="K000403"/>
@@ -33,9 +34,36 @@
     <action datetime="2025-06-11" state="REPORTED">
       <text>Ordered to be Reported (Amended) by Voice Vote.</text>
     </action>
+    <action datetime="2025-09-08">
+      <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-239.</text>
+    </action>
+    <calendar datetime="2025-09-08" calendar="Union" number="196">
+      <text>Placed on the Union Calendar, Calendar No. 196.</text>
+    </calendar>
+    <action datetime="2025-09-08T17:16:48-04:00">
+      <text>Mr. Barrett moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-09-08T17:17:05-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-09-08T17:17:06-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3425.</text>
+    </action>
+    <action datetime="2025-09-08T17:26:04-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2025-09-08T18:56:46-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="241" datetime="2025-09-08T19:02:53-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 0 (Roll no. 241).</text>
+    </vote>
+    <action datetime="2025-09-08T19:02:54-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
   </committees>
   <relatedbills/>

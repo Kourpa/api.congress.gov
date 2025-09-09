@@ -58,6 +58,67 @@
       "references": [],
       "text": "Subcommittee on Aviation Discharged",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08",
+      "action_code": "H12200",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-237.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "194",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 194.",
+      "type": "calendar",
+      "under": null
+    },
+    {
+      "acted_at": "2025-09-08T17:02:26-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Barrett moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08T17:02:36-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08T17:02:38-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3423.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08T17:09:39-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-09-08T17:09:42-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -68,6 +129,7 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
         "Markup By",
         "discharged",
         "Referred To"
@@ -98,6 +160,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "L000599",
+      "district": "17",
+      "name": "Lawler, Michael",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-09-08",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "S001221",
       "district": "3",
       "name": "Scholten, Hillary J.",
@@ -114,6 +186,8 @@
     "active_at": "2025-06-11",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-09-08T17:09:39-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-05-15",
@@ -130,8 +204,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-06-11",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-09-08T17:09:39-04:00",
   "subjects": [
     "Aviation and airports",
     "Transportation and public works",
@@ -149,7 +223,7 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "FROST Act",
+      "title": "Facility for Runway Operations and Safe Transportation Act",
       "type": "display"
     },
     {
@@ -167,6 +241,13 @@
       "type": "short"
     },
     {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Facility for Runway Operations and Safe Transportation Act",
+      "type": "short"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -174,6 +255,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-08T14:16:22Z",
+  "updated_at": "2025-09-09T08:08:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3423.xml"
 }

@@ -58,6 +58,82 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by Voice Vote.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-09-08",
+      "action_code": "H12200",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-238.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "195",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 195.",
+      "type": "calendar",
+      "under": null
+    },
+    {
+      "acted_at": "2025-09-08T17:09:43-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Barrett moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08T17:09:52-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08T17:09:53-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3424.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08T17:16:37-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08T18:31:11-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08T18:56:43-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "240",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 397 - 1 (Roll no. 240).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-09-08T18:56:44-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -68,6 +144,7 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
         "Markup By",
         "discharged",
         "Referred To"
@@ -88,6 +165,16 @@
   "congress": "119",
   "cosponsors": [
     {
+      "bioguide_id": "L000599",
+      "district": "17",
+      "name": "Lawler, Michael",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-09-08",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "P000614",
       "district": "1",
       "name": "Pappas, Chris",
@@ -104,6 +191,8 @@
     "active_at": "2025-06-11",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-09-08T18:56:43-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-05-15",
@@ -120,8 +209,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-06-11",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-09-08T18:56:43-04:00",
   "subjects": [
     "Congressional oversight",
     "Government buildings, facilities, and property",
@@ -135,13 +224,6 @@
     "text": ""
   },
   "titles": [
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "SPACE Act of 2025",
-      "type": "display"
-    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -157,6 +239,27 @@
       "type": "short"
     },
     {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Shared Property Agency Collaboration and Engagement Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "SPACE Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "SPACE Act of 2025",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -164,6 +267,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-05T20:09:41Z",
+  "updated_at": "2025-09-09T08:23:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3424.xml"
 }

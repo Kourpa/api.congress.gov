@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="452" updated="2025-09-09T05:38:25Z">
-  <state datetime="2025-04-28T14:24:48-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="452" updated="2025-09-09T11:08:35Z">
+  <state datetime="2025-09-08">PASS_BACK:SENATE</state>
   <status>
-    <unknown datetime="2025-04-28T14:24:48-04:00"/>
+    <unknown datetime="2025-09-08"/>
   </status>
   <introduced datetime="2025-01-15"/>
   <titles>
@@ -342,9 +342,18 @@
     <action datetime="2025-04-29">
       <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
     </action>
+    <action datetime="2025-09-08">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2025-09-08">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2025-09-08" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
@@ -360,6 +369,8 @@
     <term name="Olympic games"/>
     <term name="Professional sports"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s3828"/>
+  </amendments>
   <summary date="2025-04-23T19:23:48Z" status="Introduced in House"></summary>
 </bill>

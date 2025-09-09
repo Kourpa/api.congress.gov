@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="3428" updated="2025-09-08T15:48:23Z">
-  <state datetime="2025-06-11">REPORTED</state>
+<bill session="119" type="h" number="3428" updated="2025-09-09T08:23:22Z">
+  <state datetime="2025-09-08T17:32:11-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-06-11"/>
+    <unknown datetime="2025-09-08T17:32:11-04:00"/>
   </status>
   <introduced datetime="2025-05-15"/>
   <titles>
-    <title type="display">Mid-Atlantic River Basin Commissions Review Act</title>
     <title type="short" as="introduced">Mid-Atlantic River Basin Commissions Review Act</title>
+    <title type="short" as="reported to house">Mid-Atlantic River Basin Commissions Review Act</title>
+    <title type="display">Mid-Atlantic River Basin Commissions Review Act</title>
     <title type="official" as="introduced">To require the Comptroller General of the United States to conduct a review of the Mid-Atlantic River Basin Commissions, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="B001327"/>
@@ -32,9 +33,30 @@
     <action datetime="2025-06-11" state="REPORTED">
       <text>Ordered to be Reported by Voice Vote.</text>
     </action>
+    <action datetime="2025-09-08">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-241.</text>
+    </action>
+    <calendar datetime="2025-09-08" calendar="Union" number="198">
+      <text>Placed on the Union Calendar, Calendar No. 198.</text>
+    </calendar>
+    <action datetime="2025-09-08T17:26:16-04:00">
+      <text>Mr. Barrett moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-09-08T17:26:36-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-09-08T17:26:37-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3428.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-09-08T17:32:11-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-09-08T17:32:14-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSPW02" name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral"/>
   </committees>
   <relatedbills/>

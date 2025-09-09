@@ -78,9 +78,45 @@
       "references": [],
       "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-09-08",
+      "action_code": "",
+      "committees": [
+        "SSBK"
+      ],
+      "references": [],
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-08",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_BACK:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt3828-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3828"
+    }
+  ],
   "bill_id": "hr452-119",
   "bill_type": "hr",
   "by_request": false,
@@ -88,6 +124,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Banking, Housing, and Urban Affairs",
@@ -3112,6 +3149,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-04-28T14:24:48-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-09-08",
     "vetoed": false
   },
   "introduced_at": "2025-01-15",
@@ -3135,8 +3174,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-04-28T14:24:48-04:00",
+  "status": "PASS_BACK:SENATE",
+  "status_at": "2025-09-08",
   "subjects": [
     "Athletes",
     "Colorado",
@@ -3198,6 +3237,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-09T05:38:25Z",
+  "updated_at": "2025-09-09T11:08:35Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr452.xml"
 }
