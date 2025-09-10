@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3486" updated="2025-07-21T16:35:49Z">
+<bill session="119" type="h" number="3486" updated="2025-09-10T08:06:27Z">
   <state datetime="2025-05-21">REPORTED</state>
   <status>
     <unknown datetime="2025-05-21"/>
@@ -37,11 +37,19 @@
     <calendar datetime="2025-07-15" calendar="Union" number="163">
       <text>Placed on the Union Calendar, Calendar No. 163.</text>
     </calendar>
+    <action datetime="2025-09-09T10:12:05-04:00">
+      <text>Rules Committee Resolution H. Res. 682 Reported to House. Rule provides for consideration of H.R. 3838 and H.R. 3486. The resolution provides for consideration of H.R. 3838 under a structured rule and H.R. 3486 under a closed rule with one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2025-09-09T14:10:40-04:00">
+      <text>Rule H. Res. 682 passed House.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="682" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Immigration"/>
     <term name="Border security and unlawful immigration"/>

@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>2334</number>
-    <updateDate>2025-08-07T17:53:55Z</updateDate>
-    <updateDateIncludingText>2025-08-07T17:53:55Z</updateDateIncludingText>
+    <updateDate>2025-09-10T14:38:39Z</updateDate>
+    <updateDateIncludingText>2025-09-10T14:38:39Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-03-25</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/2334</legislationUrl>
     <cdata>
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 54 (Tuesday, March 25, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. MAST:H.R. 2334.Congress has the power to enact this legislation pursuantto the following:Clause 18 of section 8 of article I of the Constitution[Page H1274]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
@@ -20,6 +21,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2025-09-09T19:31:21Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-07-23T14:07:08Z</date>
@@ -50,6 +55,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-09-09</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 217.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00217</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-09-09</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-261.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-09</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-261.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-07-23</actionDate>
         <committees>
@@ -175,8 +225,35 @@
         <updateDate>2025-05-21T01:38:16Z</updateDate>
       </policyArea>
     </subjects>
-    <title>To amend the Servicemembers Civil Relief Act to preempt any squatter's rights established by State law regarding real property owned by a member of the uniformed services.</title>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2025-03-25</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2025-09-10T14:37:57Z</updateDate>
+        <cdata>
+          <text>&lt;p&gt;This bill amends the Servicemembers Civil Relief Act to preempt state laws that establish squatter’s rights for premises owned by a servicemember in situations where the premises is occupied by a squatter during a period of military service of the servicemember.&lt;/p&gt;</text>
+        </cdata>
+      </summary>
+    </summaries>
+    <title>Servicemember Residence Protection Act</title>
     <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Servicemember Residence Protection Act</title>
+        <updateDate>2025-09-10T04:23:22Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Servicemember Residence Protection Act</title>
+        <updateDate>2025-09-10T04:23:21Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
         <titleTypeCode>6</titleTypeCode>
@@ -185,14 +262,17 @@
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>To amend the Servicemembers Civil Relief Act to preempt any squatter's rights established by State law regarding real property owned by a member of the uniformed services.</title>
-        <updateDate>2025-03-26T08:06:34Z</updateDate>
-      </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2025-09-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2334rh/xml/BILLS-119hr2334rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2025-03-25T04:00:00Z</date>
@@ -204,8 +284,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-23</actionDate>
-      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <actionDate>2025-09-09</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 217.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
