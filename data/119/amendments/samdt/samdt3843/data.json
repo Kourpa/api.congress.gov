@@ -1,23 +1,30 @@
 {
   "actions": [
     {
-      "acted_at": "2025-09-03",
+      "acted_at": "2025-09-09",
       "action_code": "Intro-S",
       "references": [],
       "text": "",
       "type": "action"
     },
     {
-      "acted_at": "2025-09-03",
+      "acted_at": "2025-09-09",
       "action_code": "91000",
       "references": [],
       "text": "Senate amendment submitted",
       "type": "action"
     }
   ],
-  "amendment_id": "samdt3761-119",
+  "amendment_id": "samdt3843-119",
   "amendment_type": "samdt",
-  "amends_amendment": null,
+  "amends_amendment": {
+    "amendment_id": "samdt3748-119",
+    "amendment_type": "samdt",
+    "congress": 119,
+    "description": "",
+    "number": 3748,
+    "purpose": "In the nature of a substitute."
+  },
   "amends_bill": {
     "bill_id": "s2296-119",
     "bill_type": "s",
@@ -27,18 +34,18 @@
   "amends_treaty": null,
   "chamber": "s",
   "congress": "119",
-  "introduced_at": "2025-09-03",
-  "number": 3761,
+  "introduced_at": "2025-09-09",
+  "number": 3843,
   "purpose": null,
   "sponsor": {
-    "bioguide_id": "P000603",
+    "bioguide_id": "B001267",
     "district": null,
-    "name": "Paul, Rand",
-    "state": "KY",
+    "name": "Bennet, Michael F.",
+    "state": "CO",
     "title": "Sen.",
     "type": "person"
   },
   "status": "offered",
-  "status_at": "2025-09-03",
-  "updated_at": "2025-09-09T17:16:04Z"
+  "status_at": "2025-09-09",
+  "updated_at": "2025-09-10T11:08:27Z"
 }
