@@ -119,13 +119,13 @@
     {
       "bill_id": "hr4-119",
       "identified_by": "House",
-      "reason": "procedurally-related",
+      "reason": "procedurally related",
       "type": "bill"
     },
     {
       "bill_id": "hres492-119",
       "identified_by": "House",
-      "reason": "procedurally-related",
+      "reason": "procedurally related",
       "type": "bill"
     }
   ],
@@ -140,8 +140,12 @@
   },
   "status": "PASSED:SIMPLERES",
   "status_at": "2025-06-11T16:51:06-04:00",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Congress",
+    "House of Representatives",
+    "Legislative rules and procedure"
+  ],
+  "subjects_top_term": "Congress",
   "summary": null,
   "titles": [
     {
@@ -159,6 +163,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-13T08:05:54Z",
+  "updated_at": "2025-09-10T17:46:11Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres499.xml"
 }
