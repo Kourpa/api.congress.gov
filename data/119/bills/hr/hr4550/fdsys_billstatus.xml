@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4550</number>
-    <updateDate>2025-09-09T14:56:10Z</updateDate>
-    <updateDateIncludingText>2025-09-09T14:56:10Z</updateDateIncludingText>
+    <updateDate>2025-09-10T10:56:26Z</updateDate>
+    <updateDateIncludingText>2025-09-10T10:56:26Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -38,6 +38,14 @@
     </committees>
     <actions>
       <item>
+        <actionDate>2025-09-09</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2025-09-08</actionDate>
         <actionTime>16:44:44</actionTime>
         <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -62,7 +70,7 @@
       <item>
         <actionDate>2025-09-08</actionDate>
         <actionTime>16:44:41</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3870)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -309,6 +317,16 @@
     <title>United States Grain Standards Reauthorization Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>United States Grain Standards Reauthorization Act of 2025</title>
+        <updateDate>2025-09-10T04:23:21Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
         <title>United States Grain Standards Reauthorization Act of 2025</title>
@@ -343,6 +361,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in House</type>
+        <date>2025-09-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr4550eh/xml/BILLS-119hr4550eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Reported in House</type>
         <date>2025-09-03T04:00:00Z</date>
         <formats>
@@ -362,9 +389,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-08</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>16:44:44</actionTime>
+      <actionDate>2025-09-09</actionDate>
+      <text>Received in the Senate.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

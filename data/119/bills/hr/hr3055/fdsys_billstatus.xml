@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3055</number>
-    <updateDate>2025-09-09T15:06:30Z</updateDate>
-    <updateDateIncludingText>2025-09-09T15:06:30Z</updateDateIncludingText>
+    <updateDate>2025-09-10T10:56:28Z</updateDate>
+    <updateDateIncludingText>2025-09-10T10:56:28Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,18 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 71 (Tuesday, April 29, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. BARRETT:H.R. 3055.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H1728]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>ssva00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-09-09T18:55:55Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsvr00</systemCode>
         <name>Veterans' Affairs Committee</name>
@@ -86,6 +98,20 @@
     </committees>
     <actions>
       <item>
+        <actionDate>2025-09-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2025-09-08</actionDate>
         <actionTime>17:02:25</actionTime>
         <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -110,7 +136,7 @@
       <item>
         <actionDate>2025-09-08</actionDate>
         <actionTime>17:02:22</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3874)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -481,9 +507,29 @@
     <title>TRANSPORT Jobs Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>TRANSPORT Jobs Act</title>
+        <updateDate>2025-09-10T04:08:23Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>Transitioning Retiring And New Service Members to Port Ocean Rail and Truck Jobs Act</title>
+        <updateDate>2025-09-10T04:08:23Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
-        <title>TRANSPORT Jobs Act</title>
+        <title>Transitioning Retiring And New Service Members to Port Ocean Rail and Truck Jobs Act</title>
         <updateDate>2025-09-09T07:08:25Z</updateDate>
         <chamberCode>H</chamberCode>
         <chamberName>House</chamberName>
@@ -493,7 +539,7 @@
       <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
-        <title>Transitioning Retiring And New Service Members to Port Ocean Rail and Truck Jobs Act</title>
+        <title>TRANSPORT Jobs Act</title>
         <updateDate>2025-09-09T07:08:25Z</updateDate>
         <chamberCode>H</chamberCode>
         <chamberName>House</chamberName>
@@ -509,7 +555,7 @@
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
-        <title>TRANSPORT Jobs Act</title>
+        <title>Transitioning Retiring And New Service Members to Port Ocean Rail and Truck Jobs Act</title>
         <updateDate>2025-05-09T03:38:17Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
@@ -517,7 +563,7 @@
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
-        <title>Transitioning Retiring And New Service Members to Port Ocean Rail and Truck Jobs Act</title>
+        <title>TRANSPORT Jobs Act</title>
         <updateDate>2025-05-09T03:38:17Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
@@ -542,6 +588,15 @@
         </formats>
       </item>
       <item>
+        <type>Engrossed in House</type>
+        <date>2025-09-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr3055eh/xml/BILLS-119hr3055eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-04-29T04:00:00Z</date>
         <formats>
@@ -552,9 +607,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-08</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>17:02:25</actionTime>
+      <actionDate>2025-09-09</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

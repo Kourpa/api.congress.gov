@@ -1,14 +1,15 @@
-<bill session="119" type="h" number="3425" updated="2025-09-09T15:23:30Z">
+<bill session="119" type="h" number="3425" updated="2025-09-10T10:56:27Z">
   <state datetime="2025-09-08T19:02:53-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-09-08T19:02:53-04:00"/>
   </status>
   <introduced datetime="2025-05-15"/>
   <titles>
-    <title type="display">Personnel Oversight and Shift Tracking Act of 2025</title>
     <title type="short" as="introduced">Personnel Oversight and Shift Tracking Act of 2025</title>
     <title type="short" as="introduced">POST Act of 2025</title>
     <title type="short" as="reported to house">Personnel Oversight and Shift Tracking Act of 2025</title>
+    <title type="short" as="passed house">Personnel Oversight and Shift Tracking Act of 2025</title>
+    <title type="display">Personnel Oversight and Shift Tracking Act of 2025</title>
     <title type="official" as="introduced">To direct the Director of the Federal Protective Service to establish processes to strengthen oversight, performance, and accountability of contract security personnel engaged in the protection of certain buildings and grounds, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="K000403"/>
@@ -64,8 +65,12 @@
     <action datetime="2025-09-08T19:02:54-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-09-09">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
   </committees>
