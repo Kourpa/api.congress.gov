@@ -1,10 +1,52 @@
 {
   "actions": [
     {
+      "acted_at": "2025-09-10T17:11:53-04:00",
+      "action_code": "72000",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": 251,
+      "text": "On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-09-10T17:11:53-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-09-09T15:34:05-04:00",
       "action_code": "71000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4122-4123",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H4122",
+          "type": "text"
+        }
+      ],
       "text": "Amendment (A003) offered by Mr. Patronis.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-10T17:11:53-04:00",
+      "action_code": "72000",
+      "references": [],
+      "text": "House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-10T17:11:53-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "Roll call votes on amendments in House",
       "type": "action"
     },
     {
@@ -39,7 +81,7 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2025-09-09",
-  "updated_at": "2025-09-10T08:09:14Z"
+  "status": "pass",
+  "status_at": "2025-09-10T17:11:53-04:00",
+  "updated_at": "2025-09-11T14:44:51Z"
 }

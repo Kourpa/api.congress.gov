@@ -1,10 +1,52 @@
 {
   "actions": [
     {
+      "acted_at": "2025-09-10T17:15:30-04:00",
+      "action_code": "72000",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": 252,
+      "text": "On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-09-10T17:15:30-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-09-09T15:54:03-04:00",
       "action_code": "71000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4125-4126",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H4125",
+          "type": "text"
+        }
+      ],
       "text": "Amendment (A005) offered by Mr. Wilson (SC).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-10T17:15:30-04:00",
+      "action_code": "72000",
+      "references": [],
+      "text": "House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-10T17:15:30-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "Roll call votes on amendments in House",
       "type": "action"
     },
     {
@@ -39,7 +81,7 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2025-09-09",
-  "updated_at": "2025-09-10T08:09:14Z"
+  "status": "pass",
+  "status_at": "2025-09-10T17:15:30-04:00",
+  "updated_at": "2025-09-11T14:52:21Z"
 }
