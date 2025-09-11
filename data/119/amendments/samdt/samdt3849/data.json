@@ -17,15 +17,25 @@
     {
       "acted_at": "2025-09-10",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "3",
+          "type": "CR S6514"
+        }
+      ],
       "text": "Cloture motion on SA 3849 presented in Senate.",
       "type": "action"
     },
     {
       "acted_at": "2025-09-10",
       "action_code": "",
-      "references": [],
-      "text": "Amendment SA 3849 proposed by Senator Schumer to language proposed to be stricken by amendment no. 3748. To direct the Attorney General to make publicly available documents related to Jeffrey Epstein.",
+      "references": [
+        {
+          "reference": "CR S6514: 3",
+          "type": "consideration"
+        }
+      ],
+      "text": "Amendment SA 3849 proposed by Senator Schumer to language proposed to be stricken by amendment no. 3748.",
       "type": "action"
     },
     {
@@ -83,5 +93,5 @@
   },
   "status": "offered",
   "status_at": "2025-09-10",
-  "updated_at": "2025-09-11T11:08:31Z"
+  "updated_at": "2025-09-11T15:35:10Z"
 }
