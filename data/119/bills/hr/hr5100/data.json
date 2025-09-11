@@ -48,6 +48,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 27 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-09-10",
+      "action_code": "H12200",
+      "committees": [
+        "HSSM"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Small Business. H. Rept. 119-265, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-10",
+      "action_code": "H12300",
+      "committees": [
+        "HSSY"
+      ],
+      "references": [],
+      "text": "Committee on Science, Space, and Technology discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-10",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "221",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 221.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -58,18 +88,20 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Science, Space, and Technology",
+      "committee_id": "HSSY"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Small Business",
       "committee_id": "HSSM"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Science, Space, and Technology",
-      "committee_id": "HSSY"
     }
   ],
   "congress": "119",
@@ -288,7 +320,12 @@
     "Technology transfer and commercialization"
   ],
   "subjects_top_term": "Commerce",
-  "summary": null,
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2025-09-02",
+    "date": "2025-09-11T14:33:56Z",
+    "text": ""
+  },
   "titles": [
     {
       "as": "introduced",
@@ -305,6 +342,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-09-10T15:37:13Z",
+  "updated_at": "2025-09-11T14:34:08Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5100.xml"
 }

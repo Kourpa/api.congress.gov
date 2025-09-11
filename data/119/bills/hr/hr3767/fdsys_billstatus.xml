@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>3767</number>
-    <updateDate>2025-08-08T15:15:49Z</updateDate>
-    <updateDateIncludingText>2025-08-08T15:15:49Z</updateDateIncludingText>
+    <updateDate>2025-09-11T10:08:24Z</updateDate>
+    <updateDateIncludingText>2025-09-11T10:08:24Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-06-05</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/3767</legislationUrl>
     <cdata>
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 96 (Thursday, June 5, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. HAMADEH of Arizona:H.R. 3767.Congress has the power to enact this legislation pursuantto the following:Congress has authority under Article I, Section 8 of theConstitution, which empowers Congress to provide for thegeneral welfare of the United States and make rules for thegovernment and regulation of the armed forces by supportingthe Department of Veterans Affairs[Page H2507]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
@@ -20,6 +21,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2025-09-10T15:20:59Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-07-23T14:05:33Z</date>
@@ -32,6 +37,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-09-10</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 220.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00220</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-09-10</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-264.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-10</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-264.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-07-23</actionDate>
         <committees>
@@ -200,13 +250,23 @@
         <updateDate>2025-06-24T18:13:00Z</updateDate>
       </policyArea>
     </subjects>
-    <title>HPSP Improvement Act of 2025</title>
+    <title>Health Professionals Scholarship Program Improvement Act of 2025</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>HPSP Improvement Act of 2025</title>
-        <updateDate>2025-06-12T06:23:24Z</updateDate>
+        <title>Health Professionals Scholarship Program Improvement Act of 2025</title>
+        <updateDate>2025-09-11T10:08:23Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Health Professionals Scholarship Program Improvement Act of 2025</title>
+        <updateDate>2025-09-11T10:08:22Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -235,6 +295,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-09-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr3767rh/xml/BILLS-119hr3767rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-06-05T04:00:00Z</date>
         <formats>
@@ -245,8 +314,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-23</actionDate>
-      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <actionDate>2025-09-10</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 220.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

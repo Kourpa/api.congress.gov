@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5089" updated="2025-09-09T08:05:43Z">
-  <state datetime="2025-09-02">REFERRED</state>
+<bill session="119" type="h" number="5089" updated="2025-09-11T08:06:27Z">
+  <state datetime="2025-09-10">REPORTED</state>
   <status>
-    <introduced datetime="2025-09-02"/>
+    <unknown datetime="2025-09-10"/>
   </status>
   <introduced datetime="2025-09-02"/>
   <titles>
@@ -20,6 +20,7 @@
     <cosponsor bioguide_id="F000472" joined="2025-09-02"/>
     <cosponsor bioguide_id="F000483" joined="2025-09-02"/>
     <cosponsor bioguide_id="F000476" joined="2025-09-02"/>
+    <cosponsor bioguide_id="G000602" joined="2025-09-10"/>
     <cosponsor bioguide_id="H001099" joined="2025-09-02"/>
     <cosponsor bioguide_id="L000397" joined="2025-09-02"/>
     <cosponsor bioguide_id="M001238" joined="2025-09-02"/>
@@ -44,10 +45,16 @@
     <action datetime="2025-09-02">
       <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-09-10">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-09-10" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="4073" relation="unknown"/>

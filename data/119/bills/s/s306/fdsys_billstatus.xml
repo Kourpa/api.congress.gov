@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>306</number>
-    <updateDate>2025-08-03T19:41:14Z</updateDate>
-    <updateDateIncludingText>2025-08-03T19:41:14Z</updateDateIncludingText>
+    <updateDate>2025-09-11T10:58:23Z</updateDate>
+    <updateDateIncludingText>2025-09-11T10:58:23Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
     <introducedDate>2025-01-29</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/306</legislationUrl>
     <committees>
       <item>
         <systemCode>sscm00</systemCode>
@@ -38,6 +39,24 @@
       </committeeReport>
     </committeeReports>
     <actions>
+      <item>
+        <actionDate>2025-09-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-09-10</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-07-16</actionDate>
         <sourceSystem>
@@ -314,6 +333,22 @@
     <title>Fire Ready Nation Act of 2025</title>
     <titles>
       <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Fire Ready Nation Act of 2025</title>
+        <updateDate>2025-09-11T10:58:23Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate</titleType>
+        <titleTypeCode>105</titleTypeCode>
+        <title>Fire Ready Nation Act of 2025</title>
+        <updateDate>2025-09-11T04:53:21Z</updateDate>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to Senate</titleType>
         <titleTypeCode>103</titleTypeCode>
         <title>Fire Ready Nation Act of 2025</title>
@@ -322,12 +357,6 @@
         <chamberName>Senate</chamberName>
         <billTextVersionName>Reported to Senate</billTextVersionName>
         <billTextVersionCode>RS</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Fire Ready Nation Act of 2025</title>
-        <updateDate>2025-07-17T11:03:18Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -348,6 +377,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in Senate</type>
+        <date>2025-09-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119s306es/xml/BILLS-119s306es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Reported to Senate</type>
         <date>2025-07-16T04:00:00Z</date>
         <formats>
@@ -367,8 +405,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-16</actionDate>
-      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 119.</text>
+      <actionDate>2025-09-10</actionDate>
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

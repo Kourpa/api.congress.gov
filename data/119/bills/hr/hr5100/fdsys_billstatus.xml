@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5100</number>
-    <updateDate>2025-09-10T15:37:13Z</updateDate>
-    <updateDateIncludingText>2025-09-10T15:37:13Z</updateDateIncludingText>
+    <updateDate>2025-09-11T14:34:08Z</updateDate>
+    <updateDateIncludingText>2025-09-11T14:34:08Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -16,11 +16,31 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>hssy00</systemCode>
+        <name>Science, Space, and Technology Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-09-10T22:22:51Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-09-02T16:04:00Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hssm00</systemCode>
         <name>Small Business Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2025-09-10T22:22:33Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-09-09T15:30:06Z</date>
@@ -31,20 +51,85 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hssy00</systemCode>
-        <name>Science, Space, and Technology Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-09-02T16:04:00Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-09-10</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 221.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00221</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-09-10</actionDate>
+        <text>Committee on Science, Space, and Technology discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssy00</systemCode>
+            <name>Science, Space, and Technology Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-10</actionDate>
+        <text>Committee on Science, Space, and Technology discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssy00</systemCode>
+            <name>Science, Space, and Technology Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-10</actionDate>
+        <text>Reported by the Committee on Small Business. H. Rept. 119-265, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-10</actionDate>
+        <text>Reported by the Committee on Small Business. H. Rept. 119-265, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-09-09</actionDate>
         <committees>
@@ -374,6 +459,17 @@
         <updateDate>2025-09-10T12:14:14Z</updateDate>
       </policyArea>
     </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2025-09-02</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2025-09-11T14:33:56Z</updateDate>
+        <cdata>
+          <text>&lt;p&gt;This bill reauthorizes through FY2026 the Small Business Innovation Research (SBIR) program, the Small Business Technology Transfer (STTR) program, and related pilot programs.&lt;/p&gt;&lt;p&gt;The SBIR and STTR programs are administered by various federal agencies and provide competitive awards for domestic small businesses to conduct research and development projects that have the potential for commercialization.&lt;/p&gt;</text>
+        </cdata>
+      </summary>
+    </summaries>
     <title>To extend the SBIR and STTR programs, and for other purposes.</title>
     <titles>
       <item>
@@ -393,6 +489,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-09-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr5100rh/xml/BILLS-119hr5100rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-09-02T04:00:00Z</date>
         <formats>
@@ -403,8 +508,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-09</actionDate>
-      <text>Ordered to be Reported by the Yeas and Nays: 27 - 0.</text>
+      <actionDate>2025-09-10</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 221.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4709" updated="2025-08-16T08:05:47Z">
+<bill session="119" type="h" number="4709" updated="2025-09-11T08:06:38Z">
   <state datetime="2025-07-23">REFERRED</state>
   <status>
     <introduced datetime="2025-07-23"/>
@@ -23,9 +23,19 @@
     <action datetime="2025-07-23" state="REFERRED">
       <text>Referred to the House Committee on Energy and Commerce.</text>
     </action>
+    <action datetime="2025-09-10">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2025-09-10">
+      <text>Subcommittee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-09-10">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF14" name="House Energy and Commerce" subcommittee="Health" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills/>
   <subjects/>

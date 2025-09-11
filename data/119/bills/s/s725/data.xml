@@ -1,13 +1,14 @@
-<bill session="119" type="s" number="725" updated="2025-09-04T02:08:18Z">
-  <state datetime="2025-04-30">REPORTED</state>
+<bill session="119" type="s" number="725" updated="2025-09-11T10:58:22Z">
+  <state datetime="2025-09-10">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-04-30"/>
+    <unknown datetime="2025-09-10"/>
   </status>
   <introduced datetime="2025-02-25"/>
   <titles>
+    <title type="display">Enhancing First Response Act</title>
     <title type="short" as="introduced">Enhancing First Response Act</title>
     <title type="short" as="reported to senate">Enhancing First Response Act</title>
-    <title type="display">Enhancing First Response Act</title>
+    <title type="short" as="passed senate">Enhancing First Response Act</title>
     <title type="official" as="introduced">A bill to direct the Federal Communications Commission to issue reports after activation of the Disaster Information Reporting System and to make improvements to network outage reporting, to categorize public safety telecommunicators as a protective service occupation under the Standard Occupational Classification system, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="K000367"/>
@@ -41,6 +42,9 @@
     <calendar datetime="2025-09-02" calendar="Senate Legislative" under="General Orders" number="146">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 146.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-09-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>

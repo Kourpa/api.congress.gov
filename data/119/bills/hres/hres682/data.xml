@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="682" updated="2025-09-10T08:06:40Z">
+<bill session="119" type="hr" number="682" updated="2025-09-11T08:05:29Z">
   <state datetime="2025-09-09T14:10:39-04:00">PASSED:SIMPLERES</state>
   <status>
     <unknown datetime="2025-09-09T14:10:39-04:00"/>
@@ -22,6 +22,7 @@
     </calendar>
     <action datetime="2025-09-09T12:13:10-04:00">
       <text>Considered as privileged matter.</text>
+      <reference ref="CR H3907-3913: 2" label="consideration"/>
     </action>
     <action datetime="2025-09-09T12:17:16-04:00">
       <text>DEBATE - The House proceeded with one hour of debate on H. Res. 682.</text>
@@ -31,12 +32,14 @@
     </action>
     <action datetime="2025-09-09T13:31:20-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H3914-3915: 1" label="consideration"/>
     </action>
     <action datetime="2025-09-09T14:01:40-04:00">
       <text>On ordering the previous question Agreed to by the Yeas and Nays: 213 - 207 (Roll no. 242).</text>
     </action>
     <vote how="roll" type="vote" roll="243" datetime="2025-09-09T14:10:39-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
       <text>On agreeing to the resolution Agreed to by recorded vote: 210 - 207 (Roll no. 243).</text>
+      <reference ref="CR H3907: 2" label="text"/>
     </vote>
     <action datetime="2025-09-09T14:10:41-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -51,4 +54,7 @@
   </relatedbills>
   <subjects/>
   <amendments/>
+  <committee-reports>
+    <report>H. Rept. 119-255</report>
+  </committee-reports>
 </bill>

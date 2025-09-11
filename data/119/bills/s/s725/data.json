@@ -49,6 +49,18 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 146.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-09-10",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -196,6 +208,8 @@
     "active_at": "2025-04-30",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-09-10",
     "vetoed": false
   },
   "introduced_at": "2025-02-25",
@@ -212,8 +226,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-04-30",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-09-10",
   "subjects": [
     "Congressional oversight",
     "Emergency communications systems",
@@ -233,6 +247,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Enhancing First Response Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -247,11 +268,11 @@
       "type": "short"
     },
     {
-      "as": null,
+      "as": "passed senate",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Enhancing First Response Act",
-      "type": "display"
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -261,6 +282,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-04T02:08:18Z",
+  "updated_at": "2025-09-11T10:58:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s725.xml"
 }
