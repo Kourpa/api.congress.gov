@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="309" updated="2025-09-09T08:05:50Z">
+<bill session="119" type="h" number="309" updated="2025-09-12T08:07:18Z">
   <state datetime="2025-01-09">REFERRED</state>
   <status>
     <introduced datetime="2025-01-09"/>
@@ -134,9 +134,13 @@
     <action datetime="2025-01-09" state="REFERRED">
       <text>Referred to the House Committee on Natural Resources.</text>
     </action>
+    <action datetime="2025-09-11">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

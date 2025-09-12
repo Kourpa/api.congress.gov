@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4386" updated="2025-07-31T16:55:16Z">
+<bill session="119" type="h" number="4386" updated="2025-09-12T08:07:04Z">
   <state datetime="2025-07-14">REFERRED</state>
   <status>
     <introduced datetime="2025-07-14"/>
@@ -22,10 +22,14 @@
     <action datetime="2025-07-14">
       <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-09-11">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Referral"/>
+    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

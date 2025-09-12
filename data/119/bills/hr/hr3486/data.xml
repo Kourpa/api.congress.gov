@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3486" updated="2025-09-12T02:08:22Z">
-  <state datetime="2025-05-21">REPORTED</state>
+<bill session="119" type="h" number="3486" updated="2025-09-12T08:09:13Z">
+  <state datetime="2025-09-11T10:47:53-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-05-21"/>
+    <unknown datetime="2025-09-11T10:47:53-04:00"/>
   </status>
   <introduced datetime="2025-05-19"/>
   <titles>
@@ -44,6 +44,30 @@
     <action datetime="2025-09-09T14:10:40-04:00">
       <text>Rule H. Res. 682 passed House.</text>
     </action>
+    <action datetime="2025-09-11T09:10:54-04:00">
+      <text>Considered under the provisions of rule H. Res. 682.</text>
+    </action>
+    <action datetime="2025-09-11T09:10:59-04:00">
+      <text>Rule provides for consideration of H.R. 3838 and H.R. 3486. The resolution provides for consideration of H.R. 3838 under a structured rule and H.R. 3486 under a closed rule with one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2025-09-11T09:11:47-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 3486.</text>
+    </action>
+    <action datetime="2025-09-11T10:08:53-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-09-11T10:09:17-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3486, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-09-11T10:40:31-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="264" datetime="2025-09-11T10:47:53-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 226 - 197 (Roll no. 264).</text>
+    </vote>
+    <action datetime="2025-09-11T10:47:56-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -60,7 +84,9 @@
     <term name="Immigration status and procedures"/>
     <term name="Violent crime"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h102"/>
+  </amendments>
   <summary date="2025-07-21T16:34:43Z" status="Introduced in House"></summary>
   <committee-reports>
     <report>H. Rept. 119-200</report>
