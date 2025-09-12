@@ -3,7 +3,12 @@
     {
       "acted_at": "2025-09-11",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S6561: 7",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -38,14 +43,7 @@
   ],
   "amendment_id": "samdt3864-119",
   "amendment_type": "samdt",
-  "amends_amendment": {
-    "amendment_id": "samdt3748-119",
-    "amendment_type": "samdt",
-    "congress": 119,
-    "description": "",
-    "number": 3748,
-    "purpose": "In the nature of a substitute."
-  },
+  "amends_amendment": null,
   "amends_bill": {
     "bill_id": "s2296-119",
     "bill_type": "s",
@@ -55,6 +53,7 @@
   "amends_treaty": null,
   "chamber": "s",
   "congress": "119",
+  "description": "(null)",
   "introduced_at": "2025-09-10",
   "number": 3864,
   "proposed_at": "2025-09-10T04:00:00Z",
@@ -69,5 +68,5 @@
   },
   "status": "offered",
   "status_at": "2025-09-10",
-  "updated_at": "2025-09-12T11:08:31Z"
+  "updated_at": "2025-09-12T15:20:38Z"
 }
