@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2721" updated="2025-09-11T10:58:23Z">
+<bill session="119" type="s" number="2721" updated="2025-09-15T17:50:22Z">
   <state datetime="2025-09-04">REFERRED</state>
   <status>
     <introduced datetime="2025-09-04"/>
@@ -34,7 +34,11 @@
   <committees>
     <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="5130" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+  </subjects>
   <amendments/>
 </bill>
