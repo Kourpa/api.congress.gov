@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="5140" updated="2025-09-15T19:50:19Z">
+<bill session="119" type="h" number="5140" updated="2025-09-16T15:06:13Z">
   <state datetime="2025-09-10">REPORTED</state>
   <status>
     <unknown datetime="2025-09-10"/>
@@ -13,6 +13,7 @@
     <cosponsor bioguide_id="B001309" joined="2025-09-08"/>
     <cosponsor bioguide_id="D000634" joined="2025-09-11"/>
     <cosponsor bioguide_id="H001077" joined="2025-09-09"/>
+    <cosponsor bioguide_id="L000596" joined="2025-09-15"/>
   </cosponsors>
   <actions>
     <action datetime="2025-09-04">
@@ -27,13 +28,22 @@
     <action datetime="2025-09-10" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 26 - 19.</text>
     </action>
+    <action datetime="2025-09-15T19:25:24-04:00">
+      <text>Rules Committee Resolution H. Res. 707 Reported to House. Rule provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015 and H.R. 3062. The resolution provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015, and H.R. 3062 under a closed rule, and provides for a motion to recommit on each measure.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="707" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="District of Columbia"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Violent crime"/>
   </subjects>
   <amendments/>
   <summary date="2025-09-15T18:07:41Z" status="Introduced in House"></summary>

@@ -38,6 +38,22 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 25 - 20.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-09-15T19:25:24-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres707-119",
+        "hr4922-119",
+        "hr5140-119",
+        "hr5125-119",
+        "hr1047-119",
+        "hr3015-119",
+        "hr3062-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 707 Reported to House. Rule provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015 and H.R. 3062. The resolution provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015, and H.R. 3062 under a closed rule, and provides for a motion to recommit on each measure.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -66,6 +82,16 @@
       "state": "FL",
       "title": "Rep.",
       "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "W000795",
+      "district": "2",
+      "name": "Wilson, Joe",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-09-15",
+      "state": "SC",
+      "title": "Rep.",
+      "withdrawn_at": null
     }
   ],
   "enacted_as": null,
@@ -80,7 +106,14 @@
   "number": "5143",
   "official_title": "To establish standards for law enforcement officers in the District of Columbia to engage in vehicular pursuits of suspects, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres707-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "District of Columbia Policing Protection Act",
   "sponsor": {
     "bioguide_id": "H001077",
@@ -93,7 +126,13 @@
   "status": "REPORTED",
   "status_at": "2025-09-10",
   "subjects": [
-    "Crime and law enforcement"
+    "Computers and information technology",
+    "Congressional oversight",
+    "Crime and law enforcement",
+    "District of Columbia",
+    "Law enforcement administration and funding",
+    "Law enforcement officers",
+    "Motor vehicles"
   ],
   "subjects_top_term": "Crime and law enforcement",
   "summary": {
@@ -125,6 +164,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2025-09-15T19:50:19Z",
+  "updated_at": "2025-09-16T15:06:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5143.xml"
 }

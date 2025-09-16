@@ -1,13 +1,15 @@
-<bill session="119" type="h" number="1047" updated="2025-09-15T18:56:25Z">
+<bill session="119" type="h" number="1047" updated="2025-09-16T15:06:13Z">
   <state datetime="2025-06-25">REPORTED</state>
   <status>
     <unknown datetime="2025-06-25"/>
   </status>
   <introduced datetime="2025-02-06"/>
   <titles>
-    <title type="display">GRID Power Act</title>
     <title type="short" as="introduced">GRID Power Act</title>
     <title type="short" as="introduced">Guaranteeing Reliability through the Interconnection of Dispatchable Power Act</title>
+    <title type="short" as="reported to house">GRID Power Act</title>
+    <title type="short" as="reported to house">Guaranteeing Reliability through the Interconnection of Dispatchable Power Act</title>
+    <title type="display">GRID Power Act</title>
     <title type="official" as="introduced">To require the Federal Energy Regulatory Commission to reform the interconnection queue process for the prioritization and approval of certain projects, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="B001306"/>
@@ -52,12 +54,22 @@
     <action datetime="2025-06-25" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 28 - 23.</text>
     </action>
+    <action datetime="2025-09-15">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-295.</text>
+    </action>
+    <calendar datetime="2025-09-15" calendar="Union" number="251">
+      <text>Placed on the Union Calendar, Calendar No. 251.</text>
+    </calendar>
+    <action datetime="2025-09-15T19:25:24-04:00">
+      <text>Rules Committee Resolution H. Res. 707 Reported to House. Rule provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015 and H.R. 3062. The resolution provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015, and H.R. 3062 under a closed rule, and provides for a motion to recommit on each measure.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills>
+    <bill session="119" type="hr" number="707" relation="unknown"/>
     <bill session="119" type="s" number="465" relation="identical"/>
   </relatedbills>
   <subjects>

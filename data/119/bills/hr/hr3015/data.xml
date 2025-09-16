@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3015" updated="2025-08-11T18:50:21Z">
+<bill session="119" type="h" number="3015" updated="2025-09-16T15:06:13Z">
   <state datetime="2025-06-25">REPORTED</state>
   <status>
     <unknown datetime="2025-06-25"/>
@@ -46,12 +46,17 @@
     <calendar datetime="2025-07-02" calendar="Union" number="150">
       <text>Placed on the Union Calendar, Calendar No. 150.</text>
     </calendar>
+    <action datetime="2025-09-15T19:25:24-04:00">
+      <text>Rules Committee Resolution H. Res. 707 Reported to House. Rule provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015 and H.R. 3062. The resolution provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015, and H.R. 3062 under a closed rule, and provides for a motion to recommit on each measure.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="707" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Energy"/>
     <term name="Administrative remedies"/>

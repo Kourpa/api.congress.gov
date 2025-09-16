@@ -38,6 +38,22 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 25 - 20.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-09-15T19:25:24-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres707-119",
+        "hr4922-119",
+        "hr5143-119",
+        "hr5140-119",
+        "hr1047-119",
+        "hr3015-119",
+        "hr3062-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 707 Reported to House. Rule provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015 and H.R. 3062. The resolution provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015, and H.R. 3062 under a closed rule, and provides for a motion to recommit on each measure.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -80,7 +96,14 @@
   "number": "5125",
   "official_title": "To amend the District of Columbia Home Rule Act to terminate the District of Columbia Judicial Nomination Commission, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres707-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "District of Columbia Judicial Nominations Reform Act",
   "sponsor": {
     "bioguide_id": "S000250",
@@ -125,6 +148,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-15T19:50:19Z",
+  "updated_at": "2025-09-16T15:06:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5125.xml"
 }
