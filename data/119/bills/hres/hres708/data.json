@@ -2,6 +2,25 @@
   "actions": [
     {
       "acted_at": "2025-09-15",
+      "action_code": "1025",
+      "references": [],
+      "text": "Submitted in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-15",
+      "action_code": "B00100",
+      "references": [
+        {
+          "reference": "CR E851",
+          "type": null
+        }
+      ],
+      "text": "Sponsor introductory remarks on measure.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-15",
       "action_code": "H11100",
       "references": [],
       "text": "Submitted in House",
@@ -78,7 +97,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-09-15",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -118,6 +138,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-16T08:05:26Z",
+  "updated_at": "2025-09-16T17:33:52Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres708.xml"
 }
