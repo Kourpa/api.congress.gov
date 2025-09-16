@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4648" updated="2025-08-14T08:23:18Z">
+<bill session="119" type="h" number="4648" updated="2025-09-16T15:14:59Z">
   <state datetime="2025-07-23">REFERRED</state>
   <status>
     <introduced datetime="2025-07-23"/>
@@ -46,7 +46,11 @@
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="2408" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
   <amendments/>
 </bill>
