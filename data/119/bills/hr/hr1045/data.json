@@ -88,6 +88,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by Unanimous Consent.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-09-15",
+      "action_code": "H12200",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 119-280, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-15",
+      "action_code": "H12300",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Committee on Agriculture discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-15",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "236",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 236.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -98,6 +128,24 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Forestry and Horticulture",
+      "subcommittee_id": "15"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "discharged",
         "Referred To"
@@ -114,22 +162,6 @@
       "committee_id": "HSII",
       "subcommittee": "Subcommittee on Federal Lands",
       "subcommittee_id": "10"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Agriculture",
-      "committee_id": "HSAG"
-    },
-    {
-      "activity": [
-        "referral"
-      ],
-      "committee": "House Agriculture",
-      "committee_id": "HSAG",
-      "subcommittee": "Subcommittee on Forestry and Horticulture",
-      "subcommittee_id": "15"
     }
   ],
   "congress": "119",
@@ -209,6 +241,20 @@
   "summary": null,
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Utah Wildfire Research Institute Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Utah Wildfire Research Institute Act of 2025",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -219,17 +265,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Utah Wildfire Research Institute Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To amend the Southwest Forest Health and Wildfire Prevention Act of 2004 to require the establishment of an additional Institute under that Act.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-02T23:40:59Z",
+  "updated_at": "2025-09-16T08:08:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1045.xml"
 }

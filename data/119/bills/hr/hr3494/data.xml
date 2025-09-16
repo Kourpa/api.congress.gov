@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="3494" updated="2025-08-14T20:11:29Z">
-  <state datetime="2025-07-23">REPORTED</state>
+<bill session="119" type="h" number="3494" updated="2025-09-16T10:08:18Z">
+  <state datetime="2025-09-15T17:49:13-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-07-23"/>
+    <unknown datetime="2025-09-15T17:49:13-04:00"/>
   </status>
   <introduced datetime="2025-05-19"/>
   <titles>
-    <title type="display">VA Hospital Inventory Management System Authorization Act</title>
     <title type="short" as="introduced">VA Hospital Inventory Management System Authorization Act</title>
+    <title type="short" as="reported to house">VA Hospital Inventory Management System Authorization Act</title>
+    <title type="display">VA Hospital Inventory Management System Authorization Act</title>
     <title type="official" as="introduced">To authorize the Secretary of Veterans Affairs to carry out an information technology system and prioritize certain requirements to manage supply chains for medical facilities of the Department of Veterans Affairs.</title>
   </titles>
   <sponsor bioguide_id="K000399"/>
@@ -36,9 +37,30 @@
     <action datetime="2025-07-23" state="REPORTED">
       <text>Ordered to be Reported (Amended) by Voice Vote.</text>
     </action>
+    <action datetime="2025-09-15">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-273.</text>
+    </action>
+    <calendar datetime="2025-09-15" calendar="Union" number="229">
+      <text>Placed on the Union Calendar, Calendar No. 229.</text>
+    </calendar>
+    <action datetime="2025-09-15T17:40:16-04:00">
+      <text>Mr. Bost moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-09-15T17:40:33-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-09-15T17:40:35-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3494.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-09-15T17:49:13-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-09-15T17:49:16-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSVR08" name="House Veterans' Affairs" subcommittee="Oversight and Investigations" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills/>

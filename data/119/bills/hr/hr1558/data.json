@@ -17,6 +17,13 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Oversight and Government Reform.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-09-15T19:04:33-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "ASSUMING FIRST SPONSORSHIP - Mr. Min asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 1558, a bill originally introduced by Representative Connolly, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -218,7 +225,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-09-15T19:04:33-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -230,12 +238,6 @@
   "related_bills": [
     {
       "bill_id": "s75-119",
-      "identified_by": "CRS",
-      "reason": "related",
-      "type": "bill"
-    },
-    {
-      "bill_id": "s4700-118",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -253,7 +255,13 @@
   "status": "REFERRED",
   "status_at": "2025-02-25",
   "subjects": [
-    "Government operations and politics"
+    "Accounting and auditing",
+    "Budget process",
+    "Congressional oversight",
+    "Executive agency funding and structure",
+    "Federal officials",
+    "Government operations and politics",
+    "Performance measurement"
   ],
   "subjects_top_term": "Government operations and politics",
   "summary": null,
@@ -280,6 +288,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-27T22:03:45Z",
+  "updated_at": "2025-09-16T08:05:57Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1558.xml"
 }

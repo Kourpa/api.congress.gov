@@ -87,6 +87,54 @@
       "text": "Placed on the Union Calendar, Calendar No. 179.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-09-15T15:44:29-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Bost moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-15T15:44:42-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-15T15:44:44-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1107.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-15T15:53:54-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-09-15T15:53:56-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-15T15:54:00-04:00",
+      "action_code": "H38800",
+      "references": [],
+      "text": "The title of the measure was amended. Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -410,11 +458,13 @@
     "active_at": "2025-03-12",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-09-15T15:53:54-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-06",
   "number": "1107",
-  "official_title": "To amend title 38, United States Code, to authorize certain heath care professionals employed by the Department of Veterans Affairs to deliver, distribute, or dispense to veterans certain controlled medications via telemedicine under certain conditions, and for other purposes.",
+  "official_title": "To amend title 38, United States Code, to authorize certain health care professionals employed by the Department of Veterans Affairs to deliver, distribute, or dispense to veterans certain controlled medications via telemedicine under certain conditions, and for other purposes",
   "popular_title": null,
   "related_bills": [],
   "short_title": "Protecting Veteran Access to Telemedicine Services Act of 2025",
@@ -426,8 +476,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-06",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-09-15T15:53:54-04:00",
   "subjects": [
     "Armed forces and national security",
     "Health care coverage and access",
@@ -448,7 +498,7 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Protecting Veteran Access to Telemedicine Services Act of 2025",
+      "title": "To amend title 38, United States Code, to authorize certain health care professionals employed by the Department of Veterans Affairs to deliver, distribute, or dispense to veterans certain controlled medications via telemedicine under certain conditions, and for other purposes",
       "type": "display"
     },
     {
@@ -456,6 +506,13 @@
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "To amend title 38, United States Code, to authorize certain heath care professionals employed by the Department of Veterans Affairs to deliver, distribute, or dispense to veterans certain controlled medications via telemedicine under certain conditions, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": "amended by house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To amend title 38, United States Code, to authorize certain health care professionals employed by the Department of Veterans Affairs to deliver, distribute, or dispense to veterans certain controlled medications via telemedicine under certain conditions, and for other purposes",
       "type": "official"
     },
     {
@@ -473,6 +530,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2025-08-09T19:06:14Z",
+  "updated_at": "2025-09-16T11:02:02Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1107.xml"
 }

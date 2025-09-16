@@ -1,7 +1,7 @@
-<bill session="119" type="sr" number="377" updated="2025-09-15T17:31:52Z">
-  <state datetime="2025-09-08">INTRODUCED</state>
+<bill session="119" type="sr" number="377" updated="2025-09-16T10:56:20Z">
+  <state datetime="2025-09-15">PASSED:SIMPLERES</state>
   <status>
-    <introduced datetime="2025-09-08"/>
+    <unknown datetime="2025-09-15"/>
   </status>
   <introduced datetime="2025-09-08"/>
   <titles>
@@ -69,6 +69,12 @@
       <text>Upon reconsideration, cloture on the measure invoked in Senate by Yea-Nay Vote. 53 - 43. Record Vote Number: 516.</text>
       <reference ref="3" label="CR S6568"/>
     </action>
+    <action datetime="2025-09-15">
+      <text>Considered by Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="517" datetime="2025-09-15" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment by Yea-Nay Vote. 51 - 44. Record Vote Number: 517.</text>
+    </vote>
   </actions>
   <committees/>
   <relatedbills/>

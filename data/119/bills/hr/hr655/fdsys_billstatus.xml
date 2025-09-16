@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>655</number>
-    <updateDate>2025-09-08T15:05:21Z</updateDate>
-    <updateDateIncludingText>2025-09-08T15:05:21Z</updateDateIncludingText>
+    <updateDate>2025-09-16T08:23:20Z</updateDate>
+    <updateDateIncludingText>2025-09-16T08:23:20Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -38,6 +38,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-09-15T17:55:16Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-06-25T20:34:26Z</date>
           </item>
@@ -53,6 +57,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-09-15</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 233.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00233</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-09-15</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-277.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-15</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-277.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-06-25</actionDate>
         <committees>
@@ -212,13 +261,23 @@
         <updateDate>2025-05-01T19:41:32Z</updateDate>
       </policyArea>
     </subjects>
-    <title>The Dalles Watershed Development Act</title>
+    <title>Dalles Watershed Development Act</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>The Dalles Watershed Development Act</title>
-        <updateDate>2025-02-25T05:08:21Z</updateDate>
+        <title>Dalles Watershed Development Act</title>
+        <updateDate>2025-09-16T08:23:20Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Dalles Watershed Development Act</title>
+        <updateDate>2025-09-16T08:23:18Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -239,6 +298,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-09-15T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr655rh/xml/BILLS-119hr655rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-01-23T05:00:00Z</date>
         <formats>
@@ -249,8 +317,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-25</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.</text>
+      <actionDate>2025-09-15</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 233.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

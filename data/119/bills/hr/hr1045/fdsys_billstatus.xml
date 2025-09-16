@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1045</number>
-    <updateDate>2025-09-02T23:40:59Z</updateDate>
-    <updateDateIncludingText>2025-09-02T23:40:59Z</updateDateIncludingText>
+    <updateDate>2025-09-16T08:08:17Z</updateDate>
+    <updateDateIncludingText>2025-09-16T08:18:38Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,34 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 25 (Thursday, February 6, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. KENNEDY of Utah:H.R. 1045.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8[Page H556]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-03-14T20:36:13Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-09-15T18:14:24Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-02-06T15:08:10Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsii00</systemCode>
         <name>Natural Resources Committee</name>
@@ -38,6 +66,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-09-15T18:14:13Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-07-23T16:27:15Z</date>
           </item>
@@ -48,30 +80,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-02-06T15:08:05Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hsag00</systemCode>
-        <name>Agriculture Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <subcommittees>
-          <item>
-            <systemCode>hsag15</systemCode>
-            <name>Forestry and Horticulture Subcommittee</name>
-            <activities>
-              <item>
-                <name>Referred to</name>
-                <date>2025-03-14T20:36:13Z</date>
-              </item>
-            </activities>
-          </item>
-        </subcommittees>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-02-06T15:08:10Z</date>
           </item>
         </activities>
       </item>
@@ -95,6 +103,83 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-09-15</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 236.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00236</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-09-15</actionDate>
+        <text>Committee on Agriculture discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-15</actionDate>
+        <text>Committee on Agriculture discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-15</actionDate>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 119-280, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-15</actionDate>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 119-280, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-07-23</actionDate>
         <committees>
@@ -324,6 +409,16 @@
     <title>Utah Wildfire Research Institute Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Utah Wildfire Research Institute Act of 2025</title>
+        <updateDate>2025-09-16T08:08:17Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Utah Wildfire Research Institute Act of 2025</title>
@@ -348,6 +443,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-09-15T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr1045rh/xml/BILLS-119hr1045rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-02-06T05:00:00Z</date>
         <formats>
@@ -358,8 +462,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-23</actionDate>
-      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <actionDate>2025-09-15</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 236.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="1045" updated="2025-09-02T23:40:59Z">
+<bill session="119" type="h" number="1045" updated="2025-09-16T08:08:17Z">
   <state datetime="2025-07-23">REPORTED</state>
   <status>
     <unknown datetime="2025-07-23"/>
   </status>
   <introduced datetime="2025-02-06"/>
   <titles>
-    <title type="display">Utah Wildfire Research Institute Act of 2025</title>
     <title type="short" as="introduced">Utah Wildfire Research Institute Act of 2025</title>
+    <title type="short" as="reported to house">Utah Wildfire Research Institute Act of 2025</title>
+    <title type="display">Utah Wildfire Research Institute Act of 2025</title>
     <title type="official" as="introduced">To amend the Southwest Forest Health and Wildfire Prevention Act of 2004 to require the establishment of an additional Institute under that Act.</title>
   </titles>
   <sponsor bioguide_id="K000403"/>
@@ -43,12 +44,21 @@
     <action datetime="2025-07-23" state="REPORTED">
       <text>Ordered to be Reported by Unanimous Consent.</text>
     </action>
+    <action datetime="2025-09-15">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 119-280, Part I.</text>
+    </action>
+    <action datetime="2025-09-15">
+      <text>Committee on Agriculture discharged.</text>
+    </action>
+    <calendar datetime="2025-09-15" calendar="Union" number="236">
+      <text>Placed on the Union Calendar, Calendar No. 236.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Discharged, Referred To"/>
-    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
-    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSAG15" name="House Agriculture" subcommittee="Forestry and Horticulture" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
+    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="457" relation="identical"/>
