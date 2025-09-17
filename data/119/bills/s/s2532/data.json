@@ -75,12 +75,6 @@
       "type": "bill"
     },
     {
-      "bill_id": "s891-119",
-      "identified_by": "CRS",
-      "reason": "related",
-      "type": "bill"
-    },
-    {
       "bill_id": "hr4079-119",
       "identified_by": "CRS",
       "reason": "related",
@@ -88,6 +82,12 @@
     },
     {
       "bill_id": "s2121-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s891-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -104,8 +104,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-07-30",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Health"
+  ],
+  "subjects_top_term": "Health",
   "summary": null,
   "titles": [
     {
@@ -130,6 +132,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-16T22:47:07Z",
+  "updated_at": "2025-09-17T16:15:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2532.xml"
 }
