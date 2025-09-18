@@ -57,6 +57,27 @@
       "references": [],
       "text": "Referred to the Subcommittee on Highways and Transit.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-09-17",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-17",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 1.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -65,6 +86,14 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Markup By",
+        "Referred To"
+      ],
+      "committee": "House Energy and Commerce",
+      "committee_id": "HSIF"
+    },
     {
       "activity": [
         "Referred To"
@@ -105,13 +134,6 @@
       "committee_id": "HSHM",
       "subcommittee": "Subcommittee on Transportation and Maritime Security",
       "subcommittee_id": "07"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Energy and Commerce",
-      "committee_id": "HSIF"
     }
   ],
   "congress": "119",
@@ -913,6 +935,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-06-20",
       "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "F000482",
+      "district": "0",
+      "name": "Fedorchak, Julie",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-09-17",
+      "state": "ND",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -2217,6 +2249,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "P000609",
+      "district": "6",
+      "name": "Palmer, Gary J.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-09-17",
+      "state": "AL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "P000613",
       "district": "19",
       "name": "Panetta, Jimmy",
@@ -2977,6 +3019,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "W000831",
+      "district": "11",
+      "name": "Walkinshaw, James R.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-09-17",
+      "state": "VA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "W000797",
       "district": "25",
       "name": "Wasserman Schultz, Debbie",
@@ -3119,7 +3171,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-09-17",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -3128,14 +3181,7 @@
   "number": "979",
   "official_title": "To require the Secretary of Transportation to issue a rule requiring access to AM broadcast stations in motor vehicles, and for other purposes.",
   "popular_title": null,
-  "related_bills": [
-    {
-      "bill_id": "s315-119",
-      "identified_by": "CRS",
-      "reason": "related",
-      "type": "bill"
-    }
-  ],
+  "related_bills": [],
   "short_title": "AM Radio for Every Vehicle Act of 2025",
   "sponsor": {
     "bioguide_id": "B001257",
@@ -3145,8 +3191,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-05",
+  "status": "REPORTED",
+  "status_at": "2025-09-17",
   "subjects": [
     "Science, technology, communications"
   ],
@@ -3180,6 +3226,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-17T12:52:28Z",
+  "updated_at": "2025-09-18T08:06:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr979.xml"
 }
