@@ -35,7 +35,16 @@
     {
       "acted_at": "2025-09-17T18:20:11-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4395: 2",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H4395-4396: 2",
+          "type": "text"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -109,9 +118,16 @@
   },
   "status": "FAIL:ORIGINATING:HOUSE",
   "status_at": "2025-09-17T18:29:03-04:00",
-  "subjects": [],
-  "subjects_top_term": null,
-  "summary": null,
+  "subjects": [
+    "Congress"
+  ],
+  "subjects_top_term": "Congress",
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2025-09-15",
+    "date": "2025-09-18T18:32:54Z",
+    "text": ""
+  },
   "titles": [
     {
       "as": "introduced",
@@ -128,6 +144,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-09-18T08:07:12Z",
+  "updated_at": "2025-09-18T18:33:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres713.xml"
 }

@@ -34,7 +34,12 @@
     {
       "acted_at": "2025-09-17T16:31:41-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4386-4393: 3",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -55,14 +60,24 @@
     {
       "acted_at": "2025-09-17T17:30:34-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4393-4394: 3",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
     {
       "acted_at": "2025-09-17T17:58:23-04:00",
       "action_code": "H35000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4393-4394: 3",
+          "type": "consideration"
+        }
+      ],
       "text": "On ordering the previous question Agreed to by the Yeas and Nays: 213 - 207 (Roll no. 272).",
       "type": "action"
     },
@@ -70,7 +85,12 @@
       "acted_at": "2025-09-17T18:05:22-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4386: 3",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "273",
       "status": "PASSED:SIMPLERES",
@@ -164,6 +184,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-18T08:07:09Z",
+  "updated_at": "2025-09-18T17:12:34Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres722.xml"
 }

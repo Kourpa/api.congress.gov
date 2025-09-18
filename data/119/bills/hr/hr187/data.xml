@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="187" updated="2025-04-23T11:41:33Z">
+<bill session="119" type="h" number="187" updated="2025-09-18T16:18:05Z">
   <state datetime="2025-01-21T19:07:48-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-01-21T19:07:48-05:00"/>
@@ -64,7 +64,9 @@
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="2637" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
     <term name="Congressional oversight"/>
