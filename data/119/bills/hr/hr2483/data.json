@@ -325,6 +325,28 @@
       "references": [],
       "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-09-18",
+      "action_code": "",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-18",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [
@@ -362,6 +384,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Health, Education, Labor, and Pensions",
@@ -422,6 +445,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-06-04T17:11:12-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-09-18",
     "vetoed": false
   },
   "introduced_at": "2025-03-31",
@@ -437,6 +462,12 @@
     },
     {
       "bill_id": "s2336-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s2532-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -493,8 +524,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-06-04T17:11:12-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-09-18",
   "subjects": [
     "Advisory bodies",
     "Child health",
@@ -581,6 +612,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-17T02:40:48Z",
+  "updated_at": "2025-09-19T13:38:48Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2483.xml"
 }

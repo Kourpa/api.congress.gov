@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>309</number>
-    <updateDate>2025-09-12T08:07:18Z</updateDate>
-    <updateDateIncludingText>2025-09-12T08:07:18Z</updateDateIncludingText>
+    <updateDate>2025-09-19T08:07:34Z</updateDate>
+    <updateDateIncludingText>2025-09-19T08:07:34Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -26,6 +26,10 @@
             <name>Federal Lands Subcommittee</name>
             <activities>
               <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2025-09-18T20:35:56Z</date>
+              </item>
+              <item>
                 <name>Referred to</name>
                 <date>2025-09-11T20:11:16Z</date>
               </item>
@@ -41,6 +45,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-09-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-09-11</actionDate>
         <committees>
@@ -1410,6 +1429,17 @@
         <sponsorshipDate>2025-09-08</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>B001324</bioguideId>
+        <fullName>Rep. Bell, Wesley [D-MO-1]</fullName>
+        <firstName>Wesley</firstName>
+        <lastName>Bell</lastName>
+        <party>D</party>
+        <state>MO</state>
+        <district>1</district>
+        <sponsorshipDate>2025-09-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Crime and Law Enforcement</name>
@@ -1490,8 +1520,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-11</actionDate>
-      <text>Referred to the Subcommittee on Federal Lands.</text>
+      <actionDate>2025-09-18</actionDate>
+      <text>Subcommittee Hearings Held</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

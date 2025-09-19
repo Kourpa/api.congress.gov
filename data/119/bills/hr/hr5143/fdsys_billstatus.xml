@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5143</number>
-    <updateDate>2025-09-18T17:09:27Z</updateDate>
-    <updateDateIncludingText>2025-09-18T17:09:27Z</updateDateIncludingText>
+    <updateDate>2025-09-19T10:56:43Z</updateDate>
+    <updateDateIncludingText>2025-09-19T10:56:43Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -57,6 +57,14 @@
     </relatedBills>
     <actions>
       <item>
+        <actionDate>2025-09-18</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2025-09-17</actionDate>
         <actionTime>18:17:14</actionTime>
         <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -91,7 +99,7 @@
       <item>
         <actionDate>2025-09-17</actionDate>
         <actionTime>18:17:12</actionTime>
-        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 245 - 182 (Roll no. 275).</text>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 245 - 182 (Roll no. 275). (text of amendment in the nature of a substitute: CR H4379: 1)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -343,8 +351,24 @@
         </cdata>
       </summary>
     </summaries>
-    <title>District of Columbia Policing Protection Act</title>
+    <title>District of Columbia Policing Protection Act of 2025</title>
     <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>District of Columbia Policing Protection Act of 2025</title>
+        <updateDate>2025-09-19T02:53:15Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>District of Columbia Policing Protection Act of 2025</title>
+        <updateDate>2025-09-19T02:53:14Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
         <titleTypeCode>6</titleTypeCode>
@@ -352,12 +376,6 @@
         <updateDate>2025-09-06T07:33:26Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>District of Columbia Policing Protection Act</title>
-        <updateDate>2025-09-06T07:23:22Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -392,8 +410,8 @@
           <originChamber>House</originChamber>
           <originChamberCode>H</originChamberCode>
           <number>5143</number>
-          <title>District of Columbia Policing Protection Act</title>
-          <updateDateIncludingText>2025-09-18</updateDateIncludingText>
+          <title>District of Columbia Policing Protection Act of 2025</title>
+          <updateDateIncludingText>2025-09-19</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>4</count>
@@ -456,6 +474,15 @@
     </amendments>
     <textVersions>
       <item>
+        <type>Engrossed in House</type>
+        <date>2025-09-17T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr5143eh/xml/BILLS-119hr5143eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-09-04T04:00:00Z</date>
         <formats>
@@ -466,9 +493,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-17</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>18:17:14</actionTime>
+      <actionDate>2025-09-18</actionDate>
+      <text>Received in the Senate.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
