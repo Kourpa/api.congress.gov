@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>410</number>
-    <updateDate>2025-09-20T06:03:40Z</updateDate>
-    <updateDateIncludingText>2025-09-20T06:03:40Z</updateDateIncludingText>
+    <updateDate>2025-09-20T10:56:20Z</updateDate>
+    <updateDateIncludingText>2025-09-20T10:56:20Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SRES</type>
@@ -42,13 +42,19 @@
       </item>
       <item>
         <actionDate>2025-09-18</actionDate>
-        <text>Introduced in Senate</text>
+        <text>Submitted in Senate</text>
         <type>IntroReferral</type>
-        <actionCode>10000</actionCode>
+        <actionCode>10025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
         </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
       </item>
     </actions>
     <sponsors>
@@ -134,6 +140,28 @@
         <middleName>K.</middleName>
         <sponsorshipDate>2025-09-18</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Durbin</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2025-09-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000570</bioguideId>
+        <fullName>Sen. Luján, Ben Ray [D-NM]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Luján</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2025-09-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
     </cosponsors>
     <title>A resolution calling on the President to recognize a demilitarized State of Palestine, as consistent with international law and the principles of a two-state solution, alongside a secure State of Israel.</title>

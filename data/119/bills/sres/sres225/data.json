@@ -2,13 +2,6 @@
   "actions": [
     {
       "acted_at": "2025-05-14",
-      "action_code": "10000",
-      "references": [],
-      "text": "Introduced in Senate",
-      "type": "action"
-    },
-    {
-      "acted_at": "2025-05-14",
       "action_code": "",
       "committees": [
         "SSJU"
@@ -22,6 +15,28 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-09-19",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -32,6 +47,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -53,9 +69,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-09-19",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-09-19",
     "vetoed": false
   },
   "introduced_at": "2025-05-14",
@@ -72,8 +91,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-14",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-09-19",
   "subjects": [
     "Transportation and public works"
   ],
@@ -100,6 +119,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-08-18T12:00:32Z",
+  "updated_at": "2025-09-20T10:56:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres225.xml"
 }

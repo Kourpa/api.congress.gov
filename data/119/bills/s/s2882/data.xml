@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2882" updated="2025-09-19T17:50:40Z">
-  <state datetime="2025-09-18">INTRODUCED</state>
+<bill session="119" type="s" number="2882" updated="2025-09-20T11:03:14Z">
+  <state datetime="2025-09-19">FAIL:ORIGINATING:SENATE</state>
   <status>
-    <introduced datetime="2025-09-18"/>
+    <unknown datetime="2025-09-19"/>
   </status>
   <introduced datetime="2025-09-18"/>
   <titles>
@@ -18,6 +18,18 @@
     <action datetime="2025-09-18">
       <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
     </action>
+    <vote how="roll" type="vote" roll="527" datetime="2025-09-19" where="s" result="fail" state="FAIL:ORIGINATING:SENATE">
+      <text>Under the order of 9/18/2025, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 47 - 45. Record Vote Number: 527.</text>
+    </vote>
+    <action datetime="2025-09-19">
+      <text>Motion by Senator Schumer to reconsider the vote by which S. 2882 failed of passage (Record Vote No. 527) entered in Senate.</text>
+    </action>
+    <action datetime="2025-09-19">
+      <text>Under the order of 9/19/25, the third reading was vitiated and the bill was read the second time.</text>
+    </action>
+    <calendar datetime="2025-09-19" calendar="Senate Legislative" under="General Orders" number="167">
+      <text>Ordered placed on Senate Legislative Calendar under General Orders. Calendar No. 167.</text>
+    </calendar>
   </actions>
   <committees/>
   <relatedbills>

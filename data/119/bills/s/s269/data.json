@@ -28,9 +28,38 @@
       "status": "REPORTED",
       "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-09-19",
+      "action_code": "",
+      "committees": [
+        "SSGA"
+      ],
+      "references": [],
+      "text": "Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt3912-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3912"
+    }
+  ],
   "bill_id": "s269-119",
   "bill_type": "s",
   "by_request": false,
@@ -38,6 +67,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Markup By",
         "Referred To"
       ],
@@ -104,6 +134,8 @@
     "active_at": "2025-07-30",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-09-19",
     "vetoed": false
   },
   "introduced_at": "2025-01-28",
@@ -127,8 +159,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-30",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-09-19",
   "subjects": [
     "Disability assistance",
     "Intergovernmental relations",
@@ -144,6 +176,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Ending Improper Payments to Deceased People Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -158,13 +197,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Ending Improper Payments to Deceased People Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -172,6 +204,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-20T06:08:14Z",
+  "updated_at": "2025-09-20T11:08:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s269.xml"
 }

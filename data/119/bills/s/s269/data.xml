@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="269" updated="2025-09-20T06:08:14Z">
-  <state datetime="2025-07-30">REPORTED</state>
+<bill session="119" type="s" number="269" updated="2025-09-20T11:08:17Z">
+  <state datetime="2025-09-19">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-07-30"/>
+    <unknown datetime="2025-09-19"/>
   </status>
   <introduced datetime="2025-01-28"/>
   <titles>
+    <title type="display">Ending Improper Payments to Deceased People Act</title>
     <title type="short" as="introduced">Ending Improper Payments to Deceased People Act</title>
     <title type="short" as="passed senate">Ending Improper Payments to Deceased People Act</title>
-    <title type="display">Ending Improper Payments to Deceased People Act</title>
     <title type="official" as="introduced">A bill to improve coordination between Federal and State agencies and the Do Not Pay working system.</title>
   </titles>
   <sponsor bioguide_id="K000393"/>
@@ -28,9 +28,15 @@
     <action datetime="2025-07-30" state="REPORTED">
       <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
     </action>
+    <action datetime="2025-09-19">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-09-19" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Discharged From, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="2716" relation="identical"/>
@@ -41,6 +47,8 @@
     <term name="Intergovernmental relations"/>
     <term name="Social security and elderly assistance"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s3912"/>
+  </amendments>
   <summary date="2025-03-18T20:53:32Z" status="Introduced in Senate"></summary>
 </bill>

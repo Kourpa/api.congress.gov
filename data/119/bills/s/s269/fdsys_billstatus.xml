@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>269</number>
-    <updateDate>2025-09-20T06:08:14Z</updateDate>
-    <updateDateIncludingText>2025-09-20T06:08:14Z</updateDateIncludingText>
+    <updateDate>2025-09-20T11:08:17Z</updateDate>
+    <updateDateIncludingText>2025-09-20T11:08:17Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -18,6 +18,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-09-19T18:33:51Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-07-30T14:00:00Z</date>
@@ -48,6 +52,54 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-07-30</actionDate>
         <committees>
@@ -188,6 +240,12 @@
     <title>Ending Improper Payments to Deceased People Act</title>
     <titles>
       <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Ending Improper Payments to Deceased People Act</title>
+        <updateDate>2025-09-20T10:58:14Z</updateDate>
+      </item>
+      <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
         <titleTypeCode>105</titleTypeCode>
         <title>Ending Improper Payments to Deceased People Act</title>
@@ -196,12 +254,6 @@
         <chamberName>Senate</chamberName>
         <billTextVersionName>Engrossed in Senate</billTextVersionName>
         <billTextVersionCode>ES</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Ending Improper Payments to Deceased People Act</title>
-        <updateDate>2025-07-31T11:03:18Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -220,6 +272,153 @@
         <billTextVersionCode>IS</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>3912</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2025-09-20T11:08:17Z</updateDate>
+        <latestAction>
+          <actionDate>2025-09-19</actionDate>
+          <text>Amendment SA 3912 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 3912</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/3912</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>K000393</bioguideId>
+            <fullName>Sen. Kennedy, John [R-LA]</fullName>
+            <firstName>John</firstName>
+            <lastName>Kennedy</lastName>
+            <party>R</party>
+            <state>LA</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Submitted on behalf of</type>
+          </item>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>2</countIncludingWithdrawnCosponsors>
+          <count>2</count>
+          <item>
+            <bioguideId>P000595</bioguideId>
+            <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+            <firstName>Gary</firstName>
+            <lastName>Peters</lastName>
+            <party>D</party>
+            <state>MI</state>
+            <sponsorshipDate>2025-09-19</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>W000779</bioguideId>
+            <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+            <firstName>Ron</firstName>
+            <lastName>Wyden</lastName>
+            <party>D</party>
+            <state>OR</state>
+            <sponsorshipDate>2025-09-19</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2025-09-19T18:34:00Z</proposedDate>
+        <submittedDate>2025-09-19T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>269</number>
+          <title>Ending Improper Payments to Deceased People Act</title>
+          <updateDateIncludingText>2025-09-20</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2025-09-19</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 3912 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2025-09-19</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 3912 proposed by Senator Thune for Senator Kennedy. In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2025-09-19</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-09-19</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-09-19</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 3912 proposed by Senator Thune for Senator Kennedy.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-09-19</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 3912 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Engrossed in Senate</type>
@@ -241,8 +440,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-30</actionDate>
-      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+      <actionDate>2025-09-19</actionDate>
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

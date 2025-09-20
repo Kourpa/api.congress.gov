@@ -2,7 +2,7 @@
   "actions": [
     {
       "acted_at": "2025-09-18",
-      "action_code": "10000",
+      "action_code": "Intro-S",
       "references": [],
       "text": "Introduced in Senate",
       "type": "action"
@@ -13,6 +13,43 @@
       "references": [],
       "text": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "527",
+      "status": "FAIL:ORIGINATING:SENATE",
+      "text": "Under the order of 9/18/2025, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 47 - 45. Record Vote Number: 527.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-09-19",
+      "action_code": "",
+      "references": [],
+      "text": "Motion by Senator Schumer to reconsider the vote by which S. 2882 failed of passage (Record Vote No. 527) entered in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19",
+      "action_code": "",
+      "references": [],
+      "text": "Under the order of 9/19/25, the third reading was vitiated and the bill was read the second time.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19",
+      "action_code": "",
+      "calendar": "Senate Legislative",
+      "number": "167",
+      "references": [],
+      "text": "Ordered placed on Senate Legislative Calendar under General Orders. Calendar No. 167.",
+      "type": "calendar",
+      "under": "General Orders"
     }
   ],
   "amendments": [],
@@ -29,6 +66,8 @@
     "active_at": "2025-09-18",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "fail",
+    "senate_passage_result_at": "2025-09-19",
     "vetoed": false
   },
   "introduced_at": "2025-09-18",
@@ -52,8 +91,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "INTRODUCED",
-  "status_at": "2025-09-18",
+  "status": "FAIL:ORIGINATING:SENATE",
+  "status_at": "2025-09-19",
   "subjects": [
     "Economics and public finance"
   ],
@@ -87,6 +126,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-19T17:50:40Z",
+  "updated_at": "2025-09-20T11:03:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2882.xml"
 }

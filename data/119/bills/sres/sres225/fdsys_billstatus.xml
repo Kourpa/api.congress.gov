@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>225</number>
-    <updateDate>2025-08-18T12:00:32Z</updateDate>
-    <updateDateIncludingText>2025-08-18T12:00:32Z</updateDateIncludingText>
+    <updateDate>2025-09-20T10:56:22Z</updateDate>
+    <updateDateIncludingText>2025-09-20T10:56:22Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SRES</type>
     <introducedDate>2025-05-14</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-resolution/225</legislationUrl>
     <committees>
       <item>
         <systemCode>ssju00</systemCode>
@@ -18,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-09-19T18:36:56Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-05-14T17:29:09Z</date>
           </item>
@@ -25,6 +30,54 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-05-14</actionDate>
         <committees>
@@ -38,16 +91,6 @@
         </sourceSystem>
         <text>Referred to the Committee on the Judiciary. (text: CR S2930)</text>
         <type>IntroReferral</type>
-      </item>
-      <item>
-        <actionDate>2025-05-14</actionDate>
-        <text>Introduced in Senate</text>
-        <type>IntroReferral</type>
-        <actionCode>10000</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
       </item>
     </actions>
     <sponsors>
@@ -123,8 +166,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-14</actionDate>
-      <text>Referred to the Committee on the Judiciary. (text: CR S2930)</text>
+      <actionDate>2025-09-19</actionDate>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
