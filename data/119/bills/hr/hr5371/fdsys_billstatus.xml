@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5371</number>
-    <updateDate>2025-09-20T10:56:21Z</updateDate>
-    <updateDateIncludingText>2025-09-20T10:56:21Z</updateDateIncludingText>
+    <updateDate>2025-09-22T18:36:36Z</updateDate>
+    <updateDateIncludingText>2025-09-22T18:36:36Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -16,6 +16,26 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>hsap00</systemCode>
+        <name>Appropriations Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Unknown</name>
+            <date>2025-09-19T14:37:37Z</date>
+          </item>
+          <item>
+            <name>Unknown</name>
+            <date>2025-09-19T14:11:27Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-09-16T14:03:00Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsbu00</systemCode>
         <name>Budget Committee</name>
         <chamber>House</chamber>
@@ -24,18 +44,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-09-16T14:03:05Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hsap00</systemCode>
-        <name>Appropriations Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-09-16T14:03:00Z</date>
           </item>
         </activities>
       </item>
@@ -77,7 +85,7 @@
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Under the order of 9/19/25, the third reading was vitiated and the bill was read the second time.</text>
+        <text>Under the order of 9/19/25, the third reading was vitiated and the bill was read the second time. (: CR S6785)</text>
         <type>Floor</type>
       </item>
       <item>
@@ -93,7 +101,7 @@
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Under the order of 9/18/25, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 44 - 48. Record Vote Number: 528.</text>
+        <text>Under the order of 9/18/25, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 44 - 48. Record Vote Number: 528. (consideration: CR S6785)</text>
         <type>Floor</type>
         <recordedVotes>
           <recordedVote>
@@ -133,6 +141,158 @@
         </sourceSystem>
         <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
         <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <actionTime>10:44:54</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <actionTime>10:44:49</actionTime>
+        <text>On passage Passed by the Yeas and Nays: 217 - 212 (Roll no. 281). (text: CR H4462-4471)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>281</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll281.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-09-19T14:44:49Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <actionTime>10:44:49</actionTime>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 212 (Roll no. 281).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>281</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll281.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-09-19T14:44:49Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <actionTime>10:37:37</actionTime>
+        <text>On motion to recommit Failed by the Yeas and Nays: 210 - 218 (Roll no. 280).</text>
+        <type>Floor</type>
+        <actionCode>H36210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>280</rollNumber>
+            <url>https://clerk.house.gov/evs/2025/roll280.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2025-09-19T14:37:37Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <actionTime>10:11:37</actionTime>
+        <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+        <type>Floor</type>
+        <actionCode>H8A000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <actionTime>10:11:27</actionTime>
+        <text>Ms. DeLauro moved to recommit to the Committee on Appropriations. (text: CR H4476)</text>
+        <type>Floor</type>
+        <actionCode>H36200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <actionTime>10:10:57</actionTime>
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <actionTime>09:21:29</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H.R. 5371.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <actionTime>09:21:20</actionTime>
+        <text>Rule provides for consideration of H.R. 5371 and H. Res. 719. The resolution provides for consideration of H.R. 5371 and H. Res. 719 under a closed rule with one hour of general debate and one motion to recommit on H.R. 5371.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-09-19</actionDate>
+        <actionTime>09:21:15</actionTime>
+        <text>Considered under the provisions of rule H. Res. 722. (consideration: CR H4462-4477)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
       </item>
       <item>
         <actionDate>2025-09-16</actionDate>

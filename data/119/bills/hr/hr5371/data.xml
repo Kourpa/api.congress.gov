@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="5371" updated="2025-09-20T10:56:21Z">
+<bill session="119" type="h" number="5371" updated="2025-09-22T18:36:36Z">
   <state datetime="2025-09-19">FAIL:SECOND:SENATE</state>
   <status>
     <unknown datetime="2025-09-19"/>
@@ -29,25 +29,57 @@
     <action datetime="2025-09-16T18:46:38-04:00">
       <text>Rules Committee Resolution H. Res. 722 Reported to House. Rule provides for consideration of H.R. 5371 and H. Res. 719. The resolution provides for consideration of H.R. 5371 and H. Res. 719 under a closed rule with one hour of general debate and one motion to recommit on H.R. 5371.</text>
     </action>
+    <action datetime="2025-09-19T09:21:15-04:00">
+      <text>Considered under the provisions of rule H. Res. 722.</text>
+      <reference ref="CR H4462-4477" label="consideration"/>
+    </action>
+    <action datetime="2025-09-19T09:21:20-04:00">
+      <text>Rule provides for consideration of H.R. 5371 and H. Res. 719. The resolution provides for consideration of H.R. 5371 and H. Res. 719 under a closed rule with one hour of general debate and one motion to recommit on H.R. 5371.</text>
+    </action>
+    <action datetime="2025-09-19T09:21:29-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 5371.</text>
+    </action>
+    <action datetime="2025-09-19T10:10:57-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-09-19T10:11:27-04:00">
+      <text>Ms. DeLauro moved to recommit to the Committee on Appropriations.</text>
+      <reference ref="CR H4476" label="text"/>
+    </action>
+    <action datetime="2025-09-19T10:11:37-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2025-09-19T10:37:37-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 210 - 218 (Roll no. 280).</text>
+    </action>
+    <vote how="roll" type="vote" roll="281" datetime="2025-09-19T10:44:49-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 217 - 212 (Roll no. 281).</text>
+      <reference ref="CR H4462-4471" label="text"/>
+    </vote>
+    <action datetime="2025-09-19T10:44:54-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
     <action datetime="2025-09-19">
       <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
     </action>
     <vote how="roll" type="vote2" roll="528" datetime="2025-09-19" where="s" result="fail" state="FAIL:SECOND:SENATE">
       <text>Under the order of 9/18/25, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 44 - 48. Record Vote Number: 528.</text>
+      <reference ref="CR S6785" label="consideration"/>
     </vote>
     <action datetime="2025-09-19">
       <text>Motion by Senator Thune to reconsider the vote by which H.R. 5371 failed of passage (Record Vote No. 528) entered in Senate.</text>
     </action>
     <action datetime="2025-09-19">
       <text>Under the order of 9/19/25, the third reading was vitiated and the bill was read the second time.</text>
+      <reference ref="CR S6785" label=""/>
     </action>
     <calendar datetime="2025-09-19" calendar="Senate Legislative" under="General Orders" number="168">
       <text>Ordered placed on Senate Legislative Calendar under General Orders. Calendar No. 168.</text>
     </calendar>
   </actions>
   <committees>
+    <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Unknown, Unknown, Referred To"/>
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>
-    <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="722" relation="unknown"/>

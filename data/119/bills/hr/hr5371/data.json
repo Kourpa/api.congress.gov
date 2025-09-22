@@ -40,6 +40,103 @@
       "type": "action"
     },
     {
+      "acted_at": "2025-09-19T09:21:15-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres722-119"
+      ],
+      "references": [
+        {
+          "reference": "CR H4462-4477",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under the provisions of rule H. Res. 722.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19T09:21:20-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hres719-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 5371 and H. Res. 719. The resolution provides for consideration of H.R. 5371 and H. Res. 719 under a closed rule with one hour of general debate and one motion to recommit on H.R. 5371.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19T09:21:29-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 5371.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19T10:10:57-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19T10:11:27-04:00",
+      "action_code": "H36200",
+      "committees": [
+        "HSAP"
+      ],
+      "references": [
+        {
+          "reference": "CR H4476",
+          "type": "text"
+        }
+      ],
+      "text": "Ms. DeLauro moved to recommit to the Committee on Appropriations.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19T10:11:37-04:00",
+      "action_code": "H8A000",
+      "references": [],
+      "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19T10:37:37-04:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSAP"
+      ],
+      "references": [],
+      "text": "On motion to recommit Failed by the Yeas and Nays: 210 - 218 (Roll no. 280).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19T10:44:49-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR H4462-4471",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "roll": "281",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 217 - 212 (Roll no. 281).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-09-19T10:44:54-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-09-19",
       "action_code": "",
       "references": [],
@@ -50,7 +147,12 @@
       "acted_at": "2025-09-19",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S6785",
+          "type": "consideration"
+        }
+      ],
       "result": "fail",
       "roll": "528",
       "status": "FAIL:SECOND:SENATE",
@@ -69,7 +171,12 @@
     {
       "acted_at": "2025-09-19",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S6785",
+          "type": ""
+        }
+      ],
       "text": "Under the order of 9/19/25, the third reading was vitiated and the bill was read the second time.",
       "type": "action"
     },
@@ -92,17 +199,19 @@
   "committees": [
     {
       "activity": [
+        "Unknown",
+        "Unknown",
         "Referred To"
       ],
-      "committee": "House Budget",
-      "committee_id": "HSBU"
+      "committee": "House Appropriations",
+      "committee_id": "HSAP"
     },
     {
       "activity": [
         "Referred To"
       ],
-      "committee": "House Appropriations",
-      "committee_id": "HSAP"
+      "committee": "House Budget",
+      "committee_id": "HSBU"
     }
   ],
   "congress": "119",
@@ -113,6 +222,8 @@
     "active_at": "2025-09-16T18:46:38-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-09-19T10:44:49-04:00",
     "senate_passage_result": "fail",
     "senate_passage_result_at": "2025-09-19",
     "vetoed": false
@@ -457,6 +568,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-09-20T10:56:21Z",
+  "updated_at": "2025-09-22T18:36:36Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5371.xml"
 }
