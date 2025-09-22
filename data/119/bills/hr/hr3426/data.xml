@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3426" updated="2025-09-18T04:23:16Z">
+<bill session="119" type="h" number="3426" updated="2025-09-22T15:31:50Z">
   <state datetime="2025-09-15T15:43:40-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-09-15T15:43:40-04:00"/>
@@ -61,13 +61,18 @@
     <action datetime="2025-09-16">
       <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
     </action>
+    <action datetime="2025-09-19T10:56:00-04:00">
+      <text>House requested return of papers pursuant to H.Res. 747.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Discharged, Markup By, Discharged, Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="747" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Government operations and politics"/>
     <term name="Building construction"/>
