@@ -2,7 +2,7 @@
   "actions": [
     {
       "acted_at": "2025-09-18",
-      "action_code": "Intro-S",
+      "action_code": "10000",
       "references": [],
       "text": "Introduced in Senate",
       "type": "action"
@@ -30,14 +30,24 @@
     {
       "acted_at": "2025-09-19",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S6785",
+          "type": "consideration"
+        }
+      ],
       "text": "Motion by Senator Schumer to reconsider the vote by which S. 2882 failed of passage (Record Vote No. 527) entered in Senate.",
       "type": "action"
     },
     {
       "acted_at": "2025-09-19",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S6785",
+          "type": ""
+        }
+      ],
       "text": "Under the order of 9/19/25, the third reading was vitiated and the bill was read the second time.",
       "type": "action"
     },
@@ -126,6 +136,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-21T16:39:31Z",
+  "updated_at": "2025-09-22T15:27:58Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2882.xml"
 }

@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2882" updated="2025-09-21T16:39:31Z">
+<bill session="119" type="s" number="2882" updated="2025-09-22T15:27:58Z">
   <state datetime="2025-09-19">FAIL:ORIGINATING:SENATE</state>
   <status>
     <unknown datetime="2025-09-19"/>
@@ -23,9 +23,11 @@
     </vote>
     <action datetime="2025-09-19">
       <text>Motion by Senator Schumer to reconsider the vote by which S. 2882 failed of passage (Record Vote No. 527) entered in Senate.</text>
+      <reference ref="CR S6785" label="consideration"/>
     </action>
     <action datetime="2025-09-19">
       <text>Under the order of 9/19/25, the third reading was vitiated and the bill was read the second time.</text>
+      <reference ref="CR S6785" label=""/>
     </action>
     <calendar datetime="2025-09-19" calendar="Senate Legislative" under="General Orders" number="167">
       <text>Ordered placed on Senate Legislative Calendar under General Orders. Calendar No. 167.</text>
