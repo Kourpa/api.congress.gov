@@ -49,10 +49,6 @@
         {
           "reference": "CR H4437: 3",
           "type": "consideration"
-        },
-        {
-          "reference": "CR H4437-4438: 3",
-          "type": "text"
         }
       ],
       "text": "Considered under the provisions of rule H. Res. 722.",
@@ -92,7 +88,12 @@
     {
       "acted_at": "2025-09-19T10:44:55-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4477-4478",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -100,7 +101,12 @@
       "acted_at": "2025-09-19T10:53:53-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR 9/18/2025 H4437",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "282",
       "status": "PASSED:SIMPLERES",
@@ -2164,6 +2170,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-09-22T15:31:31Z",
+  "updated_at": "2025-09-22T18:33:44Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres719.xml"
 }
