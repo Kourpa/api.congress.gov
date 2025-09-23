@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="835" updated="2025-06-09T23:06:12Z">
+<bill session="119" type="h" number="835" updated="2025-09-23T15:44:19Z">
   <state datetime="2025-02-04T16:12:37-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-02-04T16:12:37-05:00"/>
@@ -65,7 +65,9 @@
     <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="2734" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
     <term name="Accounting and auditing"/>
