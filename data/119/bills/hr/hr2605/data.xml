@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2605" updated="2025-09-27T03:23:13Z">
+<bill session="119" type="h" number="2605" updated="2025-09-27T08:05:58Z">
   <state datetime="2025-07-23">REPORTED</state>
   <status>
     <unknown datetime="2025-07-23"/>
@@ -14,6 +14,7 @@
   </titles>
   <sponsor bioguide_id="L000603"/>
   <cosponsors>
+    <cosponsor bioguide_id="B001291" joined="2025-09-26"/>
     <cosponsor bioguide_id="B001321" joined="2025-04-10"/>
     <cosponsor bioguide_id="B001324" joined="2025-09-15"/>
     <cosponsor bioguide_id="B000740" joined="2025-09-15"/>
@@ -23,6 +24,7 @@
     <cosponsor bioguide_id="C001117" joined="2025-07-17"/>
     <cosponsor bioguide_id="C001133" joined="2025-04-02"/>
     <cosponsor bioguide_id="C001068" joined="2025-04-02"/>
+    <cosponsor bioguide_id="C001129" joined="2025-09-26"/>
     <cosponsor bioguide_id="C001136" joined="2025-04-10"/>
     <cosponsor bioguide_id="C001132" joined="2025-08-15"/>
     <cosponsor bioguide_id="C001120" joined="2025-09-15"/>
@@ -31,7 +33,10 @@
     <cosponsor bioguide_id="D000230" joined="2025-04-02"/>
     <cosponsor bioguide_id="D000617" joined="2025-08-15"/>
     <cosponsor bioguide_id="D000530" joined="2025-04-02"/>
+    <cosponsor bioguide_id="E000071" joined="2025-09-26"/>
     <cosponsor bioguide_id="E000299" joined="2025-09-15"/>
+    <cosponsor bioguide_id="E000235" joined="2025-09-26"/>
+    <cosponsor bioguide_id="F000246" joined="2025-09-26"/>
     <cosponsor bioguide_id="F000475" joined="2025-06-06"/>
     <cosponsor bioguide_id="G000601" joined="2025-04-02"/>
     <cosponsor bioguide_id="G000594" joined="2025-09-16"/>
@@ -51,6 +56,7 @@
     <cosponsor bioguide_id="M000194" joined="2025-04-02"/>
     <cosponsor bioguide_id="M000317" joined="2025-05-05"/>
     <cosponsor bioguide_id="M001231" joined="2025-07-29"/>
+    <cosponsor bioguide_id="M001157" joined="2025-09-26"/>
     <cosponsor bioguide_id="M001220" joined="2025-04-02"/>
     <cosponsor bioguide_id="M001239" joined="2025-09-16"/>
     <cosponsor bioguide_id="M001222" joined="2025-05-15"/>
@@ -61,6 +67,7 @@
     <cosponsor bioguide_id="N000191" joined="2025-07-29"/>
     <cosponsor bioguide_id="N000026" joined="2025-09-23"/>
     <cosponsor bioguide_id="N000147" joined="2025-04-02"/>
+    <cosponsor bioguide_id="N000193" joined="2025-09-26"/>
     <cosponsor bioguide_id="P000048" joined="2025-04-02"/>
     <cosponsor bioguide_id="R000600" joined="2025-04-02"/>
     <cosponsor bioguide_id="R000610" joined="2025-09-09"/>
@@ -79,8 +86,10 @@
     <cosponsor bioguide_id="V000138" joined="2025-04-07"/>
     <cosponsor bioguide_id="W000814" joined="2025-09-16"/>
     <cosponsor bioguide_id="W000829" joined="2025-07-23"/>
+    <cosponsor bioguide_id="W000816" joined="2025-09-26"/>
     <cosponsor bioguide_id="W000809" joined="2025-09-23"/>
     <cosponsor bioguide_id="Y000067" joined="2025-06-10"/>
+    <cosponsor bioguide_id="Z000018" joined="2025-09-26"/>
   </cosponsors>
   <actions>
     <action datetime="2025-04-02">
@@ -104,9 +113,15 @@
     <action datetime="2025-07-23" state="REPORTED">
       <text>Ordered to be Reported (Amended) by Voice Vote.</text>
     </action>
+    <action datetime="2025-09-26">
+      <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-310.</text>
+    </action>
+    <calendar datetime="2025-09-26" calendar="Union" number="264">
+      <text>Placed on the Union Calendar, Calendar No. 264.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>
