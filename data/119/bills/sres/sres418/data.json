@@ -2,6 +2,13 @@
   "actions": [
     {
       "acted_at": "2025-09-19",
+      "action_code": "10000",
+      "references": [],
+      "text": "Introduced in Senate",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19",
       "action_code": "10025",
       "committees": [
         "SSEV"
@@ -25,6 +32,28 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on Environment and Public Works.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-09-29",
+      "action_code": "",
+      "committees": [
+        "SSEV"
+      ],
+      "references": [],
+      "text": "Senate Committee on Environment and Public Works discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-29",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -35,6 +64,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Environment and Public Works",
@@ -346,9 +376,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-09-19",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-09-29",
     "vetoed": false
   },
   "introduced_at": "2025-09-19",
@@ -372,8 +405,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-09-19",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-09-29",
   "subjects": [
     "Environmental protection"
   ],
@@ -395,6 +428,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-09-24T16:35:17Z",
+  "updated_at": "2025-09-30T10:56:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres418.xml"
 }
