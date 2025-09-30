@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="1333" updated="2025-09-30T10:58:15Z">
+<bill session="119" type="s" number="1333" updated="2025-09-30T14:54:25Z">
   <state datetime="2025-09-29">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-09-29"/>
@@ -24,9 +24,11 @@
     </action>
     <action datetime="2025-09-29">
       <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+      <reference ref="CR S6843-6844" label="consideration"/>
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2025-09-29" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S6843-6844" label="text"/>
     </vote>
   </actions>
   <committees>
