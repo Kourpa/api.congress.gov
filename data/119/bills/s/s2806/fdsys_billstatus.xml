@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2806</number>
-    <updateDate>2025-09-23T15:02:42Z</updateDate>
-    <updateDateIncludingText>2025-09-23T15:02:42Z</updateDateIncludingText>
+    <updateDate>2025-09-30T11:08:16Z</updateDate>
+    <updateDateIncludingText>2025-09-30T11:08:16Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -12,6 +12,32 @@
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/2806</legislationUrl>
     <actions>
+      <item>
+        <actionDate>2025-09-29</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion by Senator Thune to reconsider the motion to proceed the vote by which cloture on the motion to proceed to S. 2806 was not invoked (Record Vote No. 533) made in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-09-29</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 37 - 61. Record Vote Number: 533.</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>533</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00533.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2025-09-30T01:31:35Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
       <item>
         <actionDate>2025-09-19</actionDate>
         <sourceSystem>
@@ -46,15 +72,6 @@
       </item>
       <item>
         <actionDate>2025-09-15</actionDate>
-        <type>IntroReferral</type>
-        <actionCode>Intro-S</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
-      </item>
-      <item>
-        <actionDate>2025-09-15</actionDate>
         <text>Introduced in Senate</text>
         <type>IntroReferral</type>
         <actionCode>10000</actionCode>
@@ -75,6 +92,28 @@
         <isByRequest>N</isByRequest>
       </item>
     </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>L000577</bioguideId>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Lee</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <sponsorshipDate>2025-09-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <sponsorshipDate>2025-09-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
     <policyArea>
       <name>Economics and Public Finance</name>
     </policyArea>
@@ -108,7 +147,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Eliminate Shutdowns Act</title>
-        <updateDate>2025-09-20T11:03:14Z</updateDate>
+        <updateDate>2025-09-30T11:03:16Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) from PCS (Placed on Senate Calendar) bill text</titleType>
@@ -127,6 +166,59 @@
         <updateDate>2025-09-16T10:56:15Z</updateDate>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>3913</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2025-09-30T11:08:16Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>P000603</bioguideId>
+            <fullName>Sen. Paul, Rand [R-KY]</fullName>
+            <firstName>Rand</firstName>
+            <lastName>Paul</lastName>
+            <party>R</party>
+            <state>KY</state>
+          </item>
+        </sponsors>
+        <submittedDate>2025-09-29T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>2806</number>
+          <title>Eliminate Shutdowns Act</title>
+          <updateDateIncludingText>2025-09-30</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2025-09-29</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-09-29</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Placed on Calendar Senate</type>
@@ -139,8 +231,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-19</actionDate>
-      <text>Cloture motion on the motion to proceed to the measure presented in Senate. (: CR S6799)</text>
+      <actionDate>2025-09-29</actionDate>
+      <text>Motion by Senator Thune to reconsider the motion to proceed the vote by which cloture on the motion to proceed to S. 2806 was not invoked (Record Vote No. 533) made in Senate.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2806" updated="2025-09-23T15:02:42Z">
-  <state datetime="2025-09-15">INTRODUCED</state>
+<bill session="119" type="s" number="2806" updated="2025-09-30T11:08:16Z">
+  <state datetime="2025-09-29">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <introduced datetime="2025-09-15"/>
+    <unknown datetime="2025-09-29"/>
   </status>
   <introduced datetime="2025-09-15"/>
   <titles>
@@ -10,7 +10,10 @@
     <title type="official" as="introduced">A bill to provide for automatic continuing appropriations.</title>
   </titles>
   <sponsor bioguide_id="J000293"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000577" joined="2025-09-29"/>
+    <cosponsor bioguide_id="S001217" joined="2025-09-29"/>
+  </cosponsors>
   <actions>
     <action datetime="2025-09-15">
       <text>Introduced in Senate</text>
@@ -29,6 +32,12 @@
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
       <reference ref="CR S6799" label=""/>
     </action>
+    <vote-aux how="roll" type="cloture" roll="533" datetime="2025-09-29" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 37 - 61. Record Vote Number: 533.</text>
+    </vote-aux>
+    <action datetime="2025-09-29">
+      <text>Motion by Senator Thune to reconsider the motion to proceed the vote by which cloture on the motion to proceed to S. 2806 was not invoked (Record Vote No. 533) made in Senate.</text>
+    </action>
   </actions>
   <committees/>
   <relatedbills/>
@@ -39,5 +48,7 @@
     <term name="Executive agency funding and structure"/>
     <term name="Government information and archives"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s3913"/>
+  </amendments>
 </bill>
