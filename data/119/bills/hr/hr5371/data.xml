@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5371" updated="2025-09-30T16:18:22Z">
-  <state datetime="2025-09-19">FAIL:SECOND:SENATE</state>
+<bill session="119" type="h" number="5371" updated="2025-10-01T10:56:24Z">
+  <state datetime="2025-09-30">FAIL:SECOND:SENATE</state>
   <status>
-    <unknown datetime="2025-09-19"/>
+    <unknown datetime="2025-09-30"/>
   </status>
   <introduced datetime="2025-09-16"/>
   <titles>
@@ -88,6 +88,15 @@
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
       <reference ref="CR S6842" label=""/>
     </action>
+    <action datetime="2025-09-30">
+      <text>Motion to proceed to consideration of the vote by which H.R. 5371 failed of passage (Record Vote No. 528) agreed to in Senate by Voice Vote.</text>
+    </action>
+    <action datetime="2025-09-30">
+      <text>Motion by Senator Thune to reconsider the vote by which H.R. 5371 failed of passage (Record Vote No. 528) agreed to in Senate by Voice Vote.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="535" datetime="2025-09-30" where="s" result="fail" state="FAIL:SECOND:SENATE">
+      <text>Upon reconsideration, under the order of 9/18/25, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 55 - 45. Record Vote Number: 535.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Unknown, Unknown, Referred To"/>
