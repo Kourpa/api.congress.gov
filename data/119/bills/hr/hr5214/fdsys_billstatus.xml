@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5214</number>
-    <updateDate>2025-09-16T13:50:33Z</updateDate>
-    <updateDateIncludingText>2025-09-16T13:50:33Z</updateDateIncludingText>
+    <updateDate>2025-10-01T08:05:35Z</updateDate>
+    <updateDateIncludingText>2025-10-01T08:05:35Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -22,6 +22,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-09-30T16:17:35Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-09-10T16:39:12Z</date>
           </item>
@@ -33,6 +37,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-09-30</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 269.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00269</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-09-30</actionDate>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-315.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-30</actionDate>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-315.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-09-10</actionDate>
         <committees>
@@ -180,13 +229,23 @@
         <updateDate>2025-09-10T12:09:19Z</updateDate>
       </policyArea>
     </subjects>
-    <title>District of Columbia Cash Bail Reform Act</title>
+    <title>District of Columbia Cash Bail Reform Act of 2025</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>District of Columbia Cash Bail Reform Act</title>
-        <updateDate>2025-09-09T08:23:24Z</updateDate>
+        <title>District of Columbia Cash Bail Reform Act of 2025</title>
+        <updateDate>2025-10-01T04:53:15Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>District of Columbia Cash Bail Reform Act of 2025</title>
+        <updateDate>2025-10-01T04:53:14Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -207,6 +266,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-09-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr5214rh/xml/BILLS-119hr5214rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-09-08T04:00:00Z</date>
         <formats>
@@ -217,8 +285,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-10</actionDate>
-      <text>Ordered to be Reported by the Yeas and Nays: 26 - 19.</text>
+      <actionDate>2025-09-30</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 269.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

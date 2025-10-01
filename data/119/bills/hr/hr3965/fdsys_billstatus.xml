@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3965</number>
-    <updateDate>2025-09-29T16:20:12Z</updateDate>
-    <updateDateIncludingText>2025-09-29T16:20:12Z</updateDateIncludingText>
+    <updateDate>2025-10-01T08:05:31Z</updateDate>
+    <updateDateIncludingText>2025-10-01T08:05:31Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -34,6 +34,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-09-30T16:15:49Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-06-25T16:58:24Z</date>
           </item>
@@ -49,6 +53,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-09-30</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 268.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00268</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-09-30</actionDate>
+        <text>Reported by the Committee on Homeland Security. H. Rept. 119-314.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hshm00</systemCode>
+            <name>Homeland Security Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-09-30</actionDate>
+        <text>Reported by the Committee on Homeland Security. H. Rept. 119-314.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hshm00</systemCode>
+            <name>Homeland Security Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-06-25</actionDate>
         <committees>
@@ -343,6 +392,26 @@
     <title>PEARL Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>PEARL Act</title>
+        <updateDate>2025-10-01T04:53:14Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Providing Emotional Assistance with Relief and Love Act</title>
+        <updateDate>2025-10-01T04:53:14Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>PEARL Act</title>
@@ -375,6 +444,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-09-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr3965rh/xml/BILLS-119hr3965rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-06-12T04:00:00Z</date>
         <formats>
@@ -385,8 +463,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-25</actionDate>
-      <text>Ordered to be Reported by Voice Vote.</text>
+      <actionDate>2025-09-30</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 268.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
