@@ -17,6 +17,20 @@
     {
       "acted_at": "2025-09-19",
       "action_code": "",
+      "references": [],
+      "text": "Considered read the second time.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19",
+      "action_code": "",
+      "references": [],
+      "text": "Under the order of 9/18/2025 considered read the third time.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-19",
+      "action_code": "",
       "how": "roll",
       "references": [],
       "result": "fail",
@@ -36,7 +50,7 @@
           "type": "consideration"
         }
       ],
-      "text": "Motion to reconsider by Senator Schumer, under the order of 9/19/25 not having voted on the prevailing side, the vote by which S. 2882 failed of passage (Record Vote No. 527) entered in Senate.",
+      "text": "Motion to reconsider by Senator Schumer, under the order of 9/19/2025 not having voted on the prevailing side, the vote by which S. 2882 failed of passage (Record Vote No. 527) entered in Senate.",
       "type": "action"
     },
     {
@@ -48,7 +62,7 @@
           "type": ""
         }
       ],
-      "text": "Under the order of 9/19/25, the third reading was vitiated and the bill was read the second time.",
+      "text": "Under the order of 9/19/2025, the third reading was vitiated.",
       "type": "action"
     },
     {
@@ -114,10 +128,30 @@
       "result": "fail",
       "roll": "534",
       "status": "FAIL:ORIGINATING:SENATE",
-      "text": "Upon reconsideration, under the order of 9/18/25, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 534.",
+      "text": "Upon reconsideration, under the order of 9/18/2025, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 534.",
       "type": "vote",
       "vote_type": "vote",
       "where": "s"
+    },
+    {
+      "acted_at": "2025-10-01",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "536",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 536.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-10-01",
+      "action_code": "",
+      "references": [],
+      "text": "Motion by Senator Schumer to reconsider, under the order of 10/1/2025, not having voted on the prevailing side, the vote by which cloture on the motion to proceed to S. 2882 was not invoked (Record Vote No. 536) entered in Senate.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -134,6 +168,8 @@
     "active_at": "2025-09-18",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_cloture_result": "fail",
+    "senate_cloture_result_at": "2025-10-01",
     "senate_passage_result": "fail",
     "senate_passage_result_at": "2025-09-30",
     "vetoed": false
@@ -159,8 +195,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "FAIL:ORIGINATING:SENATE",
-  "status_at": "2025-09-30",
+  "status": "PROV_KILL:CLOTUREFAILED",
+  "status_at": "2025-10-01",
   "subjects": [
     "ASEAN countries",
     "Abortion",
@@ -464,6 +500,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-01T11:03:13Z",
+  "updated_at": "2025-10-02T11:03:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2882.xml"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2882" updated="2025-10-01T11:03:13Z">
-  <state datetime="2025-09-30">FAIL:ORIGINATING:SENATE</state>
+<bill session="119" type="s" number="2882" updated="2025-10-02T11:03:15Z">
+  <state datetime="2025-10-01">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2025-09-30"/>
+    <unknown datetime="2025-10-01"/>
   </status>
   <introduced datetime="2025-09-18"/>
   <titles>
@@ -21,15 +21,21 @@
     <action datetime="2025-09-18">
       <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
     </action>
+    <action datetime="2025-09-19">
+      <text>Considered read the second time.</text>
+    </action>
+    <action datetime="2025-09-19">
+      <text>Under the order of 9/18/2025 considered read the third time.</text>
+    </action>
     <vote how="roll" type="vote" roll="527" datetime="2025-09-19" where="s" result="fail" state="FAIL:ORIGINATING:SENATE">
       <text>Under the order of 9/18/2025, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 47 - 45. Record Vote Number: 527.</text>
     </vote>
     <action datetime="2025-09-19">
-      <text>Motion to reconsider by Senator Schumer, under the order of 9/19/25 not having voted on the prevailing side, the vote by which S. 2882 failed of passage (Record Vote No. 527) entered in Senate.</text>
+      <text>Motion to reconsider by Senator Schumer, under the order of 9/19/2025 not having voted on the prevailing side, the vote by which S. 2882 failed of passage (Record Vote No. 527) entered in Senate.</text>
       <reference ref="CR S6785" label="consideration"/>
     </action>
     <action datetime="2025-09-19">
-      <text>Under the order of 9/19/25, the third reading was vitiated and the bill was read the second time.</text>
+      <text>Under the order of 9/19/2025, the third reading was vitiated.</text>
       <reference ref="CR S6785" label=""/>
     </action>
     <calendar datetime="2025-09-19" calendar="Senate Legislative" under="General Orders" number="167">
@@ -53,8 +59,14 @@
       <text>Motion by Senator Schumer to reconsider the vote by which S. 2882 failed of passage (Record Vote No. 527) agreed to in Senate by Voice Vote.</text>
     </action>
     <vote how="roll" type="vote" roll="534" datetime="2025-09-30" where="s" result="fail" state="FAIL:ORIGINATING:SENATE">
-      <text>Upon reconsideration, under the order of 9/18/25, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 534.</text>
+      <text>Upon reconsideration, under the order of 9/18/2025, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 534.</text>
     </vote>
+    <vote-aux how="roll" type="cloture" roll="536" datetime="2025-10-01" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 536.</text>
+    </vote-aux>
+    <action datetime="2025-10-01">
+      <text>Motion by Senator Schumer to reconsider, under the order of 10/1/2025, not having voted on the prevailing side, the vote by which cloture on the motion to proceed to S. 2882 was not invoked (Record Vote No. 536) entered in Senate.</text>
+    </action>
   </actions>
   <committees/>
   <relatedbills>

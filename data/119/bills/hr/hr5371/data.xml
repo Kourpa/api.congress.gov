@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5371" updated="2025-10-01T10:56:24Z">
-  <state datetime="2025-09-30">FAIL:SECOND:SENATE</state>
+<bill session="119" type="h" number="5371" updated="2025-10-02T10:56:19Z">
+  <state datetime="2025-10-01">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2025-09-30"/>
+    <unknown datetime="2025-10-01"/>
   </status>
   <introduced datetime="2025-09-16"/>
   <titles>
@@ -66,15 +66,21 @@
     <action datetime="2025-09-19">
       <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
     </action>
+    <action datetime="2025-09-19">
+      <text>Considered read the second time.</text>
+    </action>
+    <action datetime="2025-09-19">
+      <text>Under the order of 9/18/2025 considered read the third time.</text>
+    </action>
     <vote how="roll" type="vote2" roll="528" datetime="2025-09-19" where="s" result="fail" state="FAIL:SECOND:SENATE">
-      <text>Under the order of 9/18/25, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 44 - 48. Record Vote Number: 528.</text>
+      <text>Under the order of 9/18/2025, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 44 - 48. Record Vote Number: 528.</text>
       <reference ref="CR S6785" label="consideration"/>
     </vote>
     <action datetime="2025-09-19">
-      <text>Motion to reconsider by Senator Thune, under the order of 9/19/25 not having voted on the prevailing side, the vote by which H.R. 5371 failed of passage (Record Vote No. 528) entered in Senate.</text>
+      <text>Motion to reconsider by Senator Thune, under the order of 9/19/2025 not having voted on the prevailing side, the vote by which H.R. 5371 failed of passage (Record Vote No. 528) entered in Senate.</text>
     </action>
     <action datetime="2025-09-19">
-      <text>Under the order of 9/19/25, the third reading was vitiated and the bill was read the second time.</text>
+      <text>Under the order of 9/19/2025, the third reading was vitiated.</text>
       <reference ref="CR S6785" label=""/>
     </action>
     <calendar datetime="2025-09-19" calendar="Senate Legislative" under="General Orders" number="168">
@@ -95,8 +101,14 @@
       <text>Motion by Senator Thune to reconsider the vote by which H.R. 5371 failed of passage (Record Vote No. 528) agreed to in Senate by Voice Vote.</text>
     </action>
     <vote how="roll" type="vote2" roll="535" datetime="2025-09-30" where="s" result="fail" state="FAIL:SECOND:SENATE">
-      <text>Upon reconsideration, under the order of 9/18/25, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 55 - 45. Record Vote Number: 535.</text>
+      <text>Upon reconsideration, under the order of 9/18/2025, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 55 - 45. Record Vote Number: 535.</text>
     </vote>
+    <vote-aux how="roll" type="cloture" roll="537" datetime="2025-10-01" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 55 - 45. Record Vote Number: 537.</text>
+    </vote-aux>
+    <action datetime="2025-10-01">
+      <text>Motion by Senator Thune to reconsider, under the order of 10/1/2025, not having voted on the prevailing side, the vote by which cloture on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 537) entered in Senate.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Unknown, Unknown, Referred To"/>
