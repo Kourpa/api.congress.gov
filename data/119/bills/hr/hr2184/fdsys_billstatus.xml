@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2184</number>
-    <updateDate>2025-09-24T16:35:16Z</updateDate>
-    <updateDateIncludingText>2025-09-24T16:35:16Z</updateDateIncludingText>
+    <updateDate>2025-10-04T08:05:34Z</updateDate>
+    <updateDateIncludingText>2025-10-04T08:05:34Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -22,6 +22,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-10-03T20:46:01Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-03-25T16:45:31Z</date>
           </item>
@@ -33,6 +37,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-10-03</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 290.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00290</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-10-03</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-338.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-10-03</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-338.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-03-25</actionDate>
         <committees>
@@ -423,13 +472,23 @@
         <updateDate>2025-04-03T12:09:51Z</updateDate>
       </policyArea>
     </subjects>
-    <title>Firearm Due Process Protection Act</title>
+    <title>Firearm Due Process Protection Act of 2025</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>Firearm Due Process Protection Act</title>
-        <updateDate>2025-04-02T04:23:24Z</updateDate>
+        <title>Firearm Due Process Protection Act of 2025</title>
+        <updateDate>2025-10-04T05:23:16Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Firearm Due Process Protection Act of 2025</title>
+        <updateDate>2025-10-04T05:23:15Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -450,6 +509,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-10-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2184rh/xml/BILLS-119hr2184rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-18T04:00:00Z</date>
         <formats>
@@ -460,8 +528,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-25</actionDate>
-      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <actionDate>2025-10-03</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 290.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

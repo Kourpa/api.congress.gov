@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4071</number>
-    <updateDate>2025-10-01T08:06:10Z</updateDate>
-    <updateDateIncludingText>2025-10-01T08:06:10Z</updateDateIncludingText>
+    <updateDate>2025-10-04T08:05:45Z</updateDate>
+    <updateDateIncludingText>2025-10-04T08:05:45Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,22 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 107 (Monday, June 23, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. GUEST:H.R. 4071.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2889]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>hswm00</systemCode>
+        <name>Ways and Means Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-10-03T20:00:40Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-06-23T16:02:35Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hshm00</systemCode>
         <name>Homeland Security Committee</name>
@@ -34,6 +50,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-10-03T19:59:32Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-06-25T17:01:00Z</date>
           </item>
@@ -47,20 +67,85 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hswm00</systemCode>
-        <name>Ways and Means Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-06-23T16:02:35Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-10-03</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 276.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00276</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-10-03</actionDate>
+        <text>Committee on Ways and Means discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-10-03</actionDate>
+        <text>Committee on Ways and Means discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-10-03</actionDate>
+        <text>Reported by the Committee on Homeland Security. H. Rept. 119-323, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hshm00</systemCode>
+            <name>Homeland Security Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-10-03</actionDate>
+        <text>Reported by the Committee on Homeland Security. H. Rept. 119-323, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hshm00</systemCode>
+            <name>Homeland Security Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-06-25</actionDate>
         <committees>
@@ -277,6 +362,16 @@
     <title>Combatting International Drug Trafficking and Human Smuggling Partnership Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Combatting International Drug Trafficking and Human Smuggling Partnership Act of 2025</title>
+        <updateDate>2025-10-04T05:23:15Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Combatting International Drug Trafficking and Human Smuggling Partnership Act of 2025</title>
@@ -301,6 +396,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-10-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr4071rh/xml/BILLS-119hr4071rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-06-23T04:00:00Z</date>
         <formats>
@@ -311,8 +415,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-25</actionDate>
-      <text>Ordered to be Reported by Voice Vote.</text>
+      <actionDate>2025-10-03</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 276.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
