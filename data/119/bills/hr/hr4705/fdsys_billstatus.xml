@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4705</number>
-    <updateDate>2025-09-17T16:54:34Z</updateDate>
-    <updateDateIncludingText>2025-09-17T16:54:34Z</updateDateIncludingText>
+    <updateDate>2025-10-07T08:05:34Z</updateDate>
+    <updateDateIncludingText>2025-10-07T08:05:34Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,18 @@
         <name>Transportation and Infrastructure Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw02</systemCode>
+            <name>Water Resources and Environment Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-07-24T21:30:06Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -53,6 +65,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-07-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw02</systemCode>
+            <name>Water Resources and Environment Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-07-23</actionDate>
         <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -258,8 +285,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-23</actionDate>
-      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2025-07-24</actionDate>
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

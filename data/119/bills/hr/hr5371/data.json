@@ -315,6 +315,26 @@
       "references": [],
       "text": "Cloture motion on the motion to proceed presented in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-10-06",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "545",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 545.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-10-06",
+      "action_code": "",
+      "references": [],
+      "text": "Motion by Senator Thune to reconsider, under the order of 10/6/2025, not having voted on the prevailing side, the vote by which cloture on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 545) entered in Senate.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -351,7 +371,7 @@
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-09-19T10:44:49-04:00",
     "senate_cloture_result": "fail",
-    "senate_cloture_result_at": "2025-10-03",
+    "senate_cloture_result_at": "2025-10-06",
     "senate_passage_result": "fail",
     "senate_passage_result_at": "2025-09-30",
     "vetoed": false
@@ -378,7 +398,7 @@
     "type": "person"
   },
   "status": "PROV_KILL:CLOTUREFAILED",
-  "status_at": "2025-10-03",
+  "status_at": "2025-10-06",
   "subjects": [
     "Abortion",
     "Access Board",
@@ -724,6 +744,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-10-04T10:56:18Z",
+  "updated_at": "2025-10-07T10:56:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5371.xml"
 }

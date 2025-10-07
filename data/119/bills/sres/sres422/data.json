@@ -17,6 +17,28 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on Health, Education, Labor, and Pensions.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-10-06",
+      "action_code": "",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-06",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +49,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Health, Education, Labor, and Pensions",
@@ -108,9 +131,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-10-06",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-10-06",
     "vetoed": false
   },
   "introduced_at": "2025-09-30",
@@ -127,8 +153,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-09-30",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-10-06",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -148,6 +174,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-10-01T13:33:12Z",
+  "updated_at": "2025-10-07T10:56:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres422.xml"
 }

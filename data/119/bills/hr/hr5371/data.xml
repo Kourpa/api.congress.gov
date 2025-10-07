@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5371" updated="2025-10-04T10:56:18Z">
-  <state datetime="2025-10-03">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="h" number="5371" updated="2025-10-07T10:56:18Z">
+  <state datetime="2025-10-06">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2025-10-03"/>
+    <unknown datetime="2025-10-06"/>
   </status>
   <introduced datetime="2025-09-16"/>
   <titles>
@@ -123,6 +123,12 @@
     </action>
     <action datetime="2025-10-03">
       <text>Cloture motion on the motion to proceed presented in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="545" datetime="2025-10-06" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 545.</text>
+    </vote-aux>
+    <action datetime="2025-10-06">
+      <text>Motion by Senator Thune to reconsider, under the order of 10/6/2025, not having voted on the prevailing side, the vote by which cloture on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 545) entered in Senate.</text>
     </action>
   </actions>
   <committees>
