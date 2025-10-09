@@ -191,7 +191,7 @@
       "acted_at": "2025-10-03",
       "action_code": "",
       "references": [],
-      "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
+      "text": "Second cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
     },
     {
@@ -209,7 +209,7 @@
       "result": "fail",
       "roll": "544",
       "status": "PROV_KILL:CLOTUREFAILED",
-      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 544.",
+      "text": "Second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 544.",
       "type": "vote-aux",
       "vote_type": "cloture",
       "where": "s"
@@ -218,7 +218,7 @@
       "acted_at": "2025-10-06",
       "action_code": "",
       "references": [],
-      "text": "Motion by Senator Schumer to reconsider, under the order of 10/6/2025, not having voted on the prevailing side, the vote by which cloture on the motion to proceed to S. 2882 was not invoked (Record Vote No. 544) entered in Senate.",
+      "text": "Motion by Senator Schumer to reconsider, under the order of 10/6/2025, not having voted on the prevailing side, the vote by which the second cloture on the motion to proceed to S. 2882 was not invoked (Record Vote No. 544) entered in Senate.",
       "type": "action"
     },
     {
@@ -232,7 +232,7 @@
       "acted_at": "2025-10-07",
       "action_code": "",
       "references": [],
-      "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
+      "text": "Third cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
     },
     {
@@ -241,6 +241,33 @@
       "references": [],
       "text": "Motion to proceed to consideration of measure withdrawn in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to proceed to consideration of the vote by which the second cloture on the motion to proceed to the measure was not invoked (Record Vote No. 544) agreed to in Senate by Voice Vote.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "references": [],
+      "text": "Motion by Senator Schumer to reconsider the vote by which the second cloture on the motion to proceed to the measure was not invoked (Record Vote No. 544) in Senate by Voice Vote.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "550",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Upon reconsideration, the second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 550.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -258,7 +285,7 @@
     "awaiting_signature": false,
     "enacted": false,
     "senate_cloture_result": "fail",
-    "senate_cloture_result_at": "2025-10-06",
+    "senate_cloture_result_at": "2025-10-08",
     "senate_passage_result": "fail",
     "senate_passage_result_at": "2025-09-30",
     "vetoed": false
@@ -285,7 +312,7 @@
     "type": "person"
   },
   "status": "PROV_KILL:CLOTUREFAILED",
-  "status_at": "2025-10-06",
+  "status_at": "2025-10-08",
   "subjects": [
     "ASEAN countries",
     "Abortion",
@@ -589,6 +616,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-08T11:03:15Z",
+  "updated_at": "2025-10-09T11:03:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2882.xml"
 }

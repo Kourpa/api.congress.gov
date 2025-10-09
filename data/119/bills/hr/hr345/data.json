@@ -57,6 +57,27 @@
       "references": [],
       "text": "Referred to the Subcommittee on Forestry and Horticulture.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-07-23",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-23",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -65,6 +86,14 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Markup By",
+        "Referred To"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII"
+    },
     {
       "activity": [
         "Referred To"
@@ -94,13 +123,6 @@
       ],
       "committee": "House Armed Services",
       "committee_id": "HSAS"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Natural Resources",
-      "committee_id": "HSII"
     }
   ],
   "congress": "119",
@@ -188,7 +210,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-07-23",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -214,10 +237,13 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-13",
+  "status": "REPORTED",
+  "status_at": "2025-07-23",
   "subjects": [
-    "Public lands and natural resources"
+    "Fires",
+    "First responders and emergency personnel",
+    "Public lands and natural resources",
+    "State and local government operations"
   ],
   "subjects_top_term": "Public lands and natural resources",
   "summary": {
@@ -249,6 +275,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-06T14:17:56Z",
+  "updated_at": "2025-10-09T08:05:39Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr345.xml"
 }

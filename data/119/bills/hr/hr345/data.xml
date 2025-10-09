@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="345" updated="2025-06-06T14:17:56Z">
-  <state datetime="2025-01-13">REFERRED</state>
+<bill session="119" type="h" number="345" updated="2025-10-09T08:05:39Z">
+  <state datetime="2025-07-23">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-13"/>
+    <unknown datetime="2025-07-23"/>
   </status>
   <introduced datetime="2025-01-13"/>
   <titles>
@@ -39,19 +39,28 @@
     <action datetime="2025-02-14">
       <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
     </action>
+    <action datetime="2025-07-23">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-07-23" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSAG15" name="House Agriculture" subcommittee="Forestry and Horticulture" activity="Referral"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="1834" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
+    <term name="Fires"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="State and local government operations"/>
   </subjects>
   <amendments/>
   <summary date="2025-05-29T14:28:31Z" status="Introduced in House"></summary>

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>71</number>
-    <updateDate>2025-10-08T10:56:21Z</updateDate>
-    <updateDateIncludingText>2025-10-08T10:56:21Z</updateDateIncludingText>
+    <updateDate>2025-10-09T10:56:17Z</updateDate>
+    <updateDateIncludingText>2025-10-09T10:56:17Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SJRES</type>
@@ -18,6 +18,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-10-08T23:06:39Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-07-31T18:17:24Z</date>
@@ -44,6 +48,82 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-10-08</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Failed of passage in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 554.</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>554</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00554.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2025-10-08T23:47:31Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-10-08</actionDate>
+        <text>Failed of passage/not agreed to in Senate: Failed of passage in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 554.</text>
+        <type>Floor</type>
+        <actionCode>18000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>554</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00554.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2025-10-08T23:47:31Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2025-10-08</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-10-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-10-08</actionDate>
+        <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-07-31</actionDate>
         <committees>
@@ -204,8 +284,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-31</actionDate>
-      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2025-10-08</actionDate>
+      <text>Failed of passage in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 554.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

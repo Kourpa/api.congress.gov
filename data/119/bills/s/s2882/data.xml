@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2882" updated="2025-10-08T11:03:15Z">
-  <state datetime="2025-10-06">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="s" number="2882" updated="2025-10-09T11:03:14Z">
+  <state datetime="2025-10-08">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2025-10-06"/>
+    <unknown datetime="2025-10-08"/>
   </status>
   <introduced datetime="2025-09-18"/>
   <titles>
@@ -80,26 +80,35 @@
       <text>Motion to proceed to consideration of measure made in Senate.</text>
     </action>
     <action datetime="2025-10-03">
-      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <text>Second cloture motion on the motion to proceed to the measure presented in Senate.</text>
     </action>
     <action datetime="2025-10-03">
       <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
     </action>
     <vote-aux how="roll" type="cloture" roll="544" datetime="2025-10-06" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
-      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 544.</text>
+      <text>Second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 544.</text>
     </vote-aux>
     <action datetime="2025-10-06">
-      <text>Motion by Senator Schumer to reconsider, under the order of 10/6/2025, not having voted on the prevailing side, the vote by which cloture on the motion to proceed to S. 2882 was not invoked (Record Vote No. 544) entered in Senate.</text>
+      <text>Motion by Senator Schumer to reconsider, under the order of 10/6/2025, not having voted on the prevailing side, the vote by which the second cloture on the motion to proceed to S. 2882 was not invoked (Record Vote No. 544) entered in Senate.</text>
     </action>
     <action datetime="2025-10-07">
       <text>Motion to proceed to consideration of measure made in Senate.</text>
     </action>
     <action datetime="2025-10-07">
-      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <text>Third cloture motion on the motion to proceed to the measure presented in Senate.</text>
     </action>
     <action datetime="2025-10-07">
       <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
     </action>
+    <action datetime="2025-10-08">
+      <text>Motion to proceed to consideration of the vote by which the second cloture on the motion to proceed to the measure was not invoked (Record Vote No. 544) agreed to in Senate by Voice Vote.</text>
+    </action>
+    <action datetime="2025-10-08">
+      <text>Motion by Senator Schumer to reconsider the vote by which the second cloture on the motion to proceed to the measure was not invoked (Record Vote No. 544) in Senate by Voice Vote.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="550" datetime="2025-10-08" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Upon reconsideration, the second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 550.</text>
+    </vote-aux>
   </actions>
   <committees/>
   <relatedbills>

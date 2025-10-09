@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>254</number>
-    <updateDate>2025-10-08T12:06:12Z</updateDate>
-    <updateDateIncludingText>2025-10-08T12:06:12Z</updateDateIncludingText>
+    <updateDate>2025-10-09T11:03:13Z</updateDate>
+    <updateDateIncludingText>2025-10-09T11:03:13Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -39,6 +39,32 @@
       </committeeReport>
     </committeeReports>
     <actions>
+      <item>
+        <actionDate>2025-10-08</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-10-08</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-10-08</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-10-06</actionDate>
         <sourceSystem>
@@ -195,7 +221,27 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>ARTIST Act</title>
-        <updateDate>2025-10-07T11:03:16Z</updateDate>
+        <updateDate>2025-10-09T11:03:13Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <titleTypeCode>103</titleTypeCode>
+        <title>ARTIST Act</title>
+        <updateDate>2025-10-08T13:08:14Z</updateDate>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Reported to Senate</billTextVersionName>
+        <billTextVersionCode>RS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <titleTypeCode>103</titleTypeCode>
+        <title>Alaska’s Right to Ivory Sales and Tradition Act</title>
+        <updateDate>2025-10-08T13:08:14Z</updateDate>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Reported to Senate</billTextVersionName>
+        <billTextVersionCode>RS</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -224,6 +270,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported to Senate</type>
+        <date>2025-10-06T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119s254rs/xml/BILLS-119s254rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in Senate</type>
         <date>2025-01-24T05:00:00Z</date>
         <formats>
@@ -234,8 +289,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-10-06</actionDate>
-      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 178.</text>
+      <actionDate>2025-10-08</actionDate>
+      <text>Message on Senate action sent to the House.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

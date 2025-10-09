@@ -17,6 +17,36 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "committees": [
+        "SSEG"
+      ],
+      "references": [],
+      "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "554",
+      "status": "FAIL:ORIGINATING:SENATE",
+      "text": "Failed of passage in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 554.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +57,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Energy and Natural Resources",
@@ -118,9 +149,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-10-08",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "fail",
+    "senate_passage_result_at": "2025-10-08",
     "vetoed": false
   },
   "introduced_at": "2025-07-31",
@@ -144,8 +178,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-07-31",
+  "status": "FAIL:ORIGINATING:SENATE",
+  "status_at": "2025-10-08",
   "subjects": [
     "Emergency management"
   ],
@@ -167,6 +201,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-10-08T10:56:21Z",
+  "updated_at": "2025-10-09T10:56:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres71.xml"
 }

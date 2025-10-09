@@ -1,7 +1,7 @@
-<bill session="119" type="sj" number="71" updated="2025-10-08T10:56:21Z">
-  <state datetime="2025-07-31">REFERRED</state>
+<bill session="119" type="sj" number="71" updated="2025-10-09T10:56:17Z">
+  <state datetime="2025-10-08">FAIL:ORIGINATING:SENATE</state>
   <status>
-    <introduced datetime="2025-07-31"/>
+    <unknown datetime="2025-10-08"/>
   </status>
   <introduced datetime="2025-07-31"/>
   <titles>
@@ -26,9 +26,18 @@
     <action datetime="2025-07-31" state="REFERRED">
       <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
+    <action datetime="2025-10-08">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2025-10-08">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote" roll="554" datetime="2025-10-08" where="s" result="fail" state="FAIL:ORIGINATING:SENATE">
+      <text>Failed of passage in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 554.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="sj" number="10" relation="identical"/>

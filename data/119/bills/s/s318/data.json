@@ -49,6 +49,25 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -88,6 +107,8 @@
     "active_at": "2025-05-21",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-10-08",
     "vetoed": false
   },
   "introduced_at": "2025-01-29",
@@ -104,8 +125,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-05-21",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-10-08",
   "subjects": [
     "Advanced technology and technological innovations",
     "Computer security and identity theft",
@@ -123,34 +144,6 @@
   },
   "titles": [
     {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Accelerating Networking, Cyberinfrastructure, and Hardware for Oceanic Research Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "ANCHOR Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Accelerating Networking, Cyberinfrastructure, and Hardware for Oceanic Research Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "ANCHOR Act",
-      "type": "short"
-    },
-    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -161,10 +154,38 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "Accelerating Networking, Cyberinfrastructure, and Hardware for Oceanic Research Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "ANCHOR Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Accelerating Networking, Cyberinfrastructure, and Hardware for Oceanic Research Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "ANCHOR Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "A bill to require a plan to improve the cybersecurity and telecommunications of the U.S. Academic Research Fleet, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-03T20:06:13Z",
+  "updated_at": "2025-10-09T11:03:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s318.xml"
 }

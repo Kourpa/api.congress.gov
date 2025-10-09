@@ -127,7 +127,7 @@
       "acted_at": "2025-09-04",
       "action_code": "",
       "references": [],
-      "text": "Received in the Senate.",
+      "text": "Received in the Senate, read twice.",
       "type": "action"
     },
     {
@@ -142,6 +142,33 @@
       "action_code": "",
       "references": [],
       "text": "Measure laid before Senate by motion.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "549",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 549.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
       "type": "action"
     }
   ],
@@ -180,6 +207,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-09-03T21:27:16-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-10-08",
     "vetoed": false
   },
   "introduced_at": "2025-07-10",
@@ -188,15 +217,15 @@
   "popular_title": null,
   "related_bills": [
     {
-      "bill_id": "hres672-119",
+      "bill_id": "sjres61-119",
       "identified_by": "House",
       "reason": "related",
       "type": "bill"
     },
     {
-      "bill_id": "sjres61-119",
-      "identified_by": "CRS",
-      "reason": "identical",
+      "bill_id": "hres672-119",
+      "identified_by": "House",
+      "reason": "related",
       "type": "bill"
     }
   ],
@@ -209,8 +238,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-09-03T21:27:16-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-10-08",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Department of the Interior",
@@ -242,6 +271,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-10-08T10:56:22Z",
+  "updated_at": "2025-10-09T10:56:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres104.xml"
 }
