@@ -268,6 +268,26 @@
       "type": "vote-aux",
       "vote_type": "cloture",
       "where": "s"
+    },
+    {
+      "acted_at": "2025-10-09",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "557",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Third cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 557.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-10-09",
+      "action_code": "",
+      "references": [],
+      "text": "Motion by Senator Schumer to reconsider, under the order of 10/9/2025, not having voted on the prevailing side, the vote by which the third cloture motion on the motion to proceed to S. 2882 was not invoked (Record Vote No. 557) entered in Senate.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -285,7 +305,7 @@
     "awaiting_signature": false,
     "enacted": false,
     "senate_cloture_result": "fail",
-    "senate_cloture_result_at": "2025-10-08",
+    "senate_cloture_result_at": "2025-10-09",
     "senate_passage_result": "fail",
     "senate_passage_result_at": "2025-09-30",
     "vetoed": false
@@ -312,7 +332,7 @@
     "type": "person"
   },
   "status": "PROV_KILL:CLOTUREFAILED",
-  "status_at": "2025-10-08",
+  "status_at": "2025-10-09",
   "subjects": [
     "ASEAN countries",
     "Abortion",
@@ -616,6 +636,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-09T11:03:14Z",
+  "updated_at": "2025-10-10T11:03:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2882.xml"
 }
