@@ -17,6 +17,28 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on Homeland Security and Governmental Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-10-09",
+      "action_code": "",
+      "committees": [
+        "SSGA"
+      ],
+      "references": [],
+      "text": "Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-09",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +49,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Homeland Security and Governmental Affairs",
@@ -178,9 +201,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-10-09",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-10-09",
     "vetoed": false
   },
   "introduced_at": "2025-07-24",
@@ -197,8 +223,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-07-24",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-10-09",
   "subjects": [
     "Government operations and politics"
   ],
@@ -220,6 +246,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-09-17T21:59:02Z",
+  "updated_at": "2025-10-10T10:56:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres337.xml"
 }

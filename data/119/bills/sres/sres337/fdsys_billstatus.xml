@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>337</number>
-    <updateDate>2025-09-17T21:59:02Z</updateDate>
-    <updateDateIncludingText>2025-09-17T21:59:02Z</updateDateIncludingText>
+    <updateDate>2025-10-10T10:56:20Z</updateDate>
+    <updateDateIncludingText>2025-10-10T10:56:20Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SRES</type>
@@ -19,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-10-10T01:40:57Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-07-24T18:26:28Z</date>
           </item>
@@ -26,6 +30,54 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-10-09</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-10-09</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-10-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-10-09</actionDate>
+        <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-07-24</actionDate>
         <committees>
@@ -247,8 +299,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-24</actionDate>
-      <text>Referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2025-10-09</actionDate>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

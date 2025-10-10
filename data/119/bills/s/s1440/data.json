@@ -49,6 +49,18 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 151.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-10-09",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -86,6 +98,8 @@
     "active_at": "2025-07-30",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-10-09",
     "vetoed": false
   },
   "introduced_at": "2025-04-10",
@@ -109,8 +123,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-30",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-10-09",
   "subjects": [
     "Employee leave",
     "Government employee pay, benefits, personnel management",
@@ -121,6 +135,13 @@
   "subjects_top_term": "Health",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Uniformed Services Leave Parity Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -143,13 +164,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Uniformed Services Leave Parity Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -157,6 +171,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-10T06:53:14Z",
+  "updated_at": "2025-10-10T10:58:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1440.xml"
 }
