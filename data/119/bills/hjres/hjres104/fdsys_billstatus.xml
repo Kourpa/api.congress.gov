@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>104</number>
-    <updateDate>2025-10-09T22:02:34Z</updateDate>
-    <updateDateIncludingText>2025-10-09T22:02:34Z</updateDateIncludingText>
+    <updateDate>2025-10-10T08:05:36Z</updateDate>
+    <updateDateIncludingText>2025-10-10T08:05:36Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HJRES</type>
@@ -42,6 +42,10 @@
           <item>
             <type>Identical bill</type>
             <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
           </item>
         </relationshipDetails>
       </item>
@@ -415,6 +419,15 @@
         <formats>
           <item>
             <url>https://www.govinfo.gov/content/pkg/BILLS-119hjres104enr/xml/BILLS-119hjres104enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Received in Senate</type>
+        <date>2025-09-04T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hjres104rds/xml/BILLS-119hjres104rds.xml</url>
           </item>
         </formats>
       </item>
