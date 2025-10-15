@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5371" updated="2025-10-10T10:56:20Z">
-  <state datetime="2025-10-09">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="h" number="5371" updated="2025-10-15T10:56:17Z">
+  <state datetime="2025-10-14">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2025-10-09"/>
+    <unknown datetime="2025-10-14"/>
   </status>
   <introduced datetime="2025-09-16"/>
   <titles>
@@ -122,7 +122,7 @@
       <text>Motion to proceed to consideration of measure made in Senate.</text>
     </action>
     <action datetime="2025-10-03">
-      <text>Second cloture motion on the motion to proceed presented in Senate.</text>
+      <text>Second cloture motion on the motion to proceed to the measure presented in Senate.</text>
     </action>
     <vote-aux how="roll" type="cloture" roll="545" datetime="2025-10-06" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
       <text>Second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 545.</text>
@@ -149,13 +149,28 @@
       <text>Third cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 558.</text>
     </vote-aux>
     <action datetime="2025-10-09">
-      <text>Motion by Senator Thune to reconsider, under the order of 10/9/2025, not having voted on the prevailing side, the vote by which the third cloture motion on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 558) entered in Senate.</text>
+      <text>Motion by Senator Thune to reconsider the vote by which the fourth cloture motion on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 558) entered in Senate.</text>
     </action>
     <action datetime="2025-10-09">
       <text>Motion to proceed to consideration of measure made in Senate.</text>
     </action>
     <action datetime="2025-10-09">
       <text>Fourth cloture motion on the motion to proceed to the measure presented in Senate.</text>
+    </action>
+    <action datetime="2025-10-14">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="571" datetime="2025-10-14" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Fourth cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 49 - 45. Record Vote Number: 571.</text>
+    </vote-aux>
+    <action datetime="2025-10-14">
+      <text>Motion by Senator Thune to reconsider the vote by which the fourth cloture on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 571) entered in Senate.</text>
+    </action>
+    <action datetime="2025-10-14">
+      <text>Fifth cloture motion on the motion to proceed to the measure presented in Senate.</text>
+    </action>
+    <action datetime="2025-10-14">
+      <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
     </action>
   </actions>
   <committees>
