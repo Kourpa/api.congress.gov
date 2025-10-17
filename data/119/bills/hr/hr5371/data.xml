@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5371" updated="2025-10-16T10:56:18Z">
-  <state datetime="2025-10-15">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="h" number="5371" updated="2025-10-17T10:56:16Z">
+  <state datetime="2025-10-16">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2025-10-15"/>
+    <unknown datetime="2025-10-16"/>
   </status>
   <introduced datetime="2025-09-16"/>
   <titles>
@@ -176,14 +176,23 @@
       <text>Motion to proceed to consideration of measure made in Senate.</text>
     </action>
     <action datetime="2025-10-15">
-      <text>Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.</text>
-    </action>
-    <action datetime="2025-10-15">
       <text>Motion by Senator Murkowski to reconsider the vote by which the third cloture on the motion to proceed to the measure was not invoked (Record Vote No. 558) agreed to in Senate by Voice Vote.</text>
     </action>
     <vote-aux how="roll" type="cloture" roll="572" datetime="2025-10-15" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
       <text>Upon reconsideration, the third cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 44. Record Vote Number: 572.</text>
     </vote-aux>
+    <action datetime="2025-10-16">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="573" datetime="2025-10-16" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Fifth cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 45. Record Vote Number: 573.</text>
+    </vote-aux>
+    <action datetime="2025-10-16">
+      <text>Motion by Senator Thune to reconsider the vote by which the fifth cloture on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 573) entered in Senate.</text>
+    </action>
+    <action datetime="2025-10-16">
+      <text>Sixth cloture motion on the motion to proceed to the measure presented in Senate.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Unknown, Unknown, Referred To"/>

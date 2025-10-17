@@ -531,6 +531,26 @@
       "references": [],
       "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-10-16",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "575",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 44. Record Vote Number: 575.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-10-16",
+      "action_code": "",
+      "references": [],
+      "text": "Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to H.R. 4016 was not invoked (Record Vote No. 575) entered in Senate.",
+      "type": "action"
     }
   ],
   "amendments": [
@@ -682,6 +702,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-07-18T00:45:40-04:00",
+    "senate_cloture_result": "fail",
+    "senate_cloture_result_at": "2025-10-16",
     "vetoed": false
   },
   "introduced_at": "2025-06-16",
@@ -711,8 +733,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-07-18T00:45:40-04:00",
+  "status": "PROV_KILL:CLOTUREFAILED",
+  "status_at": "2025-10-16",
   "subjects": [
     "Africa",
     "American Samoa",
@@ -847,6 +869,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-15T10:56:18Z",
+  "updated_at": "2025-10-17T10:56:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4016.xml"
 }
