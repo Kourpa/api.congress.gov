@@ -1,7 +1,7 @@
-<bill session="119" type="hc" number="14" updated="2025-04-08T11:08:21Z">
-  <state datetime="2025-04-05">PASS_BACK:SENATE</state>
+<bill session="119" type="hc" number="14" updated="2025-10-09T03:26:16Z">
+  <state datetime="2025-04-10T11:11:09-04:00">PASSED:CONCURRENTRES</state>
   <status>
-    <unknown datetime="2025-04-05"/>
+    <unknown datetime="2025-04-10T11:11:09-04:00"/>
   </status>
   <introduced datetime="2025-02-18"/>
   <titles>
@@ -11,12 +11,6 @@
   <sponsor bioguide_id="A000375"/>
   <cosponsors/>
   <actions>
-    <action datetime="2025-02-18">
-      <text>Submitted in House</text>
-    </action>
-    <action datetime="2025-02-18">
-      <text>Reported in House</text>
-    </action>
     <action datetime="2025-02-18">
       <text>The House Committee on the Budget reported an original measure, H. Rept. 119-4, by Mr. Arrington.</text>
     </action>
@@ -63,7 +57,7 @@
       <reference ref="CR H818-823" label="text"/>
     </vote>
     <calendar datetime="2025-04-02" calendar="Senate Legislative" under="General Orders" number="38">
-      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 38.</text>
+      <text>Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 38.</text>
     </calendar>
     <action datetime="2025-04-03">
       <text>Motion to proceed to consideration of measure made in Senate.</text>
@@ -86,13 +80,46 @@
     <action datetime="2025-04-07">
       <text>Message on Senate action sent to the House.</text>
     </action>
+    <action datetime="2025-04-09T16:32:48-04:00">
+      <text>Pursuant to the provisions of H. Res. 313, Mr. Arrington called up the Senate amendment to H. Con. Res. 14.</text>
+    </action>
+    <action datetime="2025-04-09T16:32:51-04:00">
+      <text>Mr. Arrington moved that the House agree to the Senate amendment.</text>
+      <reference ref="CR H1533-1550: 2" label="consideration"/>
+    </action>
+    <action datetime="2025-04-09T16:32:52-04:00">
+      <text>Mr. Arrington moved that the House agree to the Senate amendment to H. Con. Res. 14.</text>
+    </action>
+    <action datetime="2025-04-09T16:33:11-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 313, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H. Con. Res. 14.</text>
+    </action>
+    <action datetime="2025-04-09T18:10:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-04-09T18:10:09-04:00">
+      <text>POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced further proceedings on H. Con. Res. 14 would be postponed.</text>
+    </action>
+    <action datetime="2025-04-10T10:33:58-04:00">
+      <text>Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H. Con. Res. 14.</text>
+      <reference ref="CR H1579-1580: 2" label="consideration"/>
+    </action>
+    <vote how="roll" type="pingpong" roll="100" datetime="2025-04-10T11:11:09-04:00" where="h" result="pass" state="PASSED:CONCURRENTRES">
+      <text>On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 216 - 214 (Roll no. 100).</text>
+      <reference ref="4/9/2025 CR H1533-1540" label="text"/>
+    </vote>
+    <action datetime="2025-04-10T11:11:11-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2025-05-20">
+      <text>Star Print ordered on the reported concurrent resolution.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Reported Original Measure"/>
   </committees>
   <relatedbills>
     <bill session="119" type="sc" number="7" relation="unknown"/>
-    <bill session="119" type="hr" number="161" relation="procedurally-related"/>
+    <bill session="119" type="hr" number="161" relation="procedurally related"/>
   </relatedbills>
   <subjects>
     <term name="Economics and public finance"/>
