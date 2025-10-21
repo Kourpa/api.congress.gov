@@ -1,10 +1,42 @@
 {
   "actions": [
     {
+      "acted_at": "2025-10-09",
+      "action_code": "",
+      "how": "Voice Vote",
+      "references": [],
+      "result": "pass",
+      "text": "Amendment SA 3788 agreed to in Senate by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-10-09",
+      "action_code": "",
+      "references": [],
+      "text": "Amendment SA 3788 proposed by Senator Wicker for Senator Ricketts to Amendment SA 3748. To make improvements to the AUKUS partnership.",
+      "type": "action"
+    },
+    {
       "acted_at": "2025-09-04",
       "action_code": "Intro-S",
       "references": [],
       "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-09",
+      "action_code": "93000",
+      "references": [],
+      "text": "Senate amendment proposed (on the floor): Amendment SA 3788 proposed by Senator Wicker for Senator Ricketts to Amendment SA 3748.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-09",
+      "action_code": "94000",
+      "references": [],
+      "text": "Senate amendment agreed to: Amendment SA 3788 agreed to in Senate by Voice Vote.",
       "type": "action"
     },
     {
@@ -17,7 +49,14 @@
   ],
   "amendment_id": "samdt3788-119",
   "amendment_type": "samdt",
-  "amends_amendment": null,
+  "amends_amendment": {
+    "amendment_id": "samdt3748-119",
+    "amendment_type": "samdt",
+    "congress": 119,
+    "description": "",
+    "number": 3748,
+    "purpose": "In the nature of a substitute."
+  },
   "amends_bill": {
     "bill_id": "s2296-119",
     "bill_type": "s",
@@ -29,7 +68,8 @@
   "congress": "119",
   "introduced_at": "2025-09-04",
   "number": 3788,
-  "purpose": null,
+  "proposed_at": "2025-10-09T04:00:00Z",
+  "purpose": "To make improvements to the AUKUS partnership.",
   "sponsor": {
     "bioguide_id": "R000618",
     "district": null,
@@ -38,7 +78,7 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2025-09-04",
-  "updated_at": "2025-09-11T19:00:26Z"
+  "status": "pass",
+  "status_at": "2025-10-09",
+  "updated_at": "2025-10-10T11:08:25Z"
 }

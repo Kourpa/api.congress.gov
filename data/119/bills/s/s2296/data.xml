@@ -1,19 +1,54 @@
-<bill session="119" type="s" number="2296" updated="2025-09-25T11:08:18Z">
-  <state datetime="2025-07-15">REPORTED</state>
+<bill session="119" type="s" number="2296" updated="2025-10-21T11:23:16Z">
+  <state datetime="2025-10-09">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-07-15"/>
+    <unknown datetime="2025-10-09"/>
   </status>
   <introduced datetime="2025-07-15"/>
   <titles>
-    <title type="display">National Defense Authorization Act for Fiscal Year 2026</title>
     <title type="short" as="reported to senate">National Defense Authorization Act for Fiscal Year 2026</title>
     <title type="short" as="reported to senate" partial="1">Atomic Energy Testing Liability Act</title>
     <title type="short" as="reported to senate" partial="1">Military Construction Authorization Act for Fiscal Year 2026</title>
+    <title type="short" as="passed senate">National Defense Authorization Act for Fiscal Year 2026</title>
+    <title type="short" as="passed senate" partial="1">Abducted Ukrainian Children Recovery and Accountability Act</title>
+    <title type="short" as="passed senate" partial="1">Atomic Energy Testing Liability Act</title>
+    <title type="short" as="passed senate" partial="1">AUKUS Improvement Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">CDFI Bond Guarantee Program Improvement Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Coast Guard Authorization Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Combating PRC Overseas and Unlawful Networked Threats through Enhanced Resilience Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">COUNTER Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Defending International Security by Restricting Unacceptable Partnerships and Tactics Act</title>
+    <title type="short" as="passed senate" partial="1">Department of State Authorization Act for Fiscal Year 2026</title>
+    <title type="short" as="passed senate" partial="1">DETERRENCE Act</title>
+    <title type="short" as="passed senate" partial="1">DFC Modernization and Reauthorization Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">DISRUPT Act</title>
+    <title type="short" as="passed senate" partial="1">FIGHT China Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Fighting Foreign Illegal Seafood Harvests Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Foreign Investment Guardrails to Help Thwart China Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">GAIN AI Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Guaranteeing Access and Innovation for National Artificial Intelligence Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Holding Foreign Insiders Accountable Act</title>
+    <title type="short" as="passed senate" partial="1">Intelligence Authorization Act for Fiscal Year 2026</title>
+    <title type="short" as="passed senate" partial="1">International Nuclear Energy Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Mapping America's Pharmaceutical Supply Act</title>
+    <title type="short" as="passed senate" partial="1">MAPS Act</title>
+    <title type="short" as="passed senate" partial="1">Military Construction Authorization Act for Fiscal Year 2026</title>
+    <title type="short" as="passed senate" partial="1">PAID OFF Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Preventing Adversary Influence, Disinformation, and Obscured Foreign Financing Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Preventing Child Trafficking Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Renewing Opportunity in the American Dream to Housing Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Retired Law Enforcement Officers Continuing Service Act</title>
+    <title type="short" as="passed senate" partial="1">ROAD to Housing Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Taiwan Non-Discrimination Act of 2025</title>
+    <title type="short" as="passed senate" partial="1">Western Balkans Democracy and Prosperity Act</title>
+    <title type="display">National Defense Authorization Act for Fiscal Year 2026</title>
     <title type="official" as="introduced">An original bill to authorize appropriations for fiscal year 2026 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="W000437"/>
   <cosponsors/>
   <actions>
+    <action datetime="2025-07-15">
+      <text>Introduced in Senate</text>
+    </action>
     <action datetime="2025-07-15" state="REPORTED">
       <text>Committee on Armed Services. Original measure reported to Senate by Senator Wicker. With written report No. 119-39.</text>
     </action>
@@ -78,6 +113,31 @@
       <text>Considered by Senate.</text>
       <reference ref="CR S6781-6784" label="consideration"/>
     </action>
+    <action datetime="2025-09-29">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S6805-6813" label="consideration"/>
+    </action>
+    <action datetime="2025-09-30">
+      <text>Considered by Senate.</text>
+    </action>
+    <action datetime="2025-10-01">
+      <text>Considered by Senate.</text>
+    </action>
+    <action datetime="2025-10-06">
+      <text>Considered by Senate.</text>
+    </action>
+    <action datetime="2025-10-08">
+      <text>Considered by Senate.</text>
+    </action>
+    <action datetime="2025-10-09">
+      <text>Considered by Senate.</text>
+    </action>
+    <action datetime="2025-10-09">
+      <text>Motion by Senator Thune to recommit to Senate Committee on Armed Services with instructions to report back forthwith with the following amendment (SA 3866) withdrawn in Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="570" datetime="2025-10-09" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate under the order of 10/9/2025, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 77 - 20. Record Vote Number: 570.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Reported Original Measure"/>
@@ -355,6 +415,19 @@
     <term name="Ukraine"/>
   </subjects>
   <amendments>
+    <amendment number="s3929"/>
+    <amendment number="s3928"/>
+    <amendment number="s3927"/>
+    <amendment number="s3926"/>
+    <amendment number="s3925"/>
+    <amendment number="s3924"/>
+    <amendment number="s3923"/>
+    <amendment number="s3922"/>
+    <amendment number="s3921"/>
+    <amendment number="s3920"/>
+    <amendment number="s3917"/>
+    <amendment number="s3915"/>
+    <amendment number="s3914"/>
     <amendment number="s3911"/>
     <amendment number="s3910"/>
     <amendment number="s3909"/>

@@ -2,6 +2,13 @@
   "actions": [
     {
       "acted_at": "2025-07-15",
+      "action_code": "10000",
+      "references": [],
+      "text": "Introduced in Senate",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-15",
       "action_code": "",
       "committee": "Armed Services",
       "committees": [
@@ -199,9 +206,157 @@
       ],
       "text": "Considered by Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-09-29",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S6805-6813",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-09-30",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-01",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-06",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-08",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-09",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-09",
+      "action_code": "",
+      "committees": [
+        "SSAS"
+      ],
+      "references": [],
+      "text": "Motion by Senator Thune to recommit to Senate Committee on Armed Services with instructions to report back forthwith with the following amendment (SA 3866) withdrawn in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-09",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "570",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate under the order of 10/9/2025, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 77 - 20. Record Vote Number: 570.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [
+    {
+      "amendment_id": "samdt3929-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3929"
+    },
+    {
+      "amendment_id": "samdt3928-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3928"
+    },
+    {
+      "amendment_id": "samdt3927-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3927"
+    },
+    {
+      "amendment_id": "samdt3926-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3926"
+    },
+    {
+      "amendment_id": "samdt3925-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3925"
+    },
+    {
+      "amendment_id": "samdt3924-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3924"
+    },
+    {
+      "amendment_id": "samdt3923-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3923"
+    },
+    {
+      "amendment_id": "samdt3922-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3922"
+    },
+    {
+      "amendment_id": "samdt3921-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3921"
+    },
+    {
+      "amendment_id": "samdt3920-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3920"
+    },
+    {
+      "amendment_id": "samdt3917-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3917"
+    },
+    {
+      "amendment_id": "samdt3915-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3915"
+    },
+    {
+      "amendment_id": "samdt3914-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3914"
+    },
     {
       "amendment_id": "samdt3911-119",
       "amendment_type": "samdt",
@@ -5455,6 +5610,8 @@
     "enacted": false,
     "senate_cloture_result": "pass",
     "senate_cloture_result_at": "2025-09-02",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-10-09",
     "vetoed": false
   },
   "introduced_at": "2025-07-15",
@@ -5580,8 +5737,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-15",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-10-09",
   "subjects": [
     "Academic performance and assessments",
     "Accounting and auditing",
@@ -5843,13 +6000,6 @@
   },
   "titles": [
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "National Defense Authorization Act for Fiscal Year 2026",
-      "type": "display"
-    },
-    {
       "as": "reported to senate",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -5871,6 +6021,237 @@
       "type": "short"
     },
     {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "National Defense Authorization Act for Fiscal Year 2026",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Abducted Ukrainian Children Recovery and Accountability Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Atomic Energy Testing Liability Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "AUKUS Improvement Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "CDFI Bond Guarantee Program Improvement Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Coast Guard Authorization Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Combating PRC Overseas and Unlawful Networked Threats through Enhanced Resilience Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "COUNTER Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Defending International Security by Restricting Unacceptable Partnerships and Tactics Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Department of State Authorization Act for Fiscal Year 2026",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "DETERRENCE Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "DFC Modernization and Reauthorization Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "DISRUPT Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "FIGHT China Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Fighting Foreign Illegal Seafood Harvests Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Foreign Investment Guardrails to Help Thwart China Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "GAIN AI Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Guaranteeing Access and Innovation for National Artificial Intelligence Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Holding Foreign Insiders Accountable Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Intelligence Authorization Act for Fiscal Year 2026",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "International Nuclear Energy Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Mapping America's Pharmaceutical Supply Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "MAPS Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Military Construction Authorization Act for Fiscal Year 2026",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "PAID OFF Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Preventing Adversary Influence, Disinformation, and Obscured Foreign Financing Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Preventing Child Trafficking Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Renewing Opportunity in the American Dream to Housing Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Retired Law Enforcement Officers Continuing Service Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "ROAD to Housing Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Taiwan Non-Discrimination Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "Western Balkans Democracy and Prosperity Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "National Defense Authorization Act for Fiscal Year 2026",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -5878,6 +6259,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-25T11:08:18Z",
+  "updated_at": "2025-10-21T11:23:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2296.xml"
 }
