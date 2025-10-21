@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3012</number>
-    <updateDate>2025-10-20T19:23:15Z</updateDate>
-    <updateDateIncludingText>2025-10-20T19:23:15Z</updateDateIncludingText>
+    <updateDate>2025-10-21T11:08:17Z</updateDate>
+    <updateDateIncludingText>2025-10-21T11:08:17Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -122,6 +122,47 @@
         <sponsorshipDate>2025-10-15</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>L000577</bioguideId>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Lee</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <sponsorshipDate>2025-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <firstName>John</firstName>
+        <lastName>Barrasso</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <sponsorshipDate>2025-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001061</bioguideId>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <firstName>John</firstName>
+        <lastName>Hoeven</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <sponsorshipDate>2025-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001243</bioguideId>
+        <fullName>Sen. McCormick, David [R-PA]</fullName>
+        <firstName>David</firstName>
+        <lastName>McCormick</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2025-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Government Operations and Politics</name>
@@ -150,7 +191,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Shutdown Fairness Act</title>
-        <updateDate>2025-10-18T03:23:14Z</updateDate>
+        <updateDate>2025-10-21T11:03:18Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) from PCS (Placed on Senate Calendar) bill text</titleType>
@@ -169,6 +210,59 @@
         <updateDate>2025-10-16T10:56:16Z</updateDate>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>3932</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2025-10-21T11:08:17Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>K000393</bioguideId>
+            <fullName>Sen. Kennedy, John [R-LA]</fullName>
+            <firstName>John</firstName>
+            <lastName>Kennedy</lastName>
+            <party>R</party>
+            <state>LA</state>
+          </item>
+        </sponsors>
+        <submittedDate>2025-10-20T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>3012</number>
+          <title>Shutdown Fairness Act</title>
+          <updateDateIncludingText>2025-10-21</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2025-10-20</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-10-20</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Placed on Calendar Senate</type>

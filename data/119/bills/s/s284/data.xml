@@ -1,12 +1,13 @@
-<bill session="119" type="s" number="284" updated="2025-10-14T22:21:33Z">
-  <state datetime="2025-01-28">REFERRED</state>
+<bill session="119" type="s" number="284" updated="2025-10-21T11:23:15Z">
+  <state datetime="2025-10-20">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-01-28"/>
+    <unknown datetime="2025-10-20"/>
   </status>
   <introduced datetime="2025-01-28"/>
   <titles>
-    <title type="display">Congressional Award Program Reauthorization Act</title>
     <title type="short" as="introduced">Congressional Award Program Reauthorization Act</title>
+    <title type="short" as="passed senate">Congressional Award Program Reauthorization Act</title>
+    <title type="display">Congressional Award Program Reauthorization Act</title>
     <title type="official" as="introduced">A bill to reauthorize the Congressional Award Act.</title>
   </titles>
   <sponsor bioguide_id="L000571"/>
@@ -22,9 +23,15 @@
     <action datetime="2025-01-28" state="REFERRED">
       <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </action>
+    <action datetime="2025-10-20">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-10-20" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="860" relation="identical"/>
