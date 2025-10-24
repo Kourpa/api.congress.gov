@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="3012" updated="2025-10-23T12:08:14Z">
-  <state datetime="2025-10-15">INTRODUCED</state>
+<bill session="119" type="s" number="3012" updated="2025-10-24T11:03:15Z">
+  <state datetime="2025-10-23">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <introduced datetime="2025-10-15"/>
+    <unknown datetime="2025-10-23"/>
   </status>
   <introduced datetime="2025-10-15"/>
   <titles>
@@ -40,6 +40,12 @@
     </action>
     <action datetime="2025-10-21">
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="585" datetime="2025-10-23" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 585.</text>
+    </vote-aux>
+    <action datetime="2025-10-23">
+      <text>Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to S. 3012 was not invoked (Record Vote No. 585) made in Senate.</text>
     </action>
   </actions>
   <committees/>
