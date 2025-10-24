@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="3001" updated="2025-10-23T02:53:15Z">
+<bill session="119" type="s" number="3001" updated="2025-10-24T15:59:17Z">
   <state datetime="2025-10-09">REFERRED</state>
   <status>
     <introduced datetime="2025-10-09"/>
@@ -29,7 +29,12 @@
   <committees>
     <committee code="SSAP" name="Senate Appropriations" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="5801" relation="unknown"/>
+    <bill session="119" type="s" number="3012" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
   <amendments/>
 </bill>

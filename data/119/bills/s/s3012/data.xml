@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="3012" updated="2025-10-24T11:03:15Z">
+<bill session="119" type="s" number="3012" updated="2025-10-24T15:58:50Z">
   <state datetime="2025-10-23">PROV_KILL:CLOTUREFAILED</state>
   <status>
     <unknown datetime="2025-10-23"/>
@@ -49,7 +49,10 @@
     </action>
   </actions>
   <committees/>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="3001" relation="unknown"/>
+    <bill session="119" type="h" number="5801" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Government operations and politics"/>
   </subjects>
