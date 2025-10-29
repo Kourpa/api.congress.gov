@@ -1,13 +1,15 @@
-<bill session="119" type="h" number="689" updated="2025-10-28T17:55:26Z">
+<bill session="119" type="h" number="689" updated="2025-10-29T08:06:14Z">
   <state datetime="2025-05-21">REPORTED</state>
   <status>
     <unknown datetime="2025-05-21"/>
   </status>
   <introduced datetime="2025-01-23"/>
   <titles>
-    <title type="display">FREE Act</title>
     <title type="short" as="introduced">FREE Act</title>
     <title type="short" as="introduced">Full Responsibility and Expedited Enforcement Act</title>
+    <title type="short" as="reported to house">FREE Act</title>
+    <title type="short" as="reported to house">Full Responsibility and Expedited Enforcement Act</title>
+    <title type="display">FREE Act</title>
     <title type="official" as="introduced">To require each agency to evaluate the permitting system of the agency, to consider whether permitting by rule could replace that system, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M001228"/>
@@ -45,9 +47,15 @@
     <action datetime="2025-05-21" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 23 - 19.</text>
     </action>
+    <action datetime="2025-10-28">
+      <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-351.</text>
+    </action>
+    <calendar datetime="2025-10-28" calendar="Union" number="303">
+      <text>Placed on the Union Calendar, Calendar No. 303.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="238" relation="identical"/>
