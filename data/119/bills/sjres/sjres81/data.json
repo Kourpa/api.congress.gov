@@ -17,6 +17,36 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Finance.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-10-28",
+      "action_code": "",
+      "committees": [
+        "SSFI"
+      ],
+      "references": [],
+      "text": "Senate Committee on Finance discharged pursuant to the order of 10/07/2025.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-28",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-28",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "594",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 52 - 48. Record Vote Number: 594.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +57,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Finance",
@@ -62,6 +93,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-09-18",
       "state": "KY",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "R000122",
+      "district": null,
+      "name": "Reed, Jack",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-10-28",
+      "state": "RI",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -128,9 +169,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-10-28",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-10-28",
     "vetoed": false
   },
   "introduced_at": "2025-09-18",
@@ -147,8 +191,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-09-18",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-10-28",
   "subjects": [
     "Foreign trade and international finance"
   ],
@@ -170,6 +214,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-10-02T10:56:19Z",
+  "updated_at": "2025-10-29T10:56:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres81.xml"
 }

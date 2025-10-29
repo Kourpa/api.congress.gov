@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5371" updated="2025-10-28T10:56:19Z">
-  <state datetime="2025-10-22">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="h" number="5371" updated="2025-10-29T10:56:19Z">
+  <state datetime="2025-10-28">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2025-10-22"/>
+    <unknown datetime="2025-10-28"/>
   </status>
   <introduced datetime="2025-09-16"/>
   <titles>
@@ -226,6 +226,18 @@
     <action datetime="2025-10-27">
       <text>Motion to proceed to consideration of measure made in Senate.</text>
     </action>
+    <action datetime="2025-10-28">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <action datetime="2025-10-28">
+      <text>Motion to proceed to consideration of the motion to reconsider the vote by which the fourth cloture on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 571) agreed to in Senate by Voice Vote.</text>
+    </action>
+    <action datetime="2025-10-28">
+      <text>Motion by Senator Thune to reconsider the vote by which the fourth cloture on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 571) agreed to in Senate by Voice Vote.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="590" datetime="2025-10-28" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Upon reconsideration, the fourth cloture on the motion to proceed to H.R. 5371 not invoked in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 590.</text>
+    </vote-aux>
   </actions>
   <committees>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Unknown, Unknown, Referred To"/>

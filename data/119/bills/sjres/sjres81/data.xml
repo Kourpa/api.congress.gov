@@ -1,7 +1,7 @@
-<bill session="119" type="sj" number="81" updated="2025-10-02T10:56:19Z">
-  <state datetime="2025-09-18">REFERRED</state>
+<bill session="119" type="sj" number="81" updated="2025-10-29T10:56:18Z">
+  <state datetime="2025-10-28">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-09-18"/>
+    <unknown datetime="2025-10-28"/>
   </status>
   <introduced datetime="2025-09-18"/>
   <titles>
@@ -13,6 +13,7 @@
     <cosponsor bioguide_id="C001113" joined="2025-09-19"/>
     <cosponsor bioguide_id="K000383" joined="2025-09-18"/>
     <cosponsor bioguide_id="P000603" joined="2025-09-18"/>
+    <cosponsor bioguide_id="R000122" joined="2025-10-28"/>
     <cosponsor bioguide_id="S000033" joined="2025-10-01"/>
     <cosponsor bioguide_id="S000148" joined="2025-09-18"/>
     <cosponsor bioguide_id="S001181" joined="2025-09-18"/>
@@ -27,9 +28,18 @@
     <action datetime="2025-09-18" state="REFERRED">
       <text>Read twice and referred to the Committee on Finance.</text>
     </action>
+    <action datetime="2025-10-28">
+      <text>Senate Committee on Finance discharged pursuant to the order of 10/07/2025.</text>
+    </action>
+    <action datetime="2025-10-28">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote" roll="594" datetime="2025-10-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 52 - 48. Record Vote Number: 594.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
+    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
