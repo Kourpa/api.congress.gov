@@ -1,7 +1,7 @@
-<bill session="119" type="sj" number="77" updated="2025-10-29T10:56:18Z">
-  <state datetime="2025-09-16">REFERRED</state>
+<bill session="119" type="sj" number="77" updated="2025-10-30T10:56:19Z">
+  <state datetime="2025-10-29">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-09-16"/>
+    <unknown datetime="2025-10-29"/>
   </status>
   <introduced datetime="2025-09-16"/>
   <titles>
@@ -34,9 +34,18 @@
     <action datetime="2025-09-16" state="REFERRED">
       <text>Read twice and referred to the Committee on Finance.</text>
     </action>
+    <action datetime="2025-10-29">
+      <text>Senate Committee on Finance discharged pursuant to the order of 10/07/2025.</text>
+    </action>
+    <action datetime="2025-10-29">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote" roll="598" datetime="2025-10-29" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 50 - 46. Record Vote Number: 598.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
+    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="sj" number="37" relation="identical"/>
