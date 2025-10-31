@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="3060" updated="2025-10-30T14:16:05Z">
+<bill session="119" type="s" number="3060" updated="2025-10-31T14:40:05Z">
   <state datetime="2025-10-28">REFERRED</state>
   <status>
     <introduced datetime="2025-10-28"/>
@@ -22,7 +22,11 @@
   <committees>
     <committee code="SSAP" name="Senate Appropriations" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="3002" relation="unknown"/>
+    <bill session="119" type="h" number="5401" relation="unknown"/>
+    <bill session="119" type="h" number="5660" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
   </subjects>
