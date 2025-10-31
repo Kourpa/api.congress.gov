@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Armed Services.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-10-30",
+      "action_code": "",
+      "committees": [
+        "SSAS"
+      ],
+      "references": [],
+      "text": "Senate Committee on Armed Services discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-30",
+      "action_code": "",
+      "committees": [
+        "SSAP"
+      ],
+      "references": [],
+      "text": "Referred to the Committee on Appropriations by unanimous consent.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -27,6 +47,14 @@
   "committees": [
     {
       "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Appropriations",
+      "committee_id": "SSAP"
+    },
+    {
+      "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Armed Services",
@@ -238,7 +266,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-10-30",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -311,6 +340,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-30T16:02:19Z",
+  "updated_at": "2025-10-31T11:03:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3002.xml"
 }

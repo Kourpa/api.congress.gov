@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="3002" updated="2025-10-30T16:02:19Z">
+<bill session="119" type="s" number="3002" updated="2025-10-31T11:03:15Z">
   <state datetime="2025-10-09">REFERRED</state>
   <status>
     <introduced datetime="2025-10-09"/>
@@ -39,9 +39,16 @@
     <action datetime="2025-10-09" state="REFERRED">
       <text>Read twice and referred to the Committee on Armed Services.</text>
     </action>
+    <action datetime="2025-10-30">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2025-10-30">
+      <text>Referred to the Committee on Appropriations by unanimous consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Referred To"/>
+    <committee code="SSAP" name="Senate Appropriations" subcommittee="" activity="Referred To"/>
+    <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="1932" relation="unknown"/>

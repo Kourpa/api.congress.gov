@@ -17,6 +17,43 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Finance.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-10-30",
+      "action_code": "",
+      "committees": [
+        "SSFI"
+      ],
+      "references": [],
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-30",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-30",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "600",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 51 - 47. Record Vote Number: 600.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-10-30",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -27,6 +64,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Finance",
@@ -98,9 +136,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-10-30",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-10-30",
     "vetoed": false
   },
   "introduced_at": "2025-10-07",
@@ -117,8 +158,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-10-07",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-10-30",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -138,6 +179,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-10-10T05:48:18Z",
+  "updated_at": "2025-10-31T10:56:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres88.xml"
 }

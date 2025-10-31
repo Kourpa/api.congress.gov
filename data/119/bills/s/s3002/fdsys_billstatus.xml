@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3002</number>
-    <updateDate>2025-10-30T16:02:19Z</updateDate>
-    <updateDateIncludingText>2025-10-30T16:02:19Z</updateDateIncludingText>
+    <updateDate>2025-10-31T11:03:15Z</updateDate>
+    <updateDateIncludingText>2025-10-31T11:03:15Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -13,11 +13,27 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/3002</legislationUrl>
     <committees>
       <item>
+        <systemCode>ssap00</systemCode>
+        <name>Appropriations Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-10-30T19:20:46Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>ssas00</systemCode>
         <name>Armed Services Committee</name>
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-10-30T19:20:24Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-10-10T01:34:26Z</date>
@@ -76,6 +92,50 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-10-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Appropriations by unanimous consent.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2025-10-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-10-30</actionDate>
+        <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-10-09</actionDate>
         <committees>
@@ -343,7 +403,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Pay Our Military Act of 2025</title>
-        <updateDate>2025-10-16T11:03:17Z</updateDate>
+        <updateDate>2025-10-31T11:03:15Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -374,8 +434,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-10-09</actionDate>
-      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <actionDate>2025-10-30</actionDate>
+      <text>Referred to the Committee on Appropriations by unanimous consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

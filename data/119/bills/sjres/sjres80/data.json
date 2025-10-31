@@ -44,6 +44,33 @@
       "references": [],
       "text": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 595.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-10-30",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-10-30",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "599",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 52 - 45. Record Vote Number: 599.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-10-30",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -80,6 +107,8 @@
     "active_at": "2025-10-28",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-10-30",
     "vetoed": false
   },
   "introduced_at": "2025-09-18",
@@ -103,8 +132,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-09-18",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-10-30",
   "subjects": [
     "Energy"
   ],
@@ -126,6 +155,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-10-30T16:05:17Z",
+  "updated_at": "2025-10-31T10:56:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres80.xml"
 }
