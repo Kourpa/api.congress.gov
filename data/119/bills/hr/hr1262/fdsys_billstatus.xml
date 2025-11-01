@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1262</number>
-    <updateDate>2025-11-01T04:38:13Z</updateDate>
-    <updateDateIncludingText>2025-11-01T04:38:13Z</updateDateIncludingText>
+    <updateDate>2025-11-01T08:05:28Z</updateDate>
+    <updateDateIncludingText>2025-11-01T08:05:28Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2025-10-31T17:36:06Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-09-17T16:03:10Z</date>
@@ -147,6 +151,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-10-31</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 304.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00304</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-10-31</actionDate>
+        <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-352.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-10-31</actionDate>
+        <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-352.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-09-17</actionDate>
         <committees>
@@ -3762,6 +3811,17 @@
         <sponsorshipDate>2025-10-28</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>S000344</bioguideId>
+        <fullName>Rep. Sherman, Brad [D-CA-32]</fullName>
+        <firstName>Brad</firstName>
+        <lastName>Sherman</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <district>32</district>
+        <sponsorshipDate>2025-10-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Health</name>
@@ -3933,8 +3993,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-17</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 47 - 0.</text>
+      <actionDate>2025-10-31</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 304.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
