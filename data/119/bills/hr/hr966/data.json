@@ -53,7 +53,18 @@
     }
   ],
   "congress": "119",
-  "cosponsors": [],
+  "cosponsors": [
+    {
+      "bioguide_id": "C001068",
+      "district": "9",
+      "name": "Cohen, Steve",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-11-04",
+      "state": "TN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    }
+  ],
   "enacted_as": null,
   "history": {
     "active": false,
@@ -78,7 +89,12 @@
   "status": "REFERRED",
   "status_at": "2025-02-04",
   "subjects": [
-    "Armed forces and national security"
+    "Armed forces and national security",
+    "Drug, alcohol, tobacco use",
+    "Health care coverage and access",
+    "Health information and medical records",
+    "Veterans' medical care",
+    "Veterans' pensions and compensation"
   ],
   "subjects_top_term": "Armed forces and national security",
   "summary": {
@@ -110,6 +126,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-03-20T18:19:20Z",
+  "updated_at": "2025-11-05T09:05:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr966.xml"
 }
