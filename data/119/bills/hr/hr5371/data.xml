@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5371" updated="2025-11-04T11:56:18Z">
-  <state datetime="2025-10-28">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="h" number="5371" updated="2025-11-05T11:56:17Z">
+  <state datetime="2025-11-04">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2025-10-28"/>
+    <unknown datetime="2025-11-04"/>
   </status>
   <introduced datetime="2025-09-16"/>
   <titles>
@@ -250,6 +250,12 @@
     <action datetime="2025-11-03">
       <text>Motion to proceed to consideration of measure made in Senate.</text>
     </action>
+    <action datetime="2025-11-04">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="603" datetime="2025-11-04" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Eighth cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 603.</text>
+    </vote-aux>
   </actions>
   <committees>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Unknown, Unknown, Referred To"/>

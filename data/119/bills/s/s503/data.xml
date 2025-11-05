@@ -1,15 +1,17 @@
-<bill session="119" type="s" number="503" updated="2025-10-07T17:26:12Z">
-  <state datetime="2025-05-21">REPORTED</state>
+<bill session="119" type="s" number="503" updated="2025-11-05T11:58:15Z">
+  <state datetime="2025-11-04">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-05-21"/>
+    <unknown datetime="2025-11-04"/>
   </status>
   <introduced datetime="2025-02-10"/>
   <titles>
+    <title type="display">NET Act</title>
     <title type="short" as="introduced">NET Act</title>
     <title type="short" as="introduced">Network Equipment Transparency Act</title>
     <title type="short" as="reported to senate">NET Act</title>
     <title type="short" as="reported to senate">Network Equipment Transparency Act</title>
-    <title type="display">NET Act</title>
+    <title type="short" as="passed senate">NET Act</title>
+    <title type="short" as="passed senate">Network Equipment Transparency Act</title>
     <title type="official" as="introduced">A bill to direct the Federal Communications Commission to evaluate and consider the impact of the telecommunications network equipment supply chain on the deployment of universal service, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="H000273"/>
@@ -34,6 +36,9 @@
     <calendar datetime="2025-09-29" calendar="Senate Legislative" under="General Orders" number="171">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 171.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-11-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>

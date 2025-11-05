@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>459</number>
-    <updateDate>2025-10-23T12:32:04Z</updateDate>
-    <updateDateIncludingText>2025-10-23T12:32:04Z</updateDateIncludingText>
+    <updateDate>2025-11-05T11:56:16Z</updateDate>
+    <updateDateIncludingText>2025-11-05T11:56:16Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SRES</type>
@@ -19,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-11-05T00:26:11Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-10-21T18:32:01Z</date>
           </item>
@@ -26,6 +30,54 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-11-04</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-11-04</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-11-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-11-04</actionDate>
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-10-21</actionDate>
         <committees>
@@ -135,8 +187,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-10-21</actionDate>
-      <text>Referred to the Committee on Foreign Relations.</text>
+      <actionDate>2025-11-04</actionDate>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
