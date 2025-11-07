@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-06",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on the Judiciary. Ordered to be reported without amendment favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -76,12 +88,32 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C001088",
+      "district": null,
+      "name": "Coons, Christopher A.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-11-06",
+      "state": "DE",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "C001098",
       "district": null,
       "name": "Cruz, Ted",
       "original_cosponsor": false,
       "sponsored_at": "2025-10-28",
       "state": "TX",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "D000563",
+      "district": null,
+      "name": "Durbin, Richard J.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-11-06",
+      "state": "IL",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -102,6 +134,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-10-14",
       "state": "NY",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "G000359",
+      "district": null,
+      "name": "Graham, Lindsey",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-11-06",
+      "state": "SC",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -188,7 +230,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-11-06",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -214,8 +257,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-22",
+  "status": "REPORTED",
+  "status_at": "2025-11-06",
   "subjects": [
     "Law"
   ],
@@ -244,6 +287,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-04T22:38:16Z",
+  "updated_at": "2025-11-07T12:03:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1884.xml"
 }

@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-06",
+      "action_code": "",
+      "committee": "Committee on Homeland Security and Governmental Affairs Senate Permanent Subcommittee on Investigations",
+      "committees": [
+        "SSGA"
+      ],
+      "references": [],
+      "text": "Committee on Homeland Security and Governmental Affairs Senate Permanent Subcommittee on Investigations. Hearings held.",
+      "type": "hearings"
     }
   ],
   "amendments": [],
@@ -25,6 +36,20 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [],
+      "committee": "Senate Homeland Security and Governmental Affairs",
+      "committee_id": "SSGA"
+    },
+    {
+      "activity": [
+        "Hearings By (subcommittee)"
+      ],
+      "committee": "Senate Homeland Security and Governmental Affairs",
+      "committee_id": "SSGA",
+      "subcommittee": "Permanent Subcommittee on Investigations",
+      "subcommittee_id": "01"
+    },
     {
       "activity": [
         "Referred To"
@@ -138,7 +163,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-11-06",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -194,6 +220,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2025-11-06T12:03:13Z",
+  "updated_at": "2025-11-07T11:56:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s976.xml"
 }
