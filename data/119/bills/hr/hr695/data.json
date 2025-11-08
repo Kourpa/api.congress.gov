@@ -79,6 +79,35 @@
       "references": [],
       "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-07",
+      "action_code": "",
+      "committees": [
+        "SSVA"
+      ],
+      "references": [],
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-07",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-11-07",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -89,6 +118,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Veterans' Affairs",
@@ -153,6 +183,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-02-26T16:36:12-05:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-11-07",
     "vetoed": false
   },
   "introduced_at": "2025-01-23",
@@ -176,8 +208,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-02-26T16:36:12-05:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-11-07",
   "subjects": [
     "Armed forces and national security",
     "Inflation and prices",
@@ -227,6 +259,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-19T20:49:08Z",
+  "updated_at": "2025-11-08T11:56:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr695.xml"
 }
