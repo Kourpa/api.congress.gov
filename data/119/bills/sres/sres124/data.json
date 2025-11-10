@@ -22,6 +22,28 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on Armed Services.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-09",
+      "action_code": "",
+      "committees": [
+        "SSAS"
+      ],
+      "references": [],
+      "text": "Senate Committee on Armed Services discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-09",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -32,6 +54,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Armed Services",
@@ -73,9 +96,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-11-09",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-11-09",
     "vetoed": false
   },
   "introduced_at": "2025-03-12",
@@ -99,8 +125,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-03-12",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-11-09",
   "subjects": [
     "Armed forces and national security"
   ],
@@ -122,6 +148,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-13T18:12:23Z",
+  "updated_at": "2025-11-10T11:56:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres124.xml"
 }

@@ -1,13 +1,14 @@
-<bill session="119" type="s" number="778" updated="2025-11-04T22:54:13Z">
-  <state datetime="2025-07-30">REPORTED</state>
+<bill session="119" type="s" number="778" updated="2025-11-10T11:58:14Z">
+  <state datetime="2025-11-09">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-07-30"/>
+    <unknown datetime="2025-11-09"/>
   </status>
   <introduced datetime="2025-02-27"/>
   <titles>
+    <title type="display">Lactation Spaces for Veteran Moms Act</title>
     <title type="short" as="introduced">Lactation Spaces for Veteran Moms Act</title>
     <title type="short" as="reported to senate">Lactation Spaces for Veteran Moms Act</title>
-    <title type="display">Lactation Spaces for Veteran Moms Act</title>
+    <title type="short" as="passed senate">Lactation Spaces for Veteran Moms Act</title>
     <title type="official" as="introduced">A bill to amend title 38, United States Code, to require a lactation space in each medical center of the Department of Veterans Affairs.</title>
   </titles>
   <sponsor bioguide_id="R000608"/>
@@ -33,6 +34,9 @@
     <calendar datetime="2025-10-22" calendar="Senate Legislative" under="General Orders" number="200">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-11-09" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Hearings By (Full Committee), Referred To"/>
