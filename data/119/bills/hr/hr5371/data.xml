@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5371" updated="2025-11-11T07:08:16Z">
-  <state datetime="2025-11-04">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="h" number="5371" updated="2025-11-11T11:56:17Z">
+  <state datetime="2025-11-10">PASS_BACK:SENATE</state>
   <status>
-    <unknown datetime="2025-11-04"/>
+    <unknown datetime="2025-11-10"/>
   </status>
   <introduced datetime="2025-09-16"/>
   <titles>
@@ -286,6 +286,33 @@
     <vote-aux how="roll" type="cloture" roll="610" datetime="2025-11-09" where="s" result="pass">
       <text>Upon reconsideration, the fifth cloture motion on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 610.</text>
     </vote-aux>
+    <action datetime="2025-11-10">
+      <text>Motion to proceed to measure considered in Senate.</text>
+    </action>
+    <action datetime="2025-11-10">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 611.</text>
+    </action>
+    <action datetime="2025-11-10">
+      <text>Measure laid before Senate by motion.</text>
+    </action>
+    <action datetime="2025-11-10">
+      <text>Motion by Senator Thune to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 3945) made in Senate.</text>
+    </action>
+    <action datetime="2025-11-10">
+      <text>Cloture motion on the measure presented in Senate.</text>
+    </action>
+    <action datetime="2025-11-10">
+      <text>Motion by Senator Thune to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 3945) fell when cloture was invoked on amendment SA 3937 in Senate.</text>
+    </action>
+    <action datetime="2025-11-10">
+      <text>Cloture on the measure, as amended, invoked in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 617.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="618" datetime="2025-11-10" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 60 - 40. Record Vote Number: 618.</text>
+    </vote>
+    <action datetime="2025-11-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Unknown, Unknown, Referred To"/>

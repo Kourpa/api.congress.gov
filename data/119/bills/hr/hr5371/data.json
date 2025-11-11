@@ -751,6 +751,81 @@
       "type": "vote-aux",
       "vote_type": "cloture",
       "where": "s"
+    },
+    {
+      "acted_at": "2025-11-10",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to proceed to measure considered in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-10",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 611.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-10",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by motion.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-10",
+      "action_code": "",
+      "committees": [
+        "SSAP"
+      ],
+      "references": [],
+      "text": "Motion by Senator Thune to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 3945) made in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-10",
+      "action_code": "",
+      "references": [],
+      "text": "Cloture motion on the measure presented in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-10",
+      "action_code": "",
+      "committees": [
+        "SSAP"
+      ],
+      "references": [],
+      "text": "Motion by Senator Thune to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 3945) fell when cloture was invoked on amendment SA 3937 in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-10",
+      "action_code": "",
+      "references": [],
+      "text": "Cloture on the measure, as amended, invoked in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 617.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-10",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "618",
+      "status": "PASS_BACK:SENATE",
+      "text": "Passed Senate with an amendment by Yea-Nay Vote. 60 - 40. Record Vote Number: 618.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-11-10",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -788,8 +863,8 @@
     "house_passage_result_at": "2025-09-19T10:44:49-04:00",
     "senate_cloture_result": "pass",
     "senate_cloture_result_at": "2025-11-09",
-    "senate_passage_result": "fail",
-    "senate_passage_result_at": "2025-09-30",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-11-10",
     "vetoed": false
   },
   "introduced_at": "2025-09-16",
@@ -813,8 +888,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PROV_KILL:CLOTUREFAILED",
-  "status_at": "2025-11-04",
+  "status": "PASS_BACK:SENATE",
+  "status_at": "2025-11-10",
   "subjects": [
     "Abortion",
     "Access Board",
@@ -1181,6 +1256,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-11T07:08:16Z",
+  "updated_at": "2025-11-11T11:56:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5371.xml"
 }
