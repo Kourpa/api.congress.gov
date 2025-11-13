@@ -1,13 +1,15 @@
-<bill session="119" type="h" number="5078" updated="2025-10-18T08:05:50Z">
+<bill session="119" type="h" number="5078" updated="2025-11-13T09:05:27Z">
   <state datetime="2025-09-03">REPORTED</state>
   <status>
     <unknown datetime="2025-09-03"/>
   </status>
   <introduced datetime="2025-09-02"/>
   <titles>
-    <title type="display">PILLAR Act</title>
     <title type="short" as="introduced">PILLAR Act</title>
     <title type="short" as="introduced">Protecting Information by Local Leaders for Agency Resilience Act</title>
+    <title type="short" as="reported to house">PILLAR Act</title>
+    <title type="short" as="reported to house">Protecting Information by Local Leaders for Agency Resilience Act</title>
+    <title type="display">PILLAR Act</title>
     <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to reauthorize the State and local cybersecurity grant program of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="O000175"/>
@@ -36,9 +38,15 @@
     <action datetime="2025-09-03" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 21 - 1.</text>
     </action>
+    <action datetime="2025-11-12">
+      <text>Reported by the Committee on Homeland Security. H. Rept. 119-377.</text>
+    </action>
+    <calendar datetime="2025-11-12" calendar="Union" number="328">
+      <text>Placed on the Union Calendar, Calendar No. 328.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSHM08" name="House Homeland Security" subcommittee="Cybersecurity and Infrastructure Protection" activity="Referral"/>
   </committees>
   <relatedbills/>

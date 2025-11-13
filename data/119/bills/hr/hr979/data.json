@@ -78,6 +78,46 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 1.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-11-12",
+      "action_code": "H12200",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-379, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-12",
+      "action_code": "H12300",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Committee on Homeland Security discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-12",
+      "action_code": "H12300",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Committee on Transportation discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-12",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "330",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 330.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -88,14 +128,7 @@
   "committees": [
     {
       "activity": [
-        "Markup By",
-        "Referred To"
-      ],
-      "committee": "House Energy and Commerce",
-      "committee_id": "HSIF"
-    },
-    {
-      "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Transportation and Infrastructure",
@@ -112,6 +145,7 @@
     },
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Homeland Security",
@@ -134,6 +168,15 @@
       "committee_id": "HSHM",
       "subcommittee": "Subcommittee on Transportation and Maritime Security",
       "subcommittee_id": "07"
+    },
+    {
+      "activity": [
+        "Reported By",
+        "Markup By",
+        "Referred To"
+      ],
+      "committee": "House Energy and Commerce",
+      "committee_id": "HSIF"
     }
   ],
   "congress": "119",
@@ -3321,14 +3364,7 @@
   "number": "979",
   "official_title": "To require the Secretary of Transportation to issue a rule requiring access to AM broadcast stations in motor vehicles, and for other purposes.",
   "popular_title": null,
-  "related_bills": [
-    {
-      "bill_id": "s315-119",
-      "identified_by": "CRS",
-      "reason": "related",
-      "type": "bill"
-    }
-  ],
+  "related_bills": [],
   "short_title": "AM Radio for Every Vehicle Act of 2025",
   "sponsor": {
     "bioguide_id": "B001257",
@@ -3381,6 +3417,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-08T09:06:02Z",
+  "updated_at": "2025-11-13T09:05:39Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr979.xml"
 }

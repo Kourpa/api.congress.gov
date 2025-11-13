@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>338</number>
-    <updateDate>2025-07-23T14:12:18Z</updateDate>
-    <updateDateIncludingText>2025-07-23T14:12:18Z</updateDateIncludingText>
+    <updateDate>2025-11-13T09:05:49Z</updateDate>
+    <updateDateIncludingText>2025-11-13T09:05:49Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-01-13</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/338</legislationUrl>
     <cdata>
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 6 (Monday, January 13, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. COSTA:H.R. 338.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the U.S. Constitution.[Page H112]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
@@ -19,6 +20,18 @@
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-11-12T21:42:57Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -28,6 +41,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-11-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-13</actionDate>
         <text>Referred to the House Committee on Natural Resources.</text>
@@ -215,8 +243,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-13</actionDate>
-      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2025-11-12</actionDate>
+      <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

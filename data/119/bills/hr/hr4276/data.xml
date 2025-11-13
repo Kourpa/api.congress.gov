@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4276" updated="2025-11-12T23:01:07Z">
+<bill session="119" type="h" number="4276" updated="2025-11-13T09:05:44Z">
   <state datetime="2025-07-02">REFERRED</state>
   <status>
     <introduced datetime="2025-07-02"/>
@@ -30,11 +30,15 @@
     <action datetime="2025-07-02">
       <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-11-12">
+      <text>Referred to the Subcommittee on Indian and Insular Affairs.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII24" name="House Natural Resources" subcommittee="Indian and Insular Affairs" activity="Referral"/>
     <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="612" relation="identical"/>

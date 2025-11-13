@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>979</number>
-    <updateDate>2025-11-08T09:06:02Z</updateDate>
-    <updateDateIncludingText>2025-11-08T09:06:02Z</updateDateIncludingText>
+    <updateDate>2025-11-13T09:05:39Z</updateDate>
+    <updateDateIncludingText>2025-11-13T09:05:39Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,22 +15,6 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 24 (Wednesday, February 5, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. BILIRAKIS:H.R. 979.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to Article 1, Section 8,Clause 18 of the Constitution of the United States.[Page H505]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
-      <item>
-        <systemCode>hsif00</systemCode>
-        <name>Energy and Commerce Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Markup By</name>
-            <date>2025-09-17T16:03:54Z</date>
-          </item>
-          <item>
-            <name>Referred To</name>
-            <date>2025-02-05T15:03:05Z</date>
-          </item>
-        </activities>
-      </item>
       <item>
         <systemCode>hspw00</systemCode>
         <name>Transportation and Infrastructure Committee</name>
@@ -49,6 +33,10 @@
           </item>
         </subcommittees>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2025-11-12T23:48:49Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-02-05T15:03:15Z</date>
@@ -84,31 +72,146 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-11-12T23:48:45Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-02-05T15:03:10Z</date>
           </item>
         </activities>
       </item>
-    </committees>
-    <relatedBills>
       <item>
-        <title>AM Radio for Every Vehicle Act of 2025</title>
-        <congress>119</congress>
-        <number>315</number>
-        <type>S</type>
-        <latestAction>
-          <actionDate>2025-04-03</actionDate>
-          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.</text>
-        </latestAction>
-        <relationshipDetails>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
           <item>
-            <type>Related bill</type>
-            <identifiedBy>CRS</identifiedBy>
+            <name>Reported By</name>
+            <date>2025-11-12T23:48:34Z</date>
           </item>
-        </relationshipDetails>
+          <item>
+            <name>Markup By</name>
+            <date>2025-09-17T16:03:54Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-02-05T15:03:05Z</date>
+          </item>
+        </activities>
       </item>
-    </relatedBills>
+    </committees>
     <actions>
+      <item>
+        <actionDate>2025-11-12</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 330.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00330</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-11-12</actionDate>
+        <text>Committee on Transportation discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-11-12</actionDate>
+        <text>Committee on Transportation discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-11-12</actionDate>
+        <text>Committee on Homeland Security discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hshm00</systemCode>
+            <name>Homeland Security Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-11-12</actionDate>
+        <text>Committee on Homeland Security discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hshm00</systemCode>
+            <name>Homeland Security Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-11-12</actionDate>
+        <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-379, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-11-12</actionDate>
+        <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-379, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-09-17</actionDate>
         <committees>
@@ -3941,8 +4044,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-17</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 1.</text>
+      <actionDate>2025-11-12</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 330.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

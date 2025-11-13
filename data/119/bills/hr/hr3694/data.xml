@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3694" updated="2025-11-08T09:06:06Z">
+<bill session="119" type="h" number="3694" updated="2025-11-13T12:12:25Z">
   <state datetime="2025-06-03">REFERRED</state>
   <status>
     <introduced datetime="2025-06-03"/>
@@ -58,6 +58,7 @@
     <cosponsor bioguide_id="N000191" joined="2025-06-25"/>
     <cosponsor bioguide_id="N000026" joined="2025-07-10"/>
     <cosponsor bioguide_id="N000189" joined="2025-06-17"/>
+    <cosponsor bioguide_id="N000188" joined="2025-11-12"/>
     <cosponsor bioguide_id="N000147" joined="2025-06-23"/>
     <cosponsor bioguide_id="N000193" joined="2025-10-06"/>
     <cosponsor bioguide_id="O000019" joined="2025-11-07"/>
@@ -99,7 +100,9 @@
   <committees>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="1932" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Housing and community development"/>
   </subjects>
