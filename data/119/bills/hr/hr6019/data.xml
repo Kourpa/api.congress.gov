@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6019" updated="2025-11-13T12:18:32Z">
+<bill session="119" type="h" number="6019" updated="2025-11-13T17:46:11Z">
   <state datetime="2025-11-12">REFERRED</state>
   <status>
     <introduced datetime="2025-11-12"/>
@@ -27,6 +27,13 @@
     <action datetime="2025-11-12">
       <text>Introduced in House</text>
     </action>
+    <action datetime="2025-11-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4597"/>
+    </action>
+    <action datetime="2025-11-12">
+      <text>Introduced in House</text>
+    </action>
     <action datetime="2025-11-12" state="REFERRED">
       <text>Referred to the House Committee on House Administration.</text>
     </action>
@@ -35,6 +42,8 @@
     <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
-  <subjects/>
+  <subjects>
+    <term name="Congress"/>
+  </subjects>
   <amendments/>
 </bill>
