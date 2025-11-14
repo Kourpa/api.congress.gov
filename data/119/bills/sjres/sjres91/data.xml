@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="91" updated="2025-10-30T09:33:16Z">
+<bill session="119" type="sj" number="91" updated="2025-11-14T14:32:27Z">
   <state datetime="2025-10-28">REFERRED</state>
   <status>
     <introduced datetime="2025-10-28"/>
@@ -23,7 +23,11 @@
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="hj" number="131" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+  </subjects>
   <amendments/>
 </bill>
