@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="5975" updated="2025-11-08T09:05:53Z">
+<bill session="119" type="h" number="5975" updated="2025-11-18T09:05:33Z">
   <state datetime="2025-11-07">REFERRED</state>
   <status>
     <introduced datetime="2025-11-07"/>
@@ -15,11 +15,15 @@
       <text>Introduced in House</text>
     </action>
     <action datetime="2025-11-07" state="REFERRED">
-      <text>Referred to the House Committee on Financial Services.</text>
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2025-11-07">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To, Referred To"/>
+    <committee code="HSRU" name="House Rules" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

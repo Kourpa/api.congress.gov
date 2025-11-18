@@ -17,6 +17,47 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Transportation and Infrastructure.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-17T16:16:34-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Babin moved to suspend the rules and agree to the resolution.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-17T16:17:12-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-17T16:17:14-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 782.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-17T16:32:02-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "suspension": null,
+      "text": "On motion to suspend the rules and agree to the resolution Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-11-17T16:32:03-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -328,9 +369,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-11-17T16:16:34-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-11-17T16:32:02-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-09-30",
@@ -347,8 +391,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-09-30",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-11-17T16:32:02-05:00",
   "subjects": [
     "Emergency management"
   ],
@@ -375,6 +419,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-14T19:27:26Z",
+  "updated_at": "2025-11-18T09:05:53Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres782.xml"
 }

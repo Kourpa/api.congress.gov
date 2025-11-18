@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5975</number>
-    <updateDate>2025-11-08T09:05:53Z</updateDate>
-    <updateDateIncludingText>2025-11-08T11:28:15Z</updateDateIncludingText>
+    <updateDate>2025-11-18T09:05:33Z</updateDate>
+    <updateDateIncludingText>2025-11-18T09:05:33Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -25,13 +25,45 @@
             <name>Referred To</name>
             <date>2025-11-07T19:01:10Z</date>
           </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-11-07T05:00:05Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsru00</systemCode>
+        <name>Rules Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-11-07T05:00:10Z</date>
+          </item>
         </activities>
       </item>
     </committees>
     <actions>
       <item>
         <actionDate>2025-11-07</actionDate>
-        <text>Referred to the House Committee on Financial Services.</text>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-11-07</actionDate>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
         <type>IntroReferral</type>
         <actionCode>H11100</actionCode>
         <sourceSystem>
@@ -95,7 +127,7 @@
     </titles>
     <latestAction>
       <actionDate>2025-11-07</actionDate>
-      <text>Referred to the House Committee on Financial Services.</text>
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

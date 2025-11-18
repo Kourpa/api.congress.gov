@@ -17,6 +17,23 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-17T20:02:19-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres879-119",
+        "sjres80-119",
+        "hjres130-119",
+        "hcres58-119",
+        "hr1949-119",
+        "hr3109-119",
+        "hr5107-119",
+        "hr5214-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 879 Reported to House. Rule provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107 and H.R. 5214. The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -37,7 +54,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-11-17T20:02:19-05:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -51,6 +69,12 @@
       "bill_id": "sjres91-119",
       "identified_by": "CRS",
       "reason": "identical",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hres879-119",
+      "identified_by": "House",
+      "reason": "related",
       "type": "bill"
     }
   ],
@@ -86,6 +110,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-14T14:32:21Z",
+  "updated_at": "2025-11-18T09:05:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres131.xml"
 }

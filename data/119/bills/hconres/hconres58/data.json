@@ -17,6 +17,24 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Financial Services.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-17T20:02:19-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres879-119",
+        "sjres80-119",
+        "hjres130-119",
+        "hjres131-119",
+        "hcres58-119",
+        "hr1949-119",
+        "hr3109-119",
+        "hr5107-119",
+        "hr5214-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 879 Reported to House. Rule provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107 and H.R. 5214. The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -176,6 +194,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "D000032",
+      "district": "19",
+      "name": "Donalds, Byron",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-11-17",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "E000298",
       "district": "4",
       "name": "Estes, Ron",
@@ -222,6 +250,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-10-24",
       "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "G000603",
+      "district": "26",
+      "name": "Gill, Brandon",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-11-17",
+      "state": "TX",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -342,6 +380,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-11-07",
       "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001228",
+      "district": "2",
+      "name": "Maloy, Celeste",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-11-17",
+      "state": "UT",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -496,6 +544,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "R000609",
+      "district": "5",
+      "name": "Rutherford, John H.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-11-17",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "S001176",
       "district": "1",
       "name": "Scalise, Steve",
@@ -542,6 +600,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-10-24",
       "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S001220",
+      "district": "5",
+      "name": "Strong, Dale W.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-11-17",
+      "state": "AL",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -618,7 +686,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-11-17T20:02:19-05:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -632,6 +701,12 @@
       "bill_id": "sconres21-119",
       "identified_by": "CRS",
       "reason": "identical",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hres879-119",
+      "identified_by": "House",
+      "reason": "related",
       "type": "bill"
     }
   ],
@@ -672,6 +747,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-17T16:47:37Z",
+  "updated_at": "2025-11-18T09:05:54Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres58.xml"
 }
