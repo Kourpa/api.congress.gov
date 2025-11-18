@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="5465" updated="2025-11-05T09:05:30Z">
+<bill session="119" type="h" number="5465" updated="2025-11-18T16:11:17Z">
   <state datetime="2025-09-18">REFERRED</state>
   <status>
     <introduced datetime="2025-09-18"/>
@@ -29,7 +29,11 @@
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSPW12" name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="2890" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
   <amendments/>
 </bill>

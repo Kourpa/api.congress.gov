@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2659" updated="2025-11-18T09:05:52Z">
+<bill session="119" type="h" number="2659" updated="2025-11-18T15:48:39Z">
   <state datetime="2025-11-17T19:04:21-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-11-17T19:04:21-05:00"/>
@@ -47,6 +47,7 @@
     </action>
     <action datetime="2025-11-17T16:47:16-05:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4682-4685" label="consideration"/>
     </action>
     <action datetime="2025-11-17T16:47:18-05:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2659.</text>
@@ -56,9 +57,11 @@
     </action>
     <action datetime="2025-11-17T18:56:39-05:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H4692" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="287" datetime="2025-11-17T19:04:21-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 8 (Roll no. 287).</text>
+      <reference ref="CR H4682-4684" label="text"/>
     </vote>
     <action datetime="2025-11-17T19:04:22-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

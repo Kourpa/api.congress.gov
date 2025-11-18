@@ -28,7 +28,12 @@
     {
       "acted_at": "2025-11-17T16:17:12-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4678-4680",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -43,7 +48,12 @@
       "acted_at": "2025-11-17T16:32:02-05:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4678",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:SIMPLERES",
       "suspension": null,
@@ -419,6 +429,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-18T09:05:53Z",
+  "updated_at": "2025-11-18T15:38:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres782.xml"
 }

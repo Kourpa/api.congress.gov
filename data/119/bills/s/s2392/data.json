@@ -86,14 +86,24 @@
     {
       "acted_at": "2025-11-17T16:01:09-05:00",
       "action_code": "H30300",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4676-4678",
+          "type": "consideration"
+        }
+      ],
       "text": "Mr. Bost moved to suspend the rules and pass the bill.",
       "type": "action"
     },
     {
       "acted_at": "2025-11-17T16:01:26-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4676-4678",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -108,7 +118,12 @@
       "acted_at": "2025-11-17T16:16:17-05:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4676",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:BILL",
       "suspension": null,
@@ -451,6 +466,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-18T09:05:41Z",
+  "updated_at": "2025-11-18T15:37:42Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2392.xml"
 }
