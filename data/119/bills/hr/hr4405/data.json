@@ -28,7 +28,12 @@
     {
       "acted_at": "2025-11-18T13:18:42-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4725-4733",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -43,7 +48,12 @@
       "acted_at": "2025-11-18T14:43:59-05:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4725",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "289",
       "status": "PASS_OVER:HOUSE",
@@ -352,7 +362,17 @@
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-11-18T14:43:59-05:00",
   "subjects": [
-    "Crime and law enforcement"
+    "Congressional oversight",
+    "Crime and law enforcement",
+    "Crime victims",
+    "Crimes against children",
+    "Criminal investigation, prosecution, interrogation",
+    "Criminal justice information and records",
+    "Department of Justice",
+    "Government information and archives",
+    "Human trafficking",
+    "Intelligence activities, surveillance, classified information",
+    "Sex offenses"
   ],
   "subjects_top_term": "Crime and law enforcement",
   "summary": {
@@ -384,6 +404,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-19T09:07:18Z",
+  "updated_at": "2025-11-19T20:01:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4405.xml"
 }
