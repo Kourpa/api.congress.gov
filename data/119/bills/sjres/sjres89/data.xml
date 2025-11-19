@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="89" updated="2025-11-18T18:02:05Z">
+<bill session="119" type="sj" number="89" updated="2025-11-19T11:56:23Z">
   <state datetime="2025-10-08">REFERRED</state>
   <status>
     <introduced datetime="2025-10-08"/>
@@ -19,9 +19,15 @@
     <action datetime="2025-10-08" state="REFERRED">
       <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
+    <action datetime="2025-11-18">
+      <text>Senate Committee on Energy and Natural Resources discharged, by petition, pursuant to 5 U.S.C. 802(c).</text>
+    </action>
+    <calendar datetime="2025-11-18" calendar="Senate Legislative" under="General Orders" number="270">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 270.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hj" number="130" relation="identical"/>

@@ -1,7 +1,7 @@
-<bill session="119" type="hj" number="133" updated="2025-11-05T10:48:16Z">
-  <state datetime="2025-11-04">REFERRED</state>
+<bill session="119" type="hj" number="133" updated="2025-11-19T09:07:22Z">
+  <state datetime="2025-11-18T20:17:48-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-11-04"/>
+    <unknown datetime="2025-11-18T20:17:48-05:00"/>
   </status>
   <introduced datetime="2025-11-04"/>
   <titles>
@@ -21,9 +21,24 @@
     <action datetime="2025-11-04" state="REFERRED">
       <text>Referred to the House Committee on Natural Resources.</text>
     </action>
+    <action datetime="2025-11-18T20:17:03-05:00">
+      <text>Mr. Gosar asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2025-11-18">
+      <text>Committee on Natural Resources discharged.</text>
+    </action>
+    <action datetime="2025-11-18T20:17:05-05:00">
+      <text>Considered by unanimous consent.</text>
+    </action>
+    <vote how="without objection" type="vote" datetime="2025-11-18T20:17:48-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="2025-11-18T20:17:50-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

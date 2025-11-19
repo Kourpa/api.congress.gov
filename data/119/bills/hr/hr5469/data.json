@@ -636,6 +636,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "V000135",
+      "district": "3",
+      "name": "Van Orden, Derrick",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-11-18",
+      "state": "WI",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "V000131",
       "district": "33",
       "name": "Veasey, Marc A.",
@@ -677,7 +687,14 @@
   "number": "5469",
   "official_title": "To improve research and data collection on stillbirths, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s2858-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
+    }
+  ],
   "short_title": "SHINE for Autumn Act of 2025",
   "sponsor": {
     "bioguide_id": "K000397",
@@ -689,8 +706,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-09-18",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Health"
+  ],
+  "subjects_top_term": "Health",
   "summary": null,
   "titles": [
     {
@@ -722,6 +741,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-18T09:05:50Z",
+  "updated_at": "2025-11-19T12:06:55Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5469.xml"
 }

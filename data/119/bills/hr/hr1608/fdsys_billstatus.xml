@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1608</number>
-    <updateDate>2025-11-19T09:05:35Z</updateDate>
-    <updateDateIncludingText>2025-11-19T09:05:35Z</updateDateIncludingText>
+    <updateDate>2025-11-19T11:56:30Z</updateDate>
+    <updateDateIncludingText>2025-11-19T11:56:30Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -16,14 +16,26 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-11-18T21:09:52Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hshm00</systemCode>
         <name>Homeland Security Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
         <subcommittees>
           <item>
-            <systemCode>hshm05</systemCode>
-            <name>Counterterrorism and Intelligence Subcommittee</name>
+            <systemCode>hshm07</systemCode>
+            <name>Transportation and Maritime Security Subcommittee</name>
             <activities>
               <item>
                 <name>Referred to</name>
@@ -32,8 +44,8 @@
             </activities>
           </item>
           <item>
-            <systemCode>hshm07</systemCode>
-            <name>Transportation and Maritime Security Subcommittee</name>
+            <systemCode>hshm05</systemCode>
+            <name>Counterterrorism and Intelligence Subcommittee</name>
             <activities>
               <item>
                 <name>Referred to</name>
@@ -72,6 +84,20 @@
       </committeeReport>
     </committeeReports>
     <actions>
+      <item>
+        <actionDate>2025-11-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2025-11-17</actionDate>
         <actionTime>18:56:30</actionTime>
@@ -554,9 +580,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-17</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>18:56:30</actionTime>
+      <actionDate>2025-11-18</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

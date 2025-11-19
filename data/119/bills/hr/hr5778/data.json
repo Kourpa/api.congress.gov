@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Small Business.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-18",
+      "action_code": "",
+      "committees": [
+        "HSSM"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-18",
+      "action_code": "",
+      "committees": [
+        "HSSM"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by the Yeas and Nays: 27 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Small Business",
@@ -66,6 +88,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "G000604",
+      "district": "2",
+      "name": "Goodlander, Maggie",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-11-18",
+      "state": "NH",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "V000081",
       "district": "7",
       "name": "Vel\u00e1zquez, Nydia M.",
@@ -78,7 +110,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-11-18",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -97,8 +130,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-10-17",
+  "status": "REPORTED",
+  "status_at": "2025-11-18",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -125,6 +158,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-18T09:05:24Z",
+  "updated_at": "2025-11-19T09:07:08Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5778.xml"
 }
