@@ -38,7 +38,12 @@
     {
       "acted_at": "2025-11-18T20:17:05-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4757-4758",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by unanimous consent.",
       "type": "action"
     },
@@ -46,7 +51,12 @@
       "acted_at": "2025-11-18T20:17:48-05:00",
       "action_code": "H37100",
       "how": "without objection",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4758-4759",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -156,6 +166,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-19T09:07:22Z",
+  "updated_at": "2025-11-19T16:46:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres133.xml"
 }

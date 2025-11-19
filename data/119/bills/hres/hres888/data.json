@@ -35,7 +35,16 @@
     {
       "acted_at": "2025-11-18T15:18:41-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4737-4745",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H4737-4738",
+          "type": "text"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -45,7 +54,12 @@
       "committees": [
         "HSSO"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4738",
+          "type": ""
+        }
+      ],
       "text": "Ms. Clark (MA) moved to refer to Ethics.",
       "type": "action"
     },
@@ -111,7 +125,12 @@
     {
       "acted_at": "2025-11-18T20:59:25-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4761-4762",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -411,6 +430,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-19T10:03:16Z",
+  "updated_at": "2025-11-19T16:49:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres888.xml"
 }

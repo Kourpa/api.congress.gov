@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="888" updated="2025-11-19T10:03:16Z">
+<bill session="119" type="hr" number="888" updated="2025-11-19T16:49:27Z">
   <state datetime="2025-11-18T21:07:21-05:00">FAIL:ORIGINATING:HOUSE</state>
   <status>
     <unknown datetime="2025-11-18T21:07:21-05:00"/>
@@ -47,9 +47,12 @@
     </action>
     <action datetime="2025-11-18T15:18:41-05:00">
       <text>Considered as privileged matter.</text>
+      <reference ref="CR H4737-4745" label="consideration"/>
+      <reference ref="CR H4737-4738" label="text"/>
     </action>
     <action datetime="2025-11-18T15:22:14-05:00">
       <text>Ms. Clark (MA) moved to refer to Ethics.</text>
+      <reference ref="CR H4738" label=""/>
     </action>
     <action datetime="2025-11-18T15:22:40-05:00">
       <text>DEBATE - The House proceeded with one hour of debate on the Clark (MA) motion to refer H. Res. 888.</text>
@@ -77,6 +80,7 @@
     </action>
     <action datetime="2025-11-18T20:59:25-05:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H4761-4762" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="297" datetime="2025-11-18T21:07:21-05:00" where="h" result="fail" state="FAIL:ORIGINATING:HOUSE">
       <text>On agreeing to the resolution Failed by the Yeas and Nays: 209 - 214, 3 Present (Roll no. 297).</text>

@@ -109,7 +109,12 @@
       "bill_ids": [
         "hres879-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4750-4757",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 879.",
       "type": "action"
     },
@@ -153,7 +158,12 @@
     {
       "acted_at": "2025-11-18T20:53:23-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4760-4761",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -161,7 +171,12 @@
       "acted_at": "2025-11-18T20:59:23-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4750",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "296",
       "status": "PASSED:BILL",
@@ -280,6 +295,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-19T09:06:59Z",
+  "updated_at": "2025-11-19T16:48:49Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres80.xml"
 }
