@@ -82,7 +82,12 @@
       "bill_ids": [
         "hres879-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4800-4805",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 879.",
       "type": "action"
     },
@@ -126,7 +131,12 @@
     {
       "acted_at": "2025-11-19T20:39:51-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4806-4807",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -134,7 +144,12 @@
       "acted_at": "2025-11-19T20:46:11-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4800-4801",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "299",
       "status": "PASS_OVER:HOUSE",
@@ -559,6 +574,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-20T09:09:14Z",
+  "updated_at": "2025-11-20T17:19:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5107.xml"
 }

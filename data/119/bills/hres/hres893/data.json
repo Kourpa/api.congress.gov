@@ -21,7 +21,16 @@
     {
       "acted_at": "2025-11-19T21:10:47-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4808-4810",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H4808-4809",
+          "type": "text"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -31,7 +40,12 @@
       "committees": [
         "HSSO"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4809",
+          "type": ""
+        }
+      ],
       "text": "Mr. Mills moved to refer to Ethics.",
       "type": "action"
     },
@@ -121,6 +135,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-20T10:48:18Z",
+  "updated_at": "2025-11-20T17:07:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres893.xml"
 }
