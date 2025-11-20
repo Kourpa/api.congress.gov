@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3426" updated="2025-09-24T12:44:03Z">
+<bill session="119" type="h" number="3426" updated="2025-11-20T11:56:35Z">
   <state datetime="2025-09-15T15:43:40-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-09-15T15:43:40-04:00"/>
@@ -64,10 +64,16 @@
     <action datetime="2025-09-19T10:56:00-04:00">
       <text>House requested return of papers pursuant to H.Res. 747.</text>
     </action>
+    <action datetime="2025-11-19">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2025-11-19">
+      <text>Senate returned papers to House by by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Referred To"/>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Discharged, Markup By, Discharged, Referred To"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Discharged, Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
   </committees>
   <relatedbills>

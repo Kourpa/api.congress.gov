@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2259" updated="2025-11-17T23:41:12Z">
-  <state datetime="2025-09-03">REPORTED</state>
+<bill session="119" type="h" number="2259" updated="2025-11-20T09:06:46Z">
+  <state datetime="2025-11-19T12:35:20-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-09-03"/>
+    <unknown datetime="2025-11-19T12:35:20-05:00"/>
   </status>
   <introduced datetime="2025-03-21"/>
   <titles>
@@ -50,6 +50,21 @@
     <calendar datetime="2025-11-12" calendar="Union" number="329">
       <text>Placed on the Union Calendar, Calendar No. 329.</text>
     </calendar>
+    <action datetime="2025-11-19T12:29:06-05:00">
+      <text>Mr. Guest moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-11-19T12:29:08-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-11-19T12:29:10-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2259.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-11-19T12:35:20-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-11-19T12:35:22-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Reported By, Markup By, Referred To"/>
