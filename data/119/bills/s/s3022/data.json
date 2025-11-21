@@ -70,6 +70,27 @@
       "type": "vote",
       "vote_type": "vote",
       "where": "s"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20T13:04:06-05:00",
+      "action_code": "H14000",
+      "references": [],
+      "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20T13:12:48-05:00",
+      "action_code": "H15000",
+      "references": [],
+      "text": "Held at the desk.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -127,8 +148,10 @@
   },
   "status": "PASS_OVER:SENATE",
   "status_at": "2025-11-19",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Environmental protection"
+  ],
+  "subjects_top_term": "Environmental protection",
   "summary": null,
   "titles": [
     {
@@ -167,6 +190,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-20T16:57:48Z",
+  "updated_at": "2025-11-21T12:21:48Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3022.xml"
 }

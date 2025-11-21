@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3022</number>
-    <updateDate>2025-11-20T16:57:48Z</updateDate>
-    <updateDateIncludingText>2025-11-20T16:57:48Z</updateDateIncludingText>
+    <updateDate>2025-11-21T12:21:48Z</updateDate>
+    <updateDateIncludingText>2025-11-21T12:21:48Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -34,6 +34,36 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-11-20</actionDate>
+        <actionTime>13:12:48</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-11-20</actionDate>
+        <actionTime>13:04:06</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-11-20</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2025-11-19</actionDate>
         <sourceSystem>
@@ -152,13 +182,23 @@
         <isOriginalCosponsor>True</isOriginalCosponsor>
       </item>
     </cosponsors>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Environmental Protection</name>
+        <updateDate>2025-11-21T12:10:38Z</updateDate>
+      </policyArea>
+    </subjects>
     <title>Save Our Seas 2.0 Marine Debris Infrastructure Programs Reauthorization Act</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Save Our Seas 2.0 Marine Debris Infrastructure Programs Reauthorization Act</title>
-        <updateDate>2025-11-20T11:58:20Z</updateDate>
+        <updateDate>2025-11-21T12:03:19Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
@@ -227,8 +267,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-19</actionDate>
-      <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S8248; text: CR S8248)</text>
+      <actionDate>2025-11-20</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>13:12:48</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

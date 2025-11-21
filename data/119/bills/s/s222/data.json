@@ -60,6 +60,39 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 111.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20T18:03:10-05:00",
+      "action_code": "H14000",
+      "references": [],
+      "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20T18:18:16-05:00",
+      "action_code": "H15000",
+      "references": [],
+      "text": "Held at the desk.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -248,6 +281,8 @@
     "active_at": "2025-04-01",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-11-20",
     "vetoed": false
   },
   "introduced_at": "2025-01-23",
@@ -264,8 +299,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-06-03",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-11-20",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Agriculture and food",
@@ -283,6 +318,13 @@
     "text": ""
   },
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Whole Milk for Healthy Kids Act of 2025",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -305,13 +347,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Whole Milk for Healthy Kids Act of 2025",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -319,6 +354,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-21T05:23:23Z",
+  "updated_at": "2025-11-21T12:28:04Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s222.xml"
 }

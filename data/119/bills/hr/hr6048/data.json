@@ -17,6 +17,37 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-18",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +58,8 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Judiciary",
@@ -48,7 +81,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-11-18",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -67,10 +101,12 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-11-17",
-  "subjects": [],
-  "subjects_top_term": null,
+  "status": "REPORTED",
+  "status_at": "2025-11-20",
+  "subjects": [
+    "Crime and law enforcement"
+  ],
+  "subjects_top_term": "Crime and law enforcement",
   "summary": null,
   "titles": [
     {
@@ -95,6 +131,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-20T05:53:20Z",
+  "updated_at": "2025-11-21T13:00:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6048.xml"
 }
