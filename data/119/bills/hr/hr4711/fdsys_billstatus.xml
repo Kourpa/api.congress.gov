@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4711</number>
-    <updateDate>2025-11-20T09:06:59Z</updateDate>
-    <updateDateIncludingText>2025-11-20T09:06:59Z</updateDateIncludingText>
+    <updateDate>2025-11-21T12:04:28Z</updateDate>
+    <updateDateIncludingText>2025-11-21T12:04:28Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Markup By</name>
+            <date>2025-11-20T18:23:24Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-11-19T20:13:36Z</date>
@@ -56,7 +60,22 @@
     </relatedBills>
     <actions>
       <item>
-        <actionDate>2025-11-19</actionDate>
+        <actionDate>2025-11-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 14 - 9.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-11-20</actionDate>
         <committees>
           <item>
             <systemCode>hsju00</systemCode>
@@ -225,8 +244,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-19</actionDate>
-      <text>Committee Consideration and Mark-up Session Held</text>
+      <actionDate>2025-11-20</actionDate>
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 14 - 9.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

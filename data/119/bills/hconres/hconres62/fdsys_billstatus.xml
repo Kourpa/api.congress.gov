@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>62</number>
-    <updateDate>2025-11-20T16:46:35Z</updateDate>
-    <updateDateIncludingText>2025-11-20T16:46:35Z</updateDateIncludingText>
+    <updateDate>2025-11-21T12:04:21Z</updateDate>
+    <updateDateIncludingText>2025-11-21T12:04:21Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-11-20T22:41:00Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-11-18T15:05:40Z</date>
           </item>
@@ -27,6 +31,93 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-11-20</actionDate>
+        <actionTime>17:41:38</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-11-20</actionDate>
+        <actionTime>17:41:35</actionTime>
+        <text>On agreeing to the resolution Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-11-20</actionDate>
+        <actionTime>17:41:35</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-11-20</actionDate>
+        <actionTime>17:41:32</actionTime>
+        <text>Considered by unanimous consent.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-11-20</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-11-20</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-11-20</actionDate>
+        <actionTime>17:40:58</actionTime>
+        <text>Mr. Steil asked unanimous consent to discharge from committee and consider.</text>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-11-18</actionDate>
         <text>Referred to the House Committee on House Administration.</text>
@@ -116,8 +207,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-18</actionDate>
-      <text>Referred to the House Committee on House Administration.</text>
+      <actionDate>2025-11-20</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>17:41:38</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

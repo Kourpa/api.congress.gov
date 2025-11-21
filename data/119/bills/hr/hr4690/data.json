@@ -29,6 +29,16 @@
       "type": "referral"
     },
     {
+      "acted_at": "2025-07-23",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Energy.",
+      "type": "referral"
+    },
+    {
       "acted_at": "2025-07-24",
       "action_code": "",
       "committees": [
@@ -37,6 +47,26 @@
       "references": [],
       "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-19",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Subcommittee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-19",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 16 - 14.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -45,6 +75,24 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "House Energy and Commerce",
+      "committee_id": "HSIF"
+    },
+    {
+      "activity": [
+        "reporting",
+        "markup",
+        "referral"
+      ],
+      "committee": "House Energy and Commerce",
+      "committee_id": "HSIF",
+      "subcommittee": "Subcommittee on Energy",
+      "subcommittee_id": "03"
+    },
     {
       "activity": [
         "Referred To"
@@ -60,13 +108,6 @@
       "committee_id": "HSPW",
       "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management",
       "subcommittee_id": "13"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Energy and Commerce",
-      "committee_id": "HSIF"
     }
   ],
   "congress": "119",
@@ -144,7 +185,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-11-19",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -193,6 +235,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-07T08:05:29Z",
+  "updated_at": "2025-11-21T12:04:01Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4690.xml"
 }

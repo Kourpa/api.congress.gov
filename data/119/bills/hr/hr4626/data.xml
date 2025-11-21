@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4626" updated="2025-09-11T14:43:54Z">
+<bill session="119" type="h" number="4626" updated="2025-11-21T12:04:24Z">
   <state datetime="2025-07-23">REFERRED</state>
   <status>
     <introduced datetime="2025-07-23"/>
@@ -18,9 +18,19 @@
     <action datetime="2025-07-23" state="REFERRED">
       <text>Referred to the House Committee on Energy and Commerce.</text>
     </action>
+    <action datetime="2025-07-23">
+      <text>Referred to the Subcommittee on Energy.</text>
+    </action>
+    <action datetime="2025-11-19">
+      <text>Subcommittee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-11-19">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 17 - 14.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

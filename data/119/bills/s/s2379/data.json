@@ -17,6 +17,49 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20T17:44:06-05:00",
+      "action_code": "H14000",
+      "references": [],
+      "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20T18:18:43-05:00",
+      "action_code": "H15000",
+      "references": [],
+      "text": "Held at the desk.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -27,6 +70,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -148,9 +192,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-11-20",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-11-20",
     "vetoed": false
   },
   "introduced_at": "2025-07-22",
@@ -174,8 +221,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-07-22",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-11-20",
   "subjects": [
     "Law"
   ],
@@ -197,6 +244,13 @@
       "type": "short"
     },
     {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Countering Threats and Attacks on Our Judges Act",
+      "type": "short"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -204,6 +258,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-19T02:32:37Z",
+  "updated_at": "2025-11-21T12:25:02Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2379.xml"
 }

@@ -17,6 +17,50 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on House Administration.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-20T17:40:58-05:00",
+      "action_code": "H30200",
+      "references": [],
+      "text": "Mr. Steil asked unanimous consent to discharge from committee and consider.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "H12300",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "Committee on House Administration discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20T17:41:32-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20T17:41:35-05:00",
+      "action_code": "H37100",
+      "how": "without objection",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On agreeing to the resolution Agreed to without objection.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-11-20T17:41:38-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -27,6 +71,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Committee on House Administration",
@@ -37,9 +82,12 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-11-20T17:40:58-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-11-20T17:41:35-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-11-18",
@@ -56,8 +104,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-11-18",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-11-20T17:41:35-05:00",
   "subjects": [
     "Congress"
   ],
@@ -79,6 +127,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-20T16:46:35Z",
+  "updated_at": "2025-11-21T12:04:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres62.xml"
 }

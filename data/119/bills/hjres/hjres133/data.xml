@@ -1,7 +1,7 @@
-<bill session="119" type="hj" number="133" updated="2025-11-20T11:56:31Z">
-  <state datetime="2025-11-18T20:17:48-05:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="hj" number="133" updated="2025-11-21T11:56:33Z">
+  <state datetime="2025-11-20">PASSED:BILL</state>
   <status>
-    <unknown datetime="2025-11-18T20:17:48-05:00"/>
+    <unknown datetime="2025-11-20"/>
   </status>
   <introduced datetime="2025-11-04"/>
   <titles>
@@ -40,7 +40,13 @@
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
     <action datetime="2025-11-19">
-      <text>Received in the Senate.</text>
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2025-11-20" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2025-11-20">
+      <text>Message on Senate action sent to the House.</text>
     </action>
   </actions>
   <committees>

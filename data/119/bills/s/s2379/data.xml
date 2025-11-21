@@ -1,12 +1,13 @@
-<bill session="119" type="s" number="2379" updated="2025-11-19T02:32:37Z">
-  <state datetime="2025-07-22">REFERRED</state>
+<bill session="119" type="s" number="2379" updated="2025-11-21T12:25:02Z">
+  <state datetime="2025-11-20">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-07-22"/>
+    <unknown datetime="2025-11-20"/>
   </status>
   <introduced datetime="2025-07-22"/>
   <titles>
     <title type="display">Countering Threats and Attacks on Our Judges Act</title>
     <title type="short" as="introduced">Countering Threats and Attacks on Our Judges Act</title>
+    <title type="short" as="passed senate">Countering Threats and Attacks on Our Judges Act</title>
     <title type="official" as="introduced">A bill to amend the State Justice Institute Act of 1984 to authorize the State Justice Institute to provide awards to certain organizations to establish a State judicial threat intelligence and resource center.</title>
   </titles>
   <sponsor bioguide_id="C001056"/>
@@ -30,9 +31,24 @@
     <action datetime="2025-07-22" state="REFERRED">
       <text>Read twice and referred to the Committee on the Judiciary.</text>
     </action>
+    <action datetime="2025-11-20">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-11-20" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2025-11-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2025-11-20T17:44:06-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2025-11-20T18:18:43-05:00">
+      <text>Held at the desk.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="4602" relation="identical"/>

@@ -129,7 +129,34 @@
       "acted_at": "2025-11-19",
       "action_code": "",
       "references": [],
-      "text": "Received in the Senate.",
+      "text": "Received in the Senate, read twice.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "623",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 51 - 43. Record Vote Number: 623.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-11-20",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
       "type": "action"
     }
   ],
@@ -168,6 +195,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-11-18T20:46:45-05:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-11-20",
     "vetoed": false
   },
   "introduced_at": "2025-10-08",
@@ -197,8 +226,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-11-18T20:46:45-05:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-11-20",
   "subjects": [
     "Public lands and natural resources"
   ],
@@ -232,6 +261,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-20T23:02:43Z",
+  "updated_at": "2025-11-21T11:56:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres130.xml"
 }
