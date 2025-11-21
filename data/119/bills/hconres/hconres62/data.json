@@ -38,7 +38,12 @@
     {
       "acted_at": "2025-11-20T17:41:32-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4851",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by unanimous consent.",
       "type": "action"
     },
@@ -46,7 +51,12 @@
       "acted_at": "2025-11-20T17:41:35-05:00",
       "action_code": "H37100",
       "how": "without objection",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4851",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -107,7 +117,11 @@
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-11-20T17:41:35-05:00",
   "subjects": [
-    "Congress"
+    "Congress",
+    "Congressional tributes",
+    "Human rights",
+    "U.S. Capitol",
+    "U.S. history"
   ],
   "subjects_top_term": "Congress",
   "summary": null,
@@ -127,6 +141,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-21T12:04:21Z",
+  "updated_at": "2025-11-21T19:50:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres62.xml"
 }
