@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3903" updated="2025-11-20T09:06:54Z">
-  <state datetime="2025-06-11">REFERRED</state>
+<bill session="119" type="h" number="3903" updated="2025-11-22T09:07:03Z">
+  <state datetime="2025-11-20">REPORTED</state>
   <status>
-    <introduced datetime="2025-06-11"/>
+    <unknown datetime="2025-11-20"/>
   </status>
   <introduced datetime="2025-06-11"/>
   <titles>
@@ -26,9 +26,18 @@
     <action datetime="2025-09-09">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2025-11-20">
+      <text>Subcommittee on Indian and Insular Affairs Discharged</text>
+    </action>
+    <action datetime="2025-11-20">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-11-20" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSII24" name="House Natural Resources" subcommittee="Indian and Insular Affairs" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>

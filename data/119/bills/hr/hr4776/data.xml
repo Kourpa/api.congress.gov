@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4776" updated="2025-11-21T12:04:20Z">
-  <state datetime="2025-07-25">REFERRED</state>
+<bill session="119" type="h" number="4776" updated="2025-11-22T09:06:48Z">
+  <state datetime="2025-11-20">REPORTED</state>
   <status>
-    <introduced datetime="2025-07-25"/>
+    <unknown datetime="2025-11-20"/>
   </status>
   <introduced datetime="2025-07-25"/>
   <titles>
@@ -37,9 +37,15 @@
     <action datetime="2025-09-10">
       <text>Committee Hearings Held</text>
     </action>
+    <action datetime="2025-11-20">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-11-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 18.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Hearings By (Full Committee), Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Hearings By (Full Committee), Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

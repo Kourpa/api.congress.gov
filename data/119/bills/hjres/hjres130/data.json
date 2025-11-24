@@ -143,7 +143,16 @@
       "acted_at": "2025-11-20",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8249-8259",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S8249",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "623",
       "status": "PASSED:BILL",
@@ -267,6 +276,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-21T17:39:55Z",
+  "updated_at": "2025-11-24T14:34:48Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres130.xml"
 }
