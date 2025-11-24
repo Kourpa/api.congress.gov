@@ -42,7 +42,12 @@
       "bill_ids": [
         "hres879-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4883-4890",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 879.",
       "type": "action"
     },
@@ -101,7 +106,12 @@
       "acted_at": "2025-11-21T10:59:21-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4883",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "305",
       "status": "PASS_OVER:HOUSE",
@@ -840,6 +850,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-23T23:02:11Z",
+  "updated_at": "2025-11-24T15:15:57Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres58.xml"
 }
