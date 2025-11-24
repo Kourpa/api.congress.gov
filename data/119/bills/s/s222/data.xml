@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="222" updated="2025-11-21T12:28:04Z">
+<bill session="119" type="s" number="222" updated="2025-11-24T14:47:27Z">
   <state datetime="2025-11-20">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-11-20"/>
@@ -51,6 +51,8 @@
     </calendar>
     <vote how="by Unanimous Consent" type="vote" datetime="2025-11-20" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S8259-8261" label="consideration"/>
+      <reference ref="CR S8261" label="text"/>
     </vote>
     <action datetime="2025-11-20">
       <text>Message on Senate action sent to the House.</text>
