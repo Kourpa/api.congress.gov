@@ -521,14 +521,24 @@
     {
       "acted_at": "2025-10-14",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7113",
+          "type": ""
+        }
+      ],
       "text": "Motion to proceed to consideration of measure made in Senate.",
       "type": "action"
     },
     {
       "acted_at": "2025-10-14",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7113-7114",
+          "type": ""
+        }
+      ],
       "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
     },
@@ -536,7 +546,12 @@
       "acted_at": "2025-10-16",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7154",
+          "type": ""
+        }
+      ],
       "result": "fail",
       "roll": "575",
       "status": "PROV_KILL:CLOTUREFAILED",
@@ -906,6 +921,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-21T12:08:27Z",
+  "updated_at": "2025-11-24T19:11:06Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4016.xml"
 }

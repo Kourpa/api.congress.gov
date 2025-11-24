@@ -24,7 +24,16 @@
       "committees": [
         "SSJU"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8400",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR 11/06/2025 S7965-7966",
+          "type": "text"
+        }
+      ],
       "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
       "type": "action"
     },
@@ -95,8 +104,10 @@
   },
   "status": "PASSED:SIMPLERES",
   "status_at": "2025-11-20",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Education"
+  ],
+  "subjects_top_term": "Education",
   "summary": null,
   "titles": [
     {
@@ -114,6 +125,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-21T11:56:33Z",
+  "updated_at": "2025-11-24T16:32:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres489.xml"
 }

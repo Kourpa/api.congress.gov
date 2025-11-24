@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4016" updated="2025-11-21T12:08:27Z">
+<bill session="119" type="h" number="4016" updated="2025-11-24T19:11:06Z">
   <state datetime="2025-10-16">PROV_KILL:CLOTUREFAILED</state>
   <status>
     <unknown datetime="2025-10-16"/>
@@ -191,12 +191,15 @@
     </calendar>
     <action datetime="2025-10-14">
       <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S7113" label=""/>
     </action>
     <action datetime="2025-10-14">
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S7113-7114" label=""/>
     </action>
     <vote-aux how="roll" type="cloture" roll="575" datetime="2025-10-16" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
       <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 44. Record Vote Number: 575.</text>
+      <reference ref="CR S7154" label=""/>
     </vote-aux>
     <action datetime="2025-10-16">
       <text>Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to H.R. 4016 was not invoked (Record Vote No. 575) entered in Senate.</text>
