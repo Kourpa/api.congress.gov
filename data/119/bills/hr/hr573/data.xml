@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="573" updated="2025-09-17T20:12:03Z">
-  <state datetime="2025-01-21">REFERRED</state>
+<bill session="119" type="h" number="573" updated="2025-11-25T09:05:19Z">
+  <state datetime="2025-11-20">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-21"/>
+    <unknown datetime="2025-11-20"/>
   </status>
   <introduced datetime="2025-01-21"/>
   <titles>
@@ -28,9 +28,15 @@
     <action datetime="2025-09-10">
       <text>Committee Hearings Held</text>
     </action>
+    <action datetime="2025-11-20">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-11-20" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Hearings By (Full Committee), Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Hearings By (Full Committee), Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
