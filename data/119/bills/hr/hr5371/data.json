@@ -612,7 +612,12 @@
     {
       "acted_at": "2025-10-21",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7172",
+          "type": ""
+        }
+      ],
       "text": "Motion to proceed to consideration of measure made in Senate.",
       "type": "action"
     },
@@ -627,7 +632,12 @@
       "acted_at": "2025-10-22",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7695-7696",
+          "type": ""
+        }
+      ],
       "result": "fail",
       "roll": "581",
       "status": "PROV_KILL:CLOTUREFAILED",
@@ -1610,6 +1620,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-24T19:26:47Z",
+  "updated_at": "2025-11-24T20:28:59Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5371.xml"
 }
