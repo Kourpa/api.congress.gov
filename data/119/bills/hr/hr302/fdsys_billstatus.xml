@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>302</number>
-    <updateDate>2025-11-26T05:38:21Z</updateDate>
-    <updateDateIncludingText>2025-11-26T05:38:21Z</updateDateIncludingText>
+    <updateDate>2025-11-26T09:05:33Z</updateDate>
+    <updateDateIncludingText>2025-11-26T09:05:33Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -34,6 +34,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-11-25T18:00:39Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-01-09T14:32:20Z</date>
           </item>
@@ -46,6 +50,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-11-25T17:58:33Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-02-12T21:33:59Z</date>
           </item>
@@ -57,6 +65,83 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-11-25</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 334.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00334</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-11-25</actionDate>
+        <text>Committee on Agriculture discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-11-25</actionDate>
+        <text>Committee on Agriculture discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-11-25</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-384, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-11-25</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-384, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-02-14</actionDate>
         <committees>
@@ -358,8 +443,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-14</actionDate>
-      <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+      <actionDate>2025-11-25</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 334.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -192,6 +192,13 @@
       "references": [],
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-11-25",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -226,7 +233,8 @@
   "history": {
     "active": true,
     "active_at": "2025-10-28",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2025-11-25",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-11-18T20:59:23-05:00",
@@ -295,6 +303,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-23T17:44:28Z",
+  "updated_at": "2025-11-26T09:05:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres80.xml"
 }
