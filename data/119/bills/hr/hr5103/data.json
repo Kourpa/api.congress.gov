@@ -48,6 +48,16 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 19.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-11-25",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Federal Lands.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -58,18 +68,27 @@
   "committees": [
     {
       "activity": [
+        "Referred To"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII",
+      "subcommittee": "Subcommittee on Federal Lands",
+      "subcommittee_id": "10"
+    },
+    {
+      "activity": [
         "Markup By",
         "Referred To"
       ],
       "committee": "House Oversight and Government Reform",
       "committee_id": "HSGO"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Natural Resources",
-      "committee_id": "HSII"
     }
   ],
   "congress": "119",
@@ -175,6 +194,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2025-10-20T22:26:11Z",
+  "updated_at": "2025-11-26T09:05:35Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5103.xml"
 }
