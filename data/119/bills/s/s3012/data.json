@@ -52,7 +52,12 @@
       "acted_at": "2025-10-23",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7720",
+          "type": ""
+        }
+      ],
       "result": "fail",
       "roll": "585",
       "status": "PROV_KILL:CLOTUREFAILED",
@@ -325,6 +330,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-01T07:03:48Z",
+  "updated_at": "2025-12-01T16:14:03Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3012.xml"
 }

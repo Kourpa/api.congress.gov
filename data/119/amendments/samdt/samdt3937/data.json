@@ -4,7 +4,12 @@
       "acted_at": "2025-11-10",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8125",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": 616,
       "text": "Amendment SA 3937 agreed to in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 616.",
@@ -15,22 +20,37 @@
     {
       "acted_at": "2025-11-10",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8129",
+          "type": ""
+        }
+      ],
       "text": "Cloture on amendment SA 3937 invoked in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 615.",
       "type": "action"
     },
     {
       "acted_at": "2025-11-10",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8125",
+          "type": ""
+        }
+      ],
       "text": "Cloture motion on amendment SA 3937 presented in Senate.",
       "type": "action"
     },
     {
       "acted_at": "2025-11-10",
       "action_code": "",
-      "references": [],
-      "text": "Amendment SA 3937 proposed by Senator Thune for Senator Collins. In the nature of a substitute.",
+      "references": [
+        {
+          "reference": "CR S8125, S8129-8130",
+          "type": "consideration"
+        }
+      ],
+      "text": "Amendment SA 3937 proposed by Senator Thune for Senator Collins.",
       "type": "action"
     },
     {
@@ -102,5 +122,5 @@
   },
   "status": "pass",
   "status_at": "2025-11-10",
-  "updated_at": "2025-11-13T00:48:56Z"
+  "updated_at": "2025-12-01T19:42:57Z"
 }

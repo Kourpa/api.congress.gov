@@ -48,7 +48,12 @@
     {
       "acted_at": "2025-10-30",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7842",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -56,7 +61,12 @@
       "acted_at": "2025-10-30",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7842",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "599",
       "status": "PASS_OVER:SENATE",
@@ -303,6 +313,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-01T06:35:03Z",
+  "updated_at": "2025-12-01T19:39:00Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres80.xml"
 }
