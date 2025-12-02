@@ -58,6 +58,47 @@
       "text": "Placed on the Union Calendar, Calendar No. 299.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-12-01T14:54:36-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Fry moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-01T14:54:56-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-01T14:54:59-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4323.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-01T15:11:21-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-12-01T15:11:22-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -277,6 +318,8 @@
     "active_at": "2025-09-10",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-12-01T15:11:21-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-07-10",
@@ -306,8 +349,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-09-10",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-12-01T15:11:21-05:00",
   "subjects": [
     "Congressional oversight",
     "Crime and law enforcement",
@@ -359,6 +402,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-01T21:43:59Z",
+  "updated_at": "2025-12-02T09:05:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4323.xml"
 }
