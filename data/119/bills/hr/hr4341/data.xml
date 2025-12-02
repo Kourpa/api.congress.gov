@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4341" updated="2025-12-01T22:11:41Z">
+<bill session="119" type="h" number="4341" updated="2025-12-02T09:05:38Z">
   <state datetime="2025-07-10">REFERRED</state>
   <status>
     <introduced datetime="2025-07-10"/>
@@ -32,12 +32,16 @@
     <action datetime="2025-07-10">
       <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, Science, Space, and Technology, Natural Resources, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-12-01">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW07" name="House Transportation and Infrastructure" subcommittee="Coast Guard and Maritime Transportation" activity="Referral"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
