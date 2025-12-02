@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4430" updated="2025-11-25T16:24:38Z">
-  <state datetime="2025-07-22">REPORTED</state>
+<bill session="119" type="h" number="4430" updated="2025-12-02T17:00:27Z">
+  <state datetime="2025-12-01T18:33:28-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-07-22"/>
+    <unknown datetime="2025-12-01T18:33:28-05:00"/>
   </status>
   <introduced datetime="2025-07-16"/>
   <titles>
@@ -34,6 +34,23 @@
     <calendar datetime="2025-09-08" calendar="Union" number="204">
       <text>Placed on the Union Calendar, Calendar No. 204.</text>
     </calendar>
+    <action datetime="2025-12-01T18:26:39-05:00">
+      <text>Mr. Davidson moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-12-01T18:26:50-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4952-4953" label="consideration"/>
+    </action>
+    <action datetime="2025-12-01T18:26:51-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4430.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-12-01T18:33:28-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4952" label="text"/>
+    </vote>
+    <action datetime="2025-12-01T18:33:29-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>

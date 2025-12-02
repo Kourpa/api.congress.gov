@@ -58,6 +58,57 @@
       "text": "Placed on the Union Calendar, Calendar No. 204.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2025-12-01T18:26:39-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Davidson moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-01T18:26:50-05:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4952-4953",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-01T18:26:51-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4430.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-01T18:33:28-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H4952",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-12-01T18:33:29-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -117,6 +168,8 @@
     "active_at": "2025-07-22",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-12-01T18:33:28-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-07-16",
@@ -133,8 +186,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-22",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-12-01T18:33:28-05:00",
   "subjects": [
     "Business investment and capital",
     "Corporate finance and management",
@@ -171,6 +224,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-25T16:24:38Z",
+  "updated_at": "2025-12-02T17:00:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4430.xml"
 }

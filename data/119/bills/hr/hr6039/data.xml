@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6039" updated="2025-11-19T03:23:17Z">
+<bill session="119" type="h" number="6039" updated="2025-12-02T09:05:59Z">
   <state datetime="2025-11-12">REFERRED</state>
   <status>
     <introduced datetime="2025-11-12"/>
@@ -78,8 +78,13 @@
     <action datetime="2025-11-12">
       <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Small Business, Appropriations, Ethics, Education and Workforce, the Judiciary, Veterans' Affairs, Natural Resources, House Administration, Science, Space, and Technology, Energy and Commerce, Financial Services, Transportation and Infrastructure, Oversight and Government Reform, Agriculture, Armed Services, Foreign Affairs, Intelligence (Permanent Select), Homeland Security, Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-11-20">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Referral"/>
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>
     <committee code="HSRU" name="House Rules" subcommittee="" activity="Referred To"/>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
@@ -94,7 +99,6 @@
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
     <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
     <committee code="HSSO" name="House Ethics" subcommittee="" activity="Referred To"/>

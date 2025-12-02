@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="260" updated="2025-11-26T09:05:24Z">
-  <state datetime="2025-11-17T17:22:51-05:00">PASSED:BILL</state>
+<bill session="119" type="s" number="260" updated="2025-12-02T16:11:32Z">
+  <state datetime="2025-11-25">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-11-17T17:22:51-05:00"/>
+    <unknown datetime="2025-11-25"/>
   </status>
   <introduced datetime="2025-01-27"/>
   <titles>
@@ -68,6 +68,12 @@
     <topresident datetime="2025-11-25">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-11-25" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="119-41" type="public" datetime="2025-11-25">
+      <text>Became Public Law No: 119-41.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>

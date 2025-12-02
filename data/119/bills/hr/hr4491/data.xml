@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4491" updated="2025-12-01T18:09:39Z">
-  <state datetime="2025-07-22">REPORTED</state>
+<bill session="119" type="h" number="4491" updated="2025-12-02T15:13:32Z">
+  <state datetime="2025-12-01T14:24:49-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-07-22"/>
+    <unknown datetime="2025-12-01T14:24:49-05:00"/>
   </status>
   <introduced datetime="2025-07-17"/>
   <titles>
@@ -33,6 +33,23 @@
     <calendar datetime="2025-08-15" calendar="Union" number="181">
       <text>Placed on the Union Calendar, Calendar No. 181.</text>
     </calendar>
+    <action datetime="2025-12-01T14:19:02-05:00">
+      <text>Mr. Williams (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-12-01T14:19:14-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4913-4914" label="consideration"/>
+    </action>
+    <action datetime="2025-12-01T14:19:16-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4491.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-12-01T14:24:49-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4913-4914" label="text"/>
+    </vote>
+    <action datetime="2025-12-01T14:24:50-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>

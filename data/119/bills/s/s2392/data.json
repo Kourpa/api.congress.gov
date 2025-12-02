@@ -145,6 +145,24 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2025-11-25",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
+    },
+    {
+      "acted_at": "2025-11-25",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "42",
+      "references": [],
+      "text": "Became Public Law No: 119-42.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -386,13 +404,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "42"
+  },
   "history": {
     "active": true,
     "active_at": "2025-07-30",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2025-11-25",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2025-11-25",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-11-17T16:16:17-05:00",
     "senate_passage_result": "pass",
@@ -420,8 +442,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2025-11-17T16:16:17-05:00",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2025-11-25",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Armed forces and national security",
@@ -481,6 +503,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-02T07:57:54Z",
+  "updated_at": "2025-12-02T16:15:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2392.xml"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2316" updated="2025-12-01T16:18:56Z">
-  <state datetime="2025-10-23">PASSED:BILL</state>
+<bill session="119" type="h" number="2316" updated="2025-12-02T16:10:18Z">
+  <state datetime="2025-11-25">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-10-23"/>
+    <unknown datetime="2025-11-25"/>
   </status>
   <introduced datetime="2025-03-25"/>
   <titles>
@@ -80,6 +80,12 @@
     <topresident datetime="2025-11-25">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-11-25" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="119-40" type="public" datetime="2025-11-25">
+      <text>Became Public Law No: 119-40.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Discharged From, Referred To"/>
