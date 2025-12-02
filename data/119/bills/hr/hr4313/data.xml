@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4313" updated="2025-12-02T09:05:56Z">
+<bill session="119" type="h" number="4313" updated="2025-12-02T16:02:46Z">
   <state datetime="2025-12-01T16:46:48-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-12-01T16:46:48-05:00"/>
@@ -45,12 +45,14 @@
     </action>
     <action datetime="2025-12-01T16:28:41-05:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4935-4937" label="consideration"/>
     </action>
     <action datetime="2025-12-01T16:28:43-05:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4313.</text>
     </action>
     <vote how="by voice vote" type="vote" datetime="2025-12-01T16:46:48-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4935" label="text"/>
     </vote>
     <action datetime="2025-12-01T16:46:50-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

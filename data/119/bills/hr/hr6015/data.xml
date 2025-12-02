@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6015" updated="2025-11-19T09:06:57Z">
+<bill session="119" type="h" number="6015" updated="2025-12-02T09:05:25Z">
   <state datetime="2025-11-10">REFERRED</state>
   <status>
     <introduced datetime="2025-11-10"/>
@@ -54,10 +54,14 @@
     <action datetime="2025-11-10">
       <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-11-20">
+      <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR08" name="House Veterans' Affairs" subcommittee="Oversight and Investigations" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>
