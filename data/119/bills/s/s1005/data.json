@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-02",
+      "action_code": "",
+      "committee": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining",
+      "committees": [
+        "SSEG"
+      ],
+      "references": [],
+      "text": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+      "type": "hearings"
     }
   ],
   "amendments": [],
@@ -31,13 +42,23 @@
       ],
       "committee": "Senate Energy and Natural Resources",
       "committee_id": "SSEG"
+    },
+    {
+      "activity": [
+        "Hearings By (subcommittee)"
+      ],
+      "committee": "Senate Energy and Natural Resources",
+      "committee_id": "SSEG",
+      "subcommittee": "Subcommittee on Public Lands, Forests, and Mining",
+      "subcommittee_id": "03"
     }
   ],
   "congress": "119",
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-12-02",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -105,6 +126,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-02T08:03:00Z",
+  "updated_at": "2025-12-03T12:03:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1005.xml"
 }

@@ -3,19 +3,32 @@
   <version>3.0.0</version>
   <bill>
     <number>140</number>
-    <updateDate>2025-07-25T21:42:23Z</updateDate>
-    <updateDateIncludingText>2025-07-25T21:42:23Z</updateDateIncludingText>
+    <updateDate>2025-12-03T12:03:22Z</updateDate>
+    <updateDateIncludingText>2025-12-03T12:03:22Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
     <introducedDate>2025-01-16</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/140</legislationUrl>
     <committees>
       <item>
         <systemCode>sseg00</systemCode>
         <name>Energy and Natural Resources Committee</name>
         <chamber>Senate</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>sseg03</systemCode>
+            <name>Public Lands, Forests, and Mining Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2025-12-02T20:00:04Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -25,6 +38,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg03</systemCode>
+            <name>Public Lands, Forests, and Mining Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-16</actionDate>
         <committees>
@@ -187,7 +214,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Wildfire Prevention Act of 2025</title>
-        <updateDate>2025-03-04T12:03:17Z</updateDate>
+        <updateDate>2025-12-03T12:03:22Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -218,8 +245,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-16</actionDate>
-      <text>Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S228-231)</text>
+      <actionDate>2025-12-02</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

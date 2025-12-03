@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4305</number>
-    <updateDate>2025-12-03T03:06:15Z</updateDate>
-    <updateDateIncludingText>2025-12-03T03:06:15Z</updateDateIncludingText>
+    <updateDate>2025-12-03T09:09:13Z</updateDate>
+    <updateDateIncludingText>2025-12-03T09:09:13Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -48,8 +48,9 @@
         <number>916</number>
         <type>HRES</type>
         <latestAction>
-          <actionDate>2025-12-01</actionDate>
-          <text>Placed on the House Calendar, Calendar No. 48.</text>
+          <actionDate>2025-12-02</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>15:02:10</actionTime>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -64,6 +65,61 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-12-02</actionDate>
+        <actionTime>15:48:56</actionTime>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 4305, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Ms. Velazquez demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-12-02</actionDate>
+        <actionTime>15:26:34</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H.R. 4305.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-12-02</actionDate>
+        <actionTime>15:25:44</actionTime>
+        <text>Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-12-02</actionDate>
+        <actionTime>15:25:39</actionTime>
+        <text>Considered under the provisions of rule H. Res. 916.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-12-02</actionDate>
+        <actionTime>15:02:09</actionTime>
+        <text>Rule H. Res. 916 passed House.</text>
+        <type>Floor</type>
+        <actionCode>H1L220</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-12-01</actionDate>
         <actionTime>20:46:34</actionTime>
@@ -329,6 +385,92 @@
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>112</number>
+        <congress>119</congress>
+        <type>HAMDT</type>
+        <description>Pursuant to the provisions of H. Res. 916, the amendment in the nature of a substitute recommended by the Committee on Small Business printed in the bill is considered adopted.</description>
+        <updateDate>2025-12-03T09:09:13Z</updateDate>
+        <latestAction>
+          <actionDate>2025-12-02</actionDate>
+          <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+        </latestAction>
+        <sponsors>
+          <item>
+            <name>Rules Committee</name>
+          </item>
+        </sponsors>
+        <submittedDate>2025-12-02T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>4305</number>
+          <title>DUMP Red Tape Act</title>
+          <updateDateIncludingText>2025-12-03</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2025-12-02</actionDate>
+              <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-12-02</actionDate>
+              <text>Amendment reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+            <item>
+              <actionDate>2025-12-02</actionDate>
+              <text>House amendment offered/reported by: Amendment reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+            <item>
+              <actionDate>2025-12-02</actionDate>
+              <text>House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Reported in House</type>
@@ -350,9 +492,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-01</actionDate>
-      <text>Rules Committee Resolution H. Res. 916 Reported to House. Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.</text>
-      <actionTime>20:46:34</actionTime>
+      <actionDate>2025-12-02</actionDate>
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 4305, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Ms. Velazquez demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+      <actionTime>15:48:56</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -2,6 +2,13 @@
   "actions": [
     {
       "acted_at": "2025-07-22",
+      "action_code": "1000",
+      "references": [],
+      "text": "Introduced in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-07-22",
       "action_code": "B00100",
       "references": [
         {
@@ -13,7 +20,7 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-07-23",
+      "acted_at": "2025-07-22",
       "action_code": "Intro-H",
       "references": [],
       "text": "Introduced in House",
@@ -29,6 +36,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Oversight and Government Reform.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-02",
+      "action_code": "",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -39,6 +56,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Oversight and Government Reform",
@@ -81,7 +99,7 @@
   "enacted_as": null,
   "history": {
     "active": true,
-    "active_at": "2025-07-23",
+    "active_at": "2025-07-22",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -121,6 +139,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-08-05T12:18:19Z",
+  "updated_at": "2025-12-03T09:06:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4707.xml"
 }
