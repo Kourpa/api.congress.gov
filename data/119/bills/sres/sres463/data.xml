@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="463" updated="2025-12-02T08:38:57Z">
+<bill session="119" type="sr" number="463" updated="2025-12-02T20:50:34Z">
   <state datetime="2025-11-07">PASSED:SIMPLERES</state>
   <status>
     <unknown datetime="2025-11-07"/>
@@ -38,9 +38,11 @@
     </action>
     <action datetime="2025-11-07">
       <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7974-7976" label="consideration"/>
     </action>
     <vote how="by Voice Vote" type="vote" datetime="2025-11-07" where="s" result="pass" state="PASSED:SIMPLERES">
       <text>Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.</text>
+      <reference ref="CR S7976" label="text of amendment in the nature of a substitute"/>
     </vote>
   </actions>
   <committees>

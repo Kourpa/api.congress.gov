@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="695" updated="2025-12-02T18:54:53Z">
+<bill session="119" type="h" number="695" updated="2025-12-02T21:02:33Z">
   <state datetime="2025-12-01">ENACTED:SIGNED</state>
   <status>
     <unknown datetime="2025-12-01"/>
@@ -51,6 +51,7 @@
     </action>
     <vote how="by Unanimous Consent" type="vote2" datetime="2025-11-07" where="s" result="pass" state="PASSED:BILL">
       <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7976-7977" label="consideration"/>
     </vote>
     <action datetime="2025-11-07">
       <text>Message on Senate action sent to the House.</text>
@@ -61,6 +62,9 @@
     <signed datetime="2025-12-01" state="ENACTED:SIGNED">
       <text>Signed by President.</text>
     </signed>
+    <enacted number="119-43" type="public" datetime="2025-12-01">
+      <text>Became Public Law No: 119-43.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Discharged From, Referred To"/>

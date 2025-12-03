@@ -94,7 +94,12 @@
       "acted_at": "2025-11-07",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7976-7977",
+          "type": "consideration"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:BILL",
       "text": "Passed Senate without amendment by Unanimous Consent.",
@@ -123,6 +128,16 @@
       "status": "ENACTED:SIGNED",
       "text": "Signed by President.",
       "type": "signed"
+    },
+    {
+      "acted_at": "2025-12-01",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "43",
+      "references": [],
+      "text": "Became Public Law No: 119-43.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -190,13 +205,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "43"
+  },
   "history": {
     "active": true,
     "active_at": "2025-02-26T15:54:03-05:00",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2025-12-01",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2025-12-01",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-02-26T16:36:12-05:00",
     "senate_passage_result": "pass",
@@ -282,6 +301,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-02T18:54:53Z",
+  "updated_at": "2025-12-02T21:02:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr695.xml"
 }
