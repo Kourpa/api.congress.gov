@@ -386,7 +386,14 @@
   "number": "5827",
   "official_title": "To advance bipartisan, common sense solutions.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hr3001-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "S001201",
@@ -398,8 +405,10 @@
   },
   "status": "REFERRED",
   "status_at": "2025-10-24",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Taxation"
+  ],
+  "subjects_top_term": "Taxation",
   "summary": null,
   "titles": [
     {
@@ -487,6 +496,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-10-30T03:53:13Z",
+  "updated_at": "2025-12-04T13:14:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5827.xml"
 }

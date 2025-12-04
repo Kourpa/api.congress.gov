@@ -1,14 +1,15 @@
-<bill session="119" type="h" number="1005" updated="2025-12-03T03:06:15Z">
-  <state datetime="2025-02-12">REPORTED</state>
+<bill session="119" type="h" number="1005" updated="2025-12-04T15:28:22Z">
+  <state datetime="2025-12-03T17:03:31-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-02-12"/>
+    <unknown datetime="2025-12-03T17:03:31-05:00"/>
   </status>
   <introduced datetime="2025-02-05"/>
   <titles>
+    <title type="display">To require public elementary and secondary schools to disclose certain funds received from, or contracts with, a foreign source, and for other purposes.</title>
+    <title type="official" as="introduced">To prohibit elementary and secondary schools from accepting funds from or entering into contracts with the Government of the People's Republic of China and the Chinese Communist Party, and for other purposes.</title>
+    <title type="official" as="amended by house">To require public elementary and secondary schools to disclose certain funds received from, or contracts with, a foreign source, and for other purposes.</title>
     <title type="short" as="introduced">Combating the Lies of Authoritarians in School Systems Act</title>
     <title type="short" as="reported to house">Combating the Lies of Authoritarians in School Systems Act</title>
-    <title type="display">Combating the Lies of Authoritarians in School Systems Act</title>
-    <title type="official" as="introduced">To prohibit elementary and secondary schools from accepting funds from or entering into contracts with the Government of the People's Republic of China and the Chinese Communist Party, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="J000295"/>
   <cosponsors>
@@ -40,6 +41,36 @@
     <action datetime="2025-12-01T20:46:34-05:00">
       <text>Rules Committee Resolution H. Res. 916 Reported to House. Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.</text>
     </action>
+    <action datetime="2025-12-03T12:13:47-05:00">
+      <text>Considered under the provisions of rule H. Res. 916.</text>
+      <reference ref="CR H5005-5007" label="consideration"/>
+    </action>
+    <action datetime="2025-12-03T12:13:52-05:00">
+      <text>Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2025-12-03T12:14:43-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1005.</text>
+    </action>
+    <action datetime="2025-12-03T12:31:55-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-12-03T12:32:30-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1005, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Mr. Scott (VA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-12-03T16:47:58-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5012-5013" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="312" datetime="2025-12-03T17:03:31-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 242 - 176 (Roll no. 312).</text>
+      <reference ref="CR H5005-5006" label="text of amendment in the nature of a substitute"/>
+    </vote>
+    <action datetime="2025-12-03T17:03:34-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2025-12-03T17:03:35-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -54,7 +85,9 @@
     <term name="Education programs funding"/>
     <term name="Elementary and secondary education"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h113"/>
+  </amendments>
   <summary date="2025-03-24T19:57:06Z" status="Introduced in House"></summary>
   <committee-reports>
     <report>H. Rept. 119-12</report>
