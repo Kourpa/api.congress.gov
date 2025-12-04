@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1355" updated="2025-11-21T12:04:02Z">
-  <state datetime="2025-02-13">REFERRED</state>
+<bill session="119" type="h" number="1355" updated="2025-12-04T09:07:18Z">
+  <state datetime="2025-12-03">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-13"/>
+    <unknown datetime="2025-12-03"/>
   </status>
   <introduced datetime="2025-02-13"/>
   <titles>
@@ -44,14 +44,24 @@
     <action datetime="2025-11-19">
       <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
     </action>
+    <action datetime="2025-12-03">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-12-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Energy"/>
+    <term name="Building construction"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Low- and moderate-income housing"/>
   </subjects>
   <amendments/>
 </bill>

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3699" updated="2025-12-03T09:06:38Z">
-  <state datetime="2025-06-04">REFERRED</state>
+<bill session="119" type="h" number="3699" updated="2025-12-04T09:06:08Z">
+  <state datetime="2025-12-03">REPORTED</state>
   <status>
-    <introduced datetime="2025-06-04"/>
+    <unknown datetime="2025-12-03"/>
   </status>
   <introduced datetime="2025-06-04"/>
   <titles>
@@ -61,6 +61,7 @@
     <cosponsor bioguide_id="F000478" joined="2025-09-17"/>
     <cosponsor bioguide_id="F000469" joined="2025-06-11"/>
     <cosponsor bioguide_id="G000597" joined="2025-10-24"/>
+    <cosponsor bioguide_id="G000592" joined="2025-12-03"/>
     <cosponsor bioguide_id="G000601" joined="2025-06-25"/>
     <cosponsor bioguide_id="G000594" joined="2025-07-21"/>
     <cosponsor bioguide_id="G000581" joined="2025-06-04"/>
@@ -92,6 +93,7 @@
     <cosponsor bioguide_id="K000405" joined="2025-09-10"/>
     <cosponsor bioguide_id="L000585" joined="2025-06-04"/>
     <cosponsor bioguide_id="L000598" joined="2025-10-21"/>
+    <cosponsor bioguide_id="L000578" joined="2025-12-03"/>
     <cosponsor bioguide_id="L000599" joined="2025-06-04"/>
     <cosponsor bioguide_id="L000597" joined="2025-06-20"/>
     <cosponsor bioguide_id="L000583" joined="2025-11-12"/>
@@ -129,6 +131,7 @@
     <cosponsor bioguide_id="S001189" joined="2025-11-25"/>
     <cosponsor bioguide_id="S001229" joined="2025-06-04"/>
     <cosponsor bioguide_id="S001148" joined="2025-06-23"/>
+    <cosponsor bioguide_id="S001172" joined="2025-12-03"/>
     <cosponsor bioguide_id="S001199" joined="2025-10-31"/>
     <cosponsor bioguide_id="S001212" joined="2025-11-25"/>
     <cosponsor bioguide_id="S001196" joined="2025-06-04"/>
@@ -165,9 +168,15 @@
     <action datetime="2025-11-19">
       <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
     </action>
+    <action datetime="2025-12-03">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-12-03" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 24 - 21.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills/>

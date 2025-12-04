@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3474" updated="2025-11-26T09:05:41Z">
-  <state datetime="2025-05-15">REFERRED</state>
+<bill session="119" type="h" number="3474" updated="2025-12-04T09:06:11Z">
+  <state datetime="2025-12-03">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-15"/>
+    <unknown datetime="2025-12-03"/>
   </status>
   <introduced datetime="2025-05-15"/>
   <titles>
@@ -24,6 +24,7 @@
     <cosponsor bioguide_id="F000468" joined="2025-07-17"/>
     <cosponsor bioguide_id="G000597" joined="2025-07-02"/>
     <cosponsor bioguide_id="G000593" joined="2025-07-15"/>
+    <cosponsor bioguide_id="G000568" joined="2025-12-03"/>
     <cosponsor bioguide_id="H001067" joined="2025-09-26"/>
     <cosponsor bioguide_id="K000398" joined="2025-09-15"/>
     <cosponsor bioguide_id="K000385" joined="2025-07-07"/>
@@ -63,9 +64,15 @@
     <action datetime="2025-11-19">
       <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
     </action>
+    <action datetime="2025-12-03">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-12-03" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 51 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills/>

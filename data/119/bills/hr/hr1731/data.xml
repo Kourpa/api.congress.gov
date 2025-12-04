@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1731" updated="2025-11-20T09:06:57Z">
-  <state datetime="2025-02-27">REFERRED</state>
+<bill session="119" type="h" number="1731" updated="2025-12-04T09:07:15Z">
+  <state datetime="2025-12-03">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-27"/>
+    <unknown datetime="2025-12-03"/>
   </status>
   <introduced datetime="2025-02-27"/>
   <titles>
@@ -36,9 +36,15 @@
     <action datetime="2025-11-18">
       <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
     </action>
+    <action datetime="2025-12-03">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-12-03" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 49 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSIF16" name="House Energy and Commerce" subcommittee="Communications and Technology" activity="Reporting, Markup, Referral"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
@@ -46,6 +52,11 @@
   <relatedbills/>
   <subjects>
     <term name="Science, technology, communications"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Infrastructure development"/>
+    <term name="Internet, web applications, social media"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="User charges and fees"/>
   </subjects>
   <amendments/>
   <summary date="2025-06-26T18:04:45Z" status="Introduced in House"></summary>
