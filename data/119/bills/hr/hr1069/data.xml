@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1069" updated="2025-12-05T04:08:21Z">
-  <state datetime="2025-02-12">REPORTED</state>
+<bill session="119" type="h" number="1069" updated="2025-12-05T11:56:36Z">
+  <state datetime="2025-12-04T10:28:31-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-02-12"/>
+    <unknown datetime="2025-12-04T10:28:31-05:00"/>
   </status>
   <introduced datetime="2025-02-06"/>
   <titles>
@@ -42,8 +42,30 @@
     <action datetime="2025-12-01T20:46:34-05:00">
       <text>Rules Committee Resolution H. Res. 916 Reported to House. Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.</text>
     </action>
+    <action datetime="2025-12-04T09:27:34-05:00">
+      <text>Considered under the provisions of rule H. Res. 916.</text>
+    </action>
+    <action datetime="2025-12-04T09:27:39-05:00">
+      <text>Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2025-12-04T09:28:33-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1069.</text>
+    </action>
+    <action datetime="2025-12-04T09:59:52-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="313" datetime="2025-12-04T10:28:31-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 247 - 164 (Roll no. 313).</text>
+    </vote>
+    <action datetime="2025-12-04T10:28:33-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2025-12-04">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referred To"/>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
@@ -58,7 +80,9 @@
     <term name="Elementary and secondary education"/>
     <term name="Foreign language and bilingual programs"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h115"/>
+  </amendments>
   <summary date="2025-03-24T20:32:35Z" status="Introduced in House"></summary>
   <committee-reports>
     <report>H. Rept. 119-14</report>

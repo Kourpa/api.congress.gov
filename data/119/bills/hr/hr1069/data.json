@@ -73,9 +73,85 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 916 Reported to House. Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-12-04T09:27:34-05:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres916-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 916.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-04T09:27:39-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr4312-119",
+        "hr1005-119",
+        "hr1049-119",
+        "hr2965-119",
+        "hr4305-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-04T09:28:33-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 1069.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-04T09:59:52-05:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-04T10:28:31-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "313",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 247 - 164 (Roll no. 313).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-12-04T10:28:33-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-04",
+      "action_code": "",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "type": "referral"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt115-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "115"
+    }
+  ],
   "bill_id": "hr1069-119",
   "bill_type": "hr",
   "by_request": false,
@@ -83,6 +159,13 @@
     "H. Rept. 119-14"
   ],
   "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Health, Education, Labor, and Pensions",
+      "committee_id": "SSHR"
+    },
     {
       "activity": [
         "Reported By",
@@ -122,6 +205,8 @@
     "active_at": "2025-02-12",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-12-04T10:28:31-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-06",
@@ -145,8 +230,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-02-12",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-12-04T10:28:31-05:00",
   "subjects": [
     "Asia",
     "China",
@@ -228,6 +313,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-05T04:08:21Z",
+  "updated_at": "2025-12-05T11:56:36Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1069.xml"
 }

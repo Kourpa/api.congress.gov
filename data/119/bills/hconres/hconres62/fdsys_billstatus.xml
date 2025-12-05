@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>62</number>
-    <updateDate>2025-12-02T11:56:24Z</updateDate>
-    <updateDateIncludingText>2025-12-02T11:56:24Z</updateDateIncludingText>
+    <updateDate>2025-12-05T11:56:32Z</updateDate>
+    <updateDateIncludingText>2025-12-05T11:56:32Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -31,6 +31,32 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-04</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-12-04</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-12-04</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-12-01</actionDate>
         <sourceSystem>
@@ -251,8 +277,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-01</actionDate>
-      <text>Received in the Senate.</text>
+      <actionDate>2025-12-04</actionDate>
+      <text>Message on Senate action sent to the House.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

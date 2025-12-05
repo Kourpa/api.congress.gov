@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4776</number>
-    <updateDate>2025-12-05T04:08:21Z</updateDate>
-    <updateDateIncludingText>2025-12-05T04:08:21Z</updateDateIncludingText>
+    <updateDate>2025-12-05T09:06:30Z</updateDate>
+    <updateDateIncludingText>2025-12-05T09:06:30Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -22,6 +22,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-12-04T17:53:22Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-11-20T15:00:00Z</date>
           </item>
@@ -37,6 +41,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-04</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 344.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00344</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-12-04</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-395.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-12-04</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-395.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-11-20</actionDate>
         <committees>
@@ -390,8 +439,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-20</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 25 - 18.</text>
+      <actionDate>2025-12-04</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 344.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

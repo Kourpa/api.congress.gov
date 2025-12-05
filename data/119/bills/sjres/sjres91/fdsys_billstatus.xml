@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>91</number>
-    <updateDate>2025-12-05T06:16:32Z</updateDate>
-    <updateDateIncludingText>2025-12-05T06:16:32Z</updateDateIncludingText>
+    <updateDate>2025-12-05T11:56:32Z</updateDate>
+    <updateDateIncludingText>2025-12-05T11:56:32Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SJRES</type>
@@ -36,18 +36,30 @@
         <number>131</number>
         <type>HJRES</type>
         <latestAction>
-          <actionDate>2025-11-19</actionDate>
-          <text>Received in the Senate.</text>
+          <actionDate>2025-12-04</actionDate>
+          <text>Message on Senate action sent to the House.</text>
         </latestAction>
         <relationshipDetails>
           <item>
             <type>Identical bill</type>
             <identifiedBy>CRS</identifiedBy>
           </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
         </relationshipDetails>
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-12-04</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2025-12-03</actionDate>
         <sourceSystem>
@@ -219,8 +231,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-03</actionDate>
-      <text>Measure laid before Senate by motion. (consideration: CR S8473)</text>
+      <actionDate>2025-12-04</actionDate>
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
