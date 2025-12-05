@@ -94,10 +94,6 @@
         {
           "reference": "CR H4989-4992",
           "type": "consideration"
-        },
-        {
-          "reference": "CR H4989-4990",
-          "type": "text"
         }
       ],
       "text": "Considered under the provisions of rule H. Res. 916.",
@@ -129,6 +125,44 @@
       "action_code": "H8D000",
       "references": [],
       "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 4305, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Ms. Velazquez demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-03T16:33:23-05:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H5011-5012",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-03T16:47:43-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR 12/02/2025 H4989-4990",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "roll": "311",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 269 - 146 (Roll no. 311).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-12-03T16:47:47-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
     }
   ],
@@ -196,6 +230,8 @@
     "active_at": "2025-11-18",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-12-03T16:47:43-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-07-10",
@@ -219,8 +255,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-11-18",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-12-03T16:47:43-05:00",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Commerce",
@@ -233,7 +269,7 @@
   "summary": {
     "as": "Reported to House",
     "asOf": "2025-11-21",
-    "date": "2025-12-01T21:06:15Z",
+    "date": "2025-12-04T19:37:55Z",
     "text": ""
   },
   "titles": [
@@ -280,6 +316,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-03T14:02:45Z",
+  "updated_at": "2025-12-04T19:38:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4305.xml"
 }
