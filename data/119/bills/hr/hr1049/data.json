@@ -127,6 +127,34 @@
       "references": [],
       "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1049, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Mr. Scott (VA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-12-04T10:29:06-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-04T10:35:11-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "314",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 247 - 166 (Roll no. 314).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-12-04T10:35:13-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [
@@ -193,11 +221,13 @@
     "active_at": "2025-02-12",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-12-04T10:35:11-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-06",
   "number": "1049",
-  "official_title": "To ensure that parents are aware of foreign influence in their child's public school, and for other purposes.",
+  "official_title": "To ensure that parents are aware of foreign influence in their child\u2019s public school, and for other purposes.",
   "popular_title": null,
   "related_bills": [
     {
@@ -222,8 +252,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-02-12",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-12-04T10:35:11-05:00",
   "subjects": [
     "Education",
     "Education programs funding",
@@ -244,6 +274,20 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "To ensure that parents are aware of foreign influence in their child's public school, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To ensure that parents are aware of foreign influence in their child\u2019s public school, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "Transparency in Reporting of Adversarial Contributions to Education Act",
       "type": "short"
     },
@@ -255,20 +299,20 @@
       "type": "short"
     },
     {
+      "as": "passed house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Transparency in Reporting of Adversarial Contributions to Education Act",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Transparency in Reporting of Adversarial Contributions to Education Act",
       "type": "display"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "To ensure that parents are aware of foreign influence in their child's public school, and for other purposes.",
-      "type": "official"
     }
   ],
-  "updated_at": "2025-12-04T15:32:36Z",
+  "updated_at": "2025-12-05T09:06:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1049.xml"
 }
