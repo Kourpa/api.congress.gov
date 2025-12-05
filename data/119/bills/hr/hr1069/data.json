@@ -80,7 +80,12 @@
       "bill_ids": [
         "hres916-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5032-5036",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 916.",
       "type": "action"
     },
@@ -116,7 +121,12 @@
       "acted_at": "2025-12-04T10:28:31-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5032",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "313",
       "status": "PASS_OVER:HOUSE",
@@ -313,6 +323,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-05T11:56:36Z",
+  "updated_at": "2025-12-05T15:54:44Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1069.xml"
 }
