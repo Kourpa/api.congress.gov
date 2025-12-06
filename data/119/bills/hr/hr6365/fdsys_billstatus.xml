@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6365</number>
-    <updateDate>2025-12-03T09:06:33Z</updateDate>
-    <updateDateIncludingText>2025-12-03T11:58:24Z</updateDateIncludingText>
+    <updateDate>2025-12-06T09:06:01Z</updateDate>
+    <updateDateIncludingText>2025-12-06T09:06:01Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,18 @@
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-12-04T15:15:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -29,6 +41,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-12-02</actionDate>
         <text>Referred to the House Committee on Natural Resources.</text>
@@ -180,8 +207,8 @@
       </item>
     </titles>
     <latestAction>
-      <actionDate>2025-12-02</actionDate>
-      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2025-12-04</actionDate>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
