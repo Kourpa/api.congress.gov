@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="3239" updated="2025-12-05T04:08:24Z">
+<bill session="119" type="s" number="3239" updated="2025-12-06T13:41:09Z">
   <state datetime="2025-11-20">REFERRED</state>
   <status>
     <introduced datetime="2025-11-20"/>
@@ -25,7 +25,11 @@
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="5312" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+  </subjects>
   <amendments/>
 </bill>

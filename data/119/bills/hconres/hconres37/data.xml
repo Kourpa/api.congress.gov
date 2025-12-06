@@ -1,4 +1,4 @@
-<bill session="119" type="hc" number="37" updated="2025-12-05T08:48:29Z">
+<bill session="119" type="hc" number="37" updated="2025-12-06T14:14:51Z">
   <state datetime="2025-06-12">REFERRED</state>
   <status>
     <introduced datetime="2025-06-12"/>
@@ -67,7 +67,11 @@
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="sc" number="14" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+  </subjects>
   <amendments/>
 </bill>
