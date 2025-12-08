@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4393" updated="2025-12-04T09:07:20Z">
+<bill session="119" type="h" number="4393" updated="2025-12-08T14:37:47Z">
   <state datetime="2025-07-15">REFERRED</state>
   <status>
     <introduced datetime="2025-07-15"/>
@@ -80,7 +80,14 @@
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="251" relation="unknown"/>
+    <bill session="119" type="h" number="2366" relation="unknown"/>
+    <bill session="119" type="s" number="2886" relation="unknown"/>
+    <bill session="119" type="h" number="5528" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+  </subjects>
   <amendments/>
 </bill>
