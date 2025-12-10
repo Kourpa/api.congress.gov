@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="5457" updated="2025-12-04T09:06:59Z">
+<bill session="119" type="h" number="5457" updated="2025-12-09T21:00:32Z">
   <state datetime="2025-12-02">REPORTED</state>
   <status>
     <unknown datetime="2025-12-02"/>
@@ -32,7 +32,12 @@
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="2417" relation="identical"/>
+    <bill session="119" type="s" number="1956" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
   <amendments/>
 </bill>
