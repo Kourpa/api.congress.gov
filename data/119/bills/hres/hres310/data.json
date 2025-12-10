@@ -23,7 +23,12 @@
     {
       "acted_at": "2025-12-09T19:07:03-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5102",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by unanimous consent.",
       "type": "action"
     },
@@ -38,7 +43,12 @@
       "acted_at": "2025-12-09T19:07:43-05:00",
       "action_code": "H37100",
       "how": "without objection",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5102",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:SIMPLERES",
       "suspension": null,
@@ -123,6 +133,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-10T09:06:01Z",
+  "updated_at": "2025-12-10T17:14:54Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres310.xml"
 }
