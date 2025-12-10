@@ -78,6 +78,77 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-12-09",
+      "action_code": "H12200",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-397, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-09",
+      "action_code": "H12300",
+      "committees": [
+        "HSAS"
+      ],
+      "references": [],
+      "text": "Committee on Armed Services discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-09",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "346",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 346.",
+      "type": "calendar",
+      "under": null
+    },
+    {
+      "acted_at": "2025-12-09T16:49:16-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Crank moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-09T16:49:30-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-09T16:49:32-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5131.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-09T16:58:20-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-12-09T16:58:23-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -88,6 +159,15 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Armed Services",
+      "committee_id": "HSAS"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "discharged",
         "Referred To"
@@ -104,13 +184,6 @@
       "committee_id": "HSII",
       "subcommittee": "Subcommittee on Federal Lands",
       "subcommittee_id": "10"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Armed Services",
-      "committee_id": "HSAS"
     }
   ],
   "congress": "119",
@@ -132,6 +205,8 @@
     "active_at": "2025-09-18",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-12-09T16:58:20-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-09-04",
@@ -148,8 +223,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-11-20",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-12-09T16:58:20-05:00",
   "subjects": [
     "Alaska",
     "Armed forces and national security",
@@ -168,6 +243,20 @@
   },
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Public Lands Military Readiness Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Public Lands Military Readiness Act of 2025",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -178,17 +267,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Public Lands Military Readiness Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To extend military land withdrawals in Alaska, New Mexico, and California for a period of 25 years and to make technical corrections to descriptions for certain military land withdrawals, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-08T22:42:23Z",
+  "updated_at": "2025-12-10T09:06:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5131.xml"
 }

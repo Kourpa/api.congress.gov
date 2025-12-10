@@ -78,6 +78,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by Unanimous Consent.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-12-09",
+      "action_code": "H12200",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 119-398, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-09",
+      "action_code": "H12300",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Committee on Energy and Commerce discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-09",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "347",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 347.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -88,6 +118,15 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Energy and Commerce",
+      "committee_id": "HSIF"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "discharged",
         "Referred To"
@@ -104,13 +143,6 @@
       "committee_id": "HSII",
       "subcommittee": "Subcommittee on Indian and Insular Affairs",
       "subcommittee_id": "24"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Energy and Commerce",
-      "committee_id": "HSIF"
     }
   ],
   "congress": "119",
@@ -156,6 +188,20 @@
   "summary": null,
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Southcentral Foundation Land Transfer Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Southcentral Foundation Land Transfer Act of 2025",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -166,17 +212,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Southcentral Foundation Land Transfer Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To provide for the conveyance of certain property to the Southcentral Foundation located in Anchorage, Alaska, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-05T21:39:42Z",
+  "updated_at": "2025-12-10T09:06:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3620.xml"
 }

@@ -38,6 +38,47 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 23 - 15.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-12-09T17:43:49-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Gill (TX) moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-09T17:43:59-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-09T17:44:01-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1372.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-09T17:49:48-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-12-09T17:49:50-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -144,6 +185,8 @@
     "active_at": "2025-04-30",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-12-09T17:49:48-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-14",
@@ -160,8 +203,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-04-30",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2025-12-09T17:49:48-05:00",
   "subjects": [
     "Congressional tributes",
     "Government buildings, facilities, and property",
@@ -192,6 +235,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-08T15:22:09Z",
+  "updated_at": "2025-12-10T09:06:04Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1372.xml"
 }

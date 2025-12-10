@@ -3,19 +3,32 @@
   <version>3.0.0</version>
   <bill>
     <number>446</number>
-    <updateDate>2025-05-07T15:02:02Z</updateDate>
-    <updateDateIncludingText>2025-05-07T15:02:02Z</updateDateIncludingText>
+    <updateDate>2025-12-10T11:56:36Z</updateDate>
+    <updateDateIncludingText>2025-12-10T11:56:36Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
     <introducedDate>2025-02-06</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/446</legislationUrl>
     <committees>
       <item>
         <systemCode>sseg00</systemCode>
         <name>Energy and Natural Resources Committee</name>
         <chamber>Senate</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>sseg04</systemCode>
+            <name>National Parks Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2025-12-09T18:12:41Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -43,6 +56,20 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-12-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg04</systemCode>
+            <name>National Parks Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-02-06</actionDate>
         <committees>
@@ -83,7 +110,20 @@
       <name>Public Lands and Natural Resources</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Florida</name>
+          <updateDate>2025-09-25T20:04:36Z</updateDate>
+        </item>
+        <item>
+          <name>Parks, recreation areas, trails</name>
+          <updateDate>2025-09-25T20:04:36Z</updateDate>
+        </item>
+        <item>
+          <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          <updateDate>2025-09-25T20:04:36Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Public Lands and Natural Resources</name>
         <updateDate>2025-05-06T12:39:47Z</updateDate>
@@ -118,8 +158,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-06</actionDate>
-      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2025-12-09</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

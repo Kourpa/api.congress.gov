@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>186</number>
-    <updateDate>2025-12-05T21:51:26Z</updateDate>
-    <updateDateIncludingText>2025-12-05T21:51:26Z</updateDateIncludingText>
+    <updateDate>2025-12-10T11:56:37Z</updateDate>
+    <updateDateIncludingText>2025-12-10T11:56:37Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,18 @@
         <name>Energy and Natural Resources Committee</name>
         <chamber>Senate</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>sseg04</systemCode>
+            <name>National Parks Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2025-12-09T18:14:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -47,8 +59,8 @@
         <number>858</number>
         <type>S</type>
         <latestAction>
-          <actionDate>2025-03-05</actionDate>
-          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2025-12-09</actionDate>
+          <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -59,6 +71,20 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-12-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg04</systemCode>
+            <name>National Parks Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-01-22</actionDate>
         <committees>
@@ -453,8 +479,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-01-22</actionDate>
-      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2025-12-09</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

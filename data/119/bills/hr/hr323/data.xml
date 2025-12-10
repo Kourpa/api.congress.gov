@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="323" updated="2025-05-29T17:20:16Z">
-  <state datetime="2025-04-30">REPORTED</state>
+<bill session="119" type="h" number="323" updated="2025-12-10T09:06:28Z">
+  <state datetime="2025-12-09T17:07:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-04-30"/>
+    <unknown datetime="2025-12-09T17:07:00-05:00"/>
   </status>
   <introduced datetime="2025-01-09"/>
   <titles>
@@ -47,6 +47,21 @@
     </action>
     <action datetime="2025-04-30" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 23 - 15.</text>
+    </action>
+    <action datetime="2025-12-09T17:00:26-05:00">
+      <text>Mr. Gill (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-12-09T17:00:38-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-12-09T17:00:40-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 323.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-12-09T17:07:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-12-09T17:07:20-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

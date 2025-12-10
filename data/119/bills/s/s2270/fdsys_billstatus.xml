@@ -3,19 +3,32 @@
   <version>3.0.0</version>
   <bill>
     <number>2270</number>
-    <updateDate>2025-07-30T22:40:14Z</updateDate>
-    <updateDateIncludingText>2025-07-30T22:40:14Z</updateDateIncludingText>
+    <updateDate>2025-12-10T12:03:19Z</updateDate>
+    <updateDateIncludingText>2025-12-10T12:03:19Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
     <introducedDate>2025-07-14</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/2270</legislationUrl>
     <committees>
       <item>
         <systemCode>sseg00</systemCode>
         <name>Energy and Natural Resources Committee</name>
         <chamber>Senate</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>sseg04</systemCode>
+            <name>National Parks Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2025-12-09T18:13:13Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -25,6 +38,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg04</systemCode>
+            <name>National Parks Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-07-14</actionDate>
         <committees>
@@ -77,7 +104,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Myakka Wild and Scenic River Act of 2025</title>
-        <updateDate>2025-07-25T02:23:22Z</updateDate>
+        <updateDate>2025-12-10T12:03:19Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -108,8 +135,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-14</actionDate>
-      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2025-12-09</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -69,6 +69,21 @@
       "references": [],
       "text": "Held at the desk.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-12-09T19:52:18-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres936-119",
+        "hr3898-119",
+        "hr3383-119",
+        "hr3638-119",
+        "hr3628-119",
+        "hr3668-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 936 Reported to House. Rule provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, H.R. 3668 and S. 1071. The resolution provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, and H.R. 3628 under a structured rule; and H.R. 3668 and S. 1071 under a closed rule. The resolution provides for one motion to recommit on H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, and H.R. 3668; and one motion to commit on S. 1071.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -113,7 +128,14 @@
   "number": "1071",
   "official_title": "A bill to require the Secretary of Veterans Affairs to disinter the remains of Fernando V. Cota from Fort Sam Houston National Cemetery, Texas, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres936-119",
+      "identified_by": "House",
+      "reason": "procedurally related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "C001056",
@@ -149,6 +171,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-09T21:05:15Z",
+  "updated_at": "2025-12-10T09:06:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1071.xml"
 }

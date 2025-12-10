@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="5131" updated="2025-12-08T22:42:23Z">
-  <state datetime="2025-11-20">REPORTED</state>
+<bill session="119" type="h" number="5131" updated="2025-12-10T09:06:20Z">
+  <state datetime="2025-12-09T16:58:20-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-11-20"/>
+    <unknown datetime="2025-12-09T16:58:20-05:00"/>
   </status>
   <introduced datetime="2025-09-04"/>
   <titles>
-    <title type="display">Public Lands Military Readiness Act of 2025</title>
     <title type="short" as="introduced">Public Lands Military Readiness Act of 2025</title>
+    <title type="short" as="reported to house">Public Lands Military Readiness Act of 2025</title>
+    <title type="display">Public Lands Military Readiness Act of 2025</title>
     <title type="official" as="introduced">To extend military land withdrawals in Alaska, New Mexico, and California for a period of 25 years and to make technical corrections to descriptions for certain military land withdrawals, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="B001323"/>
@@ -38,11 +39,35 @@
     <action datetime="2025-11-20" state="REPORTED">
       <text>Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.</text>
     </action>
+    <action datetime="2025-12-09">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-397, Part I.</text>
+    </action>
+    <action datetime="2025-12-09">
+      <text>Committee on Armed Services discharged.</text>
+    </action>
+    <calendar datetime="2025-12-09" calendar="Union" number="346">
+      <text>Placed on the Union Calendar, Calendar No. 346.</text>
+    </calendar>
+    <action datetime="2025-12-09T16:49:16-05:00">
+      <text>Mr. Crank moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2025-12-09T16:49:30-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-12-09T16:49:32-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5131.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-12-09T16:58:20-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-12-09T16:58:23-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
-    <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
