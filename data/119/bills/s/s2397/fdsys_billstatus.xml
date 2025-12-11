@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>2397</number>
-    <updateDate>2025-08-07T15:46:01Z</updateDate>
-    <updateDateIncludingText>2025-08-07T15:46:01Z</updateDateIncludingText>
+    <updateDate>2025-12-11T12:03:17Z</updateDate>
+    <updateDateIncludingText>2025-12-11T12:03:17Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
     <introducedDate>2025-07-23</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/2397</legislationUrl>
     <committees>
       <item>
         <systemCode>ssva00</systemCode>
@@ -18,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Hearings By (full committee)</name>
+            <date>2025-12-10T21:00:28Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-07-23T16:19:38Z</date>
           </item>
@@ -25,6 +30,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-07-23</actionDate>
         <committees>
@@ -73,6 +92,16 @@
         <sponsorshipDate>2025-07-23</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>S001208</bioguideId>
+        <fullName>Sen. Slotkin, Elissa [D-MI]</fullName>
+        <firstName>Elissa</firstName>
+        <lastName>Slotkin</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <sponsorshipDate>2025-12-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Armed Forces and National Security</name>
@@ -90,7 +119,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>CARING for Our Veterans Health Act of 2025</title>
-        <updateDate>2025-08-06T04:53:23Z</updateDate>
+        <updateDate>2025-12-11T12:03:17Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -129,8 +158,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-23</actionDate>
-      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2025-12-10</actionDate>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-10",
+      "action_code": "",
+      "committee": "Committee on Small Business and Entrepreneurship",
+      "committees": [
+        "SSSB"
+      ],
+      "references": [],
+      "text": "Committee on Small Business and Entrepreneurship. Hearings held.",
+      "type": "hearings"
     }
   ],
   "amendments": [],
@@ -25,6 +36,13 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Hearings By (full committee)"
+      ],
+      "committee": "Senate Small Business and Entrepreneurship",
+      "committee_id": "SSSB"
+    },
     {
       "activity": [
         "Referred To"
@@ -188,7 +206,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-12-10",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -244,6 +263,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-05T22:56:07Z",
+  "updated_at": "2025-12-11T12:03:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1991.xml"
 }

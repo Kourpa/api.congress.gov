@@ -91,7 +91,7 @@
       "action_code": "H30000",
       "references": [
         {
-          "reference": "CR H3572-3620: 4",
+          "reference": "CR H3572-3620",
           "type": "consideration"
         }
       ],
@@ -117,7 +117,7 @@
       "action_code": "H30000",
       "references": [
         {
-          "reference": "CR H3622-3623: 2",
+          "reference": "CR H3622-3623",
           "type": "consideration"
         }
       ],
@@ -130,7 +130,7 @@
       "how": "roll",
       "references": [
         {
-          "reference": "CR H3572-3617: 4",
+          "reference": "CR H3572-3617",
           "type": "text"
         }
       ],
@@ -271,6 +271,12 @@
     {
       "bill_id": "s524-119",
       "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s1071-119",
+      "identified_by": "House",
       "reason": "related",
       "type": "bill"
     }
@@ -414,6 +420,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-08-29T15:45:51Z",
+  "updated_at": "2025-12-11T09:06:54Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4275.xml"
 }

@@ -1,18 +1,19 @@
-<bill session="119" type="s" number="2584" updated="2025-12-11T07:08:18Z">
-  <state datetime="2025-07-31">REFERRED</state>
+<bill session="119" type="s" number="2584" updated="2025-12-11T11:58:33Z">
+  <state datetime="2025-12-10">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-07-31"/>
+    <unknown datetime="2025-12-10"/>
   </status>
   <introduced datetime="2025-07-31"/>
   <titles>
+    <title type="display">Enduring Justice for Victims of Trafficking Act</title>
     <title type="short" as="introduced">Enduring Justice for Victims of Trafficking Act</title>
     <title type="short" as="passed senate">Enduring Justice for Victims of Trafficking Act</title>
-    <title type="display">Enduring Justice for Victims of Trafficking Act</title>
     <title type="official" as="introduced">A bill to amend title 18, United States Code, regarding additional assessments on convicted persons, and for other persons.</title>
   </titles>
   <sponsor bioguide_id="C001056"/>
   <cosponsors>
     <cosponsor bioguide_id="K000367" joined="2025-07-31"/>
+    <cosponsor bioguide_id="W000790" joined="2025-12-10"/>
   </cosponsors>
   <actions>
     <action datetime="2025-07-31">
@@ -21,9 +22,18 @@
     <action datetime="2025-07-31" state="REFERRED">
       <text>Read twice and referred to the Committee on the Judiciary.</text>
     </action>
+    <action datetime="2025-12-10">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2025-12-10">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-12-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="4929" relation="identical"/>

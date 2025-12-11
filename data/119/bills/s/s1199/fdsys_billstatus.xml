@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>1199</number>
-    <updateDate>2025-08-01T03:53:17Z</updateDate>
-    <updateDateIncludingText>2025-08-01T03:53:17Z</updateDateIncludingText>
+    <updateDate>2025-12-11T12:03:16Z</updateDate>
+    <updateDateIncludingText>2025-12-11T12:03:16Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
     <introducedDate>2025-03-27</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/1199</legislationUrl>
     <committees>
       <item>
         <systemCode>sssb00</systemCode>
@@ -17,6 +18,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Hearings By (full committee)</name>
+            <date>2025-12-10T19:30:00Z</date>
+          </item>
           <item>
             <name>Reported By</name>
             <date>2025-07-30T15:48:05Z</date>
@@ -33,6 +38,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>sssb00</systemCode>
+            <name>Small Business and Entrepreneurship Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-07-30</actionDate>
         <sourceSystem>
@@ -125,7 +144,24 @@
       <name>Commerce</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+          <updateDate>2025-08-29T13:42:30Z</updateDate>
+        </item>
+        <item>
+          <name>Criminal investigation, prosecution, interrogation</name>
+          <updateDate>2025-08-29T13:42:30Z</updateDate>
+        </item>
+        <item>
+          <name>Fraud offenses and financial crimes</name>
+          <updateDate>2025-08-29T13:42:30Z</updateDate>
+        </item>
+        <item>
+          <name>Small Business Administration</name>
+          <updateDate>2025-08-29T13:42:30Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Commerce</name>
         <updateDate>2025-04-01T18:35:17Z</updateDate>
@@ -133,6 +169,12 @@
     </subjects>
     <title>SBA Fraud Enforcement Extension Act</title>
     <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>SBA Fraud Enforcement Extension Act</title>
+        <updateDate>2025-12-11T12:03:16Z</updateDate>
+      </item>
       <item>
         <titleType>Short Title(s) as Reported to Senate</titleType>
         <titleTypeCode>103</titleTypeCode>
@@ -142,12 +184,6 @@
         <chamberName>Senate</chamberName>
         <billTextVersionName>Reported to Senate</billTextVersionName>
         <billTextVersionCode>RS</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>SBA Fraud Enforcement Extension Act</title>
-        <updateDate>2025-07-31T11:03:19Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -187,8 +223,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-30</actionDate>
-      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 134.</text>
+      <actionDate>2025-12-10</actionDate>
+      <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
