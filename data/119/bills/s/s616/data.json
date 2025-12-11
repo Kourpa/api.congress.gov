@@ -38,7 +38,7 @@
           "type": "consideration"
         },
         {
-          "reference": "CR S2709-2710: 2",
+          "reference": "CR S2709-2710",
           "type": "text"
         }
       ],
@@ -120,6 +120,13 @@
       "references": [],
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-12-10",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -154,7 +161,8 @@
   "history": {
     "active": true,
     "active_at": "2025-04-30",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2025-12-10",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-12-01T16:00:31-05:00",
@@ -228,6 +236,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-04T03:38:20Z",
+  "updated_at": "2025-12-11T09:06:38Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s616.xml"
 }
