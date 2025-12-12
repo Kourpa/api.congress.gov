@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="3385" updated="2025-12-11T12:08:22Z">
-  <state datetime="2025-12-08">INTRODUCED</state>
+<bill session="119" type="s" number="3385" updated="2025-12-12T12:08:28Z">
+  <state datetime="2025-12-11">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <introduced datetime="2025-12-08"/>
+    <unknown datetime="2025-12-11"/>
   </status>
   <introduced datetime="2025-12-08"/>
   <titles>
@@ -30,6 +30,9 @@
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
       <reference ref="CR S8567"/>
     </action>
+    <vote-aux how="roll" type="cloture" roll="644" datetime="2025-12-11" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 644.</text>
+    </vote-aux>
   </actions>
   <committees/>
   <relatedbills>
@@ -44,7 +47,7 @@
     <term name="Tax administration and collection, taxpayers"/>
   </subjects>
   <amendments>
-    <amendment number="s3960"/>
+    <amendment number="s3967"/>
     <amendment number="s3959"/>
   </amendments>
   <summary date="2025-12-10T15:26:21Z" status="Introduced in Senate"></summary>

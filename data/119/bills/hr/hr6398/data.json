@@ -17,6 +17,36 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-03",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Environment.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-10",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Subcommittee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-10",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 12 - 10.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -31,13 +61,25 @@
       ],
       "committee": "House Energy and Commerce",
       "committee_id": "HSIF"
+    },
+    {
+      "activity": [
+        "reporting",
+        "markup",
+        "referral"
+      ],
+      "committee": "House Energy and Commerce",
+      "committee_id": "HSIF",
+      "subcommittee": "Subcommittee on Environment",
+      "subcommittee_id": "18"
     }
   ],
   "congress": "119",
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-12-10",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -93,6 +135,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-08T14:21:13Z",
+  "updated_at": "2025-12-12T09:07:46Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6398.xml"
 }

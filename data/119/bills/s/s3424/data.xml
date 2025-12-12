@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="3424" updated="2025-12-11T14:08:30Z">
+<bill session="119" type="s" number="3424" updated="2025-12-12T12:07:13Z">
   <state datetime="2025-12-10">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-12-10"/>
@@ -22,9 +22,20 @@
     <vote how="by Unanimous Consent" type="vote" datetime="2025-12-10" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
     </vote>
+    <action datetime="2025-12-11T11:23:14-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2025-12-11T11:29:15-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2025-12-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
   </actions>
   <committees/>
   <relatedbills/>
-  <subjects/>
+  <subjects>
+    <term name="Law"/>
+  </subjects>
   <amendments/>
 </bill>

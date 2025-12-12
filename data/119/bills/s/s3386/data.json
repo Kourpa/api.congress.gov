@@ -54,9 +54,42 @@
       "references": [],
       "text": "Motion to proceed to consideration of measure withdrawn in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-12-11",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to proceed to measure considered in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-11",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "643",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 643.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt3968-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3968"
+    },
+    {
+      "amendment_id": "samdt3960-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3960"
+    }
+  ],
   "bill_id": "s3386-119",
   "bill_type": "s",
   "by_request": false,
@@ -81,6 +114,8 @@
     "active_at": "2025-12-08",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_cloture_result": "fail",
+    "senate_cloture_result_at": "2025-12-11",
     "vetoed": false
   },
   "introduced_at": "2025-12-08",
@@ -97,8 +132,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "INTRODUCED",
-  "status_at": "2025-12-08",
+  "status": "PROV_KILL:CLOTUREFAILED",
+  "status_at": "2025-12-11",
   "subjects": [
     "Health"
   ],
@@ -132,6 +167,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-11T16:09:26Z",
+  "updated_at": "2025-12-12T12:08:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3386.xml"
 }

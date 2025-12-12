@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2550" updated="2025-12-10T21:13:55Z">
-  <state datetime="2025-04-01">REFERRED</state>
+<bill session="119" type="h" number="2550" updated="2025-12-12T09:07:16Z">
+  <state datetime="2025-12-11T16:44:08-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-04-01"/>
+    <unknown datetime="2025-12-11T16:44:08-05:00"/>
   </status>
   <introduced datetime="2025-04-01"/>
   <titles>
@@ -245,11 +245,28 @@
     <action datetime="2025-04-01" state="REFERRED">
       <text>Referred to the House Committee on Oversight and Government Reform.</text>
     </action>
+    <action datetime="2025-12-11T15:03:50-05:00">
+      <text>Considered under the provisions of rule H. Res. 432.</text>
+    </action>
+    <action datetime="2025-12-11T15:04:26-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2550.</text>
+    </action>
+    <action datetime="2025-12-11T15:59:29-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="332" datetime="2025-12-11T16:44:08-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 231 - 195 (Roll no. 332).</text>
+    </vote>
+    <action datetime="2025-12-11T16:44:10-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="432" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Labor and employment"/>
   </subjects>

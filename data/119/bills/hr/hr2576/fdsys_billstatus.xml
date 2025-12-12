@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2576</number>
-    <updateDate>2025-12-05T21:55:29Z</updateDate>
-    <updateDateIncludingText>2025-12-05T21:55:29Z</updateDateIncludingText>
+    <updateDate>2025-12-12T09:08:02Z</updateDate>
+    <updateDateIncludingText>2025-12-12T09:08:02Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,18 @@
         <name>Veterans' Affairs Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-04-09T15:34:17Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -47,6 +59,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-04-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-04-01</actionDate>
         <text>Referred to the House Committee on Veterans' Affairs.</text>
@@ -304,8 +331,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-01</actionDate>
-      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2025-04-09</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

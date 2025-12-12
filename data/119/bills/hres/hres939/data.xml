@@ -1,7 +1,7 @@
-<bill session="119" type="hr" number="939" updated="2025-12-11T10:33:31Z">
-  <state datetime="2025-12-10">REFERRED</state>
+<bill session="119" type="hr" number="939" updated="2025-12-12T09:08:17Z">
+  <state datetime="2025-12-11T14:08:35-05:00">FAIL:ORIGINATING:HOUSE</state>
   <status>
-    <introduced datetime="2025-12-10"/>
+    <unknown datetime="2025-12-11T14:08:35-05:00"/>
   </status>
   <introduced datetime="2025-12-10"/>
   <titles>
@@ -9,7 +9,9 @@
     <title type="display">Impeaching Donald John Trump, President of the United States for high crimes and misdemeanors.</title>
   </titles>
   <sponsor bioguide_id="G000553"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001072" joined="2025-12-11"/>
+  </cosponsors>
   <actions>
     <action datetime="2025-12-10">
       <text>Submitted in House</text>
@@ -19,6 +21,21 @@
     </action>
     <action datetime="2025-12-10T21:25:28-05:00">
       <text>NOTIFICATION OF INTENT TO OFFER RESOLUTION - Mr. Green (TX) notified the House of his intent to offer a privileged resolution pursuant to clause 2(a)(1) of rule IX. The Chair announced that a determination will be made at the time designated for consideration of the resolution.</text>
+    </action>
+    <action datetime="2025-12-11T13:37:30-05:00">
+      <text>QUESTION OF THE PRIVILEGES OF THE HOUSE - Mr. Green (TX) rose to a question of the privileges of the House and offered the resolution. The Chair directed the Clerk to report the resolution. Upon examination of the resolution, the Chair determined that the resolution did constitute a question of the privileges of the House.</text>
+    </action>
+    <action datetime="2025-12-11T13:37:46-05:00">
+      <text>Considered as privileged matter.</text>
+    </action>
+    <action datetime="2025-12-11T13:38:23-05:00">
+      <text>Mr. Scalise moved to table the measure.</text>
+    </action>
+    <vote how="roll" type="vote" roll="322" datetime="2025-12-11T14:08:35-05:00" where="h" result="fail" state="FAIL:ORIGINATING:HOUSE">
+      <text>On motion to table the measure Agreed to by the Yeas and Nays: 237 - 140, 47 Present (Roll no. 322).</text>
+    </vote>
+    <action datetime="2025-12-11T14:08:37-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

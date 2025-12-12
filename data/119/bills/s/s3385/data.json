@@ -52,14 +52,27 @@
       ],
       "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-12-11",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "644",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 644.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
     }
   ],
   "amendments": [
     {
-      "amendment_id": "samdt3960-119",
+      "amendment_id": "samdt3967-119",
       "amendment_type": "samdt",
       "chamber": "s",
-      "number": "3960"
+      "number": "3967"
     },
     {
       "amendment_id": "samdt3959-119",
@@ -81,6 +94,8 @@
     "active_at": "2025-12-08",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_cloture_result": "fail",
+    "senate_cloture_result_at": "2025-12-11",
     "vetoed": false
   },
   "introduced_at": "2025-12-08",
@@ -104,8 +119,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "INTRODUCED",
-  "status_at": "2025-12-08",
+  "status": "PROV_KILL:CLOTUREFAILED",
+  "status_at": "2025-12-11",
   "subjects": [
     "Health care costs and insurance",
     "Health care coverage and access",
@@ -144,6 +159,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-11T12:08:22Z",
+  "updated_at": "2025-12-12T12:08:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3385.xml"
 }

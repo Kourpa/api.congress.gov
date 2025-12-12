@@ -49,6 +49,18 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 232.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-12-11",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -136,6 +148,8 @@
     "active_at": "2025-10-22",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-12-11",
     "vetoed": false
   },
   "introduced_at": "2025-05-13",
@@ -152,56 +166,14 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-10-22",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-12-11",
   "subjects": [
     "International affairs"
   ],
   "subjects_top_term": "International affairs",
   "summary": null,
   "titles": [
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "PORCUPINE Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Providing Our Regional Companions Upgraded Protection in Nefarious Environments Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "PORCUPINE Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Providing Our Regional Companions Upgraded Protection in Nefarious Environments Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "PORCUPINE Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Providing Our Regional Companions Upgraded Protection in Nefarious Environments Act",
-      "type": "short"
-    },
     {
       "as": null,
       "is_for_portion": false,
@@ -213,10 +185,52 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "PORCUPINE Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Providing Our Regional Companions Upgraded Protection in Nefarious Environments Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "PORCUPINE Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Providing Our Regional Companions Upgraded Protection in Nefarious Environments Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "PORCUPINE Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Providing Our Regional Companions Upgraded Protection in Nefarious Environments Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "A bill to amend the Arms Export Control Act to include Taiwan among the list of recipient countries with respect to which shorter certification and reporting periods apply and to expedite licensing for allies transferring military equipment to Taiwan, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-12T06:08:16Z",
+  "updated_at": "2025-12-12T11:58:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1744.xml"
 }
