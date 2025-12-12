@@ -1,7 +1,7 @@
-<bill session="119" type="hj" number="104" updated="2025-12-05T06:12:23Z">
-  <state datetime="2025-10-08">PASSED:BILL</state>
+<bill session="119" type="hj" number="104" updated="2025-12-12T12:40:56Z">
+  <state datetime="2025-12-11">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-10-08"/>
+    <unknown datetime="2025-12-11"/>
   </status>
   <introduced datetime="2025-07-10"/>
   <titles>
@@ -40,11 +40,11 @@
     </action>
     <action datetime="2025-09-03T21:01:07-04:00">
       <text>Considered as unfinished business.</text>
-      <reference ref="CR H3819: 1" label="consideration"/>
+      <reference ref="CR H3819" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="224" datetime="2025-09-03T21:27:16-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On passage Passed by the Yeas and Nays: 211 - 208 (Roll no. 224).</text>
-      <reference ref="CR H3782: 1" label="text"/>
+      <reference ref="CR H3782" label="text"/>
     </vote>
     <action datetime="2025-09-03T21:27:17-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -71,6 +71,9 @@
     <topresident datetime="2025-12-01">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-12-11" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
