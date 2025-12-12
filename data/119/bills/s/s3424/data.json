@@ -11,7 +11,16 @@
       "acted_at": "2025-12-10",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8629-8630",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S8630",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:SENATE",
       "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.",
@@ -94,7 +103,14 @@
   "number": "3424",
   "official_title": "A bill to amend titles 11 and 28, United States Code, to modify the compensation payable to trustees serving in cases under chapter 7 of title 11, United States Code, to extend the term of certain temporary offices of bankruptcy judges, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hr3867-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Bankruptcy Administration Improvement Act of 2025",
   "sponsor": {
     "bioguide_id": "C001088",
@@ -134,6 +150,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-12T12:39:55Z",
+  "updated_at": "2025-12-12T16:49:51Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3424.xml"
 }

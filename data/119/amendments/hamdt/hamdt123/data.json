@@ -2,9 +2,21 @@
   "actions": [
     {
       "acted_at": "2025-12-11T14:27:35-05:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-11T14:27:35-05:00",
       "action_code": "73000",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5790-5791",
+          "type": "consideration"
+        }
+      ],
       "result": "fail",
       "roll": 325,
       "text": "On agreeing to the Self amendment (A001) Failed by recorded vote: 54 - 374 (Roll no. 325).",
@@ -13,17 +25,31 @@
       "where": "h"
     },
     {
-      "acted_at": "2025-12-11T14:27:35-05:00",
-      "action_code": "75000",
-      "references": [],
-      "text": "",
+      "acted_at": "2025-12-10T20:39:36-05:00",
+      "action_code": "71000",
+      "references": [
+        {
+          "reference": "CR H5547",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H5547",
+          "type": "text"
+        }
+      ],
+      "text": "Amendment (A001) offered by Mr. Self.",
       "type": "action"
     },
     {
-      "acted_at": "2025-12-10T20:39:36-05:00",
-      "action_code": "71000",
-      "references": [],
-      "text": "Amendment (A001) offered by Mr. Self.",
+      "acted_at": "2025-12-11T14:27:35-05:00",
+      "action_code": "73000",
+      "references": [
+        {
+          "reference": "CR H5790-5791",
+          "type": "consideration"
+        }
+      ],
+      "text": "House amendment not agreed to: On agreeing to the Self amendment (A001) Failed by recorded vote: 54 - 374 (Roll no. 325).",
       "type": "action"
     },
     {
@@ -31,13 +57,6 @@
       "action_code": "75000",
       "references": [],
       "text": "Roll call votes on amendments in House",
-      "type": "action"
-    },
-    {
-      "acted_at": "2025-12-11T14:27:35-05:00",
-      "action_code": "73000",
-      "references": [],
-      "text": "House amendment not agreed to: On agreeing to the Self amendment (A001) Failed by recorded vote: 54 - 374 (Roll no. 325).",
       "type": "action"
     },
     {
@@ -74,5 +93,5 @@
   },
   "status": "fail",
   "status_at": "2025-12-11T14:27:35-05:00",
-  "updated_at": "2025-12-12T09:09:14Z"
+  "updated_at": "2025-12-12T17:54:15Z"
 }

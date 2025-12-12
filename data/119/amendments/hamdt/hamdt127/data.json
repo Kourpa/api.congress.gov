@@ -2,9 +2,21 @@
   "actions": [
     {
       "acted_at": "2025-12-11T14:34:52-05:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-11T14:34:52-05:00",
       "action_code": "73000",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5792",
+          "type": "consideration"
+        }
+      ],
       "result": "fail",
       "roll": 327,
       "text": "On agreeing to the Waters amendment (A005) Failed by recorded vote: 214 - 215 (Roll no. 327).",
@@ -13,23 +25,30 @@
       "where": "h"
     },
     {
-      "acted_at": "2025-12-11T14:34:52-05:00",
-      "action_code": "75000",
-      "references": [],
-      "text": "",
-      "type": "action"
-    },
-    {
       "acted_at": "2025-12-10T21:13:25-05:00",
       "action_code": "71000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5551-5555",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H5551-5554",
+          "type": "text"
+        }
+      ],
       "text": "Amendment (A005) offered by Ms. Waters.",
       "type": "action"
     },
     {
       "acted_at": "2025-12-11T14:34:52-05:00",
       "action_code": "73000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5792",
+          "type": "consideration"
+        }
+      ],
       "text": "House amendment not agreed to: On agreeing to the Waters amendment (A005) Failed by recorded vote: 214 - 215 (Roll no. 327).",
       "type": "action"
     },
@@ -74,5 +93,5 @@
   },
   "status": "fail",
   "status_at": "2025-12-11T14:34:52-05:00",
-  "updated_at": "2025-12-12T09:09:14Z"
+  "updated_at": "2025-12-12T17:54:15Z"
 }

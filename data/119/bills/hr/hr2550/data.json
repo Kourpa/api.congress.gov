@@ -24,7 +24,12 @@
       "bill_ids": [
         "hres432-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5795-5802",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 432.",
       "type": "action"
     },
@@ -46,7 +51,12 @@
       "acted_at": "2025-12-11T16:44:08-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5795",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "332",
       "status": "PASS_OVER:HOUSE",
@@ -2407,6 +2417,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-12T09:07:16Z",
+  "updated_at": "2025-12-12T17:56:45Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2550.xml"
 }

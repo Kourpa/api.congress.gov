@@ -110,7 +110,16 @@
       "bill_ids": [
         "hres936-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5522-5528",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H5522-5523",
+          "type": "text"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 936.",
       "type": "action"
     },
@@ -155,7 +164,12 @@
     {
       "acted_at": "2025-12-11T14:08:41-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5789",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -313,6 +327,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-12T09:07:22Z",
+  "updated_at": "2025-12-12T17:50:05Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3628.xml"
 }

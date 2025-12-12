@@ -31,7 +31,12 @@
     {
       "acted_at": "2025-12-10",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8628",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -39,7 +44,12 @@
       "acted_at": "2025-12-10",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8628",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:SENATE",
       "text": "Passed Senate with an amendment by Unanimous Consent.",
@@ -182,6 +192,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2025-12-12T16:04:03Z",
+  "updated_at": "2025-12-12T16:55:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2584.xml"
 }
