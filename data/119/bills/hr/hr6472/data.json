@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Education and Workforce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-11",
+      "action_code": "",
+      "committees": [
+        "HSED"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-11",
+      "action_code": "",
+      "committees": [
+        "HSED"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 1.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Education and Workforce",
@@ -78,7 +100,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-12-11",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -97,8 +120,8 @@
     "title": "Del.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-12-04",
+  "status": "REPORTED",
+  "status_at": "2025-12-11",
   "subjects": [
     "Education"
   ],
@@ -120,6 +143,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-08T14:18:04Z",
+  "updated_at": "2025-12-13T09:06:51Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6472.xml"
 }

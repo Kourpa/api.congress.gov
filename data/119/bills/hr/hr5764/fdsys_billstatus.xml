@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5764</number>
-    <updateDate>2025-12-09T17:53:16Z</updateDate>
-    <updateDateIncludingText>2025-12-09T17:53:16Z</updateDateIncludingText>
+    <updateDate>2025-12-13T09:08:22Z</updateDate>
+    <updateDateIncludingText>2025-12-13T09:08:22Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -22,6 +22,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-12-12T15:40:56Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-11-18T17:54:52Z</date>
           </item>
@@ -33,6 +37,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-12</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 351.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00351</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-12-12</actionDate>
+        <text>Reported (Amended) by the Committee on Small Business. H. Rept. 119-403.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-12-12</actionDate>
+        <text>Reported (Amended) by the Committee on Small Business. H. Rept. 119-403.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-11-18</actionDate>
         <committees>
@@ -188,13 +237,23 @@
         <updateDate>2025-12-09T15:43:04Z</updateDate>
       </policyArea>
     </subjects>
-    <title>AI for Mainstreet Act</title>
+    <title>AI for Main Street Act</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>AI for Mainstreet Act</title>
-        <updateDate>2025-10-18T08:23:15Z</updateDate>
+        <title>AI for Main Street Act</title>
+        <updateDate>2025-12-13T09:08:22Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>AI for Main Street Act</title>
+        <updateDate>2025-12-13T09:08:21Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -215,6 +274,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-12-12T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr5764rh/xml/BILLS-119hr5764rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-10-17T04:00:00Z</date>
         <formats>
@@ -225,8 +293,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-18</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 0.</text>
+      <actionDate>2025-12-12</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 351.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

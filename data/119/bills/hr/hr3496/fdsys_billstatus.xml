@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3496</number>
-    <updateDate>2025-12-08T18:54:06Z</updateDate>
-    <updateDateIncludingText>2025-12-08T18:54:06Z</updateDateIncludingText>
+    <updateDate>2025-12-13T09:08:21Z</updateDate>
+    <updateDateIncludingText>2025-12-13T09:08:21Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -22,6 +22,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-12-12T15:19:29Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-11-18T17:53:47Z</date>
           </item>
@@ -33,6 +37,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-12</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 350.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00350</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-12-12</actionDate>
+        <text>Reported (Amended) by the Committee on Small Business. H. Rept. 119-402.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-12-12</actionDate>
+        <text>Reported (Amended) by the Committee on Small Business. H. Rept. 119-402.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-11-18</actionDate>
         <committees>
@@ -182,6 +231,16 @@
     <title>Northern Mariana Islands Small Business Access Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Northern Mariana Islands Small Business Access Act</title>
+        <updateDate>2025-12-13T09:08:21Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Northern Mariana Islands Small Business Access Act</title>
@@ -206,6 +265,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-12-12T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr3496rh/xml/BILLS-119hr3496rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-05-19T04:00:00Z</date>
         <formats>
@@ -216,8 +284,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-18</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 0.</text>
+      <actionDate>2025-12-12</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 350.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
