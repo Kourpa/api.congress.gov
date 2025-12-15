@@ -127,6 +127,14 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2025-12-12",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
     }
   ],
   "amendments": [],
@@ -162,7 +170,7 @@
     "active": true,
     "active_at": "2025-04-30",
     "awaiting_signature": true,
-    "awaiting_signature_since": "2025-12-10",
+    "awaiting_signature_since": "2025-12-12",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-12-01T16:00:31-05:00",
@@ -184,15 +192,15 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2025-12-01T16:00:31-05:00",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2025-12-12",
   "subjects": [
-    "Crime and law enforcement",
     "District of Columbia",
     "Federally chartered organizations",
+    "Law",
     "Lawyers and legal services"
   ],
-  "subjects_top_term": "Crime and law enforcement",
+  "subjects_top_term": "Law",
   "summary": {
     "as": "Introduced in Senate",
     "asOf": "2025-02-18",
@@ -236,6 +244,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-11T09:06:38Z",
+  "updated_at": "2025-12-15T17:41:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s616.xml"
 }

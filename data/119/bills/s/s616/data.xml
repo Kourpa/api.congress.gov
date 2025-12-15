@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="616" updated="2025-12-11T09:06:38Z">
-  <state datetime="2025-12-01T16:00:31-05:00">PASSED:BILL</state>
+<bill session="119" type="s" number="616" updated="2025-12-15T17:41:07Z">
+  <state datetime="2025-12-12">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-12-01T16:00:31-05:00"/>
+    <unknown datetime="2025-12-12"/>
   </status>
   <introduced datetime="2025-02-18"/>
   <titles>
@@ -59,13 +59,16 @@
     <topresident datetime="2025-12-10">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-12-12" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
   </actions>
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
-    <term name="Crime and law enforcement"/>
+    <term name="Law"/>
     <term name="District of Columbia"/>
     <term name="Federally chartered organizations"/>
     <term name="Lawyers and legal services"/>

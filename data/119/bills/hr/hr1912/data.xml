@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1912" updated="2025-12-04T09:05:55Z">
-  <state datetime="2025-11-20">PASSED:BILL</state>
+<bill session="119" type="h" number="1912" updated="2025-12-15T16:39:05Z">
+  <state datetime="2025-12-12">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-11-20"/>
+    <unknown datetime="2025-12-12"/>
   </status>
   <introduced datetime="2025-03-06"/>
   <titles>
@@ -44,7 +44,7 @@
     </action>
     <vote how="by voice vote" type="vote" datetime="2025-05-05T15:03:50-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
-      <reference ref="CR H1817-1818: 1" label="text"/>
+      <reference ref="CR H1817-1818" label="text"/>
     </vote>
     <action datetime="2025-05-05T15:03:52-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -65,6 +65,9 @@
     <topresident datetime="2025-12-03">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-12-12" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
   </actions>
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Discharged From, Referred To"/>

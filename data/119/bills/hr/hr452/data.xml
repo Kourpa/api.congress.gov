@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="452" updated="2025-12-02T09:05:18Z">
-  <state datetime="2025-09-15T15:26:57-04:00">PASSED:BILL</state>
+<bill session="119" type="h" number="452" updated="2025-12-15T16:38:14Z">
+  <state datetime="2025-12-12">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2025-09-15T15:26:57-04:00"/>
+    <unknown datetime="2025-12-12"/>
   </status>
   <introduced datetime="2025-01-15"/>
   <titles>
@@ -348,7 +348,7 @@
     </action>
     <action datetime="2025-09-08">
       <text>Measure laid before Senate by unanimous consent.</text>
-      <reference ref="CR S6439-6440: 3" label="consideration"/>
+      <reference ref="CR S6439-6440" label="consideration"/>
     </action>
     <vote how="by Unanimous Consent" type="vote2" datetime="2025-09-08" where="s" result="pass" state="PASS_BACK:SENATE">
       <text>Passed Senate with an amendment by Unanimous Consent.</text>
@@ -373,6 +373,9 @@
     <topresident datetime="2025-12-01">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2025-12-12" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
   </actions>
   <committees>
     <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Discharged From, Referred To"/>
