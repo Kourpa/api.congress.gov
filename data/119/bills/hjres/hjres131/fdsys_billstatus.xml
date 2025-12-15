@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>131</number>
-    <updateDate>2025-12-12T21:27:19Z</updateDate>
-    <updateDateIncludingText>2025-12-12T21:27:19Z</updateDateIncludingText>
+    <updateDate>2025-12-15T14:24:01Z</updateDate>
+    <updateDateIncludingText>2025-12-15T14:24:01Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HJRES</type>
@@ -77,6 +77,16 @@
         <text>Became Public Law No: 119-52.</text>
         <type>President</type>
         <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-12-11</actionDate>
+        <text>Became Public Law</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -363,6 +373,12 @@
         <isByRequest>N</isByRequest>
       </item>
     </sponsors>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>119-52</number>
+      </item>
+    </laws>
     <policyArea>
       <name>Energy</name>
     </policyArea>
@@ -459,6 +475,11 @@
             <url>https://www.govinfo.gov/content/pkg/BILLS-119hjres131ih/xml/BILLS-119hjres131ih.xml</url>
           </item>
         </formats>
+      </item>
+      <item>
+        <date>2025-12-12T04:59:59Z</date>
+        <formats/>
+        <type>Public Law</type>
       </item>
     </textVersions>
     <latestAction>

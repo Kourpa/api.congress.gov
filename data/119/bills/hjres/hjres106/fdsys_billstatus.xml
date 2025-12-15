@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>106</number>
-    <updateDate>2025-12-12T21:26:30Z</updateDate>
-    <updateDateIncludingText>2025-12-12T21:26:30Z</updateDateIncludingText>
+    <updateDate>2025-12-15T14:21:08Z</updateDate>
+    <updateDateIncludingText>2025-12-15T14:21:08Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HJRES</type>
@@ -53,6 +53,16 @@
         <text>Became Public Law No: 119-50.</text>
         <type>President</type>
         <actionCode>E40000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-12-11</actionDate>
+        <text>Became Public Law</text>
+        <type>BecameLaw</type>
+        <actionCode>36000</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -368,6 +378,12 @@
         <isByRequest>N</isByRequest>
       </item>
     </sponsors>
+    <laws>
+      <item>
+        <type>Public Law</type>
+        <number>119-50</number>
+      </item>
+    </laws>
     <policyArea>
       <name>Public Lands and Natural Resources</name>
     </policyArea>
@@ -459,6 +475,11 @@
             <url>https://www.govinfo.gov/content/pkg/BILLS-119hjres106ih/xml/BILLS-119hjres106ih.xml</url>
           </item>
         </formats>
+      </item>
+      <item>
+        <date>2025-12-12T04:59:59Z</date>
+        <formats/>
+        <type>Public Law</type>
       </item>
     </textVersions>
     <latestAction>
