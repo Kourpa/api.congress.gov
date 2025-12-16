@@ -101,7 +101,7 @@
       "action_code": "H30000",
       "references": [
         {
-          "reference": "CR H3543-3544: 1",
+          "reference": "CR H3543-3544",
           "type": "consideration"
         }
       ],
@@ -127,7 +127,7 @@
       "action_code": "H30000",
       "references": [
         {
-          "reference": "CR H3545: 1",
+          "reference": "CR H3545",
           "type": "consideration"
         }
       ],
@@ -140,7 +140,7 @@
       "how": "roll",
       "references": [
         {
-          "reference": "CR H3543: 1",
+          "reference": "CR H3543",
           "type": "text"
         }
       ],
@@ -284,7 +284,14 @@
   "number": "1917",
   "official_title": "To establish the Great Lakes Mass Marking Program, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s2880-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Great Lakes Mass Marking Program Act of 2025",
   "sponsor": {
     "bioguide_id": "D000624",
@@ -356,6 +363,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-08-14T09:21:14Z",
+  "updated_at": "2025-12-16T16:37:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1917.xml"
 }
