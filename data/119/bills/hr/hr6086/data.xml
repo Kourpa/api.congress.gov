@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6086" updated="2025-12-11T09:06:50Z">
+<bill session="119" type="h" number="6086" updated="2025-12-16T09:05:32Z">
   <state datetime="2025-11-18">REFERRED</state>
   <status>
     <introduced datetime="2025-11-18"/>
@@ -18,6 +18,8 @@
     <cosponsor bioguide_id="L000560" joined="2025-11-18"/>
     <cosponsor bioguide_id="M000871" joined="2025-12-10"/>
     <cosponsor bioguide_id="N000026" joined="2025-11-18"/>
+    <cosponsor bioguide_id="Q000023" joined="2025-12-15"/>
+    <cosponsor bioguide_id="S001229" joined="2025-12-15"/>
   </cosponsors>
   <actions>
     <action datetime="2025-11-18">
@@ -26,9 +28,13 @@
     <action datetime="2025-11-18" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2025-11-19">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW05" name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

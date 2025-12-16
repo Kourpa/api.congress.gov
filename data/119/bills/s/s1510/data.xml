@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="1510" updated="2025-12-16T06:38:14Z">
-  <state datetime="2025-04-29">REFERRED</state>
+<bill session="119" type="s" number="1510" updated="2025-12-16T11:58:16Z">
+  <state datetime="2025-12-15">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-04-29"/>
+    <unknown datetime="2025-12-15"/>
   </status>
   <introduced datetime="2025-04-29"/>
   <titles>
+    <title type="display">Civil Rights Cold Case Records Collection Reauthorization Act</title>
     <title type="short" as="introduced">Civil Rights Cold Case Records Collection Reauthorization Act</title>
     <title type="short" as="passed senate">Civil Rights Cold Case Records Collection Reauthorization Act</title>
-    <title type="display">Civil Rights Cold Case Records Collection Reauthorization Act</title>
     <title type="official" as="introduced">A bill to amend the Civil Rights Cold Case Records Collection Act of 2018 to strengthen the powers of the Civil Rights Cold Case Records Review Board, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001098"/>
@@ -21,9 +21,15 @@
     <action datetime="2025-04-29" state="REFERRED">
       <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </action>
+    <action datetime="2025-12-15">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-12-15" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="3087" relation="identical"/>

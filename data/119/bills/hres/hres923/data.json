@@ -17,6 +17,47 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Armed Services.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-15T15:02:50-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Wittman moved to suspend the rules and agree to the resolution, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-15T15:03:06-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-15T15:03:07-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 923.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-15T15:24:43-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "suspension": null,
+      "text": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2025-12-15T15:24:44-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -48,9 +89,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-12-15T15:02:50-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2025-12-15T15:24:43-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-12-03",
@@ -74,8 +118,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-12-03",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-12-15T15:24:43-05:00",
   "subjects": [
     "Armed forces and national security"
   ],
@@ -102,6 +146,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-15T20:34:43Z",
+  "updated_at": "2025-12-16T09:05:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres923.xml"
 }

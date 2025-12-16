@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3620" updated="2025-12-11T21:27:43Z">
-  <state datetime="2025-07-23">REPORTED</state>
+<bill session="119" type="h" number="3620" updated="2025-12-16T09:05:25Z">
+  <state datetime="2025-12-15T16:46:46-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-07-23"/>
+    <unknown datetime="2025-12-15T16:46:46-05:00"/>
   </status>
   <introduced datetime="2025-05-29"/>
   <titles>
@@ -46,6 +46,21 @@
     <calendar datetime="2025-12-09" calendar="Union" number="347">
       <text>Placed on the Union Calendar, Calendar No. 347.</text>
     </calendar>
+    <action datetime="2025-12-15T16:40:00-05:00">
+      <text>Mr. Stauber moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2025-12-15T16:40:01-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2025-12-15T16:40:03-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3620.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2025-12-15T16:46:46-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2025-12-15T16:46:48-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Discharged From, Referred To"/>
