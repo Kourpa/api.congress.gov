@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3187" updated="2025-12-16T09:05:30Z">
+<bill session="119" type="h" number="3187" updated="2025-12-16T17:45:18Z">
   <state datetime="2025-12-15T19:02:48-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-12-15T19:02:48-05:00"/>
@@ -43,6 +43,7 @@
     </action>
     <action datetime="2025-12-15T16:55:13-05:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5883-5884" label="consideration"/>
     </action>
     <action datetime="2025-12-15T16:55:15-05:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3187.</text>
@@ -52,9 +53,11 @@
     </action>
     <action datetime="2025-12-15T18:56:20-05:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H5888-5889" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="336" datetime="2025-12-15T19:02:48-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 336).</text>
+      <reference ref="CR H5883" label="text"/>
     </vote>
     <action datetime="2025-12-15T19:02:49-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

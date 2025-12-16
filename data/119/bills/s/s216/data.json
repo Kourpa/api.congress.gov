@@ -102,7 +102,12 @@
     {
       "acted_at": "2025-12-15T15:25:43-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5867-5869",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -214,7 +219,12 @@
     "Water quality"
   ],
   "subjects_top_term": "Public lands and natural resources",
-  "summary": null,
+  "summary": {
+    "as": "Passed Senate",
+    "asOf": "2025-05-20",
+    "date": "2025-12-16T19:23:07Z",
+    "text": ""
+  },
   "titles": [
     {
       "as": null,
@@ -252,6 +262,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-16T09:05:38Z",
+  "updated_at": "2025-12-16T19:24:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s216.xml"
 }

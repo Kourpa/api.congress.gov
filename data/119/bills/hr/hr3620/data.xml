@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3620" updated="2025-12-16T09:05:25Z">
+<bill session="119" type="h" number="3620" updated="2025-12-16T17:36:27Z">
   <state datetime="2025-12-15T16:46:46-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-12-15T16:46:46-05:00"/>
@@ -51,12 +51,14 @@
     </action>
     <action datetime="2025-12-15T16:40:01-05:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5880-5882" label="consideration"/>
     </action>
     <action datetime="2025-12-15T16:40:03-05:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3620.</text>
     </action>
     <vote how="by voice vote" type="vote" datetime="2025-12-15T16:46:46-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5880-5881" label="text"/>
     </vote>
     <action datetime="2025-12-15T16:46:48-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
