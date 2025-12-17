@@ -108,6 +108,28 @@
       "references": [],
       "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-16",
+      "action_code": "",
+      "committees": [
+        "SSEG"
+      ],
+      "references": [],
+      "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-16",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -116,6 +138,14 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "Senate Energy and Natural Resources",
+      "committee_id": "SSEG"
+    },
     {
       "activity": [
         "Referred To"
@@ -131,13 +161,6 @@
       "committee_id": "HSAG",
       "subcommittee": "Subcommittee on Forestry and Horticulture",
       "subcommittee_id": "15"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "Senate Energy and Natural Resources",
-      "committee_id": "SSEG"
     },
     {
       "activity": [
@@ -188,6 +211,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-01-21T19:07:48-05:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-12-16",
     "vetoed": false
   },
   "introduced_at": "2025-01-03",
@@ -211,8 +236,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-01-21T19:07:48-05:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-12-16",
   "subjects": [
     "Congressional oversight",
     "Geography and mapping",
@@ -291,6 +316,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-05T21:45:32Z",
+  "updated_at": "2025-12-17T11:56:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr187.xml"
 }

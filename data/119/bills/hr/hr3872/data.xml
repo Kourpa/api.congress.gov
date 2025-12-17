@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3872" updated="2025-12-17T04:23:22Z">
+<bill session="119" type="h" number="3872" updated="2025-12-17T11:56:24Z">
   <state datetime="2025-12-15T17:13:14-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-12-15T17:13:14-05:00"/>
@@ -61,8 +61,12 @@
     <action datetime="2025-12-15T17:13:16-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-12-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Discharged, Markup By, Discharged, Referred To"/>
     <committee code="HSII06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Hearings By (Subcommittee), Referral"/>
   </committees>

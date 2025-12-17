@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="355" updated="2025-12-17T06:23:19Z">
-  <state datetime="2025-02-03">REFERRED</state>
+<bill session="119" type="s" number="355" updated="2025-12-17T12:08:26Z">
+  <state datetime="2025-12-16">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-02-03"/>
+    <unknown datetime="2025-12-16"/>
   </status>
   <introduced datetime="2025-02-03"/>
   <titles>
+    <title type="display">FDA Modernization Act 3.0</title>
     <title type="short" as="introduced">FDA Modernization Act 3.0</title>
     <title type="short" as="passed senate">FDA Modernization Act 3.0</title>
-    <title type="display">FDA Modernization Act 3.0</title>
     <title type="official" as="introduced">A bill to require the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, to publish a final rule relating to nonclinical testing methods.</title>
   </titles>
   <sponsor bioguide_id="B001288"/>
@@ -29,9 +29,18 @@
     <action datetime="2025-02-03" state="REFERRED">
       <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
     </action>
+    <action datetime="2025-12-16">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2025-12-16">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-12-16" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referred To"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
@@ -42,6 +51,8 @@
     <term name="Medical research"/>
     <term name="Research administration and funding"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s4057"/>
+  </amendments>
   <summary date="2025-06-04T19:23:53Z" status="Introduced in Senate"></summary>
 </bill>

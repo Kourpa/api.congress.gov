@@ -17,9 +17,45 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-16",
+      "action_code": "",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-16",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-16",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt4057-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "4057"
+    }
+  ],
   "bill_id": "s355-119",
   "bill_type": "s",
   "by_request": false,
@@ -27,6 +63,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Health, Education, Labor, and Pensions",
@@ -128,9 +165,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-12-16",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-12-16",
     "vetoed": false
   },
   "introduced_at": "2025-02-03",
@@ -147,8 +187,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-03",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-12-16",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Department of Health and Human Services",
@@ -166,6 +206,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "FDA Modernization Act 3.0",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -180,13 +227,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "FDA Modernization Act 3.0",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -194,6 +234,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-17T06:23:19Z",
+  "updated_at": "2025-12-17T12:08:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s355.xml"
 }

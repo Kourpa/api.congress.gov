@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="1049" updated="2025-12-17T04:23:21Z">
-  <state datetime="2025-03-13">REFERRED</state>
+<bill session="119" type="s" number="1049" updated="2025-12-17T11:58:17Z">
+  <state datetime="2025-12-16">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-03-13"/>
+    <unknown datetime="2025-12-16"/>
   </status>
   <introduced datetime="2025-03-13"/>
   <titles>
+    <title type="display">Preventing Child Trafficking Act of 2025</title>
     <title type="short" as="introduced">Preventing Child Trafficking Act of 2025</title>
     <title type="short" as="passed senate">Preventing Child Trafficking Act of 2025</title>
-    <title type="display">Preventing Child Trafficking Act of 2025</title>
     <title type="official" as="introduced">A bill to direct the Office for Victims of Crime of the Department of Justice to continue implementing the anti-trafficking recommendations of the Government Accountability Office and to report to Congress regarding such implementation.</title>
   </titles>
   <sponsor bioguide_id="O000174"/>
@@ -21,9 +21,15 @@
     <action datetime="2025-03-13" state="REFERRED">
       <text>Read twice and referred to the Committee on the Judiciary.</text>
     </action>
+    <action datetime="2025-12-16">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-12-16" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

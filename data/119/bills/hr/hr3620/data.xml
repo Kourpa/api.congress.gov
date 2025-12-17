@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3620" updated="2025-12-17T04:08:14Z">
+<bill session="119" type="h" number="3620" updated="2025-12-17T11:56:24Z">
   <state datetime="2025-12-15T16:46:46-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-12-15T16:46:46-05:00"/>
@@ -65,8 +65,12 @@
     <action datetime="2025-12-15T16:46:48-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2025-12-16">
+      <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSII24" name="House Natural Resources" subcommittee="Indian and Insular Affairs" activity="Hearings By (Subcommittee), Referral"/>

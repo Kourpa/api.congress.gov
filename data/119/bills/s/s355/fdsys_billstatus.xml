@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>355</number>
-    <updateDate>2025-12-17T06:23:19Z</updateDate>
-    <updateDateIncludingText>2025-12-17T06:23:19Z</updateDateIncludingText>
+    <updateDate>2025-12-17T12:08:26Z</updateDate>
+    <updateDateIncludingText>2025-12-17T12:08:26Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -19,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-12-17T00:52:52Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-02-03T20:55:42Z</date>
           </item>
@@ -26,6 +30,62 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-16</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-12-16</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-12-16</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-12-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-12-16</actionDate>
+        <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-02-03</actionDate>
         <committees>
@@ -203,6 +263,12 @@
     <title>FDA Modernization Act 3.0</title>
     <titles>
       <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>FDA Modernization Act 3.0</title>
+        <updateDate>2025-12-17T11:58:17Z</updateDate>
+      </item>
+      <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
         <titleTypeCode>105</titleTypeCode>
         <title>FDA Modernization Act 3.0</title>
@@ -211,12 +277,6 @@
         <chamberName>Senate</chamberName>
         <billTextVersionName>Engrossed in Senate</billTextVersionName>
         <billTextVersionCode>ES</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>FDA Modernization Act 3.0</title>
-        <updateDate>2025-07-23T11:03:20Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -235,6 +295,144 @@
         <billTextVersionCode>IS</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>4057</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2025-12-17T12:08:26Z</updateDate>
+        <latestAction>
+          <actionDate>2025-12-16</actionDate>
+          <text>Amendment SA 4057 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 4057</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/4057</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>B001288</bioguideId>
+            <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+            <firstName>Cory</firstName>
+            <lastName>Booker</lastName>
+            <party>D</party>
+            <state>NJ</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Submitted on behalf of</type>
+          </item>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>S001227</bioguideId>
+            <fullName>Sen. Schmitt, Eric [R-MO]</fullName>
+            <firstName>Eric</firstName>
+            <lastName>Schmitt</lastName>
+            <party>R</party>
+            <state>MO</state>
+            <middleName>S.</middleName>
+            <sponsorshipDate>2025-12-16</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2025-12-17T00:52:54Z</proposedDate>
+        <submittedDate>2025-12-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>355</number>
+          <title>FDA Modernization Act 3.0</title>
+          <updateDateIncludingText>2025-12-17</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2025-12-16</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4057 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2025-12-16</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4057 proposed by Senator Thune for Senator Booker. In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2025-12-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-12-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-12-16</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4057 proposed by Senator Thune for Senator Booker.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2025-12-16</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 4057 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Engrossed in Senate</type>
@@ -256,8 +454,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-03</actionDate>
-      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2025-12-16</actionDate>
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

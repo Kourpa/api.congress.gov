@@ -101,7 +101,7 @@
       "action_code": "H30000",
       "references": [
         {
-          "reference": "CR H3227-3228: 1",
+          "reference": "CR H3227-3228",
           "type": "consideration"
         }
       ],
@@ -149,6 +149,28 @@
       "references": [],
       "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-16",
+      "action_code": "",
+      "committees": [
+        "SSEG"
+      ],
+      "references": [],
+      "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-16",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -161,6 +183,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Energy and Natural Resources",
@@ -197,6 +220,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-07-14T17:02:27-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-12-16",
     "vetoed": false
   },
   "introduced_at": "2025-01-15",
@@ -220,8 +245,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-07-14T17:02:27-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-12-16",
   "subjects": [
     "Alaska",
     "Alaska Natives and Hawaiians",
@@ -286,6 +311,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-22T18:51:49Z",
+  "updated_at": "2025-12-17T11:56:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr410.xml"
 }

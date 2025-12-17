@@ -49,6 +49,18 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 253.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2025-12-16",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -106,6 +118,8 @@
     "active_at": "2025-07-30",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-12-16",
     "vetoed": false
   },
   "introduced_at": "2025-02-25",
@@ -122,8 +136,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-30",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-12-16",
   "subjects": [
     "Congressional oversight",
     "Government employee pay, benefits, personnel management",
@@ -134,6 +148,13 @@
   "subjects_top_term": "Government operations and politics",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "U.S. Customs and Border Protection Officer Retirement Technical Corrections Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -156,13 +177,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "U.S. Customs and Border Protection Officer Retirement Technical Corrections Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -170,6 +184,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-17T06:23:19Z",
+  "updated_at": "2025-12-17T11:58:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s727.xml"
 }

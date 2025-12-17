@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3616" updated="2025-12-12T15:02:21Z">
+<bill session="119" type="h" number="3616" updated="2025-12-17T09:35:29Z">
   <state datetime="2025-06-25">REPORTED</state>
   <status>
     <unknown datetime="2025-06-25"/>
@@ -64,12 +64,17 @@
     <action datetime="2025-11-25">
       <text>Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 119-302, Part II.</text>
     </action>
+    <action datetime="2025-12-16T09:59:03-05:00">
+      <text>Rules Committee Resolution H. Res. 951 Reported to House. Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Reported By, Markup By, Referred To"/>
     <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="951" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Energy"/>
     <term name="Congressional oversight"/>
