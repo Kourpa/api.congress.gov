@@ -1,10 +1,11 @@
-<bill session="119" type="s" number="2296" updated="2025-10-21T11:23:16Z">
+<bill session="119" type="s" number="2296" updated="2025-12-17T13:24:09Z">
   <state datetime="2025-10-09">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-10-09"/>
   </status>
   <introduced datetime="2025-07-15"/>
   <titles>
+    <title type="display">National Defense Authorization Act for Fiscal Year 2026</title>
     <title type="short" as="reported to senate">National Defense Authorization Act for Fiscal Year 2026</title>
     <title type="short" as="reported to senate" partial="1">Atomic Energy Testing Liability Act</title>
     <title type="short" as="reported to senate" partial="1">Military Construction Authorization Act for Fiscal Year 2026</title>
@@ -40,7 +41,6 @@
     <title type="short" as="passed senate" partial="1">ROAD to Housing Act of 2025</title>
     <title type="short" as="passed senate" partial="1">Taiwan Non-Discrimination Act of 2025</title>
     <title type="short" as="passed senate" partial="1">Western Balkans Democracy and Prosperity Act</title>
-    <title type="display">National Defense Authorization Act for Fiscal Year 2026</title>
     <title type="official" as="introduced">An original bill to authorize appropriations for fiscal year 2026 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="W000437"/>
@@ -64,11 +64,11 @@
     </action>
     <action datetime="2025-08-02">
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
-      <reference ref="CR S5522" label=""/>
+      <reference ref="CR S5522"/>
     </action>
     <action datetime="2025-09-02">
       <text>Motion to proceed to measure considered in Senate.</text>
-      <reference ref="CR S5539" label=""/>
+      <reference ref="CR S5539"/>
     </action>
     <vote-aux how="roll" type="cloture" roll="500" datetime="2025-09-02" where="s" result="pass">
       <text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 14. Record Vote Number: 500.</text>
@@ -122,9 +122,11 @@
     </action>
     <action datetime="2025-10-01">
       <text>Considered by Senate.</text>
+      <reference ref="CR S6889-6893" label="consideration"/>
     </action>
     <action datetime="2025-10-06">
       <text>Considered by Senate.</text>
+      <reference ref="CR S6943-6944" label="consideration"/>
     </action>
     <action datetime="2025-10-08">
       <text>Considered by Senate.</text>
@@ -138,11 +140,21 @@
     <vote how="roll" type="vote" roll="570" datetime="2025-10-09" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate under the order of 10/9/2025, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 77 - 20. Record Vote Number: 570.</text>
     </vote>
+    <action datetime="2025-11-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2025-11-12T12:02:52-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2025-11-12T12:10:52-05:00">
+      <text>Held at the desk.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Reported Original Measure"/>
   </committees>
   <relatedbills>
+    <bill session="119" type="s" number="3163" relation="unknown"/>
     <bill session="119" type="s" number="1988" relation="unknown"/>
     <bill session="119" type="s" number="2604" relation="unknown"/>
     <bill session="119" type="s" number="2259" relation="unknown"/>
@@ -156,10 +168,19 @@
     <bill session="119" type="s" number="2606" relation="unknown"/>
     <bill session="119" type="s" number="2599" relation="unknown"/>
     <bill session="119" type="s" number="2600" relation="unknown"/>
+    <bill session="119" type="h" number="5990" relation="unknown"/>
+    <bill session="119" type="h" number="5938" relation="unknown"/>
+    <bill session="119" type="s" number="3067" relation="unknown"/>
+    <bill session="119" type="h" number="5975" relation="unknown"/>
+    <bill session="119" type="h" number="6009" relation="unknown"/>
     <bill session="119" type="s" number="1632" relation="unknown"/>
     <bill session="119" type="h" number="3241" relation="unknown"/>
     <bill session="119" type="s" number="1231" relation="unknown"/>
     <bill session="119" type="h" number="2557" relation="unknown"/>
+    <bill session="119" type="s" number="3052" relation="unknown"/>
+    <bill session="119" type="s" number="3053" relation="unknown"/>
+    <bill session="119" type="s" number="1071" relation="unknown"/>
+    <bill session="119" type="s" number="3436" relation="unknown"/>
     <bill session="119" type="s" number="2091" relation="unknown"/>
   </relatedbills>
   <subjects>
@@ -415,6 +436,7 @@
     <term name="Ukraine"/>
   </subjects>
   <amendments>
+    <amendment number="s3984"/>
     <amendment number="s3929"/>
     <amendment number="s3928"/>
     <amendment number="s3927"/>

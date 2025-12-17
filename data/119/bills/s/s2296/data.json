@@ -54,7 +54,7 @@
       "references": [
         {
           "reference": "CR S5522",
-          "type": ""
+          "type": null
         }
       ],
       "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
@@ -66,7 +66,7 @@
       "references": [
         {
           "reference": "CR S5539",
-          "type": ""
+          "type": null
         }
       ],
       "text": "Motion to proceed to measure considered in Senate.",
@@ -229,14 +229,24 @@
     {
       "acted_at": "2025-10-01",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S6889-6893",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
     {
       "acted_at": "2025-10-06",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S6943-6944",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -276,9 +286,36 @@
       "type": "vote",
       "vote_type": "vote",
       "where": "s"
+    },
+    {
+      "acted_at": "2025-11-10",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-12T12:02:52-05:00",
+      "action_code": "H14000",
+      "references": [],
+      "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-11-12T12:10:52-05:00",
+      "action_code": "H15000",
+      "references": [],
+      "text": "Held at the desk.",
+      "type": "action"
     }
   ],
   "amendments": [
+    {
+      "amendment_id": "samdt3984-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "3984"
+    },
     {
       "amendment_id": "samdt3929-119",
       "amendment_type": "samdt",
@@ -5620,6 +5657,12 @@
   "popular_title": null,
   "related_bills": [
     {
+      "bill_id": "s3163-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
       "bill_id": "s1988-119",
       "identified_by": "CRS",
       "reason": "related",
@@ -5698,6 +5741,36 @@
       "type": "bill"
     },
     {
+      "bill_id": "hr5990-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr5938-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s3067-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr5975-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr6009-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
       "bill_id": "s1632-119",
       "identified_by": "CRS",
       "reason": "related",
@@ -5717,6 +5790,30 @@
     },
     {
       "bill_id": "hr2557-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s3052-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s3053-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s1071-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s3436-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -6000,6 +6097,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "National Defense Authorization Act for Fiscal Year 2026",
+      "type": "display"
+    },
+    {
       "as": "reported to senate",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -6245,13 +6349,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "National Defense Authorization Act for Fiscal Year 2026",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -6259,6 +6356,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-21T11:23:16Z",
+  "updated_at": "2025-12-17T13:24:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2296.xml"
 }
