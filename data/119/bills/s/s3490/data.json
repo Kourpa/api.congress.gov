@@ -11,7 +11,16 @@
       "acted_at": "2025-12-16",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8755-8757",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S8755-8756",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:SENATE",
       "text": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.",
@@ -85,8 +94,10 @@
   },
   "status": "PASS_OVER:SENATE",
   "status_at": "2025-12-16",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Public lands and natural resources"
+  ],
+  "subjects_top_term": "Public lands and natural resources",
   "summary": null,
   "titles": [
     {
@@ -111,6 +122,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-17T11:56:15Z",
+  "updated_at": "2025-12-17T15:18:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3490.xml"
 }

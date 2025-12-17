@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="3490" updated="2025-12-17T11:56:15Z">
+<bill session="119" type="s" number="3490" updated="2025-12-17T15:18:29Z">
   <state datetime="2025-12-16">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-12-16"/>
@@ -21,10 +21,14 @@
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2025-12-16" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8755-8757" label="consideration"/>
+      <reference ref="CR S8755-8756" label="text"/>
     </vote>
   </actions>
   <committees/>
   <relatedbills/>
-  <subjects/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
   <amendments/>
 </bill>

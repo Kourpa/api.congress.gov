@@ -38,7 +38,12 @@
     {
       "acted_at": "2025-12-16T12:08:41-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5912-5919",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -59,7 +64,12 @@
     {
       "acted_at": "2025-12-16T13:31:11-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5919-5921",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -74,7 +84,12 @@
       "acted_at": "2025-12-16T14:32:48-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5912-5913",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "338",
       "status": "PASSED:SIMPLERES",
@@ -96,7 +111,9 @@
   "bill_id": "hres951-119",
   "bill_type": "hres",
   "by_request": false,
-  "committee_reports": [],
+  "committee_reports": [
+    "H. Rept. 119-410"
+  ],
   "committees": [
     {
       "activity": [
@@ -190,6 +207,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-17T09:35:29Z",
+  "updated_at": "2025-12-17T16:00:08Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres951.xml"
 }
