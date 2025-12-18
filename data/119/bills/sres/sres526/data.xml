@@ -1,7 +1,7 @@
-<bill session="119" type="sr" number="526" updated="2025-12-08T14:15:06Z">
-  <state datetime="2025-12-03">REFERRED</state>
+<bill session="119" type="sr" number="526" updated="2025-12-18T11:56:30Z">
+  <state datetime="2025-12-17">REPORTED</state>
   <status>
-    <introduced datetime="2025-12-03"/>
+    <unknown datetime="2025-12-17"/>
   </status>
   <introduced datetime="2025-12-03"/>
   <titles>
@@ -18,9 +18,15 @@
       <text>Referred to the Committee on Rules and Administration.</text>
       <reference ref="CR S8486" label="text"/>
     </action>
+    <action datetime="2025-12-17" state="REPORTED">
+      <text>Committee on Rules and Administration. Reported by Senator McConnell without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2025-12-17" calendar="Senate Legislative" under="General Orders" number="296">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 296.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSRA" name="Senate Rules and Administration" subcommittee="" activity="Referred To"/>
+    <committee code="SSRA" name="Senate Rules and Administration" subcommittee="" activity="Reported By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

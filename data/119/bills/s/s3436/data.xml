@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="3436" updated="2025-12-18T06:38:14Z">
-  <state datetime="2025-12-11">REFERRED</state>
+<bill session="119" type="s" number="3436" updated="2025-12-18T11:58:17Z">
+  <state datetime="2025-12-17">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-12-11"/>
+    <unknown datetime="2025-12-17"/>
   </status>
   <introduced datetime="2025-12-11"/>
   <titles>
+    <title type="display">Caring for Veterans and Strengthening National Security Act</title>
     <title type="short" as="introduced">Caring for Veterans and Strengthening National Security Act</title>
     <title type="short" as="passed senate">Caring for Veterans and Strengthening National Security Act</title>
     <title type="official" as="introduced">A bill to amend title 38, United States Code, to require the provision of certain services to veterans in the Freely Associated States, and for other purposes.</title>
-    <title type="display">Caring for Veterans and Strengthening National Security Act</title>
   </titles>
   <sponsor bioguide_id="M000934"/>
   <cosponsors>
@@ -29,9 +29,15 @@
     <action datetime="2025-12-11" state="REFERRED">
       <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-12-17">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-12-17" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="2296" relation="unknown"/>

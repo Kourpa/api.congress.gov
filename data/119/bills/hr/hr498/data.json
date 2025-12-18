@@ -17,6 +17,18 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-17T08:11:36-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres953-119",
+        "hr6703-119",
+        "hr3492-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 953 Reported to House. Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -78,7 +90,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-12-17T08:11:36-05:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -87,7 +100,14 @@
   "number": "498",
   "official_title": "To amend title XIX of the Social Security Act to prohibit Federal Medicaid funding for gender transition procedures for minors.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres953-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Do No Harm in Medicaid Act",
   "sponsor": {
     "bioguide_id": "C001120",
@@ -138,6 +158,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-17T09:06:21Z",
+  "updated_at": "2025-12-18T09:35:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr498.xml"
 }

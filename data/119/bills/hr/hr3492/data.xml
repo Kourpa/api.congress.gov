@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3492" updated="2025-12-17T22:57:25Z">
-  <state datetime="2025-06-10">REPORTED</state>
+<bill session="119" type="h" number="3492" updated="2025-12-18T09:09:12Z">
+  <state datetime="2025-12-17T18:40:39-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-06-10"/>
+    <unknown datetime="2025-12-17T18:40:39-05:00"/>
   </status>
   <introduced datetime="2025-05-19"/>
   <titles>
@@ -76,11 +76,52 @@
     <calendar datetime="2025-09-26" calendar="Union" number="265">
       <text>Placed on the Union Calendar, Calendar No. 265.</text>
     </calendar>
+    <action datetime="2025-12-17T08:11:36-05:00">
+      <text>Rules Committee Resolution H. Res. 953 Reported to House. Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2025-12-17T11:07:02-05:00">
+      <text>Rule H. Res. 953 passed House.</text>
+    </action>
+    <action datetime="2025-12-17T14:58:26-05:00">
+      <text>Considered under the provisions of rule H. Res. 953.</text>
+    </action>
+    <action datetime="2025-12-17T14:58:31-05:00">
+      <text>Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2025-12-17T14:59:30-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 3492.</text>
+    </action>
+    <action datetime="2025-12-17T15:53:34-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-12-17T15:54:04-05:00">
+      <text>Ms. Balint moved to recommit to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2025-12-17T15:54:12-05:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2025-12-17T15:54:20-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3492, the Chair put the question on motion to recommit and by voice vote announced the noes had prevailed. Ms. Balint demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-12-17T18:28:08-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2025-12-17T18:34:34-05:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 210 - 218 (Roll no. 350).</text>
+    </action>
+    <vote how="roll" type="vote" roll="351" datetime="2025-12-17T18:40:39-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 216 - 211 (Roll no. 351).</text>
+    </vote>
+    <action datetime="2025-12-17T18:40:41-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="953" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Crime and law enforcement"/>
     <term name="Child health"/>
@@ -89,7 +130,9 @@
     <term name="Sex, gender, sexual orientation discrimination"/>
     <term name="Surgery and anesthesia"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h136"/>
+  </amendments>
   <summary date="2025-12-17T22:55:14Z" status="Introduced in House"></summary>
   <committee-reports>
     <report>H. Rept. 119-311</report>

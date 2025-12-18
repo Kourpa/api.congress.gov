@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2546" updated="2025-12-11T20:05:26Z">
-  <state datetime="2025-07-30">REFERRED</state>
+<bill session="119" type="s" number="2546" updated="2025-12-18T11:56:32Z">
+  <state datetime="2025-12-17">REPORTED</state>
   <status>
-    <introduced datetime="2025-07-30"/>
+    <unknown datetime="2025-12-17"/>
   </status>
   <introduced datetime="2025-07-30"/>
   <titles>
@@ -27,9 +27,12 @@
     <action datetime="2025-12-09">
       <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
     </action>
+    <action datetime="2025-12-17" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="SSEG04" name="Senate Energy and Natural Resources" subcommittee="National Parks" activity="Hearings By (Subcommittee)"/>
   </committees>
   <relatedbills/>
