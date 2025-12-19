@@ -32,7 +32,16 @@
       "acted_at": "2025-12-17",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8874",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S8874",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:SENATE",
       "text": "Passed Senate without amendment by Unanimous Consent.",
@@ -204,7 +213,18 @@
   "status": "PASS_OVER:SENATE",
   "status_at": "2025-12-17",
   "subjects": [
-    "Armed forces and national security"
+    "Armed forces and national security",
+    "Congressional oversight",
+    "Diplomacy, foreign officials, Americans abroad",
+    "Health care coverage and access",
+    "Health technology, devices, supplies",
+    "Marshall Islands",
+    "Micronesia",
+    "Palau",
+    "Postal service",
+    "Prescription drugs",
+    "Transportation costs",
+    "Veterans' medical care"
   ],
   "subjects_top_term": "Armed forces and national security",
   "summary": null,
@@ -238,6 +258,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-19T12:03:17Z",
+  "updated_at": "2025-12-19T17:32:05Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3436.xml"
 }

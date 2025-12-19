@@ -1,4 +1,4 @@
-<bill session="119" type="hc" number="64" updated="2025-12-18T09:07:37Z">
+<bill session="119" type="hc" number="64" updated="2025-12-19T15:45:10Z">
   <state datetime="2025-12-17T18:09:03-05:00">FAIL:ORIGINATING:HOUSE</state>
   <status>
     <unknown datetime="2025-12-17T18:09:03-05:00"/>
@@ -72,6 +72,8 @@
     </action>
     <action datetime="2025-12-17T13:48:31-05:00">
       <text>Considered pursuant to a previous order.</text>
+      <reference ref="CR H5984-5992" label="consideration"/>
+      <reference ref="CR H5985" label="text"/>
     </action>
     <action datetime="2025-12-17T13:48:37-05:00">
       <text>DEBATE - Pursuant to a previous order, the House proceeded with one hour of debate on H. Con. Res. 64.</text>
@@ -84,6 +86,7 @@
     </action>
     <action datetime="2025-12-17T18:02:14-05:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H6005-6006" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="346" datetime="2025-12-17T18:09:03-05:00" where="h" result="fail" state="FAIL:ORIGINATING:HOUSE">
       <text>On agreeing to the resolution Failed by the Yeas and Nays: 211 - 213 (Roll no. 346).</text>

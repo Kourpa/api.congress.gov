@@ -56,7 +56,12 @@
       "bill_ids": [
         "hres953-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5956-5977",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 953.",
       "type": "action"
     },
@@ -91,7 +96,12 @@
       "committees": [
         "HSIF"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5977",
+          "type": "text"
+        }
+      ],
       "text": "Ms. Underwood moved to recommit to the Committee on Energy and Commerce.",
       "type": "action"
     },
@@ -112,7 +122,12 @@
     {
       "acted_at": "2025-12-17T18:15:28-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H6006-6008",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -130,7 +145,12 @@
       "acted_at": "2025-12-17T18:27:54-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5956-5966",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "349",
       "status": "PASS_OVER:HOUSE",
@@ -227,7 +247,20 @@
   "status": "PASS_OVER:HOUSE",
   "status_at": "2025-12-17T18:27:54-05:00",
   "subjects": [
-    "Health"
+    "Administrative law and regulatory procedures",
+    "Civil actions and liability",
+    "Contracts and agency",
+    "Department of Health and Human Services",
+    "Disability and health-based discrimination",
+    "Employee benefits and pensions",
+    "Government information and archives",
+    "Health",
+    "Health care costs and insurance",
+    "Health care coverage and access",
+    "Health information and medical records",
+    "Health programs administration and funding",
+    "Prescription drugs",
+    "Right of privacy"
   ],
   "subjects_top_term": "Health",
   "summary": null,
@@ -261,6 +294,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-19T11:56:23Z",
+  "updated_at": "2025-12-19T17:30:56Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6703.xml"
 }

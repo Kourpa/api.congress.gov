@@ -120,7 +120,12 @@
       "bill_ids": [
         "hres951-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H6000-6004",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 951.",
       "type": "action"
     },
@@ -162,7 +167,12 @@
     {
       "acted_at": "2025-12-17T18:09:16-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H6006",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -170,7 +180,12 @@
       "acted_at": "2025-12-17T18:15:14-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H6000",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "347",
       "status": "PASS_OVER:HOUSE",
@@ -539,6 +554,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-19T11:56:28Z",
+  "updated_at": "2025-12-19T15:45:46Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3616.xml"
 }

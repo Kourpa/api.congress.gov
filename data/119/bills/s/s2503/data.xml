@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2503" updated="2025-12-19T12:03:16Z">
+<bill session="119" type="s" number="2503" updated="2025-12-19T16:44:48Z">
   <state datetime="2025-12-17">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-12-17"/>
@@ -51,12 +51,14 @@
     </calendar>
     <action datetime="2025-12-17">
       <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S8811-8817" label="consideration"/>
     </action>
     <action datetime="2025-12-17">
       <text>The committee substitute withdrawn by Unanimous Consent.</text>
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2025-12-17" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S8813-8817" label="text"/>
     </vote>
     <action datetime="2025-12-18">
       <text>Message on Senate action sent to the House.</text>
