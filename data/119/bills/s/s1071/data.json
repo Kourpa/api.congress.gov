@@ -360,9 +360,29 @@
     {
       "acted_at": "2025-12-17",
       "action_code": "",
+      "how": "roll",
       "references": [],
-      "text": "Senate agreed to the motion to concur in the House amendment to S. 1071 by Yea-Nay Vote. 77 - 20. Record Vote Number: 648.",
+      "result": "pass",
+      "roll": "648",
+      "status": "PASSED:BILL",
+      "text": "Senate agreed to the House amendment to S. 1071 by Yea-Nay Vote. 77 - 20. Record Vote Number: 648.",
+      "type": "vote",
+      "vote_type": "pingpong",
+      "where": "s"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [
@@ -508,12 +528,13 @@
   "history": {
     "active": true,
     "active_at": "2025-08-01",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2025-12-18",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-12-10T17:32:40-05:00",
     "senate_passage_result": "pass",
-    "senate_passage_result_at": "2025-08-01",
+    "senate_passage_result_at": "2025-12-17",
     "vetoed": false
   },
   "introduced_at": "2025-03-14",
@@ -766,7 +787,7 @@
     "type": "person"
   },
   "status": "PASSED:BILL",
-  "status_at": "2025-12-10T17:32:40-05:00",
+  "status_at": "2025-12-17",
   "subjects": [
     "Armed forces and national security",
     "Cemeteries and funerals",
@@ -785,204 +806,204 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Abducted Ukrainian Children Recovery and Accountability Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Abducted Ukrainian Children Recovery and Accountability Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Atomic Energy Testing Liability Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Atomic Energy Testing Liability Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Break Up Suspicious Transactions of Fentanyl Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Break Up Suspicious Transactions of Fentanyl Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "BUST Fentanyl Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "BUST Fentanyl Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Coast Guard Authorization Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Coast Guard Authorization Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Countering Wrongful Detention Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Countering Wrongful Detention Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "DFC Modernization and Reauthorization Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "DFC Modernization and Reauthorization Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Holding Foreign Insiders Accountable Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Holding Foreign Insiders Accountable Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Intelligence Authorization Act for Fiscal Year 2026",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Intelligence Authorization Act for Fiscal Year 2026",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Lumbee Fairness Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Lumbee Fairness Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "National Defense Authorization Act for Fiscal Year 2026",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "National Defense Authorization Act for Fiscal Year 2026",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "SAFER SKIES Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "SAFER SKIES Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Taiwan Non-Discrimination Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Taiwan Non-Discrimination Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Western Balkans Democracy and Prosperity Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Western Balkans Democracy and Prosperity Act",
-      "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "National Defense Authorization Act for Fiscal Year 2026",
       "type": "display"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Abducted Ukrainian Children Recovery and Accountability Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Abducted Ukrainian Children Recovery and Accountability Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Atomic Energy Testing Liability Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Atomic Energy Testing Liability Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Break Up Suspicious Transactions of Fentanyl Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Break Up Suspicious Transactions of Fentanyl Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "BUST Fentanyl Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "BUST Fentanyl Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Coast Guard Authorization Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Coast Guard Authorization Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Countering Wrongful Detention Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Countering Wrongful Detention Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "DFC Modernization and Reauthorization Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "DFC Modernization and Reauthorization Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Holding Foreign Insiders Accountable Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Holding Foreign Insiders Accountable Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Intelligence Authorization Act for Fiscal Year 2026",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Intelligence Authorization Act for Fiscal Year 2026",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Lumbee Fairness Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Lumbee Fairness Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "National Defense Authorization Act for Fiscal Year 2026",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "National Defense Authorization Act for Fiscal Year 2026",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "SAFER SKIES Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "SAFER SKIES Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Taiwan Non-Discrimination Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Taiwan Non-Discrimination Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Western Balkans Democracy and Prosperity Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Western Balkans Democracy and Prosperity Act",
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -992,6 +1013,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-19T05:08:20Z",
+  "updated_at": "2025-12-19T11:58:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1071.xml"
 }

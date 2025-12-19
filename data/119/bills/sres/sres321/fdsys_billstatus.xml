@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>321</number>
-    <updateDate>2025-07-17T21:44:44Z</updateDate>
-    <updateDateIncludingText>2025-07-17T21:44:44Z</updateDateIncludingText>
+    <updateDate>2025-12-19T11:56:27Z</updateDate>
+    <updateDateIncludingText>2025-12-19T11:56:27Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SRES</type>
     <introducedDate>2025-07-15</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-resolution/321</legislationUrl>
     <committees>
       <item>
         <systemCode>ssfr00</systemCode>
@@ -18,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2025-12-19T00:48:00Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-07-15T20:47:29Z</date>
           </item>
@@ -25,6 +30,62 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-18</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-12-18</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-12-18</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2025-12-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2025-12-18</actionDate>
+        <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-07-15</actionDate>
         <committees>
@@ -36,7 +97,7 @@
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Referred to the Committee on Foreign Relations. (text: CR S4371-4372: 1)</text>
+        <text>Referred to the Committee on Foreign Relations. (text: CR S4371-4372)</text>
         <type>IntroReferral</type>
       </item>
       <item>
@@ -112,8 +173,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-15</actionDate>
-      <text>Referred to the Committee on Foreign Relations. (text: CR S4371-4372: 1)</text>
+      <actionDate>2025-12-18</actionDate>
+      <text>Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

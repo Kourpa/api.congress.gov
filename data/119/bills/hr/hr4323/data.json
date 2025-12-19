@@ -114,8 +114,20 @@
       "acted_at": "2025-12-02",
       "action_code": "",
       "references": [],
-      "text": "Received in the Senate.",
+      "text": "Received in the Senate, read twice.",
       "type": "action"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -337,6 +349,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-12-01T15:11:21-05:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-12-18",
     "vetoed": false
   },
   "introduced_at": "2025-07-10",
@@ -366,8 +380,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-12-01T15:11:21-05:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-12-18",
   "subjects": [
     "Congressional oversight",
     "Crime and law enforcement",
@@ -433,6 +447,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-17T20:16:43Z",
+  "updated_at": "2025-12-19T11:56:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4323.xml"
 }

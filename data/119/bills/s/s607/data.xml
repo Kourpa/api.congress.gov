@@ -1,14 +1,16 @@
-<bill session="119" type="s" number="607" updated="2025-12-04T03:38:21Z">
-  <state datetime="2025-07-30">REPORTED</state>
+<bill session="119" type="s" number="607" updated="2025-12-19T12:03:16Z">
+  <state datetime="2025-12-18">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-07-30"/>
+    <unknown datetime="2025-12-18"/>
   </status>
   <introduced datetime="2025-02-18"/>
   <titles>
+    <title type="display">Improving Veteran Access to Care Act</title>
     <title type="short" as="introduced">Improving Veteran Access to Care Act</title>
     <title type="short" as="reported to senate">Improving Veteran Access to Care Act</title>
-    <title type="display">Improving Veteran Access to Care Act</title>
+    <title type="short" as="passed senate">Improving Veteran Access to Care Act</title>
     <title type="official" as="introduced">A bill to require the Secretary of Veterans Affairs to establish an integrated project team to improve the process for scheduling appointments for health care from the Department of Veterans Affairs, and for other purposes.</title>
+    <title type="official" as="amended by senate">A bill to require the Secretary of Veterans Affairs to establish and implement a plan to improve the process for scheduling appointments for health care from the Department of Veterans Affairs, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="H001076"/>
   <cosponsors>
@@ -35,6 +37,9 @@
     <calendar datetime="2025-12-02" calendar="Senate Legislative" under="General Orders" number="272">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 272.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2025-12-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Hearings By (Full Committee), Referred To"/>

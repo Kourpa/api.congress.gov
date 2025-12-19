@@ -1,18 +1,21 @@
-<bill session="119" type="h" number="498" updated="2025-12-19T03:26:13Z">
-  <state datetime="2025-01-16">REFERRED</state>
+<bill session="119" type="h" number="498" updated="2025-12-19T12:08:22Z">
+  <state datetime="2025-12-18T15:00:11-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-01-16"/>
+    <unknown datetime="2025-12-18T15:00:11-05:00"/>
   </status>
   <introduced datetime="2025-01-16"/>
   <titles>
-    <title type="display">Do No Harm in Medicaid Act</title>
-    <title type="short" as="introduced">Do No Harm in Medicaid Act</title>
     <title type="official" as="introduced">To amend title XIX of the Social Security Act to prohibit Federal Medicaid funding for gender transition procedures for minors.</title>
+    <title type="official">To amend title XIX of the Social Security Act to prohibit Federal Medicaid funding for gender transition procedures for minors.</title>
+    <title type="short" as="introduced">Do No Harm in Medicaid Act</title>
+    <title type="short" as="passed house">Do No Harm in Medicaid Act</title>
+    <title type="display">Do No Harm in Medicaid Act</title>
   </titles>
   <sponsor bioguide_id="C001120"/>
   <cosponsors>
     <cosponsor bioguide_id="D000626" joined="2025-12-16"/>
     <cosponsor bioguide_id="G000596" joined="2025-01-16"/>
+    <cosponsor bioguide_id="G000576" joined="2025-12-18"/>
     <cosponsor bioguide_id="S001214" joined="2025-09-02"/>
     <cosponsor bioguide_id="W000814" joined="2025-02-13"/>
   </cosponsors>
@@ -26,9 +29,46 @@
     <action datetime="2025-12-17T08:11:36-05:00">
       <text>Rules Committee Resolution H. Res. 953 Reported to House. Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.</text>
     </action>
+    <action datetime="2025-12-18T12:40:01-05:00">
+      <text>Considered under the provisions of rule H. Res. 953.</text>
+    </action>
+    <action datetime="2025-12-18T12:40:06-05:00">
+      <text>Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2025-12-18T12:40:30-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 498.</text>
+    </action>
+    <action datetime="2025-12-18T13:49:37-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-12-18T13:50:08-05:00">
+      <text>Mr. Soto moved to recommit to the Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2025-12-18T13:50:20-05:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2025-12-18T13:50:40-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 498, the Chair put the question on motion to recommit and by voice vote announced that the noes had prevailed. Mr. Soto demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-12-18T14:53:11-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2025-12-18T14:56:03-05:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 204 - 212 (Roll no. 361).</text>
+    </action>
+    <vote how="roll" type="vote" roll="362" datetime="2025-12-18T15:00:11-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 215 - 201 (Roll no. 362).</text>
+    </vote>
+    <action datetime="2025-12-18T15:00:13-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2025-12-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Unknown, Unknown, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="953" relation="unknown"/>

@@ -15,13 +15,42 @@
       ],
       "references": [
         {
-          "reference": "CR S4371-4372: 1",
+          "reference": "CR S4371-4372",
           "type": "text"
         }
       ],
       "status": "REFERRED",
       "text": "Referred to the Committee on Foreign Relations.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "",
+      "committees": [
+        "SSFR"
+      ],
+      "references": [],
+      "text": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -32,6 +61,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Foreign Relations",
@@ -53,9 +83,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-12-18",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-12-18",
     "vetoed": false
   },
   "introduced_at": "2025-07-15",
@@ -72,8 +105,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-07-15",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2025-12-18",
   "subjects": [
     "International affairs"
   ],
@@ -95,6 +128,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-07-17T21:44:44Z",
+  "updated_at": "2025-12-19T11:56:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres321.xml"
 }

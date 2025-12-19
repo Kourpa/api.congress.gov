@@ -91,7 +91,7 @@
       "how": "by voice vote",
       "references": [
         {
-          "reference": "CR H4298: 1",
+          "reference": "CR H4298",
           "type": "text"
         }
       ],
@@ -119,6 +119,28 @@
       "references": [],
       "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "",
+      "committees": [
+        "SSVA"
+      ],
+      "references": [],
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -131,6 +153,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Veterans' Affairs",
@@ -187,6 +210,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-09-15T17:58:00-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-12-18",
     "vetoed": false
   },
   "introduced_at": "2025-07-16",
@@ -203,8 +228,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-09-15T17:58:00-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2025-12-18",
   "subjects": [
     "Armed forces and national security",
     "Veterans' education, employment, rehabilitation"
@@ -288,6 +313,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-24T22:06:12Z",
+  "updated_at": "2025-12-19T11:56:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4446.xml"
 }

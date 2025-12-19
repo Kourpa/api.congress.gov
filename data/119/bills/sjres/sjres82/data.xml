@@ -1,7 +1,7 @@
-<bill session="119" type="sj" number="82" updated="2025-12-12T16:14:07Z">
-  <state datetime="2025-09-18">REFERRED</state>
+<bill session="119" type="sj" number="82" updated="2025-12-19T11:56:25Z">
+  <state datetime="2025-12-18">FAIL:ORIGINATING:SENATE</state>
   <status>
-    <introduced datetime="2025-09-18"/>
+    <unknown datetime="2025-12-18"/>
   </status>
   <introduced datetime="2025-09-18"/>
   <titles>
@@ -69,6 +69,12 @@
       <text>Measure laid before Senate by motion.</text>
       <reference ref="CR S8591-8593" label="consideration"/>
     </action>
+    <action datetime="2025-12-18">
+      <text>Considered by Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="654" datetime="2025-12-18" where="s" result="fail" state="FAIL:ORIGINATING:SENATE">
+      <text>Failed of passage in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 654.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Discharged From, Referred To"/>
@@ -78,6 +84,10 @@
   </relatedbills>
   <subjects>
     <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Public participation and lobbying"/>
   </subjects>
   <amendments/>
 </bill>

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6552" updated="2025-12-17T09:06:36Z">
-  <state datetime="2025-12-10">REFERRED</state>
+<bill session="119" type="h" number="6552" updated="2025-12-19T09:07:21Z">
+  <state datetime="2025-12-17">REPORTED</state>
   <status>
-    <introduced datetime="2025-12-10"/>
+    <unknown datetime="2025-12-17"/>
   </status>
   <introduced datetime="2025-12-10"/>
   <titles>
@@ -13,6 +13,7 @@
   <cosponsors>
     <cosponsor bioguide_id="D000626" joined="2025-12-16"/>
     <cosponsor bioguide_id="G000583" joined="2025-12-16"/>
+    <cosponsor bioguide_id="M001217" joined="2025-12-18"/>
     <cosponsor bioguide_id="S000250" joined="2025-12-16"/>
   </cosponsors>
   <actions>
@@ -22,9 +23,18 @@
     <action datetime="2025-12-10" state="REFERRED">
       <text>Referred to the House Committee on Financial Services.</text>
     </action>
+    <action datetime="2025-12-16">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-12-17">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-12-17" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

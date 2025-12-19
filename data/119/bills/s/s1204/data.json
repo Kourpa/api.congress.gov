@@ -17,6 +17,28 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "",
+      "committees": [
+        "SSVA"
+      ],
+      "references": [],
+      "text": "Senate Committee on Veterans' Affairs discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +49,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Veterans' Affairs",
@@ -118,9 +141,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-12-18",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2025-12-18",
     "vetoed": false
   },
   "introduced_at": "2025-03-31",
@@ -144,8 +170,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-03-31",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2025-12-18",
   "subjects": [
     "Armed forces and national security",
     "Military personnel and dependents",
@@ -155,6 +181,20 @@
   "subjects_top_term": "Armed forces and national security",
   "summary": null,
   "titles": [
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Gold Star and Surviving Spouse Career Services Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Gold Star and Surviving Spouse Career Services Act",
+      "type": "short"
+    },
     {
       "as": null,
       "is_for_portion": false,
@@ -166,17 +206,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Gold Star and Surviving Spouse Career Services Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "A bill to amend title 38, United States Code, to make certain spouses eligible for services under the disabled veterans' outreach program, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-05T21:58:00Z",
+  "updated_at": "2025-12-19T12:03:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1204.xml"
 }

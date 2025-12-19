@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4446" updated="2025-09-24T22:06:12Z">
-  <state datetime="2025-09-15T17:58:00-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="4446" updated="2025-12-19T11:56:27Z">
+  <state datetime="2025-12-18">PASSED:BILL</state>
   <status>
-    <unknown datetime="2025-09-15T17:58:00-04:00"/>
+    <unknown datetime="2025-12-18"/>
   </status>
   <introduced datetime="2025-07-16"/>
   <titles>
@@ -53,7 +53,7 @@
     </action>
     <vote how="by voice vote" type="vote" datetime="2025-09-15T17:58:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
-      <reference ref="CR H4298: 1" label="text"/>
+      <reference ref="CR H4298" label="text"/>
     </vote>
     <action datetime="2025-09-15T17:58:05-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -61,9 +61,15 @@
     <action datetime="2025-09-16">
       <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2025-12-18">
+      <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2025-12-18" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>

@@ -1,14 +1,16 @@
-<bill session="119" type="h" number="845" updated="2025-12-19T00:06:12Z">
-  <state datetime="2025-04-09">REPORTED</state>
+<bill session="119" type="h" number="845" updated="2025-12-19T11:56:32Z">
+  <state datetime="2025-12-18T14:52:56-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-04-09"/>
+    <unknown datetime="2025-12-18T14:52:56-05:00"/>
   </status>
   <introduced datetime="2025-01-31"/>
   <titles>
-    <title type="display">Pet and Livestock Protection Act</title>
+    <title type="official" as="introduced">To require the Secretary of the Interior to reissue regulations removing the gray wolf from the list of endangered and threatened wildlife under the Endangered Species Act of 1973.</title>
+    <title type="official">To require the Secretary of the Interior to reissue regulations removing the gray wolf from the list of endangered and threatened wildlife under the Endangered Species Act of 1973.</title>
     <title type="short" as="introduced">Pet and Livestock Protection Act of 2025</title>
     <title type="short" as="reported to house">Pet and Livestock Protection Act</title>
-    <title type="official" as="introduced">To require the Secretary of the Interior to reissue regulations removing the gray wolf from the list of endangered and threatened wildlife under the Endangered Species Act of 1973.</title>
+    <title type="short" as="passed house">Pet and Livestock Protection Act</title>
+    <title type="display">Pet and Livestock Protection Act</title>
   </titles>
   <sponsor bioguide_id="B000825"/>
   <cosponsors>
@@ -81,9 +83,46 @@
     <action datetime="2025-12-16T09:59:03-05:00">
       <text>Rules Committee Resolution H. Res. 951 Reported to House. Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.</text>
     </action>
+    <action datetime="2025-12-18T11:39:13-05:00">
+      <text>Considered under the provisions of rule H. Res. 951.</text>
+    </action>
+    <action datetime="2025-12-18T11:39:18-05:00">
+      <text>Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2025-12-18T11:40:03-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 845.</text>
+    </action>
+    <action datetime="2025-12-18T12:37:15-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2025-12-18T12:37:50-05:00">
+      <text>Mr. Huffman moved to recommit to the Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2025-12-18T12:38:05-05:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2025-12-18T12:38:12-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 845, the Chair put the question on motion to recommit and by voice vote announced that the noes had prevailed. Mr. Huffman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2025-12-18T14:46:37-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2025-12-18T14:49:28-05:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 204 - 213 (Roll no. 359).</text>
+    </action>
+    <vote how="roll" type="vote" roll="360" datetime="2025-12-18T14:52:56-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 211 - 204 (Roll no. 360).</text>
+    </vote>
+    <action datetime="2025-12-18T14:52:58-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2025-12-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSII13" name="House Natural Resources" subcommittee="Water, Wildlife and Fisheries" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>
@@ -98,7 +137,9 @@
     <term name="Environmental regulatory procedures"/>
     <term name="Mammals"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h142"/>
+  </amendments>
   <summary date="2025-12-12T21:32:12Z" status="Introduced in House"></summary>
   <committee-reports>
     <report>H. Rept. 119-332</report>
