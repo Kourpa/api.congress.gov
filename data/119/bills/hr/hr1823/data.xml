@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1823" updated="2025-12-19T11:56:30Z">
+<bill session="119" type="h" number="1823" updated="2025-12-22T15:42:09Z">
   <state datetime="2025-12-18">PASSED:BILL</state>
   <status>
     <unknown datetime="2025-12-18"/>
@@ -7,6 +7,7 @@
   <titles>
     <title type="short" as="reported to house">VA Budget Shortfall Accountability Act</title>
     <title type="short" as="passed house">VA Budget Shortfall Accountability Act</title>
+    <title type="short">VA Budget Shortfall Accountability Act</title>
     <title type="short">VA Budget Shortfall Accountability Act</title>
     <title type="display">VA Budget Shortfall Accountability Act</title>
     <title type="official" as="introduced">To direct the Secretary of Veterans Affairs and the Comptroller General of the United States to report on certain funding shortfalls in the Department of Veterans Affairs.</title>
@@ -65,7 +66,11 @@
     </action>
     <vote how="by Unanimous Consent" type="vote2" datetime="2025-12-18" where="s" result="pass" state="PASSED:BILL">
       <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8895" label="consideration"/>
     </vote>
+    <action datetime="2025-12-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Discharged From, Referred To"/>

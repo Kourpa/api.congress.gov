@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4648</number>
-    <updateDate>2025-12-05T21:59:24Z</updateDate>
-    <updateDateIncludingText>2025-12-05T21:59:24Z</updateDateIncludingText>
+    <updateDate>2025-12-20T09:06:54Z</updateDate>
+    <updateDateIncludingText>2025-12-20T09:06:54Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,18 @@
         <name>Veterans' Affairs Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-12-19T19:06:20Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -107,6 +119,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-12-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-07-23</actionDate>
         <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Workforce, Oversight and Government Reform, Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -321,8 +348,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-23</actionDate>
-      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Workforce, Oversight and Government Reform, Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2025-12-19</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

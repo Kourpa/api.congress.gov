@@ -391,6 +391,16 @@
       "status": "ENACTED:SIGNED",
       "text": "Signed by President.",
       "type": "signed"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "60",
+      "references": [],
+      "text": "Became Public Law No: 119-60.",
+      "type": "enacted"
     }
   ],
   "amendments": [
@@ -532,13 +542,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "60"
+  },
   "history": {
     "active": true,
     "active_at": "2025-08-01",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2025-12-18",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2025-12-18",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-12-10T17:32:40-05:00",
     "senate_passage_result": "pass",
@@ -665,18 +679,6 @@
       "type": "bill"
     },
     {
-      "bill_id": "hr1269-119",
-      "identified_by": "CRS",
-      "reason": "related",
-      "type": "bill"
-    },
-    {
-      "bill_id": "s911-119",
-      "identified_by": "CRS",
-      "reason": "related",
-      "type": "bill"
-    },
-    {
       "bill_id": "hr5864-119",
       "identified_by": "CRS",
       "reason": "related",
@@ -684,24 +686,6 @@
     },
     {
       "bill_id": "s3163-119",
-      "identified_by": "CRS",
-      "reason": "related",
-      "type": "bill"
-    },
-    {
-      "bill_id": "s777-119",
-      "identified_by": "CRS",
-      "reason": "related",
-      "type": "bill"
-    },
-    {
-      "bill_id": "hr5466-119",
-      "identified_by": "CRS",
-      "reason": "related",
-      "type": "bill"
-    },
-    {
-      "bill_id": "hr531-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -749,25 +733,37 @@
       "type": "bill"
     },
     {
-      "bill_id": "hr4383-119",
-      "identified_by": "CRS",
-      "reason": "related",
-      "type": "bill"
-    },
-    {
       "bill_id": "s2307-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
     },
     {
-      "bill_id": "hr4375-119",
+      "bill_id": "hr1269-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr4383-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s777-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
     },
     {
       "bill_id": "hr2351-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr4375-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -780,6 +776,24 @@
     },
     {
       "bill_id": "s2453-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s911-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr5466-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr531-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -1021,6 +1035,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-19T18:20:55Z",
+  "updated_at": "2025-12-19T23:06:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1071.xml"
 }

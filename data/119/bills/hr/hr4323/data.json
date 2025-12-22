@@ -121,13 +121,25 @@
       "acted_at": "2025-12-18",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8894",
+          "type": "consideration"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:BILL",
       "text": "Passed Senate without amendment by Unanimous Consent.",
       "type": "vote",
       "vote_type": "vote2",
       "where": "s"
+    },
+    {
+      "acted_at": "2025-12-19",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -408,20 +420,6 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "To provide for the vacating of certain convictions and expungement of certain arrests of victims of human trafficking.",
-      "type": "official"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "To provide for the vacating of certain convictions and expungement of certain arrests of victims of human trafficking.",
-      "type": "official"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "Trafficking Survivors Relief Act of 2025",
       "type": "short"
     },
@@ -444,9 +442,30 @@
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Trafficking Survivors Relief Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To provide for the vacating of certain convictions and expungement of certain arrests of victims of human trafficking.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To provide for the vacating of certain convictions and expungement of certain arrests of victims of human trafficking.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Trafficking Survivors Relief Act",
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-19T11:56:27Z",
+  "updated_at": "2025-12-22T15:19:32Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4323.xml"
 }

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1230" updated="2025-03-21T13:39:35Z">
+<bill session="119" type="h" number="1230" updated="2025-12-20T09:06:55Z">
   <state datetime="2025-02-12">REFERRED</state>
   <status>
     <introduced datetime="2025-02-12"/>
@@ -13,6 +13,7 @@
   <sponsor bioguide_id="V000135"/>
   <cosponsors>
     <cosponsor bioguide_id="D000230" joined="2025-02-12"/>
+    <cosponsor bioguide_id="N000191" joined="2025-12-19"/>
   </cosponsors>
   <actions>
     <action datetime="2025-02-12">
@@ -27,11 +28,15 @@
     <action datetime="2025-03-20">
       <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
     </action>
+    <action datetime="2025-12-19">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR10" name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSAG14" name="House Agriculture" subcommittee="Conservation, Research, and Biotechnology" activity="Referral"/>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

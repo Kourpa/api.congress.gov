@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4611" updated="2025-12-18T09:06:59Z">
+<bill session="119" type="h" number="4611" updated="2025-12-20T09:06:57Z">
   <state datetime="2025-07-22">REFERRED</state>
   <status>
     <introduced datetime="2025-07-22"/>
@@ -196,10 +196,13 @@
   </cosponsors>
   <actions>
     <action datetime="2025-07-21">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2025-07-21">
       <text>Sponsor introductory remarks on measure.</text>
       <reference ref="CR H3521-3522"/>
     </action>
-    <action datetime="2025-07-22">
+    <action datetime="2025-07-21">
       <text>Introduced in House</text>
     </action>
     <action datetime="2025-07-22" state="REFERRED">
@@ -226,12 +229,16 @@
     <action datetime="2025-07-22">
       <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Natural Resources, Armed Services, Veterans' Affairs, the Judiciary, Oversight and Government Reform, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-12-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Referral"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>

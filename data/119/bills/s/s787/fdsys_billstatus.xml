@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>787</number>
-    <updateDate>2025-12-19T12:23:19Z</updateDate>
-    <updateDateIncludingText>2025-12-19T12:40:02Z</updateDateIncludingText>
+    <updateDate>2025-12-22T15:59:13Z</updateDate>
+    <updateDateIncludingText>2025-12-22T15:59:13Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -44,11 +44,41 @@
     </committeeReports>
     <actions>
       <item>
+        <actionDate>2025-12-19</actionDate>
+        <actionTime>14:40:27</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-12-19</actionDate>
+        <actionTime>14:33:19</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-12-19</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
         <actionDate>2025-12-18</actionDate>
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Passed Senate with an amendment by Unanimous Consent.</text>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S8897-8898)</text>
         <type>Floor</type>
       </item>
       <item>
@@ -74,7 +104,7 @@
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Measure laid before Senate by unanimous consent.</text>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S8895-8898)</text>
         <type>Floor</type>
       </item>
       <item>
@@ -247,6 +277,12 @@
     <title>VetPAC Act of 2025</title>
     <titles>
       <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>VetPAC Act of 2025</title>
+        <updateDate>2025-12-20T12:03:19Z</updateDate>
+      </item>
+      <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
         <titleTypeCode>105</titleTypeCode>
         <title>VetPAC Act of 2025</title>
@@ -255,12 +291,6 @@
         <chamberName>Senate</chamberName>
         <billTextVersionName>Engrossed in Senate</billTextVersionName>
         <billTextVersionCode>ES</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>VetPAC Act of 2025</title>
-        <updateDate>2025-12-19T12:03:16Z</updateDate>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
@@ -295,7 +325,7 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To remove the authorization of appropriations for such sums as may be necessary.</purpose>
-        <updateDate>2025-12-19T12:08:27Z</updateDate>
+        <updateDate>2025-12-22T15:59:13Z</updateDate>
         <latestAction>
           <actionDate>2025-12-18</actionDate>
           <text>Amendment SA 4142 agreed to in Senate by Unanimous Consent.</text>
@@ -346,7 +376,7 @@
           <originChamberCode>S</originChamberCode>
           <number>787</number>
           <title>VetPAC Act of 2025</title>
-          <updateDateIncludingText>2025-12-19</updateDateIncludingText>
+          <updateDateIncludingText>2025-12-22</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>6</count>
@@ -366,7 +396,7 @@
                 <code>0</code>
                 <name>Senate</name>
               </sourceSystem>
-              <text>Amendment SA 4142 proposed by Senator Thune for Senator Moran. To remove the authorization of appropriations for such sums as may be necessary.</text>
+              <text>Amendment SA 4142 proposed by Senator Thune for Senator Moran. (consideration: CR S8897-8898)</text>
               <type>Floor</type>
             </item>
             <item>
@@ -410,6 +440,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
     </amendments>
     <textVersions>
@@ -442,8 +475,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-18</actionDate>
-      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <actionDate>2025-12-19</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>14:40:27</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -36,7 +36,12 @@
     {
       "acted_at": "2025-12-18",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8891-8893",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -44,7 +49,12 @@
       "acted_at": "2025-12-18",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S8892-8893",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:SIMPLERES",
       "text": "Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.",
@@ -141,6 +151,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-19T12:08:27Z",
+  "updated_at": "2025-12-22T15:08:41Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres321.xml"
 }

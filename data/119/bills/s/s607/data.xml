@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="607" updated="2025-12-19T12:23:21Z">
+<bill session="119" type="s" number="607" updated="2025-12-22T16:01:15Z">
   <state datetime="2025-12-18">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-12-18"/>
@@ -39,7 +39,18 @@
     </calendar>
     <vote how="by Unanimous Consent" type="vote" datetime="2025-12-18" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.</text>
+      <reference ref="CR S8898-8899" label="consideration"/>
+      <reference ref="CR S8898-8899" label="text"/>
     </vote>
+    <action datetime="2025-12-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2025-12-19T14:33:18-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2025-12-19T14:40:21-05:00">
+      <text>Held at the desk.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Hearings By (Full Committee), Referred To"/>

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4611</number>
-    <updateDate>2025-12-18T09:06:59Z</updateDate>
-    <updateDateIncludingText>2025-12-18T09:06:59Z</updateDateIncludingText>
+    <updateDate>2025-12-20T09:06:57Z</updateDate>
+    <updateDateIncludingText>2025-12-20T09:06:57Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,30 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 125 (Tuesday, July 22, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Ms. PRESSLEY:H.R. 4611.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H3554]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>hsvr00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-12-19T19:04:45Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-07-22T14:01:35Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsfa00</systemCode>
         <name>Foreign Affairs Committee</name>
@@ -48,18 +72,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-07-22T14:01:40Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hsvr00</systemCode>
-        <name>Veterans' Affairs Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-07-22T14:01:35Z</date>
           </item>
         </activities>
       </item>
@@ -131,6 +143,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-12-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-07-22</actionDate>
         <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Natural Resources, Armed Services, Veterans' Affairs, the Judiciary, Oversight and Government Reform, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -260,20 +287,10 @@
         </committees>
       </item>
       <item>
-        <actionDate>2025-07-22</actionDate>
+        <actionDate>2025-07-21</actionDate>
         <text>Introduced in House</text>
         <type>IntroReferral</type>
         <actionCode>Intro-H</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
-      </item>
-      <item>
-        <actionDate>2025-07-22</actionDate>
-        <text>Introduced in House</text>
-        <type>IntroReferral</type>
-        <actionCode>1000</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -284,6 +301,16 @@
         <text>Sponsor introductory remarks on measure. (CR H3521-3522)</text>
         <type>IntroReferral</type>
         <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-07-21</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -2402,8 +2429,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-22</actionDate>
-      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Natural Resources, Armed Services, Veterans' Affairs, the Judiciary, Oversight and Government Reform, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2025-12-19</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

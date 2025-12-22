@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>4114</number>
-    <updateDate>2025-07-09T15:31:18Z</updateDate>
-    <updateDateIncludingText>2025-07-09T15:31:18Z</updateDateIncludingText>
+    <updateDate>2025-12-20T09:06:55Z</updateDate>
+    <updateDateIncludingText>2025-12-20T09:06:55Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-06-24</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/4114</legislationUrl>
     <cdata>
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 108 (Tuesday, June 24, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. TAKANO:H.R. 4114.Article 1 Section 8[Page H2923]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
@@ -19,6 +20,18 @@
         <name>Veterans' Affairs Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-12-19T18:59:33Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -28,6 +41,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-06-24</actionDate>
         <text>Referred to the House Committee on Veterans' Affairs.</text>
@@ -132,8 +160,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-24</actionDate>
-      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2025-12-19</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
