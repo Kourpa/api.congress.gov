@@ -3,15 +3,17 @@
   <version>3.0.0</version>
   <bill>
     <number>6631</number>
-    <updateDate>2025-12-12T09:07:28Z</updateDate>
-    <updateDateIncludingText>2025-12-12T09:07:28Z</updateDateIncludingText>
+    <updateDate>2025-12-20T09:06:48Z</updateDate>
+    <updateDateIncludingText>2025-12-20T09:06:48Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-12-11</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/6631</legislationUrl>
-    <cdata/>
+    <cdata>
+      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 209 (Thursday, December 11, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Ms. ELFRETH:H.R. 6631.Congress has the power to enact this legislation pursuantto the following:Necessary and Proper Clause (Art. 1, Sec. 8, Cl. 18)[Page H5810]&lt;/pre&gt;</constitutionalAuthorityStatementText>
+    </cdata>
     <committees>
       <item>
         <systemCode>hsas00</systemCode>
@@ -23,13 +25,45 @@
             <name>Referred To</name>
             <date>2025-12-11T16:01:25Z</date>
           </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-12-11T05:00:05Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsed00</systemCode>
+        <name>Education and Workforce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-12-11T05:00:10Z</date>
+          </item>
         </activities>
       </item>
     </committees>
     <actions>
       <item>
         <actionDate>2025-12-11</actionDate>
-        <text>Referred to the House Committee on Armed Services.</text>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-12-11</actionDate>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
         <type>IntroReferral</type>
         <actionCode>H11100</actionCode>
         <sourceSystem>
@@ -106,7 +140,7 @@
     </titles>
     <latestAction>
       <actionDate>2025-12-11</actionDate>
-      <text>Referred to the House Committee on Armed Services.</text>
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
