@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4930</number>
-    <updateDate>2025-12-15T17:02:17Z</updateDate>
-    <updateDateIncludingText>2025-12-15T17:02:17Z</updateDateIncludingText>
+    <updateDate>2025-12-31T09:05:18Z</updateDate>
+    <updateDateIncludingText>2025-12-31T09:05:18Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2025-12-30T18:44:48Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-12-10T15:10:27Z</date>
@@ -51,6 +55,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-12-30</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 361.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00361</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-12-30</actionDate>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-415.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-12-30</actionDate>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-415.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-12-10</actionDate>
         <committees>
@@ -231,6 +280,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2025-12-30T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr4930rh/xml/BILLS-119hr4930rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-08-08T04:00:00Z</date>
         <formats>
@@ -241,8 +299,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-10</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 40 - 0.</text>
+      <actionDate>2025-12-30</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 361.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2262</number>
-    <updateDate>2025-12-31T03:38:15Z</updateDate>
-    <updateDateIncludingText>2025-12-31T03:48:15Z</updateDateIncludingText>
+    <updateDate>2025-12-31T09:05:16Z</updateDate>
+    <updateDateIncludingText>2025-12-31T09:05:16Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -22,6 +22,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2025-12-30T19:20:45Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-04-09T13:18:34Z</date>
           </item>
@@ -33,6 +37,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-30</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 369.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00369</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2025-12-30</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-423.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2025-12-30</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-423.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-04-09</actionDate>
         <committees>
@@ -224,8 +273,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-09</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 13.</text>
+      <actionDate>2025-12-30</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 369.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

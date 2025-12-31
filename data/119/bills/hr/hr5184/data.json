@@ -68,6 +68,26 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 30 - 16.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2025-12-30",
+      "action_code": "H12200",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-419.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-30",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "365",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 365.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -78,6 +98,7 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
@@ -99,12 +120,42 @@
   "congress": "119",
   "cosponsors": [
     {
+      "bioguide_id": "A000148",
+      "district": "4",
+      "name": "Auchincloss, Jake",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-12-30",
+      "state": "MA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "E000246",
+      "district": "11",
+      "name": "Edwards, Chuck",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-12-30",
+      "state": "NC",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "F000474",
       "district": "1",
       "name": "Flood, Mike",
       "original_cosponsor": true,
       "sponsored_at": "2025-09-08",
       "state": "NE",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "G000601",
+      "district": "12",
+      "name": "Goldman, Craig A.",
+      "original_cosponsor": false,
+      "sponsored_at": "2025-12-30",
+      "state": "TX",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -195,6 +246,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-31T03:38:15Z",
+  "updated_at": "2025-12-31T09:05:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5184.xml"
 }
