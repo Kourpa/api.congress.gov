@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="131" updated="2025-12-19T09:06:28Z">
-  <state datetime="2025-12-16">PASSED:BILL</state>
+<bill session="119" type="h" number="131" updated="2026-01-01T09:05:21Z">
+  <state datetime="2025-12-29">PROV_KILL:VETO</state>
   <status>
-    <unknown datetime="2025-12-16"/>
+    <unknown datetime="2025-12-29"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
@@ -69,6 +69,9 @@
     <topresident datetime="2025-12-18">
       <text>Presented to President.</text>
     </topresident>
+    <vetoed datetime="2025-12-29" state="PROV_KILL:VETO">
+      <text>Vetoed by President.</text>
+    </vetoed>
   </actions>
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>

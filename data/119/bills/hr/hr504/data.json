@@ -217,6 +217,14 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2025-12-29",
+      "action_code": "E30000",
+      "references": [],
+      "status": "PROV_KILL:VETO",
+      "text": "Vetoed by President.",
+      "type": "vetoed"
     }
   ],
   "amendments": [],
@@ -302,14 +310,14 @@
   "history": {
     "active": true,
     "active_at": "2025-02-05",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2025-12-18",
+    "awaiting_signature": false,
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-07-14T17:09:28-04:00",
     "senate_passage_result": "pass",
     "senate_passage_result_at": "2025-12-11",
-    "vetoed": false
+    "vetoed": true,
+    "vetoed_at": "2025-12-29"
   },
   "introduced_at": "2025-01-16",
   "number": "504",
@@ -332,8 +340,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2025-12-11",
+  "status": "PROV_KILL:VETO",
+  "status_at": "2025-12-29",
   "subjects": [
     "Floods and storm protection",
     "Florida",
@@ -399,6 +407,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-19T09:06:45Z",
+  "updated_at": "2026-01-01T09:05:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr504.xml"
 }
