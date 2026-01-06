@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>320</number>
-    <updateDate>2026-01-06T11:59:26Z</updateDate>
-    <updateDateIncludingText>2026-01-06T11:59:26Z</updateDateIncludingText>
+    <updateDate>2026-01-06T12:08:14Z</updateDate>
+    <updateDateIncludingText>2026-01-06T12:08:14Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -62,7 +62,7 @@
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+        <text>The committee substitute as amended agreed to by Unanimous Consent. (text of amendment in the nature of a substitute: CR S7-10)</text>
         <type>Floor</type>
       </item>
       <item>
@@ -70,7 +70,7 @@
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Measure laid before Senate by unanimous consent.</text>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S5-10)</text>
         <type>Floor</type>
       </item>
       <item>
@@ -265,6 +265,132 @@
         <billTextVersionCode>IS</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>4148</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To control funding for the National Earthquake Hazards Reduction Program.</purpose>
+        <updateDate>2026-01-06T12:08:14Z</updateDate>
+        <latestAction>
+          <actionDate>2026-01-05</actionDate>
+          <text>Amendment SA 4148 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 4148</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/4148</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S001217</bioguideId>
+            <fullName>Sen. Scott, Rick [R-FL]</fullName>
+            <firstName>Rick</firstName>
+            <lastName>Scott</lastName>
+            <party>R</party>
+            <state>FL</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>M001198</bioguideId>
+            <fullName>Rep. Marshall, Roger [R-KS-1]</fullName>
+            <firstName>Roger</firstName>
+            <lastName>Marshall</lastName>
+            <party>R</party>
+            <state>KS</state>
+            <type>Submitted on behalf of</type>
+          </item>
+          <item>
+            <bioguideId>M001198</bioguideId>
+            <fullName>Rep. Marshall, Roger [R-KS-1]</fullName>
+            <firstName>Roger</firstName>
+            <lastName>Marshall</lastName>
+            <party>R</party>
+            <state>KS</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-01-05T05:00:00Z</proposedDate>
+        <submittedDate>2026-01-05T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>320</number>
+          <title>National Earthquake Hazards Reduction Program Reauthorization Act of 2025</title>
+          <updateDateIncludingText>2026-01-06</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2026-01-05</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4148 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-01-05</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4148 proposed by Senator Marshall for Senator Scott FL. To control funding for the National Earthquake Hazards Reduction Program.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-01-05</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-05</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-05</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4148 proposed by Senator Marshall for Senator Scott FL.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-05</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 4148 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Engrossed in Senate</type>

@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="320" updated="2026-01-06T11:59:26Z">
+<bill session="119" type="s" number="320" updated="2026-01-06T12:08:14Z">
   <state datetime="2026-01-05">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2026-01-05"/>
@@ -33,9 +33,11 @@
     </calendar>
     <action datetime="2026-01-05">
       <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S5-10" label="consideration"/>
     </action>
     <action datetime="2026-01-05">
       <text>The committee substitute as amended agreed to by Unanimous Consent.</text>
+      <reference ref="CR S7-10" label="text of amendment in the nature of a substitute"/>
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2026-01-05" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate with an amendment by Unanimous Consent.</text>
@@ -55,7 +57,9 @@
     <term name="Natural disasters"/>
     <term name="Research administration and funding"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s4148"/>
+  </amendments>
   <committee-reports>
     <report>S. Rept. 119-74</report>
   </committee-reports>
