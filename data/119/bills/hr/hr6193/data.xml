@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6193" updated="2025-12-10T04:10:12Z">
+<bill session="119" type="h" number="6193" updated="2026-01-07T09:05:55Z">
   <state datetime="2025-11-20">REFERRED</state>
   <status>
     <introduced datetime="2025-11-20"/>
@@ -37,10 +37,14 @@
     <action datetime="2025-11-20">
       <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Veterans' Affairs, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-11-21">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW14" name="House Transportation and Infrastructure" subcommittee="Railroads, Pipelines, and Hazardous Materials" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
   </committees>

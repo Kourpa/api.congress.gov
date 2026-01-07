@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="224" updated="2025-07-08T16:45:35Z">
-  <state datetime="2025-02-10T16:19:21-05:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="224" updated="2026-01-07T11:56:58Z">
+  <state datetime="2026-01-06">PASSED:BILL</state>
   <status>
-    <unknown datetime="2025-02-10T16:19:21-05:00"/>
+    <unknown datetime="2026-01-06"/>
   </status>
   <introduced datetime="2025-01-07"/>
   <titles>
@@ -52,9 +52,15 @@
     <action datetime="2025-02-11">
       <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
     </action>
+    <action datetime="2026-01-06">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2026-01-06" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6075" updated="2025-12-31T09:05:19Z">
+<bill session="119" type="h" number="6075" updated="2026-01-07T09:05:52Z">
   <state datetime="2025-11-18">REFERRED</state>
   <status>
     <introduced datetime="2025-11-18"/>
@@ -11,11 +11,13 @@
   </titles>
   <sponsor bioguide_id="B001327"/>
   <cosponsors>
+    <cosponsor bioguide_id="D000629" joined="2026-01-06"/>
     <cosponsor bioguide_id="F000110" joined="2025-11-19"/>
     <cosponsor bioguide_id="G000583" joined="2025-12-02"/>
     <cosponsor bioguide_id="H001090" joined="2025-12-03"/>
     <cosponsor bioguide_id="K000404" joined="2025-12-03"/>
     <cosponsor bioguide_id="L000593" joined="2025-12-30"/>
+    <cosponsor bioguide_id="L000397" joined="2026-01-06"/>
     <cosponsor bioguide_id="M001232" joined="2025-11-19"/>
     <cosponsor bioguide_id="M001237" joined="2025-11-18"/>
     <cosponsor bioguide_id="M001241" joined="2025-12-17"/>
@@ -34,9 +36,13 @@
     <action datetime="2025-11-18" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2025-11-19">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW02" name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="2388" relation="identical"/>

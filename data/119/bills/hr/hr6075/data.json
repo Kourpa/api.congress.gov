@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Transportation and Infrastructure.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-11-19",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Water Resources and Environment.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,10 +41,29 @@
       ],
       "committee": "House Transportation and Infrastructure",
       "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Water Resources and Environment",
+      "subcommittee_id": "02"
     }
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "D000629",
+      "district": "3",
+      "name": "Davids, Sharice",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-06",
+      "state": "KS",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "F000110",
       "district": "6",
@@ -81,6 +110,16 @@
       "name": "Levin, Mike",
       "original_cosponsor": false,
       "sponsored_at": "2025-12-30",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "L000397",
+      "district": "18",
+      "name": "Lofgren, Zoe",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-06",
       "state": "CA",
       "title": "Rep.",
       "withdrawn_at": null
@@ -244,6 +283,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-31T09:05:19Z",
+  "updated_at": "2026-01-07T09:05:52Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6075.xml"
 }
