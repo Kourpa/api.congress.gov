@@ -90,7 +90,16 @@
     {
       "acted_at": "2026-01-07T17:45:01-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H122-126",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H123",
+          "type": "text"
+        }
+      ],
       "text": "Considered from the Discharge Calendar.",
       "type": "action"
     },
@@ -157,9 +166,16 @@
   },
   "status": "REFERRED",
   "status_at": "2025-09-30",
-  "subjects": [],
-  "subjects_top_term": null,
-  "summary": null,
+  "subjects": [
+    "Congress"
+  ],
+  "subjects_top_term": "Congress",
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2025-09-30",
+    "date": "2025-10-01T08:49:27Z",
+    "text": ""
+  },
   "titles": [
     {
       "as": "introduced",
@@ -176,6 +192,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-08T09:07:11Z",
+  "updated_at": "2026-01-08T16:43:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres780.xml"
 }
