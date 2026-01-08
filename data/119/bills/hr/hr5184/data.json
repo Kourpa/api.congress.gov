@@ -88,6 +88,18 @@
       "text": "Placed on the Union Calendar, Calendar No. 365.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-01-07T09:46:42-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres977-119",
+        "hr4593-119",
+        "hr6938-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 977 Reported to House. Rule provides for consideration of H.R. 4593, H.R. 5184 and H.R. 6938. The resolution provides for consideration of H.R. 4593, H.R. 5184, and H.R. 6938 under a closed rule with one hour of general debate and provides for one motion to recommit on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -184,7 +196,14 @@
   "number": "5184",
   "official_title": "To prohibit the Secretary of Energy from enforcing energy efficiency standards applicable to manufactured housing, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres977-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Affordable HOMES Act",
   "sponsor": {
     "bioguide_id": "H001093",
@@ -253,6 +272,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-05T21:35:19Z",
+  "updated_at": "2026-01-08T09:35:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5184.xml"
 }
