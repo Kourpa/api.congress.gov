@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1834" updated="2026-01-08T15:20:14Z">
-  <state datetime="2025-03-04">REFERRED</state>
+<bill session="119" type="h" number="1834" updated="2026-01-09T09:10:19Z">
+  <state datetime="2026-01-08T17:15:35-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-03-04"/>
+    <unknown datetime="2026-01-08T17:15:35-05:00"/>
   </status>
   <introduced datetime="2025-03-04"/>
   <titles>
@@ -90,6 +90,21 @@
     <action datetime="2025-03-21">
       <text>Referred to the Subcommittee on Economic Opportunity.</text>
     </action>
+    <action datetime="2026-01-08T15:33:17-05:00">
+      <text>Considered under the provisions of rule H. Res. 780.</text>
+    </action>
+    <action datetime="2026-01-08T15:35:29-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1834.</text>
+    </action>
+    <action datetime="2026-01-08T16:50:33-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="11" datetime="2026-01-08T17:15:35-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 230 - 196 (Roll no. 11).</text>
+    </vote>
+    <action datetime="2026-01-08T17:15:37-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
@@ -127,5 +142,7 @@
   <subjects>
     <term name="Congress"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h144"/>
+  </amendments>
 </bill>

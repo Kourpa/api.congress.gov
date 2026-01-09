@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="98" updated="2026-01-08T16:59:21Z">
+<bill session="119" type="sj" number="98" updated="2026-01-09T11:56:19Z">
   <state datetime="2025-12-03">REFERRED</state>
   <status>
     <introduced datetime="2025-12-03"/>
@@ -15,6 +15,8 @@
     <cosponsor bioguide_id="B001267" joined="2026-01-06"/>
     <cosponsor bioguide_id="B001277" joined="2026-01-06"/>
     <cosponsor bioguide_id="B001288" joined="2026-01-06"/>
+    <cosponsor bioguide_id="C000127" joined="2026-01-08"/>
+    <cosponsor bioguide_id="C001088" joined="2026-01-08"/>
     <cosponsor bioguide_id="C001113" joined="2026-01-07"/>
     <cosponsor bioguide_id="D000622" joined="2026-01-06"/>
     <cosponsor bioguide_id="G000574" joined="2026-01-05"/>
@@ -26,7 +28,10 @@
     <cosponsor bioguide_id="M000133" joined="2026-01-06"/>
     <cosponsor bioguide_id="M001176" joined="2026-01-05"/>
     <cosponsor bioguide_id="M001169" joined="2026-01-06"/>
+    <cosponsor bioguide_id="M001111" joined="2026-01-08"/>
+    <cosponsor bioguide_id="P000145" joined="2026-01-08"/>
     <cosponsor bioguide_id="P000603" joined="2025-12-03"/>
+    <cosponsor bioguide_id="P000595" joined="2026-01-08"/>
     <cosponsor bioguide_id="R000608" joined="2026-01-06"/>
     <cosponsor bioguide_id="S000033" joined="2026-01-06"/>
     <cosponsor bioguide_id="S001194" joined="2026-01-06"/>
@@ -43,9 +48,18 @@
     <action datetime="2025-12-03" state="REFERRED">
       <text>Read twice and referred to the Committee on Foreign Relations.</text>
     </action>
+    <action datetime="2026-01-08">
+      <text>Motion to discharge Senate Committee on Foreign Relations made.</text>
+    </action>
+    <action datetime="2026-01-08">
+      <text>Senate Committee on Foreign Relations discharged by Yea-Nay Vote. 52 - 47. Record Vote Number: 5.</text>
+    </action>
+    <calendar datetime="2026-01-08" calendar="Senate Legislative" under="General Orders" number="298">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 298.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Referred To, Referred To"/>
+    <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Discharged From, Referred To, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="sj" number="90" relation="unknown"/>

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6024" updated="2025-12-16T09:05:24Z">
+<bill session="119" type="h" number="6024" updated="2026-01-09T09:06:59Z">
   <state datetime="2025-11-12">REFERRED</state>
   <status>
     <introduced datetime="2025-11-12"/>
@@ -27,10 +27,14 @@
     <action datetime="2025-11-12">
       <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-12-03">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="609" relation="identical"/>

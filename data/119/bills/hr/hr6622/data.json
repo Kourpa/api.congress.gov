@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-08",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-08",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 8.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Judiciary",
@@ -48,7 +70,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-08",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -67,8 +90,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-12-11",
+  "status": "REPORTED",
+  "status_at": "2026-01-08",
   "subjects": [
     "Government operations and politics"
   ],
@@ -97,6 +120,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-07T16:56:41Z",
+  "updated_at": "2026-01-09T09:06:50Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6622.xml"
 }

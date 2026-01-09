@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Education and Workforce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-08",
+      "action_code": "",
+      "committees": [
+        "HSED"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-08",
+      "action_code": "",
+      "committees": [
+        "HSED"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Education and Workforce",
@@ -46,6 +68,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "M001219",
+      "district": "0",
+      "name": "Moylan, James C.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-08",
+      "state": "GU",
+      "title": "Del.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "N000188",
       "district": "1",
       "name": "Norcross, Donald",
@@ -58,7 +90,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-08",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -84,8 +117,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-07-10",
+  "status": "REPORTED",
+  "status_at": "2026-01-08",
   "subjects": [
     "Crime and law enforcement"
   ],
@@ -114,6 +147,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-08T09:06:39Z",
+  "updated_at": "2026-01-09T09:06:42Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4307.xml"
 }

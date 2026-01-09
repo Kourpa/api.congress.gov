@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-18",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Economic Opportunity.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Veterans' Affairs",
       "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Economic Opportunity",
+      "subcommittee_id": "10"
     }
   ],
   "congress": "119",
@@ -42,6 +61,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-11-20",
       "state": "OR",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001072",
+      "district": "7",
+      "name": "Carson, Andr\u00e9",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-07",
+      "state": "IN",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -184,6 +213,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-19T17:34:47Z",
+  "updated_at": "2026-01-09T09:07:00Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6224.xml"
 }
