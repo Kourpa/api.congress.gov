@@ -264,7 +264,12 @@
       "bill_ids": [
         "hres780-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H213-227",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 780.",
       "type": "action"
     },
@@ -286,7 +291,12 @@
       "acted_at": "2026-01-08T17:15:35-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H213-217",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "11",
       "status": "PASS_OVER:HOUSE",
@@ -582,6 +592,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-09T09:10:19Z",
+  "updated_at": "2026-01-09T19:27:39Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1834.xml"
 }

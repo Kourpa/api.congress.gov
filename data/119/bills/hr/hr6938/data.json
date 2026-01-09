@@ -63,7 +63,12 @@
       "bill_ids": [
         "hres977-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H151-205",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 977.",
       "type": "action"
     },
@@ -115,7 +120,12 @@
     {
       "acted_at": "2026-01-08T14:31:02-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H209-211",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -151,7 +161,12 @@
       "acted_at": "2026-01-08T15:11:23-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H151-199",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "7",
       "status": "PASS_OVER:HOUSE",
@@ -188,14 +203,24 @@
     {
       "acted_at": "2026-01-08",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S119",
+          "type": null
+        }
+      ],
       "text": "Motion to proceed to consideration of measure made in Senate.",
       "type": "action"
     },
     {
       "acted_at": "2026-01-08",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S119",
+          "type": null
+        }
+      ],
       "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
     }
@@ -388,6 +413,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-09T15:08:38Z",
+  "updated_at": "2026-01-09T19:32:55Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6938.xml"
 }

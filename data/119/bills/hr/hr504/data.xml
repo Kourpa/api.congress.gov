@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="504" updated="2026-01-09T09:07:10Z">
+<bill session="119" type="h" number="504" updated="2026-01-09T19:20:52Z">
   <state datetime="2026-01-08">VETOED:OVERRIDE_FAIL_ORIGINATING:HOUSE</state>
   <status>
     <unknown datetime="2026-01-08"/>
@@ -107,6 +107,7 @@
     </action>
     <action datetime="2026-01-08T13:54:12-05:00">
       <text>DEBATE - Pursuant to a previous order of the House of January 2, 2026, the unfinished business is the further consideration of the veto message of the President on H.R. 504. The House proceeded with one hour of debate on the objections of the President to the contrary notwithstanding.</text>
+      <reference ref="CR H208-209" label="consideration"/>
     </action>
     <action datetime="2026-01-08T14:05:26-05:00">
       <text>The previous question was ordered without objection.</text>
@@ -116,6 +117,7 @@
     </action>
     <action datetime="2026-01-08">
       <text>The Chair announced the unfinished business to be the consideration of the veto.</text>
+      <reference ref="CR H211-212" label="consideration"/>
     </action>
     <vote how="roll" type="override" roll="8" datetime="2026-01-08" where="h" result="fail" state="VETOED:OVERRIDE_FAIL_ORIGINATING:HOUSE">
       <text>On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 236 - 188 (Roll no. 8).</text>
