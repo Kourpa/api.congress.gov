@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="131" updated="2026-01-03T09:05:17Z">
-  <state datetime="2025-12-29">PROV_KILL:VETO</state>
+<bill session="119" type="h" number="131" updated="2026-01-09T09:06:43Z">
+  <state datetime="2026-01-08">VETOED:OVERRIDE_FAIL_ORIGINATING:HOUSE</state>
   <status>
-    <unknown datetime="2025-12-29"/>
+    <unknown datetime="2026-01-08"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
@@ -81,10 +81,37 @@
     <action datetime="2026-01-02T16:07:01-05:00">
       <text>POSTPONED CONSIDERATION OF VETO MESSAGE - The Chair announced that further consideration of the veto message and the bill, H.R. 131, is postponed until the legislative day of January 8, 2026. Agreed to without objection.</text>
     </action>
+    <action datetime="2026-01-08">
+      <text>The Chair laid before the House the veto message from the President.</text>
+    </action>
+    <action datetime="2026-01-08T13:28:07-05:00">
+      <text>DEBATE - Pursuant to a previous order of the House of January 2, 2026, the unfinished business is the further consideration of the veto message of the President on H.R. 131. The House proceeded with one hour of debate on the objections of the President to the contrary notwithstanding.</text>
+    </action>
+    <action datetime="2026-01-08T13:53:06-05:00">
+      <text>The previous question was ordered without objection.</text>
+    </action>
+    <action datetime="2026-01-08T13:53:27-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the veto message of the President to H.R. 131, the Chair put the question on will the House, on reconsideration, pass the bill, the objections of the President to the contrary notwithstanding. Under the Constitution, the vote must be taken by the yeas and nays. Further proceedings were postponed until a time to be announced.</text>
+    </action>
+    <action datetime="2026-01-08">
+      <text>The Chair announced the unfinished business to be the consideration of the veto.</text>
+    </action>
+    <vote how="roll" type="override" roll="9" datetime="2026-01-08" where="h" result="fail" state="VETOED:OVERRIDE_FAIL_ORIGINATING:HOUSE">
+      <text>On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 248 - 177, 1 Present (Roll no. 9).</text>
+    </vote>
+    <action datetime="2026-01-08">
+      <text>Motion to refer the bill and accompanying veto message to the Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2026-01-08">
+      <text>On motion to refer the bill and the accompanying veto message to the Committee on Natural Resources. Agreed to without objection.</text>
+    </action>
+    <action datetime="2026-01-08T15:24:41-05:00">
+      <text>The Chair directed the Clerk to notify the Senate of the action of the House.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="296" relation="identical"/>

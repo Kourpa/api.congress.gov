@@ -189,6 +189,82 @@
       "references": [],
       "text": "POSTPONED CONSIDERATION OF VETO MESSAGE - The Chair announced that further consideration of the veto message and the bill, H.R. 131, is postponed until the legislative day of January 8, 2026. Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-01-08",
+      "action_code": "H40300",
+      "references": [],
+      "text": "The Chair laid before the House the veto message from the President.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-08T13:28:07-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - Pursuant to a previous order of the House of January 2, 2026, the unfinished business is the further consideration of the veto message of the President on H.R. 131. The House proceeded with one hour of debate on the objections of the President to the contrary notwithstanding.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-08T13:53:06-05:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-08T13:53:27-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the veto message of the President to H.R. 131, the Chair put the question on will the House, on reconsideration, pass the bill, the objections of the President to the contrary notwithstanding. Under the Constitution, the vote must be taken by the yeas and nays. Further proceedings were postponed until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-08",
+      "action_code": "H40310",
+      "references": [],
+      "text": "The Chair announced the unfinished business to be the consideration of the veto.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-08",
+      "action_code": "H43410",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "9",
+      "status": "VETOED:OVERRIDE_FAIL_ORIGINATING:HOUSE",
+      "suspension": null,
+      "text": "On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 248 - 177, 1 Present (Roll no. 9).",
+      "type": "vote",
+      "vote_type": "override",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-01-08",
+      "action_code": "H43100",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Motion to refer the bill and accompanying veto message to the Committee on Natural Resources.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-08",
+      "action_code": "H43110",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "On motion to refer the bill and the accompanying veto message to the Committee on Natural Resources. Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-08T15:24:41-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "The Chair directed the Clerk to notify the Senate of the action of the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -201,20 +277,22 @@
   "committees": [
     {
       "activity": [
-        "Discharged From",
-        "Referred To"
-      ],
-      "committee": "Senate Energy and Natural Resources",
-      "committee_id": "SSEG"
-    },
-    {
-      "activity": [
+        "Unknown",
+        "Unknown",
         "Reported By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Natural Resources",
       "committee_id": "HSII"
+    },
+    {
+      "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "Senate Energy and Natural Resources",
+      "committee_id": "SSEG"
     }
   ],
   "congress": "119",
@@ -236,6 +314,8 @@
     "active_at": "2025-06-25",
     "awaiting_signature": false,
     "enacted": false,
+    "house_override_result": "fail",
+    "house_override_result_at": "2026-01-08",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-07-21T16:39:56-04:00",
     "senate_passage_result": "pass",
@@ -264,8 +344,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PROV_KILL:VETO",
-  "status_at": "2025-12-29",
+  "status": "VETOED:OVERRIDE_FAIL_ORIGINATING:HOUSE",
+  "status_at": "2026-01-08",
   "subjects": [
     "Colorado",
     "Pipelines",
@@ -331,6 +411,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-03T09:05:17Z",
+  "updated_at": "2026-01-09T09:06:43Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr131.xml"
 }
