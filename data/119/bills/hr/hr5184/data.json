@@ -100,9 +100,79 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 977 Reported to House. Rule provides for consideration of H.R. 4593, H.R. 5184 and H.R. 6938. The resolution provides for consideration of H.R. 4593, H.R. 5184, and H.R. 6938 under a closed rule with one hour of general debate and provides for one motion to recommit on each bill.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-01-09T09:14:58-05:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres977-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 977.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-09T09:15:03-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr4593-119",
+        "hr6938-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 4593, H.R. 5184 and H.R. 6938. The resolution provides for consideration of H.R. 4593, H.R. 5184, and H.R. 6938 under a closed rule with one hour of general debate and provides for one motion to recommit on each bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-09T09:15:59-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 5184.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-09T10:17:28-05:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-09T10:41:56-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "12",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 263 - 147 (Roll no. 12).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-01-09T10:41:58-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-09T10:42:01-05:00",
+      "action_code": "H38800",
+      "references": [],
+      "text": "The title of the measure was amended. Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt145-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "145"
+    }
+  ],
   "bill_id": "hr5184-119",
   "bill_type": "hr",
   "by_request": false,
@@ -190,6 +260,8 @@
     "active_at": "2025-11-19",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-01-09T10:41:56-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-09-08",
@@ -213,8 +285,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-12-03",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-01-09T10:41:56-05:00",
   "subjects": [
     "Energy",
     "Energy efficiency and conservation",
@@ -279,6 +351,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2026-01-09T17:03:15Z",
+  "updated_at": "2026-01-10T09:09:54Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5184.xml"
 }
