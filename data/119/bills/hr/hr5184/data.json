@@ -107,7 +107,12 @@
       "bill_ids": [
         "hres977-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H595-604",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 977.",
       "type": "action"
     },
@@ -140,7 +145,12 @@
       "acted_at": "2026-01-09T10:41:56-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H595",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "12",
       "status": "PASS_OVER:HOUSE",
@@ -351,6 +361,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2026-01-10T09:09:54Z",
+  "updated_at": "2026-01-12T14:22:57Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5184.xml"
 }
