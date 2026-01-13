@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2683" updated="2026-01-13T09:05:20Z">
+<bill session="119" type="h" number="2683" updated="2026-01-13T16:01:09Z">
   <state datetime="2026-01-12T18:57:22-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-01-12T18:57:22-05:00"/>
@@ -47,6 +47,7 @@
     </action>
     <action datetime="2026-01-12T15:00:55-05:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H621-623" label="consideration"/>
     </action>
     <action datetime="2026-01-12T15:00:56-05:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2683.</text>
@@ -56,9 +57,11 @@
     </action>
     <action datetime="2026-01-12T18:31:13-05:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H645-646" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="13" datetime="2026-01-12T18:57:22-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 369 - 22 (Roll no. 13).</text>
+      <reference ref="CR H621-622" label="text"/>
     </vote>
     <action datetime="2026-01-12T18:57:23-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

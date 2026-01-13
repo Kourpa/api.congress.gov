@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6938" updated="2026-01-13T12:08:24Z">
+<bill session="119" type="h" number="6938" updated="2026-01-13T15:46:39Z">
   <state datetime="2026-01-08T15:11:23-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-01-08T15:11:23-05:00"/>
@@ -109,9 +109,11 @@
     </action>
     <action datetime="2026-01-12">
       <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S121-128" label="consideration"/>
     </action>
     <vote-aux how="roll" type="cloture" roll="7" datetime="2026-01-12" where="s" result="pass">
       <text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 80 - 13. Record Vote Number: 7.</text>
+      <reference ref="CR S128"/>
     </vote-aux>
   </actions>
   <committees>

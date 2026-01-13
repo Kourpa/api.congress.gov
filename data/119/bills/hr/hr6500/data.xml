@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6500" updated="2026-01-13T09:05:50Z">
+<bill session="119" type="h" number="6500" updated="2026-01-13T16:01:30Z">
   <state datetime="2026-01-12T19:05:15-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-01-12T19:05:15-05:00"/>
@@ -38,6 +38,7 @@
     </action>
     <action datetime="2026-01-12T17:05:41-05:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H637-642" label="consideration"/>
     </action>
     <action datetime="2026-01-12T17:05:43-05:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6500.</text>
@@ -47,9 +48,11 @@
     </action>
     <action datetime="2026-01-12T18:57:36-05:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H646" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="14" datetime="2026-01-12T19:05:15-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 340 - 54 (Roll no. 14).</text>
+      <reference ref="CR H637" label="text"/>
     </vote>
     <action datetime="2026-01-12T19:05:16-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
