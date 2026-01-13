@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="909" updated="2026-01-09T20:06:21Z">
-  <state datetime="2025-02-04">REFERRED</state>
+<bill session="119" type="h" number="909" updated="2026-01-13T09:05:44Z">
+  <state datetime="2026-01-12T15:46:18-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-02-04"/>
+    <unknown datetime="2026-01-12T15:46:18-05:00"/>
   </status>
   <introduced datetime="2025-02-04"/>
   <titles>
@@ -237,6 +237,7 @@
     <cosponsor bioguide_id="N000188" joined="2025-02-11"/>
     <cosponsor bioguide_id="N000147" joined="2025-02-14"/>
     <cosponsor bioguide_id="N000193" joined="2025-06-26"/>
+    <cosponsor bioguide_id="O000176" joined="2026-01-12"/>
     <cosponsor bioguide_id="O000173" joined="2025-04-01"/>
     <cosponsor bioguide_id="O000177" joined="2025-09-04"/>
     <cosponsor bioguide_id="O000086" joined="2025-02-07"/>
@@ -348,9 +349,30 @@
     <action datetime="2025-09-10">
       <text>Motion to place bill on Consensus Calendar filed by Mrs. Wagner.</text>
     </action>
+    <action datetime="2026-01-09">
+      <text>Assigned to the Consensus Calendar, Calendar No. 1.</text>
+    </action>
+    <action datetime="2026-01-12T15:14:04-05:00">
+      <text>CHAIR ANNOUNCEMENT - The Chair announced the Speaker's designation, pursuant to clause 7(a)(1) of rule 15, of H.R. 909 as the measure on the Consensus Calendar to be considered this week.</text>
+    </action>
+    <action datetime="2026-01-12T15:15:10-05:00">
+      <text>Mrs. Wagner moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-01-12T15:15:24-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-01-12T15:15:25-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 909.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-01-12T15:46:18-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-01-12T15:46:21-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Unknown, Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Unknown, Unknown, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

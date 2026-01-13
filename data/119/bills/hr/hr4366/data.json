@@ -58,6 +58,20 @@
       "text": "Placed on the Union Calendar, Calendar No. 368.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-01-12T18:48:32-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres988-119",
+        "hr2988-119",
+        "hr2262-119",
+        "hr2270-119",
+        "hr2312-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 988 Reported to House. Rule provides for consideration of H.R. 2988, H.R. 2262, H.R. 2270, H.R. 2312 and H.R. 4366. The resolution provides for consideration of H.R. 2988 under a structured rule, and H.R. 2262, H.R. 2270, H.R. 2312, and H.R. 4366 under a closed rule. The rule provides for one hour of general debate and one motion to recommit on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -113,7 +127,14 @@
   "number": "4366",
   "official_title": "To clarify the treatment of 2 or more employers as joint employers under the National Labor Relations Act and the Fair Labor Standards Act of 1938.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres988-119",
+      "identified_by": "House",
+      "reason": "procedurally related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Save Local Business Act",
   "sponsor": {
     "bioguide_id": "C001108",
@@ -168,6 +189,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-12T16:39:54Z",
+  "updated_at": "2026-01-13T09:05:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4366.xml"
 }

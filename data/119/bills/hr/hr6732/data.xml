@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6732" updated="2026-01-08T18:26:01Z">
-  <state datetime="2025-12-18">REPORTED</state>
+<bill session="119" type="h" number="6732" updated="2026-01-13T09:05:23Z">
+  <state datetime="2026-01-12T16:41:32-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-12-18"/>
+    <unknown datetime="2026-01-12T16:41:32-05:00"/>
   </status>
   <introduced datetime="2025-12-16"/>
   <titles>
@@ -12,9 +12,11 @@
   </titles>
   <sponsor bioguide_id="B001302"/>
   <cosponsors>
+    <cosponsor bioguide_id="G000602" joined="2026-01-12"/>
     <cosponsor bioguide_id="G000576" joined="2025-12-16"/>
     <cosponsor bioguide_id="M001240" joined="2025-12-17"/>
     <cosponsor bioguide_id="M001212" joined="2025-12-16"/>
+    <cosponsor bioguide_id="M001236" joined="2026-01-12"/>
     <cosponsor bioguide_id="N000026" joined="2025-12-16"/>
     <cosponsor bioguide_id="O000175" joined="2025-12-16"/>
     <cosponsor bioguide_id="O000086" joined="2025-12-16"/>
@@ -32,6 +34,21 @@
     </action>
     <action datetime="2025-12-18" state="REPORTED">
       <text>Ordered to be Reported in the Nature of a Substitute by Voice Vote.</text>
+    </action>
+    <action datetime="2026-01-12T16:25:30-05:00">
+      <text>Mr. Biggs (AZ) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-01-12T16:25:40-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-01-12T16:25:42-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6732.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-01-12T16:41:32-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-01-12T16:41:33-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

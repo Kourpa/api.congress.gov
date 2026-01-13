@@ -58,6 +58,20 @@
       "text": "Placed on the Union Calendar, Calendar No. 369.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-01-12T18:48:32-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres988-119",
+        "hr2988-119",
+        "hr2270-119",
+        "hr2312-119",
+        "hr4366-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 988 Reported to House. Rule provides for consideration of H.R. 2988, H.R. 2262, H.R. 2270, H.R. 2312 and H.R. 4366. The resolution provides for consideration of H.R. 2988 under a structured rule, and H.R. 2262, H.R. 2270, H.R. 2312, and H.R. 4366 under a closed rule. The rule provides for one hour of general debate and one motion to recommit on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -113,7 +127,14 @@
   "number": "2262",
   "official_title": "To amend the Fair Labor Standards Act of 1938 to exclude certain activities from hours worked, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres988-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Flexibility for Workers Education Act",
   "sponsor": {
     "bioguide_id": "H001091",
@@ -168,6 +189,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-12T22:21:29Z",
+  "updated_at": "2026-01-13T09:35:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2262.xml"
 }

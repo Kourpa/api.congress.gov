@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6715" updated="2026-01-12T19:46:44Z">
-  <state datetime="2025-12-18">REPORTED</state>
+<bill session="119" type="h" number="6715" updated="2026-01-13T09:05:43Z">
+  <state datetime="2026-01-12T16:25:18-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-12-18"/>
+    <unknown datetime="2026-01-12T16:25:18-05:00"/>
   </status>
   <introduced datetime="2025-12-15"/>
   <titles>
@@ -10,7 +10,9 @@
     <title type="official" as="introduced">To prohibit sexual exploitation and sexually explicit depictions of minors, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="H001102"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000602" joined="2026-01-12"/>
+  </cosponsors>
   <actions>
     <action datetime="2025-12-15">
       <text>Introduced in House</text>
@@ -23,6 +25,21 @@
     </action>
     <action datetime="2025-12-18" state="REPORTED">
       <text>Ordered to be Reported in the Nature of a Substitute by Voice Vote.</text>
+    </action>
+    <action datetime="2026-01-12T16:10:17-05:00">
+      <text>Mr. Harris (NC) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-01-12T16:10:19-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-01-12T16:10:22-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6715.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-01-12T16:25:18-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-01-12T16:25:19-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>
