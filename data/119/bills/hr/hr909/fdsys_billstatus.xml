@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>909</number>
-    <updateDate>2026-01-14T03:23:16Z</updateDate>
-    <updateDateIncludingText>2026-01-14T03:23:16Z</updateDateIncludingText>
+    <updateDate>2026-01-14T11:56:27Z</updateDate>
+    <updateDateIncludingText>2026-01-14T11:56:27Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,18 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 23 (Tuesday, February 4, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mrs. WAGNER:H.R. 909.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H460]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>ssju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-01-13T20:27:02Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsju00</systemCode>
         <name>Judiciary Committee</name>
@@ -37,6 +49,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-01-12</actionDate>
         <actionTime>15:46:21</actionTime>
@@ -62,7 +88,7 @@
       <item>
         <actionDate>2026-01-12</actionDate>
         <actionTime>15:46:18</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H623)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -3998,9 +4024,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-12</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>15:46:21</actionTime>
+      <actionDate>2026-01-13</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

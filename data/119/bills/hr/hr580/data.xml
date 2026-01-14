@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="580" updated="2025-11-14T19:35:17Z">
+<bill session="119" type="h" number="580" updated="2026-01-14T09:07:23Z">
   <state datetime="2025-05-21">REPORTED</state>
   <status>
     <unknown datetime="2025-05-21"/>
@@ -38,12 +38,27 @@
     <action datetime="2025-05-21" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 23 - 19.</text>
     </action>
+    <action datetime="2026-01-13">
+      <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-446, Part I.</text>
+    </action>
+    <action datetime="2026-01-13">
+      <text>Committee on Rules discharged.</text>
+    </action>
+    <action datetime="2026-01-13">
+      <text>Committee on the Budget discharged.</text>
+    </action>
+    <action datetime="2026-01-13">
+      <text>Committee on the Judiciary discharged.</text>
+    </action>
+    <calendar datetime="2026-01-13" calendar="Union" number="381">
+      <text>Placed on the Union Calendar, Calendar No. 381.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
-    <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>
-    <committee code="HSRU" name="House Rules" subcommittee="" activity="Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSBU" name="House Budget" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSRU" name="House Rules" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

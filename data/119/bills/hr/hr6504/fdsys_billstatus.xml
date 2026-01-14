@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6504</number>
-    <updateDate>2026-01-14T03:23:16Z</updateDate>
-    <updateDateIncludingText>2026-01-14T03:23:16Z</updateDateIncludingText>
+    <updateDate>2026-01-14T11:56:22Z</updateDate>
+    <updateDateIncludingText>2026-01-14T11:56:22Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,18 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 207 (Tuesday, December 9, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. MURPHY:H.R. 6504.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H5112]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-01-13T20:26:02Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hswm00</systemCode>
         <name>Ways and Means Committee</name>
@@ -37,6 +49,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-01-12</actionDate>
         <actionTime>19:12:17</actionTime>
@@ -72,7 +98,7 @@
       <item>
         <actionDate>2026-01-12</actionDate>
         <actionTime>19:12:16</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 45 (Roll no. 15).</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 45 (Roll no. 15). (text: CR H642)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -402,9 +428,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-12</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>19:12:17</actionTime>
+      <actionDate>2026-01-13</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

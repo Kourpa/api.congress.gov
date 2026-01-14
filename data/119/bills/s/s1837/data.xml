@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1837" updated="2025-12-05T22:01:54Z">
-  <state datetime="2025-05-21">REFERRED</state>
+<bill session="119" type="s" number="1837" updated="2026-01-14T12:03:37Z">
+  <state datetime="2026-01-13">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-05-21"/>
+    <unknown datetime="2026-01-13"/>
   </status>
   <introduced datetime="2025-05-21"/>
   <titles>
@@ -29,9 +29,24 @@
       <text>Read twice and referred to the Committee on the Judiciary.</text>
       <reference ref="CR S3059-3060" label="text"/>
     </action>
+    <action datetime="2026-01-13">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-01-13" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2026-01-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2026-01-13T18:21:25-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2026-01-13T18:23:38-05:00">
+      <text>Held at the desk.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="3562" relation="identical"/>

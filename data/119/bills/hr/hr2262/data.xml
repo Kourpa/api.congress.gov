@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2262" updated="2026-01-13T23:41:16Z">
-  <state datetime="2025-04-09">REPORTED</state>
+<bill session="119" type="h" number="2262" updated="2026-01-14T09:11:50Z">
+  <state datetime="2026-01-13T17:52:09-05:00">FAIL:ORIGINATING:HOUSE</state>
   <status>
-    <unknown datetime="2025-04-09"/>
+    <unknown datetime="2026-01-13T17:52:09-05:00"/>
   </status>
   <introduced datetime="2025-03-21"/>
   <titles>
@@ -37,9 +37,42 @@
     <action datetime="2026-01-12T18:48:32-05:00">
       <text>Rules Committee Resolution H. Res. 988 Reported to House. Rule provides for consideration of H.R. 2988, H.R. 2262, H.R. 2270, H.R. 2312 and H.R. 4366. The resolution provides for consideration of H.R. 2988 under a structured rule, and H.R. 2262, H.R. 2270, H.R. 2312, and H.R. 4366 under a closed rule. The rule provides for one hour of general debate and one motion to recommit on each bill.</text>
     </action>
+    <action datetime="2026-01-13T14:08:55-05:00">
+      <text>Considered under the provisions of rule H. Res. 988.</text>
+    </action>
+    <action datetime="2026-01-13T14:09:00-05:00">
+      <text>Rule provides for consideration of H.R. 2988, H.R. 2262, H.R. 2270, H.R. 2312 and H.R. 4366. The resolution provides for consideration of H.R. 2988 under a structured rule, and H.R. 2262, H.R. 2270, H.R. 2312, and H.R. 4366 under a closed rule. The rule provides for one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2026-01-13T14:09:50-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2262.</text>
+    </action>
+    <action datetime="2026-01-13T14:31:30-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-01-13T14:31:49-05:00">
+      <text>Mr. Norcross moved to recommit to the Committee on Education and Workforce.</text>
+    </action>
+    <action datetime="2026-01-13T14:32:02-05:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-01-13T14:32:33-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2262, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Mr. Norcross demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-01-13T16:32:19-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-01-13T16:59:35-05:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 209 - 213 (Roll no. 18).</text>
+    </action>
+    <vote how="roll" type="vote" roll="19" datetime="2026-01-13T17:52:09-05:00" where="h" result="fail" state="FAIL:ORIGINATING:HOUSE">
+      <text>On passage Failed by the Yeas and Nays: 209 - 215 (Roll no. 19).</text>
+    </vote>
+    <action datetime="2026-01-13T17:52:11-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="988" relation="unknown"/>
@@ -50,7 +83,9 @@
     <term name="Labor standards"/>
     <term name="Wages and earnings"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h146"/>
+  </amendments>
   <summary date="2026-01-12T22:21:03Z" status="Reported to House"></summary>
   <committee-reports>
     <report>H. Rept. 119-423</report>
