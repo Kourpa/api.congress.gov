@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5169</number>
-    <updateDate>2025-12-15T18:09:10Z</updateDate>
-    <updateDateIncludingText>2025-12-15T18:09:10Z</updateDateIncludingText>
+    <updateDate>2026-01-15T11:08:51Z</updateDate>
+    <updateDateIncludingText>2026-01-15T11:08:51Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-01-14T17:14:15Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-09-17T19:40:46Z</date>
@@ -52,6 +56,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-01-14</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 383.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00383</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-01-14</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-448.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-14</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-448.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-09-17</actionDate>
         <committees>
@@ -216,6 +265,16 @@
     <title>Retire through Ownership Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Retire through Ownership Act</title>
+        <updateDate>2026-01-15T11:08:51Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Retire through Ownership Act</title>
@@ -240,6 +299,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-01-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr5169rh/xml/BILLS-119hr5169rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-09-08T04:00:00Z</date>
         <formats>
@@ -250,8 +318,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-17</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 35 - 0.</text>
+      <actionDate>2026-01-14</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 383.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

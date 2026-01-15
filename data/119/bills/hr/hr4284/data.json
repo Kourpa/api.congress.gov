@@ -78,6 +78,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by Unanimous Consent.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-01-14",
+      "action_code": "H12200",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 119-454, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-14",
+      "action_code": "H12300",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Committee on Agriculture discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-14",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "389",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 389.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -88,6 +118,15 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "discharged",
         "Referred To"
@@ -104,13 +143,6 @@
       "committee_id": "HSII",
       "subcommittee": "Subcommittee on Federal Lands",
       "subcommittee_id": "10"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Agriculture",
-      "committee_id": "HSAG"
     }
   ],
   "congress": "119",
@@ -160,6 +192,20 @@
   "summary": null,
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Small Cemetery Conveyance Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Small Cemetery Conveyance Act",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -170,17 +216,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Small Cemetery Conveyance Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To amend the Small Tract Act of 1983 to authorize the Secretary of Agriculture to convey, without consideration, certain cemeteries, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-20T09:06:46Z",
+  "updated_at": "2026-01-15T11:08:51Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4284.xml"
 }

@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-13",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-13",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Judiciary",
@@ -462,6 +484,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-04-14",
       "state": "NC",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "E000301",
+      "district": "3",
+      "name": "Elfreth, Sarah",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-14",
+      "state": "MD",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -2008,7 +2040,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-13",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -2034,8 +2067,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-04-10",
+  "status": "REPORTED",
+  "status_at": "2026-01-13",
   "subjects": [
     "Crime and law enforcement"
   ],
@@ -2064,6 +2097,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-13T09:05:23Z",
+  "updated_at": "2026-01-15T09:06:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2853.xml"
 }

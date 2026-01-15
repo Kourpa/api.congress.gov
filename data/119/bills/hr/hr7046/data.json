@@ -1,6 +1,18 @@
 {
   "actions": [
     {
+      "acted_at": "2026-01-12",
+      "action_code": "B00100",
+      "references": [
+        {
+          "reference": "CR H649",
+          "type": null
+        }
+      ],
+      "text": "Sponsor introductory remarks on measure.",
+      "type": "action"
+    },
+    {
       "acted_at": "2026-01-13",
       "action_code": "Intro-H",
       "references": [],
@@ -36,6 +48,26 @@
   "congress": "119",
   "cosponsors": [
     {
+      "bioguide_id": "G000553",
+      "district": "9",
+      "name": "Green, Al",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-14",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M000312",
+      "district": "2",
+      "name": "McGovern, James P.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-14",
+      "state": "MA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "O000173",
       "district": "5",
       "name": "Omar, Ilhan",
@@ -54,11 +86,22 @@
       "state": "CA",
       "title": "Rep.",
       "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "T000481",
+      "district": "12",
+      "name": "Tlaib, Rashida",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-14",
+      "state": "MI",
+      "title": "Rep.",
+      "withdrawn_at": null
     }
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-13",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -98,6 +141,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-14T09:06:46Z",
+  "updated_at": "2026-01-15T13:34:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7046.xml"
 }

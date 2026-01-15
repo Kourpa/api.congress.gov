@@ -29,6 +29,62 @@
       "text": "Placed on the House Calendar, Calendar No. 54.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-01-14T12:16:41-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as privileged matter.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-14T12:18:56-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 992.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-14T12:54:35-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate H.Res. 992, the Chair put the ordering the previous question and announced the ayes had prevailed. Ms. Scanlon demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-14T13:31:01-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-14T13:57:34-05:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "On ordering the previous question Agreed to by the Yeas and Nays: 213 - 209 (Roll no. 24).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-14T14:03:24-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "25",
+      "status": "PASSED:SIMPLERES",
+      "suspension": null,
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 213 - 210 (Roll no. 25).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-01-14T14:03:26-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -55,6 +111,8 @@
     "active_at": "2026-01-13T18:30:47-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-01-14T14:03:24-05:00",
     "vetoed": false
   },
   "introduced_at": "2026-01-13",
@@ -78,10 +136,12 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "INTRODUCED",
-  "status_at": "2026-01-13",
-  "subjects": [],
-  "subjects_top_term": null,
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2026-01-14T14:03:24-05:00",
+  "subjects": [
+    "Congress"
+  ],
+  "subjects_top_term": "Congress",
   "summary": null,
   "titles": [
     {
@@ -99,6 +159,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-14T16:11:17Z",
+  "updated_at": "2026-01-15T13:51:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres992.xml"
 }

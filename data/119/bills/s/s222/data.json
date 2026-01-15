@@ -155,6 +155,14 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2026-01-14",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
     }
   ],
   "amendments": [],
@@ -342,7 +350,7 @@
     "active": true,
     "active_at": "2025-04-01",
     "awaiting_signature": true,
-    "awaiting_signature_since": "2026-01-06",
+    "awaiting_signature_since": "2026-01-14",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-12-15T14:51:43-05:00",
@@ -354,7 +362,14 @@
   "number": "222",
   "official_title": "A bill to amend the Richard B. Russell National School Lunch Act to allow schools that participate in the school lunch program to serve whole milk, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s1469-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Whole Milk for Healthy Kids Act of 2025",
   "sponsor": {
     "bioguide_id": "M001198",
@@ -364,8 +379,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2025-12-15T14:51:43-05:00",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2026-01-14",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Agriculture and food",
@@ -426,6 +441,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-07T09:05:32Z",
+  "updated_at": "2026-01-14T23:14:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s222.xml"
 }
