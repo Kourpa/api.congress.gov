@@ -1,9 +1,33 @@
 {
   "actions": [
     {
-      "acted_at": "2026-01-14",
+      "acted_at": "2026-01-15",
       "action_code": "",
       "references": [],
+      "text": "SA 4209 fell when SA 4208 withdrawn.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S248",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-14",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S185",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -28,16 +52,16 @@
     },
     {
       "acted_at": "2026-01-13",
-      "action_code": "91000",
+      "action_code": "93000",
       "references": [],
-      "text": "Senate amendment submitted",
+      "text": "Senate amendment proposed (on the floor): Amendment SA 4209 proposed by Senator Thune to Amendment SA 4208.",
       "type": "action"
     },
     {
       "acted_at": "2026-01-13",
-      "action_code": "93000",
+      "action_code": "91000",
       "references": [],
-      "text": "Senate amendment proposed (on the floor): Amendment SA 4209 proposed by Senator Thune to Amendment SA 4208.",
+      "text": "Senate amendment submitted",
       "type": "action"
     }
   ],
@@ -74,5 +98,5 @@
   },
   "status": "offered",
   "status_at": "2026-01-13",
-  "updated_at": "2026-01-15T16:17:51Z"
+  "updated_at": "2026-01-16T14:46:40Z"
 }

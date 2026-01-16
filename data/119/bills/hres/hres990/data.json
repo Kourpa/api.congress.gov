@@ -56,6 +56,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C001072",
+      "district": "7",
+      "name": "Carson, Andr\u00e9",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "IN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "C001067",
       "district": "9",
       "name": "Clarke, Yvette D.",
@@ -177,7 +187,14 @@
   "number": "990",
   "official_title": "Recognizing the 113th anniversary of Delta Sigma Theta Sorority, Incorporated.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres35-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "L000602",
@@ -189,8 +206,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-01-13",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Education"
+  ],
+  "subjects_top_term": "Education",
   "summary": null,
   "titles": [
     {
@@ -208,6 +227,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-15T04:03:17Z",
+  "updated_at": "2026-01-16T13:18:55Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres990.xml"
 }

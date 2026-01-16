@@ -1,9 +1,33 @@
 {
   "actions": [
     {
-      "acted_at": "2026-01-14",
+      "acted_at": "2026-01-15",
       "action_code": "",
       "references": [],
+      "text": "SA 4211 fell when SA 4210 (the instructions of the motion to commit) fell.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S230",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-14",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S185",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -74,5 +98,5 @@
   },
   "status": "offered",
   "status_at": "2026-01-13",
-  "updated_at": "2026-01-15T16:18:11Z"
+  "updated_at": "2026-01-16T15:03:49Z"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6431" updated="2026-01-06T16:05:43Z">
-  <state datetime="2025-12-04">REFERRED</state>
+<bill session="119" type="h" number="6431" updated="2026-01-16T09:06:38Z">
+  <state datetime="2026-01-14">REPORTED</state>
   <status>
-    <introduced datetime="2025-12-04"/>
+    <unknown datetime="2026-01-14"/>
   </status>
   <introduced datetime="2025-12-04"/>
   <titles>
@@ -25,9 +25,15 @@
     <action datetime="2025-12-04" state="REFERRED">
       <text>Referred to the House Committee on Ways and Means.</text>
     </action>
+    <action datetime="2026-01-14">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-01-14" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 41 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
+    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

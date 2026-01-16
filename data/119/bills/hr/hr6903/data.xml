@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6903" updated="2026-01-09T15:11:24Z">
-  <state datetime="2025-12-18">REFERRED</state>
+<bill session="119" type="h" number="6903" updated="2026-01-16T09:06:12Z">
+  <state datetime="2026-01-14">REPORTED</state>
   <status>
-    <introduced datetime="2025-12-18"/>
+    <unknown datetime="2026-01-14"/>
   </status>
   <introduced datetime="2025-12-18"/>
   <titles>
@@ -23,10 +23,16 @@
     <action datetime="2025-12-18">
       <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-01-14">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-01-14" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 40 - 2.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
-    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

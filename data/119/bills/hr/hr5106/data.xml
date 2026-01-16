@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="5106" updated="2026-01-15T09:07:06Z">
+<bill session="119" type="h" number="5106" updated="2026-01-16T13:21:57Z">
   <state datetime="2025-09-03">REFERRED</state>
   <status>
     <introduced datetime="2025-09-03"/>
@@ -133,6 +133,7 @@
     <cosponsor bioguide_id="T000474" joined="2025-11-17"/>
     <cosponsor bioguide_id="T000486" joined="2025-09-04"/>
     <cosponsor bioguide_id="T000482" joined="2025-12-11"/>
+    <cosponsor bioguide_id="V000133" joined="2026-01-15"/>
     <cosponsor bioguide_id="V000135" joined="2026-01-06"/>
     <cosponsor bioguide_id="V000136" joined="2025-09-15"/>
     <cosponsor bioguide_id="W000830" joined="2025-09-04"/>
@@ -148,7 +149,9 @@
   <committees>
     <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="725" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Congress"/>
   </subjects>

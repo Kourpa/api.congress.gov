@@ -58,6 +58,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 1.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "H12200",
+      "committees": [
+        "HSBA"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 119-457, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "H12300",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Committee on Veterans' Affairs discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "392",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 392.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -68,23 +98,45 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Financial Services",
       "committee_id": "HSBA"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Veterans' Affairs",
-      "committee_id": "HSVR"
     }
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "B001281",
+      "district": "3",
+      "name": "Beatty, Joyce",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "OH",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "B001326",
+      "district": "5",
+      "name": "Bynum, Janelle S.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "OR",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "C001061",
       "district": "5",
@@ -92,6 +144,36 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-12-11",
       "state": "MO",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "D000594",
+      "district": "15",
+      "name": "De La Cruz, Monica",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "D000634",
+      "district": "2",
+      "name": "Downing, Troy",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "MT",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "F000110",
+      "district": "6",
+      "name": "Fields, Cleo",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "LA",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -106,12 +188,232 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "G000597",
+      "district": "2",
+      "name": "Garbarino, Andrew R.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "G000587",
+      "district": "29",
+      "name": "Garcia, Sylvia R.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "G000553",
       "district": "9",
       "name": "Green, Al",
       "original_cosponsor": false,
       "sponsored_at": "2025-12-15",
       "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "H001099",
+      "district": "8",
+      "name": "Haridopolos, Mike",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "K000397",
+      "district": "40",
+      "name": "Kim, Young",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "L000599",
+      "district": "17",
+      "name": "Lawler, Michael",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "L000607",
+      "district": "16",
+      "name": "Liccardo, Sam T.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001204",
+      "district": "9",
+      "name": "Meuser, Daniel",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "PA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001236",
+      "district": "14",
+      "name": "Moore, Tim",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "NC",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001217",
+      "district": "23",
+      "name": "Moskowitz, Jared",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "N000193",
+      "district": "3",
+      "name": "Nunn, Zachary",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "IA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "P000620",
+      "district": "7",
+      "name": "Pettersen, Brittany",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "CO",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "P000617",
+      "district": "7",
+      "name": "Pressley, Ayanna",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "MA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "R000612",
+      "district": "6",
+      "name": "Rose, John W.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "TN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S000168",
+      "district": "27",
+      "name": "Salazar, Maria Elvira",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S001157",
+      "district": "13",
+      "name": "Scott, David",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "GA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S000250",
+      "district": "17",
+      "name": "Sessions, Pete",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S000344",
+      "district": "32",
+      "name": "Sherman, Brad",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S001213",
+      "district": "1",
+      "name": "Steil, Bryan",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "WI",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S001188",
+      "district": "3",
+      "name": "Stutzman, Marlin A.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "IN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "T000481",
+      "district": "12",
+      "name": "Tlaib, Rashida",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "MI",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "T000486",
+      "district": "15",
+      "name": "Torres, Ritchie",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "V000081",
+      "district": "7",
+      "name": "Vel\u00e1zquez, Nydia M.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "NY",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -192,6 +494,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-16T05:38:16Z",
+  "updated_at": "2026-01-16T09:06:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6644.xml"
 }

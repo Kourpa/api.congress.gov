@@ -22,9 +22,50 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on Armed Services.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "committees": [
+        "SSAS"
+      ],
+      "references": [],
+      "text": "Senate Committee on Armed Services discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S263",
+          "type": "consideration"
+        }
+      ],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt4233-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "4233"
+    }
+  ],
   "bill_id": "sres519-119",
   "bill_type": "sres",
   "by_request": false,
@@ -32,6 +73,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Armed Services",
@@ -103,9 +145,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-15",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-01-15",
     "vetoed": false
   },
   "introduced_at": "2025-12-01",
@@ -122,8 +167,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-12-01",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2026-01-15",
   "subjects": [
     "Armed forces and national security"
   ],
@@ -145,6 +190,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-04T17:36:53Z",
+  "updated_at": "2026-01-16T15:33:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres519.xml"
 }

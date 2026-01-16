@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2988" updated="2026-01-15T00:26:14Z">
-  <state datetime="2025-06-25">REPORTED</state>
+<bill session="119" type="h" number="2988" updated="2026-01-16T13:59:56Z">
+  <state datetime="2026-01-15T10:43:22-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-06-25"/>
+    <unknown datetime="2026-01-15T10:43:22-05:00"/>
   </status>
   <introduced datetime="2025-04-24"/>
   <titles>
@@ -42,9 +42,42 @@
     <action datetime="2026-01-12T18:48:32-05:00">
       <text>Rules Committee Resolution H. Res. 988 Reported to House. Rule provides for consideration of H.R. 2988, H.R. 2262, H.R. 2270, H.R. 2312 and H.R. 4366. The resolution provides for consideration of H.R. 2988 under a structured rule, and H.R. 2262, H.R. 2270, H.R. 2312, and H.R. 4366 under a closed rule. The rule provides for one hour of general debate and one motion to recommit on each bill.</text>
     </action>
+    <action datetime="2026-01-15T09:02:28-05:00">
+      <text>Considered under the provisions of rule H. Res. 988.</text>
+      <reference ref="CR H897-907" label="consideration"/>
+      <reference ref="CR H897-899" label="text of amendment in the nature of a substitute"/>
+    </action>
+    <action datetime="2026-01-15T09:02:33-05:00">
+      <text>Rule provides for consideration of H.R. 2988, H.R. 2262, H.R. 2270, H.R. 2312 and H.R. 4366. The resolution provides for consideration of H.R. 2988 under a structured rule, and H.R. 2262, H.R. 2270, H.R. 2312, and H.R. 4366 under a closed rule. The rule provides for one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2026-01-15T09:03:58-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2988.</text>
+    </action>
+    <action datetime="2026-01-15T09:48:50-05:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 988, the House proceeded with 10 minutes of debate on the Huizenga amendment No. 1.</text>
+    </action>
+    <action datetime="2026-01-15T09:57:36-05:00">
+      <text>The previous question was ordered on the amendment and the bill pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-01-15T10:31:06-05:00">
+      <text>Ms. Kaptur moved to recommit to the Committee on Education and Workforce.</text>
+      <reference ref="CR H905" label="text"/>
+    </action>
+    <action datetime="2026-01-15T10:31:18-05:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-01-15T10:37:17-05:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 206 - 210 (Roll no. 30).</text>
+    </action>
+    <vote how="roll" type="vote" roll="31" datetime="2026-01-15T10:43:22-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 213 - 205 (Roll no. 31).</text>
+    </vote>
+    <action datetime="2026-01-15T10:43:24-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="3083" relation="unknown"/>
@@ -57,7 +90,10 @@
     <term name="Employee benefits and pensions"/>
     <term name="Financial services and investments"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h152"/>
+    <amendment number="h151"/>
+  </amendments>
   <summary date="2026-01-12T19:24:12Z" status="Reported to House"></summary>
   <committee-reports>
     <report>H. Rept. 119-421</report>

@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,8 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
+        "Referred To",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -35,6 +48,16 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "C001088",
+      "district": null,
+      "name": "Coons, Christopher A.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "DE",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "R000584",
       "district": null,
@@ -68,7 +91,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-15",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -87,8 +111,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-06-18",
+  "status": "REPORTED",
+  "status_at": "2026-01-15",
   "subjects": [
     "Crime and law enforcement"
   ],
@@ -124,6 +148,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-07-21T19:32:26Z",
+  "updated_at": "2026-01-16T12:03:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2132.xml"
 }

@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Ways and Means.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-14",
+      "action_code": "",
+      "committees": [
+        "HSWM"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-14",
+      "action_code": "",
+      "committees": [
+        "HSWM"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 41 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Ways and Means",
@@ -98,7 +120,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-14",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -117,8 +140,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-12-04",
+  "status": "REPORTED",
+  "status_at": "2026-01-14",
   "subjects": [
     "Taxation"
   ],
@@ -147,6 +170,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-06T16:05:43Z",
+  "updated_at": "2026-01-16T09:06:38Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6431.xml"
 }

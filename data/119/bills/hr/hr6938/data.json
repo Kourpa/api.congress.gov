@@ -299,8 +299,67 @@
     {
       "acted_at": "2026-01-14",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S185-218",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S227-249",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S230",
+          "type": null
+        }
+      ],
+      "text": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 85 - 14. Record Vote Number: 10.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "committees": [
+        "SSAP"
+      ],
+      "references": [],
+      "text": "Motion by Senator Thune to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 4210) fell when cloture on the motion was invoked in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "11",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 82 - 15. Record Vote Number: 11.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
       "type": "action"
     }
   ],
@@ -782,6 +841,8 @@
     "house_passage_result_at": "2026-01-08T15:11:23-05:00",
     "senate_cloture_result": "pass",
     "senate_cloture_result_at": "2026-01-12",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-01-15",
     "vetoed": false
   },
   "introduced_at": "2026-01-06",
@@ -841,8 +902,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-01-08T15:11:23-05:00",
+  "status": "PASSED:BILL",
+  "status_at": "2026-01-15",
   "subjects": [
     "Economics and public finance"
   ],
@@ -1023,6 +1084,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-15T19:26:06Z",
+  "updated_at": "2026-01-16T15:04:37Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6938.xml"
 }

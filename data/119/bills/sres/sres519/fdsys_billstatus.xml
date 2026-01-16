@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>519</number>
-    <updateDate>2025-12-04T17:36:53Z</updateDate>
-    <updateDateIncludingText>2025-12-04T17:36:53Z</updateDateIncludingText>
+    <updateDate>2026-01-16T15:33:23Z</updateDate>
+    <updateDateIncludingText>2026-01-16T15:33:23Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SRES</type>
@@ -19,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2026-01-15T21:31:47Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-12-01T23:33:41Z</date>
           </item>
@@ -26,6 +30,62 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-15</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-01-15</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-01-15</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S263)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-01-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2026-01-15</actionDate>
+        <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-12-01</actionDate>
         <committees>
@@ -153,6 +213,132 @@
         <updateDate>2025-12-02T11:56:21Z</updateDate>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>4233</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the preamble.</purpose>
+        <updateDate>2026-01-16T15:33:23Z</updateDate>
+        <latestAction>
+          <actionDate>2026-01-15</actionDate>
+          <text>Amendment SA 4233 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 4233</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/4233</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>K000377</bioguideId>
+            <fullName>Sen. Kelly, Mark [D-AZ]</fullName>
+            <firstName>Mark</firstName>
+            <lastName>Kelly</lastName>
+            <party>D</party>
+            <state>AZ</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>B001261</bioguideId>
+            <fullName>Sen. Barrasso, John [R-WY]</fullName>
+            <firstName>John</firstName>
+            <lastName>Barrasso</lastName>
+            <party>R</party>
+            <state>WY</state>
+            <type>Submitted on behalf of</type>
+          </item>
+          <item>
+            <bioguideId>B001261</bioguideId>
+            <fullName>Sen. Barrasso, John [R-WY]</fullName>
+            <firstName>John</firstName>
+            <lastName>Barrasso</lastName>
+            <party>R</party>
+            <state>WY</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-01-15T05:00:00Z</proposedDate>
+        <submittedDate>2026-01-15T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>SRES</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>519</number>
+          <title>A resolution recognizing the achievements and contributions of the AH-64 Apache attack helicopter to the national defense of the United States and its allies and honoring the dedication, service, and sacrifice of the United States Army aviators, maintainers, and support personnel who operate and sustain the Apache.</title>
+          <updateDateIncludingText>2026-01-16</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2026-01-15</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4233 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-01-15</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4233 proposed by Senator Barrasso for Senator Kelly. (consideration: CR S263)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-01-15</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-15</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-15</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4233 proposed by Senator Barrasso for Senator Kelly.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-15</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 4233 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Introduced in Senate</type>
@@ -165,8 +351,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-01</actionDate>
-      <text>Referred to the Committee on Armed Services. (text: CR S8422)</text>
+      <actionDate>2026-01-15</actionDate>
+      <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

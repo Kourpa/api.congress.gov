@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5577</number>
-    <updateDate>2026-01-16T05:38:16Z</updateDate>
-    <updateDateIncludingText>2026-01-16T05:48:44Z</updateDateIncludingText>
+    <updateDate>2026-01-16T09:06:08Z</updateDate>
+    <updateDateIncludingText>2026-01-16T09:06:08Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-01-15T18:04:53Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-12-17T20:15:13Z</date>
@@ -55,6 +59,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-01-15</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 391.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00391</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-01-15</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-456.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-15</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-456.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-12-17</actionDate>
         <committees>
@@ -306,8 +355,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-17</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 0.</text>
+      <actionDate>2026-01-15</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 391.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To",
         "Referred To"
       ],
@@ -77,6 +89,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "M001244",
+      "district": null,
+      "name": "Moody, Ashley",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "FL",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "M001190",
       "district": null,
       "name": "Mullin, Markwayne",
@@ -103,6 +125,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-04-08",
       "state": "FL",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "T000278",
+      "district": null,
+      "name": "Tuberville, Tommy",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-15",
+      "state": "AL",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -139,7 +171,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-15",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -165,8 +198,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-03-10",
+  "status": "REPORTED",
+  "status_at": "2026-01-15",
   "subjects": [
     "Health"
   ],
@@ -195,6 +228,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-15T12:03:40Z",
+  "updated_at": "2026-01-16T12:03:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s921.xml"
 }

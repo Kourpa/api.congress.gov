@@ -1,9 +1,33 @@
 {
   "actions": [
     {
-      "acted_at": "2026-01-14",
+      "acted_at": "2026-01-15",
       "action_code": "",
       "references": [],
+      "text": "SA 4212 fell when SA 4211 fell.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-15",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S230",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-14",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S185",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -28,16 +52,16 @@
     },
     {
       "acted_at": "2026-01-13",
-      "action_code": "91000",
+      "action_code": "93000",
       "references": [],
-      "text": "Senate amendment submitted",
+      "text": "Senate amendment proposed (on the floor): Amendment SA 4212 proposed by Senator Thune to Amendment SA 4211.",
       "type": "action"
     },
     {
       "acted_at": "2026-01-13",
-      "action_code": "93000",
+      "action_code": "91000",
       "references": [],
-      "text": "Senate amendment proposed (on the floor): Amendment SA 4212 proposed by Senator Thune to Amendment SA 4211.",
+      "text": "Senate amendment submitted",
       "type": "action"
     }
   ],
@@ -74,5 +98,5 @@
   },
   "status": "offered",
   "status_at": "2026-01-13",
-  "updated_at": "2026-01-15T16:18:23Z"
+  "updated_at": "2026-01-16T15:04:37Z"
 }
