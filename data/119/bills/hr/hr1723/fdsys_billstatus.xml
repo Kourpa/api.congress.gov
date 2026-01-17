@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1723</number>
-    <updateDate>2025-12-09T23:34:59Z</updateDate>
-    <updateDateIncludingText>2025-12-09T23:34:59Z</updateDateIncludingText>
+    <updateDate>2026-01-17T09:05:52Z</updateDate>
+    <updateDateIncludingText>2026-01-17T09:05:52Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-01-16T20:44:22Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-09-17T19:37:33Z</date>
@@ -67,6 +71,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-01-16</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 393.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00393</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-01-16</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-458.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-16</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-458.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-09-17</actionDate>
         <committees>
@@ -276,6 +325,16 @@
     <title>Tribal Labor Sovereignty Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Tribal Labor Sovereignty Act of 2025</title>
+        <updateDate>2026-01-17T06:23:42Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Tribal Labor Sovereignty Act of 2025</title>
@@ -300,6 +359,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-01-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr1723rh/xml/BILLS-119hr1723rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-02-27T05:00:00Z</date>
         <formats>
@@ -310,8 +378,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-17</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 16.</text>
+      <actionDate>2026-01-16</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 393.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7084</number>
-    <updateDate>2026-01-16T18:57:50Z</updateDate>
-    <updateDateIncludingText>2026-01-16T18:57:50Z</updateDateIncludingText>
+    <updateDate>2026-01-17T09:05:57Z</updateDate>
+    <updateDateIncludingText>2026-01-17T09:05:57Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,18 @@
         <name>Transportation and Infrastructure Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw07</systemCode>
+            <name>Coast Guard and Maritime Transportation Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-16T14:52:17Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -29,6 +41,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw07</systemCode>
+            <name>Coast Guard and Maritime Transportation Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-01-15</actionDate>
         <text>Referred to the House Committee on Transportation and Infrastructure.</text>
@@ -125,6 +152,18 @@
         <sponsorshipDate>2026-01-15</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>M001239</bioguideId>
+        <fullName>Rep. McGuire, John J. [R-VA-5]</fullName>
+        <firstName>John</firstName>
+        <lastName>McGuire</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <middleName>J.</middleName>
+        <district>5</district>
+        <sponsorshipDate>2026-01-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Transportation and Public Works</name>
@@ -173,8 +212,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-15</actionDate>
-      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      <actionDate>2026-01-16</actionDate>
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

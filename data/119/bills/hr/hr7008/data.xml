@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7008" updated="2026-01-14T09:07:10Z">
-  <state datetime="2026-01-12">REFERRED</state>
+<bill session="119" type="h" number="7008" updated="2026-01-17T09:05:56Z">
+  <state datetime="2026-01-14">REPORTED</state>
   <status>
-    <introduced datetime="2026-01-12"/>
+    <unknown datetime="2026-01-14"/>
   </status>
   <introduced datetime="2026-01-12"/>
   <titles>
@@ -103,9 +103,15 @@
     <action datetime="2026-01-12" state="REFERRED">
       <text>Referred to the House Committee on House Administration.</text>
     </action>
+    <action datetime="2026-01-14">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-01-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 7 - 4.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
