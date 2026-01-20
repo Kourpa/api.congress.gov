@@ -213,8 +213,8 @@
   "related_bills": [
     {
       "bill_id": "hr6359-119",
-      "identified_by": "House",
-      "reason": "related",
+      "identified_by": "CRS",
+      "reason": "identical",
       "type": "bill"
     }
   ],
@@ -229,8 +229,10 @@
   },
   "status": "INTRODUCED",
   "status_at": "2026-01-13",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Education"
+  ],
+  "subjects_top_term": "Education",
   "summary": null,
   "titles": [
     {
@@ -255,6 +257,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-17T09:05:52Z",
+  "updated_at": "2026-01-20T15:06:41Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3627.xml"
 }
