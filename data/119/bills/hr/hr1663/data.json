@@ -88,6 +88,57 @@
       "text": "Placed on the Union Calendar, Calendar No. 302.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-01-20T16:32:20-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Bost moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-20T16:32:43-05:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H937-939",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-20T16:32:47-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1663.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-20T16:43:24-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H937-938",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-01-20T16:43:26-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -104,7 +155,6 @@
         "Markup By",
         "discharged",
         "Markup By",
-        "discharged",
         "Referred To"
       ],
       "committee": "House Veterans' Affairs",
@@ -260,6 +310,8 @@
     "active_at": "2025-06-11",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-01-20T16:43:24-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-27",
@@ -276,8 +328,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-23",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-01-20T16:43:24-05:00",
   "subjects": [
     "Armed forces and national security",
     "Department of Veterans Affairs",
@@ -338,6 +390,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-28T19:26:11Z",
+  "updated_at": "2026-01-21T15:18:32Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1663.xml"
 }

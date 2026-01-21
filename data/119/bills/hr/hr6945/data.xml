@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6945" updated="2026-01-20T16:57:46Z">
+<bill session="119" type="h" number="6945" updated="2026-01-21T15:56:13Z">
   <state datetime="2026-01-14">REPORTED</state>
   <status>
     <unknown datetime="2026-01-14"/>
@@ -11,10 +11,16 @@
   </titles>
   <sponsor bioguide_id="F000470"/>
   <cosponsors>
+    <cosponsor bioguide_id="B001321" joined="2026-01-20"/>
     <cosponsor bioguide_id="B001325" joined="2026-01-14"/>
     <cosponsor bioguide_id="C001115" joined="2026-01-16"/>
+    <cosponsor bioguide_id="F000469" joined="2026-01-20"/>
+    <cosponsor bioguide_id="G000591" joined="2026-01-20"/>
     <cosponsor bioguide_id="H001052" joined="2026-01-13"/>
+    <cosponsor bioguide_id="M001239" joined="2026-01-20"/>
+    <cosponsor bioguide_id="M001212" joined="2026-01-20"/>
     <cosponsor bioguide_id="M001213" joined="2026-01-12"/>
+    <cosponsor bioguide_id="S001229" joined="2026-01-20"/>
     <cosponsor bioguide_id="S000522" joined="2026-01-06"/>
     <cosponsor bioguide_id="S001214" joined="2026-01-07"/>
     <cosponsor bioguide_id="T000478" joined="2026-01-06"/>
@@ -33,13 +39,25 @@
     <action datetime="2026-01-14" state="REPORTED">
       <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 25 - 18.</text>
     </action>
+    <action datetime="2026-01-20T18:41:40-05:00">
+      <text>Rules Committee Resolution H. Res. 1009 Reported to House. Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="1009" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Families"/>
+    <term name="Family planning and birth control"/>
+    <term name="Family services"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Sex and reproductive health"/>
+    <term name="State and local government operations"/>
+    <term name="Women's health"/>
   </subjects>
   <amendments/>
   <summary date="2026-01-20T16:56:36Z" status="Introduced in House"></summary>

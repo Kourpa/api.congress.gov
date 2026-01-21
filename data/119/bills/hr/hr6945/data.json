@@ -38,6 +38,18 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 25 - 18.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-01-20T18:41:40-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1009-119",
+        "hr6359-119",
+        "hjres140-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1009 Reported to House. Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -57,6 +69,16 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "B001321",
+      "district": "7",
+      "name": "Barrett, Tom",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-20",
+      "state": "MI",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "B001325",
       "district": "3",
@@ -78,6 +100,26 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "F000469",
+      "district": "1",
+      "name": "Fulcher, Russ",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-20",
+      "state": "ID",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "G000591",
+      "district": "3",
+      "name": "Guest, Michael",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-20",
+      "state": "MS",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "H001052",
       "district": "1",
       "name": "Harris, Andy",
@@ -88,12 +130,42 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "M001239",
+      "district": "5",
+      "name": "McGuire, John J.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-20",
+      "state": "VA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001212",
+      "district": "1",
+      "name": "Moore, Barry",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-20",
+      "state": "AL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "M001213",
       "district": "1",
       "name": "Moore, Blake D.",
       "original_cosponsor": false,
       "sponsored_at": "2026-01-12",
       "state": "UT",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S001229",
+      "district": "6",
+      "name": "Shreve, Jefferson",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-20",
+      "state": "IN",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -150,7 +222,14 @@
   "number": "6945",
   "official_title": "To amend part A of title IV of the Social Security Act to clarify the authority of States to use funds for pregnancy centers, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1009-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Supporting Pregnant and Parenting Women and Families Act",
   "sponsor": {
     "bioguide_id": "F000470",
@@ -163,7 +242,14 @@
   "status": "REPORTED",
   "status_at": "2026-01-14",
   "subjects": [
-    "Families"
+    "Families",
+    "Family planning and birth control",
+    "Family services",
+    "Health programs administration and funding",
+    "Poverty and welfare assistance",
+    "Sex and reproductive health",
+    "State and local government operations",
+    "Women's health"
   ],
   "subjects_top_term": "Families",
   "summary": {
@@ -195,6 +281,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-20T16:57:46Z",
+  "updated_at": "2026-01-21T15:56:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6945.xml"
 }

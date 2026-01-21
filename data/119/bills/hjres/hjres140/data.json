@@ -17,6 +17,18 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-20T18:41:40-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1009-119",
+        "hr6945-119",
+        "hr6359-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1009 Reported to House. Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -37,7 +49,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-20T18:41:40-05:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -46,7 +59,14 @@
   "number": "140",
   "official_title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Public Land Order No. 7917 for Withdrawal of Federal Lands; Cook, Lake, and Saint Louis Counties, MN.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1009-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "S001212",
@@ -59,6 +79,14 @@
   "status": "REFERRED",
   "status_at": "2026-01-12",
   "subjects": [
+    "Administrative law and regulatory procedures",
+    "Alternative and renewable resources",
+    "Department of the Interior",
+    "Lakes and rivers",
+    "Land use and conservation",
+    "Marine pollution",
+    "Mining",
+    "Minnesota",
     "Public lands and natural resources"
   ],
   "subjects_top_term": "Public lands and natural resources",
@@ -84,6 +112,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-16T18:00:52Z",
+  "updated_at": "2026-01-21T16:06:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres140.xml"
 }

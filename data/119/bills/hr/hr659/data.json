@@ -88,6 +88,57 @@
       "text": "Placed on the Union Calendar, Calendar No. 263.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-01-20T16:18:32-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Bost moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-20T16:18:40-05:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H936-937",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-20T16:18:43-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 659.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-20T16:32:11-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H936",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-01-20T16:32:13-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -168,6 +219,8 @@
     "active_at": "2025-06-24",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-01-20T16:32:11-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-23",
@@ -184,8 +237,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-23",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-01-20T16:32:11-05:00",
   "subjects": [
     "Administrative remedies",
     "Armed forces and national security",
@@ -229,6 +282,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-02T20:06:13Z",
+  "updated_at": "2026-01-21T15:18:00Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr659.xml"
 }

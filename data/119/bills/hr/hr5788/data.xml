@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5788" updated="2026-01-16T16:54:18Z">
-  <state datetime="2025-11-18">REPORTED</state>
+<bill session="119" type="h" number="5788" updated="2026-01-21T15:16:48Z">
+  <state datetime="2026-01-20T16:08:20-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-11-18"/>
+    <unknown datetime="2026-01-20T16:08:20-05:00"/>
   </status>
   <introduced datetime="2025-10-17"/>
   <titles>
@@ -35,6 +35,23 @@
     <calendar datetime="2025-12-12" calendar="Union" number="352">
       <text>Placed on the Union Calendar, Calendar No. 352.</text>
     </calendar>
+    <action datetime="2026-01-20T15:57:15-05:00">
+      <text>Mr. Williams (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-01-20T15:57:48-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H932-934" label="consideration"/>
+    </action>
+    <action datetime="2026-01-20T15:57:49-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5788.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-01-20T16:08:20-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H933" label="text"/>
+    </vote>
+    <action datetime="2026-01-20T16:08:22-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>
