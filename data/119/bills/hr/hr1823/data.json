@@ -187,6 +187,16 @@
       "status": "ENACTED:SIGNED",
       "text": "Signed by President.",
       "type": "signed"
+    },
+    {
+      "acted_at": "2026-01-20",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "71",
+      "references": [],
+      "text": "Became Public Law No: 119-71.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -240,13 +250,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "71"
+  },
   "history": {
     "active": true,
     "active_at": "2025-03-25",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2026-01-20",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2026-01-20",
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-05-19T17:13:00-04:00",
     "senate_passage_result": "pass",
@@ -330,6 +344,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-21T13:48:23Z",
+  "updated_at": "2026-01-21T18:52:47Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1823.xml"
 }
