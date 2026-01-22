@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2072" updated="2025-12-05T04:28:14Z">
-  <state datetime="2025-03-11">REFERRED</state>
+<bill session="119" type="h" number="2072" updated="2026-01-22T09:05:59Z">
+  <state datetime="2026-01-21">REPORTED</state>
   <status>
-    <introduced datetime="2025-03-11"/>
+    <unknown datetime="2026-01-21"/>
   </status>
   <introduced datetime="2025-03-11"/>
   <titles>
@@ -27,9 +27,15 @@
     <action datetime="2025-03-11" state="REFERRED">
       <text>Referred to the House Committee on Energy and Commerce.</text>
     </action>
+    <action datetime="2026-01-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-01-21" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 44 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1020" relation="identical"/>

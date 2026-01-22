@@ -27,6 +27,37 @@
       "references": [],
       "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-12-17",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Aviation.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-21",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-21",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -37,17 +68,27 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
-      "committee": "House Armed Services",
-      "committee_id": "HSAS"
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Aviation",
+      "subcommittee_id": "05"
     },
     {
       "activity": [
         "Referred To"
       ],
-      "committee": "House Transportation and Infrastructure",
-      "committee_id": "HSPW"
+      "committee": "House Armed Services",
+      "committee_id": "HSAS"
     }
   ],
   "congress": "119",
@@ -65,7 +106,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-21",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -84,8 +126,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-12-16",
+  "status": "REPORTED",
+  "status_at": "2026-01-21",
   "subjects": [
     "Transportation and public works"
   ],
@@ -114,6 +156,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-09T16:28:19Z",
+  "updated_at": "2026-01-22T09:06:10Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6744.xml"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7084" updated="2026-01-21T09:05:41Z">
-  <state datetime="2026-01-15">REFERRED</state>
+<bill session="119" type="h" number="7084" updated="2026-01-22T09:06:24Z">
+  <state datetime="2026-01-21">REPORTED</state>
   <status>
-    <introduced datetime="2026-01-15"/>
+    <unknown datetime="2026-01-21"/>
   </status>
   <introduced datetime="2026-01-15"/>
   <titles>
@@ -28,9 +28,18 @@
     <action datetime="2026-01-16">
       <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
     </action>
+    <action datetime="2026-01-21">
+      <text>Subcommittee on Coast Guard and Maritime Transportation Discharged</text>
+    </action>
+    <action datetime="2026-01-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-01-21" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 22.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSPW07" name="House Transportation and Infrastructure" subcommittee="Coast Guard and Maritime Transportation" activity="Referral"/>
   </committees>
   <relatedbills/>

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7103</number>
-    <updateDate>2026-01-16T19:03:05Z</updateDate>
-    <updateDateIncludingText>2026-01-16T19:03:05Z</updateDateIncludingText>
+    <updateDate>2026-01-22T09:06:04Z</updateDate>
+    <updateDateIncludingText>2026-01-22T09:06:04Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,34 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 172, Number 11 (Thursday, January 15, 2026)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. HAMADEH of Arizona:H.R. 7103.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 12 of the U.S. Constitution:`To raise and support Armies, but no Appropriation of Moneyto that Use shall be for a longer Term than two Years.'Article I, Section 8, Clause 13 of the U.S. Constitution:`To provide and maintain a Navy.'Article I, Section 8, Clause 18 of the U.S. Constitution:`To make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.'[Page H921]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>hsvr00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2026-01-21T14:11:36Z</date>
+              </item>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-21T14:11:30Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-01-15T14:00:45Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsas00</systemCode>
         <name>Armed Services Committee</name>
@@ -27,20 +55,38 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hsvr00</systemCode>
-        <name>Veterans' Affairs Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2026-01-15T14:00:45Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-01-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-01-15</actionDate>
         <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -107,6 +153,19 @@
         <isByRequest>N</isByRequest>
       </item>
     </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>V000135</bioguideId>
+        <fullName>Rep. Van Orden, Derrick [R-WI-3]</fullName>
+        <firstName>Derrick</firstName>
+        <lastName>Van Orden</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <district>3</district>
+        <sponsorshipDate>2026-01-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
     <policyArea>
       <name>Armed Forces and National Security</name>
     </policyArea>
@@ -154,8 +213,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-15</actionDate>
-      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-01-21</actionDate>
+      <text>Subcommittee Hearings Held</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

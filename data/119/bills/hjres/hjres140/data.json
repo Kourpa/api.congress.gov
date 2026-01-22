@@ -29,6 +29,86 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 1009 Reported to House. Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-01-21T14:04:56-05:00",
+      "action_code": "H1L220",
+      "bill_ids": [
+        "hres1009-119"
+      ],
+      "references": [],
+      "text": "Rule H. Res. 1009 passed House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-21T15:10:26-05:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1009-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1009.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-21T15:10:31-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr6945-119",
+        "hr6359-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-21T15:10:59-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.J. Res. 140.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-21T16:00:46-05:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-21T16:01:53-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 140, the Chair put the question on passage of the joint resolution and by voice vote, announced the ayes had prevailed. Mr. Huffman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-21T16:38:43-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-21T16:45:41-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "38",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 214 - 208 (Roll no. 38).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-01-21T16:45:43-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -46,13 +126,56 @@
     }
   ],
   "congress": "119",
-  "cosponsors": [],
+  "cosponsors": [
+    {
+      "bioguide_id": "B001323",
+      "district": "0",
+      "name": "Begich, Nicholas J.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-21",
+      "state": "AK",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "F000475",
+      "district": "1",
+      "name": "Finstad, Brad",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-21",
+      "state": "MN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "L000596",
+      "district": "13",
+      "name": "Luna, Anna Paulina",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-21",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001228",
+      "district": "2",
+      "name": "Maloy, Celeste",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-21",
+      "state": "UT",
+      "title": "Rep.",
+      "withdrawn_at": null
+    }
+  ],
   "enacted_as": null,
   "history": {
     "active": true,
     "active_at": "2026-01-20T18:41:40-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-01-21T16:45:41-05:00",
     "vetoed": false
   },
   "introduced_at": "2026-01-12",
@@ -76,8 +199,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-01-12",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-01-21T16:45:41-05:00",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Alternative and renewable resources",
@@ -112,6 +235,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-21T19:26:15Z",
+  "updated_at": "2026-01-22T09:06:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres140.xml"
 }

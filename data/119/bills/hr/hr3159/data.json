@@ -27,6 +27,26 @@
       "references": [],
       "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-21",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Economic Opportunity.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-21",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Subcommittee Hearings Held",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -39,15 +59,25 @@
       "activity": [
         "Referred To"
       ],
-      "committee": "House Armed Services",
-      "committee_id": "HSAS"
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "Hearings By (subcommittee)",
+        "referral"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Economic Opportunity",
+      "subcommittee_id": "10"
     },
     {
       "activity": [
         "Referred To"
       ],
-      "committee": "House Veterans' Affairs",
-      "committee_id": "HSVR"
+      "committee": "House Armed Services",
+      "committee_id": "HSAS"
     }
   ],
   "congress": "119",
@@ -225,7 +255,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-21",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -281,6 +312,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-05T22:05:20Z",
+  "updated_at": "2026-01-22T09:06:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3159.xml"
 }

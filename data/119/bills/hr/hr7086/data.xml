@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7086" updated="2026-01-20T14:39:59Z">
-  <state datetime="2026-01-15">REFERRED</state>
+<bill session="119" type="h" number="7086" updated="2026-01-22T09:06:18Z">
+  <state datetime="2026-01-21">REPORTED</state>
   <status>
-    <introduced datetime="2026-01-15"/>
+    <unknown datetime="2026-01-21"/>
   </status>
   <introduced datetime="2026-01-15"/>
   <titles>
@@ -12,6 +12,7 @@
   <sponsor bioguide_id="C001133"/>
   <cosponsors>
     <cosponsor bioguide_id="B000490" joined="2026-01-15"/>
+    <cosponsor bioguide_id="K000401" joined="2026-01-21"/>
   </cosponsors>
   <actions>
     <action datetime="2026-01-15">
@@ -20,9 +21,15 @@
     <action datetime="2026-01-15" state="REFERRED">
       <text>Referred to the House Committee on Education and Workforce.</text>
     </action>
+    <action datetime="2026-01-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-01-21" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 15.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

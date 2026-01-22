@@ -1,7 +1,7 @@
-<bill session="119" type="hj" number="140" updated="2026-01-21T19:26:15Z">
-  <state datetime="2026-01-12">REFERRED</state>
+<bill session="119" type="hj" number="140" updated="2026-01-22T09:06:15Z">
+  <state datetime="2026-01-21T16:45:41-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2026-01-12"/>
+    <unknown datetime="2026-01-21T16:45:41-05:00"/>
   </status>
   <introduced datetime="2026-01-12"/>
   <titles>
@@ -9,7 +9,12 @@
     <title type="display">Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Public Land Order No. 7917 for Withdrawal of Federal Lands; Cook, Lake, and Saint Louis Counties, MN.</title>
   </titles>
   <sponsor bioguide_id="S001212"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001323" joined="2026-01-21"/>
+    <cosponsor bioguide_id="F000475" joined="2026-01-21"/>
+    <cosponsor bioguide_id="L000596" joined="2026-01-21"/>
+    <cosponsor bioguide_id="M001228" joined="2026-01-21"/>
+  </cosponsors>
   <actions>
     <action datetime="2026-01-12">
       <text>Introduced in House</text>
@@ -19,6 +24,33 @@
     </action>
     <action datetime="2026-01-20T18:41:40-05:00">
       <text>Rules Committee Resolution H. Res. 1009 Reported to House. Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.</text>
+    </action>
+    <action datetime="2026-01-21T14:04:56-05:00">
+      <text>Rule H. Res. 1009 passed House.</text>
+    </action>
+    <action datetime="2026-01-21T15:10:26-05:00">
+      <text>Considered under the provisions of rule H. Res. 1009.</text>
+    </action>
+    <action datetime="2026-01-21T15:10:31-05:00">
+      <text>Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.</text>
+    </action>
+    <action datetime="2026-01-21T15:10:59-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.J. Res. 140.</text>
+    </action>
+    <action datetime="2026-01-21T16:00:46-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-01-21T16:01:53-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 140, the Chair put the question on passage of the joint resolution and by voice vote, announced the ayes had prevailed. Mr. Huffman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-01-21T16:38:43-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="38" datetime="2026-01-21T16:45:41-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 214 - 208 (Roll no. 38).</text>
+    </vote>
+    <action datetime="2026-01-21T16:45:43-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

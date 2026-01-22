@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6502</number>
-    <updateDate>2026-01-14T19:59:55Z</updateDate>
-    <updateDateIncludingText>2026-01-14T19:59:55Z</updateDateIncludingText>
+    <updateDate>2026-01-22T09:06:00Z</updateDate>
+    <updateDateIncludingText>2026-01-22T09:06:00Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -22,6 +22,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-01-21T22:28:17Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-12-11T21:10:57Z</date>
           </item>
@@ -33,6 +37,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-21</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 394.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00394</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-01-21</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-460.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-21</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-460.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-12-11</actionDate>
         <committees>
@@ -187,6 +236,16 @@
     <title>College Financial Aid Clarity Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>College Financial Aid Clarity Act of 2025</title>
+        <updateDate>2026-01-22T07:38:15Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>College Financial Aid Clarity Act of 2025</title>
@@ -211,6 +270,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-01-21T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr6502rh/xml/BILLS-119hr6502rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-12-09T05:00:00Z</date>
         <formats>
@@ -221,8 +289,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-11</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 10.</text>
+      <actionDate>2026-01-21</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 394.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

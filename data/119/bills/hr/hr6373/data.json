@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-21",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-21",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by the Yeas and Nays: 25 - 23.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Energy and Commerce",
@@ -36,12 +58,42 @@
   "congress": "119",
   "cosponsors": [
     {
+      "bioguide_id": "A000372",
+      "district": "12",
+      "name": "Allen, Rick W.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-21",
+      "state": "GA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001103",
+      "district": "1",
+      "name": "Carter, Earl L. \"Buddy\"",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-21",
+      "state": "GA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "C001120",
       "district": "2",
       "name": "Crenshaw, Dan",
       "original_cosponsor": false,
       "sponsored_at": "2026-01-12",
       "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "F000482",
+      "district": "0",
+      "name": "Fedorchak, Julie",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-21",
+      "state": "ND",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -78,7 +130,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-21",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -97,8 +150,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-12-03",
+  "status": "REPORTED",
+  "status_at": "2026-01-21",
   "subjects": [
     "Environmental protection"
   ],
@@ -127,6 +180,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-15T09:07:03Z",
+  "updated_at": "2026-01-22T09:06:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6373.xml"
 }
