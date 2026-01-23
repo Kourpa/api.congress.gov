@@ -46,7 +46,12 @@
       "bill_ids": [
         "hres1009-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1147-1155",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 1009.",
       "type": "action"
     },
@@ -85,7 +90,12 @@
     {
       "acted_at": "2026-01-21T16:38:43-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1156-1157",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -93,7 +103,12 @@
       "acted_at": "2026-01-21T16:45:41-05:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1147",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "38",
       "status": "PASS_OVER:HOUSE",
@@ -232,9 +247,16 @@
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Public Land Order No. 7917 for Withdrawal of Federal Lands; Cook, Lake, and Saint Louis Counties, MN.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Public Land Order No. 7917 for Withdrawal of Federal Lands; Cook, Lake, and Saint Louis Counties, MN.",
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-22T09:06:15Z",
+  "updated_at": "2026-01-22T15:56:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres140.xml"
 }
