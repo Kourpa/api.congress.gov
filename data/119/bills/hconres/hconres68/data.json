@@ -27,6 +27,75 @@
       "references": [],
       "text": "ORDER OF PROCEDURE - Mr. Mast asked unanimous consent that it be in order at any time to consider H. Con. Res. 68 in the House if called up by the Chair of the Committee on Foreign Affairs or his designee; that the concurrent resolution be considered as read; and that the previous question be considered as ordered on the concurrent resolution to adoption without intervening motion except for one hour of debate equally divided among and controlled by Representative Mast of Florida, Representative Meeks of New York, and Representative McGovern of Massachusetts, or their respective designees. Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-01-22T14:25:23-05:00",
+      "action_code": "H30800",
+      "references": [],
+      "text": "Consideration initiated pursuant to a previous order.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-22T14:25:24-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered pursuant to a previous order.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-22T14:25:52-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hcres68-119"
+      ],
+      "references": [],
+      "text": "DEBATE - Pursuant to a previous order, the House proceeded with one hour of debate on H. Con. Res. 68.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-22T14:25:53-05:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to a previous order of the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-22T14:26:53-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hcres68-119"
+      ],
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.Con.Res. 68, the Chair put the question on agreeing to the resolution and by voice vote, announced the noes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-22T17:08:40-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-22T17:33:44-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "48",
+      "status": "FAIL:ORIGINATING:HOUSE",
+      "suspension": null,
+      "text": "On agreeing to the resolution Failed by the Yeas and Nays: 215 - 215 (Roll no. 48).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-01-22T17:33:46-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -536,6 +605,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "H001090",
+      "district": "9",
+      "name": "Harder, Josh",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-22",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "H001081",
       "district": "5",
       "name": "Hayes, Jahana",
@@ -852,6 +931,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2026-01-20",
       "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001234",
+      "district": "3",
+      "name": "Morrison, Kelly",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-22",
+      "state": "MN",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -1292,6 +1381,8 @@
     "active_at": "2026-01-21T16:48:01-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "fail",
+    "house_passage_result_at": "2026-01-22T17:33:44-05:00",
     "vetoed": false
   },
   "introduced_at": "2026-01-07",
@@ -1315,8 +1406,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-01-07",
+  "status": "FAIL:ORIGINATING:HOUSE",
+  "status_at": "2026-01-22T17:33:44-05:00",
   "subjects": [
     "International affairs"
   ],
@@ -1343,6 +1434,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-22T09:06:32Z",
+  "updated_at": "2026-01-23T09:06:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres68.xml"
 }

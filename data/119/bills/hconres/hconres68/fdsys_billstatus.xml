@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>68</number>
-    <updateDate>2026-01-22T09:06:32Z</updateDate>
-    <updateDateIncludingText>2026-01-22T09:06:32Z</updateDateIncludingText>
+    <updateDate>2026-01-23T09:06:23Z</updateDate>
+    <updateDateIncludingText>2026-01-23T09:06:23Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -42,10 +42,133 @@
             <type>Related bill</type>
             <identifiedBy>CRS</identifiedBy>
           </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
         </relationshipDetails>
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-01-22</actionDate>
+        <actionTime>17:33:46</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-01-22</actionDate>
+        <actionTime>17:33:44</actionTime>
+        <text>On agreeing to the resolution Failed by the Yeas and Nays: 215 - 215 (Roll no. 48).</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>48</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll048.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-01-22T22:33:44Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-01-22</actionDate>
+        <actionTime>17:33:44</actionTime>
+        <text>Failed of passage/not agreed to in House On agreeing to the resolution Failed by the Yeas and Nays: 215 - 215 (Roll no. 48).</text>
+        <type>Floor</type>
+        <actionCode>9000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>48</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll048.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-01-22T22:33:44Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-01-22</actionDate>
+        <actionTime>17:08:40</actionTime>
+        <text>Considered as unfinished business.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-01-22</actionDate>
+        <actionTime>14:26:53</actionTime>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Con.Res. 68, the Chair put the question on agreeing to the resolution and by voice vote, announced the noes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-01-22</actionDate>
+        <actionTime>14:25:53</actionTime>
+        <text>The previous question was ordered pursuant to a previous order of the House.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-01-22</actionDate>
+        <actionTime>14:25:52</actionTime>
+        <text>DEBATE - Pursuant to a previous order, the House proceeded with one hour of debate on H. Con. Res. 68.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-01-22</actionDate>
+        <actionTime>14:25:24</actionTime>
+        <text>Considered pursuant to a previous order.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-01-22</actionDate>
+        <actionTime>14:25:23</actionTime>
+        <text>Consideration initiated pursuant to a previous order.</text>
+        <type>Floor</type>
+        <actionCode>H30800</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2026-01-21</actionDate>
         <actionTime>16:48:01</actionTime>
@@ -1510,6 +1633,28 @@
         <sponsorshipDate>2026-01-21</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>M001234</bioguideId>
+        <fullName>Rep. Morrison, Kelly [D-MN-3]</fullName>
+        <firstName>Kelly</firstName>
+        <lastName>Morrison</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <district>3</district>
+        <sponsorshipDate>2026-01-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001090</bioguideId>
+        <fullName>Rep. Harder, Josh [D-CA-9]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Harder</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <district>9</district>
+        <sponsorshipDate>2026-01-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>International Affairs</name>
@@ -1561,9 +1706,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-21</actionDate>
-      <text>ORDER OF PROCEDURE - Mr. Mast asked unanimous consent that it be in order at any time to consider H. Con. Res. 68 in the House if called up by the Chair of the Committee on Foreign Affairs or his designee; that the concurrent resolution be considered as read; and that the previous question be considered as ordered on the concurrent resolution to adoption without intervening motion except for one hour of debate equally divided among and controlled by Representative Mast of Florida, Representative Meeks of New York, and Representative McGovern of Massachusetts, or their respective designees. Agreed to without objection.</text>
-      <actionTime>16:48:01</actionTime>
+      <actionDate>2026-01-22</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>17:33:46</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

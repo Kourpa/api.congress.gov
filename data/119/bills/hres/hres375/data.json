@@ -17,6 +17,21 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-22T11:53:10-05:00",
+      "action_code": "H1B000",
+      "bill_ids": [
+        "hres1014-119"
+      ],
+      "how": "by special rule",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Pursuant to the provisions of H. Res. 1014, H. Res. 375 is considered passed House as amended.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
     }
   ],
   "amendments": [],
@@ -188,9 +203,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-22T11:53:10-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-01-22T11:53:10-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-05-01",
@@ -198,6 +216,12 @@
   "official_title": "Expressing support for the designation of May 2025 as \"Renewable Fuels Month\" to recognize the important role that renewable fuels play in reducing carbon impacts, lowering fuel prices for consumers, supporting rural communities, and lessening reliance on foreign adversaries.",
   "popular_title": null,
   "related_bills": [
+    {
+      "bill_id": "hres1014-119",
+      "identified_by": "House",
+      "reason": "procedurally related",
+      "type": "bill"
+    },
     {
       "bill_id": "sres203-119",
       "identified_by": "CRS",
@@ -214,8 +238,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-01",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2026-01-22T11:53:10-05:00",
   "subjects": [
     "Energy"
   ],
@@ -237,6 +261,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-20T12:27:55Z",
+  "updated_at": "2026-01-23T09:06:38Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres375.xml"
 }

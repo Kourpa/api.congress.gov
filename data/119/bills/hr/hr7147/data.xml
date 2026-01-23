@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7147" updated="2026-01-21T18:58:15Z">
-  <state datetime="2026-01-20">REFERRED</state>
+<bill session="119" type="h" number="7147" updated="2026-01-23T09:09:15Z">
+  <state datetime="2026-01-22T16:41:54-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2026-01-20"/>
+    <unknown datetime="2026-01-22T16:41:54-05:00"/>
   </status>
   <introduced datetime="2026-01-20"/>
   <titles>
@@ -21,6 +21,36 @@
     <action datetime="2026-01-20">
       <text>Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-01-22T09:03:25-05:00">
+      <text>Rules Committee Resolution H. Res. 1014 Reported to House. Rule provides for consideration of H.R. 7148 and H.R. 7147. The resolution provides for consideration of H.R. 7148 under a structured rule and H.R. 7147 under a closed rule. The rule provides for one hour of debate and a motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2026-01-22T11:52:33-05:00">
+      <text>Rule H. Res. 1014 passed House.</text>
+    </action>
+    <action datetime="2026-01-22T13:26:03-05:00">
+      <text>Considered under the provisions of rule H. Res. 1014.</text>
+    </action>
+    <action datetime="2026-01-22T13:26:08-05:00">
+      <text>Rule provides for consideration of H.R. 7148 and H.R. 7147. The resolution provides for consideration of H.R. 7148 under a structured rule and H.R. 7147 under a closed rule. The rule provides for one hour of debate and a motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2026-01-22T13:27:23-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 7147.</text>
+    </action>
+    <action datetime="2026-01-22T14:22:50-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-01-22T14:23:26-05:00">
+      <text>POSTPONED PROCEEDINGS - The Chair put the question on passage of the bill. Pursuant to clause 10 of rule 20, the yeas and nays are ordered. Further proceedings are postponed.</text>
+    </action>
+    <action datetime="2026-01-22T16:10:03-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="42" datetime="2026-01-22T16:41:54-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 220 - 207 (Roll no. 42).</text>
+    </vote>
+    <action datetime="2026-01-22T16:41:55-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>
@@ -28,10 +58,14 @@
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="4213" relation="unknown"/>
+    <bill session="119" type="hr" number="1014" relation="procedurally related"/>
+    <bill session="119" type="hr" number="1016" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Economics and public finance"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h157"/>
+  </amendments>
   <summary date="2026-01-21T13:32:01Z" status="Introduced in House"></summary>
 </bill>
