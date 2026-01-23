@@ -38,7 +38,16 @@
     {
       "acted_at": "2026-01-22T14:25:24-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1317-1325",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H1317",
+          "type": "text"
+        }
+      ],
       "text": "Considered pursuant to a previous order.",
       "type": "action"
     },
@@ -72,7 +81,12 @@
     {
       "acted_at": "2026-01-22T17:08:40-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1334-1335",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -1409,7 +1423,14 @@
   "status": "FAIL:ORIGINATING:HOUSE",
   "status_at": "2026-01-22T17:33:44-05:00",
   "subjects": [
-    "International affairs"
+    "Congressional oversight",
+    "Congressional-executive branch relations",
+    "International affairs",
+    "Latin America",
+    "Military operations and strategy",
+    "Military personnel and dependents",
+    "Presidents and presidential powers, Vice Presidents",
+    "Venezuela"
   ],
   "subjects_top_term": "International affairs",
   "summary": {
@@ -1434,6 +1455,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-23T09:06:23Z",
+  "updated_at": "2026-01-23T16:15:11Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres68.xml"
 }

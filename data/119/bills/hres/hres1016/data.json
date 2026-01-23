@@ -17,7 +17,12 @@
     {
       "acted_at": "2026-01-22T17:34:47-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1335",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by unanimous consent.",
       "type": "action"
     },
@@ -25,7 +30,12 @@
       "acted_at": "2026-01-22T17:34:57-05:00",
       "action_code": "H37100",
       "how": "without objection",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1335",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:SIMPLERES",
       "suspension": null,
