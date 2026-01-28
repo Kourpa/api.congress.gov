@@ -48,6 +48,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 18.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-01-27",
+      "action_code": "H12200",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-463, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-27",
+      "action_code": "H12300",
+      "committees": [
+        "HSRU"
+      ],
+      "references": [],
+      "text": "Committee on Rules discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-27",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "396",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 396.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -58,18 +88,20 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Rules",
+      "committee_id": "HSRU"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Oversight and Government Reform",
       "committee_id": "HSGO"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Rules",
-      "committee_id": "HSRU"
     }
   ],
   "congress": "119",
@@ -173,6 +205,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-28T06:23:16Z",
+  "updated_at": "2026-01-28T09:05:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5183.xml"
 }

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1295" updated="2026-01-28T06:23:16Z">
+<bill session="119" type="h" number="1295" updated="2026-01-28T09:05:23Z">
   <state datetime="2025-03-25">REPORTED</state>
   <status>
     <unknown datetime="2025-03-25"/>
@@ -48,10 +48,19 @@
     <action datetime="2025-03-25" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 20.</text>
     </action>
+    <action datetime="2026-01-27">
+      <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-464, Part I.</text>
+    </action>
+    <action datetime="2026-01-27">
+      <text>Committee on Rules discharged.</text>
+    </action>
+    <calendar datetime="2026-01-27" calendar="Union" number="397">
+      <text>Placed on the Union Calendar, Calendar No. 397.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
-    <committee code="HSRU" name="House Rules" subcommittee="" activity="Referred To"/>
+    <committee code="HSRU" name="House Rules" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="583" relation="unknown"/>

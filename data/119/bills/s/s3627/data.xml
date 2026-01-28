@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="3627" updated="2026-01-22T15:45:48Z">
-  <state datetime="2026-01-13">INTRODUCED</state>
+<bill session="119" type="s" number="3627" updated="2026-01-28T12:03:16Z">
+  <state datetime="2026-01-27">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <introduced datetime="2026-01-13"/>
+    <unknown datetime="2026-01-27"/>
   </status>
   <introduced datetime="2026-01-13"/>
   <titles>
@@ -15,14 +15,22 @@
     <cosponsor bioguide_id="B001243" joined="2026-01-13"/>
     <cosponsor bioguide_id="B001305" joined="2026-01-13"/>
     <cosponsor bioguide_id="C001075" joined="2026-01-13"/>
+    <cosponsor bioguide_id="C001056" joined="2026-01-27"/>
     <cosponsor bioguide_id="C001098" joined="2026-01-15"/>
     <cosponsor bioguide_id="D000618" joined="2026-01-13"/>
+    <cosponsor bioguide_id="G000359" joined="2026-01-27"/>
     <cosponsor bioguide_id="G000386" joined="2026-01-13"/>
+    <cosponsor bioguide_id="H001104" joined="2026-01-27"/>
     <cosponsor bioguide_id="H001079" joined="2026-01-13"/>
     <cosponsor bioguide_id="J000312" joined="2026-01-15"/>
     <cosponsor bioguide_id="L000575" joined="2026-01-13"/>
+    <cosponsor bioguide_id="L000577" joined="2026-01-27"/>
+    <cosponsor bioguide_id="L000571" joined="2026-01-27"/>
+    <cosponsor bioguide_id="M001198" joined="2026-01-27"/>
+    <cosponsor bioguide_id="M001243" joined="2026-01-27"/>
     <cosponsor bioguide_id="M001190" joined="2026-01-15"/>
     <cosponsor bioguide_id="S001217" joined="2026-01-13"/>
+    <cosponsor bioguide_id="S001184" joined="2026-01-27"/>
     <cosponsor bioguide_id="T000250" joined="2026-01-14"/>
     <cosponsor bioguide_id="W000437" joined="2026-01-13"/>
   </cosponsors>
@@ -44,6 +52,9 @@
       <text>Cloture motion on the motion to proceed presented in Senate.</text>
       <reference ref="CR S262"/>
     </action>
+    <vote-aux how="roll" type="cloture" roll="12" datetime="2026-01-27" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 45. Record Vote Number: 12.</text>
+    </vote-aux>
   </actions>
   <committees/>
   <relatedbills>

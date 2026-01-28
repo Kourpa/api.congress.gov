@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6978</number>
-    <updateDate>2026-01-28T06:23:16Z</updateDate>
-    <updateDateIncludingText>2026-01-28T06:32:27Z</updateDateIncludingText>
+    <updateDate>2026-01-28T09:05:33Z</updateDate>
+    <updateDateIncludingText>2026-01-28T09:05:33Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -22,6 +22,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-01-27T18:01:45Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-01-13T14:37:48Z</date>
           </item>
@@ -33,6 +37,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 398.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00398</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-465.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-465.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-01-13</actionDate>
         <committees>
@@ -178,8 +227,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-13</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 11.</text>
+      <actionDate>2026-01-27</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 398.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

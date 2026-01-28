@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5183</number>
-    <updateDate>2026-01-28T06:23:16Z</updateDate>
-    <updateDateIncludingText>2026-01-28T06:32:26Z</updateDateIncludingText>
+    <updateDate>2026-01-28T09:05:31Z</updateDate>
+    <updateDateIncludingText>2026-01-28T09:05:31Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -16,11 +16,31 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>hsru00</systemCode>
+        <name>Rules Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-01-27T17:56:26Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-09-08T16:01:50Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsgo00</systemCode>
         <name>Oversight and Government Reform Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-01-27T17:55:48Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-09-10T16:38:26Z</date>
@@ -31,20 +51,85 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hsru00</systemCode>
-        <name>Rules Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-09-08T16:01:50Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 396.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00396</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Committee on Rules discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Committee on Rules discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-463, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-463, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-09-10</actionDate>
         <committees>
@@ -288,8 +373,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-10</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 18.</text>
+      <actionDate>2026-01-27</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 396.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

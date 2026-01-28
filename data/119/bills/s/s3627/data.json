@@ -47,6 +47,19 @@
       ],
       "text": "Cloture motion on the motion to proceed presented in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-01-27",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "12",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 45. Record Vote Number: 12.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -98,6 +111,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C001056",
+      "district": null,
+      "name": "Cornyn, John",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-27",
+      "state": "TX",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "C001098",
       "district": null,
       "name": "Cruz, Ted",
@@ -118,12 +141,32 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "G000359",
+      "district": null,
+      "name": "Graham, Lindsey",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-27",
+      "state": "SC",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "G000386",
       "district": null,
       "name": "Grassley, Chuck",
       "original_cosponsor": true,
       "sponsored_at": "2026-01-13",
       "state": "IA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "H001104",
+      "district": null,
+      "name": "Husted, Jon",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-27",
+      "state": "OH",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -158,6 +201,46 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "L000577",
+      "district": null,
+      "name": "Lee, Mike",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-27",
+      "state": "UT",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "L000571",
+      "district": null,
+      "name": "Lummis, Cynthia M.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-27",
+      "state": "WY",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001198",
+      "district": null,
+      "name": "Marshall, Roger",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-27",
+      "state": "KS",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001243",
+      "district": null,
+      "name": "McCormick, David",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-27",
+      "state": "PA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "M001190",
       "district": null,
       "name": "Mullin, Markwayne",
@@ -174,6 +257,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2026-01-13",
       "state": "FL",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S001184",
+      "district": null,
+      "name": "Scott, Tim",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-01-27",
+      "state": "SC",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -204,6 +297,8 @@
     "active_at": "2026-01-13",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_cloture_result": "fail",
+    "senate_cloture_result_at": "2026-01-27",
     "vetoed": false
   },
   "introduced_at": "2026-01-13",
@@ -227,8 +322,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "INTRODUCED",
-  "status_at": "2026-01-13",
+  "status": "PROV_KILL:CLOTUREFAILED",
+  "status_at": "2026-01-27",
   "subjects": [
     "Abortion",
     "Education",
@@ -268,6 +363,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-22T15:45:48Z",
+  "updated_at": "2026-01-28T12:03:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3627.xml"
 }

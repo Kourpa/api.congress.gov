@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1295</number>
-    <updateDate>2026-01-28T06:23:16Z</updateDate>
-    <updateDateIncludingText>2026-01-28T06:32:25Z</updateDateIncludingText>
+    <updateDate>2026-01-28T09:05:23Z</updateDate>
+    <updateDateIncludingText>2026-01-28T09:05:23Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -16,11 +16,31 @@
     </cdata>
     <committees>
       <item>
+        <systemCode>hsru00</systemCode>
+        <name>Rules Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-01-27T18:00:58Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-02-13T14:10:25Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsgo00</systemCode>
         <name>Oversight and Government Reform Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-01-27T18:00:35Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-03-25T15:16:29Z</date>
@@ -28,18 +48,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-02-13T14:10:20Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hsru00</systemCode>
-        <name>Rules Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-02-13T14:10:25Z</date>
           </item>
         </activities>
       </item>
@@ -63,6 +71,83 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 397.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00397</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Committee on Rules discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Committee on Rules discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-464, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-27</actionDate>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-464, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-03-25</actionDate>
         <committees>
@@ -472,8 +557,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-03-25</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 20.</text>
+      <actionDate>2026-01-27</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 397.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
