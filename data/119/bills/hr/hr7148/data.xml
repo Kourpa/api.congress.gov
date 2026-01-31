@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7148" updated="2026-01-29T14:55:24Z">
-  <state datetime="2026-01-22T17:00:11-05:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="7148" updated="2026-01-30T15:13:14Z">
+  <state datetime="2026-01-29">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2026-01-22T17:00:11-05:00"/>
+    <unknown datetime="2026-01-29"/>
   </status>
   <introduced datetime="2026-01-20"/>
   <titles>
@@ -122,6 +122,17 @@
       <text>Motion to proceed to measure considered in Senate.</text>
       <reference ref="CR S301"/>
     </action>
+    <action datetime="2026-01-29">
+      <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S357"/>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="13" datetime="2026-01-29" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 13.</text>
+      <reference ref="CR S361"/>
+    </vote-aux>
+    <action datetime="2026-01-29">
+      <text>Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 13) entered in Senate.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
@@ -184,6 +195,41 @@
     <term name="Economics and public finance"/>
   </subjects>
   <amendments>
+    <amendment number="s4287"/>
+    <amendment number="s4286"/>
+    <amendment number="s4285"/>
+    <amendment number="s4284"/>
+    <amendment number="s4283"/>
+    <amendment number="s4282"/>
+    <amendment number="s4281"/>
+    <amendment number="s4280"/>
+    <amendment number="s4279"/>
+    <amendment number="s4278"/>
+    <amendment number="s4277"/>
+    <amendment number="s4276"/>
+    <amendment number="s4275"/>
+    <amendment number="s4274"/>
+    <amendment number="s4273"/>
+    <amendment number="s4272"/>
+    <amendment number="s4271"/>
+    <amendment number="s4270"/>
+    <amendment number="s4269"/>
+    <amendment number="s4268"/>
+    <amendment number="s4267"/>
+    <amendment number="s4266"/>
+    <amendment number="s4265"/>
+    <amendment number="s4264"/>
+    <amendment number="s4263"/>
+    <amendment number="s4262"/>
+    <amendment number="s4261"/>
+    <amendment number="s4260"/>
+    <amendment number="s4259"/>
+    <amendment number="s4258"/>
+    <amendment number="s4257"/>
+    <amendment number="s4256"/>
+    <amendment number="s4255"/>
+    <amendment number="s4254"/>
+    <amendment number="s4253"/>
     <amendment number="s4252"/>
     <amendment number="s4251"/>
     <amendment number="s4250"/>
