@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2189</number>
-    <updateDate>2026-01-16T09:06:24Z</updateDate>
-    <updateDateIncludingText>2026-01-16T09:06:24Z</updateDateIncludingText>
+    <updateDate>2026-01-31T09:05:19Z</updateDate>
+    <updateDateIncludingText>2026-01-31T09:05:19Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-01-30T16:12:52Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-11-20T18:24:53Z</date>
@@ -55,6 +59,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-01-30</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 403.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00403</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-01-30</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-472.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-01-30</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-472.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-11-20</actionDate>
         <committees>
@@ -1250,13 +1299,23 @@
         <updateDate>2025-04-03T11:23:28Z</updateDate>
       </policyArea>
     </subjects>
-    <title>Law-Enforcement Innovate to De-Escalate Act of 2025</title>
+    <title>Law-Enforcement Innovate to De-Escalate Act</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>Law-Enforcement Innovate to De-Escalate Act of 2025</title>
-        <updateDate>2025-07-23T14:13:40Z</updateDate>
+        <title>Law-Enforcement Innovate to De-Escalate Act</title>
+        <updateDate>2026-01-31T05:53:17Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Law-Enforcement Innovate to De-Escalate Act</title>
+        <updateDate>2026-01-31T05:53:16Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -1277,6 +1336,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-01-30T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2189rh/xml/BILLS-119hr2189rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-18T04:00:00Z</date>
         <formats>
@@ -1287,8 +1355,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-20</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 8.</text>
+      <actionDate>2026-01-30</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 403.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7148</number>
-    <updateDate>2026-01-30T15:13:14Z</updateDate>
-    <updateDateIncludingText>2026-01-30T15:13:14Z</updateDateIncludingText>
+    <updateDate>2026-01-31T12:08:26Z</updateDate>
+    <updateDateIncludingText>2026-01-31T12:08:26Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -107,17 +107,13 @@
         <number>7147</number>
         <type>HR</type>
         <latestAction>
-          <actionDate>2026-01-26</actionDate>
-          <text>Received in the Senate.</text>
+          <actionDate>2026-01-30</actionDate>
+          <text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
         </latestAction>
         <relationshipDetails>
           <item>
             <type>Related bill</type>
             <identifiedBy>CRS</identifiedBy>
-          </item>
-          <item>
-            <type>Related bill</type>
-            <identifiedBy>House</identifiedBy>
           </item>
         </relationshipDetails>
       </item>
@@ -865,6 +861,84 @@
     </relatedBills>
     <actions>
       <item>
+        <actionDate>2026-01-30</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate, under the order of 1/30/2026, having achieved 60 votes in the affirmative, with amendments by Yea-Nay Vote. 71 - 29. Record Vote Number: 20.</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>20</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00020.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-01-30T23:41:48Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-01-30</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate, under the order of 1/30/2026, having achieved 60 votes in the affirmative, with amendments by Yea-Nay Vote. 71 - 29. Record Vote Number: 20.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>20</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00020.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-01-30T23:41:48Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-01-30</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to H.R.7148 was not invoked (Record Vote No. 13) rendered moot in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-01-30</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Cloture motion on the motion to proceed rendered moot in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-01-30</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-01-30</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-01-30</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to measure considered in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
         <actionDate>2026-01-29</actionDate>
         <sourceSystem>
           <name>Senate</name>
@@ -1505,10 +1579,571 @@
     </titles>
     <amendments>
       <amendment>
+        <number>4295</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-01-31T12:08:26Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-01-30T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7148</number>
+          <title>Consolidated Appropriations Act, 2026</title>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>4294</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-01-31T12:08:26Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>D000622</bioguideId>
+            <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+            <firstName>Tammy</firstName>
+            <lastName>Duckworth</lastName>
+            <party>D</party>
+            <state>IL</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-01-30T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7148</number>
+          <title>Consolidated Appropriations Act, 2026</title>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>4293</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-01-31T12:08:26Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-01-30T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7148</number>
+          <title>Consolidated Appropriations Act, 2026</title>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>4292</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-01-31T12:08:26Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C001075</bioguideId>
+            <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+            <firstName>Bill</firstName>
+            <lastName>Cassidy</lastName>
+            <party>R</party>
+            <state>LA</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>W000802</bioguideId>
+            <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+            <firstName>Sheldon</firstName>
+            <lastName>Whitehouse</lastName>
+            <party>D</party>
+            <state>RI</state>
+            <sponsorshipDate>2026-01-30</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2026-01-30T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7148</number>
+          <title>Consolidated Appropriations Act, 2026</title>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>4291</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-01-31T12:08:26Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>W000790</bioguideId>
+            <fullName>Sen. Warnock, Raphael G. [D-GA]</fullName>
+            <firstName>Raphael</firstName>
+            <lastName>Warnock</lastName>
+            <party>D</party>
+            <state>GA</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-01-30T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7148</number>
+          <title>Consolidated Appropriations Act, 2026</title>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>2</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>4290</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To rescind certain amounts appropriated for U.S. Immigration and Customs Enforcement and certain changes to Medicaid.</purpose>
+        <updateDate>2026-01-31T12:08:26Z</updateDate>
+        <latestAction>
+          <actionDate>2026-01-30</actionDate>
+          <text>Amendment SA 4290, under the order of 1/30/2026, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 18.</text>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S000033</bioguideId>
+            <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+            <firstName>Bernie</firstName>
+            <lastName>Sanders</lastName>
+            <party>I</party>
+            <state>VT</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>S000033</bioguideId>
+            <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+            <firstName>Bernard</firstName>
+            <lastName>Sanders</lastName>
+            <party>I</party>
+            <state>VT</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+            <sponsorshipDate>2026-01-30</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2026-01-30T05:00:00Z</proposedDate>
+        <submittedDate>2026-01-30T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7148</number>
+          <title>Consolidated Appropriations Act, 2026</title>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4290, under the order of 1/30/2026, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 18.</text>
+              <type>Floor</type>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>18</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T23:04:00Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00018.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4290 proposed by Senator Sanders. To rescind certain amounts appropriated for U.S. Immigration and Customs Enforcement and certain changes to Medicaid.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4290 proposed by Senator Sanders.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment not agreed to: Amendment SA 4290, under the order of 1/30/2026, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 18.</text>
+              <type>Floor</type>
+              <actionCode>95000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>18</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T23:04:00Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00018.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Roll call votes on amendments in Senate: Amendment SA 4290, under the order of 1/30/2026, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 18.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>18</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T23:04:00Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00018.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>4289</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-01-31T12:08:25Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>L000570</bioguideId>
+            <fullName>Sen. Luján, Ben Ray [D-NM]</fullName>
+            <firstName>Ben</firstName>
+            <lastName>Luján</lastName>
+            <party>D</party>
+            <state>NM</state>
+            <middleName>R.</middleName>
+          </item>
+        </sponsors>
+        <submittedDate>2026-01-30T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7148</number>
+          <title>Consolidated Appropriations Act, 2026</title>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>4288</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-01-31T12:08:25Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>W000790</bioguideId>
+            <fullName>Sen. Warnock, Raphael G. [D-GA]</fullName>
+            <firstName>Raphael</firstName>
+            <lastName>Warnock</lastName>
+            <party>D</party>
+            <state>GA</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-01-30T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7148</number>
+          <title>Consolidated Appropriations Act, 2026</title>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
         <number>4287</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:23Z</updateDate>
+        <purpose>To prevent the deferral or rescission of appropriations within 90 days of their expiration.</purpose>
+        <updateDate>2026-01-31T12:08:26Z</updateDate>
+        <latestAction>
+          <actionDate>2026-01-30</actionDate>
+          <text>Amendment SA 4287 ruled out of order by the chair.</text>
+        </latestAction>
         <sponsors>
           <item>
             <bioguideId>M001176</bioguideId>
@@ -1519,6 +2154,18 @@
             <state>OR</state>
           </item>
         </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>M001176</bioguideId>
+            <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+            <firstName>Jeff</firstName>
+            <lastName>Merkley</lastName>
+            <party>D</party>
+            <state>OR</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-01-30T05:00:00Z</proposedDate>
         <submittedDate>2026-01-29T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -1528,11 +2175,57 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
-          <count>2</count>
+          <count>8</count>
           <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4287 ruled out of order by the chair.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Motion to waive all applicable budgetary discipline with respect to amendment SA 4287, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 19.</text>
+              <type>Floor</type>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>19</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T23:18:19Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00019.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Point of order that the amendment violates section 306 of the CBA raised in Senate with respect to amendment SA 4287.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4287 proposed by Senator Merkley. To prevent the deferral or rescission of appropriations within 90 days of their expiration.</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-01-29</actionDate>
               <type>IntroReferral</type>
@@ -1541,6 +2234,36 @@
                 <code>9</code>
                 <name>Library of Congress</name>
               </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4287 proposed by Senator Merkley.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4287, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 19.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>19</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T23:18:19Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00019.xml</url>
+                </recordedVote>
+              </recordedVotes>
             </item>
             <item>
               <actionDate>2026-01-29</actionDate>
@@ -1562,7 +2285,12 @@
         <number>4286</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:23Z</updateDate>
+        <purpose>To eliminate funding for the United States African Development Foundation.</purpose>
+        <updateDate>2026-01-31T12:08:25Z</updateDate>
+        <latestAction>
+          <actionDate>2026-01-30</actionDate>
+          <text>Motion to table agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 17.</text>
+        </latestAction>
         <sponsors>
           <item>
             <bioguideId>L000577</bioguideId>
@@ -1573,6 +2301,18 @@
             <state>UT</state>
           </item>
         </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>L000577</bioguideId>
+            <fullName>Sen. Lee, Mike [R-UT]</fullName>
+            <firstName>Mike</firstName>
+            <lastName>Lee</lastName>
+            <party>R</party>
+            <state>UT</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-01-30T05:00:00Z</proposedDate>
         <submittedDate>2026-01-29T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -1582,11 +2322,39 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
-          <count>2</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Motion to table agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 17.</text>
+              <type>Floor</type>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>17</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T22:48:49Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00017.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4286 proposed by Senator Lee. To eliminate funding for the United States African Development Foundation.</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-01-29</actionDate>
               <type>IntroReferral</type>
@@ -1595,6 +2363,36 @@
                 <code>9</code>
                 <name>Library of Congress</name>
               </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4286 proposed by Senator Lee.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Roll call votes on amendments in Senate: Motion to table agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 17.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>17</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T22:48:49Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00017.xml</url>
+                </recordedVote>
+              </recordedVotes>
             </item>
             <item>
               <actionDate>2026-01-29</actionDate>
@@ -1616,7 +2414,7 @@
         <number>4285</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:23Z</updateDate>
+        <updateDate>2026-01-30T01:47:58Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>S000033</bioguideId>
@@ -1636,7 +2434,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -1670,7 +2468,7 @@
         <number>4284</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:23Z</updateDate>
+        <updateDate>2026-01-30T00:12:46Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001267</bioguideId>
@@ -1690,7 +2488,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -1724,7 +2522,7 @@
         <number>4283</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:23Z</updateDate>
+        <updateDate>2026-01-30T00:12:30Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001277</bioguideId>
@@ -1759,7 +2557,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -1793,7 +2591,7 @@
         <number>4282</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:23Z</updateDate>
+        <updateDate>2026-01-30T00:12:14Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001277</bioguideId>
@@ -1828,7 +2626,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -1862,7 +2660,7 @@
         <number>4281</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:23Z</updateDate>
+        <updateDate>2026-01-30T00:11:57Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001277</bioguideId>
@@ -1882,7 +2680,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -1916,7 +2714,7 @@
         <number>4280</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:23Z</updateDate>
+        <updateDate>2026-01-30T00:11:43Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -1937,7 +2735,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -1971,7 +2769,7 @@
         <number>4279</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:23Z</updateDate>
+        <updateDate>2026-01-30T00:11:43Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -1992,7 +2790,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2026,7 +2824,7 @@
         <number>4278</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T22:36:45Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -2047,7 +2845,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2081,7 +2879,7 @@
         <number>4277</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T22:36:45Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -2102,7 +2900,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2136,7 +2934,7 @@
         <number>4276</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T22:36:45Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -2157,7 +2955,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2191,7 +2989,7 @@
         <number>4275</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T22:00:36Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>L000577</bioguideId>
@@ -2211,7 +3009,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2245,7 +3043,7 @@
         <number>4274</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T21:36:10Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>S001181</bioguideId>
@@ -2265,7 +3063,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2299,7 +3097,12 @@
         <number>4273</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <purpose>To provide continuing appropriations for the Department of Homeland Security.</purpose>
+        <updateDate>2026-01-31T12:08:26Z</updateDate>
+        <latestAction>
+          <actionDate>2026-01-30</actionDate>
+          <text>Amendment SA 4273 agreed to in Senate by Unanimous Consent.</text>
+        </latestAction>
         <sponsors>
           <item>
             <bioguideId>C001035</bioguideId>
@@ -2311,6 +3114,18 @@
             <middleName>M.</middleName>
           </item>
         </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>C001035</bioguideId>
+            <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+            <firstName>Susan</firstName>
+            <lastName>Collins</lastName>
+            <party>R</party>
+            <state>ME</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-01-30T05:00:00Z</proposedDate>
         <submittedDate>2026-01-29T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -2320,15 +3135,53 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
-          <count>2</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4273 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4273 proposed by Senator Collins. To provide continuing appropriations for the Department of Homeland Security.</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-01-29</actionDate>
               <type>IntroReferral</type>
               <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4273 proposed by Senator Collins.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 4273 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
               <sourceSystem>
                 <code>9</code>
                 <name>Library of Congress</name>
@@ -2354,7 +3207,12 @@
         <number>4272</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <purpose>To eliminate funding for refugee and entrant assistance.</purpose>
+        <updateDate>2026-01-31T12:08:25Z</updateDate>
+        <latestAction>
+          <actionDate>2026-01-30</actionDate>
+          <text>Amendment SA 4272 not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 14.</text>
+        </latestAction>
         <sponsors>
           <item>
             <bioguideId>P000603</bioguideId>
@@ -2365,6 +3223,17 @@
             <state>KY</state>
           </item>
         </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>P000603</bioguideId>
+            <fullName>Sen. Paul, Rand [R-KY]</fullName>
+            <firstName>Rand</firstName>
+            <lastName>Paul</lastName>
+            <party>R</party>
+            <state>KY</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
         <cosponsors>
           <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
           <count>1</count>
@@ -2379,6 +3248,7 @@
             <isOriginalCosponsor>True</isOriginalCosponsor>
           </item>
         </cosponsors>
+        <proposedDate>2026-01-30T05:00:00Z</proposedDate>
         <submittedDate>2026-01-29T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -2388,11 +3258,39 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
-          <count>2</count>
+          <count>7</count>
           <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4272 not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 14.</text>
+              <type>Floor</type>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>14</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T21:51:28Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00014.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4272 proposed by Senator Paul. To eliminate funding for refugee and entrant assistance.</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-01-29</actionDate>
               <type>IntroReferral</type>
@@ -2401,6 +3299,56 @@
                 <code>9</code>
                 <name>Library of Congress</name>
               </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4272 proposed by Senator Paul.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment not agreed to: Amendment SA 4272 not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 14.</text>
+              <type>Floor</type>
+              <actionCode>95000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>14</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T21:51:28Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00014.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Roll call votes on amendments in Senate: Amendment SA 4272 not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 14.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>14</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T21:51:28Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00014.xml</url>
+                </recordedVote>
+              </recordedVotes>
             </item>
             <item>
               <actionDate>2026-01-29</actionDate>
@@ -2422,7 +3370,7 @@
         <number>4271</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T20:13:39Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001267</bioguideId>
@@ -2442,7 +3390,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2476,7 +3424,7 @@
         <number>4270</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T20:13:39Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001267</bioguideId>
@@ -2496,7 +3444,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2530,7 +3478,7 @@
         <number>4269</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T20:13:39Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001267</bioguideId>
@@ -2550,7 +3498,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2584,7 +3532,7 @@
         <number>4268</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T20:13:39Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001267</bioguideId>
@@ -2604,7 +3552,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2638,7 +3586,7 @@
         <number>4267</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T20:13:39Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001267</bioguideId>
@@ -2658,7 +3606,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2692,7 +3640,7 @@
         <number>4266</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T20:13:39Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001267</bioguideId>
@@ -2712,7 +3660,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2746,7 +3694,7 @@
         <number>4265</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T20:12:59Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>S001217</bioguideId>
@@ -2766,7 +3714,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2800,7 +3748,7 @@
         <number>4264</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T18:43:45Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -2821,7 +3769,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2855,7 +3803,7 @@
         <number>4263</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:22Z</updateDate>
+        <updateDate>2026-01-29T17:43:38Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -2876,7 +3824,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2910,7 +3858,7 @@
         <number>4262</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:21Z</updateDate>
+        <updateDate>2026-01-29T17:43:37Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -2931,7 +3879,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2965,7 +3913,7 @@
         <number>4261</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:21Z</updateDate>
+        <updateDate>2026-01-29T17:43:37Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -2986,7 +3934,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3020,7 +3968,7 @@
         <number>4260</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:21Z</updateDate>
+        <updateDate>2026-01-29T17:43:37Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -3041,7 +3989,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3075,7 +4023,7 @@
         <number>4259</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:21Z</updateDate>
+        <updateDate>2026-01-29T17:43:37Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -3096,7 +4044,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3130,7 +4078,7 @@
         <number>4258</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:21Z</updateDate>
+        <updateDate>2026-01-29T17:43:37Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001169</bioguideId>
@@ -3151,7 +4099,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3185,7 +4133,7 @@
         <number>4257</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:21Z</updateDate>
+        <updateDate>2026-01-29T17:08:48Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>C001098</bioguideId>
@@ -3205,7 +4153,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3239,7 +4187,7 @@
         <number>4256</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:21Z</updateDate>
+        <updateDate>2026-01-29T16:36:34Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001305</bioguideId>
@@ -3259,7 +4207,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3293,7 +4241,7 @@
         <number>4255</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:21Z</updateDate>
+        <updateDate>2026-01-29T16:36:34Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001305</bioguideId>
@@ -3313,7 +4261,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3347,7 +4295,7 @@
         <number>4254</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:21Z</updateDate>
+        <updateDate>2026-01-29T16:25:26Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>C001113</bioguideId>
@@ -3367,7 +4315,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3401,7 +4349,7 @@
         <number>4253</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-30T12:08:21Z</updateDate>
+        <updateDate>2026-01-29T16:12:17Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>C001098</bioguideId>
@@ -3421,7 +4369,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3510,7 +4458,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3564,7 +4512,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3618,7 +4566,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3672,7 +4620,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3740,7 +4688,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3794,7 +4742,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3848,7 +4796,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3968,7 +4916,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4048,7 +4996,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4102,7 +5050,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4170,7 +5118,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4204,7 +5152,12 @@
         <number>4241</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-29T12:08:20Z</updateDate>
+        <purpose>To eliminate National Endowment for Democracy funding.</purpose>
+        <updateDate>2026-01-31T12:08:25Z</updateDate>
+        <latestAction>
+          <actionDate>2026-01-30</actionDate>
+          <text>Amendment SA 4241 not agreed to in Senate by Voice Vote.</text>
+        </latestAction>
         <sponsors>
           <item>
             <bioguideId>S001227</bioguideId>
@@ -4216,6 +5169,18 @@
             <middleName>S.</middleName>
           </item>
         </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>S001227</bioguideId>
+            <fullName>Sen. Schmitt, Eric [R-MO]</fullName>
+            <firstName>Eric</firstName>
+            <lastName>Schmitt</lastName>
+            <party>R</party>
+            <state>MO</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-01-30T05:00:00Z</proposedDate>
         <submittedDate>2026-01-28T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -4225,15 +5190,53 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
-          <count>2</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4241 not agreed to in Senate by Voice Vote.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4241 proposed by Senator Schmitt. To eliminate National Endowment for Democracy funding.</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-01-28</actionDate>
               <type>IntroReferral</type>
               <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4241 proposed by Senator Schmitt.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment not agreed to: Amendment SA 4241 not agreed to in Senate by Voice Vote.</text>
+              <type>Floor</type>
+              <actionCode>95000</actionCode>
               <sourceSystem>
                 <code>9</code>
                 <name>Library of Congress</name>
@@ -4279,7 +5282,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4333,7 +5336,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4387,7 +5390,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4441,7 +5444,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4475,7 +5478,12 @@
         <number>4236</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-28T12:08:17Z</updateDate>
+        <purpose>To strike all earmarks.</purpose>
+        <updateDate>2026-01-31T12:08:26Z</updateDate>
+        <latestAction>
+          <actionDate>2026-01-30</actionDate>
+          <text>Motion to table amendment SA 4236 agreed to in Senate by Yea-Nay Vote. 67 - 33. Record Vote Number: 15.</text>
+        </latestAction>
         <sponsors>
           <item>
             <bioguideId>L000577</bioguideId>
@@ -4486,6 +5494,18 @@
             <state>UT</state>
           </item>
         </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>L000577</bioguideId>
+            <fullName>Sen. Lee, Mike [R-UT]</fullName>
+            <firstName>Mike</firstName>
+            <lastName>Lee</lastName>
+            <party>R</party>
+            <state>UT</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-01-30T05:00:00Z</proposedDate>
         <submittedDate>2026-01-27T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -4495,11 +5515,39 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
-          <count>2</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Motion to table amendment SA 4236 agreed to in Senate by Yea-Nay Vote. 67 - 33. Record Vote Number: 15.</text>
+              <type>Floor</type>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>15</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T22:19:44Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00015.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4236 proposed by Senator Lee. To strike all earmarks.</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-01-27</actionDate>
               <type>IntroReferral</type>
@@ -4508,6 +5556,36 @@
                 <code>9</code>
                 <name>Library of Congress</name>
               </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4236 proposed by Senator Lee.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Roll call votes on amendments in Senate: Motion to table amendment SA 4236 agreed to in Senate by Yea-Nay Vote. 67 - 33. Record Vote Number: 15.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>15</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T22:19:44Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00015.xml</url>
+                </recordedVote>
+              </recordedVotes>
             </item>
             <item>
               <actionDate>2026-01-27</actionDate>
@@ -4549,7 +5627,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4583,7 +5661,12 @@
         <number>4234</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-01-28T12:08:17Z</updateDate>
+        <purpose>To strike the earmark for the Community and Training Center by the New Immigrant Community Empowerment.</purpose>
+        <updateDate>2026-01-31T12:08:25Z</updateDate>
+        <latestAction>
+          <actionDate>2026-01-30</actionDate>
+          <text>Motion to table amendment SA 4234 agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 16.</text>
+        </latestAction>
         <sponsors>
           <item>
             <bioguideId>L000577</bioguideId>
@@ -4594,6 +5677,18 @@
             <state>UT</state>
           </item>
         </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>S001217</bioguideId>
+            <fullName>Sen. Scott, Rick [R-FL]</fullName>
+            <firstName>Rick</firstName>
+            <lastName>Scott</lastName>
+            <party>R</party>
+            <state>FL</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-01-30T05:00:00Z</proposedDate>
         <submittedDate>2026-01-27T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -4603,11 +5698,39 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
-          <count>2</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Motion to table amendment SA 4234 agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 16.</text>
+              <type>Floor</type>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>16</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T22:29:04Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00016.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4234 proposed by Senator Scott FL for Senator Lee. To strike the earmark for the Community and Training Center by the New Immigrant Community Empowerment.</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-01-27</actionDate>
               <type>IntroReferral</type>
@@ -4616,6 +5739,36 @@
                 <code>9</code>
                 <name>Library of Congress</name>
               </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4234 proposed by Senator Scott FL for Senator Lee.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-01-30</actionDate>
+              <text>Roll call votes on amendments in Senate: Motion to table amendment SA 4234 agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 16.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>16</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-01-30T22:29:04Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00016.xml</url>
+                </recordedVote>
+              </recordedVotes>
             </item>
             <item>
               <actionDate>2026-01-27</actionDate>
@@ -4660,7 +5813,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>4</count>
@@ -4758,7 +5911,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>6</count>
@@ -4909,7 +6062,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7148</number>
           <title>Consolidated Appropriations Act, 2026</title>
-          <updateDateIncludingText>2026-01-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-01-31</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>6</count>
@@ -5025,6 +6178,15 @@
     </amendments>
     <textVersions>
       <item>
+        <type>Engrossed Amendment Senate</type>
+        <date>2026-01-30T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr7148eas/xml/BILLS-119hr7148eas.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Placed on Calendar Senate</type>
         <date>2026-01-26T05:00:00Z</date>
         <formats>
@@ -5053,8 +6215,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-29</actionDate>
-      <text>Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 13) entered in Senate.</text>
+      <actionDate>2026-01-30</actionDate>
+      <text>Passed Senate, under the order of 1/30/2026, having achieved 60 votes in the affirmative, with amendments by Yea-Nay Vote. 71 - 29. Record Vote Number: 20.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

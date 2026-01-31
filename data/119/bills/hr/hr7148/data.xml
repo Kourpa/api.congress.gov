@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7148" updated="2026-01-30T15:13:14Z">
-  <state datetime="2026-01-29">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="h" number="7148" updated="2026-01-31T12:08:26Z">
+  <state datetime="2026-01-30">PASS_BACK:SENATE</state>
   <status>
-    <unknown datetime="2026-01-29"/>
+    <unknown datetime="2026-01-30"/>
   </status>
   <introduced datetime="2026-01-20"/>
   <titles>
@@ -133,6 +133,24 @@
     <action datetime="2026-01-29">
       <text>Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 13) entered in Senate.</text>
     </action>
+    <action datetime="2026-01-30">
+      <text>Motion to proceed to measure considered in Senate.</text>
+    </action>
+    <action datetime="2026-01-30">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text>
+    </action>
+    <action datetime="2026-01-30">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="2026-01-30">
+      <text>Cloture motion on the motion to proceed rendered moot in Senate.</text>
+    </action>
+    <action datetime="2026-01-30">
+      <text>Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to H.R.7148 was not invoked (Record Vote No. 13) rendered moot in Senate.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="20" datetime="2026-01-30" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate, under the order of 1/30/2026, having achieved 60 votes in the affirmative, with amendments by Yea-Nay Vote. 71 - 29. Record Vote Number: 20.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
@@ -195,6 +213,14 @@
     <term name="Economics and public finance"/>
   </subjects>
   <amendments>
+    <amendment number="s4295"/>
+    <amendment number="s4294"/>
+    <amendment number="s4293"/>
+    <amendment number="s4292"/>
+    <amendment number="s4291"/>
+    <amendment number="s4290"/>
+    <amendment number="s4289"/>
+    <amendment number="s4288"/>
     <amendment number="s4287"/>
     <amendment number="s4286"/>
     <amendment number="s4285"/>
