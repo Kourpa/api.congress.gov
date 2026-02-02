@@ -305,7 +305,12 @@
     {
       "acted_at": "2026-01-30",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S401",
+          "type": null
+        }
+      ],
       "text": "Motion to proceed to measure considered in Senate.",
       "type": "action"
     },
@@ -319,7 +324,12 @@
     {
       "acted_at": "2026-01-30",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S411-416",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -1276,6 +1286,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-31T13:54:35Z",
+  "updated_at": "2026-02-02T16:59:08Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7148.xml"
 }

@@ -2,6 +2,25 @@
   "actions": [
     {
       "acted_at": "2026-01-30",
+      "action_code": "1025",
+      "references": [],
+      "text": "Submitted in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-30",
+      "action_code": "B00100",
+      "references": [
+        {
+          "reference": "CR E82",
+          "type": null
+        }
+      ],
+      "text": "Sponsor introductory remarks on measure.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-30",
       "action_code": "H11100",
       "references": [],
       "text": "Submitted in House",
@@ -58,7 +77,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-30",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -98,6 +118,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-31T09:05:28Z",
+  "updated_at": "2026-02-02T18:52:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1025.xml"
 }
