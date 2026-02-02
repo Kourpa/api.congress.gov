@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="587" updated="2026-01-30T04:03:18Z">
+<bill session="119" type="sr" number="587" updated="2026-02-02T14:45:01Z">
   <state datetime="2026-01-27">REFERRED</state>
   <status>
     <introduced datetime="2026-01-27"/>
@@ -58,7 +58,13 @@
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="hr" number="63" relation="unknown"/>
+    <bill session="119" type="sr" number="44" relation="unknown"/>
+    <bill session="119" type="hr" number="1023" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
   <amendments/>
 </bill>
