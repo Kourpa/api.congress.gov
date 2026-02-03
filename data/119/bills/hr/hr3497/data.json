@@ -58,6 +58,47 @@
       "text": "Placed on the Union Calendar, Calendar No. 399.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-02-02T16:30:41-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Jordan moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-02T16:30:58-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-02T16:30:59-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3497.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-02T16:40:51-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-02-02T16:40:54-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -445,6 +486,8 @@
     "active_at": "2025-12-18",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-02-02T16:40:51-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-05-19",
@@ -461,8 +504,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-12-18",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-02-02T16:40:51-05:00",
   "subjects": [
     "Advisory bodies",
     "Crime and law enforcement",
@@ -506,6 +549,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-29T21:30:00Z",
+  "updated_at": "2026-02-03T09:05:53Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3497.xml"
 }

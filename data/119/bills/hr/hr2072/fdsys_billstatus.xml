@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2072</number>
-    <updateDate>2026-01-22T09:05:59Z</updateDate>
-    <updateDateIncludingText>2026-01-22T09:05:59Z</updateDateIncludingText>
+    <updateDate>2026-02-03T09:05:42Z</updateDate>
+    <updateDateIncludingText>2026-02-03T09:05:42Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -21,6 +21,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-02-02T23:48:25Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-01-21T22:31:24Z</date>
@@ -52,6 +56,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-02-02</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 408.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00408</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-02-02</actionDate>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-477.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-02</actionDate>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-477.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-01-21</actionDate>
         <committees>
@@ -285,6 +334,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-02-02T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2072rh/xml/BILLS-119hr2072rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-11T04:00:00Z</date>
         <formats>
@@ -295,8 +353,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-21</actionDate>
-      <text>Ordered to be Reported by the Yeas and Nays: 44 - 0.</text>
+      <actionDate>2026-02-02</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 408.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

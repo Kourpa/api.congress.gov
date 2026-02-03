@@ -27,6 +27,20 @@
       "type": "vote",
       "vote_type": "vote",
       "where": "s"
+    },
+    {
+      "acted_at": "2026-02-02T09:03:54-05:00",
+      "action_code": "H14000",
+      "references": [],
+      "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-02T09:10:05-05:00",
+      "action_code": "H15000",
+      "references": [],
+      "text": "Held at the desk.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -102,7 +116,11 @@
   "status": "PASS_OVER:SENATE",
   "status_at": "2026-01-27",
   "subjects": [
-    "Congress"
+    "Congress",
+    "Congressional leadership",
+    "Historical and cultural resources",
+    "U.S. Capitol",
+    "U.S. history"
   ],
   "subjects_top_term": "Congress",
   "summary": null,
@@ -129,6 +147,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-02T14:28:00Z",
+  "updated_at": "2026-02-03T09:05:58Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3705.xml"
 }

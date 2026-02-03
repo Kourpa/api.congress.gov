@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6616" updated="2026-01-08T14:38:27Z">
+<bill session="119" type="h" number="6616" updated="2026-02-03T09:05:41Z">
   <state datetime="2025-12-11">REFERRED</state>
   <status>
     <introduced datetime="2025-12-11"/>
@@ -21,10 +21,14 @@
     <action datetime="2025-12-11">
       <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-02-02">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW02" name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

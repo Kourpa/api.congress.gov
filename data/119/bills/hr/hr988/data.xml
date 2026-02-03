@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="988" updated="2026-01-28T21:08:22Z">
-  <state datetime="2025-11-20">REPORTED</state>
+<bill session="119" type="h" number="988" updated="2026-02-03T09:05:36Z">
+  <state datetime="2026-02-02T16:48:55-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-11-20"/>
+    <unknown datetime="2026-02-02T16:48:55-05:00"/>
   </status>
   <introduced datetime="2025-02-05"/>
   <titles>
@@ -29,6 +29,21 @@
     </action>
     <action datetime="2025-11-20" state="REPORTED">
       <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
+    <action datetime="2026-02-02T16:41:05-05:00">
+      <text>Mr. Jordan moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-02-02T16:41:16-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-02-02T16:41:18-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 988.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-02-02T16:48:55-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-02-02T16:48:58-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>
