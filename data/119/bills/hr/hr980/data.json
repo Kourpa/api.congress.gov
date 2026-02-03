@@ -98,7 +98,12 @@
     {
       "acted_at": "2026-02-02T16:49:56-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1929-1930",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -119,7 +124,12 @@
     {
       "acted_at": "2026-02-02T18:31:11-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1936",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -127,7 +137,12 @@
       "acted_at": "2026-02-02T18:57:44-05:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1929",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "49",
       "status": "PASS_OVER:HOUSE",
@@ -246,6 +261,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-03T09:05:54Z",
+  "updated_at": "2026-02-03T16:07:05Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr980.xml"
 }
