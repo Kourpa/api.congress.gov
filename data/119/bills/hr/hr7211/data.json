@@ -28,7 +28,12 @@
     {
       "acted_at": "2026-02-03T14:17:29-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1967",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by unanimous consent.",
       "type": "action"
     },
@@ -46,7 +51,12 @@
       "acted_at": "2026-02-03T14:17:53-05:00",
       "action_code": "H37100",
       "how": "without objection",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H1967",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -125,6 +135,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-02-04T09:07:22Z",
+  "updated_at": "2026-02-04T16:21:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7211.xml"
 }
