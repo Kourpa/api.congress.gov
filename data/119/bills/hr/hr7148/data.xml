@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7148" updated="2026-02-04T09:06:50Z">
-  <state datetime="2026-02-03T14:09:52-05:00">PASSED:BILL</state>
+<bill session="119" type="h" number="7148" updated="2026-02-04T16:11:14Z">
+  <state datetime="2026-02-03">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2026-02-03T14:09:52-05:00"/>
+    <unknown datetime="2026-02-03"/>
   </status>
   <introduced datetime="2026-01-20"/>
   <titles>
@@ -181,6 +181,9 @@
     <topresident datetime="2026-02-03">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2026-02-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>

@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="581" updated="2026-02-04T12:30:04Z">
+<bill session="119" type="sr" number="581" updated="2026-02-04T15:53:32Z">
   <state datetime="2026-02-03">PASSED:SIMPLERES</state>
   <status>
     <unknown datetime="2026-02-03"/>
@@ -18,13 +18,14 @@
     </action>
     <action datetime="2026-01-13" state="REFERRED">
       <text>Referred to the Committee on the Judiciary.</text>
-      <reference ref="CR S163" label="text"/>
     </action>
     <action datetime="2026-02-03">
       <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2026-02-03" where="s" result="pass" state="PASSED:SIMPLERES">
       <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S473" label="consideration"/>
+      <reference ref="CR 1/13/2026 S163" label="text"/>
     </vote>
   </actions>
   <committees>
