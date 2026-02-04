@@ -1,4 +1,4 @@
-<bill session="119" type="hj" number="142" updated="2026-02-03T17:32:01Z">
+<bill session="119" type="hj" number="142" updated="2026-02-04T12:36:13Z">
   <state datetime="2026-01-22">REFERRED</state>
   <status>
     <introduced datetime="2026-01-22"/>
@@ -19,11 +19,16 @@
     <action datetime="2026-01-22" state="REFERRED">
       <text>Referred to the House Committee on Oversight and Government Reform.</text>
     </action>
+    <action datetime="2026-02-03T09:26:11-05:00">
+      <text>Rules Committee Resolution H. Res. 1032 Reported to House. Rule provides for consideration of H.J. Res. 142 and H.R. 4090. The resolution provides for consideration of the Senate amendments to H.R. 7148. Also, the resolution provides for consideration of H.J. Res. 142 and H.R. 4090 under a closed rule and provides for one motion to recommit H.R. 4090.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="1032" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Government operations and politics"/>
   </subjects>

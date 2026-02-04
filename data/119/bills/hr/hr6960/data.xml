@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6960" updated="2026-01-21T16:06:57Z">
+<bill session="119" type="h" number="6960" updated="2026-02-04T09:06:37Z">
   <state datetime="2026-01-07">REFERRED</state>
   <status>
     <introduced datetime="2026-01-07"/>
@@ -32,11 +32,15 @@
     <action datetime="2026-01-07">
       <text>Referred to the Committee on Education and Workforce, and in addition to the Committees on Veterans' Affairs, House Administration, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-01-29">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR10" name="House Veterans' Affairs" subcommittee="Economic Opportunity" activity="Referral"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

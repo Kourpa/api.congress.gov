@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>688</number>
-    <updateDate>2026-01-10T07:09:09Z</updateDate>
-    <updateDateIncludingText>2026-01-10T07:09:09Z</updateDateIncludingText>
+    <updateDate>2026-02-04T12:03:15Z</updateDate>
+    <updateDateIncludingText>2026-02-04T12:03:15Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -18,6 +18,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-02-03T15:39:23Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2025-04-30T14:00:00Z</date>
@@ -48,6 +52,44 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 313.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-101.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-101.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-04-30</actionDate>
         <committees>
@@ -277,7 +319,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>FISH Act of 2025</title>
-        <updateDate>2025-12-02T12:03:45Z</updateDate>
+        <updateDate>2026-02-04T12:03:15Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -316,8 +358,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-30</actionDate>
-      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.</text>
+      <actionDate>2026-02-03</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 313.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

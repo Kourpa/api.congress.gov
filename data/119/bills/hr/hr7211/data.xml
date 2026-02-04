@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="7211" updated="2026-01-23T09:06:59Z">
-  <state datetime="2026-01-22">REFERRED</state>
+<bill session="119" type="h" number="7211" updated="2026-02-04T09:07:22Z">
+  <state datetime="2026-02-03T14:17:53-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2026-01-22"/>
+    <unknown datetime="2026-02-03T14:17:53-05:00"/>
   </status>
   <introduced datetime="2026-01-22"/>
   <titles>
-    <title type="display">To authorize the President to award the Medal of Honor to John W. Ripley for acts of valor during the Vietnam War, and for other purposes.</title>
     <title type="official" as="introduced">To authorize the President to award the Medal of Honor to John W. Ripley for acts of valor during the Vietnam War, and for other purposes.</title>
+    <title type="display">To authorize the President to award the Medal of Honor to John W. Ripley for acts of valor during the Vietnam War, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000568"/>
   <cosponsors/>
@@ -17,9 +17,24 @@
     <action datetime="2026-01-22" state="REFERRED">
       <text>Referred to the House Committee on Armed Services.</text>
     </action>
+    <action datetime="2026-02-03T14:17:28-05:00">
+      <text>Mr. Bacon asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2026-02-03T14:17:29-05:00">
+      <text>Considered by unanimous consent.</text>
+    </action>
+    <action datetime="2026-02-03">
+      <text>Committee on Armed Services discharged.</text>
+    </action>
+    <vote how="without objection" type="vote" datetime="2026-02-03T14:17:53-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="2026-02-03T14:17:55-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
+    <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

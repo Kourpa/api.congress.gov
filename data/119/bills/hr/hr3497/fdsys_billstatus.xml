@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3497</number>
-    <updateDate>2026-02-03T16:10:12Z</updateDate>
-    <updateDateIncludingText>2026-02-03T16:10:12Z</updateDateIncludingText>
+    <updateDate>2026-02-04T11:56:21Z</updateDate>
+    <updateDateIncludingText>2026-02-04T11:56:21Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,18 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 84 (Monday, May 19, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. MAST:H.R. 3497.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H2147]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-02-03T20:32:01Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsju00</systemCode>
         <name>Judiciary Committee</name>
@@ -37,6 +49,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-02-02</actionDate>
         <actionTime>16:40:54</actionTime>
@@ -62,7 +88,7 @@
       <item>
         <actionDate>2026-02-02</actionDate>
         <actionTime>16:40:51</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1925-1926)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -686,6 +712,26 @@
     <title>Medal of Sacrifice Act</title>
     <titles>
       <item>
+        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>To establish a medal of service for law enforcement officers and first responders.</title>
+        <updateDate>2026-02-04T04:08:18Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>Medal of Sacrifice Act</title>
+        <updateDate>2026-02-04T04:08:18Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
         <title>Medal of Sacrifice Act</title>
@@ -720,6 +766,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in House</type>
+        <date>2026-02-02T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr3497eh/xml/BILLS-119hr3497eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Reported in House</type>
         <date>2026-01-27T05:00:00Z</date>
         <formats>
@@ -739,9 +794,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-02-02</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>16:40:54</actionTime>
+      <actionDate>2026-02-03</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

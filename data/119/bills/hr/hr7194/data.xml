@@ -1,13 +1,14 @@
-<bill session="119" type="h" number="7194" updated="2026-01-22T20:35:04Z">
-  <state datetime="2026-01-21">REFERRED</state>
+<bill session="119" type="h" number="7194" updated="2026-02-04T09:09:13Z">
+  <state datetime="2026-02-03T14:19:49-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2026-01-21"/>
+    <unknown datetime="2026-02-03T14:19:49-05:00"/>
   </status>
   <introduced datetime="2026-01-21"/>
   <titles>
-    <title type="display">Kareem N. Dockery Medal of Honor Act</title>
-    <title type="short" as="introduced">Kareem N. Dockery Medal of Honor Act</title>
+    <title type="display">To authorize the President to award the Medal of Honor to Nicholas Dockery for acts of valor as a member of the Army while serving in Afghanistan</title>
     <title type="official" as="introduced">To authorize the President to award the Medal of Honor to Kareem N. Dockery for acts of valor as a member of the Army while serving in Afghanistan.</title>
+    <title type="official" as="amended by house">To authorize the President to award the Medal of Honor to Nicholas Dockery for acts of valor as a member of the Army while serving in Afghanistan</title>
+    <title type="short" as="introduced">Kareem N. Dockery Medal of Honor Act</title>
   </titles>
   <sponsor bioguide_id="B001307"/>
   <cosponsors/>
@@ -18,13 +19,33 @@
     <action datetime="2026-01-21" state="REFERRED">
       <text>Referred to the House Committee on Armed Services.</text>
     </action>
+    <action datetime="2026-02-03T14:18:40-05:00">
+      <text>Mr. Bacon asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2026-02-03">
+      <text>Committee on Armed Services discharged.</text>
+    </action>
+    <action datetime="2026-02-03T14:19:05-05:00">
+      <text>Considered by unanimous consent.</text>
+    </action>
+    <vote how="without objection" type="vote" datetime="2026-02-03T14:19:49-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed without objection.</text>
+    </vote>
+    <action datetime="2026-02-03T14:19:54-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2026-02-03T14:19:55-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
+    <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Armed forces and national security"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h160"/>
+  </amendments>
 </bill>

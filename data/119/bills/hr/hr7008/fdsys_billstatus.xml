@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7008</number>
-    <updateDate>2026-01-28T09:05:18Z</updateDate>
-    <updateDateIncludingText>2026-01-28T09:05:18Z</updateDateIncludingText>
+    <updateDate>2026-02-04T09:06:43Z</updateDate>
+    <updateDateIncludingText>2026-02-04T09:06:43Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -22,6 +22,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-02-03T18:47:34Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-01-14T17:00:00Z</date>
           </item>
@@ -33,6 +37,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 409.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00409</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <text>Reported (Amended) by the Committee on House Administration. H. Rept. 119-479.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <text>Reported (Amended) by the Committee on House Administration. H. Rept. 119-479.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-01-14</actionDate>
         <committees>
@@ -1173,6 +1222,16 @@
     <title>Stop Insider Trading Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Stop Insider Trading Act</title>
+        <updateDate>2026-02-04T04:23:15Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Stop Insider Trading Act</title>
@@ -1197,6 +1256,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-02-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr7008rh/xml/BILLS-119hr7008rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2026-01-12T05:00:00Z</date>
         <formats>
@@ -1207,8 +1275,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-14</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 7 - 4.</text>
+      <actionDate>2026-02-03</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 409.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

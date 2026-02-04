@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7260</number>
-    <updateDate>2026-01-28T09:05:41Z</updateDate>
-    <updateDateIncludingText>2026-01-28T11:13:17Z</updateDateIncludingText>
+    <updateDate>2026-02-04T09:07:02Z</updateDate>
+    <updateDateIncludingText>2026-02-04T09:07:02Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,18 @@
         <name>Veterans' Affairs Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr09</systemCode>
+            <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-30T16:40:38Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -29,6 +41,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr09</systemCode>
+            <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-01-27</actionDate>
         <text>Referred to the House Committee on Veterans' Affairs.</text>
@@ -107,8 +134,8 @@
       </item>
     </titles>
     <latestAction>
-      <actionDate>2026-01-27</actionDate>
-      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2026-01-30</actionDate>
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

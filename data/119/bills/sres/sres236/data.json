@@ -2,9 +2,12 @@
   "actions": [
     {
       "acted_at": "2025-05-20",
-      "action_code": "10000",
+      "action_code": "10025",
+      "committees": [
+        "SSFR"
+      ],
       "references": [],
-      "text": "Introduced in Senate",
+      "text": "Submitted in Senate",
       "type": "action"
     },
     {
@@ -32,6 +35,7 @@
   "committees": [
     {
       "activity": [
+        "Referred To",
         "Referred To"
       ],
       "committee": "Senate Foreign Relations",
@@ -211,6 +215,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "R000605",
+      "district": null,
+      "name": "Rounds, Mike",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-02-03",
+      "state": "SD",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "S001194",
       "district": null,
       "name": "Schatz, Brian",
@@ -332,6 +346,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-10T11:56:31Z",
+  "updated_at": "2026-02-04T12:26:05Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres236.xml"
 }

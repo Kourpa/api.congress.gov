@@ -2,9 +2,12 @@
   "actions": [
     {
       "acted_at": "2025-10-08",
-      "action_code": "10000",
+      "action_code": "10025",
+      "committees": [
+        "SSFR"
+      ],
       "references": [],
-      "text": "Introduced in Senate",
+      "text": "Submitted in Senate",
       "type": "action"
     },
     {
@@ -27,6 +30,7 @@
   "committees": [
     {
       "activity": [
+        "Referred To",
         "Referred To"
       ],
       "committee": "Senate Foreign Relations",
@@ -35,6 +39,16 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "A000382",
+      "district": null,
+      "name": "Alsobrooks, Angela D.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-02-03",
+      "state": "MD",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "B001261",
       "district": null,
@@ -230,6 +244,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-19T21:15:47Z",
+  "updated_at": "2026-02-04T12:26:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres442.xml"
 }

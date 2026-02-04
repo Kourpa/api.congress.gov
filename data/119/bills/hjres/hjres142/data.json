@@ -17,6 +17,18 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Oversight and Government Reform.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-02-03T09:26:11-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1032-119",
+        "hr4090-119",
+        "hr7148-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1032 Reported to House. Rule provides for consideration of H.J. Res. 142 and H.R. 4090. The resolution provides for consideration of the Senate amendments to H.R. 7148. Also, the resolution provides for consideration of H.J. Res. 142 and H.R. 4090 under a closed rule and provides for one motion to recommit H.R. 4090.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -48,7 +60,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-02-03T09:26:11-05:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -57,7 +70,14 @@
   "number": "142",
   "official_title": "Disapproving the action of the District of Columbia Council in approving the D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1032-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "G000603",
@@ -95,6 +115,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-02-03T17:32:01Z",
+  "updated_at": "2026-02-04T12:36:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres142.xml"
 }

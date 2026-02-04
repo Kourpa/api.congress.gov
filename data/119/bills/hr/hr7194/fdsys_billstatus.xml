@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7194</number>
-    <updateDate>2026-01-22T20:35:04Z</updateDate>
-    <updateDateIncludingText>2026-01-22T20:35:04Z</updateDateIncludingText>
+    <updateDate>2026-02-04T09:09:13Z</updateDate>
+    <updateDateIncludingText>2026-02-04T09:09:13Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -22,6 +22,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2026-02-03T19:18:41Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2026-01-21T15:02:25Z</date>
           </item>
@@ -29,6 +33,104 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <actionTime>14:19:55</actionTime>
+        <text>The title of the measure was amended. Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38800</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <actionTime>14:19:54</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <actionTime>14:19:49</actionTime>
+        <text>On passage Passed without objection.</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <actionTime>14:19:49</actionTime>
+        <text>Passed/agreed to in House: On passage Passed without objection.</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <actionTime>14:19:05</actionTime>
+        <text>Considered by unanimous consent.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <text>Committee on Armed Services discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <text>Committee on Armed Services discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-03</actionDate>
+        <actionTime>14:18:40</actionTime>
+        <text>Mr. Bacon asked unanimous consent to discharge from committee and consider.</text>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2026-01-21</actionDate>
         <text>Referred to the House Committee on Armed Services.</text>
@@ -89,13 +191,21 @@
         <updateDate>2026-01-22T20:35:04Z</updateDate>
       </policyArea>
     </subjects>
-    <title>Kareem N. Dockery Medal of Honor Act</title>
+    <title>To authorize the President to award the Medal of Honor to Nicholas Dockery for acts of valor as a member of the Army while serving in Afghanistan</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>Kareem N. Dockery Medal of Honor Act</title>
-        <updateDate>2026-01-22T09:23:21Z</updateDate>
+        <title>To authorize the President to award the Medal of Honor to Nicholas Dockery for acts of valor as a member of the Army while serving in Afghanistan</title>
+        <updateDate>2026-02-03T21:18:15Z</updateDate>
+      </item>
+      <item>
+        <titleType>Official Titles as Amended by House</titleType>
+        <titleTypeCode>7</titleTypeCode>
+        <title>To authorize the President to award the Medal of Honor to Nicholas Dockery for acts of valor as a member of the Army while serving in Afghanistan</title>
+        <updateDate>2026-02-03T21:15:03Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -114,6 +224,91 @@
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>160</number>
+        <congress>119</congress>
+        <type>HAMDT</type>
+        <description>An amendment to strike all after the enacting clause and insert a new text entitled "Nicholas Dockery Medal of Honor Act".</description>
+        <updateDate>2026-02-04T09:09:13Z</updateDate>
+        <latestAction>
+          <actionDate>2026-02-03</actionDate>
+          <text>On agreeing to the Bacon amendment (A001) Agreed to without objection.</text>
+          <actionTime>14:19:42</actionTime>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>B001298</bioguideId>
+            <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+            <firstName>Don</firstName>
+            <lastName>Bacon</lastName>
+            <party>R</party>
+            <state>NE</state>
+            <district>2</district>
+          </item>
+        </sponsors>
+        <submittedDate>2026-02-03T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7194</number>
+          <title>To authorize the President to award the Medal of Honor to Nicholas Dockery for acts of valor as a member of the Army while serving in Afghanistan</title>
+          <updateDateIncludingText>2026-02-04</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-02-03</actionDate>
+              <actionTime>14:19:42</actionTime>
+              <text>On agreeing to the Bacon amendment (A001) Agreed to without objection.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-02-03</actionDate>
+              <actionTime>14:19:15</actionTime>
+              <text>Amendment (A001) in the nature of a substitute offered by Mr. Bacon.</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-02-03</actionDate>
+              <actionTime>14:19:15</actionTime>
+              <text>House Amendment Offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-02-03</actionDate>
+              <actionTime>14:19:42</actionTime>
+              <text>House amendment agreed to: On agreeing to the Bacon amendment (A001) Agreed to without objection.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Introduced in House</type>
@@ -126,8 +321,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-21</actionDate>
-      <text>Referred to the House Committee on Armed Services.</text>
+      <actionDate>2026-02-03</actionDate>
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+      <actionTime>14:19:55</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1028" updated="2025-12-19T09:07:47Z">
-  <state datetime="2025-02-05">REFERRED</state>
+<bill session="119" type="h" number="1028" updated="2026-02-04T09:07:21Z">
+  <state datetime="2026-02-03">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-05"/>
+    <unknown datetime="2026-02-03"/>
   </status>
   <introduced datetime="2025-02-05"/>
   <titles>
@@ -76,6 +76,7 @@
     <cosponsor bioguide_id="T000490" joined="2025-09-04"/>
     <cosponsor bioguide_id="T000478" joined="2025-02-05"/>
     <cosponsor bioguide_id="T000480" joined="2025-02-05"/>
+    <cosponsor bioguide_id="V000133" joined="2026-02-03"/>
     <cosponsor bioguide_id="V000135" joined="2025-02-05"/>
     <cosponsor bioguide_id="W000814" joined="2025-02-05"/>
     <cosponsor bioguide_id="W000806" joined="2025-02-05"/>
@@ -90,9 +91,15 @@
     <action datetime="2025-02-05" state="REFERRED">
       <text>Referred to the House Committee on the Judiciary.</text>
     </action>
+    <action datetime="2026-02-03">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-02-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 10.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="405" relation="identical"/>

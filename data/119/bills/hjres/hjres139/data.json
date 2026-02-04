@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-02-03",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-03",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by the Yeas and Nays: 16 - 10.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Judiciary",
@@ -58,7 +80,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-02-03",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -77,8 +100,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-01-09",
+  "status": "REPORTED",
+  "status_at": "2026-02-03",
   "subjects": [
     "Economics and public finance"
   ],
@@ -100,6 +123,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-14T09:06:35Z",
+  "updated_at": "2026-02-04T09:07:02Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres139.xml"
 }

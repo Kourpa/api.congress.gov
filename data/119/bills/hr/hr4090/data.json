@@ -88,6 +88,28 @@
       "text": "Placed on the Union Calendar, Calendar No. 337.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-02-03T09:26:11-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1032-119",
+        "hjres142-119",
+        "hr7148-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1032 Reported to House. Rule provides for consideration of H.J. Res. 142 and H.R. 4090. The resolution provides for consideration of the Senate amendments to H.R. 7148. Also, the resolution provides for consideration of H.J. Res. 142 and H.R. 4090 under a closed rule and provides for one motion to recommit H.R. 4090.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-03T12:34:39-05:00",
+      "action_code": "H1L220",
+      "bill_ids": [
+        "hres1032-119"
+      ],
+      "references": [],
+      "text": "Rule H. Res. 1032 passed House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -154,7 +176,14 @@
   "number": "4090",
   "official_title": "To codify certain provisions of certain Executive Orders relating to domestic mining and hardrock mineral resources, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1032-119",
+      "identified_by": "House",
+      "reason": "procedurally related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Critical Mineral Dominance Act",
   "sponsor": {
     "bioguide_id": "S001212",
@@ -205,6 +234,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-02T15:03:52Z",
+  "updated_at": "2026-02-04T09:07:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4090.xml"
 }

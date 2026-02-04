@@ -1,4 +1,4 @@
-<bill session="119" type="hj" number="143" updated="2026-01-27T13:27:55Z">
+<bill session="119" type="hj" number="143" updated="2026-02-04T09:07:21Z">
   <state datetime="2026-01-22">REFERRED</state>
   <status>
     <introduced datetime="2026-01-22"/>
@@ -78,8 +78,13 @@
     <action datetime="2026-01-22">
       <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Veterans' Affairs, Armed Services, Energy and Commerce, Transportation and Infrastructure, Financial Services, Education and Workforce, Oversight and Government Reform, Foreign Affairs, Agriculture, Natural Resources, Small Business, Science, Space, and Technology, Homeland Security, Intelligence (Permanent Select), House Administration, Ways and Means, Rules, Ethics, the Budget, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-01-29">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Referral"/>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Referred To"/>
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>
     <committee code="HSSO" name="House Ethics" subcommittee="" activity="Referred To"/>
@@ -99,7 +104,6 @@
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

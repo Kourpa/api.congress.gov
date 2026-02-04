@@ -17,9 +17,67 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Armed Services.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-02-03T14:18:40-05:00",
+      "action_code": "H30200",
+      "references": [],
+      "text": "Mr. Bacon asked unanimous consent to discharge from committee and consider.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-03",
+      "action_code": "H12300",
+      "committees": [
+        "HSAS"
+      ],
+      "references": [],
+      "text": "Committee on Armed Services discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-03T14:19:05-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-03T14:19:49-05:00",
+      "action_code": "H37100",
+      "how": "without objection",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed without objection.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-02-03T14:19:54-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-03T14:19:55-05:00",
+      "action_code": "H38800",
+      "references": [],
+      "text": "The title of the measure was amended. Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt160-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "160"
+    }
+  ],
   "bill_id": "hr7194-119",
   "bill_type": "hr",
   "by_request": false,
@@ -27,6 +85,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Armed Services",
@@ -37,14 +96,17 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-02-03T14:18:40-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-02-03T14:19:49-05:00",
     "vetoed": false
   },
   "introduced_at": "2026-01-21",
   "number": "7194",
-  "official_title": "To authorize the President to award the Medal of Honor to Kareem N. Dockery for acts of valor as a member of the Army while serving in Afghanistan.",
+  "official_title": "To authorize the President to award the Medal of Honor to Nicholas Dockery for acts of valor as a member of the Army while serving in Afghanistan",
   "popular_title": null,
   "related_bills": [],
   "short_title": "Kareem N. Dockery Medal of Honor Act",
@@ -56,8 +118,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-01-21",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-02-03T14:19:49-05:00",
   "subjects": [
     "Armed forces and national security"
   ],
@@ -68,15 +130,8 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Kareem N. Dockery Medal of Honor Act",
+      "title": "To authorize the President to award the Medal of Honor to Nicholas Dockery for acts of valor as a member of the Army while serving in Afghanistan",
       "type": "display"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Kareem N. Dockery Medal of Honor Act",
-      "type": "short"
     },
     {
       "as": "introduced",
@@ -84,8 +139,22 @@
       "textVersionCode": null,
       "title": "To authorize the President to award the Medal of Honor to Kareem N. Dockery for acts of valor as a member of the Army while serving in Afghanistan.",
       "type": "official"
+    },
+    {
+      "as": "amended by house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To authorize the President to award the Medal of Honor to Nicholas Dockery for acts of valor as a member of the Army while serving in Afghanistan",
+      "type": "official"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Kareem N. Dockery Medal of Honor Act",
+      "type": "short"
     }
   ],
-  "updated_at": "2026-01-22T20:35:04Z",
+  "updated_at": "2026-02-04T09:09:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7194.xml"
 }

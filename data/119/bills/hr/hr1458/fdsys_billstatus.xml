@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1458</number>
-    <updateDate>2026-02-03T20:51:31Z</updateDate>
-    <updateDateIncludingText>2026-02-03T20:51:31Z</updateDateIncludingText>
+    <updateDate>2026-02-04T11:56:22Z</updateDate>
+    <updateDateIncludingText>2026-02-04T11:56:22Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,18 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 35 (Friday, February 21, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. CISCOMANI:H.R. 1458.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H729]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>ssva00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-02-03T21:00:38Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsvr00</systemCode>
         <name>Veterans' Affairs Committee</name>
@@ -101,6 +113,20 @@
     </relatedBills>
     <actions>
       <item>
+        <actionDate>2026-02-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2026-02-02</actionDate>
         <actionTime>17:36:54</actionTime>
         <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -125,7 +151,7 @@
       <item>
         <actionDate>2026-02-02</actionDate>
         <actionTime>17:36:52</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1933-1934)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -502,9 +528,39 @@
     <title>VETS Opportunity Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>VETS Opportunity Act of 2025</title>
+        <updateDate>2026-02-04T04:23:15Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>To amend title 38, United States Code, to modify the criteria for approval of certain independent study programs for purposes of the educational assistance programs of the Department of Veterans Affairs.</title>
+        <updateDate>2026-02-04T04:23:15Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>Veterans Education and Technical Skills Opportunity Act of 2025</title>
+        <updateDate>2026-02-04T04:23:15Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
-        <title>VETS Opportunity Act of 2025</title>
+        <title>Veterans Education and Technical Skills Opportunity Act of 2025</title>
         <updateDate>2025-09-27T03:23:12Z</updateDate>
         <chamberCode>H</chamberCode>
         <chamberName>House</chamberName>
@@ -514,7 +570,7 @@
       <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
-        <title>Veterans Education and Technical Skills Opportunity Act of 2025</title>
+        <title>VETS Opportunity Act of 2025</title>
         <updateDate>2025-09-27T03:23:12Z</updateDate>
         <chamberCode>H</chamberCode>
         <chamberName>House</chamberName>
@@ -530,7 +586,7 @@
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
-        <title>VETS Opportunity Act of 2025</title>
+        <title>Veterans Education and Technical Skills Opportunity Act of 2025</title>
         <updateDate>2025-03-17T12:38:23Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
@@ -538,7 +594,7 @@
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
-        <title>Veterans Education and Technical Skills Opportunity Act of 2025</title>
+        <title>VETS Opportunity Act of 2025</title>
         <updateDate>2025-03-17T12:38:23Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
@@ -553,6 +609,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2026-02-02T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr1458eh/xml/BILLS-119hr1458eh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Reported in House</type>
         <date>2025-09-26T04:00:00Z</date>
@@ -573,9 +638,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-02-02</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>17:36:54</actionTime>
+      <actionDate>2026-02-03</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
