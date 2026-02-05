@@ -118,6 +118,46 @@
       "references": [],
       "text": "Ordered to be Reported by the Yeas and Nays: 51 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-02-04",
+      "action_code": "H12200",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 119-487, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-04",
+      "action_code": "H12200",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Natural Resources. H. Rept. 119-487, Part II.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-04",
+      "action_code": "H12300",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Committee on Agriculture discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-04",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "416",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 416.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -128,6 +168,33 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Commodity Markets, Digital Assets, and Rural Development",
+      "subcommittee_id": "22"
+    },
+    {
+      "activity": [
+        "Reported By",
+        "Markup By",
+        "Referred To"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
@@ -144,31 +211,6 @@
       "committee_id": "HSIF",
       "subcommittee": "Subcommittee on Communications and Technology",
       "subcommittee_id": "16"
-    },
-    {
-      "activity": [
-        "Markup By",
-        "Referred To"
-      ],
-      "committee": "House Natural Resources",
-      "committee_id": "HSII"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Agriculture",
-      "committee_id": "HSAG"
-    },
-    {
-      "activity": [
-        "referral",
-        "referral"
-      ],
-      "committee": "House Agriculture",
-      "committee_id": "HSAG",
-      "subcommittee": "Subcommittee on Commodity Markets, Digital Assets, and Rural Development",
-      "subcommittee_id": "22"
     }
   ],
   "congress": "119",
@@ -245,13 +287,6 @@
   },
   "titles": [
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "DIGITAL Applications Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -266,6 +301,27 @@
       "type": "short"
     },
     {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Deploying Infrastructure with Greater Internet Transactions And Legacy Applications Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "DIGITAL Applications Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "DIGITAL Applications Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -273,6 +329,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-08T09:06:55Z",
+  "updated_at": "2026-02-05T09:06:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1665.xml"
 }

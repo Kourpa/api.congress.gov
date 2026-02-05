@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="4758" updated="2026-01-15T18:35:16Z">
+<bill session="119" type="h" number="4758" updated="2026-02-05T09:06:34Z">
   <state datetime="2025-12-03">REPORTED</state>
   <status>
     <unknown datetime="2025-12-03"/>
   </status>
   <introduced datetime="2025-07-25"/>
   <titles>
-    <title type="display">Homeowner Energy Freedom Act</title>
     <title type="short" as="introduced">Homeowner Energy Freedom Act</title>
+    <title type="short" as="reported to house">Homeowner Energy Freedom Act</title>
+    <title type="display">Homeowner Energy Freedom Act</title>
     <title type="official" as="introduced">To repeal provisions of Public Law 117-169 relating to taxpayer subsidies for home electrification, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000601"/>
@@ -36,9 +37,15 @@
     <action datetime="2025-12-03" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 25 - 21.</text>
     </action>
+    <action datetime="2026-02-04">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-484.</text>
+    </action>
+    <calendar datetime="2026-02-04" calendar="Union" number="414">
+      <text>Placed on the Union Calendar, Calendar No. 414.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills/>
