@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="34" updated="2025-10-15T08:05:33Z">
+<bill session="119" type="h" number="34" updated="2026-02-05T09:06:48Z">
   <state datetime="2025-01-03">REFERRED</state>
   <status>
     <introduced datetime="2025-01-03"/>
@@ -40,11 +40,15 @@
     <action datetime="2025-01-31">
       <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
     </action>
+    <action datetime="2026-02-03">
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Referral"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSAG15" name="House Agriculture" subcommittee="Forestry and Horticulture" activity="Referral"/>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

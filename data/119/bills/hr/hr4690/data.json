@@ -88,6 +88,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 27 - 21.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-02-04",
+      "action_code": "H12200",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-483, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-04",
+      "action_code": "H12300",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Committee on Transportation discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-04",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "413",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 413.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -98,6 +128,24 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management",
+      "subcommittee_id": "13"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
@@ -114,22 +162,6 @@
       "committee_id": "HSIF",
       "subcommittee": "Subcommittee on Energy",
       "subcommittee_id": "03"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Transportation and Infrastructure",
-      "committee_id": "HSPW"
-    },
-    {
-      "activity": [
-        "referral"
-      ],
-      "committee": "House Transportation and Infrastructure",
-      "committee_id": "HSPW",
-      "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management",
-      "subcommittee_id": "13"
     }
   ],
   "congress": "119",
@@ -218,7 +250,7 @@
   "official_title": "To amend the Energy Conservation and Production Act to repeal certain Federal building energy efficiency performance standards, and for other purposes.",
   "popular_title": null,
   "related_bills": [],
-  "short_title": "Reliable Federal infrastructure Act",
+  "short_title": "Reliable Federal Infrastructure Act",
   "sponsor": {
     "bioguide_id": "L000600",
     "district": "23",
@@ -243,7 +275,7 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Reliable Federal infrastructure Act",
+      "title": "Reliable Federal Infrastructure Act",
       "type": "display"
     },
     {
@@ -254,6 +286,13 @@
       "type": "short"
     },
     {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Reliable Federal Infrastructure Act",
+      "type": "short"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -261,6 +300,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-10T18:42:07Z",
+  "updated_at": "2026-02-05T09:06:52Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4690.xml"
 }

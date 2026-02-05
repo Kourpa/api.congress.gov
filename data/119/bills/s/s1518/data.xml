@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1518" updated="2025-12-10T12:03:18Z">
-  <state datetime="2025-04-29">REFERRED</state>
+<bill session="119" type="s" number="1518" updated="2026-02-05T12:03:16Z">
+  <state datetime="2026-02-04">REPORTED</state>
   <status>
-    <introduced datetime="2025-04-29"/>
+    <unknown datetime="2026-02-04"/>
   </status>
   <introduced datetime="2025-04-29"/>
   <titles>
@@ -23,14 +23,23 @@
     <action datetime="2025-12-09">
       <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
     </action>
+    <action datetime="2026-02-04" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="SSEG04" name="Senate Energy and Natural Resources" subcommittee="National Parks" activity="Hearings By (Subcommittee)"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Public lands and natural resources"/>
+    <term name="Geography and mapping"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Military history"/>
+    <term name="New York State"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="U.S. history"/>
   </subjects>
   <amendments/>
 </bill>

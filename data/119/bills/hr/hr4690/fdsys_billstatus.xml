@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4690</number>
-    <updateDate>2025-12-10T18:42:07Z</updateDate>
-    <updateDateIncludingText>2025-12-10T18:42:07Z</updateDateIncludingText>
+    <updateDate>2026-02-05T09:06:52Z</updateDate>
+    <updateDateIncludingText>2026-02-05T09:06:52Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,34 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 126 (Wednesday, July 23, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. LANGWORTHY:H.R. 4690.Congress has the power to enact this legislation pursuantto the following:Clause 3 of Section 8 of Article 1 of the Constitution[Page H3648]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-07-24T21:29:21Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-02-04T17:42:36Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-07-23T14:07:20Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsif00</systemCode>
         <name>Energy and Commerce Committee</name>
@@ -42,6 +70,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-02-04T17:42:06Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-12-03T22:04:26Z</date>
           </item>
@@ -51,32 +83,85 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hspw00</systemCode>
-        <name>Transportation and Infrastructure Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <subcommittees>
-          <item>
-            <systemCode>hspw13</systemCode>
-            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
-            <activities>
-              <item>
-                <name>Referred to</name>
-                <date>2025-07-24T21:29:21Z</date>
-              </item>
-            </activities>
-          </item>
-        </subcommittees>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-07-23T14:07:20Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-02-04</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 413.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00413</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-02-04</actionDate>
+        <text>Committee on Transportation discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-04</actionDate>
+        <text>Committee on Transportation discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-04</actionDate>
+        <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-483, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-04</actionDate>
+        <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-483, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-12-03</actionDate>
         <committees>
@@ -341,13 +426,23 @@
         <updateDate>2025-09-23T17:30:38Z</updateDate>
       </policyArea>
     </subjects>
-    <title>Reliable Federal infrastructure Act</title>
+    <title>Reliable Federal Infrastructure Act</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>Reliable Federal infrastructure Act</title>
-        <updateDate>2025-09-10T04:23:22Z</updateDate>
+        <title>Reliable Federal Infrastructure Act</title>
+        <updateDate>2026-02-05T08:38:24Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Reliable Federal Infrastructure Act</title>
+        <updateDate>2026-02-05T08:38:23Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -368,6 +463,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-02-04T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr4690rh/xml/BILLS-119hr4690rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-07-23T04:00:00Z</date>
         <formats>
@@ -378,8 +482,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-03</actionDate>
-      <text>Ordered to be Reported by the Yeas and Nays: 27 - 21.</text>
+      <actionDate>2026-02-04</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 413.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

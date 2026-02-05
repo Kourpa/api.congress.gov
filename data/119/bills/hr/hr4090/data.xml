@@ -1,13 +1,15 @@
-<bill session="119" type="h" number="4090" updated="2026-02-04T19:51:13Z">
-  <state datetime="2025-09-17">REPORTED</state>
+<bill session="119" type="h" number="4090" updated="2026-02-05T09:09:14Z">
+  <state datetime="2026-02-04T16:07:00-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-09-17"/>
+    <unknown datetime="2026-02-04T16:07:00-05:00"/>
   </status>
   <introduced datetime="2025-06-23"/>
   <titles>
-    <title type="display">Critical Mineral Dominance Act</title>
-    <title type="short" as="reported to house">Critical Mineral Dominance Act</title>
     <title type="official" as="introduced">To codify certain provisions of certain Executive Orders relating to domestic mining and hardrock mineral resources, and for other purposes.</title>
+    <title type="official">To codify certain provisions of certain Executive Orders relating to domestic mining and hardrock mineral resources, and for other purposes.</title>
+    <title type="short" as="reported to house">Critical Mineral Dominance Act</title>
+    <title type="short" as="passed house">Critical Mineral Dominance Act</title>
+    <title type="display">Critical Mineral Dominance Act</title>
   </titles>
   <sponsor bioguide_id="S001212"/>
   <cosponsors>
@@ -48,9 +50,42 @@
     <action datetime="2026-02-03T12:34:39-05:00">
       <text>Rule H. Res. 1032 passed House.</text>
     </action>
+    <action datetime="2026-02-04T12:20:41-05:00">
+      <text>Considered under the provisions of rule H. Res. 1032.</text>
+    </action>
+    <action datetime="2026-02-04T12:20:46-05:00">
+      <text>Rule provides for consideration of H.J. Res. 142 and H.R. 4090. The resolution provides for consideration of the Senate amendments to H.R. 7148. Also, the resolution provides for consideration of H.J. Res. 142 and H.R. 4090 under a closed rule and provides for one motion to recommit H.R. 4090.</text>
+    </action>
+    <action datetime="2026-02-04T12:22:10-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 4090.</text>
+    </action>
+    <action datetime="2026-02-04T13:18:58-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-02-04T13:19:29-05:00">
+      <text>Ms. Leger Fernandez moved to recommit to the Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2026-02-04T13:19:40-05:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-02-04T13:20:01-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 4090, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Ms. Leger Fernandez demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-02-04T15:31:10-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-02-04T16:00:36-05:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 209 - 212 (Roll no. 54).</text>
+    </action>
+    <vote how="roll" type="vote" roll="55" datetime="2026-02-04T16:07:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 224 - 195 (Roll no. 55).</text>
+    </vote>
+    <action datetime="2026-02-04T16:07:01-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSII06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>
@@ -65,7 +100,9 @@
     <term name="Metals"/>
     <term name="Mining"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h161"/>
+  </amendments>
   <summary date="2026-02-02T15:00:56Z" status="Reported to House"></summary>
   <committee-reports>
     <report>H. Rept. 119-387</report>
