@@ -1,4 +1,4 @@
-<bill session="119" type="sc" number="25" updated="2026-02-06T11:56:25Z">
+<bill session="119" type="sc" number="25" updated="2026-02-06T17:38:24Z">
   <state datetime="2026-02-05">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2026-02-05"/>
@@ -58,13 +58,14 @@
     </action>
     <action datetime="2026-01-08" state="REFERRED">
       <text>Referred to the Committee on the Judiciary.</text>
-      <reference ref="CR S118-119" label="text"/>
     </action>
     <action datetime="2026-02-05">
       <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2026-02-05" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S516" label="consideration"/>
+      <reference ref="CR 1/8/2026 S118-119" label="text"/>
     </vote>
   </actions>
   <committees>
@@ -75,6 +76,11 @@
   </relatedbills>
   <subjects>
     <term name="Crime and law enforcement"/>
+    <term name="Arizona"/>
+    <term name="Congressional tributes"/>
+    <term name="Firearms and explosives"/>
+    <term name="Members of Congress"/>
+    <term name="Violent crime"/>
   </subjects>
   <amendments/>
 </bill>
