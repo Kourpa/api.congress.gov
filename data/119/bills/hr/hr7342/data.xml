@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7342" updated="2026-02-05T09:06:58Z">
+<bill session="119" type="h" number="7342" updated="2026-02-06T09:06:35Z">
   <state datetime="2026-02-04">REFERRED</state>
   <status>
     <introduced datetime="2026-02-04"/>
@@ -22,10 +22,14 @@
     <action datetime="2026-02-04">
       <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-02-05">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

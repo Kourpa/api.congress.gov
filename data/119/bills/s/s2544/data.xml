@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2544" updated="2026-02-05T12:03:16Z">
-  <state datetime="2025-07-30">REFERRED</state>
+<bill session="119" type="s" number="2544" updated="2026-02-06T12:03:17Z">
+  <state datetime="2026-02-05">REPORTED</state>
   <status>
-    <introduced datetime="2025-07-30"/>
+    <unknown datetime="2026-02-05"/>
   </status>
   <introduced datetime="2025-07-30"/>
   <titles>
@@ -13,9 +13,12 @@
   <sponsor bioguide_id="B001319"/>
   <cosponsors>
     <cosponsor bioguide_id="C001088" joined="2026-02-04"/>
+    <cosponsor bioguide_id="C001098" joined="2026-02-05"/>
     <cosponsor bioguide_id="G000555" joined="2025-07-30"/>
+    <cosponsor bioguide_id="G000386" joined="2026-02-05"/>
     <cosponsor bioguide_id="K000367" joined="2026-02-04"/>
     <cosponsor bioguide_id="L000575" joined="2025-12-11"/>
+    <cosponsor bioguide_id="M001244" joined="2026-02-05"/>
     <cosponsor bioguide_id="S001217" joined="2025-07-30"/>
     <cosponsor bioguide_id="W000790" joined="2025-12-11"/>
   </cosponsors>
@@ -26,9 +29,12 @@
     <action datetime="2025-07-30" state="REFERRED">
       <text>Read twice and referred to the Committee on the Judiciary.</text>
     </action>
+    <action datetime="2026-02-05" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To, Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Markup By, Referred To, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="2978" relation="unknown"/>

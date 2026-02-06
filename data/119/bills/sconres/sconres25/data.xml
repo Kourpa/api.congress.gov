@@ -1,7 +1,7 @@
-<bill session="119" type="sc" number="25" updated="2026-01-15T11:56:22Z">
-  <state datetime="2026-01-08">REFERRED</state>
+<bill session="119" type="sc" number="25" updated="2026-02-06T11:56:25Z">
+  <state datetime="2026-02-05">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2026-01-08"/>
+    <unknown datetime="2026-02-05"/>
   </status>
   <introduced datetime="2026-01-08"/>
   <titles>
@@ -60,9 +60,15 @@
       <text>Referred to the Committee on the Judiciary.</text>
       <reference ref="CR S118-119" label="text"/>
     </action>
+    <action datetime="2026-02-05">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-02-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hc" number="69" relation="identical"/>
