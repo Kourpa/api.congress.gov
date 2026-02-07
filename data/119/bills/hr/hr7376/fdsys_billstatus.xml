@@ -3,21 +3,35 @@
   <version>3.0.0</version>
   <bill>
     <number>7376</number>
-    <updateDate>2026-02-05T09:06:12Z</updateDate>
-    <updateDateIncludingText>2026-02-05T09:06:12Z</updateDateIncludingText>
+    <updateDate>2026-02-07T09:05:36Z</updateDate>
+    <updateDateIncludingText>2026-02-07T09:05:36Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2026-02-04</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/7376</legislationUrl>
-    <cdata/>
+    <cdata>
+      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 172, Number 25 (Wednesday, February 4, 2026)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Ms. SCHOLTEN:H.R. 7376.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2032]&lt;/pre&gt;</constitutionalAuthorityStatementText>
+    </cdata>
     <committees>
       <item>
         <systemCode>hspw00</systemCode>
         <name>Transportation and Infrastructure Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw02</systemCode>
+            <name>Water Resources and Environment Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-02-05T18:05:16Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -27,6 +41,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-02-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw02</systemCode>
+            <name>Water Resources and Environment Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-02-04</actionDate>
         <text>Referred to the House Committee on Transportation and Infrastructure.</text>
@@ -91,24 +120,45 @@
         <isOriginalCosponsor>True</isOriginalCosponsor>
       </item>
     </cosponsors>
-    <title>To amend the Federal Water Pollution Control Act to reauthorize certain programs relating to nonpoint source management, and for other purposes.</title>
+    <title>Local Water Protection Act</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>To amend the Federal Water Pollution Control Act to reauthorize certain programs relating to nonpoint source management, and for other purposes.</title>
-        <updateDate>2026-02-05T09:06:12Z</updateDate>
+        <title>Local Water Protection Act</title>
+        <updateDate>2026-02-07T05:08:21Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <titleTypeCode>101</titleTypeCode>
+        <title>Local Water Protection Act</title>
+        <updateDate>2026-02-07T05:08:20Z</updateDate>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
         <titleTypeCode>6</titleTypeCode>
         <title>To amend the Federal Water Pollution Control Act to reauthorize certain programs relating to nonpoint source management, and for other purposes.</title>
-        <updateDate>2026-02-05T09:06:12Z</updateDate>
+        <updateDate>2026-02-07T05:03:30Z</updateDate>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
       </item>
     </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2026-02-04T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr7376ih/xml/BILLS-119hr7376ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
     <latestAction>
-      <actionDate>2026-02-04</actionDate>
-      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      <actionDate>2026-02-05</actionDate>
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

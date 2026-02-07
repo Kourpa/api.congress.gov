@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Transportation and Infrastructure.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-02-05",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Water Resources and Environment.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Transportation and Infrastructure",
       "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Water Resources and Environment",
+      "subcommittee_id": "02"
     }
   ],
   "congress": "119",
@@ -58,7 +77,7 @@
   "official_title": "To amend the Federal Water Pollution Control Act to reauthorize certain programs relating to nonpoint source management, and for other purposes.",
   "popular_title": null,
   "related_bills": [],
-  "short_title": null,
+  "short_title": "Local Water Protection Act",
   "sponsor": {
     "bioguide_id": "S001221",
     "district": "3",
@@ -77,8 +96,15 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "To amend the Federal Water Pollution Control Act to reauthorize certain programs relating to nonpoint source management, and for other purposes.",
+      "title": "Local Water Protection Act",
       "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Local Water Protection Act",
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -88,6 +114,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-05T09:06:12Z",
+  "updated_at": "2026-02-07T09:05:36Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7376.xml"
 }
