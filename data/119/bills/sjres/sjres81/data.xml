@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="81" updated="2025-12-01T18:17:30Z">
+<bill session="119" type="sj" number="81" updated="2026-02-09T19:32:55Z">
   <state datetime="2025-10-28">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-10-28"/>
@@ -52,7 +52,9 @@
   <committees>
     <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hj" number="147" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Foreign trade and international finance"/>
     <term name="Brazil"/>
