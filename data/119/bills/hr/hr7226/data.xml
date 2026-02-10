@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7226" updated="2026-02-05T04:23:16Z">
+<bill session="119" type="h" number="7226" updated="2026-02-10T00:09:42Z">
   <state datetime="2026-01-22">REFERRED</state>
   <status>
     <introduced datetime="2026-01-22"/>
@@ -29,7 +29,11 @@
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="1110" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
   <amendments/>
 </bill>
