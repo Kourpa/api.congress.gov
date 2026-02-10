@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2294</number>
-    <updateDate>2025-11-08T09:05:24Z</updateDate>
-    <updateDateIncludingText>2025-11-08T09:05:24Z</updateDateIncludingText>
+    <updateDate>2026-02-10T09:05:27Z</updateDate>
+    <updateDateIncludingText>2026-02-10T09:05:27Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -15,6 +15,22 @@
       <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 53 (Monday, March 24, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. EZELL:H.R. 2294.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H1219]&lt;/pre&gt;</constitutionalAuthorityStatementText>
     </cdata>
     <committees>
+      <item>
+        <systemCode>hssy00</systemCode>
+        <name>Science, Space, and Technology Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-02-09T20:38:17Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-03-24T16:01:30Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsii00</systemCode>
         <name>Natural Resources Committee</name>
@@ -38,6 +54,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-02-09T20:38:01Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-07-23T16:50:34Z</date>
           </item>
@@ -51,20 +71,85 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hssy00</systemCode>
-        <name>Science, Space, and Technology Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-03-24T16:01:30Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-02-09</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 417.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00417</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-02-09</actionDate>
+        <text>Committee on Science, Space, and Technology discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssy00</systemCode>
+            <name>Science, Space, and Technology Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-09</actionDate>
+        <text>Committee on Science, Space, and Technology discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssy00</systemCode>
+            <name>Science, Space, and Technology Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-09</actionDate>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 119-489, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-09</actionDate>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 119-489, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-07-23</actionDate>
         <committees>
@@ -561,6 +646,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-02-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2294rh/xml/BILLS-119hr2294rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-24T04:00:00Z</date>
         <formats>
@@ -571,8 +665,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-23</actionDate>
-      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <actionDate>2026-02-09</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 417.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

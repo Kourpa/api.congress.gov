@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5616" updated="2026-02-09T15:54:58Z">
-  <state datetime="2025-09-30">REFERRED</state>
+<bill session="119" type="h" number="5616" updated="2026-02-10T09:05:49Z">
+  <state datetime="2026-02-09T15:31:08-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-09-30"/>
+    <unknown datetime="2026-02-09T15:31:08-05:00"/>
   </status>
   <introduced datetime="2025-09-30"/>
   <titles>
@@ -68,6 +68,7 @@
     <cosponsor bioguide_id="T000193" joined="2025-10-06"/>
     <cosponsor bioguide_id="T000460" joined="2025-11-10"/>
     <cosponsor bioguide_id="T000491" joined="2025-12-18"/>
+    <cosponsor bioguide_id="T000463" joined="2026-02-09"/>
     <cosponsor bioguide_id="W000822" joined="2025-09-30"/>
     <cosponsor bioguide_id="W000806" joined="2025-11-18"/>
     <cosponsor bioguide_id="W000809" joined="2025-10-24"/>
@@ -78,6 +79,24 @@
     </action>
     <action datetime="2025-09-30" state="REFERRED">
       <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2026-02-09T15:13:09-05:00">
+      <text>Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-02-09T15:13:21-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-02-09T15:13:23-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5616.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-02-09T15:31:08-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-02-09T15:31:11-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2026-02-09T15:31:14-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
     </action>
   </actions>
   <committees>
