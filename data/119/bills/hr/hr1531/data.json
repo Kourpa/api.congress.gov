@@ -89,7 +89,12 @@
     {
       "acted_at": "2026-02-09T16:43:33-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2078-2079",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -110,7 +115,12 @@
     {
       "acted_at": "2026-02-09T19:01:02-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2082-2083",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -118,7 +128,12 @@
       "acted_at": "2026-02-09T19:07:28-05:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2078-2079",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "58",
       "status": "PASS_OVER:HOUSE",

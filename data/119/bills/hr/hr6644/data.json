@@ -99,7 +99,12 @@
     {
       "acted_at": "2026-02-09T15:31:50-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2050-2074",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -120,7 +125,12 @@
     {
       "acted_at": "2026-02-09T18:31:25-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2082",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -128,7 +138,12 @@
       "acted_at": "2026-02-09T19:00:33-05:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2050-2070",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "57",
       "status": "PASS_OVER:HOUSE",
@@ -505,7 +520,7 @@
   },
   "introduced_at": "2025-12-11",
   "number": "6644",
-  "official_title": "A bill to increase the supply of housing in America, and for other purposes.",
+  "official_title": "To increase the supply of housing in America, and for other purposes",
   "popular_title": null,
   "related_bills": [
     {
@@ -584,6 +599,27 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To increase the supply of housing in America, and for other purposes",
+      "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "A bill to increase the supply of housing in America, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": "amended by house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To increase the supply of housing in America, and for other purposes",
+      "type": "official"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -596,22 +632,8 @@
       "textVersionCode": null,
       "title": "Housing for the 21st Century Act",
       "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Housing for the 21st Century Act",
-      "type": "display"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "A bill to increase the supply of housing in America, and for other purposes.",
-      "type": "official"
     }
   ],
-  "updated_at": "2026-02-10T09:05:37Z",
+  "updated_at": "2026-02-10T16:10:50Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6644.xml"
 }
