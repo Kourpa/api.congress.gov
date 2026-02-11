@@ -35,7 +35,16 @@
     {
       "acted_at": "2026-02-10T12:10:38-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2107-2115",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H2107-2108",
+          "type": "text"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -56,7 +65,12 @@
     {
       "acted_at": "2026-02-10T20:31:21-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2115-2116",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -171,6 +185,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-11T09:06:17Z",
+  "updated_at": "2026-02-11T14:54:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1042.xml"
 }
