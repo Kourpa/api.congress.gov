@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7412" updated="2026-02-07T05:08:22Z">
-  <state datetime="2026-02-05">REFERRED</state>
+<bill session="119" type="h" number="7412" updated="2026-02-12T09:06:21Z">
+  <state datetime="2026-02-11">REPORTED</state>
   <status>
-    <introduced datetime="2026-02-05"/>
+    <unknown datetime="2026-02-11"/>
   </status>
   <introduced datetime="2026-02-05"/>
   <titles>
@@ -20,9 +20,15 @@
     <action datetime="2026-02-05" state="REFERRED">
       <text>Referred to the House Committee on Small Business.</text>
     </action>
+    <action datetime="2026-02-11">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-02-11" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 24 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Referred To"/>
+    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

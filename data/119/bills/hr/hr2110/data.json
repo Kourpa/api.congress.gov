@@ -17,6 +17,36 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-03-14",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2026-02-10",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Subcommittee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-10",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -31,6 +61,17 @@
       ],
       "committee": "House Energy and Commerce",
       "committee_id": "HSIF"
+    },
+    {
+      "activity": [
+        "reporting",
+        "markup",
+        "referral"
+      ],
+      "committee": "House Energy and Commerce",
+      "committee_id": "HSIF",
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade",
+      "subcommittee_id": "17"
     }
   ],
   "congress": "119",
@@ -288,7 +329,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-02-10",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -342,6 +384,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-23T15:06:23Z",
+  "updated_at": "2026-02-12T09:06:37Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2110.xml"
 }

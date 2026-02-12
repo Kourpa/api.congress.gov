@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1383" updated="2025-12-22T15:24:40Z">
-  <state datetime="2025-12-18">PASS_OVER:SENATE</state>
+<bill session="119" type="s" number="1383" updated="2026-02-12T12:06:15Z">
+  <state datetime="2026-02-11T18:44:18-05:00">PASSED:BILL</state>
   <status>
-    <unknown datetime="2025-12-18"/>
+    <unknown datetime="2026-02-11T18:44:18-05:00"/>
   </status>
   <introduced datetime="2025-04-09"/>
   <titles>
@@ -55,11 +55,50 @@
     <action datetime="2025-12-19T14:40:35-05:00">
       <text>Held at the desk.</text>
     </action>
+    <action datetime="2026-02-11T10:46:51-05:00">
+      <text>Rules Committee Resolution H. Res. 1057 Reported to House. Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.</text>
+    </action>
+    <action datetime="2026-02-11T13:04:41-05:00">
+      <text>Considered under the provisions of rule H. Res. 1057.</text>
+    </action>
+    <action datetime="2026-02-11T13:04:46-05:00">
+      <text>Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.</text>
+    </action>
+    <action datetime="2026-02-11T13:05:43-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on S. 1383.</text>
+    </action>
+    <action datetime="2026-02-11T14:16:15-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-02-11T14:16:30-05:00">
+      <text>Mr. Morelle moved to commit to the Committee on House Administration.</text>
+    </action>
+    <action datetime="2026-02-11T14:16:32-05:00">
+      <text>The previous question on the motion to commit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-02-11T14:17:08-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on S. 1383, the Chair put the question on the motion to commit and by voice vote, announced the noes had prevailed. Mr. Morelle demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-02-11T18:30:37-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-02-11T18:36:39-05:00">
+      <text>On motion to commit Failed by the Yeas and Nays: 214 - 217 (Roll no. 68).</text>
+    </action>
+    <vote how="roll" type="vote2" roll="69" datetime="2026-02-11T18:44:18-05:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On passage Passed by the Yeas and Nays: 218 - 213 (Roll no. 69).</text>
+    </vote>
+    <action datetime="2026-02-11T18:44:19-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Unknown, Unknown"/>
     <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Hearings By (Full Committee), Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="1057" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
     <term name="Advisory bodies"/>
@@ -72,6 +111,8 @@
     <term name="Health care coverage and access"/>
     <term name="Veterans' medical care"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h163"/>
+  </amendments>
   <summary date="2025-06-13T20:20:32Z" status="Introduced in Senate"></summary>
 </bill>

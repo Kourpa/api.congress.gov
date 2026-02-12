@@ -1,7 +1,7 @@
-<bill session="119" type="hc" number="73" updated="2026-02-06T16:52:08Z">
-  <state datetime="2026-02-03">REFERRED</state>
+<bill session="119" type="hc" number="73" updated="2026-02-12T09:06:39Z">
+  <state datetime="2026-02-11">REPORTED</state>
   <status>
-    <introduced datetime="2026-02-03"/>
+    <unknown datetime="2026-02-11"/>
   </status>
   <introduced datetime="2026-02-03"/>
   <titles>
@@ -22,9 +22,18 @@
     <action datetime="2026-02-04">
       <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
     </action>
+    <action datetime="2026-02-11">
+      <text>Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged</text>
+    </action>
+    <action datetime="2026-02-11">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-02-11" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
   </committees>
   <relatedbills/>

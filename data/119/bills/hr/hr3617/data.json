@@ -110,9 +110,137 @@
       "references": [],
       "text": "Rule H. Res. 1042 failed passage of House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T10:46:51-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1057-119",
+        "s1383-119",
+        "hr2189-119",
+        "hr261-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1057 Reported to House. Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T13:02:53-05:00",
+      "action_code": "H1L220",
+      "bill_ids": [
+        "hres1057-119"
+      ],
+      "references": [],
+      "text": "Rule H. Res. 1057 passed House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T14:20:20-05:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1057-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1057.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T14:20:25-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "s1383-119",
+        "hr2189-119",
+        "hr261-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T14:21:37-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 3617.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T14:55:57-05:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T14:56:34-05:00",
+      "action_code": "H36200",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Mr. Landsman moved to recommit to the Committee on Energy and Commerce.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T14:56:43-05:00",
+      "action_code": "H8A000",
+      "references": [],
+      "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T14:56:58-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3617, the Chair put the question on the motion to recommit and by voice vote, announced the noes had prevailed. Mr. Landsman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T17:17:25-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T17:59:54-05:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "On motion to recommit Failed by the Yeas and Nays: 214 - 215 (Roll no. 63).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11T18:06:31-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "64",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 223 - 206 (Roll no. 64).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-02-11T18:06:33-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt164-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "164"
+    }
+  ],
   "bill_id": "hr3617-119",
   "bill_type": "hr",
   "by_request": false,
@@ -122,6 +250,8 @@
   "committees": [
     {
       "activity": [
+        "Unknown",
+        "Unknown",
         "Reported By",
         "Markup By",
         "Referred To"
@@ -190,6 +320,8 @@
     "active_at": "2025-06-05",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-02-11T18:06:31-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-05-29",
@@ -199,6 +331,12 @@
   "related_bills": [
     {
       "bill_id": "hres1042-119",
+      "identified_by": "House",
+      "reason": "procedurally related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hres1057-119",
       "identified_by": "House",
       "reason": "procedurally related",
       "type": "bill"
@@ -213,8 +351,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-06-25",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-02-11T18:06:31-05:00",
   "subjects": [
     "Energy",
     "Energy research",
@@ -262,6 +400,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-11T09:06:24Z",
+  "updated_at": "2026-02-12T12:11:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3617.xml"
 }

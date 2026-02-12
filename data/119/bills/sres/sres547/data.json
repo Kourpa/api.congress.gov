@@ -2,9 +2,12 @@
   "actions": [
     {
       "acted_at": "2025-12-17",
-      "action_code": "10000",
+      "action_code": "10025",
+      "committees": [
+        "SSFR"
+      ],
       "references": [],
-      "text": "Introduced in Senate",
+      "text": "Submitted in Senate",
       "type": "action"
     },
     {
@@ -27,6 +30,7 @@
   "committees": [
     {
       "activity": [
+        "Referred To",
         "Referred To"
       ],
       "committee": "Senate Foreign Relations",
@@ -35,6 +39,16 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "B001299",
+      "district": null,
+      "name": "Banks, Jim",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-02-11",
+      "state": "IN",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "C001088",
       "district": null,
@@ -52,6 +66,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-12-17",
       "state": "TN",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "K000394",
+      "district": null,
+      "name": "Kim, Andy",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-02-11",
+      "state": "NJ",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -117,6 +141,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-02-03T21:45:05Z",
+  "updated_at": "2026-02-12T11:56:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres547.xml"
 }

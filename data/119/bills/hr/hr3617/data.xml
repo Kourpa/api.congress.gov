@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3617" updated="2026-02-11T09:06:24Z">
-  <state datetime="2025-06-25">REPORTED</state>
+<bill session="119" type="h" number="3617" updated="2026-02-12T12:11:18Z">
+  <state datetime="2026-02-11T18:06:31-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-06-25"/>
+    <unknown datetime="2026-02-11T18:06:31-05:00"/>
   </status>
   <introduced datetime="2025-05-29"/>
   <titles>
@@ -51,13 +51,53 @@
     <action datetime="2026-02-10T21:55:17-05:00">
       <text>Rule H. Res. 1042 failed passage of House.</text>
     </action>
+    <action datetime="2026-02-11T10:46:51-05:00">
+      <text>Rules Committee Resolution H. Res. 1057 Reported to House. Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.</text>
+    </action>
+    <action datetime="2026-02-11T13:02:53-05:00">
+      <text>Rule H. Res. 1057 passed House.</text>
+    </action>
+    <action datetime="2026-02-11T14:20:20-05:00">
+      <text>Considered under the provisions of rule H. Res. 1057.</text>
+    </action>
+    <action datetime="2026-02-11T14:20:25-05:00">
+      <text>Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.</text>
+    </action>
+    <action datetime="2026-02-11T14:21:37-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 3617.</text>
+    </action>
+    <action datetime="2026-02-11T14:55:57-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-02-11T14:56:34-05:00">
+      <text>Mr. Landsman moved to recommit to the Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2026-02-11T14:56:43-05:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-02-11T14:56:58-05:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3617, the Chair put the question on the motion to recommit and by voice vote, announced the noes had prevailed. Mr. Landsman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-02-11T17:17:25-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-02-11T17:59:54-05:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 214 - 215 (Roll no. 63).</text>
+    </action>
+    <vote how="roll" type="vote" roll="64" datetime="2026-02-11T18:06:31-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 223 - 206 (Roll no. 64).</text>
+    </vote>
+    <action datetime="2026-02-11T18:06:33-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
     <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="1042" relation="procedurally related"/>
+    <bill session="119" type="hr" number="1057" relation="procedurally related"/>
   </relatedbills>
   <subjects>
     <term name="Energy"/>
@@ -69,7 +109,9 @@
     <term name="Research and development"/>
     <term name="Strategic materials and reserves"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h164"/>
+  </amendments>
   <summary date="2025-09-24T13:19:43Z" status="Reported to House"></summary>
   <committee-reports>
     <report>H. Rept. 119-268</report>

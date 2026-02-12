@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6472</number>
-    <updateDate>2026-02-12T06:38:31Z</updateDate>
-    <updateDateIncludingText>2026-02-12T06:38:31Z</updateDateIncludingText>
+    <updateDate>2026-02-12T09:06:29Z</updateDate>
+    <updateDateIncludingText>2026-02-12T09:06:29Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -22,6 +22,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-02-11T22:50:22Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-12-11T21:09:41Z</date>
           </item>
@@ -33,6 +37,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-02-11</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 421.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00421</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-02-11</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-495.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-11</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-495.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-12-11</actionDate>
         <committees>
@@ -160,6 +209,18 @@
         <sponsorshipDate>2025-12-04</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>C001112</bioguideId>
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+        <firstName>Salud</firstName>
+        <lastName>Carbajal</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <middleName>O.</middleName>
+        <district>24</district>
+        <sponsorshipDate>2026-02-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <cboCostEstimates>
       <item>
@@ -260,8 +321,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-11</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 1.</text>
+      <actionDate>2026-02-11</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 421.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

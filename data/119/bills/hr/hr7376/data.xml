@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7376" updated="2026-02-07T09:05:36Z">
-  <state datetime="2026-02-04">REFERRED</state>
+<bill session="119" type="h" number="7376" updated="2026-02-12T09:06:20Z">
+  <state datetime="2026-02-11">REPORTED</state>
   <status>
-    <introduced datetime="2026-02-04"/>
+    <unknown datetime="2026-02-11"/>
   </status>
   <introduced datetime="2026-02-04"/>
   <titles>
@@ -23,9 +23,18 @@
     <action datetime="2026-02-05">
       <text>Referred to the Subcommittee on Water Resources and Environment.</text>
     </action>
+    <action datetime="2026-02-11">
+      <text>Subcommittee on Water Resources and Environment Discharged</text>
+    </action>
+    <action datetime="2026-02-11">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-02-11" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSPW02" name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral"/>
   </committees>
   <relatedbills/>
