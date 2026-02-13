@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7147" updated="2026-02-13T12:08:22Z">
+<bill session="119" type="h" number="7147" updated="2026-02-13T17:09:51Z">
   <state datetime="2026-02-12">PROV_KILL:CLOTUREFAILED</state>
   <status>
     <unknown datetime="2026-02-12"/>
@@ -82,6 +82,7 @@
     </action>
     <action datetime="2026-02-12">
       <text>Motion to proceed to measure considered in Senate.</text>
+      <reference ref="CR S593"/>
     </action>
     <vote-aux how="roll" type="cloture" roll="38" datetime="2026-02-12" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
       <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 38.</text>
@@ -91,6 +92,7 @@
     </action>
     <action datetime="2026-02-12">
       <text>Second cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S593"/>
     </action>
   </actions>
   <committees>
