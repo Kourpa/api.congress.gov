@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2189" updated="2026-02-12T20:41:22Z">
-  <state datetime="2025-11-20">REPORTED</state>
+<bill session="119" type="h" number="2189" updated="2026-02-13T09:09:12Z">
+  <state datetime="2026-02-12T10:46:36-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-11-20"/>
+    <unknown datetime="2026-02-12T10:46:36-05:00"/>
   </status>
   <introduced datetime="2025-03-18"/>
   <titles>
@@ -136,6 +136,24 @@
     <action datetime="2026-02-11T10:46:51-05:00">
       <text>Rules Committee Resolution H. Res. 1057 Reported to House. Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.</text>
     </action>
+    <action datetime="2026-02-12T09:13:32-05:00">
+      <text>Considered under the provisions of rule H. Res. 1057.</text>
+    </action>
+    <action datetime="2026-02-12T09:13:37-05:00">
+      <text>Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.</text>
+    </action>
+    <action datetime="2026-02-12T09:14:42-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2189.</text>
+    </action>
+    <action datetime="2026-02-12T10:19:30-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="70" datetime="2026-02-12T10:46:36-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 233 - 185 (Roll no. 70).</text>
+    </vote>
+    <action datetime="2026-02-12T10:46:38-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Markup By, Referred To"/>
@@ -150,7 +168,9 @@
     <term name="Criminal procedure and sentencing"/>
     <term name="Firearms and explosives"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h166"/>
+  </amendments>
   <summary date="2026-02-06T19:37:27Z" status="Reported to House"></summary>
   <committee-reports>
     <report>H. Rept. 119-472</report>

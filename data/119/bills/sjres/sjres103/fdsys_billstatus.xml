@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>103</number>
-    <updateDate>2026-02-11T11:56:27Z</updateDate>
-    <updateDateIncludingText>2026-02-11T11:56:27Z</updateDateIncludingText>
+    <updateDate>2026-02-13T11:56:32Z</updateDate>
+    <updateDateIncludingText>2026-02-13T11:56:32Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SJRES</type>
@@ -18,6 +18,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-02-12T20:00:52Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2026-01-27T21:02:01Z</date>
@@ -44,6 +48,44 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-02-12</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 338.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2026-02-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Veterans' Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2026-02-12</actionDate>
+        <text>Senate Committee on Veterans' Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-01-27</actionDate>
         <committees>
@@ -470,8 +512,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-27</actionDate>
-      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2026-02-12</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 338.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

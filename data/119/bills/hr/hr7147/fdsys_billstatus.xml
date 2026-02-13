@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7147</number>
-    <updateDate>2026-02-12T19:09:10Z</updateDate>
-    <updateDateIncludingText>2026-02-12T19:09:10Z</updateDateIncludingText>
+    <updateDate>2026-02-13T12:08:22Z</updateDate>
+    <updateDateIncludingText>2026-02-13T12:08:22Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -109,6 +109,48 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-02-12</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Second cloture motion on the motion to proceed to the measure presented in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-02-12</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 38) entered in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-02-12</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 38.</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>38</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00038.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-02-12T18:59:28Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-02-12</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to measure considered in Senate.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2026-02-11</actionDate>
         <sourceSystem>
@@ -447,6 +489,278 @@
     </titles>
     <amendments>
       <amendment>
+        <number>4300</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-02-13T12:08:22Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>W000790</bioguideId>
+            <fullName>Sen. Warnock, Raphael G. [D-GA]</fullName>
+            <firstName>Raphael</firstName>
+            <lastName>Warnock</lastName>
+            <party>D</party>
+            <state>GA</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-02-12T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7147</number>
+          <title>Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.</title>
+          <updateDateIncludingText>2026-02-13</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-02-12</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-02-12</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4299</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-02-13T12:08:22Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>P000145</bioguideId>
+            <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+            <firstName>Alex</firstName>
+            <lastName>Padilla</lastName>
+            <party>D</party>
+            <state>CA</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>B001277</bioguideId>
+            <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+            <firstName>Richard</firstName>
+            <lastName>Blumenthal</lastName>
+            <party>D</party>
+            <state>CT</state>
+            <sponsorshipDate>2026-02-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2026-02-12T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7147</number>
+          <title>Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.</title>
+          <updateDateIncludingText>2026-02-13</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-02-12</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-02-12</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4298</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-02-13T12:08:22Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>P000145</bioguideId>
+            <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+            <firstName>Alex</firstName>
+            <lastName>Padilla</lastName>
+            <party>D</party>
+            <state>CA</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>5</countIncludingWithdrawnCosponsors>
+          <count>5</count>
+          <item>
+            <bioguideId>B001267</bioguideId>
+            <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+            <firstName>Michael</firstName>
+            <lastName>Bennet</lastName>
+            <party>D</party>
+            <state>CO</state>
+            <sponsorshipDate>2026-02-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+            <sponsorshipDate>2026-02-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>B001277</bioguideId>
+            <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+            <firstName>Richard</firstName>
+            <lastName>Blumenthal</lastName>
+            <party>D</party>
+            <state>CT</state>
+            <sponsorshipDate>2026-02-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>S001194</bioguideId>
+            <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+            <firstName>Brian</firstName>
+            <lastName>Schatz</lastName>
+            <party>D</party>
+            <state>HI</state>
+            <sponsorshipDate>2026-02-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>C001113</bioguideId>
+            <fullName>Sen. Cortez Masto, Catherine [D-NV]</fullName>
+            <firstName>Catherine</firstName>
+            <lastName>Cortez Masto</lastName>
+            <party>D</party>
+            <state>NV</state>
+            <sponsorshipDate>2026-02-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2026-02-12T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7147</number>
+          <title>Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.</title>
+          <updateDateIncludingText>2026-02-13</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-02-12</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-02-12</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4297</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-02-13T12:08:21Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>P000145</bioguideId>
+            <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+            <firstName>Alex</firstName>
+            <lastName>Padilla</lastName>
+            <party>D</party>
+            <state>CA</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-02-12T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7147</number>
+          <title>Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.</title>
+          <updateDateIncludingText>2026-02-13</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-02-12</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-02-12</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
         <number>4296</number>
         <congress>119</congress>
         <type>SAMDT</type>
@@ -470,7 +784,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7147</number>
           <title>Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.</title>
-          <updateDateIncludingText>2026-02-12</updateDateIncludingText>
+          <updateDateIncludingText>2026-02-13</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -524,7 +838,7 @@
           <originChamberCode>H</originChamberCode>
           <number>7147</number>
           <title>Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.</title>
-          <updateDateIncludingText>2026-02-12</updateDateIncludingText>
+          <updateDateIncludingText>2026-02-13</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>4</count>
@@ -615,8 +929,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-02-11</actionDate>
-      <text>Motion to proceed to measure considered in Senate. (CR S559)</text>
+      <actionDate>2026-02-12</actionDate>
+      <text>Second cloture motion on the motion to proceed to the measure presented in Senate.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

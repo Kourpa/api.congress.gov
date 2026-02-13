@@ -199,9 +199,67 @@
       ],
       "text": "Motion to proceed to measure considered in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-02-12",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to proceed to measure considered in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-12",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "38",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 38.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-02-12",
+      "action_code": "",
+      "references": [],
+      "text": "Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 38) entered in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-12",
+      "action_code": "",
+      "references": [],
+      "text": "Second cloture motion on the motion to proceed to the measure presented in Senate.",
+      "type": "action"
     }
   ],
   "amendments": [
+    {
+      "amendment_id": "samdt4300-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "4300"
+    },
+    {
+      "amendment_id": "samdt4299-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "4299"
+    },
+    {
+      "amendment_id": "samdt4298-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "4298"
+    },
+    {
+      "amendment_id": "samdt4297-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "4297"
+    },
     {
       "amendment_id": "samdt4296-119",
       "amendment_type": "samdt",
@@ -245,6 +303,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-01-22T16:41:54-05:00",
+    "senate_cloture_result": "fail",
+    "senate_cloture_result_at": "2026-02-12",
     "vetoed": false
   },
   "introduced_at": "2026-01-20",
@@ -286,8 +346,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-01-22T16:41:54-05:00",
+  "status": "PROV_KILL:CLOTUREFAILED",
+  "status_at": "2026-02-12",
   "subjects": [
     "Economics and public finance"
   ],
@@ -335,6 +395,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-02-12T19:09:10Z",
+  "updated_at": "2026-02-13T12:08:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7147.xml"
 }

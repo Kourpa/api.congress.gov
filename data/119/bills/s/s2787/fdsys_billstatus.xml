@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2787</number>
-    <updateDate>2025-09-30T11:03:16Z</updateDate>
-    <updateDateIncludingText>2025-09-30T11:03:16Z</updateDateIncludingText>
+    <updateDate>2026-02-13T12:03:21Z</updateDate>
+    <updateDateIncludingText>2026-02-13T12:03:21Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -17,6 +17,18 @@
         <name>Energy and Natural Resources Committee</name>
         <chamber>Senate</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>sseg03</systemCode>
+            <name>Public Lands, Forests, and Mining Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2026-02-12T15:00:28Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -26,6 +38,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-02-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg03</systemCode>
+            <name>Public Lands, Forests, and Mining Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-09-11</actionDate>
         <committees>
@@ -37,7 +63,7 @@
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S6578: 1)</text>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S6578)</text>
         <type>IntroReferral</type>
       </item>
       <item>
@@ -89,7 +115,20 @@
       <name>Public Lands and Natural Resources</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Forests, forestry, trees</name>
+          <updateDate>2026-01-20T17:28:05Z</updateDate>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+          <updateDate>2026-01-20T17:28:05Z</updateDate>
+        </item>
+        <item>
+          <name>Livestock</name>
+          <updateDate>2026-01-20T17:28:05Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Public Lands and Natural Resources</name>
         <updateDate>2025-09-29T18:51:43Z</updateDate>
@@ -101,7 +140,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Grasslands Grazing Act of 2025</title>
-        <updateDate>2025-09-30T11:03:16Z</updateDate>
+        <updateDate>2026-02-13T12:03:21Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -132,8 +171,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-11</actionDate>
-      <text>Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S6578: 1)</text>
+      <actionDate>2026-02-12</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

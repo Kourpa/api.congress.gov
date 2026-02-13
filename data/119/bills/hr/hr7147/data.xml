@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7147" updated="2026-02-12T19:09:10Z">
-  <state datetime="2026-01-22T16:41:54-05:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="7147" updated="2026-02-13T12:08:22Z">
+  <state datetime="2026-02-12">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2026-01-22T16:41:54-05:00"/>
+    <unknown datetime="2026-02-12"/>
   </status>
   <introduced datetime="2026-01-20"/>
   <titles>
@@ -80,6 +80,18 @@
       <text>Motion to proceed to measure considered in Senate.</text>
       <reference ref="CR S559"/>
     </action>
+    <action datetime="2026-02-12">
+      <text>Motion to proceed to measure considered in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="38" datetime="2026-02-12" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 38.</text>
+    </vote-aux>
+    <action datetime="2026-02-12">
+      <text>Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 38) entered in Senate.</text>
+    </action>
+    <action datetime="2026-02-12">
+      <text>Second cloture motion on the motion to proceed to the measure presented in Senate.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>
@@ -95,6 +107,10 @@
     <term name="Economics and public finance"/>
   </subjects>
   <amendments>
+    <amendment number="s4300"/>
+    <amendment number="s4299"/>
+    <amendment number="s4298"/>
+    <amendment number="s4297"/>
     <amendment number="s4296"/>
     <amendment number="h157"/>
   </amendments>

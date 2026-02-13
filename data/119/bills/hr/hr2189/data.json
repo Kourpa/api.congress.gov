@@ -93,9 +93,73 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 1057 Reported to House. Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-02-12T09:13:32-05:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1057-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1057.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-12T09:13:37-05:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "s1383-119",
+        "hr261-119",
+        "hr3617-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-12T09:14:42-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 2189.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-12T10:19:30-05:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-12T10:46:36-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "70",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 233 - 185 (Roll no. 70).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-02-12T10:46:38-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt166-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "166"
+    }
+  ],
   "bill_id": "hr2189-119",
   "bill_type": "hr",
   "by_request": false,
@@ -1073,6 +1137,8 @@
     "active_at": "2025-11-18",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-02-12T10:46:36-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-03-18",
@@ -1108,8 +1174,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-11-20",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-02-12T10:46:36-05:00",
   "subjects": [
     "Crime and law enforcement",
     "Criminal procedure and sentencing",
@@ -1152,6 +1218,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-12T20:41:22Z",
+  "updated_at": "2026-02-13T09:09:12Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2189.xml"
 }

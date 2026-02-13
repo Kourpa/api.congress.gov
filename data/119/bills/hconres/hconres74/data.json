@@ -50,6 +50,25 @@
       "references": [],
       "text": "Received in the Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-02-12",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:CONCURRENTRES",
+      "text": "Resolution agreed to in Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-02-12",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -68,6 +87,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-02-10T21:58:11-05:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-02-12",
     "vetoed": false
   },
   "introduced_at": "2026-02-10",
@@ -84,8 +105,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-02-10T21:58:11-05:00",
+  "status": "PASSED:CONCURRENTRES",
+  "status_at": "2026-02-12",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -112,6 +133,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-02-12T11:56:28Z",
+  "updated_at": "2026-02-13T11:56:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres74.xml"
 }

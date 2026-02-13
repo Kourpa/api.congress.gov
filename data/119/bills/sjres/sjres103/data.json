@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-02-12",
+      "action_code": "",
+      "committees": [
+        "SSVA"
+      ],
+      "references": [],
+      "text": "Senate Committee on Veterans' Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-12",
+      "action_code": "",
+      "calendar": "Senate Legislative",
+      "number": "338",
+      "references": [],
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 338.",
+      "type": "calendar",
+      "under": "General Orders"
     }
   ],
   "amendments": [],
@@ -27,6 +47,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Veterans' Affairs",
@@ -378,7 +399,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-02-12",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -427,6 +449,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-02-11T11:56:27Z",
+  "updated_at": "2026-02-13T11:56:32Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres103.xml"
 }

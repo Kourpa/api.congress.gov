@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-02-11",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-11",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Natural Resources",
@@ -168,7 +190,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-02-11",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -187,8 +210,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-28",
+  "status": "REPORTED",
+  "status_at": "2026-02-11",
   "subjects": [
     "Energy"
   ],
@@ -222,6 +245,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-01T16:37:33Z",
+  "updated_at": "2026-02-13T09:07:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr755.xml"
 }
