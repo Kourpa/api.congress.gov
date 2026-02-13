@@ -36,7 +36,16 @@
     {
       "acted_at": "2026-02-11T11:05:04-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2121-2138",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H2121-2122",
+          "type": "text"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -178,6 +187,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-02-12T20:41:22Z",
+  "updated_at": "2026-02-13T16:11:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1057.xml"
 }

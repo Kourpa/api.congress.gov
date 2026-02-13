@@ -1,4 +1,4 @@
-<bill session="119" type="hj" number="72" updated="2026-02-13T11:56:40Z">
+<bill session="119" type="hj" number="72" updated="2026-02-13T15:23:43Z">
   <state datetime="2026-02-11T18:18:17-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-02-11T18:18:17-05:00"/>
@@ -37,6 +37,7 @@
     </action>
     <action datetime="2026-02-11T14:58:38-05:00">
       <text>Considered pursuant to a previous order.</text>
+      <reference ref="CR H2154-2161" label="consideration"/>
     </action>
     <action datetime="2026-02-11T14:58:40-05:00">
       <text>DEBATE - Pursuant to a previous order of the House, the House proceeded with one hour of debate on H.J. Res. 72.</text>
@@ -49,9 +50,11 @@
     </action>
     <action datetime="2026-02-11T18:06:34-05:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H2169" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="65" datetime="2026-02-11T18:18:17-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On passage Passed by the Yeas and Nays: 219 - 211 (Roll no. 65).</text>
+      <reference ref="CR H2154" label="text"/>
     </vote>
     <action datetime="2026-02-11T18:18:19-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
