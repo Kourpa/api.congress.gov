@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7007" updated="2026-02-03T22:13:46Z">
+<bill session="119" type="h" number="7007" updated="2026-02-18T09:05:30Z">
   <state datetime="2026-01-12">REFERRED</state>
   <status>
     <introduced datetime="2026-01-12"/>
@@ -78,8 +78,13 @@
     <action datetime="2026-01-12">
       <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, the Judiciary, Agriculture, Natural Resources, Science, Space, and Technology, Education and Workforce, Small Business, Energy and Commerce, Foreign Affairs, Intelligence (Permanent Select), Armed Services, Oversight and Government Reform, Veterans' Affairs, Financial Services, House Administration, Homeland Security, Rules, Ethics, the Budget, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-02-04">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Referral"/>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Referred To"/>
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>
     <committee code="HSSO" name="House Ethics" subcommittee="" activity="Referred To"/>
@@ -87,7 +92,6 @@
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
     <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
     <committee code="HLIG" name="House Intelligence (Permanent Select)" subcommittee="" activity="Referred To"/>
