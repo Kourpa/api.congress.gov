@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2958</number>
-    <updateDate>2026-02-21T04:53:22Z</updateDate>
-    <updateDateIncludingText>2026-02-21T04:53:22Z</updateDateIncludingText>
+    <updateDate>2026-02-21T09:05:57Z</updateDate>
+    <updateDateIncludingText>2026-02-21T09:05:57Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-02-20T17:22:16Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2025-09-17T19:38:38Z</date>
           </item>
@@ -31,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-02-20</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 430.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00430</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-02-20</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-504.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-20</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-504.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-09-17</actionDate>
         <committees>
@@ -111,6 +160,20 @@
         <isByRequest>N</isByRequest>
       </item>
     </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001136</bioguideId>
+        <fullName>Rep. McClain, Lisa C. [R-MI-9]</fullName>
+        <firstName>Lisa</firstName>
+        <lastName>McClain</lastName>
+        <party>R</party>
+        <state>MI</state>
+        <middleName>C.</middleName>
+        <district>9</district>
+        <sponsorshipDate>2026-02-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
     <cboCostEstimates>
       <item>
         <pubDate>2026-01-14T16:43:00Z</pubDate>
@@ -198,8 +261,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-17</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 16.</text>
+      <actionDate>2026-02-20</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 430.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -38,6 +38,26 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 16.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-02-20",
+      "action_code": "H12200",
+      "committees": [
+        "HSED"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-504.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-20",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "430",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 430.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -48,6 +68,7 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
@@ -56,7 +77,18 @@
     }
   ],
   "congress": "119",
-  "cosponsors": [],
+  "cosponsors": [
+    {
+      "bioguide_id": "M001136",
+      "district": "9",
+      "name": "McClain, Lisa C.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-02-20",
+      "state": "MI",
+      "title": "Rep.",
+      "withdrawn_at": null
+    }
+  ],
   "enacted_as": null,
   "history": {
     "active": true,
@@ -119,6 +151,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-21T04:53:22Z",
+  "updated_at": "2026-02-21T09:05:57Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2958.xml"
 }
