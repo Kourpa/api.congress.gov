@@ -69,7 +69,12 @@
     {
       "acted_at": "2026-02-23T16:00:54-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2241-2242",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -84,7 +89,12 @@
       "acted_at": "2026-02-23T16:08:34-05:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2241",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -211,7 +221,7 @@
   },
   "introduced_at": "2025-01-14",
   "number": "390",
-  "official_title": "To utlitize the Advanced Capabilities for Emergency Response to Operations project of NASA to improve aerial responses to wildfires, and for other purposes.",
+  "official_title": "To utilize the Advanced Capabilities for Emergency Response to Operations project of NASA to improve aerial responses to wildfires, and for other purposes",
   "popular_title": null,
   "related_bills": [],
   "short_title": "ACERO Act",
@@ -245,38 +255,10 @@
   },
   "titles": [
     {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "ACERO Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Advanced Capabilities for Emergency Response Operations Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to house",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "ACERO Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to house",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Advanced Capabilities for Emergency Response Operations Act",
-      "type": "short"
-    },
-    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "ACERO Act",
+      "title": "To utilize the Advanced Capabilities for Emergency Response to Operations project of NASA to improve aerial responses to wildfires, and for other purposes",
       "type": "display"
     },
     {
@@ -285,8 +267,43 @@
       "textVersionCode": null,
       "title": "To utlitize the Advanced Capabilities for Emergency Response to Operations project of NASA to improve aerial responses to wildfires, and for other purposes.",
       "type": "official"
+    },
+    {
+      "as": "amended by house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To utilize the Advanced Capabilities for Emergency Response to Operations project of NASA to improve aerial responses to wildfires, and for other purposes",
+      "type": "official"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "ACERO Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Advanced Capabilities for Emergency Response Operations Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "ACERO Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Advanced Capabilities for Emergency Response Operations Act",
+      "type": "short"
     }
   ],
-  "updated_at": "2026-02-24T09:05:49Z",
+  "updated_at": "2026-02-24T15:34:48Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr390.xml"
 }
