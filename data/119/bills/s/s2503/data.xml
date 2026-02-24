@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2503" updated="2026-02-20T19:25:16Z">
+<bill session="119" type="s" number="2503" updated="2026-02-24T12:03:19Z">
   <state datetime="2025-12-17">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-12-17"/>
@@ -18,9 +18,11 @@
   <cosponsors>
     <cosponsor bioguide_id="B001243" joined="2025-07-29"/>
     <cosponsor bioguide_id="B001277" joined="2025-11-20"/>
+    <cosponsor bioguide_id="B001303" joined="2026-02-23"/>
     <cosponsor bioguide_id="B001305" joined="2025-07-29"/>
     <cosponsor bioguide_id="C000127" joined="2025-11-18"/>
     <cosponsor bioguide_id="C001047" joined="2025-07-29"/>
+    <cosponsor bioguide_id="C001114" joined="2026-02-23"/>
     <cosponsor bioguide_id="D000622" joined="2025-11-18"/>
     <cosponsor bioguide_id="K000384" joined="2025-11-18"/>
     <cosponsor bioguide_id="K000367" joined="2025-12-01"/>
@@ -29,8 +31,10 @@
     <cosponsor bioguide_id="M000934" joined="2025-07-29"/>
     <cosponsor bioguide_id="S001227" joined="2025-07-29"/>
     <cosponsor bioguide_id="S001232" joined="2025-07-29"/>
+    <cosponsor bioguide_id="V000128" joined="2026-02-23"/>
     <cosponsor bioguide_id="W000805" joined="2025-11-18"/>
     <cosponsor bioguide_id="W000790" joined="2025-11-20"/>
+    <cosponsor bioguide_id="W000800" joined="2026-02-23"/>
     <cosponsor bioguide_id="Y000064" joined="2025-07-29"/>
   </cosponsors>
   <actions>
@@ -60,14 +64,26 @@
       <text>Passed Senate with an amendment by Unanimous Consent.</text>
       <reference ref="CR S8813-8817" label="text"/>
     </vote>
-    <action datetime="2025-12-18">
-      <text>Message on Senate action sent to the House.</text>
-    </action>
     <action datetime="2025-12-18T09:57:07-05:00">
       <text>Received in the House.</text>
     </action>
     <action datetime="2025-12-18T10:04:28-05:00">
       <text>Held at the desk.</text>
+    </action>
+    <action datetime="2025-12-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2026-02-23T16:42:19-05:00">
+      <text>Mr. Graves moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-02-23T16:42:39-05:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-02-23T16:42:41-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on S. 2503.</text>
+    </action>
+    <action datetime="2026-02-23T17:16:06-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
     </action>
   </actions>
   <committees>
@@ -95,5 +111,21 @@
   <amendments>
     <amendment number="s4070"/>
   </amendments>
-  <summary date="2026-02-20T19:25:06Z" status="Passed Senate"></summary>
+  <summary date="2026-02-20T19:25:06Z" status="Passed Senate">Rotorcraft Operations Transparency and Oversight Reform Act or the ROTOR Act
+
+This bill addresses aviation safety by increasing&#160;requirements for aircraft tracking and communication using Automatic Dependent Surveillance-Broadcast (ADS-B) technology and expanding oversight.
+
+As background, ADS-B for broadcasting (Out) and receiving (In) transmits information (e.g., location and weather information) between aircraft and air traffic control.
+
+Under the bill, aircraft must generally operate with ADS-B In equipment to provide the aircraft with location information of other aircraft and traffic advisories. Current law does not require this equipment.
+
+Current&#160;Federal Aviation Administration (FAA) regulations&#160;allow aircraft performing a sensitive government mission to&#160;be excepted from requirements for using ADS-B Out equipment. This bill limits which flights may be considered sensitive government missions (e.g., not training flights)&#160;and requires&#160;additional&#160;reporting and notifications&#160;for the exception.
+
+The Government Accountability Office must review the use of the ADS-B Out exception and the Office of the Inspector General (OIG) of the Department of Transportation must annually audit FAA oversight of operations that use the exception.
+
+Further, the bill repeals a 2025 law that exempts certain&#160;military helicopters&#160;from the ADS-B Out requirements for the Washington, DC, metropolitan area.
+
+The bill also requires
+
+the OIG of the Army to audit the Army&#8217;s coordination with the FAA,the FAA to establish an office to coordinate airspace usage of military aircraft and review the safety of flight operations and routes around airports, andthe FAA to enter into memoranda of understanding with military agencies for safety information sharing.</summary>
 </bill>

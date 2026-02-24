@@ -38,6 +38,47 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 44 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-02-23T16:34:00-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Timmons moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-23T16:34:37-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-23T16:34:38-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5235.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-23T16:41:44-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-02-23T16:42:18-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -84,6 +125,8 @@
     "active_at": "2025-12-02",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-02-23T16:41:44-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-09-09",
@@ -107,8 +150,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-12-02",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-02-23T16:41:44-05:00",
   "subjects": [
     "Congressional oversight",
     "Government information and archives",
@@ -120,7 +163,7 @@
     "as": "Introduced in House",
     "asOf": "2025-09-09",
     "date": "2026-02-18T17:03:41Z",
-    "text": ""
+    "text": "Skills-Based Federal Contracting Act\n\nThis bill prohibits federal contract bid solicitations for contractor personnel from including minimum educational requirements unless the contracting officer justifies the requirements.\u00a0The prohibition applies to educational requirements that may be met through education alone, education or experience, or a combination of education and experience.\n\nThe bill also requires the Office of Management and Budget to issue implementing guidance to federal agencies, including instructions for contracting officers that encourage using alternatives to education requirements."
   },
   "titles": [
     {
@@ -145,6 +188,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-18T17:04:12Z",
+  "updated_at": "2026-02-24T09:05:53Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5235.xml"
 }
