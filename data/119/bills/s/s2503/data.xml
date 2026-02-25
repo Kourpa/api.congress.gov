@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2503" updated="2026-02-25T12:03:23Z">
+<bill session="119" type="s" number="2503" updated="2026-02-25T16:05:06Z">
   <state datetime="2026-02-24T14:05:16-05:00">PROV_KILL:SUSPENSIONFAILED</state>
   <status>
     <unknown datetime="2026-02-24T14:05:16-05:00"/>
@@ -65,14 +65,14 @@
       <text>Passed Senate with an amendment by Unanimous Consent.</text>
       <reference ref="CR S8813-8817" label="text"/>
     </vote>
+    <action datetime="2025-12-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
     <action datetime="2025-12-18T09:57:07-05:00">
       <text>Received in the House.</text>
     </action>
     <action datetime="2025-12-18T10:04:28-05:00">
       <text>Held at the desk.</text>
-    </action>
-    <action datetime="2025-12-18">
-      <text>Message on Senate action sent to the House.</text>
     </action>
     <action datetime="2026-02-23T16:42:19-05:00">
       <text>Mr. Graves moved to suspend the rules and pass the bill.</text>
@@ -89,6 +89,7 @@
     </action>
     <action datetime="2026-02-24T13:58:04-05:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H2277" label="consideration"/>
     </action>
     <vote how="roll" type="vote2" roll="72" datetime="2026-02-24T14:05:16-05:00" where="h" result="fail" suspension="1" state="PROV_KILL:SUSPENSIONFAILED">
       <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 264 - 133 (Roll no. 72).</text>

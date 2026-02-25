@@ -248,7 +248,12 @@
       "acted_at": "2026-02-24",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S641",
+          "type": null
+        }
+      ],
       "result": "fail",
       "roll": "39",
       "status": "PROV_KILL:CLOTUREFAILED",
@@ -431,6 +436,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-02-25T11:56:28Z",
+  "updated_at": "2026-02-25T16:11:01Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7147.xml"
 }
