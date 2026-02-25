@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4758" updated="2026-02-23T13:36:52Z">
+<bill session="119" type="h" number="4758" updated="2026-02-25T09:06:43Z">
   <state datetime="2025-12-03">REPORTED</state>
   <status>
     <unknown datetime="2025-12-03"/>
@@ -43,12 +43,20 @@
     <calendar datetime="2026-02-04" calendar="Union" number="414">
       <text>Placed on the Union Calendar, Calendar No. 414.</text>
     </calendar>
+    <action datetime="2026-02-24T08:57:09-05:00">
+      <text>Rules Committee Resolution H. Res. 1075 Reported to House. Rule provides for consideration of H.R. 4626 and H.R. 4758. The resolution provides for consideration of H.R. 4626 and H.R. 4758 under a closed rule with one motion to recommit for each bill. The resolution provides for one hour of general debate on each bill.</text>
+    </action>
+    <action datetime="2026-02-24T14:19:20-05:00">
+      <text>Rule H. Res. 1075 passed House.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="1075" relation="procedurally related"/>
+  </relatedbills>
   <subjects>
     <term name="Energy"/>
     <term name="Appropriations"/>

@@ -88,6 +88,27 @@
       "text": "Placed on the Union Calendar, Calendar No. 414.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-02-24T08:57:09-05:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1075-119",
+        "hr4626-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1075 Reported to House. Rule provides for consideration of H.R. 4626 and H.R. 4758. The resolution provides for consideration of H.R. 4626 and H.R. 4758 under a closed rule with one motion to recommit for each bill. The resolution provides for one hour of general debate on each bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-24T14:19:20-05:00",
+      "action_code": "H1L220",
+      "bill_ids": [
+        "hres1075-119"
+      ],
+      "references": [],
+      "text": "Rule H. Res. 1075 passed House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -154,7 +175,14 @@
   "number": "4758",
   "official_title": "To repeal provisions of Public Law 117-169 relating to taxpayer subsidies for home electrification, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1075-119",
+      "identified_by": "House",
+      "reason": "procedurally related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Homeowner Energy Freedom Act",
   "sponsor": {
     "bioguide_id": "G000601",
@@ -213,6 +241,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-23T13:36:52Z",
+  "updated_at": "2026-02-25T09:06:43Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4758.xml"
 }

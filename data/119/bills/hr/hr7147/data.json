@@ -243,6 +243,26 @@
       ],
       "text": "Second cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-02-24",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "39",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 45. Record Vote Number: 39.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-02-24",
+      "action_code": "",
+      "references": [],
+      "text": "Motion by Senator Thune to reconsider the vote by which the second cloture on the motion to proceed to the measure was not invoked (Record Vote No. 39) entered in Senate.",
+      "type": "action"
     }
   ],
   "amendments": [
@@ -314,7 +334,7 @@
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-01-22T16:41:54-05:00",
     "senate_cloture_result": "fail",
-    "senate_cloture_result_at": "2026-02-12",
+    "senate_cloture_result_at": "2026-02-24",
     "vetoed": false
   },
   "introduced_at": "2026-01-20",
@@ -363,7 +383,7 @@
     "type": "person"
   },
   "status": "PROV_KILL:CLOTUREFAILED",
-  "status_at": "2026-02-12",
+  "status_at": "2026-02-24",
   "subjects": [
     "Economics and public finance"
   ],
@@ -411,6 +431,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-02-24T14:27:55Z",
+  "updated_at": "2026-02-25T11:56:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7147.xml"
 }

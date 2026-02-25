@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2503" updated="2026-02-24T15:19:35Z">
-  <state datetime="2025-12-17">PASS_OVER:SENATE</state>
+<bill session="119" type="s" number="2503" updated="2026-02-25T12:03:23Z">
+  <state datetime="2026-02-24T14:05:16-05:00">PROV_KILL:SUSPENSIONFAILED</state>
   <status>
-    <unknown datetime="2025-12-17"/>
+    <unknown datetime="2026-02-24T14:05:16-05:00"/>
   </status>
   <introduced datetime="2025-07-29"/>
   <titles>
@@ -26,6 +26,7 @@
     <cosponsor bioguide_id="D000622" joined="2025-11-18"/>
     <cosponsor bioguide_id="K000384" joined="2025-11-18"/>
     <cosponsor bioguide_id="K000367" joined="2025-12-01"/>
+    <cosponsor bioguide_id="L000571" joined="2026-02-24"/>
     <cosponsor bioguide_id="M000133" joined="2025-11-18"/>
     <cosponsor bioguide_id="M001198" joined="2025-07-29"/>
     <cosponsor bioguide_id="M000934" joined="2025-07-29"/>
@@ -86,6 +87,12 @@
     <action datetime="2026-02-23T17:16:06-05:00">
       <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
     </action>
+    <action datetime="2026-02-24T13:58:04-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="72" datetime="2026-02-24T14:05:16-05:00" where="h" result="fail" suspension="1" state="PROV_KILL:SUSPENSIONFAILED">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 264 - 133 (Roll no. 72).</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>

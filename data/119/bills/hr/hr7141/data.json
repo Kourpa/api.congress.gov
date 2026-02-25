@@ -17,6 +17,36 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-16",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Economic Opportunity.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2026-02-24",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Subcommittee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-24",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -31,13 +61,25 @@
       ],
       "committee": "House Veterans' Affairs",
       "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "reporting",
+        "markup",
+        "referral"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Economic Opportunity",
+      "subcommittee_id": "10"
     }
   ],
   "congress": "119",
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-02-24",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -86,6 +128,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-09T19:18:55Z",
+  "updated_at": "2026-02-25T09:06:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7141.xml"
 }

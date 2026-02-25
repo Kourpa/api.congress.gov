@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>390</number>
-    <updateDate>2026-02-25T03:53:21Z</updateDate>
-    <updateDateIncludingText>2026-02-25T03:53:21Z</updateDateIncludingText>
+    <updateDate>2026-02-25T11:56:37Z</updateDate>
+    <updateDateIncludingText>2026-02-25T11:56:37Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/390</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 7 (Tuesday, January 14, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. FONG:H.R. 390.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1Article 1, Section 8, Clause 18[Page H149]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>sscm00</systemCode>
+        <name>Commerce, Science, and Transportation Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-02-24T21:01:12Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hssy00</systemCode>
         <name>Science, Space, and Technology Committee</name>
@@ -40,6 +52,20 @@
       </committeeReport>
     </committeeReports>
     <actions>
+      <item>
+        <actionDate>2026-02-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-02-23</actionDate>
         <actionTime>16:08:38</actionTime>
@@ -76,7 +102,7 @@
       <item>
         <actionDate>2026-02-23</actionDate>
         <actionTime>16:08:34</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2241)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -504,9 +530,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-02-23</actionDate>
-      <text>The title of the measure was amended. Agreed to without objection.</text>
-      <actionTime>16:08:38</actionTime>
+      <actionDate>2026-02-24</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

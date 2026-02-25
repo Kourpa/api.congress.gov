@@ -3,17 +3,15 @@
   <version>3.0.0</version>
   <bill>
     <number>755</number>
-    <updateDate>2026-02-13T09:07:14Z</updateDate>
-    <updateDateIncludingText>2026-02-13T09:07:14Z</updateDateIncludingText>
+    <updateDate>2026-02-25T11:56:20Z</updateDate>
+    <updateDateIncludingText>2026-02-25T11:56:20Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-01-28</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/755</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. CISCOMANI:H.R. 755.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H406]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 18 (Tuesday, January 28, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. CISCOMANI:H.R. 755.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H406]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsii00</systemCode>
@@ -21,6 +19,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-02-25T00:23:05Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-02-11T18:45:00Z</date>
@@ -33,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-02-24</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 444.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00444</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-02-24</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-519.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-02-24</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-519.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-02-11</actionDate>
         <committees>
@@ -264,7 +311,20 @@
       <name>Energy</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Metals</name>
+          <updateDate>2026-02-24T19:26:28Z</updateDate>
+        </item>
+        <item>
+          <name>Mining</name>
+          <updateDate>2026-02-24T19:26:28Z</updateDate>
+        </item>
+        <item>
+          <name>Strategic materials and reserves</name>
+          <updateDate>2026-02-24T19:26:28Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Energy</name>
         <updateDate>2025-03-01T17:15:23Z</updateDate>
@@ -276,13 +336,21 @@
         <actionDate>2025-01-28</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-12-01T16:34:45Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;&lt;strong&gt;Critical Mineral Consistency Act of 2025&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This bill modifies the Energy Act of 2020 to expand the definition of&amp;nbsp;&lt;em&gt;critical minerals&lt;/em&gt; to include &lt;em&gt;critical materials&lt;/em&gt; designated by the Department of Energy (DOE).&lt;/p&gt;&lt;p&gt;Under current law, DOE's critical materials list contains certain materials that are essential for energy, including those on the critical minerals list of the U.S. Geological Survey (USGS). The USGS's list, which contains certain minerals that are essential to the nation's economic or national security, is not required to include the materials on DOE's list. Currently, both lists include minerals with a high risk of supply chain disruptions, and both DOE and USGS must conduct a variety of efforts to ensure a secure and reliable supply chain of the minerals.&amp;nbsp;&lt;/p&gt;&lt;p&gt;By expanding the definition of &lt;em&gt;critical minerals&lt;/em&gt;, this bill requires the USGS to include on its list the materials on DOE's list. Within 45 days of DOE adding a &amp;nbsp;mineral, element, substance, or material to its critical materials list, the USGS must update its list to include such mineral, element, substance, or material.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p><strong>Critical Mineral Consistency Act of 2025</strong></p><p>This bill modifies the Energy Act of 2020 to expand the definition of&nbsp;<em>critical minerals</em> to include <em>critical materials</em> designated by the Department of Energy (DOE).</p><p>Under current law, DOE's critical materials list contains certain materials that are essential for energy, including those on the critical minerals list of the U.S. Geological Survey (USGS). The USGS's list, which contains certain minerals that are essential to the nation's economic or national security, is not required to include the materials on DOE's list. Currently, both lists include minerals with a high risk of supply chain disruptions, and both DOE and USGS must conduct a variety of efforts to ensure a secure and reliable supply chain of the minerals.&nbsp;</p><p>By expanding the definition of <em>critical minerals</em>, this bill requires the USGS to include on its list the materials on DOE's list. Within 45 days of DOE adding a &nbsp;mineral, element, substance, or material to its critical materials list, the USGS must update its list to include such mineral, element, substance, or material.</p>]]></text>
       </summary>
     </summaries>
     <title>Critical Mineral Consistency Act of 2025</title>
     <titles>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Critical Mineral Consistency Act of 2025</title>
+        <updateDate>2026-02-25T09:23:22Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
@@ -308,6 +376,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-02-24T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr755rh/xml/BILLS-119hr755rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-01-28T05:00:00Z</date>
         <formats>
@@ -318,8 +395,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-02-11</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+      <actionDate>2026-02-24</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 444.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

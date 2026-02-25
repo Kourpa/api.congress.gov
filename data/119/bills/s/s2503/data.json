@@ -139,6 +139,27 @@
       "references": [],
       "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-02-24T13:58:04-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-02-24T14:05:16-05:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "72",
+      "status": "PROV_KILL:SUSPENSIONFAILED",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 264 - 133 (Roll no. 72).",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "h"
     }
   ],
   "amendments": [
@@ -267,6 +288,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "L000571",
+      "district": null,
+      "name": "Lummis, Cynthia M.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-02-24",
+      "state": "WY",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "M000133",
       "district": null,
       "name": "Markey, Edward J.",
@@ -373,6 +404,8 @@
     "active_at": "2025-10-21",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "fail",
+    "house_passage_result_at": "2026-02-24T14:05:16-05:00",
     "senate_passage_result": "pass",
     "senate_passage_result_at": "2025-12-17",
     "vetoed": false
@@ -398,8 +431,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASS_OVER:SENATE",
-  "status_at": "2025-12-17",
+  "status": "PROV_KILL:SUSPENSIONFAILED",
+  "status_at": "2026-02-24T14:05:16-05:00",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Advisory bodies",
@@ -481,6 +514,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-24T15:19:35Z",
+  "updated_at": "2026-02-25T12:03:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2503.xml"
 }
