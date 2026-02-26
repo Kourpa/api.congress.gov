@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-02-25",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Indian and Insular Affairs.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Natural Resources",
       "committee_id": "HSII"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII",
+      "subcommittee": "Subcommittee on Indian and Insular Affairs",
+      "subcommittee_id": "24"
     }
   ],
   "congress": "119",
@@ -98,7 +117,7 @@
     "as": "Introduced in House",
     "asOf": "2025-04-10",
     "date": "2025-06-16T19:30:45Z",
-    "text": ""
+    "text": "This bill confers jurisdiction to the U.S. Court of Federal Claims for the Miami Tribe of Oklahoma's land claim arising under the Treaty of Grouseland. The court must render judgement without regard to the statute of limitations or any delay-based defense. This jurisdiction expires unless such a claim is filed within one year.\n\nAll other claims, including any future claims, of the tribe to land in Illinois are extinguished."
   },
   "titles": [
     {
@@ -116,6 +135,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-02-04T05:06:24Z",
+  "updated_at": "2026-02-26T09:07:04Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2827.xml"
 }
