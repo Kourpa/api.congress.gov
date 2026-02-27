@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4503" updated="2025-12-16T06:38:15Z">
+<bill session="119" type="h" number="4503" updated="2026-02-27T18:56:04Z">
   <state datetime="2025-12-09T16:49:14-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-12-09T16:49:14-05:00"/>
@@ -74,7 +74,9 @@
     <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Hearings By (Full Committee), Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="3800" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Environmental protection"/>
     <term name="Advanced technology and technological innovations"/>
@@ -89,7 +91,17 @@
     <term name="Public contracts and procurement"/>
   </subjects>
   <amendments/>
-  <summary date="2025-12-09T20:48:18Z" status="Introduced in House"></summary>
+  <summary date="2025-12-09T20:48:18Z" status="Introduced in House">ePermit Act
+
+This bill establishes requirements related to digitizing environmental reviews conducted under the National Environmental Policy Act of 1969 (NEPA).
+
+The Council on Environmental Quality (CEQ) must develop, publish, and iteratively update data standards for the collection and curation of certain data related to environmental reviews. CEQ must also design, test, and build prototype tools for environmental reviews.
+
+Additionally, CEQ must publish guidance to assist relevant agencies in implementing such standards as well as certain minimum functional requirements, such as data sharing that enables automated transfer of relevant data among federal agencies. Federal agencies responsible for environmental reviews or authorizations must implement the data standards and such minimum functional requirements.
+
+To the maximum extent practicable, CEQ and such agencies must iteratively develop and maintain a unified interagency data system consisting of interconnected federal agency systems and shared services for environmental reviews and authorizations, including a common interactive, digital, cloud-based authorization portal.
+
+Within a year,&#160;CEQ must oversee a pilot of shared services for environmental reviews and authorizations, including the portal. To the maximum extent practicable, CEQ must develop and implement the unified interagency data system by December 1, 2027.</summary>
   <committee-reports>
     <report>H. Rept. 119-392</report>
   </committee-reports>

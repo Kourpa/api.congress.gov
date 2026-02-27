@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2458" updated="2025-10-09T03:26:11Z">
+<bill session="119" type="h" number="2458" updated="2026-02-27T18:52:31Z">
   <state datetime="2025-04-28T15:58:42-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-04-28T15:58:42-04:00"/>
@@ -40,7 +40,7 @@
     </action>
     <action datetime="2025-04-28T15:53:24-04:00">
       <text>Considered under suspension of the rules.</text>
-      <reference ref="CR H1652-1653: 1" label="consideration"/>
+      <reference ref="CR H1652-1653" label="consideration"/>
     </action>
     <action datetime="2025-04-28T15:53:25-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2458.</text>
@@ -61,6 +61,7 @@
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
+    <bill session="119" type="s" number="1962" relation="unknown"/>
     <bill session="119" type="h" number="1768" relation="unknown"/>
   </relatedbills>
   <subjects>
@@ -72,7 +73,11 @@
     <term name="Telephone and wireless communication"/>
   </subjects>
   <amendments/>
-  <summary date="2025-04-23T17:43:07Z" status="Introduced in House"></summary>
+  <summary date="2025-04-23T17:43:07Z" status="Introduced in House">Secure Space Act of 2025
+
+This bill prohibits the Federal Communications Commission (FCC) from granting satellite licenses or earth station authorizations, including U.S. market access for foreign-licensed satellites, to specified foreign entities of concern and their affiliates. (Earth stations, also commonly known as ground stations, are earth-based radio stations that communicate with satellites. A grant of U.S. market access permits one or more foreign-licensed satellites to communicate with one or more U.S.-licensed earth stations.)
+
+Specifically, the FCC may not grant a satellite license, an earth station authorization, or market access to any entity, or an affiliate thereof, that produces or provides communications equipment or services deemed to pose an unacceptable risk to the national security of the United States. (The FCC maintains a list of such equipment and services, known as the Covered List. Providers of such equipment and services include, for example, Huawei Technologies Company and ZTE Corporation.)&#160;</summary>
   <committee-reports>
     <report>H. Rept. 119-65</report>
   </committee-reports>

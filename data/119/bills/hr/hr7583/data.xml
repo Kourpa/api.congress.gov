@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7583" updated="2026-02-26T09:07:06Z">
+<bill session="119" type="h" number="7583" updated="2026-02-27T17:52:10Z">
   <state datetime="2026-02-13">REFERRED</state>
   <status>
     <introduced datetime="2026-02-13"/>
@@ -60,7 +60,11 @@
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="3865" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
   <amendments/>
 </bill>
