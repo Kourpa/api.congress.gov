@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2815" updated="2026-02-04T05:06:18Z">
-  <state datetime="2025-12-15T16:39:36-05:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="2815" updated="2026-02-27T11:56:35Z">
+  <state datetime="2026-02-26">PASSED:BILL</state>
   <status>
-    <unknown datetime="2025-12-15T16:39:36-05:00"/>
+    <unknown datetime="2026-02-26"/>
   </status>
   <introduced datetime="2025-04-10"/>
   <titles>
@@ -63,9 +63,15 @@
     <action datetime="2025-12-16">
       <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
+    <action datetime="2026-02-26">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2026-02-26" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Discharged, Markup By, Discharged, Referred To"/>
     <committee code="HSII24" name="House Natural Resources" subcommittee="Indian and Insular Affairs" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
@@ -80,7 +86,15 @@
     <term name="Land transfers"/>
   </subjects>
   <amendments/>
-  <summary date="2025-08-11T19:08:46Z" status="Introduced in House"></summary>
+  <summary date="2025-08-11T19:08:46Z" status="Introduced in House">Cape Fox Land Entitlement Finalization Act of 2025
+
+This bill waives a statutory core township selection requirement for the Cape Fox Corporation and allows Cape Fox to receive&#160;other lands to fulfill its remaining land entitlement. Cape Fox is an Alaska Native village corporation for the Alaska Native village of Saxman, Alaska.
+
+Specifically, the bill states that Cape Fox shall not be required to receive its previously selected land of approximately 185 acres located within the township in which the Alaska Native village of Saxman, Alaska, is located. Instead, the bill allows Cape Fox to receive&#160;land outside of Cape Fox's current exterior selection boundary upon written notice of the new selection to the Department of the Interior.&#160;
+
+In particular, if Cape Fox submits written notice of its selection of approximately&#160;180 acres of surface land within the&#160;Tongass National Forest in Alaska to Interior within 90 days of the bill's enactment, then Interior must convey the federal land to Cape Fox. Upon conveyance of the surface estate of the federal land to Cape Fox, Interior must convey the subsurface estate of the federal land to Sealaska Corporation (the Alaska Native regional corporation representing southeastern Alaska).
+
+The bill reserves a public access easement on the federal land conveyed to Cape Fox and Sealaska.</summary>
   <committee-reports>
     <report>H. Rept. 119-354</report>
   </committee-reports>

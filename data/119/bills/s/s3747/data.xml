@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="3747" updated="2026-02-26T12:03:17Z">
-  <state datetime="2026-01-29">REFERRED</state>
+<bill session="119" type="s" number="3747" updated="2026-02-27T12:03:22Z">
+  <state datetime="2026-02-26">REPORTED</state>
   <status>
-    <introduced datetime="2026-01-29"/>
+    <unknown datetime="2026-02-26"/>
   </status>
   <introduced datetime="2026-01-29"/>
   <titles>
@@ -13,6 +13,7 @@
   <cosponsors>
     <cosponsor bioguide_id="B001299" joined="2026-01-29"/>
     <cosponsor bioguide_id="B001305" joined="2026-02-25"/>
+    <cosponsor bioguide_id="L000577" joined="2026-02-26"/>
     <cosponsor bioguide_id="L000571" joined="2026-02-09"/>
   </cosponsors>
   <actions>
@@ -22,9 +23,12 @@
     <action datetime="2026-01-29" state="REFERRED">
       <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
     </action>
+    <action datetime="2026-02-26" state="REPORTED">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referred To"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="6392" relation="unknown"/>

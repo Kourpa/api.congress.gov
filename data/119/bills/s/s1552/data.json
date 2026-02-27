@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-02-26",
+      "action_code": "",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To",
         "Referred To"
       ],
@@ -459,7 +471,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-02-26",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -491,8 +504,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-01",
+  "status": "REPORTED",
+  "status_at": "2026-02-26",
   "subjects": [
     "Health"
   ],
@@ -526,6 +539,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-26T23:11:49Z",
+  "updated_at": "2026-02-27T12:03:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1552.xml"
 }

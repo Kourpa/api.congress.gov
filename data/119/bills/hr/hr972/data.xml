@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="972" updated="2026-02-04T04:26:33Z">
-  <state datetime="2025-12-15T16:11:29-05:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="972" updated="2026-02-27T11:56:36Z">
+  <state datetime="2026-02-26">PASSED:BILL</state>
   <status>
-    <unknown datetime="2025-12-15T16:11:29-05:00"/>
+    <unknown datetime="2026-02-26"/>
   </status>
   <introduced datetime="2025-02-04"/>
   <titles>
@@ -57,9 +57,15 @@
     <action datetime="2025-12-16">
       <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
+    <action datetime="2026-02-26">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2026-02-26" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
@@ -75,7 +81,15 @@
     <term name="Water use and supply"/>
   </subjects>
   <amendments/>
-  <summary date="2025-12-11T16:23:36Z" status="Reported to House"></summary>
+  <summary date="2025-12-11T16:23:36Z" status="Reported to House">Sloan Canyon Conservation and Lateral Pipeline Act
+
+This bill expands the boundaries of the Sloan Canyon National Conservation Area in Clark County, Nevada, and grants rights-of-way&#160;through the conservation area&#160;and other land administered by the Bureau of Land Management (BLM)&#160;for the construction of a water transmission pipeline and related facilities.
+
+Specifically, the bill requires the BLM to grant certain rights-of-way to the Southern Nevada Water Authority (SNWA)&#160;for the purposes&#160;of (1) performing geotechnical investigations within the rights-of-way, and (2) constructing and operating a water pipeline and related facilities.&#160;
+
+Rights-of-way may not be located through or under areas designated as wilderness, and construction of the pipeline may not permanently adversely affect surface resources within the conservation area. The BLM may place other reasonable terms and conditions on the issuance of rights-of-way as necessary to protect the conservation area&#8217;s resources.&#160;&#160;In tunneling the water pipeline, SNWA may excavate and dispose of sand, gravel, minerals, and other materials as needed. The BLM must enter into a memorandum of understanding with SNWA to identify federal land on which SNWA may dispose of such materials.&#160;
+
+The bill also adds approximately 9,290 acres of land&#160;to the conservation area. This expansion of the conservation area is subject to valid existing rights (e.g., utility transmission rights), must not preclude authorized activities within existing rights-of-way or corridors, and must not preclude the BLM from authorizing new utility rights-of-way.</summary>
   <committee-reports>
     <report>H. Rept. 119-279</report>
   </committee-reports>
