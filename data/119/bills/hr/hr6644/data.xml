@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6644" updated="2026-02-27T15:09:03Z">
+<bill session="119" type="h" number="6644" updated="2026-03-03T11:56:26Z">
   <state datetime="2026-02-09T19:00:33-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-02-09T19:00:33-05:00"/>
@@ -120,6 +120,12 @@
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
       <reference ref="CR S692"/>
     </action>
+    <action datetime="2026-03-02">
+      <text>Motion to proceed to measure considered in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="44" datetime="2026-03-02" where="s" result="pass">
+      <text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 6. Record Vote Number: 44.</text>
+    </vote-aux>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Discharged From, Referred To"/>
