@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3377" updated="2026-02-23T23:35:03Z">
-  <state datetime="2026-02-03T14:18:37-05:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="3377" updated="2026-03-04T12:36:27Z">
+  <state datetime="2026-03-03">PASSED:BILL</state>
   <status>
-    <unknown datetime="2026-02-03T14:18:37-05:00"/>
+    <unknown datetime="2026-03-03"/>
   </status>
   <introduced datetime="2025-05-13"/>
   <titles>
@@ -36,8 +36,11 @@
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
     <action datetime="2026-02-04">
-      <text>Received in the Senate.</text>
+      <text>Received in the Senate, read twice.</text>
     </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2026-03-03" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Discharged From, Referred To"/>
