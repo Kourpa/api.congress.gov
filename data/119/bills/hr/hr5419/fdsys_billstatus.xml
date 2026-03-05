@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5419</number>
-    <updateDate>2026-03-05T03:23:25Z</updateDate>
-    <updateDateIncludingText>2026-03-05T03:23:25Z</updateDateIncludingText>
+    <updateDate>2026-03-05T11:56:26Z</updateDate>
+    <updateDateIncludingText>2026-03-05T11:56:26Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/5419</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 152 (Wednesday, September 17, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. KEAN:H.R. 5419.Congress has the power to enact this legislation pursuantto the following:The U.S. Constitution: Article 1, Section 8, Clause 3[Page H4411]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>sseg00</systemCode>
+        <name>Energy and Natural Resources Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-03-04T19:38:54Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsag00</systemCode>
         <name>Agriculture Committee</name>
@@ -77,6 +89,20 @@
     </committeeReports>
     <actions>
       <item>
+        <actionDate>2026-03-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2026-03-03</actionDate>
         <actionTime>15:38:14</actionTime>
         <text>The title of the measure was amended. Agreed to without objection.</text>
@@ -112,7 +138,7 @@
       <item>
         <actionDate>2026-03-03</actionDate>
         <actionTime>15:38:07</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2352)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -520,9 +546,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-03-03</actionDate>
-      <text>The title of the measure was amended. Agreed to without objection.</text>
-      <actionTime>15:38:14</actionTime>
+      <actionDate>2026-03-04</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
