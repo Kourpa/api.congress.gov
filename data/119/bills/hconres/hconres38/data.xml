@@ -1,7 +1,7 @@
-<bill session="119" type="hc" number="38" updated="2026-03-05T18:53:51Z">
-  <state datetime="2025-06-17">REFERRED</state>
+<bill session="119" type="hc" number="38" updated="2026-03-06T09:07:18Z">
+  <state datetime="2026-03-05T16:37:58-05:00">FAIL:ORIGINATING:HOUSE</state>
   <status>
-    <introduced datetime="2025-06-17"/>
+    <unknown datetime="2026-03-05T16:37:58-05:00"/>
   </status>
   <introduced datetime="2025-06-17"/>
   <titles>
@@ -131,6 +131,15 @@
     </action>
     <action datetime="2026-03-04T17:41:09-05:00">
       <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Con.Res. 38, the Chair put the question on agreeing to the resolution and by voice vote, announced the noes had prevailed. Mr. Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-03-05T16:31:11-05:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="85" datetime="2026-03-05T16:37:58-05:00" where="h" result="fail" state="FAIL:ORIGINATING:HOUSE">
+      <text>On agreeing to the resolution Failed by the Yeas and Nays: 212 - 219 (Roll no. 85).</text>
+    </vote>
+    <action datetime="2026-03-05T16:38:01-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

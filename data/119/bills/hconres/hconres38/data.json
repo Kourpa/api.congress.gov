@@ -77,6 +77,34 @@
       "references": [],
       "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.Con.Res. 38, the Chair put the question on agreeing to the resolution and by voice vote, announced the noes had prevailed. Mr. Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-03-05T16:31:11-05:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-05T16:37:58-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "85",
+      "status": "FAIL:ORIGINATING:HOUSE",
+      "suspension": null,
+      "text": "On agreeing to the resolution Failed by the Yeas and Nays: 212 - 219 (Roll no. 85).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-03-05T16:38:01-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -1042,6 +1070,8 @@
     "active_at": "2026-03-03T14:03:04-05:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "fail",
+    "house_passage_result_at": "2026-03-05T16:37:58-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-06-17",
@@ -1058,8 +1088,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-06-17",
+  "status": "FAIL:ORIGINATING:HOUSE",
+  "status_at": "2026-03-05T16:37:58-05:00",
   "subjects": [
     "International affairs"
   ],
@@ -1086,6 +1116,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-05T18:53:51Z",
+  "updated_at": "2026-03-06T09:07:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres38.xml"
 }
