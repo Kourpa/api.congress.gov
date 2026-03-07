@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5682" updated="2026-01-23T18:26:38Z">
-  <state datetime="2025-10-03">REFERRED</state>
+<bill session="119" type="h" number="5682" updated="2026-03-07T09:06:37Z">
+  <state datetime="2026-03-05">REPORTED</state>
   <status>
-    <introduced datetime="2025-10-03"/>
+    <unknown datetime="2026-03-05"/>
   </status>
   <introduced datetime="2025-10-03"/>
   <titles>
@@ -23,10 +23,19 @@
     <action datetime="2025-11-19">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2026-03-05">
+      <text>Subcommittee on Indian and Insular Affairs Discharged</text>
+    </action>
+    <action datetime="2026-03-05">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-03-05" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSII24" name="House Natural Resources" subcommittee="Indian and Insular Affairs" activity="Hearings By (Subcommittee), Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSII24" name="House Natural Resources" subcommittee="Indian and Insular Affairs" activity="Discharged, Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

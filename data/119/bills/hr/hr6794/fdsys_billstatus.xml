@@ -3,23 +3,33 @@
   <version>3.0.0</version>
   <bill>
     <number>6794</number>
-    <updateDate>2026-01-22T20:38:42Z</updateDate>
-    <updateDateIncludingText>2026-01-22T20:38:42Z</updateDateIncludingText>
+    <updateDate>2026-03-07T09:06:39Z</updateDate>
+    <updateDateIncludingText>2026-03-07T09:06:39Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-12-17</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/6794</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 213 (Wednesday, December 17, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. HAMADEH of Arizona:H.R. 6794.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clauses 12, 13, and 14 grant Congressthe powers to raise and support armies, to provide andmaintain a navy, and to make rules for the government andregulation of the land and naval forces.[Page H6024]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 213 (Wednesday, December 17, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. HAMADEH of Arizona:H.R. 6794.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clauses 12, 13, and 14 grant Congressthe powers to raise and support armies, to provide andmaintain a navy, and to make rules for the government andregulation of the land and naval forces.[Page H6024]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsvr00</systemCode>
         <name>Veterans' Affairs Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-23T15:17:55Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -29,6 +39,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-12-17</actionDate>
         <text>Referred to the House Committee on Veterans' Affairs.</text>
@@ -139,8 +164,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-17</actionDate>
-      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2026-01-23</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3553" updated="2026-03-06T20:41:02Z">
-  <state datetime="2025-05-21">REFERRED</state>
+<bill session="119" type="h" number="3553" updated="2026-03-07T09:06:38Z">
+  <state datetime="2026-03-05">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-21"/>
+    <unknown datetime="2026-03-05"/>
   </status>
   <introduced datetime="2025-05-21"/>
   <titles>
@@ -43,10 +43,19 @@
     <action datetime="2026-02-10">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2026-03-05">
+      <text>Subcommittee on Federal Lands Discharged</text>
+    </action>
+    <action datetime="2026-03-05">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-03-05" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Discharged, Hearings By (Subcommittee), Referral"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
