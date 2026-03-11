@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7147" updated="2026-03-07T09:05:25Z">
+<bill session="119" type="h" number="7147" updated="2026-03-11T10:56:27Z">
   <state datetime="2026-03-05">PROV_KILL:CLOTUREFAILED</state>
   <status>
     <unknown datetime="2026-03-05"/>
@@ -113,6 +113,12 @@
     <vote-aux how="roll" type="cloture" roll="47" datetime="2026-03-05" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
       <text>Upon reconsideration, cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 45. Record Vote Number: 47.</text>
     </vote-aux>
+    <action datetime="2026-03-10">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <action datetime="2026-03-10">
+      <text>Third cloture motion on the motion to proceed to the measure presented in Senate.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>
