@@ -32,7 +32,16 @@
       "acted_at": "2026-03-10",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S953",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S953",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:SENATE",
       "text": "Passed Senate without amendment by Unanimous Consent.",
@@ -96,6 +105,12 @@
   "status": "PASS_OVER:SENATE",
   "status_at": "2026-03-10",
   "subjects": [
+    "Bank accounts, deposits, capital",
+    "Europe",
+    "Income tax credits",
+    "Income tax deductions",
+    "Russia",
+    "Tariffs",
     "Taxation"
   ],
   "subjects_top_term": "Taxation",
@@ -144,6 +159,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-11T10:58:21Z",
+  "updated_at": "2026-03-11T14:46:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s327.xml"
 }
