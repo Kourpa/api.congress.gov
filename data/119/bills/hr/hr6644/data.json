@@ -351,7 +351,12 @@
     {
       "acted_at": "2026-03-11",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S969, S1004-1005",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -359,7 +364,12 @@
       "acted_at": "2026-03-11",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1005",
+          "type": null
+        }
+      ],
       "result": "pass",
       "roll": "52",
       "text": "Cloture invoked in Senate by Yea-Nay Vote. 82 - 11. Record Vote Number: 52.",
@@ -1428,6 +1438,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-12T11:08:32Z",
+  "updated_at": "2026-03-12T14:30:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6644.xml"
 }
