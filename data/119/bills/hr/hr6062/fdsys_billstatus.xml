@@ -3,18 +3,40 @@
   <version>3.0.0</version>
   <bill>
     <number>6062</number>
-    <updateDate>2025-12-02T19:18:23Z</updateDate>
-    <updateDateIncludingText>2025-12-02T19:18:23Z</updateDateIncludingText>
+    <updateDate>2026-03-12T08:05:21Z</updateDate>
+    <updateDateIncludingText>2026-03-12T08:05:21Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-11-17</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/6062</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 193 (Monday, November 17, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. MOORE of West Virginia:H.R. 6062.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, clause 2[Page H4706]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 193 (Monday, November 17, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. MOORE of West Virginia:H.R. 6062.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, clause 2[Page H4706]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>hsii00</systemCode>
+        <name>Natural Resources Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-03-11T14:00:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-11-17T17:01:50Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hswm00</systemCode>
         <name>Ways and Means Committee</name>
@@ -39,20 +61,23 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hsii00</systemCode>
-        <name>Natural Resources Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-11-17T17:01:50Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-11</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-11-17</actionDate>
         <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -212,8 +237,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-17</actionDate>
-      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-03-11</actionDate>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
