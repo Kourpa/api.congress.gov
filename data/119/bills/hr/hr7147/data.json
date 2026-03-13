@@ -333,7 +333,12 @@
     {
       "acted_at": "2026-03-12",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1024",
+          "type": null
+        }
+      ],
       "text": "Motion to proceed to measure considered in Senate.",
       "type": "action"
     },
@@ -341,7 +346,12 @@
       "acted_at": "2026-03-12",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1034",
+          "type": null
+        }
+      ],
       "result": "fail",
       "roll": "54",
       "status": "PROV_KILL:CLOTUREFAILED",
@@ -537,6 +547,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-13T10:56:26Z",
+  "updated_at": "2026-03-13T15:36:34Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7147.xml"
 }
