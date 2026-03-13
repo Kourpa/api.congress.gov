@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="2709" updated="2026-03-12T23:09:29Z">
+<bill session="119" type="h" number="2709" updated="2026-03-13T03:53:21Z">
   <state datetime="2026-03-05">REPORTED</state>
   <status>
     <unknown datetime="2026-03-05"/>
   </status>
   <introduced datetime="2025-04-08"/>
   <titles>
-    <title type="display">Save Our Sequoias Act</title>
     <title type="short" as="introduced">Save Our Sequoias Act</title>
+    <title type="short" as="reported to house">Save Our Sequoias Act</title>
+    <title type="display">Save Our Sequoias Act</title>
     <title type="official" as="introduced">To improve the health and resiliency of giant sequoias, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="F000480"/>
@@ -60,11 +61,20 @@
     <action datetime="2026-03-05" state="REPORTED">
       <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
     </action>
+    <action datetime="2026-03-12">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-542, Part I.</text>
+    </action>
+    <action datetime="2026-03-12">
+      <text>Committee on Agriculture discharged.</text>
+    </action>
+    <calendar datetime="2026-03-12" calendar="Union" number="466">
+      <text>Placed on the Union Calendar, Calendar No. 466.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
-    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSAG15" name="House Agriculture" subcommittee="Forestry and Horticulture" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
