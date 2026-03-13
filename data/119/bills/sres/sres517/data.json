@@ -2,9 +2,12 @@
   "actions": [
     {
       "acted_at": "2025-11-20",
-      "action_code": "10000",
+      "action_code": "10025",
+      "committees": [
+        "SSAP"
+      ],
       "references": [],
-      "text": "Introduced in Senate",
+      "text": "Submitted in Senate",
       "type": "action"
     },
     {
@@ -27,6 +30,7 @@
   "committees": [
     {
       "activity": [
+        "Referred To",
         "Referred To"
       ],
       "committee": "Senate Appropriations",
@@ -35,6 +39,16 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "B001261",
+      "district": null,
+      "name": "Barrasso, John",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-12",
+      "state": "WY",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "J000293",
       "district": null,
@@ -100,6 +114,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-11-25T19:57:49Z",
+  "updated_at": "2026-03-13T11:18:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres517.xml"
 }

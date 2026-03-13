@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7147" updated="2026-03-12T10:56:24Z">
-  <state datetime="2026-03-05">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="h" number="7147" updated="2026-03-13T10:56:26Z">
+  <state datetime="2026-03-12">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2026-03-05"/>
+    <unknown datetime="2026-03-12"/>
   </status>
   <introduced datetime="2026-01-20"/>
   <titles>
@@ -120,6 +120,15 @@
     <action datetime="2026-03-10">
       <text>Third cloture motion on the motion to proceed to the measure presented in Senate.</text>
       <reference ref="CR S946"/>
+    </action>
+    <action datetime="2026-03-12">
+      <text>Motion to proceed to measure considered in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="54" datetime="2026-03-12" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Third cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 54.</text>
+    </vote-aux>
+    <action datetime="2026-03-12">
+      <text>Motion by Senator Thune to reconsider the vote by which the third cloture on the motion to proceed to the measure was not invoked (Record Vote No. 54) entered in Senate.</text>
     </action>
   </actions>
   <committees>

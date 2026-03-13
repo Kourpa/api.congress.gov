@@ -376,6 +376,26 @@
       "type": "vote-aux",
       "vote_type": "cloture",
       "where": "s"
+    },
+    {
+      "acted_at": "2026-03-12",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-12",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "53",
+      "status": "PASS_BACK:SENATE",
+      "text": "Passed Senate with an amendment by Yea-Nay Vote. 89 - 10. Record Vote Number: 53.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [
@@ -1299,6 +1319,8 @@
     "house_passage_result_at": "2026-02-09T19:00:33-05:00",
     "senate_cloture_result": "pass",
     "senate_cloture_result_at": "2026-03-11",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-03-12",
     "vetoed": false
   },
   "introduced_at": "2025-12-11",
@@ -1346,8 +1368,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-02-09T19:00:33-05:00",
+  "status": "PASS_BACK:SENATE",
+  "status_at": "2026-03-12",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Advisory bodies",
@@ -1445,6 +1467,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-13T03:53:21Z",
+  "updated_at": "2026-03-13T10:56:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6644.xml"
 }
