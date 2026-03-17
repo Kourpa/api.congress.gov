@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3073" updated="2026-03-06T19:06:19Z">
-  <state datetime="2026-01-22">REPORTED</state>
+<bill session="119" type="h" number="3073" updated="2026-03-17T08:05:37Z">
+  <state datetime="2026-03-16T16:52:47-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-01-22"/>
+    <unknown datetime="2026-03-16T16:52:47-04:00"/>
   </status>
   <introduced datetime="2025-04-29"/>
   <titles>
@@ -43,6 +43,21 @@
     <calendar datetime="2026-02-23" calendar="Union" number="440">
       <text>Placed on the Union Calendar, Calendar No. 440.</text>
     </calendar>
+    <action datetime="2026-03-16T16:45:23-04:00">
+      <text>Mr. Wittman moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-03-16T16:45:34-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-03-16T16:45:36-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3073.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-03-16T16:52:47-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-03-16T16:52:49-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>

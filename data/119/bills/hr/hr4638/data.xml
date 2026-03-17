@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4638" updated="2026-02-27T19:59:01Z">
+<bill session="119" type="h" number="4638" updated="2026-03-17T08:05:27Z">
   <state datetime="2025-11-20">REPORTED</state>
   <status>
     <unknown datetime="2025-11-20"/>
@@ -56,11 +56,16 @@
     <calendar datetime="2025-12-12" calendar="Union" number="355">
       <text>Placed on the Union Calendar, Calendar No. 355.</text>
     </calendar>
+    <action datetime="2026-03-16T17:52:09-04:00">
+      <text>Rules Committee Resolution H. Res. 1115 Reported to House. Rule provides for consideration of H.R. 556, H.R. 1958 and H.R. 4638. The resolution provides for consideration of H.R. 556, H.R. 1958, and H.R. 4638 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="1115" relation="procedurally related"/>
+  </relatedbills>
   <subjects>
     <term name="Immigration"/>
     <term name="Animal protection and human-animal relationships"/>

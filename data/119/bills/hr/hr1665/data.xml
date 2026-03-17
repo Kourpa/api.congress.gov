@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1665" updated="2026-03-09T20:05:21Z">
-  <state datetime="2025-04-09">REPORTED</state>
+<bill session="119" type="h" number="1665" updated="2026-03-17T08:05:42Z">
+  <state datetime="2026-03-16T16:36:00-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-04-09"/>
+    <unknown datetime="2026-03-16T16:36:00-04:00"/>
   </status>
   <introduced datetime="2025-02-27"/>
   <titles>
@@ -67,6 +67,21 @@
     <calendar datetime="2026-02-04" calendar="Union" number="416">
       <text>Placed on the Union Calendar, Calendar No. 416.</text>
     </calendar>
+    <action datetime="2026-03-16T16:26:23-04:00">
+      <text>Mr. Westerman moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-03-16T16:26:35-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-03-16T16:26:50-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1665.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-03-16T16:36:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-03-16T16:36:04-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Discharged From, Referred To"/>

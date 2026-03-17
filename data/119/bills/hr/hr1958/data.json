@@ -58,6 +58,18 @@
       "text": "Placed on the Union Calendar, Calendar No. 400.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-03-16T17:52:09-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1115-119",
+        "hr556-119",
+        "hr4638-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1115 Reported to House. Rule provides for consideration of H.R. 556, H.R. 1958 and H.R. 4638. The resolution provides for consideration of H.R. 556, H.R. 1958, and H.R. 4638 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -433,7 +445,14 @@
   "number": "1958",
   "official_title": "To amend the Immigration and Nationality Act to clarify that aliens who have been convicted of defrauding the United States Government or the unlawful receipt of public benefits are inadmissible and deportable.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1115-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Deporting Fraudsters Act of 2026",
   "sponsor": {
     "bioguide_id": "T000490",
@@ -490,6 +509,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-02T14:28:53Z",
+  "updated_at": "2026-03-17T08:05:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1958.xml"
 }

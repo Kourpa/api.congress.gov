@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>73</number>
-    <updateDate>2026-02-24T22:05:24Z</updateDate>
-    <updateDateIncludingText>2026-02-24T22:05:24Z</updateDateIncludingText>
+    <updateDate>2026-03-17T08:05:48Z</updateDate>
+    <updateDateIncludingText>2026-03-17T08:05:48Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -32,6 +32,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-03-16T17:35:01Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-02-11T17:23:00Z</date>
           </item>
@@ -47,6 +51,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-16</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 65.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>H00065</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-03-16</actionDate>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-544.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-03-16</actionDate>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-544.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-02-11</actionDate>
         <committees>
@@ -235,6 +284,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-03-16T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hconres73rh/xml/BILLS-119hconres73rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2026-02-03T05:00:00Z</date>
         <formats>
@@ -245,8 +303,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-02-11</actionDate>
-      <text>Ordered to be Reported by Voice Vote.</text>
+      <actionDate>2026-03-16</actionDate>
+      <text>Placed on the House Calendar, Calendar No. 65.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

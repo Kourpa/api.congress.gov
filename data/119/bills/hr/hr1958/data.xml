@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1958" updated="2026-03-02T14:28:53Z">
+<bill session="119" type="h" number="1958" updated="2026-03-17T08:05:33Z">
   <state datetime="2026-01-13">REPORTED</state>
   <status>
     <unknown datetime="2026-01-13"/>
@@ -66,11 +66,16 @@
     <calendar datetime="2026-01-27" calendar="Union" number="400">
       <text>Placed on the Union Calendar, Calendar No. 400.</text>
     </calendar>
+    <action datetime="2026-03-16T17:52:09-04:00">
+      <text>Rules Committee Resolution H. Res. 1115 Reported to House. Rule provides for consideration of H.R. 556, H.R. 1958 and H.R. 4638. The resolution provides for consideration of H.R. 556, H.R. 1958, and H.R. 4638 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="1115" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Immigration"/>
     <term name="Border security and unlawful immigration"/>
