@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3743</number>
-    <updateDate>2026-02-25T11:56:27Z</updateDate>
-    <updateDateIncludingText>2026-02-25T11:56:27Z</updateDateIncludingText>
+    <updateDate>2026-03-18T10:56:27Z</updateDate>
+    <updateDateIncludingText>2026-03-18T10:56:27Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -17,6 +17,18 @@
         <name>Energy and Natural Resources Committee</name>
         <chamber>Senate</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>sseg07</systemCode>
+            <name>Water and Power Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2026-03-17T14:00:32Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -26,6 +38,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-17</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg07</systemCode>
+            <name>Water and Power Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-01-29</actionDate>
         <committees>
@@ -113,8 +139,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-29</actionDate>
-      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2026-03-17</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
