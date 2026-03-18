@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="1115" updated="2026-03-18T08:06:44Z">
+<bill session="119" type="hr" number="1115" updated="2026-03-18T20:13:39Z">
   <state datetime="2026-03-17T15:57:41-04:00">PASSED:SIMPLERES</state>
   <status>
     <unknown datetime="2026-03-17T15:57:41-04:00"/>
@@ -22,6 +22,7 @@
     </calendar>
     <action datetime="2026-03-17T12:10:40-04:00">
       <text>Considered as privileged matter.</text>
+      <reference ref="CR H2538-2544" label="consideration"/>
     </action>
     <action datetime="2026-03-17T12:14:09-04:00">
       <text>DEBATE - The House proceeded with one hour of debate on H. Res. 1115.</text>
@@ -31,12 +32,14 @@
     </action>
     <action datetime="2026-03-17T15:44:56-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H2546-2547" label="consideration"/>
     </action>
     <action datetime="2026-03-17T15:51:52-04:00">
       <text>On ordering the previous question Agreed to by the Yeas and Nays: 196 - 192 (Roll no. 90).</text>
     </action>
     <vote how="roll" type="vote" roll="91" datetime="2026-03-17T15:57:41-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
       <text>On agreeing to the resolution Agreed to by recorded vote: 196 - 193 (Roll no. 91).</text>
+      <reference ref="CR H2538" label="text"/>
     </vote>
     <action datetime="2026-03-17T15:57:42-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -51,6 +54,7 @@
     <bill session="119" type="h" number="4638" relation="procedurally related"/>
   </relatedbills>
   <subjects>
+    <term name="Congress"/>
     <term name="House of Representatives"/>
     <term name="Legislative rules and procedure"/>
   </subjects>
