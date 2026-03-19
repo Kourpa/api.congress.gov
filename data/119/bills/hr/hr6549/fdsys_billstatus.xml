@@ -3,18 +3,32 @@
   <version>3.0.0</version>
   <bill>
     <number>6549</number>
-    <updateDate>2026-01-07T23:20:07Z</updateDate>
-    <updateDateIncludingText>2026-01-07T23:20:07Z</updateDateIncludingText>
+    <updateDate>2026-03-19T08:07:23Z</updateDate>
+    <updateDateIncludingText>2026-03-19T08:07:23Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-12-10</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/6549</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 208 (Wednesday, December 10, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. BERGMAN:H.R. 6549.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the United StatesConstitution[Page H5561]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 208 (Wednesday, December 10, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. BERGMAN:H.R. 6549.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the United StatesConstitution[Page H5561]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>hsvr00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Hearings By (full committee)</name>
+            <date>2026-03-18T16:45:29Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-12-10T15:03:15Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsru00</systemCode>
         <name>Rules Committee</name>
@@ -27,20 +41,23 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hsvr00</systemCode>
-        <name>Veterans' Affairs Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-12-10T15:03:15Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Hearings Held</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-12-10</actionDate>
         <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -153,8 +170,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-10</actionDate>
-      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-03-18</actionDate>
+      <text>Committee Hearings Held</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

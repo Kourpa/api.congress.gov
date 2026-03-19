@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1329" updated="2026-03-18T08:06:56Z">
-  <state datetime="2025-02-13">REFERRED</state>
+<bill session="119" type="h" number="1329" updated="2026-03-19T08:07:22Z">
+  <state datetime="2026-03-18">REPORTED</state>
   <status>
-    <introduced datetime="2025-02-13"/>
+    <unknown datetime="2026-03-18"/>
   </status>
   <introduced datetime="2025-02-13"/>
   <titles>
@@ -260,11 +260,17 @@
     <action datetime="2026-02-10">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2026-03-18">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-03-18" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 7 - 4.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1303" relation="identical"/>

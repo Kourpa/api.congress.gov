@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-03-18",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Committee Hearings Held",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -27,6 +37,7 @@
   "committees": [
     {
       "activity": [
+        "Hearings By (full committee)",
         "Referred To"
       ],
       "committee": "House Veterans' Affairs",
@@ -298,7 +309,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-03-18",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -347,6 +359,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-09T03:26:15Z",
+  "updated_at": "2026-03-19T08:07:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2722.xml"
 }

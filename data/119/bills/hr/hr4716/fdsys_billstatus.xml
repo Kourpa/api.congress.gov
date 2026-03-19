@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4716</number>
-    <updateDate>2026-03-12T08:05:20Z</updateDate>
-    <updateDateIncludingText>2026-03-12T08:05:20Z</updateDateIncludingText>
+    <updateDate>2026-03-19T08:07:14Z</updateDate>
+    <updateDateIncludingText>2026-03-19T08:07:14Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -23,6 +23,10 @@
             <systemCode>hsii10</systemCode>
             <name>Federal Lands Subcommittee</name>
             <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2026-03-18T14:00:00Z</date>
+              </item>
               <item>
                 <name>Referred to</name>
                 <date>2026-03-11T14:00:00Z</date>
@@ -51,6 +55,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-03-11</actionDate>
         <committees>
@@ -155,6 +174,17 @@
         <sponsorshipDate>2026-03-04</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>K000403</bioguideId>
+        <fullName>Rep. Kennedy, Mike [R-UT-3]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Kennedy</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <district>3</district>
+        <sponsorshipDate>2026-03-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Public Lands and Natural Resources</name>
@@ -195,8 +225,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-03-11</actionDate>
-      <text>Referred to the Subcommittee on Federal Lands.</text>
+      <actionDate>2026-03-18</actionDate>
+      <text>Subcommittee Hearings Held</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

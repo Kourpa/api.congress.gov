@@ -58,6 +58,58 @@
       "text": "Placed on the House Calendar, Calendar No. 63.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-03-18T12:20:03-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Biggs (AZ) moved to suspend the rules and pass the resolution.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-18T12:20:16-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-18T12:20:20-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hres1115-119"
+      ],
+      "references": [],
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 1115, the House proceeded with one hour of debate on H.J. Res. 139",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-18T13:19:56-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-18T17:28:32-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-18T17:35:12-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "95",
+      "status": "PROV_KILL:SUSPENSIONFAILED",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the resolution Failed by the Yeas and Nays: (2/3 required): 211 - 207 (Roll no. 95).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
     }
   ],
   "amendments": [],
@@ -107,6 +159,8 @@
     "active_at": "2026-02-03",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "fail",
+    "house_passage_result_at": "2026-03-18T17:35:12-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-01-09",
@@ -123,8 +177,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-02-03",
+  "status": "PROV_KILL:SUSPENSIONFAILED",
+  "status_at": "2026-03-18T17:35:12-04:00",
   "subjects": [
     "Economics and public finance"
   ],
@@ -151,6 +205,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-17T20:06:17Z",
+  "updated_at": "2026-03-19T08:07:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres139.xml"
 }
