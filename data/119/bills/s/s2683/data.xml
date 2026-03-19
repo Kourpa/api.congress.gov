@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2683" updated="2025-12-16T12:03:16Z">
-  <state datetime="2025-09-02">REFERRED</state>
+<bill session="119" type="s" number="2683" updated="2026-03-19T11:03:27Z">
+  <state datetime="2026-03-18">REPORTED</state>
   <status>
-    <introduced datetime="2025-09-02"/>
+    <unknown datetime="2026-03-18"/>
   </status>
   <introduced datetime="2025-09-02"/>
   <titles>
@@ -28,15 +28,24 @@
     <action datetime="2025-12-10">
       <text>Committee on Veterans' Affairs. Hearings held.</text>
     </action>
+    <action datetime="2026-03-18" state="REPORTED">
+      <text>Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Hearings By (Full Committee), Referred To"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Markup By, Hearings By (Full Committee), Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="2501" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' pensions and compensation"/>
   </subjects>
   <amendments/>
 </bill>
