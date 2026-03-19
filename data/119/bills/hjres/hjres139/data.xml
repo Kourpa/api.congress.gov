@@ -1,4 +1,4 @@
-<bill session="119" type="hj" number="139" updated="2026-03-19T08:07:13Z">
+<bill session="119" type="hj" number="139" updated="2026-03-19T20:14:02Z">
   <state datetime="2026-03-18T17:35:12-04:00">PROV_KILL:SUSPENSIONFAILED</state>
   <status>
     <unknown datetime="2026-03-18T17:35:12-04:00"/>
@@ -37,6 +37,8 @@
     </action>
     <action datetime="2026-03-18T12:20:16-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2560-2568" label="consideration"/>
+      <reference ref="CR H2560-2561" label="text"/>
     </action>
     <action datetime="2026-03-18T12:20:20-04:00">
       <text>DEBATE - Pursuant to the provisions of H. Res. 1115, the House proceeded with one hour of debate on H.J. Res. 139</text>
@@ -46,6 +48,7 @@
     </action>
     <action datetime="2026-03-18T17:28:32-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H2583-2584" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="95" datetime="2026-03-18T17:35:12-04:00" where="h" result="fail" suspension="1" state="PROV_KILL:SUSPENSIONFAILED">
       <text>On motion to suspend the rules and pass the resolution Failed by the Yeas and Nays: (2/3 required): 211 - 207 (Roll no. 95).</text>

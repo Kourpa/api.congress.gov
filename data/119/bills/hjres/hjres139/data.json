@@ -69,7 +69,16 @@
     {
       "acted_at": "2026-03-18T12:20:16-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2560-2568",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H2560-2561",
+          "type": "text"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -93,7 +102,12 @@
     {
       "acted_at": "2026-03-18T17:28:32-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2583-2584",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -205,6 +219,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-19T08:07:13Z",
+  "updated_at": "2026-03-19T20:14:02Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres139.xml"
 }
