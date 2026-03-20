@@ -97,7 +97,12 @@
       "bill_ids": [
         "hres1115-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2600-2606",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 1115.",
       "type": "action"
     },
@@ -130,7 +135,12 @@
       "acted_at": "2026-03-19T10:31:06-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2600",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "96",
       "status": "PASS_OVER:HOUSE",
@@ -489,6 +499,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-20T10:56:33Z",
+  "updated_at": "2026-03-20T16:23:50Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4638.xml"
 }

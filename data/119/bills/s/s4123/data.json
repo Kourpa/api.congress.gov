@@ -31,7 +31,12 @@
     {
       "acted_at": "2026-03-19",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1355-1356",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -39,7 +44,12 @@
       "acted_at": "2026-03-19",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1356",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:SENATE",
       "text": "Passed Senate with an amendment by Unanimous Consent.",
@@ -133,6 +143,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-20T14:21:33Z",
+  "updated_at": "2026-03-20T16:23:59Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4123.xml"
 }
