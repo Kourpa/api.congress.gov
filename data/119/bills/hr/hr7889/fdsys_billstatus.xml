@@ -3,21 +3,33 @@
   <version>3.0.0</version>
   <bill>
     <number>7889</number>
-    <updateDate>2026-03-10T08:05:37Z</updateDate>
-    <updateDateIncludingText>2026-03-10T08:05:37Z</updateDateIncludingText>
+    <updateDate>2026-03-20T08:06:46Z</updateDate>
+    <updateDateIncludingText>2026-03-20T08:06:46Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2026-03-09</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/7889</legislationUrl>
-    <cdata/>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 43 (Monday, March 9, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. WITTMAN:H.R. 7889.Congress has the power to enact this legislation pursuantto the following:Congress has the authority to enact this legislationpursuant to its powers under Article I, Section 8 of theConstitution of the United States.[Page H2477]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsii00</systemCode>
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-03-19T14:00:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -27,6 +39,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-03-09</actionDate>
         <text>Referred to the House Committee on Natural Resources.</text>
@@ -147,6 +174,17 @@
         <sponsorshipDate>2026-03-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>P000597</bioguideId>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <firstName>Chellie</firstName>
+        <lastName>Pingree</lastName>
+        <party>D</party>
+        <state>ME</state>
+        <district>1</district>
+        <sponsorshipDate>2026-03-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <title>To amend the Water Resources Research Act of 1984 to reauthorize the water resources research and technology institutes program, and for other purposes.</title>
     <titles>
@@ -164,8 +202,8 @@
       </item>
     </titles>
     <latestAction>
-      <actionDate>2026-03-09</actionDate>
-      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2026-03-19</actionDate>
+      <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -3,23 +3,33 @@
   <version>3.0.0</version>
   <bill>
     <number>6778</number>
-    <updateDate>2026-01-21T16:13:25Z</updateDate>
-    <updateDateIncludingText>2026-01-21T16:13:25Z</updateDateIncludingText>
+    <updateDate>2026-03-20T08:06:51Z</updateDate>
+    <updateDateIncludingText>2026-03-20T08:06:51Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-12-17</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/6778</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 213 (Wednesday, December 17, 2025)][House][Pages H6023-H6024]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. BEYER:H.R. 6778.Congress has the power to enact this legislation pursuantto the following:[[Page H6024]]Article I, Section 8 of the Constitution of the UnitedStates.&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 213 (Wednesday, December 17, 2025)][House][Pages H6023-H6024]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. BEYER:H.R. 6778.Congress has the power to enact this legislation pursuantto the following:[[Page H6024]]Article I, Section 8 of the Constitution of the UnitedStates.</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsii00</systemCode>
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-03-19T14:00:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -29,6 +39,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-12-17</actionDate>
         <text>Referred to the House Committee on Natural Resources.</text>
@@ -126,8 +151,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-17</actionDate>
-      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2026-03-19</actionDate>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
