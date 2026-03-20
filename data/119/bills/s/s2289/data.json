@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Finance.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-03-19",
+      "action_code": "",
+      "committee": "Committee on Health, Education, Labor, and Pensions",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+      "type": "hearings"
     }
   ],
   "amendments": [],
@@ -25,6 +36,13 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Hearings By (full committee)"
+      ],
+      "committee": "Senate Health, Education, Labor, and Pensions",
+      "committee_id": "SSHR"
+    },
     {
       "activity": [
         "Referred To"
@@ -48,7 +66,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-03-19",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -77,7 +96,7 @@
     "as": "Introduced in Senate",
     "asOf": "2025-07-15",
     "date": "2025-11-18T20:32:47Z",
-    "text": ""
+    "text": "Healthy Moms and Babies Act\n\nThis bill establishes programs and requirements to support maternal health services under Medicaid and the Children's Health Insurance Program (CHIP).\n\nFor example, the bill allows state Medicaid programs to cover services that are provided by maternity health homes (designated providers or health teams that provide pregnancy and postpartum coordinated care services). It also establishes a demonstration program to expand telehealth services for pregnant and postpartum women under Medicaid.\n\nThe bill also establishes an advisory group on birthing practices for health care professionals, requires a study on Medicaid coverage of doula services, and establishes other requirements relating to the maternal health care workforce. It also requires the Centers for Medicare & Medicaid Services to develop guidance on ways to address social determinants of health for pregnant and postpartum women and to reduce maternal mortality for Medicaid and CHIP beneficiaries."
   },
   "titles": [
     {
@@ -102,6 +121,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-18T20:33:32Z",
+  "updated_at": "2026-03-20T11:03:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2289.xml"
 }

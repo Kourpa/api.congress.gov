@@ -17,9 +17,45 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-03-19",
+      "action_code": "",
+      "committees": [
+        "SSCM"
+      ],
+      "references": [],
+      "text": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-19",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-19",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt4707-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "4707"
+    }
+  ],
   "bill_id": "s4123-119",
   "bill_type": "s",
   "by_request": false,
@@ -27,6 +63,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Commerce, Science, and Transportation",
@@ -37,9 +74,12 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-03-19",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-03-19",
     "vetoed": false
   },
   "introduced_at": "2026-03-17",
@@ -56,12 +96,19 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-03-17",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-03-19",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "End Special Treatment for Congress at Airports Act of 2026",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -77,13 +124,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "End Special Treatment for Congress at Airports Act of 2026",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -91,6 +131,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-20T04:53:30Z",
+  "updated_at": "2026-03-20T11:08:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4123.xml"
 }

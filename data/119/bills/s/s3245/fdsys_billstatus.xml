@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3245</number>
-    <updateDate>2025-12-19T17:31:32Z</updateDate>
-    <updateDateIncludingText>2025-12-19T17:31:32Z</updateDateIncludingText>
+    <updateDate>2026-03-20T11:03:19Z</updateDate>
+    <updateDateIncludingText>2026-03-20T11:03:19Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -12,6 +12,18 @@
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/3245</legislationUrl>
     <committees>
+      <item>
+        <systemCode>sshr00</systemCode>
+        <name>Health, Education, Labor, and Pensions Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Hearings By (full committee)</name>
+            <date>2026-03-19T14:01:04Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>ssva00</systemCode>
         <name>Veterans' Affairs Committee</name>
@@ -26,6 +38,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-11-20</actionDate>
         <committees>
@@ -90,7 +116,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>MIND Our Veterans Act of 2025</title>
-        <updateDate>2025-12-18T05:23:16Z</updateDate>
+        <updateDate>2026-03-20T11:03:19Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -129,8 +155,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-20</actionDate>
-      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2026-03-19</actionDate>
+      <text>Committee on Health, Education, Labor, and Pensions. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
