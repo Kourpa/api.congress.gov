@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7147" updated="2026-03-20T16:21:00Z">
-  <state datetime="2026-03-12">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="h" number="7147" updated="2026-03-21T10:56:22Z">
+  <state datetime="2026-03-20">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2026-03-12"/>
+    <unknown datetime="2026-03-20"/>
   </status>
   <introduced datetime="2026-01-20"/>
   <titles>
@@ -136,6 +136,18 @@
       <text>Motion to proceed to consideration of measure made in Senate.</text>
       <reference ref="CR S1311"/>
     </action>
+    <action datetime="2026-03-20">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <action datetime="2026-03-20">
+      <text>Motion to proceed to consideration of the motion to reconsider the vote by which the second cloture on the motion to proceed to the measure was not invoked (Record Vote No. 39) agreed to in Senate by Voice Vote.</text>
+    </action>
+    <action datetime="2026-03-20">
+      <text>Motion by Senator Thune to reconsider the vote (Record Vote No. 39) by which the second cloture motion on the motion to proceed to the measure was not invoked agreed to in Senate by Voice Vote.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="59" datetime="2026-03-20" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Upon reconsideration, second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 37. Record Vote Number: 59.</text>
+    </vote-aux>
   </actions>
   <committees>
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>

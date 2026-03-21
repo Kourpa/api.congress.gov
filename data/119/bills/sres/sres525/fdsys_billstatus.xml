@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>525</number>
-    <updateDate>2026-01-29T11:56:22Z</updateDate>
-    <updateDateIncludingText>2026-01-29T11:56:22Z</updateDateIncludingText>
+    <updateDate>2026-03-21T10:56:22Z</updateDate>
+    <updateDateIncludingText>2026-03-21T10:56:22Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SRES</type>
@@ -46,13 +46,19 @@
       </item>
       <item>
         <actionDate>2025-12-03</actionDate>
-        <text>Introduced in Senate</text>
+        <text>Submitted in Senate</text>
         <type>IntroReferral</type>
-        <actionCode>10000</actionCode>
+        <actionCode>10025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
         </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
       </item>
     </actions>
     <sponsors>
@@ -324,6 +330,17 @@
         <party>R</party>
         <state>KS</state>
         <sponsorshipDate>2026-01-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2026-03-20</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
     </cosponsors>
