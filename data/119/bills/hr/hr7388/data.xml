@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="7388" updated="2026-03-20T19:36:33Z">
+<bill session="119" type="h" number="7388" updated="2026-03-21T03:53:21Z">
   <state datetime="2026-02-11">REPORTED</state>
   <status>
     <unknown datetime="2026-02-11"/>
   </status>
   <introduced datetime="2026-02-05"/>
   <titles>
-    <title type="display">Smart Space Act of 2026</title>
     <title type="short" as="introduced">Smart Space Act of 2026</title>
+    <title type="short" as="reported to house">Smart Space Act of 2026</title>
+    <title type="display">Smart Space Act of 2026</title>
     <title type="official" as="introduced">To direct the Administrator of General Services to convene consultation meetings to identify alternative financing solutions for the construction of new public buildings that will reduce costs to the Federal Government, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="B001316"/>
@@ -30,9 +31,15 @@
     <action datetime="2026-02-11" state="REPORTED">
       <text>Ordered to be Reported (Amended) by Voice Vote.</text>
     </action>
+    <action datetime="2026-03-20">
+      <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-562.</text>
+    </action>
+    <calendar datetime="2026-03-20" calendar="Union" number="483">
+      <text>Placed on the Union Calendar, Calendar No. 483.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
   </committees>
   <relatedbills/>

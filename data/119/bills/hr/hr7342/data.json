@@ -68,6 +68,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by Voice Vote.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-03-20",
+      "action_code": "H12200",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-567, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-20",
+      "action_code": "H12300",
+      "committees": [
+        "HSBA"
+      ],
+      "references": [],
+      "text": "Committee on Financial Services discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-20",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "488",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 488.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -78,6 +108,15 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Financial Services",
+      "committee_id": "HSBA"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "discharged",
         "Referred To"
@@ -93,13 +132,6 @@
       "committee_id": "HSPW",
       "subcommittee": "Subcommittee on Economic Development, Public Buildings, and Emergency Management",
       "subcommittee_id": "13"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Financial Services",
-      "committee_id": "HSBA"
     }
   ],
   "congress": "119",
@@ -153,6 +185,20 @@
   },
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Made in America Jobs Act of 2026",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Made in America Jobs Act of 2026",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -163,17 +209,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Made in America Jobs Act of 2026",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To amend the Public Works and Economic Development Act of 1965 to provide for certain grant eligibility relating to projects that facilitate the relocation, to the United States, of a source of employment located outside the United States, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-20T20:08:37Z",
+  "updated_at": "2026-03-21T03:53:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7342.xml"
 }
