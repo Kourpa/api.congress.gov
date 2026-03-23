@@ -71,7 +71,7 @@
       "action_code": "H30000",
       "references": [
         {
-          "reference": "CR H3508: 1",
+          "reference": "CR H3508",
           "type": "consideration"
         }
       ],
@@ -97,7 +97,7 @@
       "action_code": "H30000",
       "references": [
         {
-          "reference": "CR H3621-3622: 4",
+          "reference": "CR H3621-3622",
           "type": "consideration"
         }
       ],
@@ -182,7 +182,14 @@
   "number": "3357",
   "official_title": "To amend the Securities Exchange Act of 1934 to require issuers with a multi-class stock structure to make certain disclosures in any proxy or consent solicitation material, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s3831-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Enhancing Multi-Class Share Disclosures Act",
   "sponsor": {
     "bioguide_id": "M001137",
@@ -206,7 +213,7 @@
     "as": "Introduced in House",
     "asOf": "2025-05-13",
     "date": "2025-07-18T18:58:56Z",
-    "text": ""
+    "text": "Enhancing Multi-Class Share Disclosures Act \n\nThis bill requires issuers of securities with multi-class share structures to disclose certain information in any proxy solicitation or consent solicitation material. A multi-class share structure occurs when a company issues two or more classes of shares that have different voting rights. For example, a company may issue one class of shares with no or few voting rights for the public, and another class with more voting rights for company founders and executives.\n\nUnder the bill, the issuer must disclose certain information about each director, director nominee, named executive officer, and each beneficial owner of securities with 5% or more of the total combined voting power of all classes of securities entitled to vote in the election of directors. Specifically, the issuer must disclose (1) the number of shares of all classes of securities entitled to vote in the election of directors beneficially owned by such person, and (2) the amount of voting power held by such person."
   },
   "titles": [
     {
@@ -252,6 +259,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-09T03:26:19Z",
+  "updated_at": "2026-03-22T21:55:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3357.xml"
 }

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3357" updated="2025-10-09T03:26:19Z">
+<bill session="119" type="h" number="3357" updated="2026-03-22T21:55:21Z">
   <state datetime="2025-07-23T15:58:28-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-07-23T15:58:28-04:00"/>
@@ -38,7 +38,7 @@
     </action>
     <action datetime="2025-07-21T17:30:32-04:00">
       <text>Considered under suspension of the rules.</text>
-      <reference ref="CR H3508: 1" label="consideration"/>
+      <reference ref="CR H3508" label="consideration"/>
     </action>
     <action datetime="2025-07-21T17:30:33-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3357.</text>
@@ -48,7 +48,7 @@
     </action>
     <action datetime="2025-07-23T15:30:34-04:00">
       <text>Considered as unfinished business.</text>
-      <reference ref="CR H3621-3622: 4" label="consideration"/>
+      <reference ref="CR H3621-3622" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="217" datetime="2025-07-23T15:58:28-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 31 (Roll no. 217).</text>
@@ -65,7 +65,9 @@
     <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="3831" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Finance and financial sector"/>
     <term name="Consumer affairs"/>
@@ -74,7 +76,11 @@
     <term name="Securities"/>
   </subjects>
   <amendments/>
-  <summary date="2025-07-18T18:58:56Z" status="Introduced in House"></summary>
+  <summary date="2025-07-18T18:58:56Z" status="Introduced in House">Enhancing Multi-Class Share Disclosures Act 
+
+This bill requires issuers of securities with multi-class share structures to disclose certain information in any proxy solicitation or consent solicitation material. A multi-class share structure occurs when a company issues two or more classes of shares that have different voting rights. For example, a company may issue one class of shares with no or few voting rights for the public, and another class with more voting rights for company founders and executives.
+
+Under the bill, the issuer must disclose certain information about each director, director nominee, named executive officer, and each beneficial owner of securities with 5% or more of the total combined voting power of all classes of securities entitled to vote in the election of directors. Specifically, the issuer must disclose (1) the number of shares of all classes of securities entitled to vote in the election of directors beneficially owned by such person, and (2) the amount of voting power held by such person.</summary>
   <committee-reports>
     <report>H. Rept. 119-120</report>
   </committee-reports>
