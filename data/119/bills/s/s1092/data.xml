@@ -1,17 +1,17 @@
-<bill session="119" type="s" number="1092" updated="2026-03-23T04:23:19Z">
-  <state datetime="2025-05-21">REPORTED</state>
+<bill session="119" type="s" number="1092" updated="2026-03-23T10:58:23Z">
+  <state datetime="2026-03-22">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-05-21"/>
+    <unknown datetime="2026-03-22"/>
   </status>
   <introduced datetime="2025-03-24"/>
   <titles>
+    <title type="display">WIPPES Act</title>
     <title type="short" as="introduced">Wastewater Infrastructure Pollution Prevention and Environmental Safety Act</title>
     <title type="short" as="introduced">WIPPES Act</title>
     <title type="short" as="reported to senate">Wastewater Infrastructure Pollution Prevention and Environmental Safety Act</title>
     <title type="short" as="reported to senate">WIPPES Act</title>
     <title type="short" as="passed senate">Wastewater Infrastructure Pollution Prevention and Environmental Safety Act</title>
     <title type="short" as="passed senate">WIPPES Act</title>
-    <title type="display">WIPPES Act</title>
     <title type="official" as="introduced">A bill to require certain products to be labeled with 'Do Not Flush' labeling, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M001176"/>
@@ -42,6 +42,9 @@
     <calendar datetime="2025-09-19" calendar="Senate Legislative" under="General Orders" number="166">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 166.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-03-22" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>

@@ -49,6 +49,18 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 356.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-03-22",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -88,6 +100,8 @@
     "active_at": "2025-10-21",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-03-22",
     "vetoed": false
   },
   "introduced_at": "2025-07-31",
@@ -104,8 +118,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-10-21",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-03-22",
   "subjects": [
     "Competitiveness, trade promotion, trade deficits",
     "Congressional oversight",
@@ -116,6 +130,13 @@
   "subjects_top_term": "Government operations and politics",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Global Investment in American Jobs Act of 2025",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -138,13 +159,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Global Investment in American Jobs Act of 2025",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -152,6 +166,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-23T04:23:20Z",
+  "updated_at": "2026-03-23T10:58:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2563.xml"
 }
