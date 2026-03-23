@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="4138" updated="2026-03-21T08:05:50Z">
-  <state datetime="2026-03-19T10:42:18-04:00">PASSED:BILL</state>
+<bill session="119" type="s" number="4138" updated="2026-03-23T14:55:56Z">
+  <state datetime="2026-03-20">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2026-03-19T10:42:18-04:00"/>
+    <unknown datetime="2026-03-20"/>
   </status>
   <introduced datetime="2026-03-18"/>
   <titles>
@@ -45,11 +45,17 @@
     <topresident datetime="2026-03-20">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2026-03-20" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
   </actions>
   <committees/>
   <relatedbills/>
   <subjects>
     <term name="Armed forces and national security"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Military personnel and dependents"/>
   </subjects>
   <amendments/>
 </bill>
