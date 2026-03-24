@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7613</number>
-    <updateDate>2026-03-20T08:06:54Z</updateDate>
-    <updateDateIncludingText>2026-03-20T08:06:54Z</updateDateIncludingText>
+    <updateDate>2026-03-24T08:05:18Z</updateDate>
+    <updateDateIncludingText>2026-03-24T08:05:18Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,30 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/7613</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 34 (Friday, February 20, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. GRAVES:H.R. 7613.Congress has the power to enact this legislation pursuantto the following:Article One, Section 8[Page H2235]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw05</systemCode>
+            <name>Aviation Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-02-21T15:34:58Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-02-20T16:34:45Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsas00</systemCode>
         <name>Armed Services Committee</name>
@@ -25,20 +49,23 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hspw00</systemCode>
-        <name>Transportation and Infrastructure Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2026-02-20T16:34:45Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-02-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw05</systemCode>
+            <name>Aviation Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-02-20</actionDate>
         <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -1122,8 +1149,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-02-20</actionDate>
-      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-02-21</actionDate>
+      <text>Referred to the Subcommittee on Aviation.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
