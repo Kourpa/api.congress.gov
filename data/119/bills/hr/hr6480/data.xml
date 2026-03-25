@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6480" updated="2026-03-24T23:06:15Z">
-  <state datetime="2025-12-18">REPORTED</state>
+<bill session="119" type="h" number="6480" updated="2026-03-25T08:05:34Z">
+  <state datetime="2026-03-24T15:42:04-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-12-18"/>
+    <unknown datetime="2026-03-24T15:42:04-04:00"/>
   </status>
   <introduced datetime="2025-12-04"/>
   <titles>
@@ -37,6 +37,21 @@
     <calendar datetime="2026-03-16" calendar="Union" number="468">
       <text>Placed on the Union Calendar, Calendar No. 468.</text>
     </calendar>
+    <action datetime="2026-03-24T15:37:23-04:00">
+      <text>Mr. Taylor moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-03-24T15:37:34-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-03-24T15:37:35-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6480.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-03-24T15:42:04-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-03-24T15:42:07-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>

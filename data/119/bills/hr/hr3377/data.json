@@ -102,6 +102,13 @@
       "references": [],
       "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-03-24",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -125,7 +132,8 @@
   "history": {
     "active": true,
     "active_at": "2026-02-03T14:17:56-05:00",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2026-03-24",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-02-03T14:18:37-05:00",
@@ -188,6 +196,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-05T11:56:27Z",
+  "updated_at": "2026-03-25T08:05:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3377.xml"
 }

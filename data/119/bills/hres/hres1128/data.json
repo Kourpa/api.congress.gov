@@ -17,6 +17,19 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Homeland Security.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-03-24T19:55:44-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1131-119",
+        "hr8029-119",
+        "hr5103-119",
+        "hr7084-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1131 Reported to House. Rule provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103 and H.R. 7084. The resolution provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103, and H.R. 7084 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 8029, H.R. 5103, and H.R. 7084.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -34,10 +47,142 @@
     }
   ],
   "congress": "119",
-  "cosponsors": [],
+  "cosponsors": [
+    {
+      "bioguide_id": "C001103",
+      "district": "1",
+      "name": "Carter, Earl L. \"Buddy\"",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "GA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "E000300",
+      "district": "8",
+      "name": "Evans, Gabe",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "CO",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "F000484",
+      "district": "6",
+      "name": "Fine, Randy",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "H001095",
+      "district": "38",
+      "name": "Hunt, Wesley",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "K000399",
+      "district": "2",
+      "name": "Kiggans, Jennifer A.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "VA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "L000596",
+      "district": "13",
+      "name": "Luna, Anna Paulina",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001157",
+      "district": "10",
+      "name": "McCaul, Michael T.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "N000193",
+      "district": "3",
+      "name": "Nunn, Zachary",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "IA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "R000619",
+      "district": "6",
+      "name": "Rulli, Michael A.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "OH",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S000250",
+      "district": "17",
+      "name": "Sessions, Pete",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S001172",
+      "district": "3",
+      "name": "Smith, Adrian",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "NE",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "T000478",
+      "district": "24",
+      "name": "Tenney, Claudia",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "V000139",
+      "district": "7",
+      "name": "Van Epps, Matt",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-03-24",
+      "state": "TN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    }
+  ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-03-24T19:55:44-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -46,7 +191,14 @@
   "number": "1128",
   "official_title": "Expressing the support of the House of Representatives for the Department of Homeland Security.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1131-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "M001230",
@@ -84,6 +236,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-23T13:50:41Z",
+  "updated_at": "2026-03-25T08:35:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1128.xml"
 }
