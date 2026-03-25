@@ -19,6 +19,35 @@
       "type": "referral"
     },
     {
+      "acted_at": "2026-03-24",
+      "action_code": "",
+      "committees": [
+        "SSAF"
+      ],
+      "references": [],
+      "text": "Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-24",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-03-24",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
       "acted_at": "2026-03-24T14:02:29-04:00",
       "action_code": "H14000",
       "references": [],
@@ -41,6 +70,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Agriculture, Nutrition, and Forestry",
@@ -73,9 +103,11 @@
   "enacted_as": null,
   "history": {
     "active": true,
-    "active_at": "2026-03-24T14:02:29-04:00",
+    "active_at": "2026-03-24",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-03-24",
     "vetoed": false
   },
   "introduced_at": "2025-02-19",
@@ -92,8 +124,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-19",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-03-24",
   "subjects": [
     "Agriculture and food"
   ],
@@ -105,6 +137,13 @@
     "text": "Emergency Conservation Program Improvement Act of 2025 \n\nThis bill revises the Emergency Conservation Program (ECP) and the Emergency Forest Restoration Program (EFRP) to expand eligibility for payments to agricultural producers and owners of forest land impacted by natural disasters. The bill also\u00a0provides additional options to receive an advance on cost-sharing payments before carrying out emergency measures.\n\nThe bill expands advance ECP payments to include\u00a0the replacement, repair, or restoration of farmland or conservation structures requiring an immediate response. Producers may receive an advance on cost-sharing payments for 75% of the cost of the replacement and 50% of the cost of the repair or restoration. Current law limits advance payments to 25% of the cost of the repair or replacement of fencing.\n\nUnder EFRP, the bill allows owners of nonindustrial private forest land impacted by a natural disaster to receive an advance on cost-sharing payments for up to 75% of the cost of the emergency measures. Currently, advance payments are not available under the program.\n\nECP and EFRP recipients must use the funds within 180 days after the funds are disbursed. This provides additional time to ECP recipients who currently must use the funds within 60 days.\n\nThe bill also expands eligibility for payments under the programs to include emergency measures to address damages caused by (1) a wildfire that is not caused naturally, if the damage is caused by the spread of the wildfire due to natural causes; and (2) a wildfire that is caused by the federal government."
   },
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Emergency Conservation Program Improvement Act of 2025",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -120,13 +159,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Emergency Conservation Program Improvement Act of 2025",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -134,6 +166,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-25T04:23:26Z",
+  "updated_at": "2026-03-25T11:33:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s629.xml"
 }
