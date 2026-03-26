@@ -39,9 +39,45 @@
       "status": "REPORTED",
       "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-03-25",
+      "action_code": "",
+      "committees": [
+        "SSEG"
+      ],
+      "references": [],
+      "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt4784-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "4784"
+    }
+  ],
   "bill_id": "s858-119",
   "bill_type": "s",
   "by_request": false,
@@ -49,6 +85,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Markup By",
         "Markup By",
         "Referred To"
@@ -205,6 +242,8 @@
     "active_at": "2025-12-09",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-03-25",
     "vetoed": false
   },
   "introduced_at": "2025-03-05",
@@ -228,8 +267,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-12-17",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-03-25",
   "subjects": [
     "Conflicts and wars",
     "Congressional tributes",
@@ -250,6 +289,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Hershel \u2018Woody' Williams National Medal of Honor Monument Location Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -264,13 +310,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Hershel \u2018Woody' Williams National Medal of Honor Monument Location Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -278,6 +317,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-26T06:38:22Z",
+  "updated_at": "2026-03-26T11:08:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s858.xml"
 }
