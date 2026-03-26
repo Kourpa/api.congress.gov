@@ -393,7 +393,12 @@
     {
       "acted_at": "2026-03-24",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1561",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate (Message from the House considered).",
       "type": "action"
     },
@@ -417,7 +422,12 @@
       "committees": [
         "SSRA"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1569-1570",
+          "type": null
+        }
+      ],
       "text": "Motion by Senator Thune to refer to Senate Committee on Rules and Administration the House message to accompany S. 1383 with instructions to report back forthwith with the following amendment (SA 4772) made in Senate.",
       "type": "action"
     },
@@ -2957,6 +2967,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-26T11:08:19Z",
+  "updated_at": "2026-03-26T14:30:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1383.xml"
 }
