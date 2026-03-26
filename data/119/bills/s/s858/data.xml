@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="858" updated="2026-03-26T11:08:19Z">
+<bill session="119" type="s" number="858" updated="2026-03-26T19:43:41Z">
   <state datetime="2026-03-25">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2026-03-25"/>
@@ -44,9 +44,11 @@
     </action>
     <action datetime="2026-03-25">
       <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S1605" label="consideration"/>
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2026-03-25" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S1605" label="text of amendment in the nature of a substitute"/>
     </vote>
   </actions>
   <committees>

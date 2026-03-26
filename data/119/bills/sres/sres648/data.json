@@ -39,7 +39,12 @@
     {
       "acted_at": "2026-03-25",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1609-1610",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -47,7 +52,12 @@
       "acted_at": "2026-03-25",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1610",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:SIMPLERES",
       "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
@@ -138,6 +148,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-26T11:08:19Z",
+  "updated_at": "2026-03-26T19:51:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres648.xml"
 }
