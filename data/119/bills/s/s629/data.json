@@ -32,7 +32,16 @@
       "acted_at": "2026-03-24",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1565",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S1565",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:SENATE",
       "text": "Passed Senate without amendment by Unanimous Consent.",
@@ -127,7 +136,12 @@
   "status": "PASS_OVER:SENATE",
   "status_at": "2026-03-24",
   "subjects": [
-    "Agriculture and food"
+    "Agricultural prices, subsidies, credit",
+    "Agriculture and food",
+    "Emergency planning and evacuation",
+    "Fires",
+    "Forests, forestry, trees",
+    "Natural disasters"
   ],
   "subjects_top_term": "Agriculture and food",
   "summary": {
@@ -166,6 +180,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-25T11:33:21Z",
+  "updated_at": "2026-03-26T14:26:57Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s629.xml"
 }
