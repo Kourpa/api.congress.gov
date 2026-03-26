@@ -141,9 +141,100 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 1131 Reported to House. Rule provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103 and H.R. 7084. The resolution provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103, and H.R. 7084 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 8029, H.R. 5103, and H.R. 7084.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25T14:15:17-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1131-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1131.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25T14:15:22-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr8029-119",
+        "hres1128-119",
+        "hr7084-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103 and H.R. 7084. The resolution provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103, and H.R. 7084 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 8029, H.R. 5103, and H.R. 7084.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25T14:16:43-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 5103.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25T14:49:19-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25T14:49:43-04:00",
+      "action_code": "H36200",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "text": "Ms. McClellan moved to recommit to the Committee on Oversight and Government Reform.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25T14:49:59-04:00",
+      "action_code": "H8A000",
+      "references": [],
+      "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25T15:23:01-04:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "text": "On motion to recommit Failed by the Yeas and Nays: 207 - 214 (Roll no. 100).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25T15:30:02-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "101",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 218 - 206 (Roll no. 101).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-03-25T15:30:05-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt171-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "171"
+    }
+  ],
   "bill_id": "hr5103-119",
   "bill_type": "hr",
   "by_request": false,
@@ -154,6 +245,8 @@
   "committees": [
     {
       "activity": [
+        "Unknown",
+        "Unknown",
         "Reported By",
         "Markup By",
         "Referred To"
@@ -231,6 +324,8 @@
     "active_at": "2025-09-10",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-03-25T15:30:02-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-09-03",
@@ -254,8 +349,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-09-10",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-03-25T15:30:02-04:00",
   "subjects": [
     "Advisory bodies",
     "Border security and unlawful immigration",
@@ -316,6 +411,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-25T20:41:18Z",
+  "updated_at": "2026-03-26T08:09:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5103.xml"
 }

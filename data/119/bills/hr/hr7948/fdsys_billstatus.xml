@@ -3,21 +3,37 @@
   <version>3.0.0</version>
   <bill>
     <number>7948</number>
-    <updateDate>2026-03-17T08:05:51Z</updateDate>
-    <updateDateIncludingText>2026-03-17T08:05:51Z</updateDateIncludingText>
+    <updateDate>2026-03-26T08:06:35Z</updateDate>
+    <updateDateIncludingText>2026-03-26T08:06:35Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2026-03-16</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/7948</legislationUrl>
-    <cdata/>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 47 (Monday, March 16, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mrs. RAMIREZ:H.R. 7948.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution of the UnitedStates[Page H2530]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsvr00</systemCode>
         <name>Veterans' Affairs Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr08</systemCode>
+            <name>Oversight and Investigations Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2026-03-25T13:29:00Z</date>
+              </item>
+              <item>
+                <name>Referred to</name>
+                <date>2026-03-24T11:29:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -39,6 +55,36 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr08</systemCode>
+            <name>Oversight and Investigations Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-03-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr08</systemCode>
+            <name>Oversight and Investigations Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-03-16</actionDate>
         <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -121,8 +167,8 @@
       </item>
     </titles>
     <latestAction>
-      <actionDate>2026-03-16</actionDate>
-      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-03-25</actionDate>
+      <text>Subcommittee Hearings Held</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

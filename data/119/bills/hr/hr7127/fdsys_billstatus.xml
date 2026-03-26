@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7127</number>
-    <updateDate>2026-03-10T18:07:36Z</updateDate>
-    <updateDateIncludingText>2026-03-10T18:07:36Z</updateDateIncludingText>
+    <updateDate>2026-03-26T04:58:22Z</updateDate>
+    <updateDateIncludingText>2026-03-26T04:58:22Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-03-25T18:47:16Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-03-04T16:08:00Z</date>
           </item>
@@ -31,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-25</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 493.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00493</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-03-25</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-573.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-03-25</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-573.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-03-04</actionDate>
         <committees>
@@ -144,6 +193,16 @@
     <title>Restoring the Secondary Trading Market Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Restoring the Secondary Trading Market Act</title>
+        <updateDate>2026-03-26T04:58:22Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Restoring the Secondary Trading Market Act</title>
@@ -167,6 +226,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-03-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr7127rh/xml/BILLS-119hr7127rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2026-01-16T05:00:00Z</date>
