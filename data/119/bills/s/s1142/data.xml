@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="1142" updated="2026-03-26T06:38:22Z">
-  <state datetime="2025-03-26">REFERRED</state>
+<bill session="119" type="s" number="1142" updated="2026-03-26T10:58:21Z">
+  <state datetime="2026-03-25">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-03-26"/>
+    <unknown datetime="2026-03-25"/>
   </status>
   <introduced datetime="2025-03-26"/>
   <titles>
+    <title type="display">Scarper Ridge Golden Gate National Recreation Area Boundary Adjustment Act</title>
     <title type="short" as="introduced">Scarper Ridge Golden Gate National Recreation Area Boundary Adjustment Act</title>
     <title type="short" as="passed senate">Scarper Ridge Golden Gate National Recreation Area Boundary Adjustment Act</title>
-    <title type="display">Scarper Ridge Golden Gate National Recreation Area Boundary Adjustment Act</title>
     <title type="official" as="introduced">A bill to adjust the boundaries of the Golden Gate National Recreation Area to include the Scarper Ridge property.</title>
   </titles>
   <sponsor bioguide_id="P000145"/>
@@ -22,9 +22,15 @@
       <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
       <reference ref="CR S1873-1874" label="Sponsor introductory remarks on measure"/>
     </action>
+    <action datetime="2026-03-25">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-03-25" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="2371" relation="identical"/>

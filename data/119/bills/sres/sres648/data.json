@@ -25,9 +25,45 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on Armed Services.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-03-25",
+      "action_code": "",
+      "committees": [
+        "SSAS"
+      ],
+      "references": [],
+      "text": "Senate Committee on Armed Services discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-25",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt4785-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "4785"
+    }
+  ],
   "bill_id": "sres648-119",
   "bill_type": "sres",
   "by_request": false,
@@ -35,6 +71,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Armed Services",
@@ -56,9 +93,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-03-25",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-03-25",
     "vetoed": false
   },
   "introduced_at": "2026-03-17",
@@ -75,8 +115,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-03-17",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2026-03-25",
   "subjects": [
     "Armed forces and national security"
   ],
@@ -98,6 +138,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-20T15:26:31Z",
+  "updated_at": "2026-03-26T11:08:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres648.xml"
 }

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6422" updated="2026-03-26T03:08:23Z">
+<bill session="119" type="h" number="6422" updated="2026-03-26T10:56:29Z">
   <state datetime="2026-03-24T18:56:48-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-03-24T18:56:48-04:00"/>
@@ -64,8 +64,12 @@
     <action datetime="2026-03-24T18:56:49-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2026-03-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSPW02" name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral"/>
   </committees>

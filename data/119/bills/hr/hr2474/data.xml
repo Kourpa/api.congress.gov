@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2474" updated="2026-03-26T03:08:24Z">
+<bill session="119" type="h" number="2474" updated="2026-03-26T10:56:31Z">
   <state datetime="2026-03-24T15:37:12-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-03-24T15:37:12-04:00"/>
@@ -58,8 +58,12 @@
     <action datetime="2026-03-24T15:37:21-04:00">
       <text>The title of the measure was amended. Agreed to without objection.</text>
     </action>
+    <action datetime="2026-03-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
   </committees>

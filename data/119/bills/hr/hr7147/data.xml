@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7147" updated="2026-03-25T11:08:42Z">
-  <state datetime="2026-03-20">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="h" number="7147" updated="2026-03-26T10:56:28Z">
+  <state datetime="2026-03-25">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2026-03-20"/>
+    <unknown datetime="2026-03-25"/>
   </status>
   <introduced datetime="2026-01-20"/>
   <titles>
@@ -168,6 +168,21 @@
       <text>Motion to proceed to consideration of measure made in Senate.</text>
     </action>
     <action datetime="2026-03-24">
+      <text>Fourth cloture motion on the motion to proceed to the measure presented in Senate.</text>
+    </action>
+    <action datetime="2026-03-25">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <action datetime="2026-03-25">
+      <text>Motion to proceed to consideration of the motion to reconsider the vote by which the third cloture on the motion to proceed to the measure was not invoked (Record Vote No. 54) agreed to in Senate by Voice Vote.</text>
+    </action>
+    <action datetime="2026-03-25">
+      <text>Motion by Senator Thune to reconsider the vote (Record Vote No. 54) by which the third cloture motion on the motion to proceed to the measure was not invoked agreed to in Senate by Voice Vote.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="71" datetime="2026-03-25" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Upon reconsideration, third cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 71.</text>
+    </vote-aux>
+    <action datetime="2026-03-25">
       <text>Fourth cloture motion on the motion to proceed to the measure presented in Senate.</text>
     </action>
   </actions>
