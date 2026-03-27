@@ -37,7 +37,12 @@
       "bill_ids": [
         "hres1131-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2723-2731",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 1131.",
       "type": "action"
     },
@@ -77,7 +82,12 @@
     {
       "acted_at": "2026-03-26T14:45:22-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2750-2751",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -85,7 +95,12 @@
       "acted_at": "2026-03-26T15:12:04-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2723-2724",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "102",
       "status": "PASSED:SIMPLERES",
@@ -301,6 +316,9 @@
   "status": "PASSED:SIMPLERES",
   "status_at": "2026-03-26T15:12:04-04:00",
   "subjects": [
+    "Congressional tributes",
+    "Department of Homeland Security",
+    "House of Representatives",
     "Immigration"
   ],
   "subjects_top_term": "Immigration",
@@ -326,6 +344,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-27T08:09:17Z",
+  "updated_at": "2026-03-27T18:36:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1128.xml"
 }

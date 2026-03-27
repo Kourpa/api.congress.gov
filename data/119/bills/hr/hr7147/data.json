@@ -549,7 +549,12 @@
     {
       "acted_at": "2026-03-26",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1648",
+          "type": null
+        }
+      ],
       "text": "Motion to proceed to consideration of measure made in Senate.",
       "type": "action"
     },
@@ -557,7 +562,12 @@
       "acted_at": "2026-03-26",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1651-1652",
+          "type": null
+        }
+      ],
       "result": "fail",
       "roll": "73",
       "status": "PROV_KILL:CLOTUREFAILED",
@@ -576,7 +586,12 @@
     {
       "acted_at": "2026-03-27",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1660",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -866,6 +881,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-27T13:34:52Z",
+  "updated_at": "2026-03-27T19:23:49Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7147.xml"
 }
