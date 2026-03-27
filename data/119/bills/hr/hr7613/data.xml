@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7613" updated="2026-03-25T08:05:41Z">
-  <state datetime="2026-02-20">REFERRED</state>
+<bill session="119" type="h" number="7613" updated="2026-03-27T08:06:33Z">
+  <state datetime="2026-03-26">REPORTED</state>
   <status>
-    <introduced datetime="2026-02-20"/>
+    <unknown datetime="2026-03-26"/>
   </status>
   <introduced datetime="2026-02-20"/>
   <titles>
@@ -112,11 +112,26 @@
     <action datetime="2026-02-21">
       <text>Referred to the Subcommittee on Aviation.</text>
     </action>
+    <action datetime="2026-03-26">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-03-26">
+      <text>Subcommittee on Aviation Discharged</text>
+    </action>
+    <action datetime="2026-03-26">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-03-26" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 62 - 0.</text>
+    </action>
+    <action datetime="2026-03-26">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
-    <committee code="HSPW05" name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral"/>
-    <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSPW05" name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Discharged, Referral"/>
+    <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

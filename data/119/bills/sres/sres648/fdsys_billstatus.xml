@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>648</number>
-    <updateDate>2026-03-26T20:38:29Z</updateDate>
-    <updateDateIncludingText>2026-03-26T20:38:29Z</updateDateIncludingText>
+    <updateDate>2026-03-27T11:08:26Z</updateDate>
+    <updateDateIncludingText>2026-03-27T11:08:26Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SRES</type>
@@ -35,12 +35,12 @@
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1610)</text>
+        <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S1610)</text>
         <type>Floor</type>
       </item>
       <item>
         <actionDate>2026-03-25</actionDate>
-        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S1610)</text>
         <type>Floor</type>
         <actionCode>17000</actionCode>
         <sourceSystem>
@@ -194,7 +194,7 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To amend the preamble.</purpose>
-        <updateDate>2026-03-26T19:51:28Z</updateDate>
+        <updateDate>2026-03-27T11:08:26Z</updateDate>
         <latestAction>
           <actionDate>2026-03-25</actionDate>
           <text>Amendment SA 4785 agreed to in Senate by Unanimous Consent.</text>
@@ -245,7 +245,7 @@
           <originChamberCode>S</originChamberCode>
           <number>648</number>
           <title>A resolution honoring the memory, service, and sacrifice of Master Sergeant Nicole M. Amor, United States Army Reserve.</title>
-          <updateDateIncludingText>2026-03-26</updateDateIncludingText>
+          <updateDateIncludingText>2026-03-27</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>6</count>
@@ -279,9 +279,9 @@
             </item>
             <item>
               <actionDate>2026-03-25</actionDate>
-              <text>Senate amendment submitted</text>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4785 proposed by Senator Thune for Senator Klobuchar.</text>
               <type>Floor</type>
-              <actionCode>91000</actionCode>
+              <actionCode>93000</actionCode>
               <sourceSystem>
                 <code>9</code>
                 <name>Library of Congress</name>
@@ -289,9 +289,9 @@
             </item>
             <item>
               <actionDate>2026-03-25</actionDate>
-              <text>Senate amendment proposed (on the floor): Amendment SA 4785 proposed by Senator Thune for Senator Klobuchar.</text>
+              <text>Senate amendment submitted</text>
               <type>Floor</type>
-              <actionCode>93000</actionCode>
+              <actionCode>91000</actionCode>
               <sourceSystem>
                 <code>9</code>
                 <name>Library of Congress</name>
@@ -316,6 +316,15 @@
     </amendments>
     <textVersions>
       <item>
+        <type>Agreed to Senate</type>
+        <date>2026-03-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119sres648ats/xml/BILLS-119sres648ats.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in Senate</type>
         <date>2026-03-17T04:00:00Z</date>
         <formats>
@@ -327,7 +336,7 @@
     </textVersions>
     <latestAction>
       <actionDate>2026-03-25</actionDate>
-      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1610)</text>
+      <text>Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S1610)</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

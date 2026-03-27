@@ -1,16 +1,17 @@
-<bill session="119" type="h" number="7147" updated="2026-03-26T19:48:11Z">
-  <state datetime="2026-03-25">PROV_KILL:CLOTUREFAILED</state>
+<bill session="119" type="h" number="7147" updated="2026-03-27T13:34:52Z">
+  <state datetime="2026-03-27">PASS_BACK:SENATE</state>
   <status>
-    <unknown datetime="2026-03-25"/>
+    <unknown datetime="2026-03-27"/>
   </status>
   <introduced datetime="2026-01-20"/>
   <titles>
+    <title type="display">Homeland Security and Further Additional Continuing Appropriations Act, 2026.</title>
     <title type="short" as="introduced" partial="1">Department of Homeland Security Appropriations Act, 2026</title>
     <title type="short" as="passed house" partial="1">Department of Homeland Security Appropriations Act, 2026</title>
     <title type="short" as="senate calendar) bill text">Department of Homeland Security Appropriations Act, 2026</title>
+    <title type="short">Homeland Security and Further Additional Continuing Appropriations Act, 2026.</title>
     <title type="official" as="introduced">Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.</title>
     <title type="official">Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.</title>
-    <title type="display">Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001053"/>
   <cosponsors/>
@@ -144,7 +145,7 @@
       <text>Motion to proceed to consideration of the motion to reconsider the vote by which the second cloture on the motion to proceed to the measure was not invoked (Record Vote No. 39) agreed to in Senate by Voice Vote.</text>
     </action>
     <action datetime="2026-03-20">
-      <text>Motion by Senator Thune to reconsider the vote (Record Vote No. 39) by which the second cloture motion on the motion to proceed to the measure was not invoked agreed to in Senate by Voice Vote.</text>
+      <text>Motion by Senator Thune to reconsider the vote by which the second cloture motion on the motion to proceed to the measure was not invoked (Record Vote No. 39) agreed to in Senate by Voice Vote.</text>
     </action>
     <vote-aux how="roll" type="cloture" roll="59" datetime="2026-03-20" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
       <text>Upon reconsideration, second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 37. Record Vote Number: 59.</text>
@@ -188,8 +189,29 @@
       <reference ref="CR S1599-1600"/>
     </vote-aux>
     <action datetime="2026-03-25">
-      <text>Fourth cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <text>Fifth cloture motion on the motion to proceed to the measure presented in Senate.</text>
       <reference ref="CR S1609"/>
+    </action>
+    <action datetime="2026-03-26">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="73" datetime="2026-03-26" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Fourth cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 73.</text>
+    </vote-aux>
+    <action datetime="2026-03-26">
+      <text>Motion by Senator Thune to reconsider the vote by which the fourth cloture on the motion to proceed to the measure was not invoked (Record Vote No. 73) entered in Senate.</text>
+    </action>
+    <action datetime="2026-03-27">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="2026-03-27" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="2026-03-27">
+      <text>Fifth cloture motion on the motion to proceed to the measure rendered moot in Senate.</text>
+    </action>
+    <action datetime="2026-03-27">
+      <text>Motion by Senator Thune to reconsider the vote by which the fourth cloture on the motion to proceed to the measure was not invoked (Record Vote No. 73) rendered moot in Senate.</text>
     </action>
   </actions>
   <committees>
@@ -256,6 +278,8 @@
     <term name="Youth employment and child labor"/>
   </subjects>
   <amendments>
+    <amendment number="s4790"/>
+    <amendment number="s4789"/>
     <amendment number="s4775"/>
     <amendment number="s4300"/>
     <amendment number="s4299"/>

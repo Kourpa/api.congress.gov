@@ -108,6 +108,36 @@
       "references": [],
       "text": "Reported by the Committee on Natural Resources. H. Rept. 119-439, Part I.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-03-26",
+      "action_code": "H12200",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Energy and Commerce. H. Rept. 119-439, Part II.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-26",
+      "action_code": "H12300",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Committee on Agriculture discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-03-26",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "494",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 494.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -120,15 +150,24 @@
   "committees": [
     {
       "activity": [
-        "Reported By",
-        "Markup By",
+        "Discharged From",
         "Referred To"
       ],
-      "committee": "House Natural Resources",
-      "committee_id": "HSII"
+      "committee": "House Agriculture",
+      "committee_id": "HSAG"
     },
     {
       "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Commodity Markets, Digital Assets, and Rural Development",
+      "subcommittee_id": "22"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Referred To"
       ],
       "committee": "House Energy and Commerce",
@@ -147,19 +186,12 @@
     },
     {
       "activity": [
+        "Reported By",
+        "Markup By",
         "Referred To"
       ],
-      "committee": "House Agriculture",
-      "committee_id": "HSAG"
-    },
-    {
-      "activity": [
-        "referral"
-      ],
-      "committee": "House Agriculture",
-      "committee_id": "HSAG",
-      "subcommittee": "Subcommittee on Commodity Markets, Digital Assets, and Rural Development",
-      "subcommittee_id": "22"
+      "committee": "House Natural Resources",
+      "committee_id": "HSII"
     }
   ],
   "congress": "119",
@@ -224,9 +256,23 @@
     "as": "Introduced in House",
     "asOf": "2025-02-27",
     "date": "2025-07-22T10:16:10Z",
-    "text": ""
+    "text": "Expediting Federal Broadband Deployment Reviews Act\n\nThis bill establishes an interagency strike force to support federal land management agencies' review of requests for communications use authorizations. (A communications use authorization is required to modify or locate communications facilities on public lands.)\n\nThe strike force must (1) conduct periodic calls with strike force members to ensure that each agency prioritizes the review of requests for communications use authorizations, (2) establish goals for the review of the requests, and (3) monitor and facilitate agency accountability for meeting the established goals.\n\nThe bill specifies that the strike force must include the head of the National Telecommunications and Information Administration, the head of each federal land management agency, and other members designated by the Department of Agriculture and the Department of the Interior. The bill also requires the strike force to report to Congress regarding its effectiveness."
   },
   "titles": [
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Expediting Federal Broadband Deployment Reviews Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Expediting Federal Broadband Deployment Reviews Act",
+      "type": "short"
+    },
     {
       "as": null,
       "is_for_portion": false,
@@ -238,17 +284,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Expediting Federal Broadband Deployment Reviews Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To require the Assistant Secretary of Commerce for Communications and Information to establish an interagency strike force to ensure that certain Federal land management agencies, including the organizational units of such agencies, prioritize the review of requests for communications use authorizations, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-13T17:20:26Z",
+  "updated_at": "2026-03-27T08:53:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1681.xml"
 }

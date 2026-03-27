@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>257</number>
-    <updateDate>2026-03-12T15:06:28Z</updateDate>
-    <updateDateIncludingText>2026-03-12T15:06:28Z</updateDateIncludingText>
+    <updateDate>2026-03-27T11:03:20Z</updateDate>
+    <updateDateIncludingText>2026-03-27T11:03:20Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -12,6 +12,22 @@
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/257</legislationUrl>
     <committees>
+      <item>
+        <systemCode>ssbk00</systemCode>
+        <name>Banking, Housing, and Urban Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Hearings By (full committee)</name>
+            <date>2026-03-26T14:00:00Z</date>
+          </item>
+          <item>
+            <name>Hearings By (full committee)</name>
+            <date>2025-02-11T19:34:37Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>sscm00</systemCode>
         <name>Commerce, Science, and Transportation Committee</name>
@@ -29,18 +45,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-01-27T17:24:46Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>ssbk00</systemCode>
-        <name>Banking, Housing, and Urban Affairs Committee</name>
-        <chamber>Senate</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Hearings By (full committee)</name>
-            <date>2025-02-11T19:34:37Z</date>
           </item>
         </activities>
       </item>
@@ -69,6 +73,20 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-03-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-07-03</actionDate>
         <actionTime>14:32:49</actionTime>
@@ -343,7 +361,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Promoting Resilient Supply Chains Act of 2025</title>
-        <updateDate>2025-10-01T11:03:12Z</updateDate>
+        <updateDate>2026-03-27T11:03:20Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
@@ -439,7 +457,7 @@
           <originChamberCode>S</originChamberCode>
           <number>257</number>
           <title>Promoting Resilient Supply Chains Act of 2025</title>
-          <updateDateIncludingText>2026-03-12</updateDateIncludingText>
+          <updateDateIncludingText>2026-03-27</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>6</count>
@@ -538,9 +556,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-03</actionDate>
-      <text>Held at the desk.</text>
-      <actionTime>14:32:49</actionTime>
+      <actionDate>2026-03-26</actionDate>
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
