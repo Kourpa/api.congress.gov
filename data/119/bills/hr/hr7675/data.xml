@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7675" updated="2026-03-06T09:06:41Z">
-  <state datetime="2026-02-25">REFERRED</state>
+<bill session="119" type="h" number="7675" updated="2026-03-28T08:06:15Z">
+  <state datetime="2026-03-26">REPORTED</state>
   <status>
-    <introduced datetime="2026-02-25"/>
+    <unknown datetime="2026-03-26"/>
   </status>
   <introduced datetime="2026-02-25"/>
   <titles>
@@ -23,9 +23,15 @@
     <action datetime="2026-02-25" state="REFERRED">
       <text>Referred to the House Committee on Foreign Affairs.</text>
     </action>
+    <action datetime="2026-03-26">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-03-26" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 43 - 3.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
