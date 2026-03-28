@@ -1,14 +1,15 @@
-<bill session="119" type="h" number="7147" updated="2026-03-28T08:06:32Z">
+<bill session="119" type="h" number="7147" updated="2026-03-28T11:08:25Z">
   <state datetime="2026-03-27T23:26:24-04:00">PASS_BACK:HOUSE</state>
   <status>
     <unknown datetime="2026-03-27T23:26:24-04:00"/>
   </status>
   <introduced datetime="2026-01-20"/>
   <titles>
-    <title type="display">Homeland Security and Further Additional Continuing Appropriations Act, 2026.</title>
+    <title type="display">Further Additional Continuing Appropriations Act, 2026</title>
     <title type="short" as="introduced" partial="1">Department of Homeland Security Appropriations Act, 2026</title>
     <title type="short" as="passed house" partial="1">Department of Homeland Security Appropriations Act, 2026</title>
     <title type="short" as="senate calendar) bill text">Department of Homeland Security Appropriations Act, 2026</title>
+    <title type="short">Further Additional Continuing Appropriations Act, 2026</title>
     <title type="short">Homeland Security and Further Additional Continuing Appropriations Act, 2026.</title>
     <title type="official" as="introduced">Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.</title>
     <title type="official">Making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.</title>
@@ -196,12 +197,15 @@
       <text>Motion to proceed to consideration of measure made in Senate.</text>
       <reference ref="CR S1648"/>
     </action>
-    <vote-aux how="roll" type="cloture" roll="73" datetime="2026-03-26" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
-      <text>Fourth cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 73.</text>
+    <vote-aux how="roll" type="cloture" roll="74" datetime="2026-03-26" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Fourth cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 74.</text>
       <reference ref="CR S1651-1652"/>
     </vote-aux>
     <action datetime="2026-03-26">
-      <text>Motion by Senator Thune to reconsider the vote by which the fourth cloture on the motion to proceed to the measure was not invoked (Record Vote No. 73) entered in Senate.</text>
+      <text>Motion by Senator Thune to reconsider the vote by which the fourth cloture on the motion to proceed to the measure was not invoked (Record Vote No. 74) entered in Senate.</text>
+    </action>
+    <action datetime="2026-03-27">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text>
     </action>
     <action datetime="2026-03-27">
       <text>Measure laid before Senate by unanimous consent.</text>
@@ -215,6 +219,9 @@
     </action>
     <action datetime="2026-03-27">
       <text>Motion by Senator Thune to reconsider the vote by which the fourth cloture on the motion to proceed to the measure was not invoked (Record Vote No. 73) rendered moot in Senate.</text>
+    </action>
+    <action datetime="2026-03-27">
+      <text>Message on Senate action sent to the House.</text>
     </action>
     <vote how="by special rule" type="pingpong" datetime="2026-03-27T23:26:24-04:00" where="h" result="pass" state="PASS_BACK:HOUSE">
       <text>House agreed to Senate amendment with amendment pursuant to H. Res. 1142</text>
