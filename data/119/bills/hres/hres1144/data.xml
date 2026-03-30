@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="1144" updated="2026-03-28T12:18:22Z">
+<bill session="119" type="hr" number="1144" updated="2026-03-30T17:36:38Z">
   <state datetime="2026-03-27">REFERRED</state>
   <status>
     <introduced datetime="2026-03-27"/>
@@ -33,7 +33,11 @@
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="sr" number="645" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+  </subjects>
   <amendments/>
 </bill>
