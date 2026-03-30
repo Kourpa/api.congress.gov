@@ -33,7 +33,12 @@
     {
       "acted_at": "2026-03-27T21:33:03-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2793-2803",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -47,7 +52,12 @@
     {
       "acted_at": "2026-03-27T23:20:03-04:00",
       "action_code": "H35000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2802",
+          "type": "consideration"
+        }
+      ],
       "text": "On ordering the previous question Agreed to by the Yeas and Nays: 209 - 206 (Roll no. 107).",
       "type": "action"
     },
@@ -55,7 +65,12 @@
       "acted_at": "2026-03-27T23:26:20-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2793",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "108",
       "status": "PASSED:SIMPLERES",
@@ -143,6 +158,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-28T22:26:20Z",
+  "updated_at": "2026-03-30T14:48:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1142.xml"
 }
