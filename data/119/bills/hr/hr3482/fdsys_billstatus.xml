@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3482</number>
-    <updateDate>2026-03-20T19:05:18Z</updateDate>
-    <updateDateIncludingText>2026-03-20T19:05:18Z</updateDateIncludingText>
+    <updateDate>2026-03-31T04:53:24Z</updateDate>
+    <updateDateIncludingText>2026-03-31T04:53:24Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -36,6 +36,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-03-30T16:07:56Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-02-12T19:00:42Z</date>
           </item>
@@ -51,6 +55,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-30</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 496.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00496</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-03-30</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-576.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-03-30</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-576.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-02-12</actionDate>
         <committees>
@@ -226,6 +275,16 @@
     <title>Veterans Community Care Scheduling Improvement Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Veterans Community Care Scheduling Improvement Act</title>
+        <updateDate>2026-03-31T04:53:24Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Veterans Community Care Scheduling Improvement Act</title>
@@ -249,6 +308,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-03-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr3482rh/xml/BILLS-119hr3482rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2025-05-19T04:00:00Z</date>
