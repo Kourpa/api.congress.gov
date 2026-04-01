@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7747" updated="2026-03-30T18:26:29Z">
+<bill session="119" type="h" number="7747" updated="2026-04-01T08:05:35Z">
   <state datetime="2026-03-02">REFERRED</state>
   <status>
     <introduced datetime="2026-03-02"/>
@@ -29,9 +29,13 @@
     <action datetime="2026-03-02">
       <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-03-16">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Referral"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
   </committees>
