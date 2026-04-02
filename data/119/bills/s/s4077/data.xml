@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="4077" updated="2026-03-24T05:18:23Z">
+<bill session="119" type="s" number="4077" updated="2026-04-01T20:21:23Z">
   <state datetime="2026-03-12">REFERRED</state>
   <status>
     <introduced datetime="2026-03-12"/>
@@ -22,7 +22,11 @@
   <committees>
     <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="7924" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
   <amendments/>
 </bill>
