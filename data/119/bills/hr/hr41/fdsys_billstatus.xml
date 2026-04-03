@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>41</number>
-    <updateDate>2026-03-07T09:06:34Z</updateDate>
-    <updateDateIncludingText>2026-03-07T09:06:34Z</updateDateIncludingText>
+    <updateDate>2026-04-03T05:38:26Z</updateDate>
+    <updateDateIncludingText>2026-04-03T05:38:26Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-04-02T13:25:56Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-03-05T17:45:00Z</date>
@@ -49,6 +53,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 499.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00499</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-579.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-579.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-03-05</actionDate>
         <committees>
@@ -224,6 +273,16 @@
     <title>Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</title>
+        <updateDate>2026-04-03T05:38:26Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act</title>
@@ -247,6 +306,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-04-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr41rh/xml/BILLS-119hr41rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2025-01-03T05:00:00Z</date>

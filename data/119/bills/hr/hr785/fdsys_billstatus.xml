@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>785</number>
-    <updateDate>2026-02-24T22:20:25Z</updateDate>
-    <updateDateIncludingText>2026-02-24T22:20:25Z</updateDateIncludingText>
+    <updateDate>2026-04-03T05:38:28Z</updateDate>
+    <updateDateIncludingText>2026-04-03T05:38:28Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -36,6 +36,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-04-02T13:25:39Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-02-12T19:01:55Z</date>
           </item>
@@ -51,6 +55,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 498.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00498</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-578.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-578.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-02-12</actionDate>
         <committees>
@@ -432,13 +481,23 @@
         <text><![CDATA[<p><strong>Representing our Seniors at VA Act of 2025</strong></p><p>This bill expands the membership of the Geriatrics and Gerontology Advisory Committee within the Veterans Health Administration by requiring the addition of one representative from the National Association of State Veterans Homes who holds a professional license in nursing home administration. Additionally, the committee must consult with the National Association of Veterans State Homes with respect to matters concerning the association.</p>]]></text>
       </summary>
     </summaries>
-    <title>Representing our Seniors at VA Act of 2025</title>
+    <title>Representing our Seniors at VA Act of 2026</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>Representing our Seniors at VA Act of 2025</title>
-        <updateDate>2025-07-23T14:12:42Z</updateDate>
+        <title>Representing our Seniors at VA Act of 2026</title>
+        <updateDate>2026-04-03T05:38:28Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Representing our Seniors at VA Act of 2026</title>
+        <updateDate>2026-04-03T05:38:27Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -458,6 +517,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-04-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr785rh/xml/BILLS-119hr785rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2025-01-28T05:00:00Z</date>

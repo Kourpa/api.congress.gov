@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2768</number>
-    <updateDate>2026-03-27T18:50:23Z</updateDate>
-    <updateDateIncludingText>2026-03-27T18:50:23Z</updateDateIncludingText>
+    <updateDate>2026-04-03T05:38:27Z</updateDate>
+    <updateDateIncludingText>2026-04-03T05:38:27Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-04-02T13:27:51Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-03-05T17:45:00Z</date>
@@ -49,6 +53,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 502.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00502</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-582.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-582.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-03-05</actionDate>
         <committees>
@@ -207,13 +256,23 @@
         <updateDate>2025-05-22T14:55:02Z</updateDate>
       </policyArea>
     </subjects>
-    <title>Benton MacKaye National Scenic Trail Feasibility Study Act of 2025</title>
+    <title>Benton MacKaye National Scenic Trail Feasibility Study Act of 2026</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>Benton MacKaye National Scenic Trail Feasibility Study Act of 2025</title>
-        <updateDate>2025-04-23T04:23:20Z</updateDate>
+        <title>Benton MacKaye National Scenic Trail Feasibility Study Act of 2026</title>
+        <updateDate>2026-04-03T05:38:27Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Benton MacKaye National Scenic Trail Feasibility Study Act of 2026</title>
+        <updateDate>2026-04-03T05:38:25Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -233,6 +292,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-04-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2768rh/xml/BILLS-119hr2768rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2025-04-09T04:00:00Z</date>

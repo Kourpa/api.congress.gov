@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2252</number>
-    <updateDate>2026-03-07T09:06:36Z</updateDate>
-    <updateDateIncludingText>2026-03-07T09:06:36Z</updateDateIncludingText>
+    <updateDate>2026-04-03T05:38:27Z</updateDate>
+    <updateDateIncludingText>2026-04-03T05:38:27Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-04-02T13:27:36Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-03-05T17:45:00Z</date>
@@ -49,6 +53,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 501.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00501</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-581.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-04-02</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-581.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-03-05</actionDate>
         <committees>
@@ -131,19 +180,46 @@
       <name>Public Lands and Natural Resources</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Indian lands and resources rights</name>
+          <updateDate>2026-03-09T16:28:25Z</updateDate>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+          <updateDate>2026-03-09T16:28:25Z</updateDate>
+        </item>
+        <item>
+          <name>Land transfers</name>
+          <updateDate>2026-03-09T16:28:25Z</updateDate>
+        </item>
+        <item>
+          <name>North Dakota</name>
+          <updateDate>2026-03-09T16:28:25Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Public Lands and Natural Resources</name>
         <updateDate>2025-05-12T18:23:22Z</updateDate>
       </policyArea>
     </subjects>
-    <title>North Dakota Trust Lands Completion Act of 2025</title>
+    <title>North Dakota Trust Lands Completion Act of 2026</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>North Dakota Trust Lands Completion Act of 2025</title>
-        <updateDate>2025-03-27T03:23:26Z</updateDate>
+        <title>North Dakota Trust Lands Completion Act of 2026</title>
+        <updateDate>2026-04-03T05:38:27Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>North Dakota Trust Lands Completion Act of 2026</title>
+        <updateDate>2026-04-03T05:38:26Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -163,6 +239,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-04-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2252rh/xml/BILLS-119hr2252rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2025-03-21T04:00:00Z</date>
