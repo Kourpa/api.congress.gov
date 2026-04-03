@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="4041" updated="2026-04-02T18:46:44Z">
+<bill session="119" type="s" number="4041" updated="2026-04-03T14:50:40Z">
   <state datetime="2026-03-10">REFERRED</state>
   <status>
     <introduced datetime="2026-03-10"/>
@@ -28,7 +28,9 @@
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="SSEG07" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Hearings By (Subcommittee)"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="7978" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Water resources development"/>
     <term name="Water quality"/>
