@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7997" updated="2026-04-02T05:38:26Z">
+<bill session="119" type="h" number="7997" updated="2026-04-06T13:24:45Z">
   <state datetime="2026-03-19">REFERRED</state>
   <status>
     <introduced datetime="2026-03-19"/>
@@ -25,7 +25,11 @@
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="4154" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+  </subjects>
   <amendments/>
 </bill>
