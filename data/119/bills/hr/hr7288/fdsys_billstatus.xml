@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7288</number>
-    <updateDate>2026-02-23T21:25:13Z</updateDate>
-    <updateDateIncludingText>2026-02-23T21:25:13Z</updateDateIncludingText>
+    <updateDate>2026-04-10T08:05:45Z</updateDate>
+    <updateDateIncludingText>2026-04-10T08:05:45Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-04-09T14:34:19Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -33,8 +45,8 @@
         <number>3723</number>
         <type>S</type>
         <latestAction>
-          <actionDate>2026-01-29</actionDate>
-          <text>Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S379)</text>
+          <actionDate>2026-03-17</actionDate>
+          <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -49,8 +61,8 @@
         <number>3725</number>
         <type>S</type>
         <latestAction>
-          <actionDate>2026-01-29</actionDate>
-          <text>Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S379-380)</text>
+          <actionDate>2026-03-17</actionDate>
+          <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -61,6 +73,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-04-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-01-30</actionDate>
         <text>Referred to the House Committee on Natural Resources.</text>
@@ -113,7 +140,40 @@
       <name>Water Resources Development</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Congressional oversight</name>
+          <updateDate>2026-03-30T18:13:09Z</updateDate>
+        </item>
+        <item>
+          <name>Environmental assessment, monitoring, research</name>
+          <updateDate>2026-03-30T18:13:09Z</updateDate>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+          <updateDate>2026-03-30T18:13:09Z</updateDate>
+        </item>
+        <item>
+          <name>Missouri River</name>
+          <updateDate>2026-03-30T18:13:09Z</updateDate>
+        </item>
+        <item>
+          <name>Rural conditions and development</name>
+          <updateDate>2026-03-30T18:13:09Z</updateDate>
+        </item>
+        <item>
+          <name>South Dakota</name>
+          <updateDate>2026-03-30T18:13:09Z</updateDate>
+        </item>
+        <item>
+          <name>Water resources funding</name>
+          <updateDate>2026-03-30T18:13:09Z</updateDate>
+        </item>
+        <item>
+          <name>Water use and supply</name>
+          <updateDate>2026-03-30T18:13:09Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Water Resources Development</name>
         <updateDate>2026-02-17T18:40:51Z</updateDate>
@@ -156,8 +216,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-30</actionDate>
-      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2026-04-09</actionDate>
+      <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
