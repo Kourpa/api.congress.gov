@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7031" updated="2026-03-30T18:17:27Z">
+<bill session="119" type="h" number="7031" updated="2026-04-10T23:28:45Z">
   <state datetime="2026-01-13">REFERRED</state>
   <status>
     <introduced datetime="2026-01-13"/>
@@ -31,7 +31,9 @@
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="290" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
     <term name="Congressional oversight"/>
