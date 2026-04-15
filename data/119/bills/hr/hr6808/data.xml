@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6808" updated="2026-02-13T17:20:26Z">
-  <state datetime="2026-02-04">REPORTED</state>
+<bill session="119" type="h" number="6808" updated="2026-04-15T08:05:58Z">
+  <state datetime="2026-04-14T16:16:39-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-02-04"/>
+    <unknown datetime="2026-04-14T16:16:39-04:00"/>
   </status>
   <introduced datetime="2025-12-17"/>
   <titles>
@@ -32,6 +32,21 @@
     <action datetime="2026-02-04" state="REPORTED">
       <text>Ordered to be Reported by Voice Vote.</text>
     </action>
+    <action datetime="2026-04-14T16:11:29-04:00">
+      <text>Mr. Gill (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-04-14T16:11:47-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-04-14T16:11:49-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6808.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-04-14T16:16:39-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-04-14T16:16:41-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
@@ -41,5 +56,5 @@
     <term name="Government operations and politics"/>
   </subjects>
   <amendments/>
-  <summary date="2026-01-21T05:20:45Z" status="Introduced in House"></summary>
+  <summary date="2026-01-21T05:20:45Z" status="Introduced in House">This bill designates the facility of the United States Postal Service located at 417 West 7th Street in Columbia, Tennessee, as the "Pharmacist's Mate First Class John Harlan Willis Post Office Building".</summary>
 </bill>
