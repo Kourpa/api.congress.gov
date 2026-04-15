@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="8113" updated="2026-04-10T05:48:32Z">
+<bill session="119" type="h" number="8113" updated="2026-04-15T01:32:35Z">
   <state datetime="2026-03-26">REFERRED</state>
   <status>
     <introduced datetime="2026-03-26"/>
@@ -23,7 +23,11 @@
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="3743" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
   <amendments/>
 </bill>
