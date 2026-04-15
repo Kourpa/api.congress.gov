@@ -49,7 +49,12 @@
     {
       "acted_at": "2026-04-14T15:57:30-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2851-2852",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -64,7 +69,12 @@
       "acted_at": "2026-04-14T16:00:46-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2851",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -322,6 +332,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-15T08:05:49Z",
+  "updated_at": "2026-04-15T16:55:49Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5773.xml"
 }

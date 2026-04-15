@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1011" updated="2026-04-15T12:33:16Z">
+<bill session="119" type="h" number="1011" updated="2026-04-15T17:03:26Z">
   <state datetime="2026-04-14T19:00:33-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-04-14T19:00:33-04:00"/>
@@ -31,6 +31,7 @@
     </action>
     <action datetime="2026-04-14T15:04:43-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2844-2846" label="consideration"/>
     </action>
     <action datetime="2026-04-14T15:04:44-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1011.</text>
@@ -40,9 +41,11 @@
     </action>
     <action datetime="2026-04-14T18:31:41-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H2874" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="109" datetime="2026-04-14T19:00:33-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 395 - 10 (Roll no. 109).</text>
+      <reference ref="CR H2844" label="text"/>
     </vote>
     <action datetime="2026-04-14T19:00:35-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
