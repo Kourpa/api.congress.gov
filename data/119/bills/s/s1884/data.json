@@ -149,6 +149,24 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2026-04-13",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
+    },
+    {
+      "acted_at": "2026-04-13",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "82",
+      "references": [],
+      "text": "Became Public Law No: 119-82.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -380,13 +398,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "82"
+  },
   "history": {
     "active": true,
     "active_at": "2025-11-06",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2026-04-02",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2026-04-13",
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-03-16T15:35:17-04:00",
     "senate_passage_result": "pass",
@@ -414,8 +436,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2026-03-16T15:35:17-04:00",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2026-04-13",
   "subjects": [
     "Art, artists, authorship",
     "Civil actions and liability",
@@ -478,6 +500,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-03T08:05:24Z",
+  "updated_at": "2026-04-15T13:15:42Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1884.xml"
 }
