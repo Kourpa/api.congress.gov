@@ -64,7 +64,12 @@
     {
       "acted_at": "2026-04-15T13:39:36-04:00",
       "action_code": "H36600",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2899-2900",
+          "type": "consideration"
+        }
+      ],
       "text": "Ms. Pressley moved to discharge.",
       "type": "action"
     },
@@ -85,7 +90,16 @@
     {
       "acted_at": "2026-04-15T13:52:23-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2900-2902",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H2900",
+          "type": "text"
+        }
+      ],
       "text": "Considered from the Discharge Calendar.",
       "type": "action"
     },
@@ -185,6 +199,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-16T08:06:47Z",
+  "updated_at": "2026-04-16T16:08:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres965.xml"
 }

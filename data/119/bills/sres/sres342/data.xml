@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="342" updated="2025-08-03T10:56:20Z">
+<bill session="119" type="sr" number="342" updated="2026-04-16T13:34:54Z">
   <state datetime="2025-07-29">REFERRED</state>
   <status>
     <introduced datetime="2025-07-29"/>
@@ -37,13 +37,15 @@
     </action>
     <action datetime="2025-07-29" state="REFERRED">
       <text>Referred to the Committee on Commerce, Science, and Transportation.</text>
-      <reference ref="CR S4829: 2" label="text"/>
+      <reference ref="CR S4829" label="text"/>
     </action>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="622" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Sports and recreation"/>
   </subjects>
