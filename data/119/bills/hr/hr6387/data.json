@@ -88,6 +88,19 @@
       "text": "Placed on the Union Calendar, Calendar No. 515.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-04-15T09:14:22-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1174-119",
+        "hr6398-119",
+        "hr6409-119",
+        "hres1156-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1174 Reported to House. Rule provides for consideration of H.R. 6387, H.R. 6398, H.R. 6409 and H. Res. 1156. The resolution provides for consideration of each measure under a closed rule with one hour of general debate on each measure. The resolution also provides one motion to recommit on H.R. 6387, H.R. 6398, and H.R. 6409.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -164,7 +177,14 @@
   "number": "6387",
   "official_title": "To amend the Clean Air Act to require revisions to regulations governing the review and handling of air quality monitoring data influenced by exceptional events or actions to mitigate wildfire risk.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1174-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "FIRE Act",
   "sponsor": {
     "bioguide_id": "E000300",
@@ -239,6 +259,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-14T15:03:47Z",
+  "updated_at": "2026-04-16T08:35:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6387.xml"
 }

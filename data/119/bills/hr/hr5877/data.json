@@ -48,6 +48,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 54 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-04-15",
+      "action_code": "H12200",
+      "committees": [
+        "HSBA"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 119-612, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-15",
+      "action_code": "H12300",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee on the Judiciary discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-15",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "530",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 530.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -58,18 +88,20 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Judiciary",
+      "committee_id": "HSJU"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Financial Services",
       "committee_id": "HSBA"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Judiciary",
-      "committee_id": "HSJU"
     }
   ],
   "congress": "119",
@@ -175,6 +207,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-15T16:05:25Z",
+  "updated_at": "2026-04-16T08:07:06Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5877.xml"
 }

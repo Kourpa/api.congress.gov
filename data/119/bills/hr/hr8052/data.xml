@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="8052" updated="2026-04-09T20:59:30Z">
+<bill session="119" type="h" number="8052" updated="2026-04-16T08:07:03Z">
   <state datetime="2026-03-24">REFERRED</state>
   <status>
     <introduced datetime="2026-03-24"/>
@@ -18,9 +18,16 @@
     <action datetime="2026-03-24" state="REFERRED">
       <text>Referred to the House Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2026-03-25">
+      <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+    </action>
+    <action datetime="2026-04-15">
+      <text>Subcommittee Consideration and Mark-up Session Held</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR08" name="House Veterans' Affairs" subcommittee="Oversight and Investigations" activity="Markup, Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

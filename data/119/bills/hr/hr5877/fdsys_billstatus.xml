@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5877</number>
-    <updateDate>2026-04-15T16:05:25Z</updateDate>
-    <updateDateIncludingText>2026-04-15T16:05:25Z</updateDateIncludingText>
+    <updateDate>2026-04-16T08:07:06Z</updateDate>
+    <updateDateIncludingText>2026-04-16T08:07:06Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,11 +14,31 @@
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 182 (Friday, October 31, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. FITZGERALD:H.R. 5877.Congress has the power to enact this legislation pursuantto the following:Article I, Section VIII of the United States Constitution[Page H4567]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-04-15T18:18:01Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-10-31T17:04:15Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsba00</systemCode>
         <name>Financial Services Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-04-15T18:17:30Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-01-22T18:00:07Z</date>
@@ -26,18 +46,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-10-31T17:04:10Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hsju00</systemCode>
-        <name>Judiciary Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-10-31T17:04:15Z</date>
           </item>
         </activities>
       </item>
@@ -61,6 +69,83 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-04-15</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 530.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00530</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-04-15</actionDate>
+        <text>Committee on the Judiciary discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-04-15</actionDate>
+        <text>Committee on the Judiciary discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-04-15</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-612, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-04-15</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-612, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-01-22</actionDate>
         <committees>
@@ -280,8 +365,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-22</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 54 - 0.</text>
+      <actionDate>2026-04-15</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 530.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
