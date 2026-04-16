@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Veterans' Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-04-14",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Oversight and Investigations.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2026-04-15",
+      "action_code": "",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Subcommittee Consideration and Mark-up Session Held",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -31,6 +51,16 @@
       ],
       "committee": "House Veterans' Affairs",
       "committee_id": "HSVR"
+    },
+    {
+      "activity": [
+        "markup",
+        "referral"
+      ],
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR",
+      "subcommittee": "Subcommittee on Oversight and Investigations",
+      "subcommittee_id": "08"
     }
   ],
   "congress": "119",
@@ -96,6 +126,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "L000606",
+      "district": "16",
+      "name": "Latimer, George",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-04-15",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "L000599",
       "district": "17",
       "name": "Lawler, Michael",
@@ -138,7 +178,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-04-15",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -187,6 +228,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-15T08:06:14Z",
+  "updated_at": "2026-04-16T08:06:45Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8041.xml"
 }

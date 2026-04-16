@@ -20,6 +20,72 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Ways and Means.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-04-15T09:14:22-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1174-119",
+        "hr6387-119",
+        "hr6398-119",
+        "hr6409-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1174 Reported to House. Rule provides for consideration of H.R. 6387, H.R. 6398, H.R. 6409 and H. Res. 1156. The resolution provides for consideration of each measure under a closed rule with one hour of general debate on each measure. The resolution also provides one motion to recommit on H.R. 6387, H.R. 6398, and H.R. 6409.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-15T13:37:32-04:00",
+      "action_code": "H1L220",
+      "bill_ids": [
+        "hres1174-119"
+      ],
+      "references": [],
+      "text": "Rule H. Res. 1174 passed House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-15T15:39:38-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1174-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1174.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-15T15:39:43-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr6387-119",
+        "hr6398-119",
+        "hr6409-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 6387, H.R. 6398, H.R. 6409 and H. Res. 1156. The resolution provides for consideration of each measure under a closed rule with one hour of general debate on each measure. The resolution also provides one motion to recommit on H.R. 6387, H.R. 6398, and H.R. 6409.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-15T15:40:25-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H. Res. 1156.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-15T16:56:43-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule on the resolution and the preamble.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-15T16:56:53-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1156, the Chair put the question on agreeing to the resolution, and by voice vote, announced that the ayes had prevailed. Mr. Thompson (CA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -119,6 +185,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "F000475",
+      "district": "1",
+      "name": "Finstad, Brad",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-04-15",
+      "state": "MN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "G000568",
       "district": "9",
       "name": "Griffith, H. Morgan",
@@ -149,12 +225,32 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "H001093",
+      "district": "9",
+      "name": "Houchin, Erin",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-04-15",
+      "state": "IN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "H001095",
       "district": "38",
       "name": "Hunt, Wesley",
       "original_cosponsor": false,
       "sponsored_at": "2026-04-14",
       "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "K000397",
+      "district": "40",
+      "name": "Kim, Young",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-04-15",
+      "state": "CA",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -261,7 +357,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-04-15T09:14:22-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -270,7 +367,14 @@
   "number": "1156",
   "official_title": "Expressing support for tax policies that support working families.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1174-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "K000376",
@@ -308,6 +412,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-15T08:05:54Z",
+  "updated_at": "2026-04-16T08:07:03Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1156.xml"
 }
