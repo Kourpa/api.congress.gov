@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2066" updated="2026-02-04T04:11:39Z">
-  <state datetime="2025-12-01T14:53:37-05:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="2066" updated="2026-04-16T10:56:31Z">
+  <state datetime="2026-04-15">PASSED:BILL</state>
   <status>
-    <unknown datetime="2025-12-01T14:53:37-05:00"/>
+    <unknown datetime="2026-04-15"/>
   </status>
   <introduced datetime="2025-03-11"/>
   <titles>
@@ -63,9 +63,15 @@
     <action datetime="2025-12-02">
       <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
     </action>
+    <action datetime="2026-04-15">
+      <text>Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2026-04-15" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" subcommittee="" activity="Referred To"/>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
@@ -81,7 +87,15 @@
     <term name="Small business"/>
   </subjects>
   <amendments/>
-  <summary date="2025-12-01T20:35:06Z" status="Reported to House"></summary>
+  <summary date="2025-12-01T20:35:06Z" status="Reported to House">Investing in All of America Act of 2025
+
+This bill modifies the limit on the amount of financing available to a&#160;Small Business Investment Company (SBIC)&#160;from the Small Business Administration (SBA). It also expands the definition of private capital with respect to SBICs.
+
+Specifically, the bill reduces the&#160;maximum outstanding financing available to an SBIC from 300% to 200% of the SBIC's private capital.&#160;The bill increases from $350 million to $450 million the maximum financing available to two or more commonly controlled SBICs that make quarterly or semiannual interest payments.
+
+The bill also&#160;expands the amounts that may be excluded from the calculation of the&#160;financing limit to include the amounts an SBIC invests in (1) rural areas, (2)&#160;certain technology categories, or (3) small manufacturers. The bill revises the&#160;cap on such excluded amounts&#160;to&#160;the lesser of $125 million or the aggregate of 50% of the private capital of the SBIC.
+
+Additionally, the bill expands what is considered the private capital of an&#160;SBIC to include funds obtained from the business revenue of additional government-sponsored corporations and funds invested by the trust or endowment of a college or university.</summary>
   <committee-reports>
     <report>H. Rept. 119-227</report>
   </committee-reports>
