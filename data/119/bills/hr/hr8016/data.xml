@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="8016" updated="2026-04-14T05:23:25Z">
+<bill session="119" type="h" number="8016" updated="2026-04-17T19:28:41Z">
   <state datetime="2026-03-19">REFERRED</state>
   <status>
     <introduced datetime="2026-03-19"/>
@@ -41,7 +41,11 @@
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="4153" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
   <amendments/>
 </bill>

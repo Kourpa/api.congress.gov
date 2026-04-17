@@ -33,7 +33,16 @@
     {
       "acted_at": "2026-04-16T23:22:31-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2948-2955",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H2948",
+          "type": "text"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -124,9 +133,16 @@
   },
   "status": "FAIL:ORIGINATING:HOUSE",
   "status_at": "2026-04-17T02:08:35-04:00",
-  "subjects": [],
-  "subjects_top_term": null,
-  "summary": null,
+  "subjects": [
+    "Congress"
+  ],
+  "subjects_top_term": "Congress",
+  "summary": {
+    "as": "Reported to House",
+    "asOf": "2026-04-15",
+    "date": "2026-04-16T08:19:50Z",
+    "text": "This resolution provides for the consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through October 20, 2027, and for other purposes."
+  },
   "titles": [
     {
       "as": null,
@@ -143,6 +159,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-17T14:27:46Z",
+  "updated_at": "2026-04-17T18:27:53Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1175.xml"
 }
