@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1175</number>
-    <updateDate>2026-04-16T19:06:19Z</updateDate>
-    <updateDateIncludingText>2026-04-16T19:06:19Z</updateDateIncludingText>
+    <updateDate>2026-04-17T08:09:18Z</updateDate>
+    <updateDateIncludingText>2026-04-17T08:09:18Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -38,9 +38,9 @@
         <number>8035</number>
         <type>HR</type>
         <latestAction>
-          <actionDate>2026-04-15</actionDate>
-          <text>Rules Committee Resolution H. Res. 1175 Reported to House. Rule provides for consideration of H.R. 8035 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.</text>
-          <actionTime>09:14:40</actionTime>
+          <actionDate>2026-04-17</actionDate>
+          <text>Rule H. Res. 1175 failed passage of House.</text>
+          <actionTime>02:08:36</actionTime>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -55,6 +55,81 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-04-17</actionDate>
+        <actionTime>02:08:38</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-04-17</actionDate>
+        <actionTime>02:08:35</actionTime>
+        <text>On agreeing to the resolution Failed by recorded vote: 197 - 228 (Roll no. 124).</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>124</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll124.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-04-17T06:08:35Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-04-17</actionDate>
+        <actionTime>02:08:35</actionTime>
+        <text>Failed of passage/not agreed to in House On agreeing to the resolution Failed by recorded vote: 197 - 228 (Roll no. 124).</text>
+        <type>Floor</type>
+        <actionCode>9000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>124</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll124.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-04-17T06:08:35Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-04-16</actionDate>
+        <actionTime>23:23:34</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 1175.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-04-16</actionDate>
+        <actionTime>23:22:31</actionTime>
+        <text>Considered as privileged matter.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2026-04-15</actionDate>
         <text>Placed on the House Calendar, Calendar No. 71.</text>
@@ -123,6 +198,221 @@
         <updateDate>2026-04-16T08:07:02Z</updateDate>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>175</number>
+        <congress>119</congress>
+        <type>HAMDT</type>
+        <description>An amendment to strike the first section after the resolving clause and insert a new paragraph providing for the consideration of H.R. 8035.</description>
+        <updateDate>2026-04-17T08:09:18Z</updateDate>
+        <latestAction>
+          <actionDate>2026-04-17</actionDate>
+          <text>On agreeing to the Scott, Austin amendment (A001) Failed by the Yeas and Nays: 200 - 220 (Roll no. 123).</text>
+          <actionTime>01:23:24</actionTime>
+          <links>
+            <link>
+              <name>Roll no. 123</name>
+              <url>https://www.congress.gov/votes/house/119-2/123</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S001189</bioguideId>
+            <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+            <firstName>Austin</firstName>
+            <lastName>Scott</lastName>
+            <party>R</party>
+            <state>GA</state>
+            <district>8</district>
+          </item>
+        </sponsors>
+        <submittedDate>2026-04-17T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HRES</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1175</number>
+          <title>Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through October 20, 2027, and for other purposes.</title>
+          <updateDateIncludingText>2026-04-17</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>9</count>
+          <actions>
+            <item>
+              <actionDate>2026-04-17</actionDate>
+              <actionTime>01:23:24</actionTime>
+              <text>On agreeing to the Scott, Austin amendment (A001) Failed by the Yeas and Nays: 200 - 220 (Roll no. 123).</text>
+              <type>Floor</type>
+              <actionCode>73000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>123</rollNumber>
+                  <chamber>House</chamber>
+                  <congress>119</congress>
+                  <date>2026-04-17T05:23:24Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://clerk.house.gov/evs/2026/roll123.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-04-17</actionDate>
+              <actionTime>01:23:24</actionTime>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>123</rollNumber>
+                  <chamber>House</chamber>
+                  <congress>119</congress>
+                  <date>2026-04-17T05:23:24Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://clerk.house.gov/evs/2026/roll123.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-04-17</actionDate>
+              <actionTime>01:14:13</actionTime>
+              <text>On ordering the previous question on the amendment and the Agreed to by the Yeas and Nays: 211 - 210 (Roll no. 122).</text>
+              <type>Floor</type>
+              <actionCode>74000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>122</rollNumber>
+                  <chamber>House</chamber>
+                  <congress>119</congress>
+                  <date>2026-04-17T05:14:13Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://clerk.house.gov/evs/2026/roll122.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-04-17</actionDate>
+              <actionTime>01:14:13</actionTime>
+              <text>On ordering the previous question on the amendment and the Agreed to by the Yeas and Nays: 211 - 210 (Roll no. 122).</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>122</rollNumber>
+                  <chamber>House</chamber>
+                  <congress>119</congress>
+                  <date>2026-04-17T05:14:13Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://clerk.house.gov/evs/2026/roll122.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-04-17</actionDate>
+              <actionTime>00:05:03</actionTime>
+              <text>Amendment (A001) offered by Mr. Scott, Austin.</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-04-17</actionDate>
+              <actionTime>01:14:13</actionTime>
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>122</rollNumber>
+                  <chamber>House</chamber>
+                  <congress>119</congress>
+                  <date>2026-04-17T05:14:13Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://clerk.house.gov/evs/2026/roll122.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-04-17</actionDate>
+              <actionTime>01:23:24</actionTime>
+              <text>House amendment not agreed to: On agreeing to the Scott, Austin amendment (A001) Failed by the Yeas and Nays: 200 - 220 (Roll no. 123).</text>
+              <type>Floor</type>
+              <actionCode>73000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>123</rollNumber>
+                  <chamber>House</chamber>
+                  <congress>119</congress>
+                  <date>2026-04-17T05:23:24Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://clerk.house.gov/evs/2026/roll123.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-04-17</actionDate>
+              <actionTime>01:23:24</actionTime>
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>123</rollNumber>
+                  <chamber>House</chamber>
+                  <congress>119</congress>
+                  <date>2026-04-17T05:23:24Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://clerk.house.gov/evs/2026/roll123.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-04-17</actionDate>
+              <actionTime>00:05:03</actionTime>
+              <text>House Amendment Offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Reported in House</type>
@@ -135,8 +425,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-04-15</actionDate>
-      <text>Placed on the House Calendar, Calendar No. 71.</text>
+      <actionDate>2026-04-17</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>02:08:38</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
