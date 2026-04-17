@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6001</number>
-    <updateDate>2026-03-28T08:06:38Z</updateDate>
-    <updateDateIncludingText>2026-03-28T08:06:38Z</updateDateIncludingText>
+    <updateDate>2026-04-17T08:07:17Z</updateDate>
+    <updateDateIncludingText>2026-04-17T08:07:17Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -23,6 +23,14 @@
             <systemCode>hsvr03</systemCode>
             <name>Health Subcommittee</name>
             <activities>
+              <item>
+                <name>Reported by</name>
+                <date>2026-04-16T20:32:37Z</date>
+              </item>
+              <item>
+                <name>Markup by</name>
+                <date>2026-04-16T13:38:03Z</date>
+              </item>
               <item>
                 <name>Hearings By (subcommittee)</name>
                 <date>2026-01-13T17:13:29Z</date>
@@ -43,6 +51,36 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-04-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-04-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-01-13</actionDate>
         <committees>
@@ -293,8 +331,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-13</actionDate>
-      <text>Subcommittee Hearings Held</text>
+      <actionDate>2026-04-16</actionDate>
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

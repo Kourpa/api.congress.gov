@@ -4,7 +4,7 @@
   <bill>
     <number>965</number>
     <updateDate>2026-04-17T03:53:23Z</updateDate>
-    <updateDateIncludingText>2026-04-17T04:03:25Z</updateDateIncludingText>
+    <updateDateIncludingText>2026-04-17T08:03:38Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -37,18 +37,87 @@
         <number>1689</number>
         <type>HR</type>
         <latestAction>
-          <actionDate>2025-02-27</actionDate>
-          <text>Referred to the House Committee on the Judiciary.</text>
+          <actionDate>2026-04-16</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>14:22:04</actionTime>
         </latestAction>
         <relationshipDetails>
           <item>
             <type>Related bill</type>
             <identifiedBy>CRS</identifiedBy>
           </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
         </relationshipDetails>
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-04-16</actionDate>
+        <actionTime>12:43:42</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-04-16</actionDate>
+        <actionTime>12:43:40</actionTime>
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 207 (Roll no. 119).</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>119</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll119.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-04-16T16:43:40Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-04-16</actionDate>
+        <actionTime>12:43:40</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 207 (Roll no. 119).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>119</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll119.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-04-16T16:43:40Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-04-16</actionDate>
+        <actionTime>12:33:34</actionTime>
+        <text>Considered as unfinished business.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2026-04-15</actionDate>
         <actionTime>14:11:35</actionTime>
