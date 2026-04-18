@@ -94,6 +94,25 @@
     },
     {
       "acted_at": "2026-04-17",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-04-17",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-17",
       "action_code": "E20000",
       "references": [],
       "text": "Presented to President.",
@@ -134,9 +153,11 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-04-17T02:09:32-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-04-17",
     "vetoed": false
   },
-  "introduced_at": "2026-04-16",
+  "introduced_at": "2026-04-17",
   "number": "8322",
   "official_title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through April 30, 2026, and for other purposes.",
   "popular_title": null,
@@ -150,8 +171,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-04-17T02:09:32-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2026-04-17",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -178,6 +199,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-18T02:53:23Z",
+  "updated_at": "2026-04-18T10:56:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8322.xml"
 }
