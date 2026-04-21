@@ -436,6 +436,18 @@
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
+    },
+    {
+      "bill_id": "sres172-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hres332-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
     }
   ],
   "short_title": null,
@@ -449,8 +461,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-04-16",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Health"
+  ],
+  "subjects_top_term": "Health",
   "summary": null,
   "titles": [
     {
@@ -468,6 +482,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-21T14:31:21Z",
+  "updated_at": "2026-04-21T16:36:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1183.xml"
 }
