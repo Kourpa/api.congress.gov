@@ -138,6 +138,62 @@
       "text": "Placed on the Union Calendar, Calendar No. 494.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-04-20T16:22:15-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Allen moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-20T16:22:23-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-20T16:22:26-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1681.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-20T16:32:24-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-20T18:31:23-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-20T19:00:35-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "125",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 9 (Roll no. 125).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-04-20T19:00:36-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -224,6 +280,8 @@
     "active_at": "2025-04-09",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-04-20T19:00:35-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-27",
@@ -240,8 +298,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-04-09",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-04-20T19:00:35-04:00",
   "subjects": [
     "Advisory bodies",
     "Congressional oversight",
@@ -289,6 +347,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-03T20:56:19Z",
+  "updated_at": "2026-04-21T08:06:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1681.xml"
 }

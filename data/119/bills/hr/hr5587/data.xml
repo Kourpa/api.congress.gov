@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="5587" updated="2026-04-16T22:26:20Z">
+<bill session="119" type="h" number="5587" updated="2026-04-21T08:06:19Z">
   <state datetime="2026-03-05">REPORTED</state>
   <status>
     <unknown datetime="2026-03-05"/>
@@ -45,12 +45,17 @@
     <calendar datetime="2026-04-15" calendar="Union" number="531">
       <text>Placed on the Union Calendar, Calendar No. 531.</text>
     </calendar>
+    <action datetime="2026-04-20T19:09:52-04:00">
+      <text>Rules Committee Resolution H. Res. 1189 Reported to House. Rule provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897 and H.R. 5587. The resolution provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897, and H.R. 5587 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 4690, H.R. 1897, and H.R. 5587.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSII06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Discharged, Hearings By (Subcommittee), Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="1189" relation="procedurally related"/>
+  </relatedbills>
   <subjects>
     <term name="Energy"/>
     <term name="Alternative and renewable resources"/>

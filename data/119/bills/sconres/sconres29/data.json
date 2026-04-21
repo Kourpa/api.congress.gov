@@ -41,6 +41,40 @@
       "references": [],
       "text": "Held at the desk.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-04-20T19:31:12-04:00",
+      "action_code": "H30200",
+      "references": [],
+      "text": "Ms. Tenney asked unanimous consent to take from the Speaker's table and consider.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-20T19:31:42-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-20T19:32:13-04:00",
+      "action_code": "H37100",
+      "how": "without objection",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:CONCURRENTRES",
+      "suspension": null,
+      "text": "On agreeing to the resolution Agreed to without objection.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-04-20T19:32:18-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -68,6 +102,8 @@
     "active_at": "2026-03-23",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-04-20T19:32:13-04:00",
     "senate_passage_result": "pass",
     "senate_passage_result_at": "2026-03-23",
     "vetoed": false
@@ -86,10 +122,14 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASS_OVER:SENATE",
-  "status_at": "2026-03-23",
+  "status": "PASSED:CONCURRENTRES",
+  "status_at": "2026-04-20T19:32:13-04:00",
   "subjects": [
-    "Congress"
+    "Alaska Natives and Hawaiians",
+    "Congress",
+    "Congressional tributes",
+    "U.S. Capitol",
+    "U.S. history"
   ],
   "subjects_top_term": "Congress",
   "summary": null,
@@ -109,6 +149,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-26T16:04:05Z",
+  "updated_at": "2026-04-21T08:06:06Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sconres/BILLSTATUS-119sconres29.xml"
 }

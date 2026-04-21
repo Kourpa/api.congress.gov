@@ -20,6 +20,19 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-04-20T19:09:52-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1189-119",
+        "hr4690-119",
+        "hr1897-119",
+        "hr5587-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1189 Reported to House. Rule provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897 and H.R. 5587. The resolution provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897, and H.R. 5587 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 4690, H.R. 1897, and H.R. 5587.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -40,7 +53,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-04-20T19:09:52-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -49,7 +63,14 @@
   "number": "1182",
   "official_title": "Expressing support for rural communities across the United States as stewards of the environment, major suppliers of United States energy resources, critical providers of food production and manufacturing capacity, and drivers of national economic stability, and recognizing the work of the House of Representatives in the 119th Congress in support of those vital communities.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1189-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "F000485",
@@ -87,6 +108,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-20T14:56:53Z",
+  "updated_at": "2026-04-21T08:11:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1182.xml"
 }
