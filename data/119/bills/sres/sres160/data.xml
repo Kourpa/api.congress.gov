@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="160" updated="2025-05-28T20:15:29Z">
+<bill session="119" type="sr" number="160" updated="2026-04-21T13:41:36Z">
   <state datetime="2025-04-07">PASSED:SIMPLERES</state>
   <status>
     <unknown datetime="2025-04-07"/>
@@ -20,15 +20,24 @@
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2025-04-07" where="s" result="pass" state="PASSED:SIMPLERES">
       <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
-      <reference ref="CR S2459: 4" label="consideration"/>
-      <reference ref="CR S2458-2459: 2" label="text"/>
+      <reference ref="CR S2459" label="consideration"/>
+      <reference ref="CR S2458-2459" label="text"/>
     </vote>
   </actions>
   <committees/>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="sr" number="673" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Science, technology, communications"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Emergency communications systems"/>
+    <term name="Pipelines"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Water use and supply"/>
   </subjects>
   <amendments/>
-  <summary date="2025-05-28T20:14:39Z" status="Introduced in Senate"></summary>
+  <summary date="2025-05-28T20:14:39Z" status="Introduced in Senate">This resolution expresses support for National Safe Digging Month and encourages all homeowners and excavators to call 811 to find the location of underground utility lines before digging.</summary>
 </bill>

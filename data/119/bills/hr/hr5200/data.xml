@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="5200" updated="2026-04-21T08:06:22Z">
+<bill session="119" type="h" number="5200" updated="2026-04-21T13:09:44Z">
   <state datetime="2026-04-20T19:20:08-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-04-20T19:20:08-04:00"/>
@@ -42,6 +42,7 @@
     </action>
     <action datetime="2026-04-20T16:38:40-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2974-2976" label="consideration"/>
     </action>
     <action datetime="2026-04-20T16:38:41-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5200.</text>
@@ -51,9 +52,11 @@
     </action>
     <action datetime="2026-04-20T19:13:40-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H2976-2978" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="126" datetime="2026-04-20T19:20:08-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 7 (Roll no. 126).</text>
+      <reference ref="CR H2974-2975" label="text"/>
     </vote>
     <action datetime="2026-04-20T19:20:09-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
