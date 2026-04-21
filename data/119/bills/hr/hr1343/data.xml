@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1343" updated="2026-02-17T16:05:21Z">
-  <state datetime="2025-12-03">REPORTED</state>
+<bill session="119" type="h" number="1343" updated="2026-04-21T08:05:55Z">
+  <state datetime="2026-04-20T16:38:20-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-12-03"/>
+    <unknown datetime="2026-04-20T16:38:20-04:00"/>
   </status>
   <introduced datetime="2025-02-13"/>
   <titles>
@@ -43,6 +43,21 @@
     <calendar datetime="2026-02-04" calendar="Union" number="415">
       <text>Placed on the Union Calendar, Calendar No. 415.</text>
     </calendar>
+    <action datetime="2026-04-20T16:33:01-04:00">
+      <text>Mr. Allen moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-04-20T16:33:04-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-04-20T16:33:05-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1343.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-04-20T16:38:20-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-04-20T16:38:23-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -58,7 +73,9 @@
     <term name="Internet, web applications, social media"/>
   </subjects>
   <amendments/>
-  <summary date="2025-06-13T15:30:40Z" status="Introduced in House"></summary>
+  <summary date="2025-06-13T15:30:40Z" status="Introduced in House">Federal Broadband Deployment Tracking Act
+
+This bill requires the National Telecommunications and Information Administration to submit a plan to Congress for tracking the acceptance, processing, and disposition of applications for communications use authorizations. (These are requests for easements, rights-of-way, leases, licenses, or other authorizations to locate or modify a transmitting device, support structure, or other communications facility on public lands or National Forest System land.)&#160;</summary>
   <committee-reports>
     <report>H. Rept. 119-485</report>
   </committee-reports>

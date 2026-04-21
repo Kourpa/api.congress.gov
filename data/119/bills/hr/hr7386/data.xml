@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7386" updated="2026-04-16T21:08:55Z">
-  <state datetime="2026-03-25">REPORTED</state>
+<bill session="119" type="h" number="7386" updated="2026-04-21T08:36:18Z">
+  <state datetime="2026-04-20T16:13:01-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-03-25"/>
+    <unknown datetime="2026-04-20T16:13:01-04:00"/>
   </status>
   <introduced datetime="2026-02-05"/>
   <titles>
@@ -42,6 +42,21 @@
     <calendar datetime="2026-04-15" calendar="Union" number="533">
       <text>Placed on the Union Calendar, Calendar No. 533.</text>
     </calendar>
+    <action datetime="2026-04-20T16:00:27-04:00">
+      <text>Mr. Allen moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-04-20T16:00:49-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-04-20T16:00:51-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7386.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-04-20T16:13:01-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-04-20T16:13:03-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -75,4 +90,7 @@ The entity contracted to develop and operate FirstNet (currently AT&amp;T) must 
 The&#160;NTIA must brief Congress annually regarding FirstNet and provide annual reports relating to cybersecurity and network adoption rates.&#160;
 
 Within seven years after the bill&#8217;s enactment, the Government Accountability Office must report on what action Congress should take regarding the termination of&#160;the FirstNet Authority in 2037.</summary>
+  <committee-reports>
+    <report>H. Rept. 119-615</report>
+  </committee-reports>
 </bill>
