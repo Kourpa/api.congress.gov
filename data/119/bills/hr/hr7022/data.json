@@ -99,7 +99,12 @@
     {
       "acted_at": "2026-04-20T16:13:16-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2970-2971",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -114,7 +119,12 @@
       "acted_at": "2026-04-20T16:22:11-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H2970",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
