@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3756" updated="2026-04-08T13:33:13Z">
-  <state datetime="2025-06-05">REFERRED</state>
+<bill session="119" type="h" number="3756" updated="2026-04-22T08:07:27Z">
+  <state datetime="2026-04-21">REPORTED</state>
   <status>
-    <introduced datetime="2025-06-05"/>
+    <unknown datetime="2026-04-21"/>
   </status>
   <introduced datetime="2025-06-05"/>
   <titles>
@@ -45,10 +45,19 @@
     <action datetime="2025-11-19">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2026-04-21">
+      <text>Subcommittee on Water, Wildlife and Fisheries Discharged</text>
+    </action>
+    <action datetime="2026-04-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-04-21" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSII13" name="House Natural Resources" subcommittee="Water, Wildlife and Fisheries" activity="Hearings By (Subcommittee), Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSII13" name="House Natural Resources" subcommittee="Water, Wildlife and Fisheries" activity="Discharged, Hearings By (Subcommittee), Referral"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSPW07" name="House Transportation and Infrastructure" subcommittee="Coast Guard and Maritime Transportation" activity="Referral"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>

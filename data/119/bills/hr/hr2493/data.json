@@ -88,6 +88,62 @@
       "text": "Placed on the Union Calendar, Calendar No. 278.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-04-21T14:26:42-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mrs. Harshbarger moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-21T14:26:51-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-21T14:26:52-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2493.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-21T14:35:23-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-21T15:37:22-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-21T15:44:16-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "128",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 4 (Roll no. 128).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-04-21T15:44:17-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -178,6 +234,8 @@
     "active_at": "2025-09-10",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-04-21T15:44:16-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-03-31",
@@ -201,8 +259,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-09-17",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-04-21T15:44:16-04:00",
   "subjects": [
     "Health",
     "Health care coverage and access",
@@ -246,6 +304,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-15T19:28:19Z",
+  "updated_at": "2026-04-22T08:07:08Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2493.xml"
 }
