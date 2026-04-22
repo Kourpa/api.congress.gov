@@ -49,6 +49,18 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-04-21",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -117,6 +129,8 @@
     "active_at": "2026-01-15",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-04-21",
     "vetoed": false
   },
   "introduced_at": "2025-06-18",
@@ -140,8 +154,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-01-15",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-04-21",
   "subjects": [
     "Asia",
     "China",
@@ -164,48 +178,6 @@
   "summary": null,
   "titles": [
     {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "CLEAR Path Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Conflict-free Leaving Employment and Activity Restrictions Path Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "CLEAR Path Act",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Conflict-free Leaving Employment and Activity Restrictions Path Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "CLEAR Path Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Conflict-free Leaving Employment and Activity Restrictions Path Act",
-      "type": "short"
-    },
-    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -216,10 +188,52 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "CLEAR Path Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Conflict-free Leaving Employment and Activity Restrictions Path Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "CLEAR Path Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Conflict-free Leaving Employment and Activity Restrictions Path Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "CLEAR Path Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Conflict-free Leaving Employment and Activity Restrictions Path Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "A bill to amend title 18, United States Code, to prevent and mitigate the potential for conflicts of interest following government service, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-22T03:38:22Z",
+  "updated_at": "2026-04-22T10:58:42Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2132.xml"
 }

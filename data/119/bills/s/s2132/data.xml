@@ -1,17 +1,17 @@
-<bill session="119" type="s" number="2132" updated="2026-04-22T03:38:22Z">
-  <state datetime="2026-01-15">REPORTED</state>
+<bill session="119" type="s" number="2132" updated="2026-04-22T10:58:42Z">
+  <state datetime="2026-04-21">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-01-15"/>
+    <unknown datetime="2026-04-21"/>
   </status>
   <introduced datetime="2025-06-18"/>
   <titles>
+    <title type="display">CLEAR Path Act</title>
     <title type="short" as="introduced">CLEAR Path Act</title>
     <title type="short" as="introduced">Conflict-free Leaving Employment and Activity Restrictions Path Act</title>
     <title type="short" as="reported to senate">CLEAR Path Act</title>
     <title type="short" as="reported to senate">Conflict-free Leaving Employment and Activity Restrictions Path Act</title>
     <title type="short" as="passed senate">CLEAR Path Act</title>
     <title type="short" as="passed senate">Conflict-free Leaving Employment and Activity Restrictions Path Act</title>
-    <title type="display">CLEAR Path Act</title>
     <title type="official" as="introduced">A bill to amend title 18, United States Code, to prevent and mitigate the potential for conflicts of interest following government service, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001056"/>
@@ -37,6 +37,9 @@
     <calendar datetime="2026-01-28" calendar="Senate Legislative" under="General Orders" number="305">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.</text>
     </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="2026-04-21" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To, Referred To"/>
