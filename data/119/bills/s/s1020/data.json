@@ -80,7 +80,12 @@
     {
       "acted_at": "2026-04-21T14:42:01-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3024-3025",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -101,7 +106,12 @@
     {
       "acted_at": "2026-04-21T15:44:18-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3026-3027",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -109,7 +119,12 @@
       "acted_at": "2026-04-21T15:54:39-04:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3024",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "129",
       "status": "PASSED:BILL",
@@ -281,6 +296,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-22T08:07:22Z",
+  "updated_at": "2026-04-22T18:22:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1020.xml"
 }

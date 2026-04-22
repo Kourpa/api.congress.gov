@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2493" updated="2026-04-22T08:07:08Z">
+<bill session="119" type="h" number="2493" updated="2026-04-22T18:13:57Z">
   <state datetime="2026-04-21T15:44:16-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-04-21T15:44:16-04:00"/>
@@ -51,6 +51,7 @@
     </action>
     <action datetime="2026-04-21T14:26:51-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3021-3023" label="consideration"/>
     </action>
     <action datetime="2026-04-21T14:26:52-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2493.</text>
@@ -60,9 +61,11 @@
     </action>
     <action datetime="2026-04-21T15:37:22-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H3025" label="text"/>
     </action>
     <vote how="roll" type="vote" roll="128" datetime="2026-04-21T15:44:16-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 4 (Roll no. 128).</text>
+      <reference ref="CR H3021-3022" label="text"/>
     </vote>
     <action datetime="2026-04-21T15:44:17-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
