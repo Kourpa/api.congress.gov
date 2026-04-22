@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5911" updated="2026-02-13T09:06:55Z">
-  <state datetime="2025-11-04">REFERRED</state>
+<bill session="119" type="h" number="5911" updated="2026-04-22T08:07:32Z">
+  <state datetime="2026-04-21">REPORTED</state>
   <status>
-    <introduced datetime="2025-11-04"/>
+    <unknown datetime="2026-04-21"/>
   </status>
   <introduced datetime="2025-11-04"/>
   <titles>
@@ -24,16 +24,30 @@
     <action datetime="2026-02-10">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2026-04-21">
+      <text>Subcommittee on Federal Lands Discharged</text>
+    </action>
+    <action datetime="2026-04-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-04-21" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Discharged, Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="2754" relation="identical"/>
   </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Dams and canals"/>
+    <term name="Geography and mapping"/>
+    <term name="Land transfers"/>
+    <term name="Water storage"/>
   </subjects>
   <amendments/>
 </bill>
