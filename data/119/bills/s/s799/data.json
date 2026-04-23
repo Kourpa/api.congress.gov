@@ -17,17 +17,6 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Foreign Relations.",
       "type": "referral"
-    },
-    {
-      "acted_at": "2025-10-22",
-      "action_code": "",
-      "committees": [
-        "SSFR"
-      ],
-      "references": [],
-      "status": "REPORTED",
-      "text": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -38,7 +27,6 @@
   "committees": [
     {
       "activity": [
-        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Foreign Relations",
@@ -60,8 +48,7 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": true,
-    "active_at": "2025-10-22",
+    "active": false,
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -70,7 +57,14 @@
   "number": "799",
   "official_title": "A bill to establish and implement a multi-year Legal Gold and Mining Partnership Strategy to reduce the negative environmental and social impacts of illicit gold mining in the Western Hemisphere, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s3496-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "United States Legal Gold and Mining Partnership Act",
   "sponsor": {
     "bioguide_id": "C001056",
@@ -80,10 +74,30 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-10-22",
+  "status": "REFERRED",
+  "status_at": "2025-02-27",
   "subjects": [
-    "International affairs"
+    "Colombia",
+    "Crime prevention",
+    "Diplomacy, foreign officials, Americans abroad",
+    "Drug trafficking and controlled substances",
+    "Economic development",
+    "Ecuador",
+    "Environmental health",
+    "Fraud offenses and financial crimes",
+    "Hazardous wastes and toxic substances",
+    "International affairs",
+    "International organizations and cooperation",
+    "Latin America",
+    "Law enforcement administration and funding",
+    "Metals",
+    "Mining",
+    "Nicaragua",
+    "Peru",
+    "Public-private cooperation",
+    "Terrorism",
+    "Venezuela",
+    "Wildlife conservation and habitat protection"
   ],
   "subjects_top_term": "International affairs",
   "summary": null,
@@ -110,6 +124,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-10-23T11:18:15Z",
+  "updated_at": "2026-04-22T23:37:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s799.xml"
 }

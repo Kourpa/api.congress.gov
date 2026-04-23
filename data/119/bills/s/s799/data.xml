@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="799" updated="2025-10-23T11:18:15Z">
-  <state datetime="2025-10-22">REPORTED</state>
+<bill session="119" type="s" number="799" updated="2026-04-22T23:37:07Z">
+  <state datetime="2025-02-27">REFERRED</state>
   <status>
-    <unknown datetime="2025-10-22"/>
+    <introduced datetime="2025-02-27"/>
   </status>
   <introduced datetime="2025-02-27"/>
   <titles>
@@ -20,16 +20,35 @@
     <action datetime="2025-02-27" state="REFERRED">
       <text>Read twice and referred to the Committee on Foreign Relations.</text>
     </action>
-    <action datetime="2025-10-22" state="REPORTED">
-      <text>Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
-    </action>
   </actions>
   <committees>
-    <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="3496" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="International affairs"/>
+    <term name="Colombia"/>
+    <term name="Crime prevention"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Economic development"/>
+    <term name="Ecuador"/>
+    <term name="Environmental health"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Latin America"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Metals"/>
+    <term name="Mining"/>
+    <term name="Nicaragua"/>
+    <term name="Peru"/>
+    <term name="Public-private cooperation"/>
+    <term name="Terrorism"/>
+    <term name="Venezuela"/>
+    <term name="Wildlife conservation and habitat protection"/>
   </subjects>
   <amendments/>
 </bill>
