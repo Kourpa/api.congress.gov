@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8364" updated="2026-04-21T08:18:31Z">
-  <state datetime="2026-04-20">REFERRED</state>
+<bill session="119" type="h" number="8364" updated="2026-04-23T08:07:15Z">
+  <state datetime="2026-04-22">REPORTED</state>
   <status>
-    <introduced datetime="2026-04-20"/>
+    <unknown datetime="2026-04-22"/>
   </status>
   <introduced datetime="2026-04-20"/>
   <titles>
@@ -22,10 +22,16 @@
     <action datetime="2026-04-20">
       <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-04-22">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-04-22" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 8 - 0.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>
