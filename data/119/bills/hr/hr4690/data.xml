@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4690" updated="2026-04-21T20:26:28Z">
-  <state datetime="2025-12-03">REPORTED</state>
+<bill session="119" type="h" number="4690" updated="2026-04-23T08:09:18Z">
+  <state datetime="2026-04-22T16:58:45-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-12-03"/>
+    <unknown datetime="2026-04-22T16:58:45-04:00"/>
   </status>
   <introduced datetime="2025-07-23"/>
   <titles>
@@ -60,12 +60,45 @@
     <action datetime="2026-04-20T19:09:52-04:00">
       <text>Rules Committee Resolution H. Res. 1189 Reported to House. Rule provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897 and H.R. 5587. The resolution provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897, and H.R. 5587 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 4690, H.R. 1897, and H.R. 5587.</text>
     </action>
+    <action datetime="2026-04-22T13:47:09-04:00">
+      <text>Considered under the provisions of rule H. Res. 1189.</text>
+    </action>
+    <action datetime="2026-04-22T13:47:14-04:00">
+      <text>Rule provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897 and H.R. 5587. The resolution provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897, and H.R. 5587 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 4690, H.R. 1897, and H.R. 5587.</text>
+    </action>
+    <action datetime="2026-04-22T13:48:59-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 4690.</text>
+    </action>
+    <action datetime="2026-04-22T14:16:23-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-04-22T14:16:54-04:00">
+      <text>Mrs. Sykes moved to recommit to the Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2026-04-22T14:17:05-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-04-22T14:17:14-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 4690, the Chair put the question on the motion to recommit and by voice vote, announced that the noes had prevailed. Mrs. Sykes demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-04-22T16:45:19-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-04-22T16:52:07-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 203 - 214 (Roll no. 133).</text>
+    </action>
+    <vote how="roll" type="vote" roll="134" datetime="2026-04-22T16:58:45-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 215 - 202 (Roll no. 134).</text>
+    </vote>
+    <action datetime="2026-04-22T16:58:47-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
+    <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
-    <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="1189" relation="unknown"/>
@@ -77,7 +110,9 @@
     <term name="Government buildings, facilities, and property"/>
     <term name="Performance measurement"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h176"/>
+  </amendments>
   <summary date="2026-04-17T20:14:08Z" status="Reported to House">Reliable Federal Infrastructure Act
 
 This bill repeals certain energy efficiency performance standards for new federal buildings and federal buildings undergoing major renovations. Specifically, the bill repeals the performance standards that phase out fossil fuel use in such buildings by FY2030.
