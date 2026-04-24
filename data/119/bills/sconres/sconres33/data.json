@@ -67,7 +67,12 @@
     {
       "acted_at": "2026-04-22",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1867-1882, S1898-1924",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -75,7 +80,12 @@
       "acted_at": "2026-04-23",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S1918-1924",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "105",
       "status": "PASS_OVER:SENATE",
@@ -4057,6 +4067,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-24T11:37:24Z",
+  "updated_at": "2026-04-24T16:04:59Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sconres/BILLSTATUS-119sconres33.xml"
 }

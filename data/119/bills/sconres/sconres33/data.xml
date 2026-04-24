@@ -1,4 +1,4 @@
-<bill session="119" type="sc" number="33" updated="2026-04-24T11:37:24Z">
+<bill session="119" type="sc" number="33" updated="2026-04-24T16:04:59Z">
   <state datetime="2026-04-23">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2026-04-23"/>
@@ -33,9 +33,11 @@
     </action>
     <action datetime="2026-04-22">
       <text>Considered by Senate.</text>
+      <reference ref="CR S1867-1882, S1898-1924" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="105" datetime="2026-04-23" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Resolution agreed to in Senate with an amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 105.</text>
+      <reference ref="CR S1918-1924" label="text"/>
     </vote>
     <action datetime="2026-04-23">
       <text>Message on Senate action sent to the House.</text>
