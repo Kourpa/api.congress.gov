@@ -179,7 +179,12 @@
     {
       "acted_at": "2026-04-22T16:58:53-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3064-3065",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -197,7 +202,12 @@
       "acted_at": "2026-04-22T17:17:57-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR 4/21/2026 H3013",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "136",
       "status": "PASS_OVER:HOUSE",
@@ -396,6 +406,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-24T04:53:25Z",
+  "updated_at": "2026-04-24T18:04:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6387.xml"
 }

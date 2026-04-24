@@ -10,7 +10,12 @@
     {
       "acted_at": "2026-04-22T17:18:22-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3065",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -18,7 +23,12 @@
       "acted_at": "2026-04-22T17:18:57-04:00",
       "action_code": "H37100",
       "how": "without objection",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3065",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:SIMPLERES",
       "suspension": null,
@@ -88,6 +98,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-23T08:07:16Z",
+  "updated_at": "2026-04-24T18:10:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1206.xml"
 }
