@@ -1,4 +1,4 @@
-<bill session="119" type="hc" number="40" updated="2026-04-22T20:17:07Z">
+<bill session="119" type="hc" number="40" updated="2026-04-24T15:05:44Z">
   <state datetime="2026-04-16T12:06:47-04:00">FAIL:ORIGINATING:HOUSE</state>
   <status>
     <unknown datetime="2026-04-16T12:06:47-04:00"/>
@@ -135,7 +135,9 @@
   <committees>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hc" number="86" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="International affairs"/>
     <term name="Conflicts and wars"/>
