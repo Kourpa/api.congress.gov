@@ -85,6 +85,13 @@
       "where": "s"
     },
     {
+      "acted_at": "2026-04-23",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
       "acted_at": "2026-04-23T11:54:49-04:00",
       "action_code": "H14000",
       "references": [],
@@ -3989,7 +3996,14 @@
   "number": "33",
   "official_title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2026 and setting forth the appropriate budgetary levels for fiscal years 2027 through 2035.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "sres458-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "G000359",
@@ -4043,6 +4057,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-24T08:06:36Z",
+  "updated_at": "2026-04-24T11:37:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sconres/BILLSTATUS-119sconres33.xml"
 }
