@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8202" updated="2026-04-21T08:06:00Z">
-  <state datetime="2026-04-06">REFERRED</state>
+<bill session="119" type="h" number="8202" updated="2026-04-24T08:06:31Z">
+  <state datetime="2026-04-22">REPORTED</state>
   <status>
-    <introduced datetime="2026-04-06"/>
+    <unknown datetime="2026-04-22"/>
   </status>
   <introduced datetime="2026-04-06"/>
   <titles>
@@ -12,6 +12,7 @@
   <cosponsors>
     <cosponsor bioguide_id="C001091" joined="2026-04-06"/>
     <cosponsor bioguide_id="L000599" joined="2026-04-20"/>
+    <cosponsor bioguide_id="S000344" joined="2026-04-23"/>
   </cosponsors>
   <actions>
     <action datetime="2026-04-06">
@@ -20,9 +21,15 @@
     <action datetime="2026-04-06" state="REFERRED">
       <text>Referred to the House Committee on Foreign Affairs.</text>
     </action>
+    <action datetime="2026-04-22">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-04-22" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 44 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
