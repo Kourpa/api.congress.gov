@@ -111,9 +111,73 @@
       "references": [],
       "text": "Rule H. Res. 1189 passed House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-04-23T09:21:07-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1189-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1189.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-23T09:21:12-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr4690-119",
+        "hres1182-119",
+        "hr1897-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897 and H.R. 5587. The resolution provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897, and H.R. 5587 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 4690, H.R. 1897, and H.R. 5587.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-23T09:22:19-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 5587.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-23T09:47:35-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-23T10:33:04-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "137",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 231 - 186 (Roll no. 137).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-04-23T10:33:05-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt177-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "177"
+    }
+  ],
   "bill_id": "hr5587-119",
   "bill_type": "hr",
   "by_request": false,
@@ -171,6 +235,8 @@
     "active_at": "2025-12-16",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-04-23T10:33:04-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-09-26",
@@ -194,8 +260,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-03-05",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-04-23T10:33:04-04:00",
   "subjects": [
     "Alternative and renewable resources",
     "Energy",
@@ -255,6 +321,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-23T08:06:52Z",
+  "updated_at": "2026-04-24T08:09:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5587.xml"
 }

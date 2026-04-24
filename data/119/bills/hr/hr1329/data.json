@@ -68,6 +68,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 7 - 4.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-04-23",
+      "action_code": "H12200",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on House Administration. H. Rept. 119-621, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-23",
+      "action_code": "H12300",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Committee on Natural Resources discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-23",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "538",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 538.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -78,14 +108,7 @@
   "committees": [
     {
       "activity": [
-        "Markup By",
-        "Referred To"
-      ],
-      "committee": "House Committee on House Administration",
-      "committee_id": "HSHA"
-    },
-    {
-      "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Natural Resources",
@@ -100,6 +123,15 @@
       "committee_id": "HSII",
       "subcommittee": "Subcommittee on Federal Lands",
       "subcommittee_id": "10"
+    },
+    {
+      "activity": [
+        "Reported By",
+        "Markup By",
+        "Referred To"
+      ],
+      "committee": "House Committee on House Administration",
+      "committee_id": "HSHA"
     }
   ],
   "congress": "119",
@@ -2463,6 +2495,20 @@
   "summary": null,
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Smithsonian American Women\u2019s History Museum Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Smithsonian American Women\u2019s History Museum Act",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -2473,17 +2519,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Smithsonian American Women\u2019s History Museum Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To permit the Smithsonian American Women's History Museum to be located within the Reserve of the National Mall, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-19T08:07:22Z",
+  "updated_at": "2026-04-24T08:06:45Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1329.xml"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5587" updated="2026-04-23T08:06:52Z">
-  <state datetime="2026-03-05">REPORTED</state>
+<bill session="119" type="h" number="5587" updated="2026-04-24T08:09:19Z">
+  <state datetime="2026-04-23T10:33:04-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-03-05"/>
+    <unknown datetime="2026-04-23T10:33:04-04:00"/>
   </status>
   <introduced datetime="2025-09-26"/>
   <titles>
@@ -51,6 +51,24 @@
     <action datetime="2026-04-22T12:25:50-04:00">
       <text>Rule H. Res. 1189 passed House.</text>
     </action>
+    <action datetime="2026-04-23T09:21:07-04:00">
+      <text>Considered under the provisions of rule H. Res. 1189.</text>
+    </action>
+    <action datetime="2026-04-23T09:21:12-04:00">
+      <text>Rule provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897 and H.R. 5587. The resolution provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897, and H.R. 5587 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 4690, H.R. 1897, and H.R. 5587.</text>
+    </action>
+    <action datetime="2026-04-23T09:22:19-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 5587.</text>
+    </action>
+    <action datetime="2026-04-23T09:47:35-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="137" datetime="2026-04-23T10:33:04-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 231 - 186 (Roll no. 137).</text>
+    </vote>
+    <action datetime="2026-04-23T10:33:05-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -67,7 +85,9 @@
     <term name="Licensing and registrations"/>
     <term name="Mining"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h177"/>
+  </amendments>
   <summary date="2026-04-08T14:41:02Z" status="Introduced in House">Harnessing Energy At Thermal Sources Act or the HEATS Act
 
 This bill exempts certain geothermal activities on state and private lands (except Indian lands) from drilling permit requirements as well as environmental and historic preservation review requirements.

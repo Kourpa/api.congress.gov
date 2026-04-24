@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="1329" updated="2026-03-19T08:07:22Z">
+<bill session="119" type="h" number="1329" updated="2026-04-24T08:06:45Z">
   <state datetime="2026-03-18">REPORTED</state>
   <status>
     <unknown datetime="2026-03-18"/>
   </status>
   <introduced datetime="2025-02-13"/>
   <titles>
-    <title type="display">Smithsonian American Women&#8217;s History Museum Act</title>
     <title type="short" as="introduced">Smithsonian American Women&#8217;s History Museum Act</title>
+    <title type="short" as="reported to house">Smithsonian American Women&#8217;s History Museum Act</title>
+    <title type="display">Smithsonian American Women&#8217;s History Museum Act</title>
     <title type="official" as="introduced">To permit the Smithsonian American Women's History Museum to be located within the Reserve of the National Mall, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M000317"/>
@@ -266,11 +267,20 @@
     <action datetime="2026-03-18" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 7 - 4.</text>
     </action>
+    <action datetime="2026-04-23">
+      <text>Reported (Amended) by the Committee on House Administration. H. Rept. 119-621, Part I.</text>
+    </action>
+    <action datetime="2026-04-23">
+      <text>Committee on Natural Resources discharged.</text>
+    </action>
+    <calendar datetime="2026-04-23" calendar="Union" number="538">
+      <text>Placed on the Union Calendar, Calendar No. 538.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Markup By, Referred To"/>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1303" relation="identical"/>
