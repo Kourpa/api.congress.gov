@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6431" updated="2026-04-23T15:39:44Z">
-  <state datetime="2026-01-14">REPORTED</state>
+<bill session="119" type="h" number="6431" updated="2026-04-28T14:18:13Z">
+  <state datetime="2026-04-27T16:56:33-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-01-14"/>
+    <unknown datetime="2026-04-27T16:56:33-04:00"/>
   </status>
   <introduced datetime="2025-12-04"/>
   <titles>
@@ -38,6 +38,23 @@
     <calendar datetime="2026-02-20" calendar="Union" number="435">
       <text>Placed on the Union Calendar, Calendar No. 435.</text>
     </calendar>
+    <action datetime="2026-04-27T16:48:44-04:00">
+      <text>Mr. Carey moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-04-27T16:48:55-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3114-3115" label="consideration"/>
+    </action>
+    <action datetime="2026-04-27T16:48:57-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6431.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-04-27T16:56:33-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3114" label="text"/>
+    </vote>
+    <action datetime="2026-04-27T16:56:36-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Reported By, Markup By, Referred To"/>

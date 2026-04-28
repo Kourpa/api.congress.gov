@@ -48,6 +48,87 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 40 - 2.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-04-27",
+      "action_code": "H12200",
+      "committees": [
+        "HSWM"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-624, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-27",
+      "action_code": "H12300",
+      "committees": [
+        "HSFA"
+      ],
+      "references": [],
+      "text": "Committee on Foreign Affairs discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-27",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "541",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 541.",
+      "type": "calendar",
+      "under": null
+    },
+    {
+      "acted_at": "2026-04-27T16:36:02-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-27T16:36:21-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H3113-3114",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-27T16:36:22-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6903.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-27T16:46:55-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H3113",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-04-27T16:46:56-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -58,18 +139,20 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Foreign Affairs",
+      "committee_id": "HSFA"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Ways and Means",
       "committee_id": "HSWM"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Foreign Affairs",
-      "committee_id": "HSFA"
     }
   ],
   "congress": "119",
@@ -91,6 +174,8 @@
     "active_at": "2026-01-14",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-04-27T16:46:55-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-12-18",
@@ -107,10 +192,12 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-01-14",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-04-27T16:46:55-04:00",
   "subjects": [
-    "Families"
+    "Families",
+    "Separation, divorce, custody, support",
+    "Visas and passports"
   ],
   "subjects_top_term": "Families",
   "summary": {
@@ -120,6 +207,20 @@
     "text": "Ensuring Children Receive Support Act\n\nThis bill specifies that the Department of State must revoke passports for certain individuals who fail to make child support payments.\n\nUnder current law, if the Office of Child Support Enforcement of the Department of Health and Human Services receives information from a state that an individual owes more than $2,500 in child support, the State Department\u00a0must refuse to issue the individual a passport and may revoke a previously issued passport. The bill specifies that the State Department\u00a0must revoke a previously issued passport in these circumstances.\n\nThe bill also provides\u00a0statutory authority for the State Department to allow such an individual to be issued a limited-duration passport for direct return to the United States.\n\nFor more information about this bill, see CRS Insight\u00a0IN12660.\u00a0"
   },
   "titles": [
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Ensuring Children Receive Support Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Ensuring Children Receive Support Act",
+      "type": "short"
+    },
     {
       "as": null,
       "is_for_portion": false,
@@ -131,17 +232,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Ensuring Children Receive Support Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To require the Secretary of State to revoke any United States passport issued to an individual, on receipt of a certification by the Secretary of Health and Human Services that the individual has a child support arrearage exceeding $2,500.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-22T19:42:14Z",
+  "updated_at": "2026-04-28T14:16:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6903.xml"
 }

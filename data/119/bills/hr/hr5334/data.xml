@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5334" updated="2026-04-24T23:41:18Z">
-  <state datetime="2026-03-25">REPORTED</state>
+<bill session="119" type="h" number="5334" updated="2026-04-28T14:15:18Z">
+  <state datetime="2026-04-27T16:35:00-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-03-25"/>
+    <unknown datetime="2026-04-27T16:35:00-04:00"/>
   </status>
   <introduced datetime="2025-09-11"/>
   <titles>
@@ -57,6 +57,23 @@
     <calendar datetime="2026-04-09" calendar="Union" number="520">
       <text>Placed on the Union Calendar, Calendar No. 520.</text>
     </calendar>
+    <action datetime="2026-04-27T16:27:07-04:00">
+      <text>Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-04-27T16:27:10-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3111-3113" label="consideration"/>
+    </action>
+    <action datetime="2026-04-27T16:27:20-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5334.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-04-27T16:35:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3111-3112" label="text"/>
+    </vote>
+    <action datetime="2026-04-27T16:35:01-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -64,6 +81,9 @@
   <relatedbills/>
   <subjects>
     <term name="Taxation"/>
+    <term name="Income tax deductions"/>
+    <term name="Preschool education"/>
+    <term name="Teaching, teachers, curricula"/>
   </subjects>
   <amendments/>
   <summary date="2026-04-06T14:13:18Z" status="Introduced in House">Supporting Early-childhood Educators' Deductions Act of 2025 or the SEED Act of 2025

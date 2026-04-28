@@ -48,6 +48,57 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 8 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-04-27T17:05:01-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mrs. Bice moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-27T17:05:18-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H3116-3117",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-27T17:05:20-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 8364.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-27T17:12:24-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H3116",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-04-27T17:12:28-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -91,6 +142,8 @@
     "active_at": "2026-04-22",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-04-27T17:12:24-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-04-20",
@@ -107,8 +160,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-04-22",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-04-27T17:12:24-04:00",
   "subjects": [
     "Government operations and politics"
   ],
@@ -135,6 +188,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-24T17:55:48Z",
+  "updated_at": "2026-04-28T14:20:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8364.xml"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6495" updated="2026-04-15T12:41:04Z">
-  <state datetime="2025-12-10">REPORTED</state>
+<bill session="119" type="h" number="6495" updated="2026-04-28T14:12:44Z">
+  <state datetime="2026-04-27T15:54:37-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-12-10"/>
+    <unknown datetime="2026-04-27T15:54:37-04:00"/>
   </status>
   <introduced datetime="2025-12-05"/>
   <titles>
@@ -33,6 +33,23 @@
     <calendar datetime="2026-01-07" calendar="Union" number="372">
       <text>Placed on the Union Calendar, Calendar No. 372.</text>
     </calendar>
+    <action datetime="2026-04-27T15:45:43-04:00">
+      <text>Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-04-27T15:46:04-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3106-3107" label="consideration"/>
+    </action>
+    <action datetime="2026-04-27T15:46:07-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 6495.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-04-27T15:54:37-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3106" label="text"/>
+    </vote>
+    <action datetime="2026-04-27T15:54:40-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Reported By, Markup By, Referred To"/>

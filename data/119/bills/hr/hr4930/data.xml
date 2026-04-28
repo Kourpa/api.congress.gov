@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4930" updated="2026-04-23T14:00:09Z">
-  <state datetime="2025-12-10">REPORTED</state>
+<bill session="119" type="h" number="4930" updated="2026-04-28T14:06:59Z">
+  <state datetime="2026-04-27T15:09:28-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-12-10"/>
+    <unknown datetime="2026-04-27T15:09:28-04:00"/>
   </status>
   <introduced datetime="2025-08-08"/>
   <titles>
@@ -36,6 +36,23 @@
     <calendar datetime="2025-12-30" calendar="Union" number="361">
       <text>Placed on the Union Calendar, Calendar No. 361.</text>
     </calendar>
+    <action datetime="2026-04-27T15:00:36-04:00">
+      <text>Mr. Moore (UT) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-04-27T15:00:56-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3098-3100" label="consideration"/>
+    </action>
+    <action datetime="2026-04-27T15:00:58-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4930.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-04-27T15:09:28-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3098-3099" label="text"/>
+    </vote>
+    <action datetime="2026-04-27T15:09:33-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Reported By, Markup By, Referred To"/>
