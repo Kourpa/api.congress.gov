@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>227</number>
-    <updateDate>2026-04-28T14:19:44Z</updateDate>
-    <updateDateIncludingText>2026-04-28T14:19:44Z</updateDateIncludingText>
+    <updateDate>2026-04-29T10:56:47Z</updateDate>
+    <updateDateIncludingText>2026-04-29T12:18:36Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/227</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 3 (Tuesday, January 7, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. FONG:H.R. 227.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1[Page H63]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-04-28T21:16:56Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hswm00</systemCode>
         <name>Ways and Means Committee</name>
@@ -40,6 +52,20 @@
       </committeeReport>
     </committeeReports>
     <actions>
+      <item>
+        <actionDate>2026-04-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-04-27</actionDate>
         <actionTime>19:10:15</actionTime>
@@ -75,7 +101,7 @@
       <item>
         <actionDate>2026-04-27</actionDate>
         <actionTime>19:10:14</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 5 (Roll no. 139).</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 5 (Roll no. 139). (text: CR H3115-3116)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -562,6 +588,26 @@
     <title>Clergy Act</title>
     <titles>
       <item>
+        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>To allow a period in which members of the clergy may revoke their exemption from Social Security coverage, and for other purposes.</title>
+        <updateDate>2026-04-29T05:08:27Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>Clergy Act</title>
+        <updateDate>2026-04-29T05:08:27Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
         <title>Clergy Act</title>
@@ -596,6 +642,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in House</type>
+        <date>2026-04-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr227eh/xml/BILLS-119hr227eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Reported in House</type>
         <date>2026-01-07T05:00:00Z</date>
         <formats>
@@ -615,9 +670,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-04-27</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>19:10:15</actionTime>
+      <actionDate>2026-04-28</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

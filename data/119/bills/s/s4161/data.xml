@@ -1,12 +1,13 @@
-<bill session="119" type="s" number="4161" updated="2026-04-09T14:56:01Z">
-  <state datetime="2026-03-23">REFERRED</state>
+<bill session="119" type="s" number="4161" updated="2026-04-29T11:08:24Z">
+  <state datetime="2026-04-28">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2026-03-23"/>
+    <unknown datetime="2026-04-28"/>
   </status>
   <introduced datetime="2026-03-23"/>
   <titles>
     <title type="display">Maverick Act</title>
     <title type="short" as="introduced">Maverick Act</title>
+    <title type="short" as="passed senate">Maverick Act</title>
     <title type="official" as="introduced">A bill to authorize the transfer by the Secretary of the Navy to the U.S. Space and Rocket Center Commission in Huntsville, Alabama, of certain F-14 Tomcat aircraft.</title>
   </titles>
   <sponsor bioguide_id="S001232"/>
@@ -20,13 +21,24 @@
     <action datetime="2026-03-23" state="REFERRED">
       <text>Read twice and referred to the Committee on Armed Services.</text>
     </action>
+    <action datetime="2026-04-28">
+      <text>Senate Committee on Armed Services discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2026-04-28">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-04-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Referred To"/>
+    <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Armed forces and national security"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s5437"/>
+  </amendments>
 </bill>

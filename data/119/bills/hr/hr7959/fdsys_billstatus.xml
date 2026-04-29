@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7959</number>
-    <updateDate>2026-04-28T14:11:11Z</updateDate>
-    <updateDateIncludingText>2026-04-28T14:11:11Z</updateDateIncludingText>
+    <updateDate>2026-04-29T12:26:21Z</updateDate>
+    <updateDateIncludingText>2026-04-29T12:26:21Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/7959</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 48 (Tuesday, March 17, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. KELLY of Pennsylvania:H.R. 7959.Congress has the power to enact this legislation pursuantto the following:Sixteenth Amendment provides Congress with the power to``lay and collect taxes on incomes.''[Page H2551]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-04-28T21:20:45Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hswm00</systemCode>
         <name>Ways and Means Committee</name>
@@ -34,6 +46,11 @@
         </activities>
       </item>
     </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 119-606</citation>
+      </committeeReport>
+    </committeeReports>
     <relatedBills>
       <item>
         <title>TAS Act</title>
@@ -53,6 +70,20 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-04-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-04-27</actionDate>
         <actionTime>19:01:37</actionTime>
@@ -88,7 +119,7 @@
       <item>
         <actionDate>2026-04-27</actionDate>
         <actionTime>19:01:36</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 346 - 10 (Roll no. 138).</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 346 - 10 (Roll no. 138). (text: CR H3104)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -414,6 +445,26 @@
     <title>IRS Whistleblower Program Improvement Act</title>
     <titles>
       <item>
+        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>To amend the Internal Revenue Code of 1986 to make improvements with respect to the treatment of whistleblowers, and for other purposes.</title>
+        <updateDate>2026-04-29T04:53:35Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>IRS Whistleblower Program Improvement Act</title>
+        <updateDate>2026-04-29T04:53:35Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
         <title>IRS Whistleblower Program Improvement Act</title>
@@ -448,6 +499,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in House</type>
+        <date>2026-04-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr7959eh/xml/BILLS-119hr7959eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Reported in House</type>
         <date>2026-04-09T04:00:00Z</date>
         <formats>
@@ -467,9 +527,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-04-27</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>19:01:37</actionTime>
+      <actionDate>2026-04-28</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

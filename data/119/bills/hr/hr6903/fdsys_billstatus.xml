@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6903</number>
-    <updateDate>2026-04-28T14:16:07Z</updateDate>
-    <updateDateIncludingText>2026-04-28T14:16:07Z</updateDateIncludingText>
+    <updateDate>2026-04-29T10:56:38Z</updateDate>
+    <updateDateIncludingText>2026-04-29T12:18:35Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/6903</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 214 (Thursday, December 18, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Ms. VAN DUYNE:H.R. 6903.Congress has the power to enact this legislation pursuantto the following:Article I Section VIII[Page H6118]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-04-28T21:19:56Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsfa00</systemCode>
         <name>Foreign Affairs Committee</name>
@@ -52,6 +64,20 @@
     </committees>
     <actions>
       <item>
+        <actionDate>2026-04-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2026-04-27</actionDate>
         <actionTime>16:46:56</actionTime>
         <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -76,7 +102,7 @@
       <item>
         <actionDate>2026-04-27</actionDate>
         <actionTime>16:46:55</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3113)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -341,6 +367,26 @@
     <title>Ensuring Children Receive Support Act</title>
     <titles>
       <item>
+        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>To require the Secretary of State to revoke any United States passport issued to an individual, on receipt of a certification by the Secretary of Health and Human Services that the individual has a child support arrearage exceeding $2,500.</title>
+        <updateDate>2026-04-29T04:53:35Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>Ensuring Children Receive Support Act</title>
+        <updateDate>2026-04-29T04:53:35Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
         <title>Ensuring Children Receive Support Act</title>
@@ -384,6 +430,15 @@
         </formats>
       </item>
       <item>
+        <type>Engrossed in House</type>
+        <date>2026-04-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr6903eh/xml/BILLS-119hr6903eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-12-18T05:00:00Z</date>
         <formats>
@@ -394,9 +449,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-04-27</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>16:46:56</actionTime>
+      <actionDate>2026-04-28</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

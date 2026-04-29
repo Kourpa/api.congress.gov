@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7971</number>
-    <updateDate>2026-04-28T14:09:35Z</updateDate>
-    <updateDateIncludingText>2026-04-28T14:09:35Z</updateDateIncludingText>
+    <updateDate>2026-04-29T10:56:37Z</updateDate>
+    <updateDateIncludingText>2026-04-29T12:33:38Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/7971</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 49 (Wednesday, March 18, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. SCHWEIKERT:H.R. 7971.Congress has the power to enact this legislation pursuantto the following:Article 1 Section 8[Page H2597]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-04-28T21:21:06Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hswm00</systemCode>
         <name>Ways and Means Committee</name>
@@ -59,6 +71,20 @@
     </relatedBills>
     <actions>
       <item>
+        <actionDate>2026-04-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2026-04-27</actionDate>
         <actionTime>15:32:32</actionTime>
         <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -83,7 +109,7 @@
       <item>
         <actionDate>2026-04-27</actionDate>
         <actionTime>15:32:28</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3102-3103)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -309,6 +335,26 @@
     <title>Taxpayer Experience Improvement Act</title>
     <titles>
       <item>
+        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>To provide for modernization and technological improvements of services provided by the Internal Revenue Service.</title>
+        <updateDate>2026-04-29T04:53:35Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>Taxpayer Experience Improvement Act</title>
+        <updateDate>2026-04-29T04:53:35Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
         <title>Taxpayer Experience Improvement Act</title>
@@ -343,6 +389,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in House</type>
+        <date>2026-04-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr7971eh/xml/BILLS-119hr7971eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Reported in House</type>
         <date>2026-04-09T04:00:00Z</date>
         <formats>
@@ -362,9 +417,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-04-27</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>15:32:32</actionTime>
+      <actionDate>2026-04-28</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
