@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="690" updated="2026-04-29T10:56:35Z">
+<bill session="119" type="sr" number="690" updated="2026-04-29T14:02:57Z">
   <state datetime="2026-04-27">INTRODUCED</state>
   <status>
     <introduced datetime="2026-04-27"/>
@@ -23,12 +23,15 @@
     </action>
     <action datetime="2026-04-28">
       <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 107.</text>
+      <reference ref="CR S2065"/>
     </action>
     <action datetime="2026-04-28">
       <text>Measure laid before Senate by motion.</text>
+      <reference ref="CR S2065" label="consideration"/>
     </action>
     <action datetime="2026-04-28">
       <text>Cloture motion on the measure presented in Senate.</text>
+      <reference ref="CR S2065"/>
     </action>
   </actions>
   <committees/>
