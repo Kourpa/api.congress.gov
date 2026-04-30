@@ -86,7 +86,12 @@
     {
       "acted_at": "2026-04-29",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S2107-2108",
+          "type": "consideration"
+        }
+      ],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -101,7 +106,12 @@
       "acted_at": "2026-04-29",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S2108",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:SENATE",
       "text": "Passed Senate with an amendment by Unanimous Consent.",
@@ -223,6 +233,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-30T11:08:23Z",
+  "updated_at": "2026-04-30T20:10:11Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1199.xml"
 }
