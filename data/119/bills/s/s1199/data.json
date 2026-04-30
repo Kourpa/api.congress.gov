@@ -82,9 +82,48 @@
       "references": [],
       "text": "Committee on Small Business and Entrepreneurship. Hearings held.",
       "type": "hearings"
+    },
+    {
+      "acted_at": "2026-04-29",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-29",
+      "action_code": "",
+      "references": [],
+      "text": "The committee substitute withdrawn by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-29",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt5441-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "5441"
+    },
+    {
+      "amendment_id": "samdt5440-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "5440"
+    }
+  ],
   "bill_id": "s1199-119",
   "bill_type": "s",
   "by_request": false,
@@ -111,6 +150,8 @@
     "active_at": "2025-07-16",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-04-29",
     "vetoed": false
   },
   "introduced_at": "2025-03-27",
@@ -134,8 +175,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-16",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-04-29",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Commerce",
@@ -146,6 +187,13 @@
   "subjects_top_term": "Commerce",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "SBA Fraud Enforcement Extension Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -168,13 +216,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "SBA Fraud Enforcement Extension Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -182,6 +223,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-30T04:38:29Z",
+  "updated_at": "2026-04-30T11:08:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1199.xml"
 }

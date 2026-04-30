@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="1199" updated="2026-04-30T04:38:29Z">
-  <state datetime="2025-07-16">REPORTED</state>
+<bill session="119" type="s" number="1199" updated="2026-04-30T11:08:23Z">
+  <state datetime="2026-04-29">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-07-16"/>
+    <unknown datetime="2026-04-29"/>
   </status>
   <introduced datetime="2025-03-27"/>
   <titles>
+    <title type="display">SBA Fraud Enforcement Extension Act</title>
     <title type="short" as="introduced">SBA Fraud Enforcement Extension Act</title>
     <title type="short" as="reported to senate">SBA Fraud Enforcement Extension Act</title>
     <title type="short" as="passed senate">SBA Fraud Enforcement Extension Act</title>
-    <title type="display">SBA Fraud Enforcement Extension Act</title>
     <title type="official" as="introduced">A bill to extend the statute of limitations for fraud under certain pandemic programs, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="E000295"/>
@@ -38,6 +38,15 @@
     <action datetime="2026-03-18">
       <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
     </action>
+    <action datetime="2026-04-29">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="2026-04-29">
+      <text>The committee substitute withdrawn by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-04-29" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSSB" name="Senate Small Business and Entrepreneurship" subcommittee="" activity="Hearings By (Full Committee), Hearings By (Full Committee), Hearings By (Full Committee), Reported By, Markup By, Referred To"/>
@@ -52,5 +61,8 @@
     <term name="Fraud offenses and financial crimes"/>
     <term name="Small Business Administration"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s5441"/>
+    <amendment number="s5440"/>
+  </amendments>
 </bill>

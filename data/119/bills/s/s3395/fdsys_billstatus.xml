@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3395</number>
-    <updateDate>2026-01-06T16:48:25Z</updateDate>
-    <updateDateIncludingText>2026-01-06T16:48:25Z</updateDateIncludingText>
+    <updateDate>2026-04-30T11:03:20Z</updateDate>
+    <updateDateIncludingText>2026-04-30T11:03:20Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -19,6 +19,14 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Hearings By (full committee)</name>
+            <date>2026-04-29T21:37:18Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-12-09T19:36:09Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-12-09T19:36:09Z</date>
           </item>
@@ -26,6 +34,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-04-29</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-12-09</actionDate>
         <committees>
@@ -94,6 +116,16 @@
         <sponsorshipDate>2025-12-09</sponsorshipDate>
         <isOriginalCosponsor>True</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <firstName>Martin</firstName>
+        <lastName>Heinrich</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <sponsorshipDate>2026-04-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Armed Forces and National Security</name>
@@ -111,7 +143,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Mammography Access for Veterans Act of 2025</title>
-        <updateDate>2025-12-31T03:38:16Z</updateDate>
+        <updateDate>2026-04-30T11:03:20Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -142,8 +174,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-09</actionDate>
-      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2026-04-29</actionDate>
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
