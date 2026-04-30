@@ -1,14 +1,15 @@
-<bill session="119" type="s" number="1318" updated="2026-03-19T11:03:26Z">
-  <state datetime="2025-11-20">PASS_OVER:SENATE</state>
+<bill session="119" type="s" number="1318" updated="2026-04-30T08:09:19Z">
+  <state datetime="2026-04-29T17:26:31-04:00">PASSED:BILL</state>
   <status>
-    <unknown datetime="2025-11-20"/>
+    <unknown datetime="2026-04-29T17:26:31-04:00"/>
   </status>
   <introduced datetime="2025-04-07"/>
   <titles>
-    <title type="display">Fallen Servicemembers Religious Heritage Restoration Act</title>
     <title type="short" as="introduced">Fallen Servicemembers Religious Heritage Restoration Act</title>
     <title type="short" as="reported to senate">Fallen Servicemembers Religious Heritage Restoration Act</title>
     <title type="short" as="passed senate">Fallen Servicemembers Religious Heritage Restoration Act</title>
+    <title type="short">Foreign Intelligence Accountability Act</title>
+    <title type="display">Fallen Servicemembers Religious Heritage Restoration Act</title>
     <title type="official" as="introduced">A bill to direct the American Battle Monuments Commission to establish a program to identify American-Jewish servicemembers buried in United States military cemeteries overseas under markers that incorrectly represent their religion and heritage, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M000934"/>
@@ -67,12 +68,35 @@
     <action datetime="2025-11-20T18:18:33-05:00">
       <text>Held at the desk.</text>
     </action>
+    <action datetime="2026-04-29T08:12:07-04:00">
+      <text>Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.</text>
+    </action>
+    <action datetime="2026-04-29T15:54:17-04:00">
+      <text>Considered under the provisions of rule H. Res. 1224.</text>
+    </action>
+    <action datetime="2026-04-29T15:54:22-04:00">
+      <text>Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.</text>
+    </action>
+    <action datetime="2026-04-29T15:55:44-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on S. 1318.</text>
+    </action>
+    <action datetime="2026-04-29T16:52:43-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="142" datetime="2026-04-29T17:26:31-04:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On passage Passed by the Yeas and Nays: 235 - 191 (Roll no. 142).</text>
+    </vote>
+    <action datetime="2026-04-29T17:26:33-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Hearings By (Full Committee), Hearings By (Full Committee), Referred To"/>
   </committees>
   <relatedbills>
-    <bill session="119" type="h" number="2701" relation="identical"/>
+    <bill session="119" type="hr" number="1224" relation="unknown"/>
+    <bill session="119" type="h" number="1919" relation="unknown"/>
+    <bill session="119" type="h" number="2701" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
@@ -83,7 +107,9 @@
     <term name="Religion"/>
     <term name="Veterans' organizations and recognition"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h178"/>
+  </amendments>
   <summary date="2025-07-02T15:10:48Z" status="Introduced in Senate">Fallen Servicemembers Religious Heritage Restoration Act
 
 This bill requires the American Battle Monuments Commission (ABMC) to establish the Fallen Servicemembers Religious Heritage Restoration Program to identify deceased members of the Armed Forces who were Jewish and buried in a U.S. military cemetery located outside of the United States under a marker indicating the member was not Jewish. The program must&#160;contact survivors and descendants of such members.

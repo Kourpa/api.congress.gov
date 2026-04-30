@@ -58,6 +58,20 @@
       "text": "Placed on the Union Calendar, Calendar No. 377.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-04-29T08:12:07-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1224-119",
+        "hr7567-119",
+        "scres33-119",
+        "s1318-119",
+        "hr1346-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -133,7 +147,14 @@
   "number": "2616",
   "official_title": "To require public elementary and middle schools that receive funds under the Elementary and Secondary Education Act of 1965 to obtain parental consent before changing a minor's gender markers, pronouns, or preferred name on any school form or sex-based accommodations, including locker rooms or bathrooms.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1224-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Parental Rights Over The Education and Care of Their Kids Act",
   "sponsor": {
     "bioguide_id": "W000798",
@@ -201,6 +222,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-23T20:08:11Z",
+  "updated_at": "2026-04-30T08:06:47Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2616.xml"
 }
