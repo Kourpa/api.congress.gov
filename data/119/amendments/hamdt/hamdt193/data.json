@@ -1,10 +1,62 @@
 {
   "actions": [
     {
+      "acted_at": "2026-04-30T10:42:26-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:42:26-04:00",
+      "action_code": "73000",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR H3305-3306",
+          "type": "consideration"
+        }
+      ],
+      "result": "fail",
+      "roll": 147,
+      "text": "On agreeing to the Grothman amendment (A015) Failed by recorded vote: 69 - 355 (Roll no. 147).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
       "acted_at": "2026-04-30T01:04:08-04:00",
       "action_code": "71000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3279-3280",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H3279",
+          "type": "text"
+        }
+      ],
       "text": "Amendment (A015) offered by Mr. Grothman.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:42:26-04:00",
+      "action_code": "73000",
+      "references": [
+        {
+          "reference": "CR H3305-3306",
+          "type": "consideration"
+        }
+      ],
+      "text": "House amendment not agreed to: On agreeing to the Grothman amendment (A015) Failed by recorded vote: 69 - 355 (Roll no. 147).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:42:26-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "Roll call votes on amendments in House",
       "type": "action"
     },
     {
@@ -39,7 +91,7 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2026-04-30",
-  "updated_at": "2026-04-30T08:09:23Z"
+  "status": "fail",
+  "status_at": "2026-04-30T10:42:26-04:00",
+  "updated_at": "2026-05-01T16:39:20Z"
 }

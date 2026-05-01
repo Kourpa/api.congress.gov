@@ -1,10 +1,62 @@
 {
   "actions": [
     {
+      "acted_at": "2026-04-30T10:56:36-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:56:36-04:00",
+      "action_code": "73000",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR H3308-3309",
+          "type": "consideration"
+        }
+      ],
+      "result": "fail",
+      "roll": 151,
+      "text": "On agreeing to the Self amendment (A028) Failed by recorded vote: 186 - 238 (Roll no. 151).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
       "acted_at": "2026-04-30T02:16:58-04:00",
       "action_code": "71000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3289-3290",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H3289",
+          "type": "text"
+        }
+      ],
       "text": "Amendment (A028) offered by Mr. Self.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:56:36-04:00",
+      "action_code": "73000",
+      "references": [
+        {
+          "reference": "CR H3308-3309",
+          "type": "consideration"
+        }
+      ],
+      "text": "House amendment not agreed to: On agreeing to the Self amendment (A028) Failed by recorded vote: 186 - 238 (Roll no. 151).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:56:36-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "Roll call votes on amendments in House",
       "type": "action"
     },
     {
@@ -39,7 +91,7 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2026-04-30",
-  "updated_at": "2026-04-30T08:09:22Z"
+  "status": "fail",
+  "status_at": "2026-04-30T10:56:36-04:00",
+  "updated_at": "2026-05-01T16:39:20Z"
 }

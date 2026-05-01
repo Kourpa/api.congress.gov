@@ -1,10 +1,57 @@
 {
   "actions": [
     {
+      "acted_at": "2026-04-30T10:35:30-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:35:30-04:00",
+      "action_code": "72000",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR H3304-3305",
+          "type": "consideration"
+        }
+      ],
+      "result": "pass",
+      "roll": 145,
+      "text": "On agreeing to the Crawford amendment (A008) Agreed to by recorded vote: 384 - 35 (Roll no. 145).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
       "acted_at": "2026-04-30T00:20:12-04:00",
       "action_code": "71000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3272-3273",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H3272",
+          "type": "text"
+        }
+      ],
       "text": "Amendment (A008) offered by Mr. Crawford.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:35:30-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "Roll call votes on amendments in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:35:30-04:00",
+      "action_code": "72000",
+      "references": [],
+      "text": "House amendment agreed to: On agreeing to the Crawford amendment (A008) Agreed to by recorded vote: 384 - 35 (Roll no. 145).",
       "type": "action"
     },
     {
@@ -39,7 +86,7 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2026-04-30",
-  "updated_at": "2026-04-30T08:09:23Z"
+  "status": "pass",
+  "status_at": "2026-04-30T10:35:30-04:00",
+  "updated_at": "2026-05-01T16:28:26Z"
 }

@@ -1,10 +1,62 @@
 {
   "actions": [
     {
+      "acted_at": "2026-04-30T10:49:35-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:49:35-04:00",
+      "action_code": "73000",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR H3307",
+          "type": "consideration"
+        }
+      ],
+      "result": "fail",
+      "roll": 149,
+      "text": "On agreeing to the Moore (WV) amendment (A022) Failed by recorded vote: 187 - 239 (Roll no. 149).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
       "acted_at": "2026-04-30T01:47:23-04:00",
       "action_code": "71000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3285-3286",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H3285",
+          "type": "text"
+        }
+      ],
       "text": "Amendment (A022) offered by Mr. Moore (WV).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:49:35-04:00",
+      "action_code": "73000",
+      "references": [
+        {
+          "reference": "CR H3307",
+          "type": "consideration"
+        }
+      ],
+      "text": "House amendment not agreed to: On agreeing to the Moore (WV) amendment (A022) Failed by recorded vote: 187 - 239 (Roll no. 149).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30T10:49:35-04:00",
+      "action_code": "75000",
+      "references": [],
+      "text": "Roll call votes on amendments in House",
       "type": "action"
     },
     {
@@ -39,7 +91,7 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2026-04-30",
-  "updated_at": "2026-04-30T08:09:23Z"
+  "status": "fail",
+  "status_at": "2026-04-30T10:49:35-04:00",
+  "updated_at": "2026-05-01T16:39:21Z"
 }
