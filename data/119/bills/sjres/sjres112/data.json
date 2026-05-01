@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-04-30",
+      "action_code": "",
+      "committees": [
+        "SSBK"
+      ],
+      "references": [],
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30",
+      "action_code": "",
+      "calendar": "Senate Legislative",
+      "number": "403",
+      "references": [],
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 403.",
+      "type": "calendar",
+      "under": "General Orders"
     }
   ],
   "amendments": [],
@@ -27,6 +47,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Banking, Housing, and Urban Affairs",
@@ -42,6 +63,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2026-04-28",
       "state": "MD",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "B001267",
+      "district": null,
+      "name": "Bennet, Michael F.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-04-30",
+      "state": "CO",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -128,7 +159,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-04-30",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -170,6 +202,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-29T10:56:37Z",
+  "updated_at": "2026-05-01T10:56:41Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres112.xml"
 }

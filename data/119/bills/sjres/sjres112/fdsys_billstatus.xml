@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>112</number>
-    <updateDate>2026-04-29T10:56:37Z</updateDate>
-    <updateDateIncludingText>2026-04-29T10:56:37Z</updateDateIncludingText>
+    <updateDate>2026-05-01T10:56:41Z</updateDate>
+    <updateDateIncludingText>2026-05-01T10:56:41Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SJRES</type>
@@ -19,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2026-04-30T19:38:37Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2026-03-05T20:14:26Z</date>
           </item>
@@ -26,6 +30,44 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-04-30</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 403.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2026-04-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Banking, Housing, and Urban Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2026-04-30</actionDate>
+        <text>Senate Committee on Banking, Housing, and Urban Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-03-05</actionDate>
         <committees>
@@ -157,6 +199,16 @@
         <sponsorshipDate>2026-04-28</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>B001267</bioguideId>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Bennet</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <sponsorshipDate>2026-04-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Finance and Financial Sector</name>
@@ -197,8 +249,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-03-05</actionDate>
-      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2026-04-30</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 403.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7266</number>
-    <updateDate>2026-04-14T14:20:26Z</updateDate>
-    <updateDateIncludingText>2026-04-14T14:20:26Z</updateDateIncludingText>
+    <updateDate>2026-05-01T08:53:25Z</updateDate>
+    <updateDateIncludingText>2026-05-01T08:53:25Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -40,6 +40,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-04-30T19:08:06Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2026-01-27T17:32:00Z</date>
           </item>
@@ -47,6 +51,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-04-30</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 545.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00545</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-04-30</actionDate>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-629.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-04-30</actionDate>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 119-629.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-02-04</actionDate>
         <committees>
@@ -212,6 +261,16 @@
     <title>Rural and Municipal Utility Cybersecurity Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Rural and Municipal Utility Cybersecurity Act</title>
+        <updateDate>2026-05-01T08:53:25Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Rural and Municipal Utility Cybersecurity Act</title>
@@ -236,6 +295,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-04-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr7266rh/xml/BILLS-119hr7266rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2026-01-27T05:00:00Z</date>
         <formats>
@@ -246,8 +314,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-02-04</actionDate>
-      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+      <actionDate>2026-04-30</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 545.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

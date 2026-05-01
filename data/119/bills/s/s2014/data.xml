@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2014" updated="2025-12-05T21:55:40Z">
+<bill session="119" type="s" number="2014" updated="2026-05-01T11:03:33Z">
   <state datetime="2025-06-10">REFERRED</state>
   <status>
     <introduced datetime="2025-06-10"/>
@@ -11,6 +11,7 @@
   </titles>
   <sponsor bioguide_id="C001056"/>
   <cosponsors>
+    <cosponsor bioguide_id="C001114" joined="2026-04-30"/>
     <cosponsor bioguide_id="G000574" joined="2025-06-10"/>
     <cosponsor bioguide_id="M001176" joined="2025-06-10"/>
     <cosponsor bioguide_id="M001242" joined="2025-06-10"/>
@@ -24,13 +25,19 @@
     </action>
   </actions>
   <committees>
-    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="2766" relation="identical"/>
   </relatedbills>
   <subjects>
     <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Office of Management and Budget (OMB)"/>
+    <term name="Political representation"/>
+    <term name="State and local government operations"/>
   </subjects>
   <amendments/>
 </bill>

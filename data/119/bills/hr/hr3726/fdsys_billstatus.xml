@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3726</number>
-    <updateDate>2026-03-23T15:35:23Z</updateDate>
-    <updateDateIncludingText>2026-03-23T15:35:23Z</updateDateIncludingText>
+    <updateDate>2026-05-01T08:53:26Z</updateDate>
+    <updateDateIncludingText>2026-05-01T08:53:26Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -32,16 +32,16 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-04-30T20:24:11Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-02-12T19:02:41Z</date>
           </item>
           <item>
             <name>Discharged from</name>
             <date>2026-02-05T18:57:00Z</date>
-          </item>
-          <item>
-            <name>Markup By</name>
-            <date>2025-07-23T14:05:08Z</date>
           </item>
           <item>
             <name>Referred To</name>
@@ -51,6 +51,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-04-30</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 546.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00546</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-04-30</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-630.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-04-30</actionDate>
+        <text>Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-630.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-02-12</actionDate>
         <committees>
@@ -227,13 +272,23 @@
         <updateDate>2025-06-24T18:09:57Z</updateDate>
       </policyArea>
     </subjects>
-    <title>Fisher House Availability Act of 2025</title>
+    <title>Fisher House Availability Act of 2026</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>Fisher House Availability Act of 2025</title>
-        <updateDate>2025-06-11T06:53:20Z</updateDate>
+        <title>Fisher House Availability Act of 2026</title>
+        <updateDate>2026-05-01T08:53:26Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Fisher House Availability Act of 2026</title>
+        <updateDate>2026-05-01T08:53:25Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -254,6 +309,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-04-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr3726rh/xml/BILLS-119hr3726rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-06-04T04:00:00Z</date>
         <formats>
@@ -264,8 +328,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-02-12</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
+      <actionDate>2026-04-30</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 546.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
