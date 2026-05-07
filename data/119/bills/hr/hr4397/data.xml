@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4397" updated="2026-04-28T08:05:53Z">
-  <state datetime="2025-07-15">REFERRED</state>
+<bill session="119" type="h" number="4397" updated="2026-05-07T08:05:26Z">
+  <state datetime="2025-12-03">REPORTED</state>
   <status>
-    <introduced datetime="2025-07-15"/>
+    <unknown datetime="2025-12-03"/>
   </status>
   <introduced datetime="2025-07-15"/>
   <titles>
@@ -59,10 +59,16 @@
     <action datetime="2025-07-15">
       <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-12-03">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2025-12-03" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 35 - 14.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
-    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="2293" relation="unknown"/>
