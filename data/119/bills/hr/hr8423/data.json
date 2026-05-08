@@ -173,6 +173,12 @@
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
+    },
+    {
+      "bill_id": "s4351-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
     }
   ],
   "short_title": "Energy Consumer Protection Act of 2026",
@@ -186,9 +192,16 @@
   },
   "status": "REFERRED",
   "status_at": "2026-04-21",
-  "subjects": [],
-  "subjects_top_term": null,
-  "summary": null,
+  "subjects": [
+    "Energy"
+  ],
+  "subjects_top_term": "Energy",
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2026-04-21",
+    "date": "2026-05-08T15:37:20Z",
+    "text": "Energy Consumer Protection Act of 2026\n\nThis bill expands enforcement provisions under the Federal Power Act and the Natural Gas Act to protect consumers from price manipulation, including by allowing the Federal Energy Regulatory Commission to temporarily or permanently ban any person from trading in energy markets if the person (1) violates those acts by manipulating the electricity or natural gas markets, or (2) files false information regarding those markets.\u00a0"
+  },
   "titles": [
     {
       "as": null,
@@ -212,6 +225,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-06T21:37:24Z",
+  "updated_at": "2026-05-08T15:37:44Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8423.xml"
 }
