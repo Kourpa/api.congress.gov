@@ -103,7 +103,12 @@
     {
       "acted_at": "2026-05-11",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S2193-2194",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -111,7 +116,12 @@
       "acted_at": "2026-05-11",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR 4/27/2026 S2056-2057",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "114",
       "status": "PASSED:SIMPLERES",
@@ -168,8 +178,10 @@
   },
   "status": "PASSED:SIMPLERES",
   "status_at": "2026-05-11",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Congress"
+  ],
+  "subjects_top_term": "Congress",
   "summary": null,
   "titles": [
     {
@@ -187,6 +199,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-12T10:56:31Z",
+  "updated_at": "2026-05-12T14:56:42Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres690.xml"
 }
