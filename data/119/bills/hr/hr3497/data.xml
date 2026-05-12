@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3497" updated="2026-04-10T13:07:45Z">
-  <state datetime="2026-02-02T16:40:51-05:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="3497" updated="2026-05-12T10:56:39Z">
+  <state datetime="2026-05-11">PASSED:BILL</state>
   <status>
-    <unknown datetime="2026-02-02T16:40:51-05:00"/>
+    <unknown datetime="2026-05-11"/>
   </status>
   <introduced datetime="2025-05-19"/>
   <titles>
@@ -91,9 +91,15 @@
     <action datetime="2026-02-03">
       <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </action>
+    <action datetime="2026-05-11">
+      <text>Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2026-05-11" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
