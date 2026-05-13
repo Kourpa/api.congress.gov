@@ -58,6 +58,47 @@
       "text": "Placed on the Union Calendar, Calendar No. 288.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-05-12T16:40:07-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Massie moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T16:40:18-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T16:40:19-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2267.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T16:52:58-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-05-12T16:52:59-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -107,6 +148,8 @@
     "active_at": "2025-03-25",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-05-12T16:52:58-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-03-21",
@@ -123,8 +166,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-03-25",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-05-12T16:52:58-04:00",
   "subjects": [
     "Congressional oversight",
     "Crime and law enforcement",
@@ -137,7 +180,7 @@
     "as": "Introduced in House",
     "asOf": "2025-03-21",
     "date": "2025-09-03T19:24:42Z",
-    "text": ""
+    "text": "NICS Data Reporting Act\n\nThis bill requires the Department of Justice to report annually on the demographic data of persons who are determined to be ineligible to purchase a firearm based on a background check performed by the National Instant Criminal Background Check System."
   },
   "titles": [
     {
@@ -169,6 +212,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-04T05:06:18Z",
+  "updated_at": "2026-05-13T08:06:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2267.xml"
 }

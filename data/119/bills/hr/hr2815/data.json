@@ -183,6 +183,13 @@
       "references": [],
       "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -204,7 +211,6 @@
     {
       "activity": [
         "Reported By",
-        "discharged",
         "Markup By",
         "discharged",
         "Referred To"
@@ -229,7 +235,8 @@
   "history": {
     "active": true,
     "active_at": "2025-05-20",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2026-05-12",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-12-15T16:39:36-05:00",
@@ -332,6 +339,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-24T12:48:03Z",
+  "updated_at": "2026-05-13T08:05:58Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2815.xml"
 }

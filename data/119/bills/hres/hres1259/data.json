@@ -20,6 +20,34 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Foreign Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-05-12T17:04:00-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Smith (NJ) moved to suspend the rules and agree to the resolution.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T17:04:20-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T17:04:22-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H. Res. 1259.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T17:30:48-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -39,6 +67,16 @@
   "congress": "119",
   "cosponsors": [
     {
+      "bioguide_id": "K000397",
+      "district": "40",
+      "name": "Kim, Young",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-05-12",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "M001194",
       "district": "2",
       "name": "Moolenaar, John R.",
@@ -47,11 +85,22 @@
       "state": "MI",
       "title": "Rep.",
       "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S001201",
+      "district": "3",
+      "name": "Suozzi, Thomas R.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-05-12",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
     }
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-05-12T17:04:00-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -98,6 +147,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-05-12T08:06:17Z",
+  "updated_at": "2026-05-13T08:06:49Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1259.xml"
 }

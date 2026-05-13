@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1010" updated="2026-04-08T15:33:41Z">
+<bill session="119" type="h" number="1010" updated="2026-05-13T08:06:37Z">
   <state datetime="2025-02-05">REFERRED</state>
   <status>
     <introduced datetime="2025-02-05"/>
@@ -35,10 +35,14 @@
     <action datetime="2025-02-05">
       <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, Natural Resources, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-05-12">
+      <text>Referred to the Subcommittee on Indian and Insular Affairs.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII24" name="House Natural Resources" subcommittee="Indian and Insular Affairs" activity="Referral"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2267" updated="2026-02-04T05:06:18Z">
-  <state datetime="2025-03-25">REPORTED</state>
+<bill session="119" type="h" number="2267" updated="2026-05-13T08:06:26Z">
+  <state datetime="2026-05-12T16:52:58-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-03-25"/>
+    <unknown datetime="2026-05-12T16:52:58-04:00"/>
   </status>
   <introduced datetime="2025-03-21"/>
   <titles>
@@ -34,6 +34,21 @@
     <calendar datetime="2025-10-03" calendar="Union" number="288">
       <text>Placed on the Union Calendar, Calendar No. 288.</text>
     </calendar>
+    <action datetime="2026-05-12T16:40:07-04:00">
+      <text>Mr. Massie moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-05-12T16:40:18-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-05-12T16:40:19-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2267.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-05-12T16:52:58-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-05-12T16:52:59-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -47,7 +62,9 @@
     <term name="Government information and archives"/>
   </subjects>
   <amendments/>
-  <summary date="2025-09-03T19:24:42Z" status="Introduced in House"></summary>
+  <summary date="2025-09-03T19:24:42Z" status="Introduced in House">NICS Data Reporting Act
+
+This bill requires the Department of Justice to report annually on the demographic data of persons who are determined to be ineligible to purchase a firearm based on a background check performed by the National Instant Criminal Background Check System.</summary>
   <committee-reports>
     <report>H. Rept. 119-336</report>
   </committee-reports>

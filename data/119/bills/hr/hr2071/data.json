@@ -58,6 +58,69 @@
       "text": "Placed on the Union Calendar, Calendar No. 491.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-05-12T15:07:04-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T15:07:06-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T15:07:07-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2071.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T15:15:19-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T18:31:30-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T19:05:49-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "156",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 18, 1 Present (Roll no. 156).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-05-12T19:05:50-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T19:05:51-04:00",
+      "action_code": "H38800",
+      "references": [],
+      "text": "The title of the measure was amended. Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -287,6 +350,8 @@
     "active_at": "2026-03-04",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-05-12T19:05:49-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-03-11",
@@ -303,8 +368,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-03-04",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-05-12T19:05:49-04:00",
   "subjects": [
     "Agricultural trade",
     "Congressional oversight",
@@ -351,6 +416,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-02T15:41:20Z",
+  "updated_at": "2026-05-13T08:06:44Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2071.xml"
 }

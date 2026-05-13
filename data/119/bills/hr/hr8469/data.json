@@ -19,6 +19,20 @@
       "text": "Placed on the Union Calendar, Calendar No. 539.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-05-12T19:51:11-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1275-119",
+        "hr5625-119",
+        "hr6260-119",
+        "hr8365-119",
+        "hcres96-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1275 Reported to House. Rule provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, H. Con. Res. 96 and H.R. 8469. The resolution provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, and H.Con.Res. 96 under a closed rule. The resolution provides for consideration of H.R. 8469 under a structured rule. The resolution makes in order one motion to recommit on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -41,7 +55,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-05-12T19:51:11-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -50,7 +65,14 @@
   "number": "8469",
   "official_title": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2027, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1275-119",
+      "identified_by": "House",
+      "reason": "procedurally related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "C001051",
@@ -95,6 +117,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-28T13:35:24Z",
+  "updated_at": "2026-05-13T08:06:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8469.xml"
 }

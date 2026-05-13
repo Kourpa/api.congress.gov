@@ -58,6 +58,47 @@
       "text": "Placed on the Union Calendar, Calendar No. 168.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-05-12T15:31:05-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T15:31:12-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T15:31:14-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3709.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-12T15:43:35-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-05-12T15:43:37-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -86,6 +127,8 @@
     "active_at": "2025-06-10",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-05-12T15:43:35-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-06-04",
@@ -102,8 +145,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-06-10",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-05-12T15:43:35-04:00",
   "subjects": [
     "Corporate finance and management",
     "Employment and training programs",
@@ -115,7 +158,7 @@
     "as": "Reported to House",
     "asOf": "2025-07-15",
     "date": "2025-09-03T16:25:26Z",
-    "text": ""
+    "text": "Advancing the Mentor-Prot\u00e9g\u00e9 Program for Small Financial Institutions Act\n\nThis bill establishes the Financial Agent Mentor-Prot\u00e9g\u00e9 Program within the Department of the Treasury. The program provides participating minority and rural depository institutions and small financial institutions with mentorship from large financial institutions or from financial agents designated by Treasury. This mentorship prepares prot\u00e9g\u00e9\u00a0institutions to improve service capacity or to perform as financial agents for the federal government.\u00a0"
   },
   "titles": [
     {
@@ -147,6 +190,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2025-09-03T16:26:03Z",
+  "updated_at": "2026-05-13T08:06:50Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3709.xml"
 }
