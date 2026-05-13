@@ -31,7 +31,16 @@
     {
       "acted_at": "2026-05-12T17:04:20-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3372-3375",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H3372",
+          "type": "text"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -124,6 +133,7 @@
   "subjects": [
     "Asia",
     "China",
+    "Congressional-executive branch relations",
     "Detention of persons",
     "International affairs",
     "Religion"
@@ -151,6 +161,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-05-13T16:15:00Z",
+  "updated_at": "2026-05-13T17:52:56Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1259.xml"
 }

@@ -41,7 +41,16 @@
     {
       "acted_at": "2026-05-12T15:58:37-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3359-33362",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H3359-3360",
+          "type": "text"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -216,7 +225,9 @@
   "status": "REFERRED",
   "status_at": "2026-04-30",
   "subjects": [
-    "Civil rights and liberties, minority issues"
+    "Civil rights and liberties, minority issues",
+    "Community life and organization",
+    "Religion"
   ],
   "subjects_top_term": "Civil rights and liberties, minority issues",
   "summary": {
@@ -241,6 +252,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-05-13T08:06:02Z",
+  "updated_at": "2026-05-13T17:49:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1251.xml"
 }
