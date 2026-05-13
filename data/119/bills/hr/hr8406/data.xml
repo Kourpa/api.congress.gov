@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="8406" updated="2026-04-28T06:08:34Z">
+<bill session="119" type="h" number="8406" updated="2026-05-12T22:24:21Z">
   <state datetime="2026-04-21">REFERRED</state>
   <status>
     <introduced datetime="2026-04-21"/>
@@ -28,7 +28,11 @@
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="4377" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
   <amendments/>
 </bill>

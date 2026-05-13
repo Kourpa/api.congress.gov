@@ -63,6 +63,12 @@
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
+    },
+    {
+      "bill_id": "hr8423-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
     }
   ],
   "short_title": "Energy Consumer Protection Act of 2026",
@@ -76,8 +82,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-04-21",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Energy"
+  ],
+  "subjects_top_term": "Energy",
   "summary": null,
   "titles": [
     {
@@ -102,6 +110,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-06T21:37:35Z",
+  "updated_at": "2026-05-12T21:17:00Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4351.xml"
 }
