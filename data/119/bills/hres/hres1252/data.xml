@@ -1,7 +1,7 @@
-<bill session="119" type="hr" number="1252" updated="2026-05-13T17:50:08Z">
-  <state datetime="2026-05-04">REFERRED</state>
+<bill session="119" type="hr" number="1252" updated="2026-05-14T08:07:45Z">
+  <state datetime="2026-05-13T15:56:54-04:00">PASSED:SIMPLERES</state>
   <status>
-    <introduced datetime="2026-05-04"/>
+    <unknown datetime="2026-05-13T15:56:54-04:00"/>
   </status>
   <introduced datetime="2026-05-04"/>
   <titles>
@@ -41,7 +41,9 @@
     <cosponsor bioguide_id="E000246" joined="2026-05-12"/>
     <cosponsor bioguide_id="E000300" joined="2026-05-04"/>
     <cosponsor bioguide_id="E000235" joined="2026-05-04"/>
+    <cosponsor bioguide_id="F000246" joined="2026-05-13"/>
     <cosponsor bioguide_id="F000482" joined="2026-05-04"/>
+    <cosponsor bioguide_id="F000481" joined="2026-05-13"/>
     <cosponsor bioguide_id="F000475" joined="2026-05-04"/>
     <cosponsor bioguide_id="F000470" joined="2026-05-12"/>
     <cosponsor bioguide_id="F000466" joined="2026-05-04"/>
@@ -94,6 +96,7 @@
     <cosponsor bioguide_id="M001217" joined="2026-05-07"/>
     <cosponsor bioguide_id="M001219" joined="2026-05-04"/>
     <cosponsor bioguide_id="N000189" joined="2026-05-04"/>
+    <cosponsor bioguide_id="N000190" joined="2026-05-13"/>
     <cosponsor bioguide_id="P000613" joined="2026-05-07"/>
     <cosponsor bioguide_id="P000614" joined="2026-05-04"/>
     <cosponsor bioguide_id="P000622" joined="2026-05-04"/>
@@ -154,6 +157,15 @@
     </action>
     <action datetime="2026-05-12T16:17:27-04:00">
       <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2026-05-13T15:42:55-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="162" datetime="2026-05-13T15:56:54-04:00" where="h" result="pass" suspension="1" state="PASSED:SIMPLERES">
+      <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 162).</text>
+    </vote>
+    <action datetime="2026-05-13T15:56:56-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

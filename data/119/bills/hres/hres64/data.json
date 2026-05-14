@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Foreign Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-05-13",
+      "action_code": "",
+      "committees": [
+        "HSFA"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-13",
+      "action_code": "",
+      "committees": [
+        "HSFA"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by the Yeas and Nays: 43 - 3.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Foreign Affairs",
@@ -718,7 +740,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-05-13",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -737,8 +760,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-23",
+  "status": "REPORTED",
+  "status_at": "2026-05-13",
   "subjects": [
     "International affairs"
   ],
@@ -747,7 +770,7 @@
     "as": "Introduced in House",
     "asOf": "2025-01-23",
     "date": "2025-03-04T15:18:30Z",
-    "text": ""
+    "text": "This resolution reaffirms the importance of the alliance between the United States and South Korea, particularly with regard to security in the Indo-Pacific. The resolution also celebrates the important contributions of Korean Americans to American society and supports the goals of Korean Culture-Kimchi Day."
   },
   "titles": [
     {
@@ -765,6 +788,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-11-19T09:06:56Z",
+  "updated_at": "2026-05-14T08:08:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres64.xml"
 }

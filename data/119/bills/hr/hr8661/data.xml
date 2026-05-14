@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8661" updated="2026-05-08T20:31:26Z">
-  <state datetime="2026-05-04">REFERRED</state>
+<bill session="119" type="h" number="8661" updated="2026-05-14T08:08:33Z">
+  <state datetime="2026-05-13">REPORTED</state>
   <status>
-    <introduced datetime="2026-05-04"/>
+    <unknown datetime="2026-05-13"/>
   </status>
   <introduced datetime="2026-05-04"/>
   <titles>
@@ -10,7 +10,9 @@
     <title type="official" as="introduced">To authorize the Secretary of State to provide certain direct loans and loan guarantees for the procurement of defense articles, defense services, and design and construction services, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M001199"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000397" joined="2026-05-13"/>
+  </cosponsors>
   <actions>
     <action datetime="2026-05-04">
       <text>Introduced in House</text>
@@ -18,9 +20,15 @@
     <action datetime="2026-05-04" state="REFERRED">
       <text>Referred to the House Committee on Foreign Affairs.</text>
     </action>
+    <action datetime="2026-05-13">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 37 - 9.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

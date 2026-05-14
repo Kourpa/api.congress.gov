@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1346" updated="2026-05-12T19:20:23Z">
-  <state datetime="2025-02-13">REFERRED</state>
+<bill session="119" type="h" number="1346" updated="2026-05-14T08:09:21Z">
+  <state datetime="2026-05-13T18:26:57-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-02-13"/>
+    <unknown datetime="2026-05-13T18:26:57-04:00"/>
   </status>
   <introduced datetime="2025-02-13"/>
   <titles>
@@ -80,9 +80,42 @@
     <action datetime="2026-04-29T13:25:00-04:00">
       <text>Rule H. Res. 1224 passed House.</text>
     </action>
+    <action datetime="2026-05-13T15:57:24-04:00">
+      <text>Considered under the provisions of rule H. Res. 1224.</text>
+    </action>
+    <action datetime="2026-05-13T15:57:29-04:00">
+      <text>Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.</text>
+    </action>
+    <action datetime="2026-05-13T15:58:13-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1346.</text>
+    </action>
+    <action datetime="2026-05-13T16:49:53-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-05-13T16:50:16-04:00">
+      <text>Mr. Perry moved to recommit to the Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2026-05-13T16:50:41-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-05-13T16:51:07-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1346, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Mr. Perry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-05-13T17:47:43-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-05-13T18:19:42-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 112 - 309 (Roll no. 163).</text>
+    </action>
+    <vote how="roll" type="vote" roll="164" datetime="2026-05-13T18:26:57-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 218 - 203 (Roll no. 164).</text>
+    </vote>
+    <action datetime="2026-05-13T18:26:59-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Unknown, Unknown, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="1224" relation="unknown"/>
@@ -97,7 +130,9 @@
     <term name="Oil and gas"/>
     <term name="State and local government operations"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h210"/>
+  </amendments>
   <summary date="2025-05-06T19:39:32Z" status="Introduced in House">Nationwide Consumer and Fuel Retailer Choice Act of 2025
 
 This bill amends the Clean Air Act to address the limitations on Reid Vapor Pressure (a measure of gasoline's volatility) that are placed on gasoline during the summer ozone season. Specifically, the bill applies the waiver for Reid Vapor Pressure requirements that is applicable to gasoline blended with 10% ethanol (E10) to gasoline blended with up to 15% ethanol (E15). This change allows gasoline that is blended with 10% to 15% ethanol to be sold year-round.
