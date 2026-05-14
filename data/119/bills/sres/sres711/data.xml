@@ -1,7 +1,7 @@
-<bill session="119" type="sr" number="711" updated="2026-05-07T02:33:39Z">
-  <state datetime="2026-04-30">REFERRED</state>
+<bill session="119" type="sr" number="711" updated="2026-05-14T10:56:29Z">
+  <state datetime="2026-05-13">PASSED:SIMPLERES</state>
   <status>
-    <introduced datetime="2026-04-30"/>
+    <unknown datetime="2026-05-13"/>
   </status>
   <introduced datetime="2026-04-30"/>
   <titles>
@@ -24,9 +24,15 @@
       <text>Referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
       <reference ref="CR S2176" label="text"/>
     </action>
+    <action datetime="2026-05-13">
+      <text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-05-13" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="" activity="Referred To"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

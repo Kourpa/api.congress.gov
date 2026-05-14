@@ -25,6 +25,28 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on Agriculture, Nutrition, and Forestry.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-05-13",
+      "action_code": "",
+      "committees": [
+        "SSAF"
+      ],
+      "references": [],
+      "text": "Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-13",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -35,6 +57,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Agriculture, Nutrition, and Forestry",
@@ -96,9 +119,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-05-13",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-05-13",
     "vetoed": false
   },
   "introduced_at": "2026-04-30",
@@ -115,8 +141,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-04-30",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2026-05-13",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -136,6 +162,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-05-07T02:33:39Z",
+  "updated_at": "2026-05-14T10:56:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres711.xml"
 }
