@@ -41,7 +41,12 @@
     {
       "acted_at": "2026-05-13",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S2265-2266",
+          "type": "consideration"
+        }
+      ],
       "text": "Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 123.",
       "type": "action"
     }
@@ -75,7 +80,14 @@
   "number": "130",
   "official_title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to withdrawal of the rule relating to \"Consumer Financial Protection Circular 2024-05: Improper Overdraft Opt-In Practices\".",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hjres169-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "V000128",
@@ -108,6 +120,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-05-14T10:56:32Z",
+  "updated_at": "2026-05-14T18:43:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres130.xml"
 }
