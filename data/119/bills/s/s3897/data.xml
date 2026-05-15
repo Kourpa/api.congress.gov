@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="3897" updated="2026-05-14T11:03:27Z">
-  <state datetime="2026-02-24">REFERRED</state>
+<bill session="119" type="s" number="3897" updated="2026-05-15T11:03:25Z">
+  <state datetime="2026-05-14">REPORTED</state>
   <status>
-    <introduced datetime="2026-02-24"/>
+    <unknown datetime="2026-05-14"/>
   </status>
   <introduced datetime="2026-02-24"/>
   <titles>
@@ -13,6 +13,7 @@
   <cosponsors>
     <cosponsor bioguide_id="C001088" joined="2026-04-21"/>
     <cosponsor bioguide_id="C001098" joined="2026-02-24"/>
+    <cosponsor bioguide_id="D000563" joined="2026-05-14"/>
     <cosponsor bioguide_id="G000359" joined="2026-05-13"/>
     <cosponsor bioguide_id="S001181" joined="2026-04-21"/>
   </cosponsors>
@@ -23,9 +24,12 @@
     <action datetime="2026-02-24" state="REFERRED">
       <text>Read twice and referred to the Committee on the Judiciary.</text>
     </action>
+    <action datetime="2026-05-14" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="7718" relation="unknown"/>
