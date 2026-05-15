@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5625" updated="2026-05-15T00:06:18Z">
-  <state datetime="2025-12-18">REPORTED</state>
+<bill session="119" type="h" number="5625" updated="2026-05-15T08:09:20Z">
+  <state datetime="2026-05-14T16:59:35-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-12-18"/>
+    <unknown datetime="2026-05-14T16:59:35-04:00"/>
   </status>
   <introduced datetime="2025-09-30"/>
   <titles>
@@ -58,6 +58,30 @@
     <action datetime="2026-05-12T19:51:11-04:00">
       <text>Rules Committee Resolution H. Res. 1275 Reported to House. Rule provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, H. Con. Res. 96 and H.R. 8469. The resolution provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, and H.Con.Res. 96 under a closed rule. The resolution provides for consideration of H.R. 8469 under a structured rule. The resolution makes in order one motion to recommit on each bill.</text>
     </action>
+    <action datetime="2026-05-14T12:23:20-04:00">
+      <text>Considered under the provisions of rule H. Res. 1275.</text>
+    </action>
+    <action datetime="2026-05-14T12:23:25-04:00">
+      <text>Rule provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, H. Con. Res. 96 and H.R. 8469. The resolution provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, and H.Con.Res. 96 under a closed rule. The resolution provides for consideration of H.R. 8469 under a structured rule. The resolution makes in order one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2026-05-14T12:24:07-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 5625.</text>
+    </action>
+    <action datetime="2026-05-14T12:50:49-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-05-14T12:51:15-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5625, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-05-14T16:53:22-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="171" datetime="2026-05-14T16:59:35-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 308 - 116 (Roll no. 171).</text>
+    </vote>
+    <action datetime="2026-05-14T16:59:37-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -71,7 +95,9 @@
     <term name="Government information and archives"/>
     <term name="State and local government operations"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h211"/>
+  </amendments>
   <summary date="2026-05-08T20:56:37Z" status="Reported to House">Cashless Bail Reporting Act
 
 This bill requires the Department of Justice to publish annually a list of state and local governments that permit individuals who are charged with certain criminal offenses that pose a clear threat to public safety and order to be released pending trial on personal recognizance or upon execution of an unsecured appearance bond.

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3924" updated="2026-01-08T17:13:28Z">
-  <state datetime="2025-06-11">REFERRED</state>
+<bill session="119" type="h" number="3924" updated="2026-05-15T08:07:23Z">
+  <state datetime="2026-05-14">REPORTED</state>
   <status>
-    <introduced datetime="2025-06-11"/>
+    <unknown datetime="2026-05-14"/>
   </status>
   <introduced datetime="2025-06-11"/>
   <titles>
@@ -39,10 +39,19 @@
     <action datetime="2025-12-11">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2026-05-14">
+      <text>Subcommittee on Federal Lands Discharged</text>
+    </action>
+    <action datetime="2026-05-14">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-14" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Discharged, Hearings By (Subcommittee), Referral"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>

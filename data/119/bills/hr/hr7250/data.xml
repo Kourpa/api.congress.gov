@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7250" updated="2026-04-10T23:39:43Z">
-  <state datetime="2026-01-27">REFERRED</state>
+<bill session="119" type="h" number="7250" updated="2026-05-15T08:07:28Z">
+  <state datetime="2026-05-14">REPORTED</state>
   <status>
-    <introduced datetime="2026-01-27"/>
+    <unknown datetime="2026-05-14"/>
   </status>
   <introduced datetime="2026-01-27"/>
   <titles>
@@ -23,10 +23,19 @@
     <action datetime="2026-03-26">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2026-05-14">
+      <text>Subcommittee on Water, Wildlife and Fisheries Discharged</text>
+    </action>
+    <action datetime="2026-05-14">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-14" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSII13" name="House Natural Resources" subcommittee="Water, Wildlife and Fisheries" activity="Hearings By (Subcommittee), Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSII13" name="House Natural Resources" subcommittee="Water, Wildlife and Fisheries" activity="Discharged, Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="3635" relation="unknown"/>

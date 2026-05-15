@@ -72,9 +72,115 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 1275 Reported to House. Rule provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, H. Con. Res. 96 and H.R. 8469. The resolution provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, and H.Con.Res. 96 under a closed rule. The resolution provides for consideration of H.R. 8469 under a structured rule. The resolution makes in order one motion to recommit on each bill.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14T13:36:10-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1275-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1275.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14T13:36:15-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr5625-119",
+        "hr6260-119",
+        "hcres96-119",
+        "hr8469-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, H. Con. Res. 96 and H.R. 8469. The resolution provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, and H.Con.Res. 96 under a closed rule. The resolution provides for consideration of H.R. 8469 under a structured rule. The resolution makes in order one motion to recommit on each bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14T13:37:46-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 8365.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14T14:28:32-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14T14:29:01-04:00",
+      "action_code": "H36200",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Mr. Boyle (PA) moved to recommit to the Committee on the Judiciary.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14T14:29:14-04:00",
+      "action_code": "H8A000",
+      "references": [],
+      "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14T14:29:42-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 8365, the Chair put the question on motion to recommit and by voice vote, announced that the noes had prevailed. Mr. Boyle (PA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14T16:59:47-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14T17:05:31-04:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "On motion to recommit Failed by the Yeas and Nays: 210 - 213 (Roll no. 172).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14T17:11:16-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "173",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by recorded vote: 219 - 204 (Roll no. 173).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-05-14T17:11:18-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt213-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "213"
+    }
+  ],
   "bill_id": "hr8365-119",
   "bill_type": "hr",
   "by_request": false,
@@ -84,6 +190,8 @@
   "committees": [
     {
       "activity": [
+        "Unknown",
+        "Unknown",
         "Reported By",
         "Markup By",
         "Referred To"
@@ -121,6 +229,8 @@
     "active_at": "2026-04-22",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-05-14T17:11:16-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-04-20",
@@ -144,8 +254,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-04-22",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-05-14T17:11:16-04:00",
   "subjects": [
     "Federal district courts",
     "Government employee pay, benefits, personnel management",
@@ -191,6 +301,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-15T00:06:18Z",
+  "updated_at": "2026-05-15T08:09:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8365.xml"
 }

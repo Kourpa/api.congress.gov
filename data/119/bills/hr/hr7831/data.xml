@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7831" updated="2026-04-24T08:06:35Z">
-  <state datetime="2026-03-05">REFERRED</state>
+<bill session="119" type="h" number="7831" updated="2026-05-15T08:08:01Z">
+  <state datetime="2026-05-14">REPORTED</state>
   <status>
-    <introduced datetime="2026-03-05"/>
+    <unknown datetime="2026-05-14"/>
   </status>
   <introduced datetime="2026-03-05"/>
   <titles>
@@ -28,10 +28,19 @@
     <action datetime="2026-03-25">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2026-05-14">
+      <text>Subcommittee on Energy and Mineral Resources Discharged</text>
+    </action>
+    <action datetime="2026-05-14">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-14" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSII06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Hearings By (Subcommittee), Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSII06" name="House Natural Resources" subcommittee="Energy and Mineral Resources" activity="Discharged, Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

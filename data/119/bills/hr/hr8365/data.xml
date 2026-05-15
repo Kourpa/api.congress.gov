@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8365" updated="2026-05-15T00:06:18Z">
-  <state datetime="2026-04-22">REPORTED</state>
+<bill session="119" type="h" number="8365" updated="2026-05-15T08:09:21Z">
+  <state datetime="2026-05-14T17:11:16-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-04-22"/>
+    <unknown datetime="2026-05-14T17:11:16-04:00"/>
   </status>
   <introduced datetime="2026-04-20"/>
   <titles>
@@ -37,9 +37,42 @@
     <action datetime="2026-05-12T19:51:11-04:00">
       <text>Rules Committee Resolution H. Res. 1275 Reported to House. Rule provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, H. Con. Res. 96 and H.R. 8469. The resolution provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, and H.Con.Res. 96 under a closed rule. The resolution provides for consideration of H.R. 8469 under a structured rule. The resolution makes in order one motion to recommit on each bill.</text>
     </action>
+    <action datetime="2026-05-14T13:36:10-04:00">
+      <text>Considered under the provisions of rule H. Res. 1275.</text>
+    </action>
+    <action datetime="2026-05-14T13:36:15-04:00">
+      <text>Rule provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, H. Con. Res. 96 and H.R. 8469. The resolution provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, and H.Con.Res. 96 under a closed rule. The resolution provides for consideration of H.R. 8469 under a structured rule. The resolution makes in order one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2026-05-14T13:37:46-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 8365.</text>
+    </action>
+    <action datetime="2026-05-14T14:28:32-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-05-14T14:29:01-04:00">
+      <text>Mr. Boyle (PA) moved to recommit to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2026-05-14T14:29:14-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-05-14T14:29:42-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 8365, the Chair put the question on motion to recommit and by voice vote, announced that the noes had prevailed. Mr. Boyle (PA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-05-14T16:59:47-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-05-14T17:05:31-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 210 - 213 (Roll no. 172).</text>
+    </action>
+    <vote how="roll" type="vote" roll="173" datetime="2026-05-14T17:11:16-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 219 - 204 (Roll no. 173).</text>
+    </vote>
+    <action datetime="2026-05-14T17:11:18-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="1275" relation="unknown"/>
@@ -52,7 +85,9 @@
     <term name="Judicial procedure and administration"/>
     <term name="Legal fees and court costs"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h213"/>
+  </amendments>
   <summary date="2026-05-11T18:11:36Z" status="Reported to House">Monitor Accountability Act
 
 This bill requires the Administrative Office of the U.S. Courts to establish conditions on the appointment of monitors to oversee state and local governmental entities. A monitor is an independent official appointed to oversee corrective reforms as part of a civil settlement agreement or consent decree, such as to remedy a pattern or practice of unconstitutional policing.
