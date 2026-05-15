@@ -110,13 +110,8 @@
     {
       "acted_at": "2025-09-10",
       "action_code": "",
-      "references": [
-        {
-          "reference": "CR S6512",
-          "type": "consideration"
-        }
-      ],
-      "text": "Amendment SA 3864 proposed by Senator Thune to language proposed to be stricken by amendment no. 3748.",
+      "references": [],
+      "text": "Amendment SA 3864 proposed by Senator Thune to language proposed to be stricken by amendment no. 3748. (consideration: CR S6512) To improve the bill.",
       "type": "action"
     },
     {
@@ -143,7 +138,14 @@
   ],
   "amendment_id": "samdt3864-119",
   "amendment_type": "samdt",
-  "amends_amendment": null,
+  "amends_amendment": {
+    "amendment_id": "samdt3748-119",
+    "amendment_type": "samdt",
+    "congress": 119,
+    "description": "",
+    "number": 3748,
+    "purpose": "In the nature of a substitute."
+  },
   "amends_bill": {
     "bill_id": "s2296-119",
     "bill_type": "s",
@@ -168,5 +170,5 @@
   },
   "status": "offered",
   "status_at": "2025-09-10",
-  "updated_at": "2025-11-28T16:17:38Z"
+  "updated_at": "2025-10-10T01:57:33Z"
 }

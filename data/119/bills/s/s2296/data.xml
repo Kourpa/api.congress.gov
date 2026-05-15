@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2296" updated="2026-01-05T22:01:05Z">
+<bill session="119" type="s" number="2296" updated="2026-05-13T13:16:42Z">
   <state datetime="2025-10-09">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-10-09"/>
@@ -46,6 +46,18 @@
   <sponsor bioguide_id="W000437"/>
   <cosponsors/>
   <actions>
+    <action datetime="2025-03-05">
+      <text>Committee on Armed Services Subcommittee on Readiness and Management Support. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 3.</text>
+    </action>
+    <action datetime="2025-04-08">
+      <text>Committee on Armed Services Subcommittee on Emerging Threats and Capabilities. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 5.</text>
+    </action>
+    <action datetime="2025-04-09">
+      <text>Committee on Armed Services Subcommittee on Cybersecurity. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 8.</text>
+    </action>
+    <action datetime="2025-04-09">
+      <text>Committee on Armed Services Subcommittee on Personnel. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 6.</text>
+    </action>
     <action datetime="2025-07-15">
       <text>Introduced in Senate</text>
     </action>
@@ -152,9 +164,16 @@
   </actions>
   <committees>
     <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Reported Original Measure"/>
+    <committee code="SSAS17" name="Senate Armed Services" subcommittee="Personnel" activity="Hearings By (Subcommittee)"/>
+    <committee code="SSAS21" name="Senate Armed Services" subcommittee="Cybersecurity" activity="Hearings By (Subcommittee)"/>
+    <committee code="SSAS20" name="Senate Armed Services" subcommittee="Emerging Threats and Capabilities" activity="Hearings By (Subcommittee)"/>
+    <committee code="SSAS15" name="Senate Armed Services" subcommittee="Readiness and Management Support" activity="Hearings By (Subcommittee)"/>
   </committees>
   <relatedbills>
+    <bill session="119" type="h" number="6269" relation="unknown"/>
     <bill session="119" type="s" number="3163" relation="unknown"/>
+    <bill session="119" type="h" number="8554" relation="unknown"/>
+    <bill session="119" type="s" number="4474" relation="unknown"/>
     <bill session="119" type="s" number="1988" relation="unknown"/>
     <bill session="119" type="s" number="2604" relation="unknown"/>
     <bill session="119" type="s" number="2259" relation="unknown"/>
@@ -168,20 +187,36 @@
     <bill session="119" type="s" number="2606" relation="unknown"/>
     <bill session="119" type="s" number="2599" relation="unknown"/>
     <bill session="119" type="s" number="2600" relation="unknown"/>
+    <bill session="119" type="s" number="2647" relation="unknown"/>
+    <bill session="119" type="s" number="2642" relation="unknown"/>
+    <bill session="119" type="h" number="6475" relation="unknown"/>
+    <bill session="119" type="s" number="2669" relation="unknown"/>
     <bill session="119" type="h" number="5990" relation="unknown"/>
     <bill session="119" type="h" number="5938" relation="unknown"/>
+    <bill session="119" type="h" number="5962" relation="unknown"/>
     <bill session="119" type="s" number="3067" relation="unknown"/>
+    <bill session="119" type="h" number="5912" relation="unknown"/>
+    <bill session="119" type="s" number="3050" relation="unknown"/>
     <bill session="119" type="h" number="5975" relation="unknown"/>
     <bill session="119" type="h" number="6009" relation="unknown"/>
+    <bill session="119" type="s" number="3288" relation="unknown"/>
+    <bill session="119" type="h" number="5623" relation="unknown"/>
+    <bill session="119" type="h" number="6483" relation="unknown"/>
     <bill session="119" type="s" number="1632" relation="unknown"/>
     <bill session="119" type="h" number="3241" relation="unknown"/>
     <bill session="119" type="s" number="1231" relation="unknown"/>
     <bill session="119" type="h" number="2557" relation="unknown"/>
+    <bill session="119" type="s" number="1843" relation="unknown"/>
+    <bill session="119" type="h" number="3552" relation="unknown"/>
+    <bill session="119" type="h" number="6107" relation="unknown"/>
+    <bill session="119" type="h" number="6562" relation="unknown"/>
     <bill session="119" type="s" number="3052" relation="unknown"/>
     <bill session="119" type="s" number="3053" relation="unknown"/>
     <bill session="119" type="s" number="3436" relation="unknown"/>
     <bill session="119" type="s" number="1204" relation="unknown"/>
     <bill session="119" type="s" number="1071" relation="unknown"/>
+    <bill session="119" type="s" number="3563" relation="unknown"/>
+    <bill session="119" type="h" number="6586" relation="unknown"/>
     <bill session="119" type="s" number="2091" relation="unknown"/>
   </relatedbills>
   <subjects>
@@ -236,6 +271,7 @@
     <term name="Correctional facilities and imprisonment"/>
     <term name="Crime prevention"/>
     <term name="Cuba"/>
+    <term name="Data collection, sharing, protection"/>
     <term name="Defense Nuclear Facilities Safety Board"/>
     <term name="Defense spending"/>
     <term name="Department of Defense"/>
@@ -419,6 +455,7 @@
     <term name="Spain"/>
     <term name="Special education"/>
     <term name="Strategic materials and reserves"/>
+    <term name="Supply chain"/>
     <term name="Surgery and anesthesia"/>
     <term name="Syria"/>
     <term name="Taiwan"/>
@@ -433,8 +470,6 @@
     <term name="Transportation costs"/>
     <term name="Travel and tourism"/>
     <term name="Tuvalu"/>
-    <term name="U.S. territories and protectorates"/>
-    <term name="Ukraine"/>
   </subjects>
   <amendments>
     <amendment number="s3984"/>
@@ -1323,7 +1358,15 @@
     <amendment number="s2900"/>
     <amendment number="s2861"/>
   </amendments>
-  <summary date="2025-09-18T20:22:42Z" status="Reported to Senate"></summary>
+  <summary date="2025-09-18T20:22:42Z" status="Reported to Senate">National Defense Authorization Act for Fiscal Year 2026
+
+This bill sets forth policies and authorities for FY2026 for&#160;Department of Defense (DOD) programs and activities, military construction, and the national security programs of the Department of Energy (DOE). It also authorizes the Defense Nuclear Facilities Safety Board for FY2026. The bill authorizes appropriations but it does not provide budget authority, which is provided by appropriations legislation.
+
+Among other elements, the bill
+
+authorizes the procurement of various items, including aircraft, ships, and missiles;authorizes active duty and reserve component personnel strength levels;authorizes specified military construction projects and extends the authorization of certain projects from previous fiscal years;requires DOD to develop a strategy on the national security implications of emerging&#160;biotechnologies;requires the Navy to implement certain processes to improve the material condition and combat readiness of Navy surface ships maintained and repaired at private shipyards;&#160;extends the Pacific Deterrence Initiative (an initiative to enhance U.S. deterrence and defense posture, assure allies and partners, and increase capability and readiness in the Indo-Pacific region) through FY2026; andrepeals various statutory provisions related to diversity, equity, and inclusion within DOD, including&#160;a provision establishing the position of Chief Diversity Officer of DOD.For additional information on the National Defense Authorization Act (NDAA) see
+
+In Focus IF10516, Defense Primer: Navigating the NDAA, andIn Focus IF10515, Defense Primer: The NDAA Process.</summary>
   <committee-reports>
     <report>S. Rept. 119-39</report>
     <report>S. Rept. 119-39,Errata</report>

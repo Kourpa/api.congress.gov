@@ -1,6 +1,50 @@
 {
   "actions": [
     {
+      "acted_at": "2025-03-05",
+      "action_code": "",
+      "committee": "Committee on Armed Services Subcommittee on Readiness and Management Support",
+      "committees": [
+        "SSAS"
+      ],
+      "references": [],
+      "text": "Committee on Armed Services Subcommittee on Readiness and Management Support. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 3.",
+      "type": "hearings"
+    },
+    {
+      "acted_at": "2025-04-08",
+      "action_code": "",
+      "committee": "Committee on Armed Services Subcommittee on Emerging Threats and Capabilities",
+      "committees": [
+        "SSAS"
+      ],
+      "references": [],
+      "text": "Committee on Armed Services Subcommittee on Emerging Threats and Capabilities. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 5.",
+      "type": "hearings"
+    },
+    {
+      "acted_at": "2025-04-09",
+      "action_code": "",
+      "committee": "Committee on Armed Services Subcommittee on Cybersecurity",
+      "committees": [
+        "SSAS"
+      ],
+      "references": [],
+      "text": "Committee on Armed Services Subcommittee on Cybersecurity. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 8.",
+      "type": "hearings"
+    },
+    {
+      "acted_at": "2025-04-09",
+      "action_code": "",
+      "committee": "Committee on Armed Services Subcommittee on Personnel",
+      "committees": [
+        "SSAS"
+      ],
+      "references": [],
+      "text": "Committee on Armed Services Subcommittee on Personnel. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 6.",
+      "type": "hearings"
+    },
+    {
       "acted_at": "2025-07-15",
       "action_code": "10000",
       "references": [],
@@ -5635,6 +5679,42 @@
       ],
       "committee": "Senate Armed Services",
       "committee_id": "SSAS"
+    },
+    {
+      "activity": [
+        "Hearings By (subcommittee)"
+      ],
+      "committee": "Senate Armed Services",
+      "committee_id": "SSAS",
+      "subcommittee": "Subcommittee on Personnel",
+      "subcommittee_id": "17"
+    },
+    {
+      "activity": [
+        "Hearings By (subcommittee)"
+      ],
+      "committee": "Senate Armed Services",
+      "committee_id": "SSAS",
+      "subcommittee": "Subcommittee on Cybersecurity",
+      "subcommittee_id": "21"
+    },
+    {
+      "activity": [
+        "Hearings By (subcommittee)"
+      ],
+      "committee": "Senate Armed Services",
+      "committee_id": "SSAS",
+      "subcommittee": "Subcommittee on Emerging Threats and Capabilities",
+      "subcommittee_id": "20"
+    },
+    {
+      "activity": [
+        "Hearings By (subcommittee)"
+      ],
+      "committee": "Senate Armed Services",
+      "committee_id": "SSAS",
+      "subcommittee": "Subcommittee on Readiness and Management Support",
+      "subcommittee_id": "15"
     }
   ],
   "congress": "119",
@@ -5642,7 +5722,7 @@
   "enacted_as": null,
   "history": {
     "active": true,
-    "active_at": "2025-07-15",
+    "active_at": "2025-03-05",
     "awaiting_signature": false,
     "enacted": false,
     "senate_cloture_result": "pass",
@@ -5657,7 +5737,25 @@
   "popular_title": null,
   "related_bills": [
     {
+      "bill_id": "hr6269-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
       "bill_id": "s3163-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr8554-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s4474-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -5741,6 +5839,30 @@
       "type": "bill"
     },
     {
+      "bill_id": "s2647-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s2642-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr6475-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s2669-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
       "bill_id": "hr5990-119",
       "identified_by": "CRS",
       "reason": "related",
@@ -5753,7 +5875,25 @@
       "type": "bill"
     },
     {
+      "bill_id": "hr5962-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
       "bill_id": "s3067-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr5912-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s3050-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -5766,6 +5906,24 @@
     },
     {
       "bill_id": "hr6009-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s3288-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr5623-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr6483-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -5790,6 +5948,30 @@
     },
     {
       "bill_id": "hr2557-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s1843-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr3552-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr6107-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr6562-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -5820,6 +6002,18 @@
     },
     {
       "bill_id": "s1071-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s3563-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr6586-119",
       "identified_by": "CRS",
       "reason": "related",
       "type": "bill"
@@ -5894,6 +6088,7 @@
     "Correctional facilities and imprisonment",
     "Crime prevention",
     "Cuba",
+    "Data collection, sharing, protection",
     "Defense Nuclear Facilities Safety Board",
     "Defense spending",
     "Department of Defense",
@@ -6077,6 +6272,7 @@
     "Spain",
     "Special education",
     "Strategic materials and reserves",
+    "Supply chain",
     "Surgery and anesthesia",
     "Syria",
     "Taiwan",
@@ -6090,16 +6286,14 @@
     "Tonga",
     "Transportation costs",
     "Travel and tourism",
-    "Tuvalu",
-    "U.S. territories and protectorates",
-    "Ukraine"
+    "Tuvalu"
   ],
   "subjects_top_term": "Armed forces and national security",
   "summary": {
     "as": "Reported to Senate",
     "asOf": "2025-07-15",
     "date": "2025-09-18T20:22:42Z",
-    "text": ""
+    "text": "National Defense Authorization Act for Fiscal Year 2026\n\nThis bill sets forth policies and authorities for FY2026 for\u00a0Department of Defense (DOD) programs and activities, military construction, and the national security programs of the Department of Energy (DOE). It also authorizes the Defense Nuclear Facilities Safety Board for FY2026. The bill authorizes appropriations but it does not provide budget authority, which is provided by appropriations legislation.\n\nAmong other elements, the bill\n\nauthorizes the procurement of various items, including aircraft, ships, and missiles;authorizes active duty and reserve component personnel strength levels;authorizes specified military construction projects and extends the authorization of certain projects from previous fiscal years;requires DOD to develop a strategy on the national security implications of emerging\u00a0biotechnologies;requires the Navy to implement certain processes to improve the material condition and combat readiness of Navy surface ships maintained and repaired at private shipyards;\u00a0extends the Pacific Deterrence Initiative (an initiative to enhance U.S. deterrence and defense posture, assure allies and partners, and increase capability and readiness in the Indo-Pacific region) through FY2026; andrepeals various statutory provisions related to diversity, equity, and inclusion within DOD, including\u00a0a provision establishing the position of Chief Diversity Officer of DOD.For additional information on the National Defense Authorization Act (NDAA) see\n\nIn Focus IF10516, Defense Primer: Navigating the NDAA, andIn Focus IF10515, Defense Primer: The NDAA Process."
   },
   "titles": [
     {
@@ -6362,6 +6556,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-01-05T22:01:05Z",
+  "updated_at": "2026-05-13T13:16:42Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2296.xml"
 }

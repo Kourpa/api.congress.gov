@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="4530" updated="2026-05-15T10:56:26Z">
+<bill session="119" type="s" number="4530" updated="2026-05-15T18:57:32Z">
   <state datetime="2026-05-14">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2026-05-14"/>
@@ -18,10 +18,14 @@
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2026-05-14" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.</text>
+      <reference ref="CR S2294-2295" label="consideration"/>
+      <reference ref="CR S2295" label="text"/>
     </vote>
   </actions>
   <committees/>
   <relatedbills/>
-  <subjects/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
   <amendments/>
 </bill>

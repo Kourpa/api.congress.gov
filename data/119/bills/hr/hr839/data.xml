@@ -1,13 +1,13 @@
-<bill session="119" type="h" number="839" updated="2026-04-14T19:31:06Z">
+<bill session="119" type="h" number="839" updated="2026-05-15T18:21:25Z">
   <state datetime="2025-07-23">REPORTED</state>
   <status>
     <unknown datetime="2025-07-23"/>
   </status>
   <introduced datetime="2025-01-31"/>
   <titles>
-    <title type="display">No FED in West Texas Act</title>
     <title type="short" as="reported to house">No FED in West Texas Act</title>
     <title type="short" as="reported to house">No Federal Expansion Designation in West Texas Act</title>
+    <title type="display">No FED in West Texas Act</title>
     <title type="official" as="introduced">To prohibit the implementation of a Land Protection Plan for Muleshoe National Wildlife Refuge.</title>
   </titles>
   <sponsor bioguide_id="A000375"/>
@@ -47,7 +47,9 @@
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSII13" name="House Natural Resources" subcommittee="Water, Wildlife and Fisheries" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="4412" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
     <term name="Department of the Interior"/>
