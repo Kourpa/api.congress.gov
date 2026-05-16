@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7335" updated="2026-05-15T08:08:12Z">
+<bill session="119" type="h" number="7335" updated="2026-05-16T08:08:07Z">
   <state datetime="2026-02-03">REFERRED</state>
   <status>
     <introduced datetime="2026-02-03"/>
@@ -117,9 +117,17 @@
       <text>Sponsor introductory remarks on measure.</text>
       <reference ref="CR H2018"/>
     </action>
+    <action datetime="2026-02-04">
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+    </action>
+    <action datetime="2026-02-04">
+      <text>Referred to the Subcommittee on Oversight, Investigations, and Accountability.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Referral"/>
+    <committee code="HSHM09" name="House Homeland Security" subcommittee="Oversight, Investigations, and Accountability" activity="Referral"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

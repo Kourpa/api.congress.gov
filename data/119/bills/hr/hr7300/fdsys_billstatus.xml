@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7300</number>
-    <updateDate>2026-04-17T08:07:18Z</updateDate>
-    <updateDateIncludingText>2026-04-17T08:07:18Z</updateDateIncludingText>
+    <updateDate>2026-05-16T08:07:58Z</updateDate>
+    <updateDateIncludingText>2026-05-16T08:07:58Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,50 @@
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 22 (Friday, January 30, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. STEIL:H.R. 7300.Congress has the power to enact this legislation pursuantto the following:Art. I, Section 4, Clause 1--Elections Clause[Page H1922]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
+        <systemCode>hshm00</systemCode>
+        <name>Homeland Security Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-02-02T05:00:00Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hshm08</systemCode>
+            <name>Cybersecurity and Infrastructure Protection Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-02-02T05:00:00Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hshm09</systemCode>
+            <name>Oversight, Investigations, and Accountability Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-02-02T05:00:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-01-30T15:34:40Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hlig00</systemCode>
         <name>Intelligence (Permanent Select) Committee</name>
         <chamber>House</chamber>
@@ -22,18 +66,6 @@
           <item>
             <name>Referred To</name>
             <date>2026-01-30T15:34:45Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hshm00</systemCode>
-        <name>Homeland Security Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2026-01-30T15:34:40Z</date>
           </item>
         </activities>
       </item>
@@ -109,6 +141,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-02-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-02-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm08</systemCode>
+            <name>Cybersecurity and Infrastructure Protection Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-02-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm09</systemCode>
+            <name>Oversight, Investigations, and Accountability Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Oversight, Investigations, and Accountability.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-01-30</actionDate>
         <text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, the Judiciary, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -1027,18 +1104,18 @@
     <title>Make Elections Great Again Act</title>
     <titles>
       <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Make Elections Great Again Act</title>
-        <updateDate>2026-01-31T09:23:16Z</updateDate>
-      </item>
-      <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
         <title>Make Elections Great Again Act</title>
         <updateDate>2026-01-31T09:23:16Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Make Elections Great Again Act</title>
+        <updateDate>2026-01-31T09:23:16Z</updateDate>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
@@ -1061,8 +1138,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-30</actionDate>
-      <text>Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, the Judiciary, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-02-02</actionDate>
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

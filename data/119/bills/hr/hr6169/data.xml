@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="6169" updated="2026-01-08T09:06:57Z">
+<bill session="119" type="h" number="6169" updated="2026-05-16T08:07:51Z">
   <state datetime="2025-11-20">REFERRED</state>
   <status>
     <introduced datetime="2025-11-20"/>
   </status>
   <introduced datetime="2025-11-20"/>
   <titles>
-    <title type="display">Fair Credit for Farmers Act</title>
     <title type="short" as="introduced">Fair Credit for Farmers Act</title>
+    <title type="display">Fair Credit for Farmers Act</title>
     <title type="official" as="introduced">To amend the Consolidated Farm and Rural Development Act to reform farm loans, to amend the Department of Agriculture Reorganization Act of 1994 to reform the National Appeals Division process, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="A000370"/>
@@ -21,9 +21,13 @@
     <action datetime="2025-11-20" state="REFERRED">
       <text>Referred to the House Committee on Agriculture.</text>
     </action>
+    <action datetime="2025-12-05">
+      <text>Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG16" name="House Agriculture" subcommittee="General Farm Commodities, Risk Management, and Credit" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="3126" relation="unknown"/>

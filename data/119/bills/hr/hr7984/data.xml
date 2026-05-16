@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="7984" updated="2026-04-02T17:43:58Z">
+<bill session="119" type="h" number="7984" updated="2026-05-16T08:08:05Z">
   <state datetime="2026-03-18">REFERRED</state>
   <status>
     <introduced datetime="2026-03-18"/>
   </status>
   <introduced datetime="2026-03-18"/>
   <titles>
-    <title type="display">DHS Use of Force Transparency Act of 2026</title>
     <title type="short" as="introduced">DHS Use of Force Transparency Act of 2026</title>
+    <title type="display">DHS Use of Force Transparency Act of 2026</title>
     <title type="official" as="introduced">To require transparency from the Department of Homeland Security with respect to a certain use of force incident, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M001241"/>
@@ -29,11 +29,19 @@
     <action datetime="2026-03-18">
       <text>Referred to the Committee on Homeland Security, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-03-19">
+      <text>Referred to the Subcommittee on Oversight, Investigations, and Accountability.</text>
+    </action>
+    <action datetime="2026-03-19">
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Referral"/>
+    <committee code="HSHM09" name="House Homeland Security" subcommittee="Oversight, Investigations, and Accountability" activity="Referral"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

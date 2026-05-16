@@ -3,23 +3,33 @@
   <version>3.0.0</version>
   <bill>
     <number>5241</number>
-    <updateDate>2025-12-05T21:57:44Z</updateDate>
-    <updateDateIncludingText>2025-12-05T21:57:44Z</updateDateIncludingText>
+    <updateDate>2026-05-16T08:08:02Z</updateDate>
+    <updateDateIncludingText>2026-05-16T08:08:02Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-09-09</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/5241</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 147 (Tuesday, September 9, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Ms. TOKUDA:H.R. 5241.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clauses 1 and 18 of the United StatesConstitution[Page H4165]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 147 (Tuesday, September 9, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Ms. TOKUDA:H.R. 5241.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clauses 1 and 18 of the United StatesConstitution[Page H4165]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsag00</systemCode>
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag16</systemCode>
+            <name>General Farm Commodities, Risk Management, and Credit Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-13T19:55:01Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -47,6 +57,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-01-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag16</systemCode>
+            <name>General Farm Commodities, Risk Management, and Credit Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-09-09</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -183,18 +208,18 @@
     <title>RTCP Revitalization Act</title>
     <titles>
       <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>RTCP Revitalization Act</title>
-        <updateDate>2025-09-17T11:23:14Z</updateDate>
-      </item>
-      <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
         <title>RTCP Revitalization Act</title>
         <updateDate>2025-09-17T11:23:14Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>RTCP Revitalization Act</title>
+        <updateDate>2025-09-17T11:23:14Z</updateDate>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
@@ -217,8 +242,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-09</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2026-01-13</actionDate>
+      <text>Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

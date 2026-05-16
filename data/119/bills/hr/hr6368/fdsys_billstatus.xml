@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6368</number>
-    <updateDate>2026-04-08T14:26:42Z</updateDate>
-    <updateDateIncludingText>2026-04-08T14:26:42Z</updateDateIncludingText>
+    <updateDate>2026-05-16T08:07:47Z</updateDate>
+    <updateDateIncludingText>2026-05-16T08:07:47Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition and Foreign Agriculture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-13T20:01:56Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -27,6 +39,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition and Foreign Agriculture Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-12-02</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -146,8 +173,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-02</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2026-01-13</actionDate>
+      <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
