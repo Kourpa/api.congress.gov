@@ -79,7 +79,12 @@
       "bill_ids": [
         "hres1275-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3480-3486",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 1275.",
       "type": "action"
     },
@@ -116,7 +121,12 @@
       "committees": [
         "HSJU"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3486",
+          "type": "text"
+        }
+      ],
       "text": "Mr. Boyle (PA) moved to recommit to the Committee on the Judiciary.",
       "type": "action"
     },
@@ -137,7 +147,12 @@
     {
       "acted_at": "2026-05-14T16:59:47-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3507-3509",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -155,7 +170,12 @@
       "acted_at": "2026-05-14T17:11:16-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3480",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "173",
       "status": "PASS_OVER:HOUSE",
@@ -273,13 +293,6 @@
   },
   "titles": [
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Monitor Accountability Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -294,6 +307,13 @@
       "type": "short"
     },
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Monitor Accountability Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -301,6 +321,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-15T08:09:21Z",
+  "updated_at": "2026-05-15T20:52:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8365.xml"
 }
