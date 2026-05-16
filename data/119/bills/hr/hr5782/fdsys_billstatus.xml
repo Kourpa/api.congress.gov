@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5782</number>
-    <updateDate>2026-03-27T20:15:54Z</updateDate>
-    <updateDateIncludingText>2026-03-27T20:15:54Z</updateDateIncludingText>
+    <updateDate>2026-05-16T08:07:05Z</updateDate>
+    <updateDateIncludingText>2026-05-16T08:07:05Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,30 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/5782</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 172 (Friday, October 17, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. NEGUSE:H.R. 5782.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H4542]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-12-05T19:47:15Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-10-17T18:00:30Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hspw00</systemCode>
         <name>Transportation and Infrastructure Committee</name>
@@ -58,18 +82,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-10-17T18:00:40Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hsag00</systemCode>
-        <name>Agriculture Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-10-17T18:00:30Z</date>
           </item>
         </activities>
       </item>
@@ -121,6 +133,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-12-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-12-01</actionDate>
         <committees>
@@ -417,8 +444,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-01</actionDate>
-      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+      <actionDate>2025-12-05</actionDate>
+      <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

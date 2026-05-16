@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="6263" updated="2026-01-14T16:03:30Z">
+<bill session="119" type="h" number="6263" updated="2026-05-16T08:07:09Z">
   <state datetime="2025-11-21">REFERRED</state>
   <status>
     <introduced datetime="2025-11-21"/>
   </status>
   <introduced datetime="2025-11-21"/>
   <titles>
-    <title type="display">No Free Pass for Felons Act of 2025</title>
     <title type="short" as="introduced">No Free Pass for Felons Act of 2025</title>
+    <title type="display">No Free Pass for Felons Act of 2025</title>
     <title type="official" as="introduced">To amend the Omnibus Crime Control and Safe Streets Act of 1968 and the Implementing Recommendations of the 9/11 Commission Act of 2007 to limit eligibility for certain Federal law enforcement and public safety grants based on minimum pretrial public safety standards, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="H001101"/>
@@ -23,9 +23,21 @@
     <action datetime="2025-11-21">
       <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-11-24">
+      <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
+    </action>
+    <action datetime="2025-11-24">
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+    </action>
+    <action datetime="2025-11-24">
+      <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Referral"/>
+    <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism, Law Enforcement, and Intelligence" activity="Referral"/>
+    <committee code="HSHM07" name="House Homeland Security" subcommittee="Transportation and Maritime Security" activity="Referral"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

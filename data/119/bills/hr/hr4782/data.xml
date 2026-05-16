@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="4782" updated="2026-05-13T08:06:23Z">
+<bill session="119" type="h" number="4782" updated="2026-05-16T08:06:53Z">
   <state datetime="2025-07-29">REFERRED</state>
   <status>
     <introduced datetime="2025-07-29"/>
   </status>
   <introduced datetime="2025-07-29"/>
   <titles>
-    <title type="display">Local Farmers Feeding our Communities Act</title>
     <title type="short" as="introduced">Local Farmers Feeding our Communities Act</title>
+    <title type="display">Local Farmers Feeding our Communities Act</title>
     <title type="official" as="introduced">To direct the Secretary of Agriculture to establish a program under which the Secretary will enter into cooperative agreements with State, local, or Tribal governments increase the purchase of local foods, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="B001327"/>
@@ -91,9 +91,13 @@
     <action datetime="2025-07-29" state="REFERRED">
       <text>Referred to the House Committee on Agriculture.</text>
     </action>
+    <action datetime="2026-01-13">
+      <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG03" name="House Agriculture" subcommittee="Nutrition and Foreign Agriculture" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="7567" relation="unknown"/>

@@ -3,18 +3,40 @@
   <version>3.0.0</version>
   <bill>
     <number>5196</number>
-    <updateDate>2025-09-23T17:46:31Z</updateDate>
-    <updateDateIncludingText>2025-09-23T17:46:31Z</updateDateIncludingText>
+    <updateDate>2026-05-16T08:07:02Z</updateDate>
+    <updateDateIncludingText>2026-05-16T08:07:02Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-09-08</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/5196</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 146 (Monday, September 8, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mrs. LUNA:H.R. 5196.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution of the UnitedStates.[Page H3893]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 146 (Monday, September 8, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mrs. LUNA:H.R. 5196.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution of the UnitedStates.[Page H3893]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-13T19:54:46Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-09-08T16:03:40Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsif00</systemCode>
         <name>Energy and Commerce Committee</name>
@@ -27,20 +49,23 @@
           </item>
         </activities>
       </item>
-      <item>
-        <systemCode>hsag00</systemCode>
-        <name>Agriculture Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-09-08T16:03:40Z</date>
-          </item>
-        </activities>
-      </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-09-08</actionDate>
         <text>Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -119,18 +144,18 @@
     <title>Protect Our Farmers and Families Act of 2025</title>
     <titles>
       <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Protect Our Farmers and Families Act of 2025</title>
-        <updateDate>2025-09-11T05:23:23Z</updateDate>
-      </item>
-      <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
         <title>Protect Our Farmers and Families Act of 2025</title>
         <updateDate>2025-09-11T05:23:23Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Protect Our Farmers and Families Act of 2025</title>
+        <updateDate>2025-09-11T05:23:23Z</updateDate>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
@@ -153,8 +178,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-08</actionDate>
-      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-01-13</actionDate>
+      <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

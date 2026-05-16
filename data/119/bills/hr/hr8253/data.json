@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Homeland Security.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-04-14",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Homeland Security",
       "committee_id": "HSHM"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM",
+      "subcommittee": "Subcommittee on Border Security and Enforcement",
+      "subcommittee_id": "11"
     }
   ],
   "congress": "119",
@@ -124,6 +143,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-22T19:07:31Z",
+  "updated_at": "2026-05-16T08:07:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8253.xml"
 }

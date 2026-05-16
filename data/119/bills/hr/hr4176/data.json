@@ -27,6 +27,16 @@
       "references": [],
       "text": "Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2025-06-27",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -39,15 +49,24 @@
       "activity": [
         "Referred To"
       ],
-      "committee": "House Judiciary",
-      "committee_id": "HSJU"
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM",
+      "subcommittee": "Subcommittee on Border Security and Enforcement",
+      "subcommittee_id": "11"
     },
     {
       "activity": [
         "Referred To"
       ],
-      "committee": "House Homeland Security",
-      "committee_id": "HSHM"
+      "committee": "House Judiciary",
+      "committee_id": "HSJU"
     }
   ],
   "congress": "119",
@@ -713,6 +732,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "L000562",
+      "district": "8",
+      "name": "Lynch, Stephen F.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-05-15",
+      "state": "MA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "M001223",
       "district": "2",
       "name": "Magaziner, Seth",
@@ -788,6 +817,16 @@
       "name": "McIver, LaMonica",
       "original_cosponsor": true,
       "sponsored_at": "2025-06-26",
+      "state": "NJ",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001246",
+      "district": "11",
+      "name": "Mejia, Analilia",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-05-15",
       "state": "NJ",
       "title": "Rep.",
       "withdrawn_at": null
@@ -1381,6 +1420,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-01T08:08:31Z",
+  "updated_at": "2026-05-16T08:07:44Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4176.xml"
 }

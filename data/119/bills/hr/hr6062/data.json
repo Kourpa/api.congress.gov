@@ -39,6 +39,16 @@
       "type": "referral"
     },
     {
+      "acted_at": "2025-11-18",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
+      "type": "referral"
+    },
+    {
       "acted_at": "2026-03-11",
       "action_code": "",
       "committees": [
@@ -75,15 +85,24 @@
       "activity": [
         "Referred To"
       ],
-      "committee": "House Ways and Means",
-      "committee_id": "HSWM"
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM",
+      "subcommittee": "Subcommittee on Border Security and Enforcement",
+      "subcommittee_id": "11"
     },
     {
       "activity": [
         "Referred To"
       ],
-      "committee": "House Homeland Security",
-      "committee_id": "HSHM"
+      "committee": "House Ways and Means",
+      "committee_id": "HSWM"
     }
   ],
   "congress": "119",
@@ -163,6 +182,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-03-12T08:05:21Z",
+  "updated_at": "2026-05-16T08:07:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6062.xml"
 }

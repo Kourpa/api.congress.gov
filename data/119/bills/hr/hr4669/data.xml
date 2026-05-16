@@ -1,13 +1,13 @@
-<bill session="119" type="h" number="4669" updated="2026-05-15T08:08:01Z">
+<bill session="119" type="h" number="4669" updated="2026-05-16T08:07:27Z">
   <state datetime="2025-09-03">REPORTED</state>
   <status>
     <unknown datetime="2025-09-03"/>
   </status>
   <introduced datetime="2025-07-23"/>
   <titles>
-    <title type="display">FEMA Act of 2025</title>
     <title type="short" as="introduced">FEMA Act of 2025</title>
     <title type="short" as="introduced">Fixing Emergency Management for Americans Act of 2025</title>
+    <title type="display">FEMA Act of 2025</title>
     <title type="official" as="introduced">To authorize and improve the Federal Emergency Management Agency and reform Federal disaster mitigation, preparedness, response, and recovery, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000546"/>
@@ -96,6 +96,9 @@
     <action datetime="2025-07-23">
       <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-07-24">
+      <text>Referred to the Subcommittee on Emergency Management and Technology.</text>
+    </action>
     <action datetime="2025-09-02">
       <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
     </action>
@@ -113,6 +116,7 @@
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Discharged, Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM12" name="House Homeland Security" subcommittee="Emergency Management and Technology" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="3957" relation="unknown"/>

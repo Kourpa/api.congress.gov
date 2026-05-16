@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6415" updated="2026-04-29T08:07:12Z">
+<bill session="119" type="h" number="6415" updated="2026-05-16T08:07:43Z">
   <state datetime="2025-12-03">REFERRED</state>
   <status>
     <introduced datetime="2025-12-03"/>
@@ -24,10 +24,14 @@
     <action datetime="2025-12-03">
       <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-01-13">
+      <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG14" name="House Agriculture" subcommittee="Conservation, Research, and Biotechnology" activity="Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

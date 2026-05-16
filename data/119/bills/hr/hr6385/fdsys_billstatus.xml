@@ -3,23 +3,43 @@
   <version>3.0.0</version>
   <bill>
     <number>6385</number>
-    <updateDate>2026-02-18T13:33:58Z</updateDate>
-    <updateDateIncludingText>2026-02-18T13:33:58Z</updateDateIncludingText>
+    <updateDate>2026-05-16T08:07:01Z</updateDate>
+    <updateDateIncludingText>2026-05-16T08:07:01Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-12-03</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/6385</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 202 (Wednesday, December 3, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. DAVIS of North Carolina:H.R. 6385.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18; To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H5026]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 202 (Wednesday, December 3, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. DAVIS of North Carolina:H.R. 6385.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18; To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H5026]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsag00</systemCode>
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag16</systemCode>
+            <name>General Farm Commodities, Risk Management, and Credit Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-13T20:02:20Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-13T20:02:20Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -35,8 +55,9 @@
         <number>7567</number>
         <type>HR</type>
         <latestAction>
-          <actionDate>2026-02-13</actionDate>
-          <text>Referred to the House Committee on Agriculture.</text>
+          <actionDate>2026-04-30</actionDate>
+          <text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 7567.</text>
+          <actionTime>11:15:02</actionTime>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -47,6 +68,36 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-01-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag16</systemCode>
+            <name>General Farm Commodities, Risk Management, and Credit Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-01-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-12-03</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -64,20 +115,10 @@
         </committees>
       </item>
       <item>
-        <actionDate>2025-12-03</actionDate>
+        <actionDate>2025-12-02</actionDate>
         <text>Introduced in House</text>
         <type>IntroReferral</type>
         <actionCode>Intro-H</actionCode>
-        <sourceSystem>
-          <code>9</code>
-          <name>Library of Congress</name>
-        </sourceSystem>
-      </item>
-      <item>
-        <actionDate>2025-12-03</actionDate>
-        <text>Introduced in House</text>
-        <type>IntroReferral</type>
-        <actionCode>1000</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -88,6 +129,16 @@
         <text>Sponsor introductory remarks on measure. (CR H4977)</text>
         <type>IntroReferral</type>
         <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-12-02</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -179,8 +230,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-03</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2026-01-13</actionDate>
+      <text>Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

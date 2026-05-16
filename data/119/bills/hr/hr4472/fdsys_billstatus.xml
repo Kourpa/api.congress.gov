@@ -3,18 +3,40 @@
   <version>3.0.0</version>
   <bill>
     <number>4472</number>
-    <updateDate>2025-10-25T08:05:44Z</updateDate>
-    <updateDateIncludingText>2025-10-25T08:05:44Z</updateDateIncludingText>
+    <updateDate>2026-05-16T08:07:26Z</updateDate>
+    <updateDateIncludingText>2026-05-16T08:07:26Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-07-16</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/4472</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 122 (Wednesday, July 16, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. VASQUEZ:H.R. 4472.Congress has the power to enact this legislation pursuantto the following:Article 1, section 8, Clauses 1 and 18 of the United StateConstitution, to provide for the general welfare and make alllaws necessary and proper to carry out the powers of theCongress.[Page H3369]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 122 (Wednesday, July 16, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. VASQUEZ:H.R. 4472.Congress has the power to enact this legislation pursuantto the following:Article 1, section 8, Clauses 1 and 18 of the United StateConstitution, to provide for the general welfare and make alllaws necessary and proper to carry out the powers of theCongress.[Page H3369]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>hshm00</systemCode>
+        <name>Homeland Security Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-07-17T20:24:52Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-07-16T14:02:40Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsif00</systemCode>
         <name>Energy and Commerce Committee</name>
@@ -24,18 +46,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-07-16T14:02:45Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hshm00</systemCode>
-        <name>Homeland Security Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-07-16T14:02:40Z</date>
           </item>
         </activities>
       </item>
@@ -53,6 +63,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-07-17</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-07-16</actionDate>
         <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -183,12 +208,6 @@
     <title>Stop COYOTES Act</title>
     <titles>
       <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Stop COYOTES Act</title>
-        <updateDate>2025-07-29T05:53:21Z</updateDate>
-      </item>
-      <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
         <title>Stop COYOTES Act</title>
@@ -203,6 +222,12 @@
         <updateDate>2025-07-29T05:53:21Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Stop COYOTES Act</title>
+        <updateDate>2025-07-29T05:53:21Z</updateDate>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
@@ -225,8 +250,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-07-16</actionDate>
-      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2025-07-17</actionDate>
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

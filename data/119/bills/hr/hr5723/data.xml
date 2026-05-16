@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5723" updated="2026-03-27T08:06:39Z">
-  <state datetime="2025-10-08">REFERRED</state>
+<bill session="119" type="h" number="5723" updated="2026-05-16T08:07:16Z">
+  <state datetime="2026-05-14">REPORTED</state>
   <status>
-    <introduced datetime="2025-10-08"/>
+    <unknown datetime="2026-05-14"/>
   </status>
   <introduced datetime="2025-10-08"/>
   <titles>
@@ -30,9 +30,15 @@
     <action datetime="2026-03-26">
       <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
     </action>
+    <action datetime="2026-05-14">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSVR09" name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Reporting, Markup, Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills/>

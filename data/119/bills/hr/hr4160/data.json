@@ -39,6 +39,16 @@
       "type": "referral"
     },
     {
+      "acted_at": "2025-06-27",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Border Security and Enforcement.",
+      "type": "referral"
+    },
+    {
       "acted_at": "2025-07-08",
       "action_code": "",
       "committees": [
@@ -75,15 +85,24 @@
       "activity": [
         "Referred To"
       ],
-      "committee": "House Armed Services",
-      "committee_id": "HSAS"
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM",
+      "subcommittee": "Subcommittee on Border Security and Enforcement",
+      "subcommittee_id": "11"
     },
     {
       "activity": [
         "Referred To"
       ],
-      "committee": "House Homeland Security",
-      "committee_id": "HSHM"
+      "committee": "House Armed Services",
+      "committee_id": "HSAS"
     }
   ],
   "congress": "119",
@@ -183,6 +202,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-05T22:49:06Z",
+  "updated_at": "2026-05-16T08:07:36Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4160.xml"
 }

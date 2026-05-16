@@ -3,23 +3,43 @@
   <version>3.0.0</version>
   <bill>
     <number>6192</number>
-    <updateDate>2026-02-18T09:05:34Z</updateDate>
-    <updateDateIncludingText>2026-02-18T09:05:34Z</updateDateIncludingText>
+    <updateDate>2026-05-16T08:07:44Z</updateDate>
+    <updateDateIncludingText>2026-05-16T08:07:44Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-11-20</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/6192</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 196 (Thursday, November 20, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mrs. HINSON:H.R. 6192.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H4877]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 196 (Thursday, November 20, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mrs. HINSON:H.R. 6192.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H4877]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsag00</systemCode>
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-13T19:58:48Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-13T19:58:48Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -47,6 +67,36 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-01-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-01-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-11-20</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -170,9 +220,7 @@
         <actionDate>2025-11-20</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-12-10T11:27:45Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;&lt;strong&gt;Fertilizer Research Act of 2025&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This bill directs the Department of Agriculture to publish on the department's website a report on the U.S. fertilizer industry. Among other things, the report must include&lt;/p&gt;&lt;ul&gt;&lt;li&gt;a description of the impacts on the fertilizer industry that influence the prices that agricultural producers receive for their products;&lt;/li&gt;&lt;li&gt;a description of the size and value of the U.S. fertilizer market over the previous 25 years;&lt;/li&gt;&lt;li&gt;a description of the importation of fertilizer into the United States and the impacts that antidumping and countervailing duties have on retail fertilizer prices;&lt;/li&gt;&lt;li&gt;a study of market concentration of the U.S. fertilizer industry;&lt;/li&gt;&lt;li&gt;an assessment of the regulatory environment governing fertilizer production, distribution, and usage; and&lt;/li&gt;&lt;li&gt;a description of the extent to which current public price reporting of fertilizer is transparent for market participants and recommendations on whether further reporting is needed.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;</text>
-        </cdata>
+        <text><![CDATA[<p><strong>Fertilizer Research Act of 2025</strong></p><p>This bill directs the Department of Agriculture to publish on the department's website a report on the U.S. fertilizer industry. Among other things, the report must include</p><ul><li>a description of the impacts on the fertilizer industry that influence the prices that agricultural producers receive for their products;</li><li>a description of the size and value of the U.S. fertilizer market over the previous 25 years;</li><li>a description of the importation of fertilizer into the United States and the impacts that antidumping and countervailing duties have on retail fertilizer prices;</li><li>a study of market concentration of the U.S. fertilizer industry;</li><li>an assessment of the regulatory environment governing fertilizer production, distribution, and usage; and</li><li>a description of the extent to which current public price reporting of fertilizer is transparent for market participants and recommendations on whether further reporting is needed.&nbsp;&nbsp;&nbsp;</li></ul>]]></text>
       </summary>
     </summaries>
     <title>Fertilizer Research Act of 2025</title>
@@ -212,8 +260,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-20</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2026-01-13</actionDate>
+      <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

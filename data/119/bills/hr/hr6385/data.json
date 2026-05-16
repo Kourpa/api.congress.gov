@@ -2,6 +2,13 @@
   "actions": [
     {
       "acted_at": "2025-12-02",
+      "action_code": "1000",
+      "references": [],
+      "text": "Introduced in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-12-02",
       "action_code": "B00100",
       "references": [
         {
@@ -13,7 +20,7 @@
       "type": "action"
     },
     {
-      "acted_at": "2025-12-03",
+      "acted_at": "2025-12-02",
       "action_code": "Intro-H",
       "references": [],
       "text": "Introduced in House",
@@ -29,6 +36,26 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Agriculture.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-13",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-13",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -43,6 +70,24 @@
       ],
       "committee": "House Agriculture",
       "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on General Farm Commodities, Risk Management, and Credit",
+      "subcommittee_id": "16"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Conservation, Research, and Biotechnology",
+      "subcommittee_id": "14"
     }
   ],
   "congress": "119",
@@ -71,7 +116,7 @@
   "enacted_as": null,
   "history": {
     "active": true,
-    "active_at": "2025-12-03",
+    "active_at": "2025-12-02",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -127,6 +172,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2026-02-18T13:33:58Z",
+  "updated_at": "2026-05-16T08:07:01Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6385.xml"
 }

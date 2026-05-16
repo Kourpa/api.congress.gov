@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6192" updated="2026-02-18T09:05:34Z">
+<bill session="119" type="h" number="6192" updated="2026-05-16T08:07:44Z">
   <state datetime="2025-11-20">REFERRED</state>
   <status>
     <introduced datetime="2025-11-20"/>
@@ -24,9 +24,17 @@
     <action datetime="2025-11-20" state="REFERRED">
       <text>Referred to the House Committee on Agriculture.</text>
     </action>
+    <action datetime="2026-01-13">
+      <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+    </action>
+    <action datetime="2026-01-13">
+      <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG15" name="House Agriculture" subcommittee="Forestry and Horticulture" activity="Referral"/>
+    <committee code="HSAG14" name="House Agriculture" subcommittee="Conservation, Research, and Biotechnology" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="2808" relation="identical"/>
@@ -35,5 +43,9 @@
     <term name="Agriculture and food"/>
   </subjects>
   <amendments/>
-  <summary date="2025-12-10T11:27:45Z" status="Introduced in House"></summary>
+  <summary date="2025-12-10T11:27:45Z" status="Introduced in House">Fertilizer Research Act of 2025
+
+This bill directs the Department of Agriculture to publish on the department's website a report on the U.S. fertilizer industry. Among other things, the report must include
+
+a description of the impacts on the fertilizer industry that influence the prices that agricultural producers receive for their products;a description of the size and value of the U.S. fertilizer market over the previous 25 years;a description of the importation of fertilizer into the United States and the impacts that antidumping and countervailing duties have on retail fertilizer prices;a study of market concentration of the U.S. fertilizer industry;an assessment of the regulatory environment governing fertilizer production, distribution, and usage; anda description of the extent to which current public price reporting of fertilizer is transparent for market participants and recommendations on whether further reporting is needed.&#160;&#160;&#160;</summary>
 </bill>

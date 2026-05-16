@@ -17,6 +17,26 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Agriculture.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-13",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-13",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Forestry and Horticulture.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +51,24 @@
       ],
       "committee": "House Agriculture",
       "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Forestry and Horticulture",
+      "subcommittee_id": "15"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Conservation, Research, and Biotechnology",
+      "subcommittee_id": "14"
     }
   ],
   "congress": "119",
@@ -124,7 +162,7 @@
     "as": "Introduced in House",
     "asOf": "2025-11-20",
     "date": "2025-12-10T11:27:45Z",
-    "text": ""
+    "text": "Fertilizer Research Act of 2025\n\nThis bill directs the Department of Agriculture to publish on the department's website a report on the U.S. fertilizer industry. Among other things, the report must include\n\na description of the impacts on the fertilizer industry that influence the prices that agricultural producers receive for their products;a description of the size and value of the U.S. fertilizer market over the previous 25 years;a description of the importation of fertilizer into the United States and the impacts that antidumping and countervailing duties have on retail fertilizer prices;a study of market concentration of the U.S. fertilizer industry;an assessment of the regulatory environment governing fertilizer production, distribution, and usage; anda description of the extent to which current public price reporting of fertilizer is transparent for market participants and recommendations on whether further reporting is needed.\u00a0\u00a0\u00a0"
   },
   "titles": [
     {
@@ -149,6 +187,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-18T09:05:34Z",
+  "updated_at": "2026-05-16T08:07:44Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6192.xml"
 }

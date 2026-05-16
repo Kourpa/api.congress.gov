@@ -79,6 +79,16 @@
       "type": "referral"
     },
     {
+      "acted_at": "2025-05-12",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Transportation and Maritime Security.",
+      "type": "referral"
+    },
+    {
       "acted_at": "2026-04-27T19:11:16-04:00",
       "action_code": "H8D000",
       "references": [],
@@ -96,15 +106,24 @@
       "activity": [
         "Referred To"
       ],
-      "committee": "House Ways and Means",
-      "committee_id": "HSWM"
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM",
+      "subcommittee": "Subcommittee on Transportation and Maritime Security",
+      "subcommittee_id": "07"
     },
     {
       "activity": [
         "Referred To"
       ],
-      "committee": "House Homeland Security",
-      "committee_id": "HSHM"
+      "committee": "House Ways and Means",
+      "committee_id": "HSWM"
     },
     {
       "activity": [
@@ -180,7 +199,13 @@
   "status": "REFERRED",
   "status_at": "2025-05-09",
   "subjects": [
-    "Government operations and politics"
+    "Cemeteries and funerals",
+    "Diplomacy, foreign officials, Americans abroad",
+    "Employee benefits and pensions",
+    "Family relationships",
+    "Government employee pay, benefits, personnel management",
+    "Government operations and politics",
+    "Inflation and prices"
   ],
   "subjects_top_term": "Government operations and politics",
   "summary": null,
@@ -207,6 +232,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-28T08:06:42Z",
+  "updated_at": "2026-05-16T08:07:10Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3317.xml"
 }

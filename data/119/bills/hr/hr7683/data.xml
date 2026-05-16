@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7683" updated="2026-04-17T08:07:22Z">
-  <state datetime="2026-02-25">REFERRED</state>
+<bill session="119" type="h" number="7683" updated="2026-05-16T08:07:37Z">
+  <state datetime="2026-05-14">REPORTED</state>
   <status>
-    <introduced datetime="2026-02-25"/>
+    <unknown datetime="2026-05-14"/>
   </status>
   <introduced datetime="2026-02-25"/>
   <titles>
@@ -30,9 +30,15 @@
     <action datetime="2026-04-15">
       <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
     </action>
+    <action datetime="2026-05-14">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-14" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 13 - 10.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSVR08" name="House Veterans' Affairs" subcommittee="Oversight and Investigations" activity="Reporting, Markup, Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills/>

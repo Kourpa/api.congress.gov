@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="5902" updated="2025-11-25T16:48:56Z">
+<bill session="119" type="h" number="5902" updated="2026-05-16T08:07:35Z">
   <state datetime="2025-11-04">REFERRED</state>
   <status>
     <introduced datetime="2025-11-04"/>
   </status>
   <introduced datetime="2025-11-04"/>
   <titles>
-    <title type="display">Innovative Practices for Soil Health Act of 2025</title>
     <title type="short" as="introduced">Innovative Practices for Soil Health Act of 2025</title>
+    <title type="display">Innovative Practices for Soil Health Act of 2025</title>
     <title type="official" as="introduced">To promote innovative practices for soil health through USDA conservation programs, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="B001292"/>
@@ -21,9 +21,13 @@
     <action datetime="2025-11-04" state="REFERRED">
       <text>Referred to the House Committee on Agriculture.</text>
     </action>
+    <action datetime="2025-12-05">
+      <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG14" name="House Agriculture" subcommittee="Conservation, Research, and Biotechnology" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

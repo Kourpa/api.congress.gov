@@ -1,13 +1,13 @@
-<bill session="119" type="h" number="5223" updated="2026-05-12T08:05:49Z">
+<bill session="119" type="h" number="5223" updated="2026-05-16T08:07:12Z">
   <state datetime="2025-09-09">REFERRED</state>
   <status>
     <introduced datetime="2025-09-09"/>
   </status>
   <introduced datetime="2025-09-09"/>
   <titles>
-    <title type="display">RESTORE Act of 2025</title>
     <title type="short" as="introduced">Re-Entry Support Through Opportunities for Resources and Essentials Act of 2025</title>
     <title type="short" as="introduced">RESTORE Act of 2025</title>
+    <title type="display">RESTORE Act of 2025</title>
     <title type="official" as="introduced">To amend the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to allow individuals with drug offenses to receive benefits under the supplemental nutrition assistance program, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001068"/>
@@ -29,10 +29,14 @@
     <action datetime="2025-09-09">
       <text>Referred to the Committee on Agriculture, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-12-05">
+      <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG03" name="House Agriculture" subcommittee="Nutrition and Foreign Agriculture" activity="Referral"/>
+    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

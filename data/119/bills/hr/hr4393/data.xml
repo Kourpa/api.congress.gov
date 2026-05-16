@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4393" updated="2026-04-24T21:03:34Z">
+<bill session="119" type="h" number="4393" updated="2026-05-16T08:07:19Z">
   <state datetime="2025-07-15">REFERRED</state>
   <status>
     <introduced datetime="2025-07-15"/>
@@ -80,14 +80,18 @@
     <action datetime="2025-07-15">
       <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, Ways and Means, Transportation and Infrastructure, Education and Workforce, Oversight and Government Reform, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-07-16">
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Referral"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
