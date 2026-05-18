@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3095" updated="2025-07-26T20:26:15Z">
+<bill session="119" type="h" number="3095" updated="2026-05-18T12:23:37Z">
   <state datetime="2025-07-21T18:58:33-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-07-21T18:58:33-04:00"/>
@@ -62,7 +62,7 @@
     </action>
     <action datetime="2025-07-21T15:56:41-04:00">
       <text>Considered under suspension of the rules.</text>
-      <reference ref="CR H3493-3495: 1" label="consideration"/>
+      <reference ref="CR H3493-3495" label="consideration"/>
     </action>
     <action datetime="2025-07-21T15:56:42-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3095.</text>
@@ -72,11 +72,11 @@
     </action>
     <action datetime="2025-07-21T18:32:52-04:00">
       <text>Considered as unfinished business.</text>
-      <reference ref="CR H3519: 1" label="consideration"/>
+      <reference ref="CR H3519" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="213" datetime="2025-07-21T18:58:33-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 278 - 121 (Roll no. 213).</text>
-      <reference ref="CR H3493: 1" label="text"/>
+      <reference ref="CR H3493" label="text"/>
     </vote>
     <action datetime="2025-07-21T18:58:34-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -89,7 +89,9 @@
     <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="4505" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Government operations and politics"/>
     <term name="California"/>
@@ -116,5 +118,7 @@
     <term name="Wyoming"/>
   </subjects>
   <amendments/>
-  <summary date="2025-07-16T22:58:18Z" status="Introduced in House"></summary>
+  <summary date="2025-07-16T22:58:18Z" status="Introduced in House">This bill requires the U.S Postal Service to designate a single, unique ZIP Code for each of the following 74 communities:
+
+Canyon Lake, CaliforniaEastvale, CaliforniaHidden Hills, CaliforniaIndustry, CaliforniaNorth&#160;Tustin, CaliforniaTehachapi, CaliforniaCastle Pines, ColoradoCentennial, ColoradoCherry Hills Village, ColoradoGreenwood Village, ColoradoHighlands Ranch, ColoradoKeystone, ColoradoLone Tree, ColoradoMountain Village, ColoradoMt Crested Butte, ColoradoSeverance, ColoradoSilver Cliff, ColoradoSterling Ranch, ColoradoSuperior, ColoradoTelluride, ColoradoScotland, ConnecticutEstero, FloridaFt&#160;Myers, FloridaHollywood, FloridaOakland Park, FloridaLighthouse Point, FloridaCoconut Creek, FloridaParkland, FloridaDeerfield Beach, FloridaWilton Manors, FloridaBurr Ridge, IllinoisCarmel, IndianaNoblesville, IndianaWestfield, IndianaZionsville, IndianaUrbandale, IowaLouisiana State University, Baton Rouge, LouisianaMontz, LouisianaSpringwater Township, MinnesotaGrass Valley, NevadaSwanzey, New HampshireKinnelon, New JerseyMendham Township, New JerseyFlanders, New YorkGlendale, New YorkRiverside, New YorkPendelton, New YorkNorthampton, New YorkHarnett County, North CarolinaWeddington, North CarolinaGoose Creek, South CarolinaFairview, TexasFate, TexasHeath, TexasMurphy, TexasNorthlake, TexasParker, TexasSargent, TexasFairlawn, VirginiaCaledonia, WisconsinFranklin, WisconsinGlendale, WisconsinGreenfield, WisconsinVillage of Mount Pleasant, WisconsinVillage of&#160;Somers, WisconsinVillage of Harrison, WisconsinMills, WyomingHochatown, OklahomaNorth Enid, OklahomaGreen, OhioRochester, WisconsinQuartzite Township, MinnesotaFrederick, ColoradoCamargo, Kentucky</summary>
 </bill>
