@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="4487" updated="2026-05-14T02:53:28Z">
+<bill session="119" type="s" number="4487" updated="2026-05-18T05:08:38Z">
   <state datetime="2026-05-11">REFERRED</state>
   <status>
     <introduced datetime="2026-05-11"/>
@@ -38,7 +38,13 @@
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="2138" relation="unknown"/>
+    <bill session="119" type="s" number="2392" relation="unknown"/>
+    <bill session="119" type="h" number="8552" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
   <amendments/>
 </bill>
