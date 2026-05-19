@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7257" updated="2026-05-12T05:53:25Z">
+<bill session="119" type="h" number="7257" updated="2026-05-18T20:39:55Z">
   <state datetime="2026-01-27">REFERRED</state>
   <status>
     <introduced datetime="2026-01-27"/>
@@ -46,7 +46,9 @@
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Referred To"/>
     <committee code="HSIF03" name="House Energy and Commerce" subcommittee="Energy" activity="Reporting, Markup, Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="4166" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Energy"/>
     <term name="Computer security and identity theft"/>
