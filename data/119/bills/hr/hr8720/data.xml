@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8720" updated="2026-05-13T05:38:27Z">
-  <state datetime="2026-05-11">REFERRED</state>
+<bill session="119" type="h" number="8720" updated="2026-05-19T08:05:40Z">
+  <state datetime="2026-05-14">REPORTED</state>
   <status>
-    <introduced datetime="2026-05-11"/>
+    <unknown datetime="2026-05-14"/>
   </status>
   <introduced datetime="2026-05-11"/>
   <titles>
@@ -10,7 +10,9 @@
     <title type="official" as="introduced">To amend the Federal Election Campaign Act of 1971 to modify requirements regarding contributions related to elections for Federal office and to improve the operation of the Federal Election Commission, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="S001213"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001211" joined="2026-05-12"/>
+  </cosponsors>
   <actions>
     <action datetime="2026-05-11">
       <text>Introduced in House</text>
@@ -18,9 +20,15 @@
     <action datetime="2026-05-11" state="REFERRED">
       <text>Referred to the House Committee on House Administration.</text>
     </action>
+    <action datetime="2026-05-14">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-14" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 11 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

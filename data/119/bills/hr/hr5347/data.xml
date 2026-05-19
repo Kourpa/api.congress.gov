@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="5347" updated="2026-01-13T09:05:48Z">
+<bill session="119" type="h" number="5347" updated="2026-05-19T08:05:46Z">
   <state datetime="2025-09-17">REPORTED</state>
   <status>
     <unknown datetime="2025-09-17"/>
@@ -21,6 +21,9 @@
       <text>Introduced in House</text>
     </action>
     <action datetime="2025-09-15" state="REFERRED">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2025-09-15">
       <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
     <action datetime="2025-09-15">
@@ -32,10 +35,17 @@
     <action datetime="2025-09-17" state="REPORTED">
       <text>Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 43 - 0.</text>
     </action>
+    <action datetime="2026-05-13">
+      <text>Subcommittee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-13">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF14" name="House Energy and Commerce" subcommittee="Health" activity="Reporting, Markup, Referral"/>
+    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on House Administration.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-05-14",
+      "action_code": "",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14",
+      "action_code": "",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 11 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Committee on House Administration",
@@ -34,10 +56,22 @@
     }
   ],
   "congress": "119",
-  "cosponsors": [],
+  "cosponsors": [
+    {
+      "bioguide_id": "M001211",
+      "district": "15",
+      "name": "Miller, Mary E.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-05-12",
+      "state": "IL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    }
+  ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-05-14",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -56,8 +90,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-05-11",
+  "status": "REPORTED",
+  "status_at": "2026-05-14",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -84,6 +118,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-13T05:38:27Z",
+  "updated_at": "2026-05-19T08:05:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8720.xml"
 }

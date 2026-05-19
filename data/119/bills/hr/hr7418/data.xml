@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7418" updated="2026-02-13T16:38:52Z">
-  <state datetime="2026-02-09">REFERRED</state>
+<bill session="119" type="h" number="7418" updated="2026-05-19T08:05:44Z">
+  <state datetime="2026-05-14">REPORTED</state>
   <status>
-    <introduced datetime="2026-02-09"/>
+    <unknown datetime="2026-05-14"/>
   </status>
   <introduced datetime="2026-02-09"/>
   <titles>
@@ -27,10 +27,16 @@
     <action datetime="2026-02-09">
       <text>Referred to the Committee on House Administration, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-05-14">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-14" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 8 - 3.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

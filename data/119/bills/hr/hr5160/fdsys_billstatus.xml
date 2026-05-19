@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5160</number>
-    <updateDate>2026-05-01T08:08:49Z</updateDate>
-    <updateDateIncludingText>2026-05-01T08:08:49Z</updateDateIncludingText>
+    <updateDate>2026-05-19T08:05:50Z</updateDate>
+    <updateDateIncludingText>2026-05-19T08:05:50Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,26 @@
         <name>Energy and Commerce Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Reported by</name>
+                <date>2026-05-13T14:57:25Z</date>
+              </item>
+              <item>
+                <name>Markup by</name>
+                <date>2026-05-13T14:56:56Z</date>
+              </item>
+              <item>
+                <name>Referred to</name>
+                <date>2025-09-04T14:56:23Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -45,6 +65,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-05-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-05-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-09-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-09-04</actionDate>
         <text>Referred to the House Committee on Energy and Commerce.</text>
@@ -337,8 +402,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-04</actionDate>
-      <text>Referred to the House Committee on Energy and Commerce.</text>
+      <actionDate>2026-05-13</actionDate>
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

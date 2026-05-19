@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="6028" updated="2026-03-17T12:40:39Z">
-  <state datetime="2025-11-12">REFERRED</state>
+<bill session="119" type="h" number="6028" updated="2026-05-19T08:05:46Z">
+  <state datetime="2026-05-14">REPORTED</state>
   <status>
-    <introduced datetime="2025-11-12"/>
+    <unknown datetime="2026-05-14"/>
   </status>
   <introduced datetime="2025-11-12"/>
   <titles>
-    <title type="display">Legislative Branch Agencies Clarification Act</title>
     <title type="short" as="introduced">Legislative Branch Agencies Clarification Act</title>
+    <title type="display">Legislative Branch Agencies Clarification Act</title>
     <title type="official" as="introduced">To modify the appointment and removal process for certain legislative branch officers, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000568"/>
@@ -29,11 +29,17 @@
     <action datetime="2025-11-12">
       <text>Referred to the Committee on House Administration, and in addition to the Committees on the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-05-14">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-14" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 11 - 0.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

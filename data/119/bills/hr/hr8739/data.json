@@ -9,12 +9,22 @@
     },
     {
       "acted_at": "2026-05-12",
-      "action_code": "H11100",
+      "action_code": "",
       "committees": [
         "HSIF"
       ],
       "references": [],
       "status": "REFERRED",
+      "text": "Referred to the Subcommittee on Environment.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2026-05-12",
+      "action_code": "H11100",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
       "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
     },
@@ -27,6 +37,26 @@
       "references": [],
       "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-05-14",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Subcommittee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-14",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -39,22 +69,34 @@
       "activity": [
         "Referred To"
       ],
-      "committee": "House Transportation and Infrastructure",
-      "committee_id": "HSPW"
+      "committee": "House Energy and Commerce",
+      "committee_id": "HSIF"
+    },
+    {
+      "activity": [
+        "reporting",
+        "markup",
+        "referral"
+      ],
+      "committee": "House Energy and Commerce",
+      "committee_id": "HSIF",
+      "subcommittee": "Subcommittee on Environment",
+      "subcommittee_id": "18"
     },
     {
       "activity": [
         "Referred To"
       ],
-      "committee": "House Energy and Commerce",
-      "committee_id": "HSIF"
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW"
     }
   ],
   "congress": "119",
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-05-14",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -101,6 +143,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-13T09:08:26Z",
+  "updated_at": "2026-05-19T08:05:51Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8739.xml"
 }

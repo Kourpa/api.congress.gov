@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1703" updated="2025-12-05T22:49:35Z">
+<bill session="119" type="h" number="1703" updated="2026-05-19T08:05:49Z">
   <state datetime="2025-02-27">REFERRED</state>
   <status>
     <introduced datetime="2025-02-27"/>
@@ -30,10 +30,20 @@
     <action datetime="2025-02-27">
       <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-02-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2026-05-13">
+      <text>Subcommittee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-13">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF14" name="House Energy and Commerce" subcommittee="Health" activity="Reporting, Markup, Referral"/>
+    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="247" relation="identical"/>
@@ -47,5 +57,9 @@
     <term name="Medicare"/>
   </subjects>
   <amendments/>
-  <summary date="2025-08-18T21:25:02Z" status="Introduced in House"></summary>
+  <summary date="2025-08-18T21:25:02Z" status="Introduced in House">Choices for Increased Mobility Act of 2025
+
+This bill requires the Centers for Medicare &amp; Medicaid Services (CMS) to establish specific billing codes under Medicare for certain materials used in ultralightweight manual wheelchairs.
+
+Specifically, the CMS must establish at least two billing codes for the base of the wheelchair, with at least one code for a base with titanium or carbon fiber construction material and at least one code for a base without these materials. Suppliers receive the same payment under Medicare for these wheelchairs as would otherwise apply, but may bill beneficiaries for any difference between the payment and the actual charge for the wheelchair. The CMS may require suppliers to inform beneficiaries of their potential financial liability in these cases.</summary>
 </bill>
