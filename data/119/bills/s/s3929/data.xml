@@ -1,12 +1,12 @@
-<bill session="119" type="s" number="3929" updated="2026-03-19T14:47:31Z">
+<bill session="119" type="s" number="3929" updated="2026-05-19T17:25:20Z">
   <state datetime="2026-02-26">REFERRED</state>
   <status>
     <introduced datetime="2026-02-26"/>
   </status>
   <introduced datetime="2026-02-26"/>
   <titles>
-    <title type="display">Air Traffic Situational Awareness Enhancement Act</title>
     <title type="short" as="introduced">Air Traffic Situational Awareness Enhancement Act</title>
+    <title type="display">Air Traffic Situational Awareness Enhancement Act</title>
     <title type="official" as="introduced">A bill to require the Administrator of the Federal Aviation Administration to acquire and install certified airborne position reference tools at air traffic control towers, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="S001232"/>
@@ -26,7 +26,9 @@
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="8597" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Transportation and public works"/>
   </subjects>
