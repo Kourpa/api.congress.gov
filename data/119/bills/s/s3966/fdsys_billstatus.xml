@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3966</number>
-    <updateDate>2026-05-19T19:46:00Z</updateDate>
-    <updateDateIncludingText>2026-05-19T19:46:00Z</updateDateIncludingText>
+    <updateDate>2026-05-20T11:03:29Z</updateDate>
+    <updateDateIncludingText>2026-05-20T11:03:29Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -18,6 +18,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-05-19T18:47:19Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-05-14T17:58:14Z</date>
@@ -48,6 +52,44 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-05-19</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 413.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2026-05-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-05-19</actionDate>
+        <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-05-14</actionDate>
         <committees>
@@ -305,6 +347,16 @@
         <sponsorshipDate>2026-05-18</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>Chuck</firstName>
+        <lastName>Grassley</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <sponsorshipDate>2026-05-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
     </cosponsors>
     <policyArea>
       <name>Law</name>
@@ -322,7 +374,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>TREY'S Law</title>
-        <updateDate>2026-05-19T11:03:45Z</updateDate>
+        <updateDate>2026-05-20T11:03:29Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -361,8 +413,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-05-14</actionDate>
-      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+      <actionDate>2026-05-19</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 413.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
