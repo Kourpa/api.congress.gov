@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3482" updated="2026-05-05T22:21:35Z">
-  <state datetime="2026-02-12">REPORTED</state>
+<bill session="119" type="h" number="3482" updated="2026-05-20T08:08:24Z">
+  <state datetime="2026-05-19T16:16:11-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-02-12"/>
+    <unknown datetime="2026-05-19T16:16:11-04:00"/>
   </status>
   <introduced datetime="2025-05-19"/>
   <titles>
@@ -42,6 +42,21 @@
     <calendar datetime="2026-03-30" calendar="Union" number="496">
       <text>Placed on the Union Calendar, Calendar No. 496.</text>
     </calendar>
+    <action datetime="2026-05-19T16:06:29-04:00">
+      <text>Mr. Bost moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-05-19T16:06:42-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-05-19T16:06:44-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3482.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-05-19T16:16:11-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-05-19T16:16:14-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
