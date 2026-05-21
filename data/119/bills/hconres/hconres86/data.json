@@ -34,14 +34,28 @@
     {
       "acted_at": "2026-05-20T13:30:20-04:00",
       "action_code": "H30800",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3647-3648",
+          "type": "consideration"
+        }
+      ],
       "text": "Consideration initiated pursuant to a previous order.",
       "type": "action"
     },
     {
       "acted_at": "2026-05-20T13:30:24-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3648-3652",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H3648",
+          "type": "text"
+        }
+      ],
       "text": "Considered pursuant to a previous order.",
       "type": "action"
     },
@@ -193,6 +207,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-05-21T08:08:20Z",
+  "updated_at": "2026-05-21T17:28:02Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres86.xml"
 }
