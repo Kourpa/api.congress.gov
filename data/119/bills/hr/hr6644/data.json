@@ -408,6 +408,21 @@
       "references": [],
       "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-05-20T13:05:43-04:00",
+      "action_code": "H1B000",
+      "bill_ids": [
+        "hres1299-119"
+      ],
+      "how": "by special rule",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_BACK:HOUSE",
+      "text": "House agreed to Senate amendment with amendment pursuant to H. Res. 1299",
+      "type": "vote",
+      "vote_type": "pingpong",
+      "where": "h"
     }
   ],
   "amendments": [
@@ -1328,7 +1343,7 @@
     "awaiting_signature": false,
     "enacted": false,
     "house_passage_result": "pass",
-    "house_passage_result_at": "2026-02-09T19:00:33-05:00",
+    "house_passage_result_at": "2026-05-20T13:05:43-04:00",
     "senate_cloture_result": "pass",
     "senate_cloture_result_at": "2026-03-11",
     "senate_passage_result": "pass",
@@ -1410,8 +1425,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_BACK:SENATE",
-  "status_at": "2026-03-12",
+  "status": "PASS_BACK:HOUSE",
+  "status_at": "2026-05-20T13:05:43-04:00",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Advisory bodies",
@@ -1510,6 +1525,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-02T19:06:20Z",
+  "updated_at": "2026-05-21T08:08:52Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6644.xml"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8748" updated="2026-05-14T03:23:29Z">
-  <state datetime="2026-05-12">REFERRED</state>
+<bill session="119" type="h" number="8748" updated="2026-05-21T08:08:50Z">
+  <state datetime="2026-05-20">REPORTED</state>
   <status>
-    <introduced datetime="2026-05-12"/>
+    <unknown datetime="2026-05-20"/>
   </status>
   <introduced datetime="2026-05-12"/>
   <titles>
@@ -23,10 +23,16 @@
     <action datetime="2026-05-12">
       <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-05-20">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
-    <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

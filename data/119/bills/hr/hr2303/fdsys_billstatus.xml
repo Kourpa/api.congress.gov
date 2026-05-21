@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2303</number>
-    <updateDate>2026-03-19T08:07:25Z</updateDate>
-    <updateDateIncludingText>2026-03-19T08:07:25Z</updateDateIncludingText>
+    <updateDate>2026-05-21T08:08:35Z</updateDate>
+    <updateDateIncludingText>2026-05-21T08:08:35Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -41,6 +41,10 @@
         <activities>
           <item>
             <name>Hearings By (full committee)</name>
+            <date>2026-05-20T13:26:53Z</date>
+          </item>
+          <item>
+            <name>Hearings By (full committee)</name>
             <date>2026-03-18T16:47:56Z</date>
           </item>
           <item>
@@ -51,6 +55,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-05-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Hearings Held</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-03-18</actionDate>
         <committees>
@@ -249,7 +268,7 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-03-18</actionDate>
+      <actionDate>2026-05-20</actionDate>
       <text>Committee Hearings Held</text>
     </latestAction>
   </bill>
