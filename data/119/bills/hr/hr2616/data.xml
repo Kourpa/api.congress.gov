@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2616" updated="2026-05-01T21:41:23Z">
-  <state datetime="2025-04-09">REPORTED</state>
+<bill session="119" type="h" number="2616" updated="2026-05-21T08:09:24Z">
+  <state datetime="2026-05-20T17:22:08-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-04-09"/>
+    <unknown datetime="2026-05-20T17:22:08-04:00"/>
   </status>
   <introduced datetime="2025-04-03"/>
   <titles>
@@ -41,9 +41,42 @@
     <action datetime="2026-04-29T08:12:07-04:00">
       <text>Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.</text>
     </action>
+    <action datetime="2026-05-20T14:18:14-04:00">
+      <text>Considered under the provisions of rule H. Res. 1224.</text>
+    </action>
+    <action datetime="2026-05-20T14:18:19-04:00">
+      <text>Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.</text>
+    </action>
+    <action datetime="2026-05-20T14:19:19-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2616.</text>
+    </action>
+    <action datetime="2026-05-20T14:52:19-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-05-20T14:52:54-04:00">
+      <text>Ms. Balint moved to recommit to the Committee on Education and Workforce.</text>
+    </action>
+    <action datetime="2026-05-20T14:53:08-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-05-20T14:53:14-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2616, the Chair put the question on motion to recommit and by voice vote, announced the ayes had prevailed. Mr. Walberg demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-05-20T17:08:25-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-05-20T17:14:20-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 207 - 208 (Roll no. 183).</text>
+    </action>
+    <vote how="roll" type="vote" roll="184" datetime="2026-05-20T17:22:08-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 217 - 198 (Roll no. 184).</text>
+    </vote>
+    <action datetime="2026-05-20T17:22:10-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="1224" relation="unknown"/>
@@ -53,7 +86,9 @@
     <term name="Elementary and secondary education"/>
     <term name="Sex, gender, sexual orientation discrimination"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h220"/>
+  </amendments>
   <summary date="2026-04-23T20:07:13Z" status="Introduced in House">Parental Rights Over The Education and Care of Their Kids Act or the PROTECT Kids Act
 
 This bill requires public elementary and middle schools, as a condition of receiving certain federal funds for elementary and secondary education, to obtain parental consent before changing a student's gender on school forms or changing a student's sex-based accommodations.
