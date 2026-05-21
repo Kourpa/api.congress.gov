@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2098" updated="2026-04-17T12:23:04Z">
-  <state datetime="2025-06-17">REFERRED</state>
+<bill session="119" type="s" number="2098" updated="2026-05-21T11:03:37Z">
+  <state datetime="2026-05-20">REPORTED</state>
   <status>
-    <introduced datetime="2025-06-17"/>
+    <unknown datetime="2026-05-20"/>
   </status>
   <introduced datetime="2025-06-17"/>
   <titles>
@@ -23,9 +23,12 @@
     <action datetime="2026-02-04">
       <text>Committee on Indian Affairs. Hearings held.</text>
     </action>
+    <action datetime="2026-05-20" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SLIA" name="Senate Indian Affairs" subcommittee="" activity="Hearings By (Full Committee), Referred To"/>
+    <committee code="SLIA" name="Senate Indian Affairs" subcommittee="" activity="Markup By, Hearings By (Full Committee), Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="3620" relation="identical"/>

@@ -41,6 +41,35 @@
       "type": "ordered-reported"
     },
     {
+      "acted_at": "2026-05-20",
+      "action_code": "",
+      "committees": [
+        "SSEG"
+      ],
+      "references": [],
+      "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-20",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-05-20",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
       "acted_at": "2026-05-20T16:30:22-04:00",
       "action_code": "H14000",
       "references": [],
@@ -63,6 +92,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Markup By",
         "Referred To"
       ],
@@ -98,6 +128,8 @@
     "active_at": "2025-12-02",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-05-20",
     "vetoed": false
   },
   "introduced_at": "2025-02-27",
@@ -121,8 +153,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-02-04",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-05-20",
   "subjects": [
     "Geography and mapping",
     "Museums, exhibitions, cultural centers",
@@ -153,6 +185,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-05-21T08:08:24Z",
+  "updated_at": "2026-05-21T11:09:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s790.xml"
 }

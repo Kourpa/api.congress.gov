@@ -51,6 +51,25 @@
       "under": "General Orders"
     },
     {
+      "acted_at": "2026-05-20",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-05-20",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
       "acted_at": "2026-05-20T16:30:23-04:00",
       "action_code": "H14000",
       "references": [],
@@ -300,6 +319,8 @@
     "active_at": "2026-05-14",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-05-20",
     "vetoed": false
   },
   "introduced_at": "2026-03-03",
@@ -323,42 +344,14 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-05-14",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-05-20",
   "subjects": [
     "Law"
   ],
   "subjects_top_term": "Law",
   "summary": null,
   "titles": [
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Terminating Restrictive Enforcement of Youth Settlements Law",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "TREY'S Law",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Terminating Restrictive Enforcement of Youth Settlements Law",
-      "type": "short"
-    },
-    {
-      "as": "reported to senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "TREY'S Law",
-      "type": "short"
-    },
     {
       "as": null,
       "is_for_portion": false,
@@ -370,10 +363,38 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "Terminating Restrictive Enforcement of Youth Settlements Law",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "TREY'S Law",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Terminating Restrictive Enforcement of Youth Settlements Law",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "TREY'S Law",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "A bill to prohibit the enforcement of certain contractual clauses that restrict disclosure of sexual abuse of minors, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-21T08:08:25Z",
+  "updated_at": "2026-05-21T11:07:48Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3966.xml"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="4460" updated="2026-05-12T11:03:32Z">
-  <state datetime="2026-04-30">REFERRED</state>
+<bill session="119" type="s" number="4460" updated="2026-05-21T11:03:37Z">
+  <state datetime="2026-05-20">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2026-04-30"/>
+    <unknown datetime="2026-05-20"/>
   </status>
   <introduced datetime="2026-04-30"/>
   <titles>
@@ -35,9 +35,15 @@
     <action datetime="2026-04-30" state="REFERRED">
       <text>Read twice and referred to the Committee on Finance.</text>
     </action>
+    <action datetime="2026-05-20">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-05-20" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
+    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

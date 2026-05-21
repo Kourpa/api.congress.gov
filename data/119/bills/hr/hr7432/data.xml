@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7432" updated="2026-05-21T08:05:42Z">
+<bill session="119" type="h" number="7432" updated="2026-05-21T10:56:40Z">
   <state datetime="2026-05-19T15:21:39-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-05-19T15:21:39-04:00"/>
@@ -64,8 +64,12 @@
     <action datetime="2026-05-19T15:21:48-04:00">
       <text>The title of the measure was amended. Agreed to without objection.</text>
     </action>
+    <action datetime="2026-05-20">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>

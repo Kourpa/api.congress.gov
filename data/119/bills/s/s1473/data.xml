@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1473" updated="2026-02-27T15:17:46Z">
-  <state datetime="2025-04-10">REFERRED</state>
+<bill session="119" type="s" number="1473" updated="2026-05-21T11:08:29Z">
+  <state datetime="2026-05-20">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-04-10"/>
+    <unknown datetime="2026-05-20"/>
   </status>
   <introduced datetime="2025-04-10"/>
   <titles>
@@ -20,9 +20,18 @@
     <action datetime="2025-04-10" state="REFERRED">
       <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
     </action>
+    <action datetime="2026-05-20">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2026-05-20">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-05-20" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="6322" relation="unknown"/>
@@ -30,7 +39,9 @@
   <subjects>
     <term name="Foreign trade and international finance"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s5445"/>
+  </amendments>
   <summary date="2026-02-25T19:13:11Z" status="Introduced in Senate">Stop Stealing our Chips Act
 
 This bill creates a&#160;whistleblower incentive program and establishes whistleblower protections for individuals who provide information to the Department of Commerce's Bureau of Industry and Security (BIS) related to violations of U.S. export control laws.&#160;
