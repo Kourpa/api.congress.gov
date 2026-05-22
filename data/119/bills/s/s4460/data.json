@@ -50,17 +50,17 @@
       "where": "s"
     },
     {
-      "acted_at": "2026-05-21",
-      "action_code": "",
-      "references": [],
-      "text": "Message on Senate action sent to the House.",
-      "type": "action"
-    },
-    {
       "acted_at": "2026-05-21T15:18:43-04:00",
       "action_code": "H14000",
       "references": [],
       "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
       "type": "action"
     },
     {
@@ -276,7 +276,13 @@
   "status": "PASS_OVER:SENATE",
   "status_at": "2026-05-20",
   "subjects": [
-    "Health"
+    "Health",
+    "Health care costs and insurance",
+    "Health care coverage and access",
+    "Health programs administration and funding",
+    "Hospital care",
+    "Medicare",
+    "Rural conditions and development"
   ],
   "subjects_top_term": "Health",
   "summary": {
@@ -315,6 +321,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-22T15:16:27Z",
+  "updated_at": "2026-05-22T19:48:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4460.xml"
 }

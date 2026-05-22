@@ -58,17 +58,17 @@
       "where": "s"
     },
     {
-      "acted_at": "2026-05-21",
-      "action_code": "",
-      "references": [],
-      "text": "Message on Senate action sent to the House.",
-      "type": "action"
-    },
-    {
       "acted_at": "2026-05-21T15:18:41-04:00",
       "action_code": "H14000",
       "references": [],
       "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
       "type": "action"
     },
     {
@@ -148,7 +148,14 @@
   "status": "PASS_OVER:SENATE",
   "status_at": "2026-05-20",
   "subjects": [
-    "Foreign trade and international finance"
+    "Computers and information technology",
+    "Employment discrimination and employee rights",
+    "Foreign trade and international finance",
+    "Government information and archives",
+    "Government trust funds",
+    "Internet, web applications, social media",
+    "Right of privacy",
+    "Trade restrictions"
   ],
   "subjects_top_term": "Foreign trade and international finance",
   "summary": {
@@ -187,6 +194,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-22T15:01:38Z",
+  "updated_at": "2026-05-22T19:48:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1473.xml"
 }

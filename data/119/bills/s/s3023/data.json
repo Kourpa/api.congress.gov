@@ -70,17 +70,29 @@
       "type": "action"
     },
     {
-      "acted_at": "2026-05-21",
+      "acted_at": "2026-05-20",
       "action_code": "",
+      "how": "by Unanimous Consent",
       "references": [],
-      "text": "Message on Senate action sent to the House.",
-      "type": "action"
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     },
     {
       "acted_at": "2026-05-21T15:18:42-04:00",
       "action_code": "H14000",
       "references": [],
       "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
       "type": "action"
     },
     {
@@ -214,6 +226,8 @@
     "active_at": "2026-02-05",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-05-20",
     "vetoed": false
   },
   "introduced_at": "2025-10-21",
@@ -237,8 +251,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-02-05",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-05-20",
   "subjects": [
     "Civil actions and liability",
     "Computer security and identity theft",
@@ -290,6 +304,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-22T15:53:41Z",
+  "updated_at": "2026-05-22T20:22:51Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3023.xml"
 }
