@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Agriculture.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-05-20",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Forestry and Horticulture.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Agriculture",
       "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Forestry and Horticulture",
+      "subcommittee_id": "15"
     }
   ],
   "congress": "119",
@@ -132,6 +151,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-02-24T16:02:26Z",
+  "updated_at": "2026-05-22T08:08:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7010.xml"
 }

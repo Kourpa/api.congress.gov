@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8736" updated="2026-05-21T19:55:10Z">
-  <state datetime="2026-05-12">REFERRED</state>
+<bill session="119" type="h" number="8736" updated="2026-05-22T08:07:16Z">
+  <state datetime="2026-05-21">REPORTED</state>
   <status>
-    <introduced datetime="2026-05-12"/>
+    <unknown datetime="2026-05-21"/>
   </status>
   <introduced datetime="2026-05-12"/>
   <titles>
@@ -23,9 +23,15 @@
     <action datetime="2026-05-12" state="REFERRED">
       <text>Referred to the House Committee on Education and Workforce.</text>
     </action>
+    <action datetime="2026-05-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-21" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

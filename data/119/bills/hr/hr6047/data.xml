@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6047" updated="2026-05-21T21:26:23Z">
-  <state datetime="2026-02-12">REPORTED</state>
+<bill session="119" type="h" number="6047" updated="2026-05-22T08:09:23Z">
+  <state datetime="2026-05-21T18:20:47-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-02-12"/>
+    <unknown datetime="2026-05-21T18:20:47-04:00"/>
   </status>
   <introduced datetime="2025-11-17"/>
   <titles>
@@ -52,6 +52,30 @@
     <action datetime="2026-05-19T16:26:45-04:00">
       <text>Rules Committee Resolution H. Res. 1300 Reported to House. Rule provides for consideration of H.R. 1041, H.R. 6047 and H.R. 1329. The resolution provides for consideration of H.R. 1041, H.R. 6047, and H.R. 1329 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.</text>
     </action>
+    <action datetime="2026-05-21T14:14:25-04:00">
+      <text>Considered under the provisions of rule H. Res. 1300.</text>
+    </action>
+    <action datetime="2026-05-21T14:14:30-04:00">
+      <text>Rule provides for consideration of H.R. 1041, H.R. 6047 and H.R. 1329. The resolution provides for consideration of H.R. 1041, H.R. 6047, and H.R. 1329 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2026-05-21T14:16:06-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 6047.</text>
+    </action>
+    <action datetime="2026-05-21T15:17:11-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-05-21T15:18:09-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 6047, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Mr. Takano demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-05-21T18:13:38-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="191" datetime="2026-05-21T18:20:47-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 235 - 179 (Roll no. 191).</text>
+    </vote>
+    <action datetime="2026-05-21T18:20:49-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Hearings By (Full Committee), Referred To"/>
@@ -68,7 +92,9 @@
     <term name="Veterans' loans, housing, homeless programs"/>
     <term name="Veterans' pensions and compensation"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h223"/>
+  </amendments>
   <summary date="2026-05-18T21:52:23Z" status="Reported to House">Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026
 
 This bill expands specified benefits programs for veterans and their survivors and establishes a supplemental monthly allowance for certain disabled veterans.

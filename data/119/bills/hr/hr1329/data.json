@@ -120,9 +120,120 @@
       "references": [],
       "text": "Rule H. Res. 1300 passed House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21T13:18:41-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1300-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1300.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21T13:18:46-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr1041-119",
+        "hr6047-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 1041, H.R. 6047 and H.R. 1329. The resolution provides for consideration of H.R. 1041, H.R. 6047, and H.R. 1329 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21T13:20:32-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 1329.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21T14:13:17-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21T14:13:56-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced further proceedings on H.R. 1329 is postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21T16:31:03-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H.R. 1329.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21T16:31:05-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21T16:31:56-04:00",
+      "action_code": "H36200",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "Ms. Randall moved to recommit to the Committee on House Administration.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21T16:32:09-04:00",
+      "action_code": "H8A000",
+      "references": [],
+      "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21T17:02:43-04:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "On motion to recommit Failed by the Yeas and Nays: 209 - 209 (Roll no. 187).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21T18:00:13-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "188",
+      "status": "FAIL:ORIGINATING:HOUSE",
+      "suspension": null,
+      "text": "On passage Failed by the Yeas and Nays: 204 - 216 (Roll no. 188).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-05-21T18:00:24-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt222-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "222"
+    }
+  ],
   "bill_id": "hr1329-119",
   "bill_type": "hr",
   "by_request": false,
@@ -130,6 +241,17 @@
     "H. Rept. 119-621"
   ],
   "committees": [
+    {
+      "activity": [
+        "Unknown",
+        "Unknown",
+        "Reported By",
+        "Markup By",
+        "Referred To"
+      ],
+      "committee": "House Committee on House Administration",
+      "committee_id": "HSHA"
+    },
     {
       "activity": [
         "Discharged From",
@@ -147,15 +269,6 @@
       "committee_id": "HSII",
       "subcommittee": "Subcommittee on Federal Lands",
       "subcommittee_id": "10"
-    },
-    {
-      "activity": [
-        "Reported By",
-        "Markup By",
-        "Referred To"
-      ],
-      "committee": "House Committee on House Administration",
-      "committee_id": "HSHA"
     }
   ],
   "congress": "119",
@@ -2487,6 +2600,8 @@
     "active_at": "2026-02-10",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "fail",
+    "house_passage_result_at": "2026-05-21T18:00:13-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-13",
@@ -2516,8 +2631,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-03-18",
+  "status": "FAIL:ORIGINATING:HOUSE",
+  "status_at": "2026-05-21T18:00:13-04:00",
   "subjects": [
     "Arts, culture, religion",
     "Congressional oversight",
@@ -2563,6 +2678,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-21T21:26:23Z",
+  "updated_at": "2026-05-22T08:09:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1329.xml"
 }

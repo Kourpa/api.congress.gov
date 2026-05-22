@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1329" updated="2026-05-21T21:26:23Z">
-  <state datetime="2026-03-18">REPORTED</state>
+<bill session="119" type="h" number="1329" updated="2026-05-22T08:09:21Z">
+  <state datetime="2026-05-21T18:00:13-04:00">FAIL:ORIGINATING:HOUSE</state>
   <status>
-    <unknown datetime="2026-03-18"/>
+    <unknown datetime="2026-05-21T18:00:13-04:00"/>
   </status>
   <introduced datetime="2025-02-13"/>
   <titles>
@@ -282,11 +282,47 @@
     <action datetime="2026-05-20T17:35:34-04:00">
       <text>Rule H. Res. 1300 passed House.</text>
     </action>
+    <action datetime="2026-05-21T13:18:41-04:00">
+      <text>Considered under the provisions of rule H. Res. 1300.</text>
+    </action>
+    <action datetime="2026-05-21T13:18:46-04:00">
+      <text>Rule provides for consideration of H.R. 1041, H.R. 6047 and H.R. 1329. The resolution provides for consideration of H.R. 1041, H.R. 6047, and H.R. 1329 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.</text>
+    </action>
+    <action datetime="2026-05-21T13:20:32-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1329.</text>
+    </action>
+    <action datetime="2026-05-21T14:13:17-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-05-21T14:13:56-04:00">
+      <text>POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced further proceedings on H.R. 1329 is postponed.</text>
+    </action>
+    <action datetime="2026-05-21T16:31:03-04:00">
+      <text>Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H.R. 1329.</text>
+    </action>
+    <action datetime="2026-05-21T16:31:05-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-05-21T16:31:56-04:00">
+      <text>Ms. Randall moved to recommit to the Committee on House Administration.</text>
+    </action>
+    <action datetime="2026-05-21T16:32:09-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-05-21T17:02:43-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 209 - 209 (Roll no. 187).</text>
+    </action>
+    <vote how="roll" type="vote" roll="188" datetime="2026-05-21T18:00:13-04:00" where="h" result="fail" state="FAIL:ORIGINATING:HOUSE">
+      <text>On passage Failed by the Yeas and Nays: 204 - 216 (Roll no. 188).</text>
+    </vote>
+    <action datetime="2026-05-21T18:00:24-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="1300" relation="procedurally related"/>
@@ -300,7 +336,9 @@
     <term name="Smithsonian Institution"/>
     <term name="U.S. history"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h222"/>
+  </amendments>
   <summary date="2026-05-19T13:32:36Z" status="Reported to House">Smithsonian American Women&#8217;s History Museum Act
 
 This bill authorizes the Smithsonian American Women's History Museum to be located on a particular site within the Reserve of the National Mall in Washington, DC.

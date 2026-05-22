@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8873" updated="2026-05-20T08:23:26Z">
-  <state datetime="2026-05-19">REFERRED</state>
+<bill session="119" type="h" number="8873" updated="2026-05-22T08:07:49Z">
+  <state datetime="2026-05-21">REPORTED</state>
   <status>
-    <introduced datetime="2026-05-19"/>
+    <unknown datetime="2026-05-21"/>
   </status>
   <introduced datetime="2026-05-19"/>
   <titles>
@@ -11,6 +11,7 @@
   </titles>
   <sponsor bioguide_id="V000134"/>
   <cosponsors>
+    <cosponsor bioguide_id="F000446" joined="2026-05-21"/>
     <cosponsor bioguide_id="S001201" joined="2026-05-19"/>
   </cosponsors>
   <actions>
@@ -20,9 +21,15 @@
     <action datetime="2026-05-19" state="REFERRED">
       <text>Referred to the House Committee on Ways and Means.</text>
     </action>
+    <action datetime="2026-05-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-21" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 41 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
+    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7007" updated="2026-04-24T20:42:03Z">
+<bill session="119" type="h" number="7007" updated="2026-05-22T08:07:21Z">
   <state datetime="2026-01-12">REFERRED</state>
   <status>
     <introduced datetime="2026-01-12"/>
@@ -81,8 +81,13 @@
     <action datetime="2026-02-04">
       <text>Referred to the Subcommittee on Health.</text>
     </action>
+    <action datetime="2026-05-20">
+      <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG15" name="House Agriculture" subcommittee="Forestry and Horticulture" activity="Referral"/>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Referral"/>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Referred To"/>
@@ -101,7 +106,6 @@
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>

@@ -20,6 +20,13 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Rules.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-05-21",
+      "action_code": "H17000",
+      "references": [],
+      "text": "Motion to Discharge Committee filed by Mr. Takano. Petition No: 119-22.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -39,6 +46,16 @@
   "congress": "119",
   "cosponsors": [
     {
+      "bioguide_id": "P000614",
+      "district": "1",
+      "name": "Pappas, Chris",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-05-21",
+      "state": "NH",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "R000599",
       "district": "25",
       "name": "Ruiz, Raul",
@@ -51,7 +68,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-05-21",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -105,6 +123,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-21T17:04:34Z",
+  "updated_at": "2026-05-22T08:07:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1247.xml"
 }

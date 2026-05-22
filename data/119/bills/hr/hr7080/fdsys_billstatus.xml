@@ -3,23 +3,33 @@
   <version>3.0.0</version>
   <bill>
     <number>7080</number>
-    <updateDate>2026-02-10T00:08:17Z</updateDate>
-    <updateDateIncludingText>2026-02-10T00:08:17Z</updateDateIncludingText>
+    <updateDate>2026-05-22T08:07:57Z</updateDate>
+    <updateDateIncludingText>2026-05-22T08:07:57Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2026-01-14</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/7080</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 172, Number 10 (Wednesday, January 14, 2026)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. VASQUEZ:H.R. 7080.Congress has the power to enact this legislation pursuantto the following:Article 1, section 8, Clauses 1 and 18 of the United StatesConstitution, to provide for the general welfare and make alllaws necessary and proper to carry out the powers of theCongress.[Page H894]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 10 (Wednesday, January 14, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. VASQUEZ:H.R. 7080.Congress has the power to enact this legislation pursuantto the following:Article 1, section 8, Clauses 1 and 18 of the United StatesConstitution, to provide for the general welfare and make alllaws necessary and proper to carry out the powers of theCongress.[Page H894]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsag00</systemCode>
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag22</systemCode>
+            <name>Commodity Markets, Digital Assets, and Rural Development Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-05-20T14:42:40Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -29,6 +39,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-05-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag22</systemCode>
+            <name>Commodity Markets, Digital Assets, and Rural Development Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-01-14</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -105,18 +130,18 @@
     <title>Waste Heat to Wattage Act of 2026</title>
     <titles>
       <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Waste Heat to Wattage Act of 2026</title>
-        <updateDate>2026-02-05T04:23:16Z</updateDate>
-      </item>
-      <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
         <title>Waste Heat to Wattage Act of 2026</title>
         <updateDate>2026-02-05T04:23:16Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Waste Heat to Wattage Act of 2026</title>
+        <updateDate>2026-02-05T04:23:16Z</updateDate>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
@@ -139,8 +164,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-14</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2026-05-20</actionDate>
+      <text>Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

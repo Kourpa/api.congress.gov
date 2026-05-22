@@ -3,18 +3,50 @@
   <version>3.0.0</version>
   <bill>
     <number>6154</number>
-    <updateDate>2026-01-14T15:53:24Z</updateDate>
-    <updateDateIncludingText>2026-01-14T15:53:24Z</updateDateIncludingText>
+    <updateDate>2026-05-22T08:08:00Z</updateDate>
+    <updateDateIncludingText>2026-05-22T08:08:00Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-11-19</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/6154</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 195 (Wednesday, November 19, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. MIN:H.R. 6154Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H4818]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 195 (Wednesday, November 19, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. MIN:H.R. 6154Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H4818]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-05-20T14:26:14Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-05-20T14:26:14Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-11-19T15:03:15Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hssy00</systemCode>
         <name>Science, Space, and Technology Committee</name>
@@ -24,18 +56,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-11-19T15:03:20Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hsag00</systemCode>
-        <name>Agriculture Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-11-19T15:03:15Z</date>
           </item>
         </activities>
       </item>
@@ -53,6 +73,36 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-05-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-05-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Forestry and Horticulture Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-11-19</actionDate>
         <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -194,8 +244,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-11-19</actionDate>
-      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-05-20</actionDate>
+      <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1028</number>
-    <updateDate>2026-03-05T09:06:52Z</updateDate>
-    <updateDateIncludingText>2026-03-05T09:06:52Z</updateDateIncludingText>
+    <updateDate>2026-05-22T08:08:47Z</updateDate>
+    <updateDateIncludingText>2026-05-22T08:08:47Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -18,6 +18,18 @@
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition and Foreign Agriculture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-05-20T14:25:51Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -99,6 +111,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-05-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition and Foreign Agriculture Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-01-30</actionDate>
         <text>Referred to the Committee on the Judiciary, and in addition to the Committees on House Administration, Ways and Means, Education and Workforce, Energy and Commerce, Financial Services, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -367,8 +394,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-30</actionDate>
-      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on House Administration, Ways and Means, Education and Workforce, Energy and Commerce, Financial Services, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-05-20</actionDate>
+      <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

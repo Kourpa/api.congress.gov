@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8163" updated="2026-05-21T08:08:49Z">
-  <state datetime="2026-03-30">REFERRED</state>
+<bill session="119" type="h" number="8163" updated="2026-05-22T08:08:06Z">
+  <state datetime="2026-05-21">REPORTED</state>
   <status>
-    <introduced datetime="2026-03-30"/>
+    <unknown datetime="2026-05-21"/>
   </status>
   <introduced datetime="2026-03-30"/>
   <titles>
@@ -13,8 +13,10 @@
   <cosponsors>
     <cosponsor bioguide_id="B001291" joined="2026-05-11"/>
     <cosponsor bioguide_id="B001281" joined="2026-05-14"/>
+    <cosponsor bioguide_id="B001287" joined="2026-05-21"/>
     <cosponsor bioguide_id="B001296" joined="2026-05-13"/>
     <cosponsor bioguide_id="C001112" joined="2026-05-07"/>
+    <cosponsor bioguide_id="C001072" joined="2026-05-21"/>
     <cosponsor bioguide_id="C001136" joined="2026-04-09"/>
     <cosponsor bioguide_id="D000230" joined="2026-04-15"/>
     <cosponsor bioguide_id="D000628" joined="2026-05-12"/>
@@ -22,7 +24,9 @@
     <cosponsor bioguide_id="F000466" joined="2026-05-13"/>
     <cosponsor bioguide_id="G000599" joined="2026-05-07"/>
     <cosponsor bioguide_id="G000581" joined="2026-05-07"/>
+    <cosponsor bioguide_id="G000604" joined="2026-05-21"/>
     <cosponsor bioguide_id="G000553" joined="2026-05-13"/>
+    <cosponsor bioguide_id="J000304" joined="2026-05-21"/>
     <cosponsor bioguide_id="J000310" joined="2026-05-14"/>
     <cosponsor bioguide_id="J000302" joined="2026-03-30"/>
     <cosponsor bioguide_id="K000385" joined="2026-03-30"/>
@@ -46,6 +50,7 @@
     <cosponsor bioguide_id="S001201" joined="2026-03-30"/>
     <cosponsor bioguide_id="T000478" joined="2026-05-13"/>
     <cosponsor bioguide_id="T000488" joined="2026-05-19"/>
+    <cosponsor bioguide_id="T000193" joined="2026-05-21"/>
     <cosponsor bioguide_id="T000467" joined="2026-05-07"/>
     <cosponsor bioguide_id="T000468" joined="2026-05-07"/>
     <cosponsor bioguide_id="V000138" joined="2026-05-19"/>
@@ -60,9 +65,15 @@
     <action datetime="2026-03-30">
       <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-05-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-21" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 44 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
+    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
