@@ -87,7 +87,12 @@
       "bill_ids": [
         "hres1300-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3699-3707",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 1300.",
       "type": "action"
     },
@@ -126,7 +131,12 @@
     {
       "acted_at": "2026-05-21T18:13:38-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3711-3712",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -134,7 +144,12 @@
       "acted_at": "2026-05-21T18:20:47-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3699-3700",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "191",
       "status": "PASS_OVER:HOUSE",
@@ -405,6 +420,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-22T08:09:23Z",
+  "updated_at": "2026-05-22T16:20:37Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6047.xml"
 }
