@@ -65,22 +65,17 @@
       "type": "action"
     },
     {
-      "acted_at": "2026-05-20",
-      "action_code": "",
-      "how": "by Unanimous Consent",
-      "references": [],
-      "result": "pass",
-      "status": "PASS_OVER:SENATE",
-      "text": "Passed Senate with an amendment by Unanimous Consent.",
-      "type": "vote",
-      "vote_type": "vote",
-      "where": "s"
-    },
-    {
       "acted_at": "2026-05-21T15:18:42-04:00",
       "action_code": "H14000",
       "references": [],
       "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
       "type": "action"
     },
     {
@@ -214,8 +209,6 @@
     "active_at": "2026-02-05",
     "awaiting_signature": false,
     "enacted": false,
-    "senate_passage_result": "pass",
-    "senate_passage_result_at": "2026-05-20",
     "vetoed": false
   },
   "introduced_at": "2025-10-21",
@@ -239,8 +232,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASS_OVER:SENATE",
-  "status_at": "2026-05-20",
+  "status": "REPORTED",
+  "status_at": "2026-02-05",
   "subjects": [
     "Civil actions and liability",
     "Computer security and identity theft",
@@ -256,6 +249,13 @@
   "subjects_top_term": "Crime and law enforcement",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Safe Cloud Storage Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -278,13 +278,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Safe Cloud Storage Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -292,6 +285,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-22T08:07:16Z",
+  "updated_at": "2026-05-22T11:03:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3023.xml"
 }
