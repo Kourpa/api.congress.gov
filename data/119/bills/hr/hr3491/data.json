@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-05-21",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by the Yeas and Nays: 46 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Energy and Commerce",
@@ -218,7 +240,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-05-21",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -250,8 +273,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-19",
+  "status": "REPORTED",
+  "status_at": "2026-05-21",
   "subjects": [
     "Health"
   ],
@@ -280,6 +303,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-03-17T08:05:43Z",
+  "updated_at": "2026-05-23T08:07:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3491.xml"
 }

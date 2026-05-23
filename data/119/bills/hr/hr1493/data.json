@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-05-21",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-21",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by the Yeas and Nays: 43 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Energy and Commerce",
@@ -98,7 +120,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-05-21",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -130,8 +153,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-21",
+  "status": "REPORTED",
+  "status_at": "2026-05-21",
   "subjects": [
     "Congressional oversight",
     "Data collection, sharing, protection",
@@ -167,6 +190,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-05-20T08:07:52Z",
+  "updated_at": "2026-05-23T08:07:35Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1493.xml"
 }

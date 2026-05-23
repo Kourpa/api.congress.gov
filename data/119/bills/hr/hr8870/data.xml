@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8870" updated="2026-05-22T04:23:40Z">
-  <state datetime="2026-05-19">REFERRED</state>
+<bill session="119" type="h" number="8870" updated="2026-05-23T08:07:29Z">
+  <state datetime="2026-05-22">REPORTED</state>
   <status>
-    <introduced datetime="2026-05-19"/>
+    <unknown datetime="2026-05-22"/>
   </status>
   <introduced datetime="2026-05-19"/>
   <titles>
@@ -30,11 +30,23 @@
     <action datetime="2026-05-20">
       <text>Referred to the Subcommittee on Highways and Transit.</text>
     </action>
+    <action datetime="2026-05-21">
+      <text>Subcommittee on Highways and Transit Discharged</text>
+    </action>
+    <action datetime="2026-05-21">
+      <text>Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged</text>
+    </action>
+    <action datetime="2026-05-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-05-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 62 - 2.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
-    <committee code="HSPW12" name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral"/>
-    <committee code="HSPW14" name="House Transportation and Infrastructure" subcommittee="Railroads, Pipelines, and Hazardous Materials" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSPW12" name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Discharged, Referral"/>
+    <committee code="HSPW14" name="House Transportation and Infrastructure" subcommittee="Railroads, Pipelines, and Hazardous Materials" activity="Discharged, Referral"/>
   </committees>
   <relatedbills/>
   <subjects/>
