@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>8542</number>
-    <updateDate>2026-05-08T20:40:25Z</updateDate>
-    <updateDateIncludingText>2026-05-08T20:40:25Z</updateDateIncludingText>
+    <updateDate>2026-05-30T08:05:42Z</updateDate>
+    <updateDateIncludingText>2026-05-30T08:05:42Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-05-29T21:00:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -27,6 +39,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-05-29</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Wildlife and Fisheries Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-04-28</actionDate>
         <text>Referred to the House Committee on Natural Resources.</text>
@@ -159,8 +186,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-04-28</actionDate>
-      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2026-05-29</actionDate>
+      <text>Referred to the Subcommittee on Water, Wildlife and Fisheries.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
