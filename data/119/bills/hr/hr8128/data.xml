@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="8128" updated="2026-04-21T17:54:48Z">
+<bill session="119" type="h" number="8128" updated="2026-06-03T08:09:08Z">
   <state datetime="2026-03-26">REFERRED</state>
   <status>
     <introduced datetime="2026-03-26"/>
@@ -10,7 +10,10 @@
     <title type="official" as="introduced">To foster greater deployment of same-day paratransit services for individuals with disabilities and to establish minimum standards for paratransit technology, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="S001231"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000402" joined="2026-06-02"/>
+    <cosponsor bioguide_id="L000606" joined="2026-06-02"/>
+  </cosponsors>
   <actions>
     <action datetime="2026-03-26">
       <text>Introduced in House</text>
@@ -18,9 +21,13 @@
     <action datetime="2026-03-26" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2026-03-27">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW12" name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

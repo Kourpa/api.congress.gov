@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Transportation and Infrastructure.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-02-06",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Water Resources and Environment.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Transportation and Infrastructure",
       "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Water Resources and Environment",
+      "subcommittee_id": "02"
     }
   ],
   "congress": "119",
@@ -86,6 +105,13 @@
   "summary": null,
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Puerto Rico Water Infrastructure Resilience Act",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -96,17 +122,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Puerto Rico Water Infrastructure Resilience Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To require the Secretary of the Army to conduct a comprehensive assessment of the water and wastewater infrastructure modernization needs of Puerto Rico, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-23T21:58:58Z",
+  "updated_at": "2026-06-03T08:09:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7397.xml"
 }

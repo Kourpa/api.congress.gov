@@ -1,13 +1,13 @@
-<bill session="119" type="h" number="7062" updated="2026-02-12T09:06:23Z">
+<bill session="119" type="h" number="7062" updated="2026-06-03T08:08:52Z">
   <state datetime="2026-01-14">REFERRED</state>
   <status>
     <introduced datetime="2026-01-14"/>
   </status>
   <introduced datetime="2026-01-14"/>
   <titles>
-    <title type="display">Build HUBS Act</title>
     <title type="short" as="introduced">Build Housing, Unlock Benefits and Services Act</title>
     <title type="short" as="introduced">Build HUBS Act</title>
+    <title type="display">Build HUBS Act</title>
     <title type="official" as="introduced">To amend titles 23 and 49, United States Code, to modify the rules relating to eligible projects under the TIFIA program and the railroad rehabilitation and financing program, to establish a transit-oriented development financing program for projects of a certain size, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="F000483"/>
@@ -23,9 +23,17 @@
     <action datetime="2026-01-14" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2026-01-15">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2026-01-15">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW12" name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral"/>
+    <committee code="HSPW14" name="House Transportation and Infrastructure" subcommittee="Railroads, Pipelines, and Hazardous Materials" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="3636" relation="unknown"/>

@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="7793" updated="2026-03-27T20:14:41Z">
+<bill session="119" type="h" number="7793" updated="2026-06-03T08:06:53Z">
   <state datetime="2026-03-04">REFERRED</state>
   <status>
     <introduced datetime="2026-03-04"/>
   </status>
   <introduced datetime="2026-03-04"/>
   <titles>
-    <title type="display">The Dalilah Law</title>
     <title type="short" as="introduced">The Dalilah Law</title>
+    <title type="display">The Dalilah Law</title>
     <title type="official" as="introduced">To prohibit the issuance of commercial driver's licenses to individuals who are not citizens or lawful permanent residents of the United States or holders of certain work visas, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="H001093"/>
@@ -21,9 +21,13 @@
     <action datetime="2026-03-04" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2026-03-05">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW12" name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="3917" relation="identical"/>

@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="7996" updated="2026-04-02T22:20:46Z">
+<bill session="119" type="h" number="7996" updated="2026-06-03T08:07:26Z">
   <state datetime="2026-03-19">REFERRED</state>
   <status>
     <introduced datetime="2026-03-19"/>
   </status>
   <introduced datetime="2026-03-19"/>
   <titles>
-    <title type="display">Linemen Legacy Act</title>
     <title type="short" as="introduced">Linemen Legacy Act</title>
+    <title type="display">Linemen Legacy Act</title>
     <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to clarify that utility line technicians qualify as emergency response providers.</title>
   </titles>
   <sponsor bioguide_id="H001077"/>
@@ -21,9 +21,13 @@
     <action datetime="2026-03-19" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2026-03-20">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

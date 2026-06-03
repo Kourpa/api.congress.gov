@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="7525" updated="2026-03-04T16:02:11Z">
+<bill session="119" type="h" number="7525" updated="2026-06-03T08:07:36Z">
   <state datetime="2026-02-12">REFERRED</state>
   <status>
     <introduced datetime="2026-02-12"/>
   </status>
   <introduced datetime="2026-02-12"/>
   <titles>
-    <title type="display">Counter Drone State and Local Defender Act</title>
     <title type="short" as="introduced">Counter Drone State and Local Defender Act</title>
+    <title type="display">Counter Drone State and Local Defender Act</title>
     <title type="official" as="introduced">To authorize counter-unmanned aircraft system authorities for State, local, territorial, and Tribal law enforcement, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="B001316"/>
@@ -21,10 +21,14 @@
     <action datetime="2026-02-12">
       <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-02-13">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW05" name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

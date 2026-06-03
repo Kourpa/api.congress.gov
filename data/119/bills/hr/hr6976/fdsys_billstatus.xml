@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6976</number>
-    <updateDate>2026-05-22T08:08:05Z</updateDate>
-    <updateDateIncludingText>2026-05-22T08:08:05Z</updateDateIncludingText>
+    <updateDate>2026-06-03T08:05:57Z</updateDate>
+    <updateDateIncludingText>2026-06-03T08:05:57Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,14 +14,38 @@
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 5 (Thursday, January 8, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. CISNEROS:H.R. 6976.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H252]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw07</systemCode>
+            <name>Coast Guard and Maritime Transportation Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-01-09T15:57:01Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-01-08T15:00:40Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hshm00</systemCode>
         <name>Homeland Security Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
         <subcommittees>
           <item>
-            <systemCode>hshm08</systemCode>
-            <name>Cybersecurity and Infrastructure Protection Subcommittee</name>
+            <systemCode>hshm12</systemCode>
+            <name>Emergency Management and Technology Subcommittee</name>
             <activities>
               <item>
                 <name>Referred to</name>
@@ -40,8 +64,8 @@
             </activities>
           </item>
           <item>
-            <systemCode>hshm12</systemCode>
-            <name>Emergency Management and Technology Subcommittee</name>
+            <systemCode>hshm08</systemCode>
+            <name>Cybersecurity and Infrastructure Protection Subcommittee</name>
             <activities>
               <item>
                 <name>Referred to</name>
@@ -166,18 +190,6 @@
         </activities>
       </item>
       <item>
-        <systemCode>hspw00</systemCode>
-        <name>Transportation and Infrastructure Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2026-01-08T15:00:40Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
         <systemCode>hsas00</systemCode>
         <name>Armed Services Committee</name>
         <chamber>House</chamber>
@@ -191,6 +203,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-01-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw07</systemCode>
+            <name>Coast Guard and Maritime Transportation Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-01-09</actionDate>
         <committees>
@@ -939,7 +966,7 @@
     </textVersions>
     <latestAction>
       <actionDate>2026-01-09</actionDate>
-      <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

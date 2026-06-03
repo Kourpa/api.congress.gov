@@ -1,13 +1,13 @@
-<bill session="119" type="h" number="7539" updated="2026-04-28T08:05:44Z">
+<bill session="119" type="h" number="7539" updated="2026-06-03T08:05:55Z">
   <state datetime="2026-02-12">REFERRED</state>
   <status>
     <introduced datetime="2026-02-12"/>
   </status>
   <introduced datetime="2026-02-12"/>
   <titles>
-    <title type="display">SAFE Act</title>
     <title type="short" as="introduced">SAFE Act</title>
     <title type="short" as="introduced">Safety and Accountability in Freight Enforcement Act</title>
+    <title type="display">SAFE Act</title>
     <title type="official" as="introduced">To direct the Administrator of the Federal Motor Carrier Safety Administration to conduct a study on chameleon carriers in the United States and plan, develop, and test an advanced automation tool to help enforcement personnel detect chameleon carrier applications under the registration process of the Department of Transportation, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="H001096"/>
@@ -27,9 +27,13 @@
     <action datetime="2026-02-12" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2026-02-13">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW12" name="House Transportation and Infrastructure" subcommittee="Highways and Transit" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

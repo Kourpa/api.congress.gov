@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="3922" updated="2026-03-30T15:52:55Z">
-  <state datetime="2026-02-11">REPORTED</state>
+<bill session="119" type="h" number="3922" updated="2026-06-03T05:08:25Z">
+  <state datetime="2026-06-02T16:30:18-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-02-11"/>
+    <unknown datetime="2026-06-02T16:30:18-04:00"/>
   </status>
   <introduced datetime="2025-06-11"/>
   <titles>
-    <title type="display">Cross-Boundary Wildfire Solutions Act</title>
     <title type="short" as="introduced">Cross-Boundary Wildfire Solutions Act</title>
+    <title type="short" as="reported to house">Cross-Boundary Wildfire Solutions Act</title>
+    <title type="display">Cross-Boundary Wildfire Solutions Act</title>
     <title type="official" as="introduced">To direct the Comptroller General of the United States to conduct a study on existing programs, rules, and authorities that enable or inhibit wildfire mitigation across land ownership boundaries on Federal and non-Federal land, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="N000191"/>
@@ -43,11 +44,35 @@
     <action datetime="2026-02-11" state="REPORTED">
       <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
     </action>
+    <action datetime="2026-06-02">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-673, Part I.</text>
+    </action>
+    <action datetime="2026-06-02">
+      <text>Committee on Agriculture discharged.</text>
+    </action>
+    <calendar datetime="2026-06-02" calendar="Union" number="587">
+      <text>Placed on the Union Calendar, Calendar No. 587.</text>
+    </calendar>
+    <action datetime="2026-06-02T16:21:01-04:00">
+      <text>Mr. Westerman moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-06-02T16:21:17-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-06-02T16:21:19-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3922.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-06-02T16:30:18-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-06-02T16:30:21-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Discharged, Referred To"/>
+    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
     <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
-    <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="2033" relation="identical"/>

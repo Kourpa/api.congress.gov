@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Transportation and Infrastructure.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-04-07",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Highways and Transit.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Transportation and Infrastructure",
       "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Highways and Transit",
+      "subcommittee_id": "12"
     }
   ],
   "congress": "119",
@@ -76,6 +95,13 @@
   "summary": null,
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Interstate Ferry Fairness Act",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -86,17 +112,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Interstate Ferry Fairness Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To amend title 23, United States Code, so that a privately or majority-privately owned ferry or ferry terminal facility is an eligible entity for purposes of participation in the Ferry Boat Program, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-09T19:59:58Z",
+  "updated_at": "2026-06-03T08:08:18Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8200.xml"
 }

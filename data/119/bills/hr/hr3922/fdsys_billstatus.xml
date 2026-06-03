@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>3922</number>
-    <updateDate>2026-03-30T15:52:55Z</updateDate>
-    <updateDateIncludingText>2026-03-30T15:52:55Z</updateDateIncludingText>
+    <updateDate>2026-06-03T05:08:25Z</updateDate>
+    <updateDateIncludingText>2026-06-03T05:18:53Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,22 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/3922</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 100 (Wednesday, June 11, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. NEGUSE:H.R. 3922.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2655]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-06-02T16:16:29Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-06-11T14:03:35Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsii00</systemCode>
         <name>Natural Resources Committee</name>
@@ -36,6 +52,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-06-02T16:16:16Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-02-11T18:45:00Z</date>
           </item>
@@ -46,18 +66,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-06-11T14:03:30Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hsag00</systemCode>
-        <name>Agriculture Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-06-11T14:03:35Z</date>
           </item>
         </activities>
       </item>
@@ -81,6 +89,149 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-02</actionDate>
+        <actionTime>16:30:21</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-02</actionDate>
+        <actionTime>16:30:18</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-02</actionDate>
+        <actionTime>16:30:18</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-02</actionDate>
+        <actionTime>16:21:19</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3922.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-02</actionDate>
+        <actionTime>16:21:17</actionTime>
+        <text>Considered under suspension of the rules.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-02</actionDate>
+        <actionTime>16:21:01</actionTime>
+        <text>Mr. Westerman moved to suspend the rules and pass the bill, as amended.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-02</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 587.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00587</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-06-02</actionDate>
+        <text>Committee on Agriculture discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-02</actionDate>
+        <text>Committee on Agriculture discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-02</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-673, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-02</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-673, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-02-11</actionDate>
         <committees>
@@ -337,6 +488,16 @@
     <title>Cross-Boundary Wildfire Solutions Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Cross-Boundary Wildfire Solutions Act</title>
+        <updateDate>2026-06-03T05:08:25Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Cross-Boundary Wildfire Solutions Act</title>
@@ -360,6 +521,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-06-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr3922rh/xml/BILLS-119hr3922rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2025-06-11T04:00:00Z</date>

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>8128</number>
-    <updateDate>2026-04-21T17:54:48Z</updateDate>
-    <updateDateIncludingText>2026-04-21T17:54:48Z</updateDateIncludingText>
+    <updateDate>2026-06-03T08:09:08Z</updateDate>
+    <updateDateIncludingText>2026-06-03T08:09:08Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Transportation and Infrastructure Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw12</systemCode>
+            <name>Highways and Transit Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-03-27T15:21:15Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -27,6 +39,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-27</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw12</systemCode>
+            <name>Highways and Transit Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-03-26</actionDate>
         <text>Referred to the House Committee on Transportation and Infrastructure.</text>
@@ -76,6 +103,31 @@
         <isByRequest>N</isByRequest>
       </item>
     </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>L000606</bioguideId>
+        <fullName>Rep. Latimer, George [D-NY-16]</fullName>
+        <firstName>George</firstName>
+        <lastName>Latimer</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <district>16</district>
+        <sponsorshipDate>2026-06-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000402</bioguideId>
+        <fullName>Rep. Kennedy, Timothy M. [D-NY-26]</fullName>
+        <firstName>Timothy</firstName>
+        <lastName>Kennedy</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <middleName>M.</middleName>
+        <district>26</district>
+        <sponsorshipDate>2026-06-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
     <policyArea>
       <name>Transportation and Public Works</name>
     </policyArea>
@@ -123,8 +175,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-03-26</actionDate>
-      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      <actionDate>2026-03-27</actionDate>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
