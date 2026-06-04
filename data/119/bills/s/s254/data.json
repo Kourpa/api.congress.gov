@@ -132,7 +132,12 @@
     {
       "acted_at": "2026-06-03T14:08:15-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3794",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -297,6 +302,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-04T08:08:18Z",
+  "updated_at": "2026-06-04T19:41:32Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s254.xml"
 }

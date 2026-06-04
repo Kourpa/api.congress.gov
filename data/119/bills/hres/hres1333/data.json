@@ -36,7 +36,12 @@
     {
       "acted_at": "2026-06-03T12:16:25-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3783-3793",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -57,7 +62,12 @@
     {
       "acted_at": "2026-06-03T14:17:41-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3795-3796",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -72,7 +82,12 @@
       "acted_at": "2026-06-03T14:32:10-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3783-3784",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "195",
       "status": "PASSED:SIMPLERES",
@@ -178,6 +193,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-04T15:41:23Z",
+  "updated_at": "2026-06-04T20:11:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1333.xml"
 }

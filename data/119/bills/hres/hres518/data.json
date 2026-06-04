@@ -50,7 +50,12 @@
     {
       "acted_at": "2026-06-03T17:19:40-04:00",
       "action_code": "H8D000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3813",
+          "type": "consideration"
+        }
+      ],
       "text": "MOTION TO DISCHARGE COMMITTEE - Pursuant to clause 2 of rule XV, Mr. Meeks called up motion No. 6, to discharge the Committee on Rules from further consideration of H. Res. 518.",
       "type": "action"
     },
@@ -85,7 +90,16 @@
     {
       "acted_at": "2026-06-03T17:29:07-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H3813-3814",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H3814",
+          "type": "text"
+        }
+      ],
       "text": "Considered from the Discharge Calendar.",
       "type": "action"
     },
@@ -189,6 +203,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-06-04T08:08:03Z",
+  "updated_at": "2026-06-04T19:59:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres518.xml"
 }
