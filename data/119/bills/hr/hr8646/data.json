@@ -19,6 +19,19 @@
       "text": "Placed on the Union Calendar, Calendar No. 548.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-06-03T09:18:44-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1333-119",
+        "hr7726-119",
+        "hr7892-119",
+        "hr8872-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1333 Reported to House. Rule provides for consideration of H.R. 8646, H.R. 7726, H.R. 7892 and H.R. 8872. The resolution provides for consideration of H.R. 8646 under a structured rule and H.R. 7726, H.R. 7892, and H.R. 8872 under a closed rule, with one hour of general debate on each bill. The resolution provides for one motion to recommit on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -41,7 +54,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-03T09:18:44-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -72,6 +86,12 @@
     {
       "bill_id": "s3843-119",
       "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hres1333-119",
+      "identified_by": "House",
       "reason": "related",
       "type": "bill"
     }
@@ -113,13 +133,6 @@
       "type": "short"
     },
     {
-      "as": "reported to house",
-      "is_for_portion": true,
-      "textVersionCode": null,
-      "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027",
-      "type": "short"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -127,6 +140,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-05T16:06:17Z",
+  "updated_at": "2026-06-04T08:35:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8646.xml"
 }

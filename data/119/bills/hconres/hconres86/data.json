@@ -95,6 +95,34 @@
       "references": [],
       "text": "Mr. Issa asked unanimous consent That, notwithstanding clause 8 of rule XX, further proceedings on the vote by the yeas and nays on the question of adoption of H. Con. Res. 86, may be postponed until the legislative day of June 3, 2026. Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-06-03T17:09:30-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-03T17:17:24-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "199",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 215 - 208 (Roll no. 199).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-03T17:17:26-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -170,6 +198,8 @@
     "active_at": "2026-05-20T13:29:04-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-03T17:17:24-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-04-20",
@@ -211,8 +241,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-04-20",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-03T17:17:24-04:00",
   "subjects": [
     "Conflicts and wars",
     "International affairs",
@@ -245,6 +275,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-06-03T08:08:19Z",
+  "updated_at": "2026-06-04T08:08:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres86.xml"
 }

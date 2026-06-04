@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="175" updated="2025-04-07T15:34:14Z">
-  <state datetime="2025-01-03">REFERRED</state>
+<bill session="119" type="h" number="175" updated="2026-06-04T08:07:57Z">
+  <state datetime="2026-06-03">REPORTED</state>
   <status>
-    <introduced datetime="2025-01-03"/>
+    <unknown datetime="2026-06-03"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
@@ -46,9 +46,15 @@
     <action datetime="2025-01-03" state="REFERRED">
       <text>Referred to the House Committee on the Judiciary.</text>
     </action>
+    <action datetime="2026-06-03">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-03" state="REPORTED">
+      <text>Ordered to be Reported Adversely (Amended) by the Yeas and Nays: 15 - 8.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="1050" relation="unknown"/>
@@ -57,5 +63,15 @@
     <term name="Immigration"/>
   </subjects>
   <amendments/>
-  <summary date="2025-02-14T21:47:13Z" status="Introduced in House"></summary>
+  <summary date="2025-02-14T21:47:13Z" status="Introduced in House">Deport Alien Gang Members Act
+
+This bill makes non-U.S. nationals (aliens under federal law) associated with criminal gangs inadmissible for entry into the United States and deportable. The bill also establishes procedures to designate groups as criminal gangs.
+
+An individual shall be inadmissible if certain officers or agencies know or have reason to believe that the individual is or was a criminal gang member or has participated or aided such a group's illegal activities. An individual who is or was a member of such a gang, has participated or aided such a group's illegal activities,&#160;or seeks to enter or has entered the United States in furtherance of such activity&#160;shall be deportable.
+
+Such individuals must be subject to mandatory detention. Furthermore, such individuals shall not be eligible for (1) asylum; (2) temporary protected status; (3) special immigrant juvenile visas; or (4) parole, unless they are assisting the government in a law enforcement matter.
+
+The bill defines a criminal gang as a group of five or more persons (1) where one of its primary purposes is committing specified criminal offenses and its members have engaged in a continuing series of such offenses within the past five years, or (2) that has been designated as a criminal gang by the Department of Homeland Security&#160;(DHS).
+
+The bill also establishes procedures for DHS to designate a group as a criminal gang, including notifying Congress, publishing a notice in the Federal Register, and providing an opportunity for the group to petition for review of the designation.</summary>
 </bill>

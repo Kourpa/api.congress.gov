@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="5860" updated="2026-03-30T18:46:00Z">
+<bill session="119" type="h" number="5860" updated="2026-06-04T08:08:21Z">
   <state datetime="2025-10-28">REFERRED</state>
   <status>
     <introduced datetime="2025-10-28"/>
@@ -27,10 +27,14 @@
     <action datetime="2025-10-28">
       <text>Referred to the Committee on Appropriations, and in addition to the Committees on Agriculture, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-12-02">
+      <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG03" name="House Agriculture" subcommittee="Nutrition and Foreign Agriculture" activity="Referral"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

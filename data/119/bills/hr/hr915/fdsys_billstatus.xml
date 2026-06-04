@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>915</number>
-    <updateDate>2026-05-21T08:08:26Z</updateDate>
-    <updateDateIncludingText>2026-05-21T08:08:26Z</updateDateIncludingText>
+    <updateDate>2026-06-04T07:38:29Z</updateDate>
+    <updateDateIncludingText>2026-06-04T07:38:29Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-06-03T17:56:06Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-05-20T21:46:44Z</date>
@@ -49,6 +53,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 591.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00591</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Reported by the Committee on Small Business. H. Rept. 119-678.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Reported by the Committee on Small Business. H. Rept. 119-678.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-05-20</actionDate>
         <committees>
@@ -168,7 +217,20 @@
       <name>Commerce</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Advanced technology and technological innovations</name>
+          <updateDate>2026-05-21T13:55:27Z</updateDate>
+        </item>
+        <item>
+          <name>Computer security and identity theft</name>
+          <updateDate>2026-05-21T13:55:27Z</updateDate>
+        </item>
+        <item>
+          <name>Government lending and loan guarantees</name>
+          <updateDate>2026-05-21T13:55:27Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Commerce</name>
         <updateDate>2025-03-07T13:22:24Z</updateDate>
@@ -176,6 +238,16 @@
     </subjects>
     <title>Small Business Technological Act of 2025</title>
     <titles>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Small Business Technological Act of 2025</title>
+        <updateDate>2026-06-04T07:38:29Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
@@ -200,6 +272,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-06-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr915rh/xml/BILLS-119hr915rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2025-02-04T05:00:00Z</date>

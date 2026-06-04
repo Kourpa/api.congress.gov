@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>8312</number>
-    <updateDate>2026-05-08T17:19:12Z</updateDate>
-    <updateDateIncludingText>2026-05-08T17:19:12Z</updateDateIncludingText>
+    <updateDate>2026-06-04T07:38:29Z</updateDate>
+    <updateDateIncludingText>2026-06-04T07:38:29Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-06-03T20:05:01Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-04-29T13:08:11Z</date>
           </item>
@@ -31,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 596.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00596</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-683.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-683.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-04-29</actionDate>
         <committees>
@@ -182,10 +231,14 @@
     <title>Fraud Prevention and Accountability Act</title>
     <titles>
       <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
         <title>Fraud Prevention and Accountability Act</title>
-        <updateDate>2026-04-27T11:53:25Z</updateDate>
+        <updateDate>2026-06-04T07:38:29Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -194,6 +247,12 @@
         <updateDate>2026-04-27T11:53:25Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Fraud Prevention and Accountability Act</title>
+        <updateDate>2026-04-27T11:53:25Z</updateDate>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
@@ -205,6 +264,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-06-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr8312rh/xml/BILLS-119hr8312rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2026-04-15T04:00:00Z</date>

@@ -3,23 +3,43 @@
   <version>3.0.0</version>
   <bill>
     <number>3806</number>
-    <updateDate>2025-12-04T17:19:53Z</updateDate>
-    <updateDateIncludingText>2025-12-04T17:19:53Z</updateDateIncludingText>
+    <updateDate>2026-06-04T08:08:50Z</updateDate>
+    <updateDateIncludingText>2026-06-04T08:08:50Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-06-06</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/3806</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 97 (Friday, June 6, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Ms. DE LA CRUZ:H.R. 3806.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H2534]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 97 (Friday, June 6, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Ms. DE LA CRUZ:H.R. 3806.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H2534]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsag00</systemCode>
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-12-02T14:23:03Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hsag29</systemCode>
+            <name>Livestock, Dairy, and Poultry Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-12-02T14:23:03Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -29,6 +49,36 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-12-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag29</systemCode>
+            <name>Livestock, Dairy, and Poultry Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Livestock, Dairy, and Poultry.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-06-06</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -329,8 +379,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-06</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2025-12-02</actionDate>
+      <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="6094" updated="2025-12-10T07:08:13Z">
+<bill session="119" type="h" number="6094" updated="2026-06-04T08:08:51Z">
   <state datetime="2025-11-18">REFERRED</state>
   <status>
     <introduced datetime="2025-11-18"/>
   </status>
   <introduced datetime="2025-11-18"/>
   <titles>
-    <title type="display">Fire Innovation Unit Act</title>
     <title type="short" as="introduced">Fire Innovation Unit Act</title>
+    <title type="display">Fire Innovation Unit Act</title>
     <title type="official" as="introduced">To direct the establishment of a public-private wildfire technology deployment and demonstration partnership, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="K000397"/>
@@ -27,10 +27,14 @@
     <action datetime="2025-11-18">
       <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2025-12-02">
+      <text>Referred to the Subcommittee on Forestry and Horticulture.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG15" name="House Agriculture" subcommittee="Forestry and Horticulture" activity="Referral"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>8464</number>
-    <updateDate>2026-05-08T16:14:51Z</updateDate>
-    <updateDateIncludingText>2026-05-08T16:14:51Z</updateDateIncludingText>
+    <updateDate>2026-06-04T07:38:29Z</updateDate>
+    <updateDateIncludingText>2026-06-04T07:38:28Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-06-03T20:05:26Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-04-29T13:08:20Z</date>
           </item>
@@ -31,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 597.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00597</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-684.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-684.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Government Reform Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-04-29</actionDate>
         <committees>
@@ -157,6 +206,16 @@
     <title>Stopping Fraudulent Payments Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Stopping Fraudulent Payments Act</title>
+        <updateDate>2026-06-04T07:38:28Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Stopping Fraudulent Payments Act</title>
@@ -180,6 +239,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-06-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr8464rh/xml/BILLS-119hr8464rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2026-04-23T04:00:00Z</date>

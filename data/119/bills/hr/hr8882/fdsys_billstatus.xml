@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>8882</number>
-    <updateDate>2026-06-03T18:58:11Z</updateDate>
-    <updateDateIncludingText>2026-06-03T18:58:11Z</updateDateIncludingText>
+    <updateDate>2026-06-04T07:38:29Z</updateDate>
+    <updateDateIncludingText>2026-06-04T07:38:29Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-06-03T17:59:21Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-05-20T21:46:05Z</date>
           </item>
@@ -31,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 595.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00595</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Reported by the Committee on Small Business. H. Rept. 119-682.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <text>Reported by the Committee on Small Business. H. Rept. 119-682.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-05-20</actionDate>
         <committees>
@@ -148,6 +197,16 @@
     <title>Main Street Competes Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Main Street Competes Act</title>
+        <updateDate>2026-06-04T07:38:29Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Main Street Competes Act</title>
@@ -171,6 +230,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-06-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr8882rh/xml/BILLS-119hr8882rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2026-05-19T04:00:00Z</date>

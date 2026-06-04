@@ -3,23 +3,33 @@
   <version>3.0.0</version>
   <bill>
     <number>5854</number>
-    <updateDate>2025-11-25T16:42:19Z</updateDate>
-    <updateDateIncludingText>2025-11-25T16:42:19Z</updateDateIncludingText>
+    <updateDate>2026-06-04T08:08:01Z</updateDate>
+    <updateDateIncludingText>2026-06-04T08:08:01Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-10-28</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/5854</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 179 (Tuesday, October 28, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. NEGUSE:H.R. 5854.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H4560]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 179 (Tuesday, October 28, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. NEGUSE:H.R. 5854.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H4560]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsag00</systemCode>
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-12-02T14:33:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -29,6 +39,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2025-12-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-10-28</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -138,8 +163,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-10-28</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2025-12-02</actionDate>
+      <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

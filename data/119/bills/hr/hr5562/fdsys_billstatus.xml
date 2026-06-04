@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5562</number>
-    <updateDate>2026-04-24T18:26:21Z</updateDate>
-    <updateDateIncludingText>2026-04-24T18:26:21Z</updateDateIncludingText>
+    <updateDate>2026-06-04T08:08:57Z</updateDate>
+    <updateDateIncludingText>2026-06-04T08:08:57Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2025-12-02T14:26:29Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -33,8 +45,8 @@
         <number>7567</number>
         <type>HR</type>
         <latestAction>
-          <actionDate>2026-04-21</actionDate>
-          <text>Placed on the Union Calendar, Calendar No. 537.</text>
+          <actionDate>2026-05-19</actionDate>
+          <text>Received in the Senate.</text>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -61,6 +73,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2025-12-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Conservation, Research, and Biotechnology Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-09-23</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -161,18 +188,18 @@
     <title>Tropical Plant Health Initiative Act</title>
     <titles>
       <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Tropical Plant Health Initiative Act</title>
-        <updateDate>2025-10-07T07:53:14Z</updateDate>
-      </item>
-      <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
         <title>Tropical Plant Health Initiative Act</title>
         <updateDate>2025-10-07T07:53:14Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Tropical Plant Health Initiative Act</title>
+        <updateDate>2025-10-07T07:53:14Z</updateDate>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
@@ -195,8 +222,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-09-23</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2025-12-02</actionDate>
+      <text>Referred to the Subcommittee on Conservation, Research, and Biotechnology.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
