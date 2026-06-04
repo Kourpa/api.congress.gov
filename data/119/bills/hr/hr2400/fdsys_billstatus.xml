@@ -3,17 +3,15 @@
   <version>3.0.0</version>
   <bill>
     <number>2400</number>
-    <updateDate>2026-02-04T04:26:33Z</updateDate>
-    <updateDateIncludingText>2026-02-04T04:26:33Z</updateDateIncludingText>
+    <updateDate>2026-06-04T10:56:32Z</updateDate>
+    <updateDateIncludingText>2026-06-04T10:56:32Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-03-27</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/2400</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 56 (Thursday, March 27, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. LaMALFA:H.R. 2400.Congress has the power to enact this legislation pursuantto the following:Article 4, Section 3, Clause 2.2[Page H1338]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 56 (Thursday, March 27, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. LaMALFA:H.R. 2400.Congress has the power to enact this legislation pursuantto the following:Article 4, Section 3, Clause 2.2[Page H1338]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>slia00</systemCode>
@@ -21,6 +19,10 @@
         <chamber>Senate</chamber>
         <type>Other</type>
         <activities>
+          <item>
+            <name>Hearings By (full committee)</name>
+            <date>2026-06-03T18:00:02Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-12-16T19:18:49Z</date>
@@ -74,6 +76,20 @@
       </committeeReport>
     </committeeReports>
     <actions>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-12-16</actionDate>
         <committees>
@@ -360,9 +376,7 @@
         <actionDate>2025-03-27</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-12-10T17:43:04Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;&lt;strong&gt;Pit River Land Transfer Act of 2025&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This bill takes approximately 603.94 acres of specified lands in California into trust for the benefit of the Pit River Tribe.&lt;/p&gt;&lt;p&gt;Specifically, the bill directs the Department of the Interior to take the following lands into trust for the benefit of the tribe: (1) approximately 583.79 acres of federal land managed by the Forest Service (but excluding approximately 20.03 acres of roads, highways, and public rights-of-way subject to existing easements), and (2) approximately 40.18 acres of fee land held by the tribe. These combined lands, approximately 603.94 acres, shall be part of the tribe's reservation. Further, the bill prohibits gaming on the land taken into trust.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p><strong>Pit River Land Transfer Act of 2025</strong></p><p>This bill takes approximately 603.94 acres of specified lands in California into trust for the benefit of the Pit River Tribe.</p><p>Specifically, the bill directs the Department of the Interior to take the following lands into trust for the benefit of the tribe: (1) approximately 583.79 acres of federal land managed by the Forest Service (but excluding approximately 20.03 acres of roads, highways, and public rights-of-way subject to existing easements), and (2) approximately 40.18 acres of fee land held by the tribe. These combined lands, approximately 603.94 acres, shall be part of the tribe's reservation. Further, the bill prohibits gaming on the land taken into trust.</p>]]></text>
       </summary>
     </summaries>
     <title>Pit River Land Transfer Act of 2025</title>
@@ -378,9 +392,9 @@
         <billTextVersionCode>RFS</billTextVersionCode>
       </item>
       <item>
-        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
-        <titleTypeCode>259</titleTypeCode>
-        <title>To take certain Federal land in the State of California into trust for the benefit of the Pit River Tribe.</title>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>Pit River Land Transfer Act of 2025</title>
         <updateDate>2025-12-17T04:08:13Z</updateDate>
         <chamberCode>H</chamberCode>
         <chamberName>House</chamberName>
@@ -388,9 +402,9 @@
         <billTextVersionCode>EH</billTextVersionCode>
       </item>
       <item>
-        <titleType>Short Title(s) as Passed House</titleType>
-        <titleTypeCode>104</titleTypeCode>
-        <title>Pit River Land Transfer Act of 2025</title>
+        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>To take certain Federal land in the State of California into trust for the benefit of the Pit River Tribe.</title>
         <updateDate>2025-12-17T04:08:13Z</updateDate>
         <chamberCode>H</chamberCode>
         <chamberName>House</chamberName>
@@ -469,8 +483,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-16</actionDate>
-      <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+      <actionDate>2026-06-03</actionDate>
+      <text>Committee on Indian Affairs. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

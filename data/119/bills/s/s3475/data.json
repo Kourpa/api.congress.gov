@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Indian Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-03",
+      "action_code": "",
+      "committee": "Committee on Indian Affairs",
+      "committees": [
+        "SLIA"
+      ],
+      "references": [],
+      "text": "Committee on Indian Affairs. Hearings held.",
+      "type": "hearings"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Hearings By (full committee)",
         "Referred To",
         "Referred To"
       ],
@@ -49,7 +61,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-03",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -78,7 +91,12 @@
   "status": "REFERRED",
   "status_at": "2025-12-15",
   "subjects": [
-    "Native Americans"
+    "Federal-Indian relations",
+    "Indian claims",
+    "Indian lands and resources rights",
+    "Land transfers",
+    "Native Americans",
+    "New York State"
   ],
   "subjects_top_term": "Native Americans",
   "summary": {
@@ -103,6 +121,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-08T15:20:09Z",
+  "updated_at": "2026-06-04T10:56:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3475.xml"
 }
