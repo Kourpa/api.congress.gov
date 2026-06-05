@@ -116,6 +116,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "D000399",
+      "district": "37",
+      "name": "Doggett, Lloyd",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-04",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "D000032",
       "district": "19",
       "name": "Donalds, Byron",
@@ -172,6 +182,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2026-05-21",
       "state": "NJ",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001236",
+      "district": "14",
+      "name": "Moore, Tim",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-04",
+      "state": "NC",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -237,7 +257,14 @@
   "number": "8791",
   "official_title": "To provide for the long-term improvement of Historically Black Colleges and Universities, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s4528-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
+    }
+  ],
   "short_title": "IGNITE HBCU Excellence Act",
   "sponsor": {
     "bioguide_id": "H001072",
@@ -249,8 +276,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-05-13",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Education"
+  ],
+  "subjects_top_term": "Education",
   "summary": null,
   "titles": [
     {
@@ -282,6 +311,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-04T08:08:05Z",
+  "updated_at": "2026-06-05T08:07:46Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8791.xml"
 }

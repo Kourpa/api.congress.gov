@@ -3,23 +3,33 @@
   <version>3.0.0</version>
   <bill>
     <number>6917</number>
-    <updateDate>2026-01-26T17:20:49Z</updateDate>
-    <updateDateIncludingText>2026-01-26T17:20:49Z</updateDateIncludingText>
+    <updateDate>2026-06-05T08:07:15Z</updateDate>
+    <updateDateIncludingText>2026-06-05T08:07:15Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-12-19</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/6917</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 215 (Friday, December 19, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Ms. TITUS:H.R. 6917.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H6122]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 215 (Friday, December 19, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Ms. TITUS:H.R. 6917.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H6122]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsii00</systemCode>
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii24</systemCode>
+            <name>Indian and Insular Affairs Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-06-03T16:00:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -29,6 +39,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-06-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii24</systemCode>
+            <name>Indian and Insular Affairs Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Indian and Insular Affairs.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-12-19</actionDate>
         <text>Referred to the House Committee on Natural Resources.</text>
@@ -131,8 +156,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-12-19</actionDate>
-      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2026-06-03</actionDate>
+      <text>Referred to the Subcommittee on Indian and Insular Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -97,6 +97,51 @@
       "references": [],
       "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Transportation and Infrastructure, Intelligence (Permanent Select), Ways and Means, Rules, the Judiciary, Financial Services, Armed Services, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-04T18:16:39-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres518-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 518.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-04T18:16:52-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 2913.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-04T19:26:02-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-04T20:09:08-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "207",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 226 - 195 (Roll no. 207).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-04T20:09:15-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -604,9 +649,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-04T18:16:39-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-04T20:09:08-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-04-14",
@@ -642,8 +690,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-04-14",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-04T20:09:08-04:00",
   "subjects": [
     "International affairs"
   ],
@@ -677,6 +725,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-03T08:08:49Z",
+  "updated_at": "2026-06-05T08:07:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2913.xml"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="hc" number="84" updated="2026-06-04T19:51:57Z">
-  <state datetime="2026-04-13">REFERRED</state>
+<bill session="119" type="hc" number="84" updated="2026-06-05T08:07:48Z">
+  <state datetime="2026-06-04T16:43:53-04:00">FAIL:ORIGINATING:HOUSE</state>
   <status>
-    <introduced datetime="2026-04-13"/>
+    <unknown datetime="2026-06-04T16:43:53-04:00"/>
   </status>
   <introduced datetime="2026-04-13"/>
   <titles>
@@ -34,6 +34,7 @@
     <cosponsor bioguide_id="S001231" joined="2026-05-20"/>
     <cosponsor bioguide_id="S001218" joined="2026-06-03"/>
     <cosponsor bioguide_id="V000081" joined="2026-05-20"/>
+    <cosponsor bioguide_id="W000822" joined="2026-06-04"/>
   </cosponsors>
   <actions>
     <action datetime="2026-04-13">
@@ -67,6 +68,15 @@
     </action>
     <action datetime="2026-06-03T19:47:22-04:00">
       <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Con. Res. 84, the Chair put the question on agreeing to the concurrent resolution and by voice vote, announced the noes had prevailed. Ms. Tlaib demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-06-04T16:01:39-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="201" datetime="2026-06-04T16:43:53-04:00" where="h" result="fail" state="FAIL:ORIGINATING:HOUSE">
+      <text>On agreeing to the resolution Failed by the Yeas and Nays: 92 - 324, 2 Present (Roll no. 201).</text>
+    </vote>
+    <action datetime="2026-06-04T16:43:55-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>
