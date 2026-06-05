@@ -1,10 +1,50 @@
 {
   "actions": [
     {
+      "acted_at": "2026-06-05",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": 160,
+      "text": "Amendment SA 5463 not agreed to in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 160.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-06-05",
+      "action_code": "",
+      "references": [],
+      "text": "Amendment SA 5463 proposed by Senator Cortez Masto to Amendment SA 5453. To appropriate amounts for local law enforcement hiring programs.",
+      "type": "action"
+    },
+    {
       "acted_at": "2026-06-03",
       "action_code": "Intro-S",
       "references": [],
       "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-05",
+      "action_code": "95000",
+      "references": [],
+      "text": "Senate amendment not agreed to: Amendment SA 5463 not agreed to in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 160.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-05",
+      "action_code": "97000",
+      "references": [],
+      "text": "Roll call votes on amendments in Senate: Amendment SA 5463 not agreed to in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 160.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-05",
+      "action_code": "93000",
+      "references": [],
+      "text": "Senate amendment proposed (on the floor): Amendment SA 5463 proposed by Senator Cortez Masto to Amendment SA 5453.",
       "type": "action"
     },
     {
@@ -36,7 +76,8 @@
   "congress": "119",
   "introduced_at": "2026-06-03",
   "number": 5463,
-  "purpose": null,
+  "proposed_at": "2026-06-05T04:00:00Z",
+  "purpose": "To appropriate amounts for local law enforcement hiring programs.",
   "sponsor": {
     "bioguide_id": "C001113",
     "district": null,
@@ -45,7 +86,7 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2026-06-03",
-  "updated_at": "2026-06-04T11:08:41Z"
+  "status": "fail",
+  "status_at": "2026-06-05",
+  "updated_at": "2026-06-05T12:18:03Z"
 }
