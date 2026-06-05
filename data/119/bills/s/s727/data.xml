@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="727" updated="2026-04-08T21:40:37Z">
+<bill session="119" type="s" number="727" updated="2026-06-04T21:52:59Z">
   <state datetime="2025-12-16">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-12-16"/>
@@ -51,7 +51,9 @@
   <committees>
     <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="8844" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Government operations and politics"/>
     <term name="Congressional oversight"/>
