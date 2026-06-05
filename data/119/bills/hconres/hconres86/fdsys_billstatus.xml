@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>86</number>
-    <updateDate>2026-06-05T05:38:27Z</updateDate>
-    <updateDateIncludingText>2026-06-05T07:48:25Z</updateDateIncludingText>
+    <updateDate>2026-06-05T12:14:59Z</updateDate>
+    <updateDateIncludingText>2026-06-05T12:14:59Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/86</legislationUrl>
     <cdata/>
     <committees>
+      <item>
+        <systemCode>ssfr00</systemCode>
+        <name>Foreign Relations Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-06-04T19:05:54Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsfa00</systemCode>
         <name>Foreign Affairs Committee</name>
@@ -99,6 +111,20 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-06-03</actionDate>
         <actionTime>17:17:26</actionTime>
@@ -440,9 +466,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-06-03</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>17:17:26</actionTime>
+      <actionDate>2026-06-04</actionDate>
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

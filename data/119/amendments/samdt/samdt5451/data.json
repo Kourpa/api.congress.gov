@@ -1,6 +1,34 @@
 {
   "actions": [
     {
+      "acted_at": "2026-06-04",
+      "action_code": "",
+      "references": [],
+      "text": "Amendment SA 5451 ruled out of order by the chair.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-04",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to waive all budgetary discipline with respect to amendment SA 5451, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 148.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-04",
+      "action_code": "",
+      "references": [],
+      "text": "Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 5451.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-04",
+      "action_code": "",
+      "references": [],
+      "text": "Amendment SA 5451 proposed by Senator Sanders to Amendment SA 5453. To place reasonable limits on contributions to Super PACs which make independent expenditures.",
+      "type": "action"
+    },
+    {
       "acted_at": "2026-06-02",
       "action_code": "Intro-S",
       "references": [],
@@ -17,7 +45,14 @@
   ],
   "amendment_id": "samdt5451-119",
   "amendment_type": "samdt",
-  "amends_amendment": null,
+  "amends_amendment": {
+    "amendment_id": "samdt5453-119",
+    "amendment_type": "samdt",
+    "congress": 119,
+    "description": "",
+    "number": 5453,
+    "purpose": "In the nature of a substitute."
+  },
   "amends_bill": {
     "bill_id": "s2-119",
     "bill_type": "s",
@@ -29,7 +64,8 @@
   "congress": "119",
   "introduced_at": "2026-06-02",
   "number": 5451,
-  "purpose": null,
+  "proposed_at": "2026-06-04T04:00:00Z",
+  "purpose": "To place reasonable limits on contributions to Super PACs which make independent expenditures.",
   "sponsor": {
     "bioguide_id": "S000033",
     "district": null,
@@ -40,5 +76,5 @@
   },
   "status": "offered",
   "status_at": "2026-06-02",
-  "updated_at": "2026-06-03T11:08:30Z"
+  "updated_at": "2026-06-05T12:17:38Z"
 }
