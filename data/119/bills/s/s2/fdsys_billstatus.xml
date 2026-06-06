@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2</number>
-    <updateDate>2026-06-06T03:38:26Z</updateDate>
-    <updateDateIncludingText>2026-06-06T08:03:30Z</updateDateIncludingText>
+    <updateDate>2026-06-06T11:08:25Z</updateDate>
+    <updateDateIncludingText>2026-06-06T11:33:34Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -26,6 +26,14 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-06-05</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2026-06-05</actionDate>
         <sourceSystem>
@@ -345,6 +353,12 @@
     <title>Secure America Act</title>
     <titles>
       <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Secure America Act</title>
+        <updateDate>2026-06-06T10:58:33Z</updateDate>
+      </item>
+      <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
         <titleTypeCode>105</titleTypeCode>
         <title>Secure America Act</title>
@@ -353,12 +367,6 @@
         <chamberName>Senate</chamberName>
         <billTextVersionName>Engrossed in Senate</billTextVersionName>
         <billTextVersionCode>ES</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Secure America Act</title>
-        <updateDate>2026-06-05T12:18:25Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) from PCS (Placed on Senate Calendar) bill text</titleType>
@@ -16330,7 +16338,7 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To prohibit an individual from acting as Director of National Intelligence if such individual is simultaneously serving as the head of any other Federal department or agency.</purpose>
-        <updateDate>2026-06-05T12:18:04Z</updateDate>
+        <updateDate>2026-06-06T11:08:25Z</updateDate>
         <latestAction>
           <actionDate>2026-06-04</actionDate>
           <text>Amendment SA 5556 ruled out of order by the chair.</text>
@@ -16397,7 +16405,7 @@
           <updateDate>2026-06-05T12:17:39Z</updateDate>
         </amendedAmendment>
         <actions>
-          <count>8</count>
+          <count>6</count>
           <actions>
             <item>
               <actionDate>2026-06-04</actionDate>
@@ -16438,15 +16446,6 @@
             </item>
             <item>
               <actionDate>2026-06-04</actionDate>
-              <sourceSystem>
-                <code>0</code>
-                <name>Senate</name>
-              </sourceSystem>
-              <text>Amendment SA 5556 proposed by Senator Warner to Amendment SA 5453. To prohibit an individual from acting as Director of National Intelligence if such individual is simultaneously serving as the head of any other Federal department or agency.</text>
-              <type>Floor</type>
-            </item>
-            <item>
-              <actionDate>2026-06-04</actionDate>
               <type>IntroReferral</type>
               <actionCode>Intro-S</actionCode>
               <sourceSystem>
@@ -16479,16 +16478,6 @@
               <text>Senate amendment submitted</text>
               <type>Floor</type>
               <actionCode>91000</actionCode>
-              <sourceSystem>
-                <code>9</code>
-                <name>Library of Congress</name>
-              </sourceSystem>
-            </item>
-            <item>
-              <actionDate>2026-06-04</actionDate>
-              <text>Senate amendment proposed (on the floor): Amendment SA 5556 proposed by Senator Warner to Amendment SA 5453.</text>
-              <type>Floor</type>
-              <actionCode>93000</actionCode>
               <sourceSystem>
                 <code>9</code>
                 <name>Library of Congress</name>
@@ -24238,7 +24227,7 @@
     </textVersions>
     <latestAction>
       <actionDate>2026-06-05</actionDate>
-      <text>Passed Senate with an amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 163.</text>
+      <text>Message on Senate action sent to the House.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
