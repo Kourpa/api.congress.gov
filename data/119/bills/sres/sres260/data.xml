@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="260" updated="2026-04-07T16:32:38Z">
+<bill session="119" type="sr" number="260" updated="2026-06-09T10:56:38Z">
   <state datetime="2025-06-02">REFERRED</state>
   <status>
     <introduced datetime="2025-06-02"/>
@@ -14,6 +14,7 @@
     <cosponsor bioguide_id="B001230" joined="2025-06-02"/>
     <cosponsor bioguide_id="B001277" joined="2025-06-02"/>
     <cosponsor bioguide_id="B001288" joined="2025-06-02"/>
+    <cosponsor bioguide_id="D000622" joined="2026-06-08"/>
     <cosponsor bioguide_id="G000574" joined="2025-06-02"/>
     <cosponsor bioguide_id="H001046" joined="2025-06-02"/>
     <cosponsor bioguide_id="H001042" joined="2025-06-02"/>
@@ -27,13 +28,16 @@
     <action datetime="2025-06-02">
       <text>Introduced in Senate</text>
     </action>
+    <action datetime="2025-06-02">
+      <text>Submitted in Senate</text>
+    </action>
     <action datetime="2025-06-02" state="REFERRED">
       <text>Referred to the Committee on the Judiciary.</text>
       <reference ref="CR S3172-3173" label="text"/>
     </action>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="457" relation="identical"/>

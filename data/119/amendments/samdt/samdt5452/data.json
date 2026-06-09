@@ -18,19 +18,14 @@
       "acted_at": "2026-06-04",
       "action_code": "",
       "references": [],
-      "text": "Point of order that the amendment violates section 305(f) of the CBA raised in Senate with respect to amendment SA 5452.",
+      "text": "Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 5452.",
       "type": "action"
     },
     {
       "acted_at": "2026-06-04",
       "action_code": "",
-      "references": [
-        {
-          "reference": "CR S2549-2551",
-          "type": "consideration"
-        }
-      ],
-      "text": "Amendment SA 5452 proposed by Senator Tillis.",
+      "references": [],
+      "text": "Amendment SA 5452 proposed by Senator Tillis to Amendment SA 5453. (consideration: CR S2549-2551) To reallocate funds that would have been used for the Anti-Weaponization Fund to fraud enforcement.",
       "type": "action"
     },
     {
@@ -44,7 +39,7 @@
       "acted_at": "2026-06-04",
       "action_code": "93000",
       "references": [],
-      "text": "Senate amendment proposed (on the floor): Amendment SA 5452 proposed by Senator Tillis.",
+      "text": "Senate amendment proposed (on the floor): Amendment SA 5452 proposed by Senator Tillis to Amendment SA 5453.",
       "type": "action"
     },
     {
@@ -64,7 +59,14 @@
   ],
   "amendment_id": "samdt5452-119",
   "amendment_type": "samdt",
-  "amends_amendment": null,
+  "amends_amendment": {
+    "amendment_id": "samdt5453-119",
+    "amendment_type": "samdt",
+    "congress": 119,
+    "description": "",
+    "number": 5453,
+    "purpose": "In the nature of a substitute."
+  },
   "amends_bill": {
     "bill_id": "s2-119",
     "bill_type": "s",
@@ -88,5 +90,5 @@
   },
   "status": "offered",
   "status_at": "2026-06-02",
-  "updated_at": "2026-06-08T16:21:59Z"
+  "updated_at": "2026-06-09T11:08:40Z"
 }

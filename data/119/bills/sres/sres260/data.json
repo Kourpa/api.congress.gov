@@ -9,6 +9,16 @@
     },
     {
       "acted_at": "2025-06-02",
+      "action_code": "10025",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Submitted in Senate",
+      "type": "action"
+    },
+    {
+      "acted_at": "2025-06-02",
       "action_code": "",
       "committees": [
         "SSJU"
@@ -32,6 +42,7 @@
   "committees": [
     {
       "activity": [
+        "Referred To",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -77,6 +88,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2025-06-02",
       "state": "NJ",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "D000622",
+      "district": null,
+      "name": "Duckworth, Tammy",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-08",
+      "state": "IL",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -163,7 +184,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2025-06-02",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -217,6 +239,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-04-07T16:32:38Z",
+  "updated_at": "2026-06-09T10:56:38Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres260.xml"
 }

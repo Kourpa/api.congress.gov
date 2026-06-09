@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="645" updated="2026-06-09T05:23:21Z">
-  <state datetime="2025-02-20">REFERRED</state>
+<bill session="119" type="s" number="645" updated="2026-06-09T10:58:42Z">
+  <state datetime="2026-06-08">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-02-20"/>
+    <unknown datetime="2026-06-08"/>
   </status>
   <introduced datetime="2025-02-20"/>
   <titles>
+    <title type="display">North Platte Canteen Congressional Gold Medal Act</title>
     <title type="short" as="introduced">North Platte Canteen Congressional Gold Medal Act</title>
     <title type="short" as="passed senate">North Platte Canteen Congressional Gold Medal Act</title>
-    <title type="display">North Platte Canteen Congressional Gold Medal Act</title>
     <title type="official" as="introduced">A bill to award a Congressional Gold Medal, collectively, to the individuals and communities who volunteered or donated items to the North Platte Canteen in North Platte, Nebraska, during World War II from December 25, 1941, to April 1, 1946.</title>
   </titles>
   <sponsor bioguide_id="F000463"/>
@@ -96,9 +96,15 @@
     <action datetime="2025-02-20" state="REFERRED">
       <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
     </action>
+    <action datetime="2026-06-08">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-06-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To, Referred To"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Discharged From, Referred To, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="1502" relation="unknown"/>
