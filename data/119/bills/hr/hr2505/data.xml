@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2505" updated="2025-09-16T08:05:41Z">
-  <state datetime="2025-07-22">REPORTED</state>
+<bill session="119" type="h" number="2505" updated="2026-06-09T08:05:51Z">
+  <state datetime="2026-06-08T15:55:26-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-07-22"/>
+    <unknown datetime="2026-06-08T15:55:26-04:00"/>
   </status>
   <introduced datetime="2025-03-31"/>
   <titles>
@@ -36,6 +36,21 @@
     <action datetime="2025-07-22" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 50 - 0.</text>
     </action>
+    <action datetime="2026-06-08T15:49:31-04:00">
+      <text>Mr. Mast moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-06-08T15:49:40-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-06-08T15:49:41-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2505.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-06-08T15:55:26-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-06-08T15:55:29-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Markup By, Referred To"/>
@@ -57,5 +72,13 @@
     <term name="Trade restrictions"/>
   </subjects>
   <amendments/>
-  <summary date="2025-09-02T16:47:55Z" status="Introduced in House"></summary>
+  <summary date="2025-09-02T16:47:55Z" status="Introduced in House">Block the Use of Transatlantic Technology in Iranian Made Drones Act
+
+This bill requires the Departments of Commerce, State, and Defense to develop plans to prevent Iran from acquiring certain technologies related to unmanned aircraft systems (UAS), also known as drones.
+
+Specifically, the bill requires Commerce to develop a strategy to prevent the illegal export to Iran of certain technologies (including microcontrollers, voltage regulators, and microprocessors) that can be used in the development and operation of UAS.
+
+The State Department must develop a strategy to prevent the export of these technologies to Iran from the United States and allied and partner countries.
+
+Finally, the Department of Defense must develop a range of options that may be employed by the U.S. Armed Forces to counter or deny the ability of Iran to acquire these technologies and other technologies useful for UAS, such as computer-aided design (CAD) software and computer numerical control (CNC) machines.</summary>
 </bill>

@@ -48,6 +48,47 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 50 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-06-08T15:49:31-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Mast moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T15:49:40-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T15:49:41-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2505.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T15:55:26-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-08T15:55:29-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -151,6 +192,8 @@
     "active_at": "2025-07-22",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-08T15:55:26-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-03-31",
@@ -167,8 +210,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-22",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-08T15:55:26-04:00",
   "subjects": [
     "Aviation and airports",
     "Computers and information technology",
@@ -188,7 +231,7 @@
     "as": "Introduced in House",
     "asOf": "2025-03-31",
     "date": "2025-09-02T16:47:55Z",
-    "text": ""
+    "text": "Block the Use of Transatlantic Technology in Iranian Made Drones Act\n\nThis bill requires the Departments of Commerce, State, and Defense to develop plans to prevent Iran from acquiring certain technologies related to unmanned aircraft systems (UAS), also known as drones.\n\nSpecifically, the bill requires Commerce to develop a strategy to prevent the illegal export to Iran of certain technologies (including microcontrollers, voltage regulators, and microprocessors) that can be used in the development and operation of UAS.\n\nThe State Department must develop a strategy to prevent the export of these technologies to Iran from the United States and allied and partner countries.\n\nFinally, the Department of Defense must develop a range of options that may be employed by the U.S. Armed Forces to counter or deny the ability of Iran to acquire these technologies and other technologies useful for UAS, such as computer-aided design (CAD) software and computer numerical control (CNC) machines."
   },
   "titles": [
     {
@@ -220,6 +263,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-09-16T08:05:41Z",
+  "updated_at": "2026-06-09T08:05:51Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2505.xml"
 }

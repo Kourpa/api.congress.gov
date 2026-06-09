@@ -38,6 +38,69 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-06-08T14:56:24-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Gill (TX) moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T14:56:38-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T14:56:39-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 8466.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T15:05:24-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T15:06:08-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T18:31:01-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T18:57:18-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "208",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 208).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-08T18:57:20-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -74,6 +137,8 @@
     "active_at": "2026-04-29",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-08T18:57:18-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-04-23",
@@ -90,8 +155,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-04-29",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-08T18:57:18-04:00",
   "subjects": [
     "Congressional oversight",
     "Disaster relief and insurance",
@@ -136,6 +201,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-03T22:01:20Z",
+  "updated_at": "2026-06-09T08:06:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8466.xml"
 }

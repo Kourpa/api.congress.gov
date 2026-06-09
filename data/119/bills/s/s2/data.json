@@ -167,6 +167,33 @@
       "references": [],
       "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T14:04:44-04:00",
+      "action_code": "H14000",
+      "references": [],
+      "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T14:11:31-04:00",
+      "action_code": "H15000",
+      "references": [],
+      "text": "Held at the desk.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T19:22:01-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1345-119",
+        "hr8312-119",
+        "hr8464-119",
+        "hres1335-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.",
+      "type": "action"
     }
   ],
   "amendments": [
@@ -2414,7 +2441,14 @@
   "number": "2",
   "official_title": "An original bill to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1345-119",
+      "identified_by": "House",
+      "reason": "procedurally related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Secure America Act",
   "sponsor": {
     "bioguide_id": "G000359",
@@ -2475,6 +2509,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-08T16:36:29Z",
+  "updated_at": "2026-06-09T08:06:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2.xml"
 }

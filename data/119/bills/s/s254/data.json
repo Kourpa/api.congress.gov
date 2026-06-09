@@ -161,6 +161,13 @@
       "references": [],
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -198,7 +205,8 @@
   "history": {
     "active": true,
     "active_at": "2025-06-25",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2026-06-08",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-06-03T14:17:39-04:00",
@@ -213,8 +221,8 @@
   "related_bills": [
     {
       "bill_id": "hr5694-119",
-      "identified_by": "CRS",
-      "reason": "identical",
+      "identified_by": "House",
+      "reason": "related",
       "type": "bill"
     }
   ],
@@ -316,6 +324,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-05T05:38:26Z",
+  "updated_at": "2026-06-09T08:06:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s254.xml"
 }

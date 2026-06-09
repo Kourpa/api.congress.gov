@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2" updated="2026-06-08T16:36:29Z">
+<bill session="119" type="s" number="2" updated="2026-06-09T08:06:15Z">
   <state datetime="2026-06-05">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2026-06-05"/>
@@ -61,11 +61,22 @@
     <action datetime="2026-06-05">
       <text>Message on Senate action sent to the House.</text>
     </action>
+    <action datetime="2026-06-08T14:04:44-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2026-06-08T14:11:31-04:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2026-06-08T19:22:01-04:00">
+      <text>Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSBU" name="Senate Budget" subcommittee="" activity="Reported Original Measure"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="1345" relation="procedurally related"/>
+  </relatedbills>
   <subjects>
     <term name="Immigration"/>
     <term name="Advanced technology and technological innovations"/>

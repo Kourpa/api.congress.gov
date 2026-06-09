@@ -58,6 +58,57 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 11 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-06-08",
+      "action_code": "H12200",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on House Administration. H. Rept. 119-689, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T15:36:38-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Griffith moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T15:36:48-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T15:36:50-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6028.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T15:48:07-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-08T15:48:09-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -68,6 +119,7 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
@@ -138,6 +190,8 @@
     "active_at": "2026-05-14",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-08T15:48:07-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-11-12",
@@ -154,8 +208,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-05-14",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-08T15:48:07-04:00",
   "subjects": [
     "Congress",
     "Congressional agencies",
@@ -197,6 +251,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-19T08:05:46Z",
+  "updated_at": "2026-06-09T08:06:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6028.xml"
 }
