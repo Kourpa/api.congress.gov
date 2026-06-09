@@ -48,6 +48,77 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 35 - 1.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-06-08",
+      "action_code": "H12200",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-688, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08",
+      "action_code": "H12300",
+      "committees": [
+        "HSWM"
+      ],
+      "references": [],
+      "text": "Committee on Ways and Means discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "600",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 600.",
+      "type": "calendar",
+      "under": null
+    },
+    {
+      "acted_at": "2026-06-08T14:33:09-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Gill (TX) moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T14:33:11-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T14:33:12-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 8463.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-08T14:39:08-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-08T14:39:13-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -58,18 +129,20 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Ways and Means",
+      "committee_id": "HSWM"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Oversight and Government Reform",
       "committee_id": "HSGO"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Ways and Means",
-      "committee_id": "HSWM"
     }
   ],
   "congress": "119",
@@ -111,6 +184,8 @@
     "active_at": "2026-04-29",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-08T14:39:08-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-04-23",
@@ -127,8 +202,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-04-29",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-08T14:39:08-04:00",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Congressional oversight",
@@ -174,6 +249,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-05T16:07:13Z",
+  "updated_at": "2026-06-09T08:06:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8463.xml"
 }

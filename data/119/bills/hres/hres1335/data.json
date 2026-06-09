@@ -20,6 +20,19 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Oversight and Government Reform.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-08T19:22:01-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1345-119",
+        "hr8312-119",
+        "hr8464-119",
+        "s2-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -38,6 +51,16 @@
   ],
   "congress": "119",
   "cosponsors": [
+    {
+      "bioguide_id": "B000825",
+      "district": "4",
+      "name": "Boebert, Lauren",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-08",
+      "state": "CO",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
     {
       "bioguide_id": "C001132",
       "district": "2",
@@ -81,7 +104,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-08T19:22:01-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -90,7 +114,14 @@
   "number": "1335",
   "official_title": "Condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1345-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "F000246",
@@ -128,6 +159,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-06-05T15:06:09Z",
+  "updated_at": "2026-06-09T08:06:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1335.xml"
 }

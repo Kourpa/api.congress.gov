@@ -58,6 +58,19 @@
       "text": "Placed on the Union Calendar, Calendar No. 597.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-06-08T19:22:01-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1345-119",
+        "hr8312-119",
+        "hres1335-119",
+        "s2-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -113,7 +126,14 @@
   "number": "8464",
   "official_title": "To amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1345-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Stopping Fraudulent Payments Act",
   "sponsor": {
     "bioguide_id": "C001108",
@@ -167,6 +187,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-08T16:35:26Z",
+  "updated_at": "2026-06-09T08:06:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8464.xml"
 }
