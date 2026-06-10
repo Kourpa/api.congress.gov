@@ -17,6 +17,51 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Education and Workforce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-09T17:31:42-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1140-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1140.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T17:32:05-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 5408.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T18:26:01-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T19:06:36-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "216",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 230 - 193 (Roll no. 216).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-09T19:06:39-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -236,6 +281,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C001123",
+      "district": "31",
+      "name": "Cisneros, Gilbert Ray",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-09",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "C001061",
       "district": "5",
       "name": "Cleaver, Emanuel",
@@ -272,6 +327,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2026-04-27",
       "state": "NC",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "D000216",
+      "district": "3",
+      "name": "DeLauro, Rosa L.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-09",
+      "state": "CT",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -1118,9 +1183,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-09T17:31:42-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-09T19:06:36-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-09-16",
@@ -1133,6 +1201,12 @@
       "identified_by": "CRS",
       "reason": "identical",
       "type": "bill"
+    },
+    {
+      "bill_id": "hres1140-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
     }
   ],
   "short_title": "Faster Labor Contracts Act",
@@ -1144,8 +1218,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-09-16",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-09T19:06:36-04:00",
   "subjects": [
     "Alternative dispute resolution, mediation, arbitration",
     "Congressional oversight",
@@ -1179,6 +1253,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-09T08:06:23Z",
+  "updated_at": "2026-06-10T08:07:35Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5408.xml"
 }

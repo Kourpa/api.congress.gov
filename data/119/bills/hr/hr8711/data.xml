@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="8711" updated="2026-05-13T21:17:03Z">
+<bill session="119" type="h" number="8711" updated="2026-06-10T08:07:34Z">
   <state datetime="2026-05-07">REFERRED</state>
   <status>
     <introduced datetime="2026-05-07"/>
@@ -21,10 +21,14 @@
     <action datetime="2026-05-07">
       <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-05-08">
+      <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM08" name="House Homeland Security" subcommittee="Cybersecurity and Infrastructure Protection" activity="Referral"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5408" updated="2026-06-09T08:06:23Z">
-  <state datetime="2025-09-16">REFERRED</state>
+<bill session="119" type="h" number="5408" updated="2026-06-10T08:07:35Z">
+  <state datetime="2026-06-09T19:06:36-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-09-16"/>
+    <unknown datetime="2026-06-09T19:06:36-04:00"/>
   </status>
   <introduced datetime="2025-09-16"/>
   <titles>
@@ -31,10 +31,12 @@
     <cosponsor bioguide_id="C001066" joined="2026-04-27"/>
     <cosponsor bioguide_id="C001127" joined="2026-04-20"/>
     <cosponsor bioguide_id="C001080" joined="2026-04-27"/>
+    <cosponsor bioguide_id="C001123" joined="2026-06-09"/>
     <cosponsor bioguide_id="C001061" joined="2026-04-21"/>
     <cosponsor bioguide_id="C001110" joined="2026-04-29"/>
     <cosponsor bioguide_id="C001119" joined="2025-09-16"/>
     <cosponsor bioguide_id="D000230" joined="2026-04-27"/>
+    <cosponsor bioguide_id="D000216" joined="2026-06-09"/>
     <cosponsor bioguide_id="D000530" joined="2025-09-16"/>
     <cosponsor bioguide_id="D000623" joined="2026-04-23"/>
     <cosponsor bioguide_id="D000624" joined="2026-04-20"/>
@@ -127,12 +129,28 @@
     <action datetime="2025-09-16" state="REFERRED">
       <text>Referred to the House Committee on Education and Workforce.</text>
     </action>
+    <action datetime="2026-06-09T17:31:42-04:00">
+      <text>Considered under the provisions of rule H. Res. 1140.</text>
+    </action>
+    <action datetime="2026-06-09T17:32:05-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 5408.</text>
+    </action>
+    <action datetime="2026-06-09T18:26:01-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="216" datetime="2026-06-09T19:06:36-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 230 - 193 (Roll no. 216).</text>
+    </vote>
+    <action datetime="2026-06-09T19:06:39-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="844" relation="identical"/>
+    <bill session="119" type="hr" number="1140" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Labor and employment"/>

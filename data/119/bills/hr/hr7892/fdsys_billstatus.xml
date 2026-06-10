@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7892</number>
-    <updateDate>2026-06-05T23:21:23Z</updateDate>
-    <updateDateIncludingText>2026-06-05T23:21:23Z</updateDateIncludingText>
+    <updateDate>2026-06-10T08:09:21Z</updateDate>
+    <updateDateIncludingText>2026-06-10T08:09:21Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -79,6 +79,61 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>19:44:18</actionTime>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 7892, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Mr. Scott (VA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>19:43:45</actionTime>
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>19:10:52</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H.R. 7892.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>19:09:43</actionTime>
+        <text>Rule provides for consideration of H.R. 8646, H.R. 7726, H.R. 7892 and H.R. 8872. The resolution provides for consideration of H.R. 8646 under a structured rule and H.R. 7726, H.R. 7892, and H.R. 8872 under a closed rule, with one hour of general debate on each bill. The resolution provides for one motion to recommit on each bill.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>19:09:38</actionTime>
+        <text>Considered under the provisions of rule H. Res. 1333.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2026-06-03</actionDate>
         <actionTime>09:18:44</actionTime>
@@ -347,6 +402,92 @@
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>227</number>
+        <congress>119</congress>
+        <type>HAMDT</type>
+        <description>Pursuant to the provisions of H. Res. 1333, in lieu of the amendment in the nature of a substitute recommended by the Committee on Education and Workforce now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 119-31 is considered adopted.</description>
+        <updateDate>2026-06-10T08:09:21Z</updateDate>
+        <latestAction>
+          <actionDate>2026-06-09</actionDate>
+          <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+        </latestAction>
+        <sponsors>
+          <item>
+            <name>Rules Committee</name>
+          </item>
+        </sponsors>
+        <submittedDate>2026-06-09T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>7892</number>
+          <title>No Aid for Ghost Students Act of 2026</title>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-06-09</actionDate>
+              <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-06-09</actionDate>
+              <text>Amendment in the nature of a substitute reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+            <item>
+              <actionDate>2026-06-09</actionDate>
+              <text>House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+            <item>
+              <actionDate>2026-06-09</actionDate>
+              <text>House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Reported in House</type>
@@ -368,9 +509,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-06-03</actionDate>
-      <text>Rules Committee Resolution H. Res. 1333 Reported to House. Rule provides for consideration of H.R. 8646, H.R. 7726, H.R. 7892 and H.R. 8872. The resolution provides for consideration of H.R. 8646 under a structured rule and H.R. 7726, H.R. 7892, and H.R. 8872 under a closed rule, with one hour of general debate on each bill. The resolution provides for one motion to recommit on each bill.</text>
-      <actionTime>09:18:44</actionTime>
+      <actionDate>2026-06-09</actionDate>
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 7892, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Mr. Scott (VA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+      <actionTime>19:44:18</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

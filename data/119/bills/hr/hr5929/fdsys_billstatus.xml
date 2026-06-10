@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5929</number>
-    <updateDate>2026-04-22T08:07:36Z</updateDate>
-    <updateDateIncludingText>2026-04-22T08:07:36Z</updateDateIncludingText>
+    <updateDate>2026-06-10T08:07:52Z</updateDate>
+    <updateDateIncludingText>2026-06-10T08:07:52Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -40,6 +40,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-06-09T19:42:41Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-04-21T17:30:00Z</date>
           </item>
@@ -51,6 +55,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 602.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00602</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-692.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-692.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-04-21</actionDate>
         <committees>
@@ -238,13 +287,23 @@
         <updateDate>2026-04-09T18:42:31Z</updateDate>
       </policyArea>
     </subjects>
-    <title>Critical Minerals Supply Chain Resiliency Act</title>
+    <title>Critical Minerals Supply Chain Resiliency Act of 2026</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>Critical Minerals Supply Chain Resiliency Act</title>
-        <updateDate>2025-11-11T07:08:16Z</updateDate>
+        <title>Critical Minerals Supply Chain Resiliency Act of 2026</title>
+        <updateDate>2026-06-10T07:08:27Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Critical Minerals Supply Chain Resiliency Act of 2026</title>
+        <updateDate>2026-06-10T07:08:26Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -265,6 +324,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-06-09T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr5929rh/xml/BILLS-119hr5929rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-11-07T05:00:00Z</date>
         <formats>
@@ -275,8 +343,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-04-21</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute by Voice Vote.</text>
+      <actionDate>2026-06-09</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 602.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

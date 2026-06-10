@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>8690</number>
-    <updateDate>2026-05-21T17:43:42Z</updateDate>
-    <updateDateIncludingText>2026-05-21T17:43:42Z</updateDateIncludingText>
+    <updateDate>2026-06-10T08:08:02Z</updateDate>
+    <updateDateIncludingText>2026-06-10T08:08:02Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,28 @@
         <name>Homeland Security Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-05-08T17:55:16Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hshm09</systemCode>
+            <name>Oversight, Investigations, and Accountability Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-05-08T17:55:16Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -51,6 +73,36 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-05-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm09</systemCode>
+            <name>Oversight, Investigations, and Accountability Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Oversight, Investigations, and Accountability.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-05-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-05-07</actionDate>
         <text>Referred to the Committee on the Judiciary, and in addition to the Committees on the Budget, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -377,8 +429,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-05-07</actionDate>
-      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on the Budget, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-05-08</actionDate>
+      <text>Referred to the Subcommittee on Oversight, Investigations, and Accountability.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
