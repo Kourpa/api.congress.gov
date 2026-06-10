@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="192" updated="2026-05-27T05:03:27Z">
+<bill session="119" type="sj" number="192" updated="2026-06-10T10:56:29Z">
   <state datetime="2026-05-19">REFERRED</state>
   <status>
     <introduced datetime="2026-05-19"/>
@@ -27,6 +27,7 @@
     <cosponsor bioguide_id="S000033" joined="2026-05-19"/>
     <cosponsor bioguide_id="S001181" joined="2026-05-19"/>
     <cosponsor bioguide_id="S001203" joined="2026-05-19"/>
+    <cosponsor bioguide_id="V000128" joined="2026-06-09"/>
     <cosponsor bioguide_id="W000805" joined="2026-05-19"/>
     <cosponsor bioguide_id="W000817" joined="2026-05-19"/>
   </cosponsors>
@@ -37,9 +38,15 @@
     <action datetime="2026-05-19" state="REFERRED">
       <text>Read twice and referred to the Committee on the Judiciary.</text>
     </action>
+    <action datetime="2026-06-09">
+      <text>Senate Committee on the Judiciary discharged, by petition, pursuant to 5 U.S.C. 802(c).</text>
+    </action>
+    <calendar datetime="2026-06-09" calendar="Senate Legislative" under="General Orders" number="431">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 431.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

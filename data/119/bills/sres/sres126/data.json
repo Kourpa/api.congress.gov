@@ -2,9 +2,12 @@
   "actions": [
     {
       "acted_at": "2025-03-12",
-      "action_code": "10000",
+      "action_code": "10025",
+      "committees": [
+        "SSFR"
+      ],
       "references": [],
-      "text": "Introduced in Senate",
+      "text": "Submitted in Senate",
       "type": "action"
     },
     {
@@ -32,6 +35,7 @@
   "committees": [
     {
       "activity": [
+        "Referred To",
         "Referred To"
       ],
       "committee": "Senate Foreign Relations",
@@ -41,12 +45,32 @@
   "congress": "119",
   "cosponsors": [
     {
+      "bioguide_id": "K000384",
+      "district": null,
+      "name": "Kaine, Tim",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-09",
+      "state": "VA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "R000605",
       "district": null,
       "name": "Rounds, Mike",
       "original_cosponsor": true,
       "sponsored_at": "2025-03-12",
       "state": "SD",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "T000476",
+      "district": null,
+      "name": "Tillis, Thomas",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-09",
+      "state": "NC",
       "title": "Sen.",
       "withdrawn_at": null
     }
@@ -95,6 +119,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-05-07T16:53:49Z",
+  "updated_at": "2026-06-10T11:22:41Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres126.xml"
 }
