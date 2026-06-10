@@ -194,6 +194,100 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T14:41:52-04:00",
+      "action_code": "H1L220",
+      "bill_ids": [
+        "hres1345-119"
+      ],
+      "references": [],
+      "text": "Rule H. Res. 1345 passed House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T15:04:42-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1345-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1345.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T15:04:47-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr8312-119",
+        "hr8464-119",
+        "hres1335-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T15:05:03-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on S. 2.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T16:37:40-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T16:38:03-04:00",
+      "action_code": "H36200",
+      "committees": [
+        "HSBU"
+      ],
+      "references": [],
+      "text": "Mr. Boyle (PA) moved to commit to the Committee on the Budget.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T16:38:20-04:00",
+      "action_code": "H8A000",
+      "references": [],
+      "text": "The previous question on the motion to commit was ordered pursuant to clause 2(b) of rule XIX.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T17:11:46-04:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSBU"
+      ],
+      "references": [],
+      "text": "On motion to commit Failed by the Yeas and Nays: 211 - 215 (Roll no. 213).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-09T17:24:17-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "214",
+      "status": "PASSED:BILL",
+      "suspension": null,
+      "text": "On passage Passed by recorded vote: 214 - 212 (Roll no. 214).",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-09T17:24:19-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [
@@ -2419,6 +2513,14 @@
   "committees": [
     {
       "activity": [
+        "Unknown",
+        "Unknown"
+      ],
+      "committee": "House Budget",
+      "committee_id": "HSBU"
+    },
+    {
+      "activity": [
         "Reported Original Measure"
       ],
       "committee": "Senate Budget",
@@ -2433,6 +2535,8 @@
     "active_at": "2026-05-20",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-09T17:24:17-04:00",
     "senate_passage_result": "pass",
     "senate_passage_result_at": "2026-06-05",
     "vetoed": false
@@ -2447,6 +2551,12 @@
       "identified_by": "House",
       "reason": "procedurally related",
       "type": "bill"
+    },
+    {
+      "bill_id": "sconres33-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
     }
   ],
   "short_title": "Secure America Act",
@@ -2458,8 +2568,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASS_OVER:SENATE",
-  "status_at": "2026-06-05",
+  "status": "PASSED:BILL",
+  "status_at": "2026-06-09T17:24:17-04:00",
   "subjects": [
     "Advanced technology and technological innovations",
     "Border security and unlawful immigration",
@@ -2481,13 +2591,6 @@
   },
   "titles": [
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Secure America Act",
-      "type": "display"
-    },
-    {
       "as": "senate calendar) bill text",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -2502,6 +2605,20 @@
       "type": "short"
     },
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Secure America Act",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Secure America Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -2509,6 +2626,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-09T23:06:22Z",
+  "updated_at": "2026-06-10T08:07:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2.xml"
 }

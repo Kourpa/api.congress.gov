@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2</number>
-    <updateDate>2026-06-09T23:06:22Z</updateDate>
-    <updateDateIncludingText>2026-06-09T23:06:22Z</updateDateIncludingText>
+    <updateDate>2026-06-10T08:07:24Z</updateDate>
+    <updateDateIncludingText>2026-06-10T08:07:24Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -12,6 +12,22 @@
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/2</legislationUrl>
     <committees>
+      <item>
+        <systemCode>hsbu00</systemCode>
+        <name>Budget Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Unknown</name>
+            <date>2026-06-09T21:11:46Z</date>
+          </item>
+          <item>
+            <name>Unknown</name>
+            <date>2026-06-09T20:38:03Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>ssbu00</systemCode>
         <name>Budget Committee</name>
@@ -32,8 +48,9 @@
         <number>1345</number>
         <type>HRES</type>
         <latestAction>
-          <actionDate>2026-06-08</actionDate>
-          <text>Placed on the House Calendar, Calendar No. 79.</text>
+          <actionDate>2026-06-09</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>14:41:53</actionTime>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -42,8 +59,187 @@
           </item>
         </relationshipDetails>
       </item>
+      <item>
+        <title>A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2026 and setting forth the appropriate budgetary levels for fiscal years 2027 through 2035.</title>
+        <congress>119</congress>
+        <number>33</number>
+        <type>SCONRES</type>
+        <latestAction>
+          <actionDate>2026-05-20</actionDate>
+          <text>Committee on the Budget. Ordered to be reported without amendment favorably.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>17:24:19</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>17:24:17</actionTime>
+        <text>On passage Passed by recorded vote: 214 - 212 (Roll no. 214).</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>214</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll214.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-06-09T21:24:17Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>17:24:17</actionTime>
+        <text>Passed/agreed to in House: On passage Passed by recorded vote: 214 - 212 (Roll no. 214).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>214</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll214.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-06-09T21:24:17Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>17:11:46</actionTime>
+        <text>On motion to commit Failed by the Yeas and Nays: 211 - 215 (Roll no. 213).</text>
+        <type>Floor</type>
+        <actionCode>H36210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>213</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll213.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-06-09T21:11:46Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>16:38:20</actionTime>
+        <text>The previous question on the motion to commit was ordered pursuant to clause 2(b) of rule XIX.</text>
+        <type>Floor</type>
+        <actionCode>H8A000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>16:38:03</actionTime>
+        <text>Mr. Boyle (PA) moved to commit to the Committee on the Budget.</text>
+        <type>Floor</type>
+        <actionCode>H36200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsbu00</systemCode>
+            <name>Budget Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>16:37:40</actionTime>
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>15:05:03</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on S. 2.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>15:04:47</actionTime>
+        <text>Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>15:04:42</actionTime>
+        <text>Considered under the provisions of rule H. Res. 1345.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-09</actionDate>
+        <actionTime>14:41:52</actionTime>
+        <text>Rule H. Res. 1345 passed House.</text>
+        <type>Floor</type>
+        <actionCode>H1L220</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2026-06-08</actionDate>
         <actionTime>19:22:01</actionTime>
@@ -404,6 +600,16 @@
     <title>Secure America Act</title>
     <titles>
       <item>
+        <titleType>Short Titles from ENR (Enrolled) bill text</titleType>
+        <titleTypeCode>147</titleTypeCode>
+        <title>Secure America Act</title>
+        <updateDate>2026-06-10T05:38:24Z</updateDate>
+        <chamberCode>J</chamberCode>
+        <chamberName>Joint</chamberName>
+        <billTextVersionName>Enrolled Bill</billTextVersionName>
+        <billTextVersionCode>ENR</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Secure America Act</title>
@@ -488,7 +694,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -664,7 +870,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -815,7 +1021,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -883,7 +1089,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -951,7 +1157,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -1039,7 +1245,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -1329,7 +1535,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -1739,7 +1945,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -1894,7 +2100,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -1971,7 +2177,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -2142,7 +2348,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -2279,7 +2485,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2333,7 +2539,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2388,7 +2594,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -2450,7 +2656,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2504,7 +2710,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -2579,7 +2785,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2633,7 +2839,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -2687,7 +2893,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -2745,7 +2951,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -2806,7 +3012,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -2867,7 +3073,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -2928,7 +3134,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -2989,7 +3195,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -3050,7 +3256,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -3125,7 +3331,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3179,7 +3385,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -3254,7 +3460,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -3316,7 +3522,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -3377,7 +3583,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3432,7 +3638,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3487,7 +3693,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -3542,7 +3748,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -3604,7 +3810,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -3723,7 +3929,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -3860,7 +4066,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -3921,7 +4127,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -3982,7 +4188,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4036,7 +4242,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4090,7 +4296,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4144,7 +4350,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4198,7 +4404,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -4259,7 +4465,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -4320,7 +4526,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -4381,7 +4587,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4435,7 +4641,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4490,7 +4696,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -4544,7 +4750,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -4605,7 +4811,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -4666,7 +4872,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -4754,7 +4960,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -4893,7 +5099,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -4954,7 +5160,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -5015,7 +5221,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -5076,7 +5282,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -5137,7 +5343,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -5192,7 +5398,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -5254,7 +5460,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -5316,7 +5522,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -5377,7 +5583,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -5438,7 +5644,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -5499,7 +5705,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -5560,7 +5766,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -5614,7 +5820,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -5668,7 +5874,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -5722,7 +5928,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -5777,7 +5983,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -5846,7 +6052,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -5901,7 +6107,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -5963,7 +6169,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -6025,7 +6231,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -6087,7 +6293,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -6142,7 +6348,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -6244,7 +6450,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -6381,7 +6587,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -6435,7 +6641,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -6496,7 +6702,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -6557,7 +6763,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -6618,7 +6824,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -6679,7 +6885,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -6733,7 +6939,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -6787,7 +6993,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -6848,7 +7054,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -6902,7 +7108,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -6956,7 +7162,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -7031,7 +7237,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -7093,7 +7299,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -7154,7 +7360,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -7208,7 +7414,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -7269,7 +7475,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -7323,7 +7529,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -7377,7 +7583,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -7431,7 +7637,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -7485,7 +7691,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -7539,7 +7745,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -7600,7 +7806,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -7654,7 +7860,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -7708,7 +7914,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -7762,7 +7968,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -7816,7 +8022,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -7877,7 +8083,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -7938,7 +8144,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -7992,7 +8198,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8046,7 +8252,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8100,7 +8306,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8154,7 +8360,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8208,7 +8414,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8262,7 +8468,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8316,7 +8522,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8370,7 +8576,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8424,7 +8630,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8478,7 +8684,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8532,7 +8738,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8586,7 +8792,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8640,7 +8846,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8694,7 +8900,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8748,7 +8954,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8802,7 +9008,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8856,7 +9062,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8910,7 +9116,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8964,7 +9170,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9018,7 +9224,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9072,7 +9278,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9126,7 +9332,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9180,7 +9386,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9234,7 +9440,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9288,7 +9494,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9342,7 +9548,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9396,7 +9602,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9450,7 +9656,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9504,7 +9710,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9558,7 +9764,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9612,7 +9818,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9666,7 +9872,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9720,7 +9926,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9774,7 +9980,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9828,7 +10034,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9882,7 +10088,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9936,7 +10142,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9990,7 +10196,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10044,7 +10250,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10098,7 +10304,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10152,7 +10358,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10206,7 +10412,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10260,7 +10466,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10314,7 +10520,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10368,7 +10574,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10422,7 +10628,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10477,7 +10683,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10532,7 +10738,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -10593,7 +10799,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -10654,7 +10860,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10708,7 +10914,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10762,7 +10968,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -10823,7 +11029,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -10884,7 +11090,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -10945,7 +11151,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10999,7 +11205,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -11060,7 +11266,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11115,7 +11321,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -11177,7 +11383,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11231,7 +11437,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -11292,7 +11498,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -11353,7 +11559,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11421,7 +11627,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -11496,7 +11702,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -11558,7 +11764,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -11924,7 +12130,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -11985,7 +12191,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12039,7 +12245,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12093,7 +12299,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -12154,7 +12360,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -12215,7 +12421,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -12276,7 +12482,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12330,7 +12536,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -12391,7 +12597,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12446,7 +12652,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -12522,7 +12728,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12576,7 +12782,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12630,7 +12836,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12684,7 +12890,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12761,7 +12967,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -12898,7 +13104,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12953,7 +13159,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -13028,7 +13234,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13083,7 +13289,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -13145,7 +13351,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -13207,7 +13413,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -13269,7 +13475,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -13331,7 +13537,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13385,7 +13591,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13439,7 +13645,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13493,7 +13699,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13547,7 +13753,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13601,7 +13807,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13655,7 +13861,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13709,7 +13915,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13763,7 +13969,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13817,7 +14023,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -13878,7 +14084,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13932,7 +14138,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13986,7 +14192,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -14047,7 +14253,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -14108,7 +14314,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14162,7 +14368,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -14223,7 +14429,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14277,7 +14483,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -14338,7 +14544,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -14399,7 +14605,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -14460,7 +14666,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -14521,7 +14727,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -14582,7 +14788,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14636,7 +14842,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14690,7 +14896,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -14751,7 +14957,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14805,7 +15011,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -14867,7 +15073,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14922,7 +15128,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14977,7 +15183,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15032,7 +15238,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15087,7 +15293,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15142,7 +15348,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15197,7 +15403,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15252,7 +15458,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15307,7 +15513,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15361,7 +15567,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15415,7 +15621,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15469,7 +15675,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15523,7 +15729,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15577,7 +15783,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15631,7 +15837,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15685,7 +15891,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15739,7 +15945,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15793,7 +15999,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15847,7 +16053,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15901,7 +16107,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -15955,7 +16161,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16009,7 +16215,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16063,7 +16269,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16131,7 +16337,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16186,7 +16392,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16240,7 +16446,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -16302,7 +16508,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16357,7 +16563,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16426,7 +16632,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16480,7 +16686,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16558,7 +16764,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16612,7 +16818,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16666,7 +16872,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16720,7 +16926,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16774,7 +16980,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16828,7 +17034,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16882,7 +17088,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16936,7 +17142,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -16990,7 +17196,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -17051,7 +17257,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -17112,7 +17318,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -17211,7 +17417,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -17343,7 +17549,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -17397,7 +17603,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -17451,7 +17657,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -17512,7 +17718,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -17573,7 +17779,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -17627,7 +17833,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -17688,7 +17894,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -17742,7 +17948,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -17803,7 +18009,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -17857,7 +18063,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -17948,7 +18154,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -18085,7 +18291,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18139,7 +18345,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18193,7 +18399,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18247,7 +18453,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18301,7 +18507,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18355,7 +18561,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18409,7 +18615,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18463,7 +18669,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18517,7 +18723,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18594,7 +18800,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -18731,7 +18937,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18785,7 +18991,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18839,7 +19045,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18893,7 +19099,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -18947,7 +19153,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19001,7 +19207,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19055,7 +19261,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -19116,7 +19322,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19170,7 +19376,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19239,7 +19445,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -19300,7 +19506,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19354,7 +19560,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19453,7 +19659,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19507,7 +19713,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19561,7 +19767,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19615,7 +19821,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19669,7 +19875,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19723,7 +19929,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19777,7 +19983,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -19909,7 +20115,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -20001,7 +20207,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -20138,7 +20344,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -20215,7 +20421,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -20352,7 +20558,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -20414,7 +20620,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -20476,7 +20682,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -20552,7 +20758,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -20642,7 +20848,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -20738,7 +20944,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -20878,7 +21084,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -20954,7 +21160,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -21023,7 +21229,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -21077,7 +21283,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -21176,7 +21382,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>8</count>
@@ -21307,7 +21513,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -21369,7 +21575,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -21424,7 +21630,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -21479,7 +21685,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -21534,7 +21740,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -21589,7 +21795,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -21644,7 +21850,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -21699,7 +21905,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -21767,7 +21973,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -21835,7 +22041,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -21889,7 +22095,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -21950,7 +22156,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -22025,7 +22231,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -22086,7 +22292,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -22147,7 +22353,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -22231,7 +22437,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -22368,7 +22574,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -22423,7 +22629,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -22478,7 +22684,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -22568,7 +22774,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -22623,7 +22829,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -22678,7 +22884,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -22733,7 +22939,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -22788,7 +22994,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -22842,7 +23048,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -22896,7 +23102,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -22950,7 +23156,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23004,7 +23210,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23072,7 +23278,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23140,7 +23346,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23194,7 +23400,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23248,7 +23454,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23302,7 +23508,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23356,7 +23562,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23410,7 +23616,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23465,7 +23671,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23533,7 +23739,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23614,7 +23820,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -23754,7 +23960,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23809,7 +24015,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23864,7 +24070,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23919,7 +24125,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -23974,7 +24180,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -24052,7 +24258,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -24189,7 +24395,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -24243,7 +24449,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -24298,7 +24504,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -24384,7 +24590,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendmentsToAmendment>
           <count>125</count>
@@ -24512,7 +24718,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -24672,7 +24878,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>5453</number>
@@ -24809,7 +25015,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -24863,7 +25069,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -24917,7 +25123,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -24971,7 +25177,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -25025,7 +25231,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -25079,7 +25285,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2</number>
           <title>Secure America Act</title>
-          <updateDateIncludingText>2026-06-09</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-10</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -25112,6 +25318,19 @@
     </amendments>
     <textVersions>
       <item>
+        <type>Enrolled Bill</type>
+        <date/>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119s2enr/uslm/BILLS-119s2enr.xml</url>
+            <type>United States Legislative Markup</type>
+          </item>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119s2enr/xml/BILLS-119s2enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Engrossed in Senate</type>
         <date>2026-06-05T04:00:00Z</date>
         <formats>
@@ -25131,9 +25350,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-06-08</actionDate>
-      <text>Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.</text>
-      <actionTime>19:22:01</actionTime>
+      <actionDate>2026-06-09</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>17:24:19</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
