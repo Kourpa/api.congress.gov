@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8464" updated="2026-06-10T20:41:34Z">
-  <state datetime="2026-04-29">REPORTED</state>
+<bill session="119" type="h" number="8464" updated="2026-06-11T08:09:22Z">
+  <state datetime="2026-06-10T16:33:08-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-04-29"/>
+    <unknown datetime="2026-06-10T16:33:08-04:00"/>
   </status>
   <introduced datetime="2026-04-23"/>
   <titles>
@@ -37,9 +37,42 @@
     <action datetime="2026-06-08T19:22:01-04:00">
       <text>Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.</text>
     </action>
+    <action datetime="2026-06-10T12:38:24-04:00">
+      <text>Considered under the provisions of rule H. Res. 1345.</text>
+    </action>
+    <action datetime="2026-06-10T12:38:29-04:00">
+      <text>Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.</text>
+    </action>
+    <action datetime="2026-06-10T12:38:58-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 8464.</text>
+    </action>
+    <action datetime="2026-06-10T12:59:56-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-06-10T13:00:31-04:00">
+      <text>Mr. McGarvey moved to recommit to the Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2026-06-10T13:00:46-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-06-10T13:01:09-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 8464, the Chair put the question on motion to recommit and by voice vote, announced the ayes had prevailed. Mr. Comer demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-06-10T16:17:39-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-06-10T16:24:52-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 209 - 213 (Roll no. 219).</text>
+    </action>
+    <vote how="roll" type="vote" roll="220" datetime="2026-06-10T16:33:08-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 218 - 200 (Roll no. 220).</text>
+    </vote>
+    <action datetime="2026-06-10T16:33:10-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Reported By, Markup By, Referred To"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="1345" relation="unknown"/>
@@ -49,7 +82,9 @@
     <term name="Fraud offenses and financial crimes"/>
     <term name="Government information and archives"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h229"/>
+  </amendments>
   <summary date="2026-06-05T19:14:42Z" status="Reported to House">Stopping Fraudulent Payments Act
 
 This bill establishes requirements to prevent fraudulent or improper payments from federal programs.

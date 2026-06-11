@@ -114,6 +114,34 @@
       "references": [],
       "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 7892, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Mr. Scott (VA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-06-10T15:38:26-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-10T16:10:15-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "217",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 249 - 172 (Roll no. 217).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-10T16:10:16-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [
@@ -190,6 +218,8 @@
     "active_at": "2026-03-17",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-10T16:10:15-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-03-12",
@@ -219,8 +249,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-03-17",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-10T16:10:15-04:00",
   "subjects": [
     "Computer security and identity theft",
     "Computers and information technology",
@@ -267,6 +297,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-10T08:09:21Z",
+  "updated_at": "2026-06-11T08:07:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7892.xml"
 }

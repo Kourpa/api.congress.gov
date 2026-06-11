@@ -71,9 +71,87 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-06-10T12:11:49-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1345-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1345.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-10T12:11:54-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr8464-119",
+        "hres1335-119",
+        "s2-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-10T12:12:38-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 8312.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-10T12:37:00-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-10T12:37:47-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 8312, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Walkinshaw demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-10T16:10:23-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-10T16:17:26-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "218",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 240 - 181 (Roll no. 218).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-10T16:17:27-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt228-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "228"
+    }
+  ],
   "bill_id": "hr8312-119",
   "bill_type": "hr",
   "by_request": false,
@@ -110,6 +188,8 @@
     "active_at": "2026-04-29",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-10T16:17:26-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-04-15",
@@ -133,8 +213,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-04-29",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-10T16:17:26-04:00",
   "subjects": [
     "Accounting and auditing",
     "Advisory bodies",
@@ -186,6 +266,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-10T20:41:34Z",
+  "updated_at": "2026-06-11T08:09:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8312.xml"
 }

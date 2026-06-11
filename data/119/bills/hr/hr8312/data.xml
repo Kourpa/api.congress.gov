@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8312" updated="2026-06-10T20:41:34Z">
-  <state datetime="2026-04-29">REPORTED</state>
+<bill session="119" type="h" number="8312" updated="2026-06-11T08:09:22Z">
+  <state datetime="2026-06-10T16:17:26-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-04-29"/>
+    <unknown datetime="2026-06-10T16:17:26-04:00"/>
   </status>
   <introduced datetime="2026-04-15"/>
   <titles>
@@ -36,6 +36,30 @@
     <action datetime="2026-06-08T19:22:01-04:00">
       <text>Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.</text>
     </action>
+    <action datetime="2026-06-10T12:11:49-04:00">
+      <text>Considered under the provisions of rule H. Res. 1345.</text>
+    </action>
+    <action datetime="2026-06-10T12:11:54-04:00">
+      <text>Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.</text>
+    </action>
+    <action datetime="2026-06-10T12:12:38-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 8312.</text>
+    </action>
+    <action datetime="2026-06-10T12:37:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-06-10T12:37:47-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 8312, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Walkinshaw demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-06-10T16:10:23-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="218" datetime="2026-06-10T16:17:26-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 240 - 181 (Roll no. 218).</text>
+    </vote>
+    <action datetime="2026-06-10T16:17:27-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -57,7 +81,9 @@
     <term name="Intergovernmental relations"/>
     <term name="Internet, web applications, social media"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h228"/>
+  </amendments>
   <summary date="2026-06-06T20:58:50Z" status="Reported to House">Fraud Prevention and Accountability Act
 
 This bill (1) assigns financial integrity, improper payment prevention, and spending transparency functions to the Bureau of the Fiscal Service (BFS) within the Department of the Treasury; (2) establishes an Office of the Inspector General for Fraud, Accountability, and Recovery (OIGFAR) within Treasury; and (3) requires Treasury to enter into data sharing agreements with other federal agencies and allowable private entities to prevent fraud and improper payments.
