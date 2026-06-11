@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="3041" updated="2026-06-11T03:08:22Z">
-  <state datetime="2026-05-14">REPORTED</state>
+<bill session="119" type="s" number="3041" updated="2026-06-11T14:29:11Z">
+  <state datetime="2026-06-10">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-05-14"/>
+    <unknown datetime="2026-06-10"/>
   </status>
   <introduced datetime="2025-10-23"/>
   <titles>
+    <title type="display">Tribal Warrant Fairness Act</title>
     <title type="short" as="introduced">Tribal Warrant Fairness Act</title>
     <title type="short" as="reported to senate">Tribal Warrant Fairness Act</title>
     <title type="short" as="passed senate">Tribal Warrant Fairness Act</title>
-    <title type="display">Tribal Warrant Fairness Act</title>
     <title type="official" as="introduced">A bill to allow the U.S. Marshals Service to assist in certain Tribal criminal matters, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001113"/>
@@ -45,6 +45,11 @@
     <calendar datetime="2026-05-19" calendar="Senate Legislative" under="General Orders" number="412">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 412.</text>
     </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="2026-06-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+      <reference ref="CR S2723-2724, S2727" label="consideration"/>
+      <reference ref="CR S2723-2724" label="text of amendment in the nature of a substitute"/>
+    </vote>
   </actions>
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To, Referred To"/>

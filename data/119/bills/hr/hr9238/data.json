@@ -38,7 +38,16 @@
     {
       "acted_at": "2026-06-10T17:41:48-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4079-4083",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H4079",
+          "type": "text"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -104,9 +113,16 @@
   },
   "status": "REFERRED",
   "status_at": "2026-06-10",
-  "subjects": [],
-  "subjects_top_term": null,
-  "summary": null,
+  "subjects": [
+    "Armed forces and national security"
+  ],
+  "subjects_top_term": "Armed forces and national security",
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2026-06-10",
+    "date": "2026-06-11T13:54:19Z",
+    "text": "This\u00a0bill extends the authorities of Title VII of the Foreign Intelligence Surveillance Act (FISA) until July 2, 2026.\n\nTitle VII of\u00a0FISA generally addresses electronic surveillance and other methods of acquiring foreign intelligence information that are directed at targets outside the United States. Title VII includes surveillance under\u00a0Section 702, which concerns acquiring communications of non-U.S. persons believed to be outside the United States to obtain foreign intelligence information. Information about U.S. persons may incidentally be acquired by this type of surveillance and subsequently queried (searched)\u00a0under certain circumstances.\n\nFor additional information, see\n\nCRS In Focus, IF11451 Foreign Intelligence Surveillance Act (FISA); andCRS Report, R48592 FISA Section 702 and the 2024 Reforming Intelligence and Securing America Act."
+  },
   "titles": [
     {
       "as": null,
@@ -123,6 +139,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-11T08:07:16Z",
+  "updated_at": "2026-06-11T15:09:54Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9238.xml"
 }

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="5408" updated="2026-06-11T03:08:22Z">
+<bill session="119" type="h" number="5408" updated="2026-06-11T13:43:44Z">
   <state datetime="2026-06-09T19:06:36-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-06-09T19:06:36-04:00"/>
@@ -133,6 +133,7 @@
     </action>
     <action datetime="2026-06-09T17:31:42-04:00">
       <text>Considered under the provisions of rule H. Res. 1140.</text>
+      <reference ref="CR H4029-4037" label="consideration"/>
     </action>
     <action datetime="2026-06-09T17:32:05-04:00">
       <text>DEBATE - The House proceeded with one hour of debate on H.R. 5408.</text>
@@ -142,9 +143,13 @@
     </action>
     <vote how="roll" type="vote" roll="216" datetime="2026-06-09T19:06:36-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On passage Passed by the Yeas and Nays: 230 - 193 (Roll no. 216).</text>
+      <reference ref="CR H4029-4030" label="text"/>
     </vote>
     <action datetime="2026-06-09T19:06:39-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2026-06-10">
+      <text>Received in the Senate.</text>
     </action>
   </actions>
   <committees>

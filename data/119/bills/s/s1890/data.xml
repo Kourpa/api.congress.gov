@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="1890" updated="2026-06-11T03:08:22Z">
-  <state datetime="2026-05-14">REPORTED</state>
+<bill session="119" type="s" number="1890" updated="2026-06-11T14:31:56Z">
+  <state datetime="2026-06-10">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-05-14"/>
+    <unknown datetime="2026-06-10"/>
   </status>
   <introduced datetime="2025-05-22"/>
   <titles>
+    <title type="display">Carla Walker Act</title>
     <title type="short" as="introduced">Carla Walker Act</title>
     <title type="short" as="reported to senate">Carla Walker Act</title>
     <title type="short" as="passed senate">Carla Walker Act</title>
-    <title type="display">Carla Walker Act</title>
     <title type="official" as="introduced">A bill to establish a grant program for certain State and local forensic activities, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001056"/>
@@ -33,6 +33,11 @@
     <calendar datetime="2026-05-20" calendar="Senate Legislative" under="General Orders" number="419">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 419.</text>
     </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="2026-06-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+      <reference ref="CR S2724-2727" label="consideration"/>
+      <reference ref="CR S2724-2726" label="text of amendment in the nature of a substitute"/>
+    </vote>
   </actions>
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>

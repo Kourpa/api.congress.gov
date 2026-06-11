@@ -85,7 +85,12 @@
     {
       "acted_at": "2026-06-09T14:53:58-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4013-4017",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered from the Discharge Calendar.",
       "type": "action"
     },
@@ -113,7 +118,12 @@
     {
       "acted_at": "2026-06-09T17:24:29-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4029",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -121,7 +131,12 @@
       "acted_at": "2026-06-09T17:31:09-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4014",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "215",
       "status": "PASSED:SIMPLERES",
@@ -222,6 +237,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-11T03:08:23Z",
+  "updated_at": "2026-06-11T13:42:50Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1140.xml"
 }

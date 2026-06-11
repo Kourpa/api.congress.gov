@@ -24,7 +24,12 @@
       "bill_ids": [
         "hres1140-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4029-4037",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 1140.",
       "type": "action"
     },
@@ -46,7 +51,12 @@
       "acted_at": "2026-06-09T19:06:36-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4029-4030",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "216",
       "status": "PASS_OVER:HOUSE",
@@ -61,6 +71,13 @@
       "action_code": "H38310",
       "references": [],
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-10",
+      "action_code": "",
+      "references": [],
+      "text": "Received in the Senate.",
       "type": "action"
     }
   ],
@@ -1267,6 +1284,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-06-11T03:08:22Z",
+  "updated_at": "2026-06-11T13:43:44Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5408.xml"
 }

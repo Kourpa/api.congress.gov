@@ -49,6 +49,27 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 411.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-06-10",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [
+        {
+          "reference": "CR S2723, S2726-2727",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S2726-2727",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with amendments by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -267,6 +288,8 @@
     "active_at": "2026-05-14",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-06-10",
     "vetoed": false
   },
   "introduced_at": "2025-03-04",
@@ -283,8 +306,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-05-14",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-06-10",
   "subjects": [
     "Congressional oversight",
     "Crime and law enforcement",
@@ -299,6 +322,13 @@
   "subjects_top_term": "Crime and law enforcement",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Fighting Post-Traumatic Stress Disorder Act of 2025",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -321,13 +351,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Fighting Post-Traumatic Stress Disorder Act of 2025",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -335,6 +358,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-11T03:08:22Z",
+  "updated_at": "2026-06-11T14:26:41Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s825.xml"
 }

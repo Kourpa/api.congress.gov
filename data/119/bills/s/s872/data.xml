@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="872" updated="2026-06-11T03:08:22Z">
-  <state datetime="2025-07-30">REPORTED</state>
+<bill session="119" type="s" number="872" updated="2026-06-11T14:23:00Z">
+  <state datetime="2026-06-10">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-07-30"/>
+    <unknown datetime="2026-06-10"/>
   </status>
   <introduced datetime="2025-03-05"/>
   <titles>
+    <title type="display">Stop Secret Spending Act of 2025</title>
     <title type="short" as="introduced">Stop Secret Spending Act of 2025</title>
     <title type="short" as="reported to senate">Stop Secret Spending Act of 2025</title>
     <title type="short" as="passed senate">Stop Secret Spending Act of 2025</title>
-    <title type="display">Stop Secret Spending Act of 2025</title>
     <title type="official" as="introduced">A bill to amend the Federal Funding Accountability and Transparency Act of 2006 to ensure that other transaction agreements are reported to USAspending.gov, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="E000295"/>
@@ -38,6 +38,11 @@
     <action datetime="2026-03-18">
       <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
     </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-06-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Unanimous Consent.</text>
+      <reference ref="CR S2721-2723" label="consideration"/>
+      <reference ref="CR S2722-2723" label="text"/>
+    </vote>
   </actions>
   <committees>
     <committee code="SSSB" name="Senate Small Business and Entrepreneurship" subcommittee="" activity="Hearings By (Full Committee)"/>
