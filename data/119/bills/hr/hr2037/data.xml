@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2037" updated="2025-07-17T16:22:59Z">
-  <state datetime="2025-07-14T16:45:43-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="2037" updated="2026-06-11T17:26:29Z">
+  <state datetime="2025-07-14T15:49:43-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-07-14T16:45:43-04:00"/>
+    <unknown datetime="2025-07-14T15:49:43-04:00"/>
   </status>
   <introduced datetime="2025-03-11"/>
   <titles>
@@ -38,20 +38,20 @@
     <action datetime="2025-07-14T15:41:33-04:00">
       <text>Mr. Latta moved to suspend the rules and pass the bill, as amended.</text>
     </action>
+    <action datetime="2025-07-14T15:41:42-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3217-3218" label="consideration"/>
+    </action>
     <action datetime="2025-07-14T15:41:43-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2037.</text>
     </action>
-    <action datetime="2025-07-14T15:49:45-04:00">
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-    </action>
-    <action datetime="2025-07-14T16:37:42-04:00">
-      <text>Considered under suspension of the rules.</text>
-      <reference ref="CR H3217-3218: 1" label="consideration"/>
-    </action>
-    <vote how="by voice vote" type="vote" datetime="2025-07-14T16:45:43-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+    <vote how="by voice vote" type="vote" datetime="2025-07-14T15:49:43-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
       <reference ref="CR H3217" label="text"/>
     </vote>
+    <action datetime="2025-07-14T15:49:45-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
     <action datetime="2025-07-15">
       <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
     </action>
@@ -67,7 +67,11 @@
     <term name="Telephone and wireless communication"/>
   </subjects>
   <amendments/>
-  <summary date="2025-04-02T13:06:27Z" status="Introduced in House"></summary>
+  <summary date="2025-04-02T13:06:27Z" status="Introduced in House">Open RAN Outreach Act
+
+This bill requires the National Telecommunications and Information Administration (NTIA) to conduct outreach and provide technical assistance to small communications network providers regarding the benefits, uses, and challenges of Open Radio Access Network (Open RAN) standards and other open network architectures. (Open RAN is a nonproprietary, standardized network deployment approach that promotes open networks with interoperable equipment and virtualized network operations.)
+
+The NTIA must also conduct outreach and provide assistance to small providers regarding participation in the Public Wireless Supply Chain Innovation Fund,&#160;a competitive grant program that funds efforts to accelerate the development, deployment, and adoption of Open RAN.</summary>
   <committee-reports>
     <report>H. Rept. 119-184</report>
   </committee-reports>
