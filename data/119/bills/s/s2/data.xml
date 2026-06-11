@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2" updated="2026-06-11T08:06:34Z">
-  <state datetime="2026-06-09T17:24:17-04:00">PASSED:BILL</state>
+<bill session="119" type="s" number="2" updated="2026-06-11T11:51:32Z">
+  <state datetime="2026-06-10">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2026-06-09T17:24:17-04:00"/>
+    <unknown datetime="2026-06-10"/>
   </status>
   <introduced datetime="2026-05-20"/>
   <titles>
@@ -104,6 +104,12 @@
     <topresident datetime="2026-06-09">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2026-06-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="119-98" type="public" datetime="2026-06-10">
+      <text>Became Public Law No: 119-98.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="HSBU" name="House Budget" subcommittee="" activity="Unknown, Unknown"/>
