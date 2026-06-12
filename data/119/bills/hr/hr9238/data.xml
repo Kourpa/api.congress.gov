@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="9238" updated="2026-06-11T15:09:54Z">
-  <state datetime="2026-06-10">REFERRED</state>
+<bill session="119" type="h" number="9238" updated="2026-06-12T13:43:10Z">
+  <state datetime="2026-06-11T10:35:00-04:00">PROV_KILL:SUSPENSIONFAILED</state>
   <status>
-    <introduced datetime="2026-06-10"/>
+    <unknown datetime="2026-06-11T10:35:00-04:00"/>
   </status>
   <introduced datetime="2026-06-10"/>
   <titles>
@@ -34,6 +34,12 @@
     <action datetime="2026-06-10T18:18:06-04:00">
       <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
     </action>
+    <action datetime="2026-06-11T10:05:31-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="221" datetime="2026-06-11T10:35:00-04:00" where="h" result="fail" suspension="1" state="PROV_KILL:SUSPENSIONFAILED">
+      <text>On motion to suspend the rules and pass the bill Failed by the Yeas and Nays: (2/3 required): 198 - 218 (Roll no. 221).</text>
+    </vote>
   </actions>
   <committees>
     <committee code="HLIG" name="House Intelligence (Permanent Select)" subcommittee="" activity="Referred To"/>

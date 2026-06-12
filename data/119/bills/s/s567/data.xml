@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="567" updated="2026-06-12T11:08:30Z">
-  <state datetime="2025-02-13">REFERRED</state>
+<bill session="119" type="s" number="567" updated="2026-06-12T16:36:38Z">
+  <state datetime="2026-06-11">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-02-13"/>
+    <unknown datetime="2026-06-11"/>
   </status>
   <introduced datetime="2025-02-13"/>
   <titles>
+    <title type="display">First Rhode Island Regiment Congressional Gold Medal Act</title>
     <title type="short" as="introduced">First Rhode Island Regiment Congressional Gold Medal Act</title>
     <title type="short" as="passed senate">First Rhode Island Regiment Congressional Gold Medal Act</title>
-    <title type="display">First Rhode Island Regiment Congressional Gold Medal Act</title>
     <title type="official" as="introduced">A bill to award a Congressional Gold Medal, collectively, to the First Rhode Island Regiment, in recognition of their dedicated service during the Revolutionary War.</title>
   </titles>
   <sponsor bioguide_id="W000802"/>
@@ -87,9 +87,20 @@
     <action datetime="2025-02-13" state="REFERRED">
       <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
     </action>
+    <action datetime="2026-06-11">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2026-06-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S2770" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-06-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S2770" label="text of amendment in the nature of a substitute"/>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To, Referred To"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Discharged From, Referred To, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="1277" relation="identical"/>

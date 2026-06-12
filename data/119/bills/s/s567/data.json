@@ -17,6 +17,45 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-11",
+      "action_code": "",
+      "committees": [
+        "SSBK"
+      ],
+      "references": [],
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-11",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S2770",
+          "type": "consideration"
+        }
+      ],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-11",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S2770",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [
@@ -34,6 +73,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To",
         "Referred To"
       ],
@@ -716,9 +756,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-11",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-06-11",
     "vetoed": false
   },
   "introduced_at": "2025-02-13",
@@ -742,8 +785,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-13",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-06-11",
   "subjects": [
     "Armed forces and national security",
     "Conflicts and wars",
@@ -763,6 +806,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "First Rhode Island Regiment Congressional Gold Medal Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -777,13 +827,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "First Rhode Island Regiment Congressional Gold Medal Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -791,6 +834,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-12T11:08:30Z",
+  "updated_at": "2026-06-12T16:36:38Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s567.xml"
 }

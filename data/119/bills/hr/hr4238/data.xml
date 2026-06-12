@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4238" updated="2026-06-12T05:23:26Z">
+<bill session="119" type="h" number="4238" updated="2026-06-12T13:43:11Z">
   <state datetime="2026-05-20">REPORTED</state>
   <status>
     <unknown datetime="2026-05-20"/>
@@ -50,10 +50,19 @@
     <action datetime="2026-05-20" state="REPORTED">
       <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.</text>
     </action>
+    <action datetime="2026-06-11">
+      <text>Reported (Amended) by the Committee on Small Business. H. Rept. 119-695, Part I.</text>
+    </action>
+    <action datetime="2026-06-11">
+      <text>Committee on the Budget discharged.</text>
+    </action>
+    <calendar datetime="2026-06-11" calendar="Union" number="603">
+      <text>Placed on the Union Calendar, Calendar No. 603.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Markup By, Referred To"/>
-    <committee code="HSBU" name="House Budget" subcommittee="" activity="Referred To"/>
+    <committee code="HSBU" name="House Budget" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="300" relation="identical"/>

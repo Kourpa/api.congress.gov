@@ -39,6 +39,37 @@
       "status": "REPORTED",
       "text": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-06-11",
+      "action_code": "",
+      "committees": [
+        "SSEG"
+      ],
+      "references": [],
+      "text": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-11",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S2747-2748",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S2748",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -49,6 +80,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Markup By",
         "Referred To"
       ],
@@ -84,6 +116,8 @@
     "active_at": "2025-12-09",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-06-11",
     "vetoed": false
   },
   "introduced_at": "2025-04-09",
@@ -100,8 +134,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-12-17",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-06-11",
   "subjects": [
     "Animal protection and human-animal relationships",
     "Government information and archives",
@@ -119,6 +153,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Theodore Roosevelt National Park Wild Horses Protection Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -133,13 +174,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Theodore Roosevelt National Park Wild Horses Protection Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -147,6 +181,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-12T05:08:28Z",
+  "updated_at": "2026-06-12T15:35:15Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1377.xml"
 }

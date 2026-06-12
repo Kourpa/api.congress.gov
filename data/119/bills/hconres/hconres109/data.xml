@@ -1,7 +1,7 @@
-<bill session="119" type="hc" number="109" updated="2026-06-12T05:23:26Z">
-  <state datetime="2026-06-09">REFERRED</state>
+<bill session="119" type="hc" number="109" updated="2026-06-12T13:42:44Z">
+  <state datetime="2026-06-11T10:46:25-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2026-06-09"/>
+    <unknown datetime="2026-06-11T10:46:25-04:00"/>
   </status>
   <introduced datetime="2026-06-09"/>
   <titles>
@@ -22,9 +22,27 @@
     <action datetime="2026-06-09" state="REFERRED">
       <text>Referred to the House Committee on House Administration.</text>
     </action>
+    <action datetime="2026-06-11T10:45:44-04:00">
+      <text>Mrs. Bice asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2026-06-11">
+      <text>Committee on House Administration discharged.</text>
+    </action>
+    <action datetime="2026-06-11T10:46:06-04:00">
+      <text>Considered by unanimous consent.</text>
+    </action>
+    <vote how="without objection" type="vote" datetime="2026-06-11T10:46:25-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="2026-06-11T10:46:30-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2026-06-11">
+      <text>Received in the Senate.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

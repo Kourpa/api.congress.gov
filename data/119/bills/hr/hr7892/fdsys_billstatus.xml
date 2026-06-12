@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7892</number>
-    <updateDate>2026-06-12T05:23:26Z</updateDate>
-    <updateDateIncludingText>2026-06-12T12:03:35Z</updateDateIncludingText>
+    <updateDate>2026-06-12T13:03:25Z</updateDate>
+    <updateDateIncludingText>2026-06-12T13:03:33Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/7892</legislationUrl>
     <cdata/>
     <committees>
+      <item>
+        <systemCode>sshr00</systemCode>
+        <name>Health, Education, Labor, and Pensions Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-06-11T16:38:19Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsed00</systemCode>
         <name>Education and Workforce Committee</name>
@@ -79,6 +91,20 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-11</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-06-10</actionDate>
         <actionTime>16:10:16</actionTime>
@@ -602,9 +628,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-06-10</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>16:10:16</actionTime>
+      <actionDate>2026-06-11</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

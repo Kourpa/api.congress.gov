@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="162" updated="2026-06-12T11:08:31Z">
-  <state datetime="2025-01-21">REFERRED</state>
+<bill session="119" type="s" number="162" updated="2026-06-12T16:37:28Z">
+  <state datetime="2026-06-11">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-01-21"/>
+    <unknown datetime="2026-06-11"/>
   </status>
   <introduced datetime="2025-01-21"/>
   <titles>
+    <title type="display">Recruiting Families Using Data Act of 2025</title>
     <title type="short" as="introduced">Recruiting Families Using Data Act of 2025</title>
     <title type="short" as="passed senate">Recruiting Families Using Data Act of 2025</title>
-    <title type="display">Recruiting Families Using Data Act of 2025</title>
     <title type="official" as="introduced">A bill to amend parts B and E of title IV of the Social Security Act to improve foster and adoptive parent recruitment and retention, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000386"/>
@@ -24,9 +24,20 @@
     <action datetime="2025-01-21" state="REFERRED">
       <text>Read twice and referred to the Committee on Finance.</text>
     </action>
+    <action datetime="2026-06-11">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2026-06-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S2770-2771" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-06-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S2770-2771" label="text"/>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
+    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="579" relation="identical"/>

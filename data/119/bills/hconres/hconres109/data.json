@@ -20,6 +20,57 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on House Administration.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-11T10:45:44-04:00",
+      "action_code": "H30200",
+      "references": [],
+      "text": "Mrs. Bice asked unanimous consent to discharge from committee and consider.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-11",
+      "action_code": "H12300",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "Committee on House Administration discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-11T10:46:06-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-11T10:46:25-04:00",
+      "action_code": "H37100",
+      "how": "without objection",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On agreeing to the resolution Agreed to without objection.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-11T10:46:30-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-11",
+      "action_code": "",
+      "references": [],
+      "text": "Received in the Senate.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -30,6 +81,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "House Committee on House Administration",
@@ -71,9 +123,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-11T10:45:44-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-11T10:46:25-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-06-09",
@@ -90,8 +145,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-06-09",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-11T10:46:25-04:00",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -118,6 +173,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-12T05:23:26Z",
+  "updated_at": "2026-06-12T13:42:44Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres109.xml"
 }

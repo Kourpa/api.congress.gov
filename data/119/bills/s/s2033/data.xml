@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="2033" updated="2026-06-12T05:23:26Z">
-  <state datetime="2025-12-17">REPORTED</state>
+<bill session="119" type="s" number="2033" updated="2026-06-12T15:24:46Z">
+  <state datetime="2026-06-11">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-12-17"/>
+    <unknown datetime="2026-06-11"/>
   </status>
   <introduced datetime="2025-06-11"/>
   <titles>
+    <title type="display">Cross-Boundary Wildfire Solutions Act</title>
     <title type="short" as="introduced">Cross-Boundary Wildfire Solutions Act</title>
     <title type="short" as="reported to senate">Cross-Boundary Wildfire Solutions Act</title>
     <title type="short" as="passed senate">Cross-Boundary Wildfire Solutions Act</title>
-    <title type="display">Cross-Boundary Wildfire Solutions Act</title>
     <title type="official" as="introduced">A bill to direct the Comptroller General of the United States to conduct a study on existing programs, rules, and authorities that enable or inhibit wildfire mitigation across land ownership boundaries on Federal and non-Federal land.</title>
   </titles>
   <sponsor bioguide_id="G000574"/>
@@ -32,6 +32,11 @@
     <calendar datetime="2026-06-08" calendar="Senate Legislative" under="General Orders" number="430">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-06-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S2747-2748" label="consideration"/>
+      <reference ref="CR S2748" label="text"/>
+    </vote>
   </actions>
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
