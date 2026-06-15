@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="4529" updated="2026-06-02T16:40:45Z">
+<bill session="119" type="s" number="4529" updated="2026-06-15T18:30:44Z">
   <state datetime="2026-05-14">REFERRED</state>
   <status>
     <introduced datetime="2026-05-14"/>
@@ -28,7 +28,9 @@
     <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Referred To"/>
     <committee code="SSEV10" name="Senate Environment and Public Works" subcommittee="Clean Air, Climate, and Nuclear Innovation and Safety Subcommittee" activity="Hearings By (Subcommittee)"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="8812" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Energy"/>
     <term name="Administrative law and regulatory procedures"/>
