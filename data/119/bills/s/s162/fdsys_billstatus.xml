@@ -44,10 +44,36 @@
             <type>Identical bill</type>
             <identifiedBy>CRS</identifiedBy>
           </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
         </relationshipDetails>
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-15</actionDate>
+        <actionTime>10:48:50</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-15</actionDate>
+        <actionTime>10:32:44</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2026-06-12</actionDate>
         <sourceSystem>
@@ -331,7 +357,7 @@
           <originChamberCode>S</originChamberCode>
           <number>162</number>
           <title>Recruiting Families Using Data Act of 2025</title>
-          <updateDateIncludingText>2026-06-13</updateDateIncludingText>
+          <updateDateIncludingText>2026-06-16</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>6</count>
