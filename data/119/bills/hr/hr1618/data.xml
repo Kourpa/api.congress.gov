@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1618" updated="2026-05-01T21:41:23Z">
+<bill session="119" type="h" number="1618" updated="2026-06-16T14:04:05Z">
   <state datetime="2025-07-14T15:15:13-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-07-14T15:15:13-04:00"/>
@@ -61,7 +61,9 @@
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="7567" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Science, technology, communications"/>
     <term name="Agricultural practices and innovations"/>
