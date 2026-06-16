@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1468</number>
-    <updateDate>2026-05-27T14:20:27Z</updateDate>
-    <updateDateIncludingText>2026-05-27T14:20:27Z</updateDateIncludingText>
+    <updateDate>2026-06-16T17:41:20Z</updateDate>
+    <updateDateIncludingText>2026-06-16T17:41:20Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-06-15T16:33:52Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-03-26T18:33:16Z</date>
           </item>
@@ -30,6 +34,11 @@
         </activities>
       </item>
     </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 119-699</citation>
+      </committeeReport>
+    </committeeReports>
     <relatedBills>
       <item>
         <title>Protect America’s Innovation and Economic Security from CCP Act of 2025</title>
@@ -49,6 +58,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-15</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 607.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00607</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-06-15</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-699.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-15</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-699.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-03-26</actionDate>
         <committees>
@@ -352,13 +406,23 @@
         <updateDate>2025-03-18T16:23:43Z</updateDate>
       </policyArea>
     </subjects>
-    <title>Protect America’s Innovation and Economic Security from CCP Act of 2025</title>
+    <title>Protect America’s Innovation and Economic Security from CCP Act</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>Protect America’s Innovation and Economic Security from CCP Act of 2025</title>
-        <updateDate>2025-03-18T04:38:24Z</updateDate>
+        <title>Protect America’s Innovation and Economic Security from CCP Act</title>
+        <updateDate>2026-06-16T15:08:47Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Protect America’s Innovation and Economic Security from CCP Act</title>
+        <updateDate>2026-06-16T15:08:44Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -379,6 +443,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-06-15T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr1468rh/xml/BILLS-119hr1468rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-02-21T05:00:00Z</date>
         <formats>
@@ -389,8 +462,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-03-26</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 14 - 9.</text>
+      <actionDate>2026-06-15</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 607.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

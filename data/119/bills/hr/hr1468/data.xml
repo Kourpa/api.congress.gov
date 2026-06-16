@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="1468" updated="2026-05-27T14:20:27Z">
+<bill session="119" type="h" number="1468" updated="2026-06-16T17:41:20Z">
   <state datetime="2026-03-26">REPORTED</state>
   <status>
     <unknown datetime="2026-03-26"/>
   </status>
   <introduced datetime="2025-02-21"/>
   <titles>
-    <title type="display">Protect America&#8217;s Innovation and Economic Security from CCP Act of 2025</title>
+    <title type="display">Protect America&#8217;s Innovation and Economic Security from CCP Act</title>
     <title type="short" as="introduced">Protect America&#8217;s Innovation and Economic Security from CCP Act of 2025</title>
+    <title type="short" as="reported to house">Protect America&#8217;s Innovation and Economic Security from CCP Act</title>
     <title type="official" as="introduced">To establish the CCP Initiative program, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000589"/>
@@ -38,9 +39,15 @@
     <action datetime="2026-03-26" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 14 - 9.</text>
     </action>
+    <action datetime="2026-06-15">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-699.</text>
+    </action>
+    <calendar datetime="2026-06-15" calendar="Union" number="607">
+      <text>Placed on the Union Calendar, Calendar No. 607.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="672" relation="unknown"/>
@@ -63,4 +70,7 @@
     <term name="U.S. and foreign investments"/>
   </subjects>
   <amendments/>
+  <committee-reports>
+    <report>H. Rept. 119-699</report>
+  </committee-reports>
 </bill>
