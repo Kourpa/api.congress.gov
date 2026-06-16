@@ -401,7 +401,12 @@
       "acted_at": "2025-10-09",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7051-7052",
+          "type": null
+        }
+      ],
       "result": "fail",
       "roll": "558",
       "status": "PROV_KILL:CLOTUREFAILED",
@@ -420,14 +425,24 @@
     {
       "acted_at": "2025-10-09",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7087",
+          "type": null
+        }
+      ],
       "text": "Motion to proceed to consideration of measure made in Senate.",
       "type": "action"
     },
     {
       "acted_at": "2025-10-09",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S7087",
+          "type": null
+        }
+      ],
       "text": "Fourth cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
     },
@@ -1760,6 +1775,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-16T13:57:24Z",
+  "updated_at": "2026-06-16T17:45:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5371.xml"
 }

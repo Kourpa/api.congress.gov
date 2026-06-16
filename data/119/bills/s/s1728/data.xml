@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="1728" updated="2025-11-17T17:23:25Z">
+<bill session="119" type="s" number="1728" updated="2026-06-16T16:37:54Z">
   <state datetime="2025-10-09">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-10-09"/>
@@ -34,6 +34,8 @@
     </calendar>
     <vote how="by Unanimous Consent" type="vote" datetime="2025-10-09" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S7101-7103" label="consideration"/>
+      <reference ref="CR S7102-7103" label="text"/>
     </vote>
     <action datetime="2025-10-16">
       <text>Message on Senate action sent to the House.</text>
@@ -57,5 +59,9 @@
     <term name="Employee benefits and pensions"/>
   </subjects>
   <amendments/>
-  <summary date="2025-06-05T18:32:39Z" status="Introduced in Senate"></summary>
+  <summary date="2025-06-05T18:32:39Z" status="Introduced in Senate">Employee Ownership Representation Act of 2025
+
+This bill expands the membership of the Advisory Council on Employee Welfare and Pension Benefit Plans to include two representatives of employee ownership organizations.
+
+The advisory council generally advises and makes recommendations to the Department of Labor about the department's functions under the Employee Retirement Income Security Act of 1974 (ERISA).</summary>
 </bill>

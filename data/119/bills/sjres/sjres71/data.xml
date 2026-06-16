@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="71" updated="2026-04-10T14:09:30Z">
+<bill session="119" type="sj" number="71" updated="2026-06-16T18:06:43Z">
   <state datetime="2025-10-08">FAIL:ORIGINATING:SENATE</state>
   <status>
     <unknown datetime="2025-10-08"/>
@@ -31,6 +31,8 @@
     </action>
     <action datetime="2025-10-08">
       <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7016-7030" label="consideration"/>
+      <reference ref="CR S7016" label="text"/>
     </action>
     <vote how="roll" type="vote" roll="554" datetime="2025-10-08" where="s" result="fail" state="FAIL:ORIGINATING:SENATE">
       <text>Failed of passage in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 554.</text>
