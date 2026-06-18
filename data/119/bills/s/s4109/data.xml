@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="4109" updated="2026-04-01T14:10:13Z">
-  <state datetime="2026-03-17">REFERRED</state>
+<bill session="119" type="s" number="4109" updated="2026-06-18T15:25:25Z">
+  <state datetime="2026-06-17">REPORTED</state>
   <status>
-    <introduced datetime="2026-03-17"/>
+    <unknown datetime="2026-06-17"/>
   </status>
   <introduced datetime="2026-03-17"/>
   <titles>
@@ -23,15 +23,23 @@
       <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
       <reference ref="CR S1093" label="Sponsor introductory remarks on measure"/>
     </action>
+    <action datetime="2026-06-17" state="REPORTED">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referred To"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="5160" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Health"/>
+    <term name="Biological and life sciences"/>
+    <term name="Blood and blood diseases"/>
+    <term name="Cell biology and embryology"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Organ and tissue donation and transplantation"/>
   </subjects>
   <amendments/>
 </bill>

@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="4009" updated="2026-06-10T11:03:26Z">
-  <state datetime="2026-03-05">REFERRED</state>
+<bill session="119" type="s" number="4009" updated="2026-06-18T15:25:25Z">
+  <state datetime="2026-06-17">REPORTED</state>
   <status>
-    <introduced datetime="2026-03-05"/>
+    <unknown datetime="2026-06-17"/>
   </status>
   <introduced datetime="2026-03-05"/>
   <titles>
@@ -22,9 +22,12 @@
     <action datetime="2026-03-05" state="REFERRED">
       <text>Read twice and referred to the Committee on Foreign Relations.</text>
     </action>
+    <action datetime="2026-06-17" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Referred To"/>
+    <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="817" relation="unknown"/>
