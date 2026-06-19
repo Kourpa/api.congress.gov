@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>8290</number>
-    <updateDate>2026-04-29T13:50:24Z</updateDate>
-    <updateDateIncludingText>2026-04-29T13:50:24Z</updateDateIncludingText>
+    <updateDate>2026-06-19T04:53:22Z</updateDate>
+    <updateDateIncludingText>2026-06-19T04:53:22Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-06-18T14:27:06Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-04-21T15:04:00Z</date>
           </item>
@@ -31,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-06-18</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 611.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00611</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-06-18</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-703.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-18</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-703.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-04-21</actionDate>
         <committees>
@@ -128,13 +177,23 @@
         <updateDate>2026-04-20T22:29:56Z</updateDate>
       </policyArea>
     </subjects>
-    <title>Exchange Rate Accountability Act of 2026</title>
+    <title>China Exchange Rate Accountability Act of 2026</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>Exchange Rate Accountability Act of 2026</title>
-        <updateDate>2026-04-16T08:23:32Z</updateDate>
+        <title>China Exchange Rate Accountability Act of 2026</title>
+        <updateDate>2026-06-19T04:53:22Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>China Exchange Rate Accountability Act of 2026</title>
+        <updateDate>2026-06-19T04:53:21Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -154,6 +213,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-06-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr8290rh/xml/BILLS-119hr8290rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2026-04-15T04:00:00Z</date>

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>425</number>
-    <updateDate>2026-04-29T17:54:09Z</updateDate>
-    <updateDateIncludingText>2026-04-29T17:54:09Z</updateDateIncludingText>
+    <updateDate>2026-06-19T04:53:21Z</updateDate>
+    <updateDateIncludingText>2026-06-19T04:53:21Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-06-18T14:25:56Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-04-21T15:06:00Z</date>
@@ -49,6 +53,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-18</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 609.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00609</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-06-18</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-701.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-18</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-701.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-04-21</actionDate>
         <committees>
@@ -2052,6 +2101,17 @@
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
       <item>
+        <bioguideId>C001118</bioguideId>
+        <fullName>Rep. Cline, Ben [R-VA-6]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Cline</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <district>6</district>
+        <sponsorshipDate>2025-08-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
         <bioguideId>M001157</bioguideId>
         <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
         <firstName>Michael</firstName>
@@ -2106,17 +2166,6 @@
         <state>FL</state>
         <middleName>Elvira</middleName>
         <district>27</district>
-        <sponsorshipDate>2025-08-19</sponsorshipDate>
-        <isOriginalCosponsor>False</isOriginalCosponsor>
-      </item>
-      <item>
-        <bioguideId>C001118</bioguideId>
-        <fullName>Rep. Cline, Ben [R-VA-6]</fullName>
-        <firstName>Ben</firstName>
-        <lastName>Cline</lastName>
-        <party>R</party>
-        <state>VA</state>
-        <district>6</district>
         <sponsorshipDate>2025-08-19</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
@@ -2360,6 +2409,16 @@
     <title>Repealing Big Brother Overreach Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Repealing Big Brother Overreach Act</title>
+        <updateDate>2026-06-19T04:53:21Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Repealing Big Brother Overreach Act</title>
@@ -2383,6 +2442,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-06-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr425rh/xml/BILLS-119hr425rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2025-01-15T05:00:00Z</date>

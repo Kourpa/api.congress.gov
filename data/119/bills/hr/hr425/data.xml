@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="425" updated="2026-04-29T17:54:09Z">
+<bill session="119" type="h" number="425" updated="2026-06-19T04:53:21Z">
   <state datetime="2026-04-21">REPORTED</state>
   <status>
     <unknown datetime="2026-04-21"/>
   </status>
   <introduced datetime="2025-01-15"/>
   <titles>
-    <title type="display">Repealing Big Brother Overreach Act</title>
     <title type="short" as="introduced">Repealing Big Brother Overreach Act</title>
+    <title type="short" as="reported to house">Repealing Big Brother Overreach Act</title>
+    <title type="display">Repealing Big Brother Overreach Act</title>
     <title type="official" as="introduced">To repeal the Corporate Transparency Act.</title>
   </titles>
   <sponsor bioguide_id="D000626"/>
@@ -218,9 +219,15 @@
     <action datetime="2026-04-21" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 26 - 25.</text>
     </action>
+    <action datetime="2026-06-18">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-701.</text>
+    </action>
+    <calendar datetime="2026-06-18" calendar="Union" number="609">
+      <text>Placed on the Union Calendar, Calendar No. 609.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="100" relation="identical"/>
