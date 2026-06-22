@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="192" updated="2026-06-10T10:56:29Z">
+<bill session="119" type="sj" number="192" updated="2026-06-22T13:26:03Z">
   <state datetime="2026-05-19">REFERRED</state>
   <status>
     <introduced datetime="2026-05-19"/>
@@ -48,7 +48,11 @@
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="hj" number="187" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
   <amendments/>
 </bill>
