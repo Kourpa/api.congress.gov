@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="675" updated="2026-06-23T06:23:23Z">
-  <state datetime="2025-02-20">REFERRED</state>
+<bill session="119" type="s" number="675" updated="2026-06-23T11:08:26Z">
+  <state datetime="2026-06-22">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-02-20"/>
+    <unknown datetime="2026-06-22"/>
   </status>
   <introduced datetime="2025-02-20"/>
   <titles>
@@ -22,13 +22,24 @@
     <action datetime="2025-02-20" state="REFERRED">
       <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
+    <action datetime="2026-06-22">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2026-06-22">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-06-22" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Arts, culture, religion"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s5897"/>
+  </amendments>
 </bill>

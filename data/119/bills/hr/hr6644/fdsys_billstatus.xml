@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6644</number>
-    <updateDate>2026-06-22T15:44:23Z</updateDate>
-    <updateDateIncludingText>2026-06-23T08:18:42Z</updateDateIncludingText>
+    <updateDate>2026-06-23T11:08:25Z</updateDate>
+    <updateDateIncludingText>2026-06-23T12:18:27Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -287,6 +287,52 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate concurred in the House amendment to the Senate amendment with an amendment (SA 5823) by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.</text>
+        <type>ResolvingDifferences</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>182</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00182.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-06-22T22:53:11Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-06-22</actionDate>
+        <text>Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment with an amendment (SA 5823) by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.</text>
+        <type>NotUsed</type>
+        <actionCode>20500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>182</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00182.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-06-22T22:53:11Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-06-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Considered by Senate (Message from the House considered).</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2026-06-18</actionDate>
         <committees>
@@ -1543,7 +1589,7 @@
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-06-22T15:42:36Z</updateDate>
+          <updateDate>2026-06-23T11:08:25Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1604,7 +1650,7 @@
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-06-22T15:42:36Z</updateDate>
+          <updateDate>2026-06-23T11:08:25Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1665,7 +1711,7 @@
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-06-22T15:42:36Z</updateDate>
+          <updateDate>2026-06-23T11:08:25Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1740,7 +1786,7 @@
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-06-22T15:42:36Z</updateDate>
+          <updateDate>2026-06-23T11:08:25Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2149,14 +2195,14 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-06-22T15:42:55Z</updateDate>
+        <updateDate>2026-06-23T11:08:25Z</updateDate>
         <latestAction>
-          <actionDate>2026-06-18</actionDate>
-          <text>Considered by Senate (Message from the House considered). (consideration: CR S2913)</text>
+          <actionDate>2026-06-22</actionDate>
+          <text>Proposed amendment SA 5824 withdrawn in Senate.</text>
           <links>
             <link>
-              <name>S2913</name>
-              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S2913</url>
+              <name>SA 5824</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/5824</url>
             </link>
           </links>
         </latestAction>
@@ -2198,11 +2244,29 @@
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-06-22T15:42:36Z</updateDate>
+          <updateDate>2026-06-23T11:08:25Z</updateDate>
         </amendedAmendment>
         <actions>
-          <count>5</count>
+          <count>7</count>
           <actions>
+            <item>
+              <actionDate>2026-06-22</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Proposed amendment SA 5824 withdrawn in Senate.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-06-22</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Considered by Senate (Message from the House considered).</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-06-18</actionDate>
               <sourceSystem>
@@ -2261,14 +2325,18 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>In the nature of a substitute.</purpose>
-        <updateDate>2026-06-22T15:42:38Z</updateDate>
+        <updateDate>2026-06-23T11:08:25Z</updateDate>
         <latestAction>
-          <actionDate>2026-06-18</actionDate>
-          <text>Considered by Senate (Message from the House considered). (consideration: CR S2913)</text>
+          <actionDate>2026-06-22</actionDate>
+          <text>Amendment SA 5823 agreed to in Senate by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.</text>
           <links>
             <link>
-              <name>S2913</name>
-              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S2913</url>
+              <name>Record Vote Number: 182</name>
+              <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00182.xml</url>
+            </link>
+            <link>
+              <name>SA 5823</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/5823</url>
             </link>
           </links>
         </latestAction>
@@ -2341,8 +2409,36 @@
           <count>5</count>
         </amendmentsToAmendment>
         <actions>
-          <count>5</count>
+          <count>9</count>
           <actions>
+            <item>
+              <actionDate>2026-06-22</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 5823 agreed to in Senate by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.</text>
+              <type>Floor</type>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>182</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-06-22T22:59:36Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00182.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-06-22</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Considered by Senate (Message from the House considered).</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-06-18</actionDate>
               <sourceSystem>
@@ -2369,6 +2465,46 @@
                 <code>9</code>
                 <name>Library of Congress</name>
               </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-06-22</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 5823 agreed to in Senate by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>182</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-06-22T22:59:36Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00182.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
+              <actionDate>2026-06-22</actionDate>
+              <text>Roll call votes on amendments in Senate: Amendment SA 5823 agreed to in Senate by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>182</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-06-22T22:59:36Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00182.xml</url>
+                </recordedVote>
+              </recordedVotes>
             </item>
             <item>
               <actionDate>2026-06-16</actionDate>
@@ -9185,8 +9321,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-06-18</actionDate>
-      <text>Motion by Senator Thune to refer to Senate Committee on Banking, Housing, and Urban Affairs the House message to accompany H.R. 6644 with instructions to report back forthwith with the following amendment (SA 5825) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 6644 in Senate.</text>
+      <actionDate>2026-06-22</actionDate>
+      <text>Senate concurred in the House amendment to the Senate amendment with an amendment (SA 5823) by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
