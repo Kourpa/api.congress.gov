@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="8800" updated="2026-06-20T02:06:17Z">
+<bill session="119" type="h" number="8800" updated="2026-06-22T21:46:09Z">
   <state datetime="2026-06-04">REPORTED</state>
   <status>
     <unknown datetime="2026-06-04"/>
@@ -37,7 +37,11 @@
   <committees>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="9153" relation="unknown"/>
+    <bill session="119" type="s" number="4784" relation="unknown"/>
+    <bill session="119" type="h" number="9024" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
   </subjects>
