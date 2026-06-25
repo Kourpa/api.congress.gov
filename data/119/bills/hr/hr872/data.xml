@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="872" updated="2025-06-06T14:17:56Z">
+<bill session="119" type="h" number="872" updated="2026-06-23T17:01:35Z">
   <state datetime="2025-03-03T16:02:45-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-03-03T16:02:45-05:00"/>
@@ -51,7 +51,9 @@
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="8800" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Government operations and politics"/>
     <term name="Computer security and identity theft"/>
@@ -59,5 +61,11 @@
     <term name="Public contracts and procurement"/>
   </subjects>
   <amendments/>
-  <summary date="2025-03-03T22:07:14Z" status="Introduced in House"></summary>
+  <summary date="2025-03-03T22:07:14Z" status="Introduced in House">Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025
+
+This bill requires revisions to acquisition regulations&#160;related to information systems vulnerabilities&#160;for certain federal contractors. The revisions apply to contractors whose contract is at or above the simplified acquisition threshold ($250,000 in most cases) or that use, operate, manage, or maintain a federal information system on behalf of an agency.&#160;
+
+Under the bill, the Office of Management and Budget must review the Federal Acquisition Regulation (FAR) and recommend updated contract requirements and language for contractor vulnerability disclosure programs. (Such programs establish processes for identifying, reporting, and mitigating information system vulnerabilities discovered by security researchers, software developers, and others.) The recommendations must include requirements to ensure that such contractors implement vulnerability disclosure policies consistent with guidelines from the National Institute of Standards and Technology. The Federal Acquisition Regulation Council must review these recommendations and update the FAR as necessary to incorporate requirements for such contractors to receive information about potential security vulnerabilities in contractor information systems used in performance of contract.
+
+The Department of Defense (DOD) must conduct a similar review and update of regulations with respect to the DOD Supplement to the FAR.</summary>
 </bill>
