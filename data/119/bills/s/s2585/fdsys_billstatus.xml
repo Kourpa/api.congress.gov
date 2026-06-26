@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2585</number>
-    <updateDate>2026-06-23T03:09:03Z</updateDate>
-    <updateDateIncludingText>2026-06-23T03:09:03Z</updateDateIncludingText>
+    <updateDate>2026-06-24T11:48:59Z</updateDate>
+    <updateDateIncludingText>2026-06-24T11:48:59Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -39,6 +39,36 @@
       </committeeReport>
     </committeeReports>
     <actions>
+      <item>
+        <actionDate>2026-06-23</actionDate>
+        <actionTime>12:12:11</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-23</actionDate>
+        <actionTime>12:01:02</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-23</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2026-06-18</actionDate>
         <sourceSystem>
@@ -211,7 +241,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>MAP for Broadband Funding Act</title>
-        <updateDate>2026-06-19T10:58:25Z</updateDate>
+        <updateDate>2026-06-24T11:03:29Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
@@ -308,8 +338,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-06-18</actionDate>
-      <text>Passed Senate with an amendment by Voice Vote. (consideration: CR S2922-2924; text: CR S2923)</text>
+      <actionDate>2026-06-23</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>12:12:11</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

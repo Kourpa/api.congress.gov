@@ -1,4 +1,4 @@
-<bill session="119" type="hj" number="193" updated="2026-06-12T13:43:02Z">
+<bill session="119" type="hj" number="193" updated="2026-06-24T15:37:15Z">
   <state datetime="2026-06-03">REFERRED</state>
   <status>
     <introduced datetime="2026-06-03"/>
@@ -14,6 +14,7 @@
     <cosponsor bioguide_id="B001302" joined="2026-06-04"/>
     <cosponsor bioguide_id="C001116" joined="2026-06-04"/>
     <cosponsor bioguide_id="C001132" joined="2026-06-04"/>
+    <cosponsor bioguide_id="D000626" joined="2026-06-23"/>
     <cosponsor bioguide_id="D000032" joined="2026-06-04"/>
     <cosponsor bioguide_id="S000250" joined="2026-06-03"/>
     <cosponsor bioguide_id="S001212" joined="2026-06-09"/>
@@ -29,7 +30,13 @@
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="sj" number="195" relation="unknown"/>
+    <bill session="119" type="sj" number="194" relation="identical"/>
+    <bill session="119" type="hj" number="192" relation="unknown"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
   <amendments/>
 </bill>

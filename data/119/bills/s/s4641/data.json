@@ -56,12 +56,32 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "S001150",
+      "district": null,
+      "name": "Schiff, Adam B.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-23",
+      "state": "CA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "W000800",
       "district": null,
       "name": "Welch, Peter",
       "original_cosponsor": true,
       "sponsored_at": "2026-05-21",
       "state": "VT",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "W000802",
+      "district": null,
+      "name": "Whitehouse, Sheldon",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-23",
+      "state": "RI",
       "title": "Sen.",
       "withdrawn_at": null
     }
@@ -77,7 +97,14 @@
   "number": "4641",
   "official_title": "A bill to amend title XVIII of the Social Security Act to count a period of receipt of outpatient observation services in a hospital toward satisfying the 3-day inpatient hospital requirement for coverage of skilled nursing facility services under Medicare.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hr3954-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Improving Access to Medicare Coverage Act of 2026",
   "sponsor": {
     "bioguide_id": "C001035",
@@ -89,8 +116,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-05-21",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Health"
+  ],
+  "subjects_top_term": "Health",
   "summary": null,
   "titles": [
     {
@@ -115,6 +144,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-16T15:01:23Z",
+  "updated_at": "2026-06-24T11:03:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4641.xml"
 }

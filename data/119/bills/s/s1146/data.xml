@@ -1,12 +1,13 @@
-<bill session="119" type="s" number="1146" updated="2026-06-19T11:03:24Z">
+<bill session="119" type="s" number="1146" updated="2026-06-25T04:38:38Z">
   <state datetime="2026-06-18">REPORTED</state>
   <status>
     <unknown datetime="2026-06-18"/>
   </status>
   <introduced datetime="2025-03-26"/>
   <titles>
-    <title type="display">Cameras in the Courtroom Act</title>
     <title type="short" as="introduced">Cameras in the Courtroom Act</title>
+    <title type="short" as="reported to senate">Cameras in the Courtroom Act</title>
+    <title type="display">Cameras in the Courtroom Act</title>
     <title type="official" as="introduced">A bill to permit the televising of Supreme Court proceedings.</title>
   </titles>
   <sponsor bioguide_id="D000563"/>
@@ -27,9 +28,15 @@
     <action datetime="2026-06-18" state="REPORTED">
       <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
     </action>
+    <action datetime="2026-06-23">
+      <text>Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2026-06-23" calendar="Senate Legislative" under="General Orders" number="445">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 445.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="2361" relation="unknown"/>
