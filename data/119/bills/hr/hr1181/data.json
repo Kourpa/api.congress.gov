@@ -68,6 +68,19 @@
       "text": "Placed on the Union Calendar, Calendar No. 447.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-06-23T19:18:06-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1377-119",
+        "hr9022-119",
+        "hr8595-119",
+        "hr9237-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1377 Reported to House. Rule provides for consideration of H.R. 1181, H.R. 9022, H.R. 8595 and H.R. 9237. The resolution provides for consideration of H.R. 1181 and H.R. 9237 under a closed rule and H.R. 9022 and H.R. 8595 under a structured rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -1424,7 +1437,14 @@
   "number": "1181",
   "official_title": "To prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1377-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Protecting Privacy in Purchases Act",
   "sponsor": {
     "bioguide_id": "M001235",
@@ -1481,6 +1501,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-11T23:26:41Z",
+  "updated_at": "2026-06-25T00:26:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1181.xml"
 }
