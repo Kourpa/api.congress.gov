@@ -53,6 +53,16 @@
   "congress": "119",
   "cosponsors": [
     {
+      "bioguide_id": "B001326",
+      "district": "5",
+      "name": "Bynum, Janelle S.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-23",
+      "state": "OR",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "C001133",
       "district": "6",
       "name": "Ciscomani, Juan",
@@ -104,7 +114,14 @@
   "number": "9167",
   "official_title": "To amend section 313 of the Congressional Budget Act of 1974 to designate provisions resulting in the sale, disposal, or transfer of Federal lands as extraneous under the Byrd Rule.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s4455-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
+    }
+  ],
   "short_title": "Public Lands Integrity Act",
   "sponsor": {
     "bioguide_id": "V000136",
@@ -116,8 +133,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-06-04",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Economics and public finance"
+  ],
+  "subjects_top_term": "Economics and public finance",
   "summary": null,
   "titles": [
     {
@@ -142,6 +161,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2026-06-17T14:03:30Z",
+  "updated_at": "2026-06-26T17:36:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9167.xml"
 }
