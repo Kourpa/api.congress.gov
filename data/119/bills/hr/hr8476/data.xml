@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8476" updated="2026-06-23T08:05:51Z">
-  <state datetime="2026-04-23">REFERRED</state>
+<bill session="119" type="h" number="8476" updated="2026-06-26T08:07:04Z">
+  <state datetime="2026-06-25">REPORTED</state>
   <status>
-    <introduced datetime="2026-04-23"/>
+    <unknown datetime="2026-06-25"/>
   </status>
   <introduced datetime="2026-04-23"/>
   <titles>
@@ -13,12 +13,17 @@
   <cosponsors>
     <cosponsor bioguide_id="A000372" joined="2026-06-10"/>
     <cosponsor bioguide_id="B001322" joined="2026-05-11"/>
+    <cosponsor bioguide_id="F000450" joined="2026-06-23"/>
     <cosponsor bioguide_id="G000593" joined="2026-06-10"/>
+    <cosponsor bioguide_id="H001102" joined="2026-06-23"/>
     <cosponsor bioguide_id="L000599" joined="2026-06-22"/>
     <cosponsor bioguide_id="M001233" joined="2026-06-11"/>
     <cosponsor bioguide_id="M001211" joined="2026-06-22"/>
+    <cosponsor bioguide_id="M001216" joined="2026-06-23"/>
+    <cosponsor bioguide_id="O000086" joined="2026-06-23"/>
     <cosponsor bioguide_id="S000522" joined="2026-06-09"/>
     <cosponsor bioguide_id="T000478" joined="2026-04-23"/>
+    <cosponsor bioguide_id="T000467" joined="2026-06-23"/>
     <cosponsor bioguide_id="W000795" joined="2026-06-09"/>
   </cosponsors>
   <actions>
@@ -31,10 +36,16 @@
     <action datetime="2026-04-23">
       <text>Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-06-25">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 12.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2555" updated="2026-06-11T08:07:03Z">
-  <state datetime="2025-04-01">REFERRED</state>
+<bill session="119" type="h" number="2555" updated="2026-06-26T08:07:10Z">
+  <state datetime="2026-06-25">REPORTED</state>
   <status>
-    <introduced datetime="2025-04-01"/>
+    <unknown datetime="2026-06-25"/>
   </status>
   <introduced datetime="2025-04-01"/>
   <titles>
@@ -20,7 +20,7 @@
     <cosponsor bioguide_id="F000484" joined="2026-04-29"/>
     <cosponsor bioguide_id="F000450" joined="2026-04-15"/>
     <cosponsor bioguide_id="F000478" joined="2025-07-22"/>
-    <cosponsor bioguide_id="G000598" joined="2025-04-01"/>
+    <cosponsor bioguide_id="G000598" joined="2025-04-01" withdrawn="2026-06-25"/>
     <cosponsor bioguide_id="G000583" joined="2026-04-20"/>
     <cosponsor bioguide_id="G000606" joined="2026-04-21"/>
     <cosponsor bioguide_id="G000576" joined="2025-04-30"/>
@@ -32,6 +32,7 @@
     <cosponsor bioguide_id="J000301" joined="2025-04-17"/>
     <cosponsor bioguide_id="K000399" joined="2026-04-16"/>
     <cosponsor bioguide_id="L000598" joined="2026-04-27"/>
+    <cosponsor bioguide_id="L000601" joined="2026-06-25"/>
     <cosponsor bioguide_id="M000871" joined="2025-04-17"/>
     <cosponsor bioguide_id="M001208" joined="2026-04-30"/>
     <cosponsor bioguide_id="M001232" joined="2026-05-11"/>
@@ -63,9 +64,15 @@
     <action datetime="2025-04-01" state="REFERRED">
       <text>Referred to the House Committee on Education and Workforce.</text>
     </action>
+    <action datetime="2026-06-25">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1225" relation="identical"/>

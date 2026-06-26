@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="8286" updated="2026-04-28T15:24:01Z">
+<bill session="119" type="h" number="8286" updated="2026-06-25T08:07:46Z">
   <state datetime="2026-04-21">REPORTED</state>
   <status>
     <unknown datetime="2026-04-21"/>
   </status>
   <introduced datetime="2026-04-15"/>
   <titles>
-    <title type="display">Protecting Americans&#8217; Retirement Savings From Politics Act</title>
     <title type="short" as="introduced">Protecting Americans&#8217; Retirement Savings From Politics Act</title>
+    <title type="short" as="reported to house">Protecting Americans&#8217; Retirement Savings From Politics Act</title>
+    <title type="display">Protecting Americans&#8217; Retirement Savings From Politics Act</title>
     <title type="official" as="introduced">To amend the Federal securities laws with respect to the materiality of disclosure requirements, to establish the Public Company Advisory Committee, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="S001213"/>
@@ -27,9 +28,15 @@
     <action datetime="2026-04-21" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 27 - 24.</text>
     </action>
+    <action datetime="2026-06-24">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-712.</text>
+    </action>
+    <calendar datetime="2026-06-24" calendar="Union" number="618">
+      <text>Placed on the Union Calendar, Calendar No. 618.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="8383" relation="unknown"/>
@@ -38,6 +45,16 @@
   </relatedbills>
   <subjects>
     <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Congressional oversight"/>
+    <term name="Corporate finance and management"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Financial services and investments"/>
+    <term name="Licensing and registrations"/>
+    <term name="Performance measurement"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Securities"/>
   </subjects>
   <amendments/>
 </bill>

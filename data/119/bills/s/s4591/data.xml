@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="4591" updated="2026-06-23T14:47:28Z">
+<bill session="119" type="s" number="4591" updated="2026-06-25T13:33:40Z">
   <state datetime="2026-06-18">REPORTED</state>
   <status>
     <unknown datetime="2026-06-18"/>
@@ -38,13 +38,23 @@
     <action datetime="2026-06-18" state="REPORTED">
       <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
     </action>
+    <action datetime="2026-06-24">
+      <text>Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2026-06-24" calendar="Senate Legislative" under="General Orders" number="446">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 446.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="8915" relation="identical"/>
+    <bill session="119" type="h" number="2794" relation="unknown"/>
+    <bill session="119" type="s" number="1367" relation="unknown"/>
   </relatedbills>
-  <subjects/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
   <amendments/>
 </bill>

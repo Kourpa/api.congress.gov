@@ -1,14 +1,16 @@
-<bill session="119" type="h" number="826" updated="2026-06-17T17:55:32Z">
-  <state datetime="2026-05-20">REPORTED</state>
+<bill session="119" type="h" number="826" updated="2026-06-25T15:08:09Z">
+  <state datetime="2026-06-23T15:06:19-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-05-20"/>
+    <unknown datetime="2026-06-23T15:06:19-04:00"/>
   </status>
   <introduced datetime="2025-01-28"/>
   <titles>
-    <title type="display">COVID Fraud Transparency Act of 2026</title>
     <title type="short" as="introduced">COVID Fraud Transparency Act of 2025</title>
     <title type="short" as="reported to house">COVID Fraud Transparency Act of 2026</title>
+    <title type="short" as="passed house">COVID Fraud Transparency Act of 2026</title>
     <title type="official" as="introduced">To require the Inspector General of the Small Business Administration to submit a quarterly report on fraud relating to certain COVID-19 loans.</title>
+    <title type="official">To require the Inspector General of the Small Business Administration to submit a quarterly report on fraud relating to certain COVID&#8211;19 loans.</title>
+    <title type="display">COVID Fraud Transparency Act of 2026</title>
   </titles>
   <sponsor bioguide_id="W000816"/>
   <cosponsors>
@@ -35,8 +37,29 @@
     <calendar datetime="2026-06-03" calendar="Union" number="590">
       <text>Placed on the Union Calendar, Calendar No. 590.</text>
     </calendar>
+    <action datetime="2026-06-23T15:01:00-04:00">
+      <text>Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-06-23T15:01:10-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4141-4142" label="consideration"/>
+    </action>
+    <action datetime="2026-06-23T15:01:11-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 826.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-06-23T15:06:19-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4141" label="text"/>
+    </vote>
+    <action datetime="2026-06-23T15:06:24-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2026-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" subcommittee="" activity="Referred To"/>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>

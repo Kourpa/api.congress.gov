@@ -58,6 +58,67 @@
       "text": "Placed on the Union Calendar, Calendar No. 590.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-06-23T15:01:00-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T15:01:10-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4141-4142",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T15:01:11-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 826.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T15:06:19-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H4141",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-23T15:06:24-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-24",
+      "action_code": "",
+      "committees": [
+        "SSSB"
+      ],
+      "references": [],
+      "text": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -68,6 +129,13 @@
     "H. Rept. 119-677"
   ],
   "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Small Business and Entrepreneurship",
+      "committee_id": "SSSB"
+    },
     {
       "activity": [
         "Reported By",
@@ -117,11 +185,13 @@
     "active_at": "2026-05-20",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-23T15:06:19-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-28",
   "number": "826",
-  "official_title": "To require the Inspector General of the Small Business Administration to submit a quarterly report on fraud relating to certain COVID-19 loans.",
+  "official_title": "To require the Inspector General of the Small Business Administration to submit a quarterly report on fraud relating to certain COVID\u201319 loans.",
   "popular_title": null,
   "related_bills": [],
   "short_title": "COVID Fraud Transparency Act of 2026",
@@ -133,8 +203,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-05-20",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-23T15:06:19-04:00",
   "subjects": [
     "Commerce",
     "Congressional oversight",
@@ -152,13 +222,6 @@
   },
   "titles": [
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "COVID Fraud Transparency Act of 2026",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -173,13 +236,34 @@
       "type": "short"
     },
     {
+      "as": "passed house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "COVID Fraud Transparency Act of 2026",
+      "type": "short"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "To require the Inspector General of the Small Business Administration to submit a quarterly report on fraud relating to certain COVID-19 loans.",
       "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To require the Inspector General of the Small Business Administration to submit a quarterly report on fraud relating to certain COVID\u201319 loans.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "COVID Fraud Transparency Act of 2026",
+      "type": "display"
     }
   ],
-  "updated_at": "2026-06-17T17:55:32Z",
+  "updated_at": "2026-06-25T15:08:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr826.xml"
 }

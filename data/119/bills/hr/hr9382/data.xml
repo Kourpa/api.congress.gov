@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="9382" updated="2026-06-23T08:33:26Z">
-  <state datetime="2026-06-22">REFERRED</state>
+<bill session="119" type="h" number="9382" updated="2026-06-25T08:07:51Z">
+  <state datetime="2026-06-24">REPORTED</state>
   <status>
-    <introduced datetime="2026-06-22"/>
+    <unknown datetime="2026-06-24"/>
   </status>
   <introduced datetime="2026-06-22"/>
   <titles>
@@ -9,7 +9,9 @@
     <title type="display">To require the Commissioner of U.S. Customs and Border Protection to link together applications of family members throughout the NEXUS application process, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="K000402"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000598" joined="2026-06-23"/>
+  </cosponsors>
   <actions>
     <action datetime="2026-06-22">
       <text>Introduced in House</text>
@@ -17,9 +19,15 @@
     <action datetime="2026-06-22" state="REFERRED">
       <text>Referred to the House Committee on Homeland Security.</text>
     </action>
+    <action datetime="2026-06-24">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-24" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 30 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

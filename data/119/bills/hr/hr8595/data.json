@@ -19,6 +19,19 @@
       "text": "Placed on the Union Calendar, Calendar No. 547.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-06-23T19:18:06-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1377-119",
+        "hr1181-119",
+        "hr9022-119",
+        "hr9237-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1377 Reported to House. Rule provides for consideration of H.R. 1181, H.R. 9022, H.R. 8595 and H.R. 9237. The resolution provides for consideration of H.R. 1181 and H.R. 9237 under a closed rule and H.R. 9022 and H.R. 8595 under a structured rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -41,7 +54,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-23T19:18:06-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -50,7 +64,14 @@
   "number": "8595",
   "official_title": "Making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1377-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
   "sponsor": {
     "bioguide_id": "D000600",
@@ -95,6 +116,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-13T14:23:38Z",
+  "updated_at": "2026-06-25T08:06:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8595.xml"
 }

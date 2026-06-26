@@ -58,6 +58,67 @@
       "text": "Placed on the Union Calendar, Calendar No. 595.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-06-23T15:45:05-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Williams (TX) moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T15:45:08-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4149-4151",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T15:45:09-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 8882.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T15:58:15-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H4149-4150",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-23T15:58:19-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-24",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -68,6 +129,13 @@
     "H. Rept. 119-682"
   ],
   "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Judiciary",
+      "committee_id": "SSJU"
+    },
     {
       "activity": [
         "Reported By",
@@ -107,6 +175,8 @@
     "active_at": "2026-05-20",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-23T15:58:15-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-05-19",
@@ -123,8 +193,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-05-20",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-23T15:58:15-04:00",
   "subjects": [
     "Bank accounts, deposits, capital",
     "Banking and financial institutions regulation",
@@ -157,11 +227,11 @@
       "type": "short"
     },
     {
-      "as": null,
+      "as": "passed house",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Main Street Competes Act",
-      "type": "display"
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -169,8 +239,22 @@
       "textVersionCode": null,
       "title": "To amend the Small Business Economic Policy Act of 1980 to examine how the competitiveness of small businesses is affected by the enforcement of Federal antitrust laws, and for other purposes.",
       "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To amend the Small Business Economic Policy Act of 1980 to examine how the competitiveness of small businesses is affected by the enforcement of Federal antitrust laws, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Main Street Competes Act",
+      "type": "display"
     }
   ],
-  "updated_at": "2026-06-18T16:46:43Z",
+  "updated_at": "2026-06-25T15:14:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8882.xml"
 }

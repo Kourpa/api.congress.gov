@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4801</number>
-    <updateDate>2026-05-19T13:42:55Z</updateDate>
-    <updateDateIncludingText>2026-05-19T13:42:55Z</updateDateIncludingText>
+    <updateDate>2026-06-25T08:08:41Z</updateDate>
+    <updateDateIncludingText>2026-06-25T08:08:41Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-06-24T20:27:23Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-05-13T15:53:00Z</date>
@@ -49,6 +53,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-24</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 619.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00619</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-06-24</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-713.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-24</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-713.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-05-13</actionDate>
         <committees>
@@ -214,6 +263,16 @@
     <title>Unleashing AI Innovation in Financial Services Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Unleashing AI Innovation in Financial Services Act</title>
+        <updateDate>2026-06-25T04:23:29Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Unleashing AI Innovation in Financial Services Act</title>
@@ -238,6 +297,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-06-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr4801rh/xml/BILLS-119hr4801rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-07-29T04:00:00Z</date>
         <formats>
@@ -248,8 +316,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-05-13</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 19.</text>
+      <actionDate>2026-06-24</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 619.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

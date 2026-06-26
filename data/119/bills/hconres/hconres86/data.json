@@ -138,6 +138,41 @@
       "references": [],
       "text": "Received in the Senate and referred to the Committee on Foreign Relations.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-23",
+      "action_code": "",
+      "committees": [
+        "SSFR"
+      ],
+      "references": [],
+      "text": "Senate Committee on Foreign Relations discharged pursuant to the order of 06/18/2026.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23",
+      "action_code": "",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR S3039-3040",
+          "type": "consideration"
+        }
+      ],
+      "result": "pass",
+      "roll": "184",
+      "status": "PASSED:CONCURRENTRES",
+      "text": "Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 184.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-06-24",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -148,6 +183,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Foreign Relations",
@@ -222,6 +258,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-06-03T17:17:24-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-06-23",
     "vetoed": false
   },
   "introduced_at": "2026-04-20",
@@ -269,8 +307,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-06-03T17:17:24-04:00",
+  "status": "PASSED:CONCURRENTRES",
+  "status_at": "2026-06-23",
   "subjects": [
     "Conflicts and wars",
     "Congressional-executive branch relations",
@@ -311,6 +349,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-23T15:48:17Z",
+  "updated_at": "2026-06-25T14:24:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres86.xml"
 }

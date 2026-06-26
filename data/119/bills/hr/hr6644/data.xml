@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6644" updated="2026-06-23T15:44:02Z">
-  <state datetime="2026-06-22">PASS_BACK:SENATE</state>
+<bill session="119" type="h" number="6644" updated="2026-06-25T15:18:12Z">
+  <state datetime="2026-06-23T19:26:36-04:00">PASSED:BILL</state>
   <status>
-    <unknown datetime="2026-06-22"/>
+    <unknown datetime="2026-06-23T19:26:36-04:00"/>
   </status>
   <introduced datetime="2025-12-11"/>
   <titles>
@@ -9,6 +9,7 @@
     <title type="short" as="reported to house">Housing for the 21st Century Act</title>
     <title type="short" as="passed house">Housing for the 21st Century Act</title>
     <title type="short" as="senate calendar) bill text">Housing for the 21st Century Act</title>
+    <title type="short">21st Century ROAD to Housing Act</title>
     <title type="short">21st Century ROAD to Housing Act</title>
     <title type="short">21st Century ROAD to Housing Act</title>
     <title type="display">21st Century ROAD to Housing Act</title>
@@ -222,6 +223,26 @@
     <vote how="roll" type="pingpong" roll="182" datetime="2026-06-22" where="s" result="pass" state="PASS_BACK:SENATE">
       <text>Senate concurred in the House amendment to the Senate amendment with an amendment (SA 5823) by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.</text>
     </vote>
+    <action datetime="2026-06-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2026-06-23T17:18:40-04:00">
+      <text>Mr. Hill (AR) moved that the House suspend the rules and agree to the Senate amendment to the House amendment to the Senate amendment.</text>
+      <reference ref="CR H4151-4193" label="consideration"/>
+    </action>
+    <action datetime="2026-06-23T17:18:50-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to the House amendment to the Senate amendment.</text>
+    </action>
+    <action datetime="2026-06-23T18:08:45-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <vote how="roll" type="pingpong" roll="224" datetime="2026-06-23T19:26:36-04:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion that the House suspend the rules and agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 358 - 32 (Roll no. 224).</text>
+      <reference ref="CR H4151-4187" label="text"/>
+    </vote>
+    <action datetime="2026-06-23T19:26:38-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Discharged From, Referred To"/>

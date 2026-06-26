@@ -1,14 +1,16 @@
-<bill session="119" type="h" number="8882" updated="2026-06-18T16:46:43Z">
-  <state datetime="2026-05-20">REPORTED</state>
+<bill session="119" type="h" number="8882" updated="2026-06-25T15:14:28Z">
+  <state datetime="2026-06-23T15:58:15-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-05-20"/>
+    <unknown datetime="2026-06-23T15:58:15-04:00"/>
   </status>
   <introduced datetime="2026-05-19"/>
   <titles>
     <title type="short" as="introduced">Main Street Competes Act</title>
     <title type="short" as="reported to house">Main Street Competes Act</title>
-    <title type="display">Main Street Competes Act</title>
+    <title type="short" as="passed house">Main Street Competes Act</title>
     <title type="official" as="introduced">To amend the Small Business Economic Policy Act of 1980 to examine how the competitiveness of small businesses is affected by the enforcement of Federal antitrust laws, and for other purposes.</title>
+    <title type="official">To amend the Small Business Economic Policy Act of 1980 to examine how the competitiveness of small businesses is affected by the enforcement of Federal antitrust laws, and for other purposes.</title>
+    <title type="display">Main Street Competes Act</title>
   </titles>
   <sponsor bioguide_id="S001221"/>
   <cosponsors>
@@ -34,8 +36,29 @@
     <calendar datetime="2026-06-03" calendar="Union" number="595">
       <text>Placed on the Union Calendar, Calendar No. 595.</text>
     </calendar>
+    <action datetime="2026-06-23T15:45:05-04:00">
+      <text>Mr. Williams (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-06-23T15:45:08-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4149-4151" label="consideration"/>
+    </action>
+    <action datetime="2026-06-23T15:45:09-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 8882.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-06-23T15:58:15-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4149-4150" label="text"/>
+    </vote>
+    <action datetime="2026-06-23T15:58:19-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2026-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>

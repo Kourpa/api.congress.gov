@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8535" updated="2026-05-19T19:57:53Z">
-  <state datetime="2026-04-27">REFERRED</state>
+<bill session="119" type="h" number="8535" updated="2026-06-25T08:08:21Z">
+  <state datetime="2026-06-24">REPORTED</state>
   <status>
-    <introduced datetime="2026-04-27"/>
+    <unknown datetime="2026-06-24"/>
   </status>
   <introduced datetime="2026-04-27"/>
   <titles>
@@ -25,10 +25,19 @@
     <action datetime="2026-04-28">
       <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
     </action>
+    <action datetime="2026-06-24">
+      <text>Subcommittee on Border Security and Enforcement Discharged</text>
+    </action>
+    <action datetime="2026-06-24">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
-    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Discharged, Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

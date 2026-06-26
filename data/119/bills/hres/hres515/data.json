@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Foreign Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-01-21",
+      "action_code": "",
+      "committees": [
+        "HSFA"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-01-21",
+      "action_code": "",
+      "committees": [
+        "HSFA"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 46 - 1.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Foreign Affairs",
@@ -308,7 +330,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-01-21",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -327,8 +350,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-06-13",
+  "status": "REPORTED",
+  "status_at": "2026-01-21",
   "subjects": [
     "Asia",
     "China",
@@ -357,6 +380,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-01-22T09:06:17Z",
+  "updated_at": "2026-06-25T08:09:08Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres515.xml"
 }

@@ -66,6 +66,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C001055",
+      "district": "1",
+      "name": "Case, Ed",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-23",
+      "state": "HI",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "F000474",
       "district": "1",
       "name": "Flood, Mike",
@@ -227,7 +237,14 @@
   "number": "8967",
   "official_title": "To provide for an extension of the rural community hospital demonstration program.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s4460-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
+    }
+  ],
   "short_title": "Rural Community Hospital Demonstration Program Reauthorization",
   "sponsor": {
     "bioguide_id": "F000446",
@@ -239,8 +256,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-05-21",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Health"
+  ],
+  "subjects_top_term": "Health",
   "summary": null,
   "titles": [
     {
@@ -265,6 +284,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-10T08:08:07Z",
+  "updated_at": "2026-06-24T15:53:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8967.xml"
 }

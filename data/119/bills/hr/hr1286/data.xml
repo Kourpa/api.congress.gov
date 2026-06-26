@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1286" updated="2025-10-09T03:26:14Z">
+<bill session="119" type="h" number="1286" updated="2026-06-24T19:35:07Z">
   <state datetime="2025-05-19T19:02:49-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-05-19T19:02:49-04:00"/>
@@ -92,9 +92,11 @@
   <committees>
     <committee code="SSVA" name="Senate Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Reported By, Markup By, Referred To"/>
-    <committee code="HSVR09" name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Reporting, Markup, Hearings By (Subcommittee), Hearings By (Subcommittee), Referral, Referral"/>
+    <committee code="HSVR09" name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Reporting, Markup, Hearings By (Subcommittee), Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="9237" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
     <term name="Congressional oversight"/>
@@ -104,7 +106,11 @@
     <term name="Veterans' pensions and compensation"/>
   </subjects>
   <amendments/>
-  <summary date="2025-03-21T13:45:22Z" status="Introduced in House"></summary>
+  <summary date="2025-03-21T13:45:22Z" status="Introduced in House">Simplifying Forms for Veterans Claims Act
+
+This bill requires the Department of Veterans Affairs (VA) to seek to enter an agreement with a federally funded research and development center to assess the forms that the VA sends to claimants. The center must submit a written assessment to the VA that includes recommendations on how the VA may make the forms clearer and more organized.
+
+The VA must implement certain recommendations in the assessment within two years after the assessment is received.</summary>
   <committee-reports>
     <report>H. Rept. 119-100</report>
   </committee-reports>

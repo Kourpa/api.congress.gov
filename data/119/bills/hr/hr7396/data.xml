@@ -1,14 +1,16 @@
-<bill session="119" type="h" number="7396" updated="2026-06-11T23:26:39Z">
-  <state datetime="2026-02-11">REPORTED</state>
+<bill session="119" type="h" number="7396" updated="2026-06-25T15:06:47Z">
+  <state datetime="2026-06-23T14:53:54-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-02-11"/>
+    <unknown datetime="2026-06-23T14:53:54-04:00"/>
   </status>
   <introduced datetime="2026-02-05"/>
   <titles>
     <title type="short" as="introduced">Native American Entrepreneurial Opportunity Act</title>
     <title type="short" as="reported to house">Native American Entrepreneurial Opportunity Act</title>
-    <title type="display">Native American Entrepreneurial Opportunity Act</title>
+    <title type="short" as="passed house">Native American Entrepreneurial Opportunity Act</title>
     <title type="official" as="introduced">To establish an Office of Native American Affairs within the Small Business Administration, and for other purposes.</title>
+    <title type="official">To establish an Office of Native American Affairs within the Small Business Administration, and for other purposes.</title>
+    <title type="display">Native American Entrepreneurial Opportunity Act</title>
   </titles>
   <sponsor bioguide_id="D000629"/>
   <cosponsors>
@@ -36,8 +38,29 @@
     <calendar datetime="2026-02-17" calendar="Union" number="424">
       <text>Placed on the Union Calendar, Calendar No. 424.</text>
     </calendar>
+    <action datetime="2026-06-23T14:46:10-04:00">
+      <text>Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-06-23T14:46:28-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4138-4140" label="consideration"/>
+    </action>
+    <action datetime="2026-06-23T14:46:29-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7396.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-06-23T14:53:54-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4138-4139" label="text"/>
+    </vote>
+    <action datetime="2026-06-23T14:53:56-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2026-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" subcommittee="" activity="Referred To"/>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>

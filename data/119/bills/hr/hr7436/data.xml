@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7436" updated="2026-05-21T08:08:07Z">
-  <state datetime="2026-02-09">REFERRED</state>
+<bill session="119" type="h" number="7436" updated="2026-06-25T08:09:12Z">
+  <state datetime="2026-06-24">REPORTED</state>
   <status>
-    <introduced datetime="2026-02-09"/>
+    <unknown datetime="2026-06-24"/>
   </status>
   <introduced datetime="2026-02-09"/>
   <titles>
@@ -31,14 +31,26 @@
     <action datetime="2026-05-14">
       <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
     </action>
+    <action datetime="2026-06-24">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism, Law Enforcement, and Intelligence" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Employment and training programs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
   </subjects>
   <amendments/>
 </bill>

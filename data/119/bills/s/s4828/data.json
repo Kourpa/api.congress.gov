@@ -27,6 +27,27 @@
       "type": "vote",
       "vote_type": "vote",
       "where": "s"
+    },
+    {
+      "acted_at": "2026-06-23",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T12:01:03-04:00",
+      "action_code": "H14000",
+      "references": [],
+      "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T12:12:19-04:00",
+      "action_code": "H15000",
+      "references": [],
+      "text": "Held at the desk.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -64,10 +85,20 @@
   "status": "PASS_OVER:SENATE",
   "status_at": "2026-06-18",
   "subjects": [
-    "Government operations and politics"
+    "Due process and equal protection",
+    "Government operations and politics",
+    "Historical and cultural resources",
+    "Rule of law and government transparency",
+    "Sovereignty, recognition, national governance and status",
+    "U.S. history"
   ],
   "subjects_top_term": "Government operations and politics",
-  "summary": null,
+  "summary": {
+    "as": "Passed Senate",
+    "asOf": "2026-06-18",
+    "date": "2026-06-25T18:54:00Z",
+    "text": "Declaration of Independence Reaffirmation Act of 2026\n\nThis bill reaffirms and readopts the Declaration of Independence as an organic law of the United States and as the enduring charter of American independence, national sovereignty, natural rights, equal citizenship, and government by consent. (Organic laws are the laws that form the original foundation of a government.)"
+  },
   "titles": [
     {
       "as": null,
@@ -91,6 +122,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-23T03:05:23Z",
+  "updated_at": "2026-06-26T20:00:54Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4828.xml"
 }

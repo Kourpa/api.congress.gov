@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1693</number>
-    <updateDate>2026-03-05T02:13:31Z</updateDate>
-    <updateDateIncludingText>2026-03-05T02:13:31Z</updateDateIncludingText>
+    <updateDate>2026-06-25T08:08:10Z</updateDate>
+    <updateDateIncludingText>2026-06-25T08:08:10Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-06-24T18:00:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -33,8 +45,9 @@
         <number>790</number>
         <type>S</type>
         <latestAction>
-          <actionDate>2026-02-04</actionDate>
-          <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+          <actionDate>2026-05-20</actionDate>
+          <text>Held at the desk.</text>
+          <actionTime>16:38:50</actionTime>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -45,6 +58,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-02-27</actionDate>
         <text>Referred to the House Committee on Natural Resources.</text>
@@ -159,8 +187,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-02-27</actionDate>
-      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2026-06-24</actionDate>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

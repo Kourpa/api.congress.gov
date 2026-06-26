@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>86</number>
-    <updateDate>2026-06-23T15:48:17Z</updateDate>
-    <updateDateIncludingText>2026-06-23T15:48:17Z</updateDateIncludingText>
+    <updateDate>2026-06-25T14:24:25Z</updateDate>
+    <updateDateIncludingText>2026-06-25T14:24:25Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -19,6 +19,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-06-23T18:59:04Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2026-06-04T19:05:54Z</date>
@@ -127,6 +131,82 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-24</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-06-23</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 184. (consideration: CR S3039-3040)</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>184</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00184.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-06-23T19:43:27Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-06-23</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 184.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>184</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00184.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-06-23T19:43:27Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-06-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Foreign Relations discharged pursuant to the order of 06/18/2026.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2026-06-23</actionDate>
+        <text>Senate Committee on Foreign Relations discharged pursuant to the order of 06/18/2026.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-06-04</actionDate>
         <committees>
@@ -463,6 +543,19 @@
     </titles>
     <textVersions>
       <item>
+        <type>Enrolled Bill</type>
+        <date/>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hconres86enr/uslm/BILLS-119hconres86enr.xml</url>
+            <type>United States Legislative Markup</type>
+          </item>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hconres86enr/xml/BILLS-119hconres86enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Referred in Senate</type>
         <date>2026-06-04T04:00:00Z</date>
         <formats>
@@ -491,8 +584,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-06-04</actionDate>
-      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+      <actionDate>2026-06-24</actionDate>
+      <text>Message on Senate action sent to the House.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

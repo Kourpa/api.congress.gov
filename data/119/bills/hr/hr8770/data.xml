@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8770" updated="2026-06-10T08:08:04Z">
-  <state datetime="2026-05-12">REFERRED</state>
+<bill session="119" type="h" number="8770" updated="2026-06-25T08:07:37Z">
+  <state datetime="2026-06-24">REPORTED</state>
   <status>
-    <introduced datetime="2026-05-12"/>
+    <unknown datetime="2026-06-24"/>
   </status>
   <introduced datetime="2026-05-12"/>
   <titles>
@@ -28,12 +28,23 @@
     <action datetime="2026-05-13">
       <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
     </action>
+    <action datetime="2026-06-24">
+      <text>Subcommittee on Transportation and Maritime Security Discharged</text>
+    </action>
+    <action datetime="2026-06-24">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-24" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 26 - 3.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
-    <committee code="HSHM07" name="House Homeland Security" subcommittee="Transportation and Maritime Security" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSHM07" name="House Homeland Security" subcommittee="Transportation and Maritime Security" activity="Discharged, Referral"/>
   </committees>
   <relatedbills/>
-  <subjects/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
   <amendments/>
 </bill>

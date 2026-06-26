@@ -46,6 +46,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C001118",
+      "district": "6",
+      "name": "Cline, Ben",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-24",
+      "state": "VA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "D000032",
       "district": "19",
       "name": "Donalds, Byron",
@@ -134,6 +144,16 @@
       "state": "NY",
       "title": "Rep.",
       "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "V000134",
+      "district": "24",
+      "name": "Van Duyne, Beth",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-24",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
     }
   ],
   "enacted_as": null,
@@ -147,7 +167,14 @@
   "number": "9160",
   "official_title": "To establish a new ground for inadmissibility for close relatives of foreign terrorists.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s4526-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
+    }
+  ],
   "short_title": "No Safe Haven for Terrorist Families Act",
   "sponsor": {
     "bioguide_id": "S001214",
@@ -159,8 +186,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-06-04",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Immigration"
+  ],
+  "subjects_top_term": "Immigration",
   "summary": null,
   "titles": [
     {
@@ -185,6 +214,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2026-06-17T14:03:39Z",
+  "updated_at": "2026-06-25T08:07:55Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9160.xml"
 }

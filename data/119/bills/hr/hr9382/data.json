@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Homeland Security.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-24",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-24",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by the Yeas and Nays: 30 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Homeland Security",
@@ -34,10 +56,22 @@
     }
   ],
   "congress": "119",
-  "cosponsors": [],
+  "cosponsors": [
+    {
+      "bioguide_id": "L000598",
+      "district": "1",
+      "name": "LaLota, Nick",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-23",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    }
+  ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-24",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -56,8 +90,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-06-22",
+  "status": "REPORTED",
+  "status_at": "2026-06-24",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -77,6 +111,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-06-23T08:33:26Z",
+  "updated_at": "2026-06-25T08:07:51Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9382.xml"
 }

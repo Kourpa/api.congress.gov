@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2152</number>
-    <updateDate>2026-05-18T19:15:53Z</updateDate>
-    <updateDateIncludingText>2026-05-18T19:15:53Z</updateDateIncludingText>
+    <updateDate>2026-06-25T08:08:43Z</updateDate>
+    <updateDateIncludingText>2026-06-25T08:08:43Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-06-24T18:57:49Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-05-13T15:51:00Z</date>
           </item>
@@ -31,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-06-24</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 615.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00615</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-06-24</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-708.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-06-24</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-708.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-05-13</actionDate>
         <committees>
@@ -242,6 +291,26 @@
     <title>AI PLAN Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>AI PLAN Act</title>
+        <updateDate>2026-06-25T04:23:28Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Artificial Intelligence Practices, Logistics, Actions, and Necessities Act</title>
+        <updateDate>2026-06-25T04:23:28Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>AI PLAN Act</title>
@@ -274,6 +343,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-06-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2152rh/xml/BILLS-119hr2152rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-14T04:00:00Z</date>
         <formats>
@@ -284,8 +362,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-05-13</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 52 - 0.</text>
+      <actionDate>2026-06-24</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 615.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

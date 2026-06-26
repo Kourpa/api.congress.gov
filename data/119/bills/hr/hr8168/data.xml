@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8168" updated="2026-06-05T08:07:15Z">
-  <state datetime="2026-03-30">REFERRED</state>
+<bill session="119" type="h" number="8168" updated="2026-06-25T08:08:32Z">
+  <state datetime="2026-06-24">REPORTED</state>
   <status>
-    <introduced datetime="2026-03-30"/>
+    <unknown datetime="2026-06-24"/>
   </status>
   <introduced datetime="2026-03-30"/>
   <titles>
@@ -23,10 +23,19 @@
     <action datetime="2026-03-31">
       <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
     </action>
+    <action datetime="2026-06-24">
+      <text>Subcommittee on Counterterrorism and Intelligence Discharged</text>
+    </action>
+    <action datetime="2026-06-24">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-24" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 28 - 2.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
-    <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism, Law Enforcement, and Intelligence" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism, Law Enforcement, and Intelligence" activity="Discharged, Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

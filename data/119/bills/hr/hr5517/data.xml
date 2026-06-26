@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5517" updated="2026-05-20T08:08:16Z">
-  <state datetime="2025-09-19">REFERRED</state>
+<bill session="119" type="h" number="5517" updated="2026-06-25T08:08:34Z">
+  <state datetime="2026-06-24">REPORTED</state>
   <status>
-    <introduced datetime="2025-09-19"/>
+    <unknown datetime="2026-06-24"/>
   </status>
   <introduced datetime="2025-09-19"/>
   <titles>
@@ -25,6 +25,7 @@
     <cosponsor bioguide_id="K000376" joined="2026-01-30"/>
     <cosponsor bioguide_id="L000599" joined="2025-09-19"/>
     <cosponsor bioguide_id="L000596" joined="2025-09-19"/>
+    <cosponsor bioguide_id="M001230" joined="2026-06-23"/>
     <cosponsor bioguide_id="M000317" joined="2026-01-30"/>
     <cosponsor bioguide_id="N000189" joined="2026-02-04"/>
     <cosponsor bioguide_id="S001148" joined="2025-09-19"/>
@@ -47,10 +48,19 @@
     <action datetime="2025-09-22">
       <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
     </action>
+    <action datetime="2026-06-24">
+      <text>Subcommittee on Border Security and Enforcement Discharged</text>
+    </action>
+    <action datetime="2026-06-24">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-24" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 28 - 2.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
-    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSHM11" name="House Homeland Security" subcommittee="Border Security and Enforcement" activity="Discharged, Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

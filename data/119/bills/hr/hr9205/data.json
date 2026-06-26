@@ -17,6 +17,18 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-23",
+      "action_code": "B00100",
+      "references": [
+        {
+          "reference": "CR H4134",
+          "type": null
+        }
+      ],
+      "text": "Sponsor introductory remarks on measure.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -139,8 +151,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-06-08",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Crime and law enforcement"
+  ],
+  "subjects_top_term": "Crime and law enforcement",
   "summary": null,
   "titles": [
     {
@@ -165,6 +179,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2026-06-17T14:03:33Z",
+  "updated_at": "2026-06-25T15:23:44Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9205.xml"
 }

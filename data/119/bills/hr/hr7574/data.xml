@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7574" updated="2026-06-02T13:15:16Z">
-  <state datetime="2026-02-13">REFERRED</state>
+<bill session="119" type="h" number="7574" updated="2026-06-25T08:08:39Z">
+  <state datetime="2026-06-24">REPORTED</state>
   <status>
-    <introduced datetime="2026-02-13"/>
+    <unknown datetime="2026-06-24"/>
   </status>
   <introduced datetime="2026-02-13"/>
   <titles>
@@ -30,9 +30,15 @@
     <action datetime="2026-05-14">
       <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
     </action>
+    <action datetime="2026-06-24">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-24" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 27 - 3.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism, Law Enforcement, and Intelligence" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills/>
