@@ -47,6 +47,27 @@
       "references": [],
       "text": "Referred to the Subcommittee on Aviation.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-24",
+      "action_code": "",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-24",
+      "action_code": "",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -55,6 +76,14 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Markup By",
+        "Referred To"
+      ],
+      "committee": "House Committee on House Administration",
+      "committee_id": "HSHA"
+    },
     {
       "activity": [
         "Referred To"
@@ -77,13 +106,6 @@
       ],
       "committee": "House Judiciary",
       "committee_id": "HSJU"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Committee on House Administration",
-      "committee_id": "HSHA"
     }
   ],
   "congress": "119",
@@ -121,7 +143,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-24",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -140,8 +163,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-05-13",
+  "status": "REPORTED",
+  "status_at": "2026-06-24",
   "subjects": [
     "Transportation and public works"
   ],
@@ -170,6 +193,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-03T09:05:42Z",
+  "updated_at": "2026-06-26T08:07:47Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3334.xml"
 }

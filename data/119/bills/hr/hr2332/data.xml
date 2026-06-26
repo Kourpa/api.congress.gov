@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2332" updated="2025-12-05T22:47:44Z">
-  <state datetime="2025-03-25">REFERRED</state>
+<bill session="119" type="h" number="2332" updated="2026-06-26T08:07:31Z">
+  <state datetime="2026-06-25">REPORTED</state>
   <status>
-    <introduced datetime="2025-03-25"/>
+    <unknown datetime="2026-06-25"/>
   </status>
   <introduced datetime="2025-03-25"/>
   <titles>
@@ -51,10 +51,16 @@
     <action datetime="2025-03-25">
       <text>Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-06-25">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1101" relation="unknown"/>

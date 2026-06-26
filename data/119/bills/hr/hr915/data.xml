@@ -1,14 +1,16 @@
-<bill session="119" type="h" number="915" updated="2026-06-18T14:19:02Z">
-  <state datetime="2026-05-20">REPORTED</state>
+<bill session="119" type="h" number="915" updated="2026-06-26T16:47:20Z">
+  <state datetime="2026-06-24T17:17:16-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-05-20"/>
+    <unknown datetime="2026-06-24T17:17:16-04:00"/>
   </status>
   <introduced datetime="2025-02-04"/>
   <titles>
+    <title type="display">Small Business Technological Advancement Act</title>
     <title type="short" as="introduced">Small Business Technological Act of 2025</title>
     <title type="short" as="reported to house">Small Business Technological Act of 2025</title>
-    <title type="display">Small Business Technological Act of 2025</title>
+    <title type="short" as="passed house">Small Business Technological Advancement Act</title>
     <title type="official" as="introduced">To authorize small business loans to finance access to modern business software, and for other purposes.</title>
+    <title type="official">To authorize small business loans to finance access to modern business software, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="A000379"/>
   <cosponsors>
@@ -35,6 +37,30 @@
     <calendar datetime="2026-06-03" calendar="Union" number="591">
       <text>Placed on the Union Calendar, Calendar No. 591.</text>
     </calendar>
+    <action datetime="2026-06-23T15:06:25-04:00">
+      <text>Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-06-23T15:06:53-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4142-4143" label="consideration"/>
+      <reference ref="CR H4142" label="text"/>
+    </action>
+    <action datetime="2026-06-23T15:06:54-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 915.</text>
+    </action>
+    <action datetime="2026-06-23T15:14:21-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Williams (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+    </action>
+    <action datetime="2026-06-24T17:06:25-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4227" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="226" datetime="2026-06-24T17:17:16-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 4, 1 Present (Roll no. 226).</text>
+    </vote>
+    <action datetime="2026-06-24T17:17:18-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>

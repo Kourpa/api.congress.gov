@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Education and Workforce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-25",
+      "action_code": "",
+      "committees": [
+        "HSED"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-25",
+      "action_code": "",
+      "committees": [
+        "HSED"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Education and Workforce",
@@ -72,6 +94,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2026-06-22",
       "state": "IN",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "H001058",
+      "district": "4",
+      "name": "Huizenga, Bill",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-24",
+      "state": "MI",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -138,7 +170,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-25",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -164,8 +197,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-09-18",
+  "status": "REPORTED",
+  "status_at": "2026-06-25",
   "subjects": [
     "Education",
     "Education programs funding",
@@ -198,6 +231,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-23T08:05:41Z",
+  "updated_at": "2026-06-26T08:07:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5505.xml"
 }

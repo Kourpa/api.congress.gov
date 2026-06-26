@@ -58,6 +58,76 @@
       "text": "Placed on the Union Calendar, Calendar No. 591.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-06-23T15:06:25-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T15:06:53-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4142-4143",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H4142",
+          "type": "text"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T15:06:54-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 915.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T15:14:21-04:00",
+      "action_code": "H37210",
+      "references": [],
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Williams (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-24T17:06:25-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4227",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-24T17:17:16-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "226",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 4, 1 Present (Roll no. 226).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-24T17:17:18-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -117,6 +187,8 @@
     "active_at": "2026-05-20",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-24T17:17:16-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-04",
@@ -131,7 +203,7 @@
       "type": "bill"
     }
   ],
-  "short_title": "Small Business Technological Act of 2025",
+  "short_title": "Small Business Technological Advancement Act",
   "sponsor": {
     "bioguide_id": "A000379",
     "district": "4",
@@ -140,8 +212,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-05-20",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-24T17:17:16-04:00",
   "subjects": [
     "Advanced technology and technological innovations",
     "Commerce",
@@ -157,6 +229,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Small Business Technological Advancement Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -171,11 +250,11 @@
       "type": "short"
     },
     {
-      "as": null,
+      "as": "passed house",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Small Business Technological Act of 2025",
-      "type": "display"
+      "title": "Small Business Technological Advancement Act",
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -183,8 +262,15 @@
       "textVersionCode": null,
       "title": "To authorize small business loans to finance access to modern business software, and for other purposes.",
       "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To authorize small business loans to finance access to modern business software, and for other purposes.",
+      "type": "official"
     }
   ],
-  "updated_at": "2026-06-18T14:19:02Z",
+  "updated_at": "2026-06-26T16:47:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr915.xml"
 }

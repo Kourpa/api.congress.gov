@@ -58,6 +58,76 @@
       "text": "Placed on the Union Calendar, Calendar No. 426.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-06-23T14:54:12-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Williams (TX) moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T14:54:15-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4140-4141",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H4140",
+          "type": "text"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T14:54:16-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 7401.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-23T14:59:53-04:00",
+      "action_code": "H37210",
+      "references": [],
+      "text": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Williams (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-24T16:31:46-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4226-4227",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-24T17:06:11-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "225",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0, 1 Present (Roll no. 225).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-24T17:06:13-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -97,6 +167,8 @@
     "active_at": "2026-02-11",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-24T17:06:11-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-02-05",
@@ -113,8 +185,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-02-11",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-24T17:06:11-04:00",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Commerce",
@@ -145,11 +217,11 @@
       "type": "short"
     },
     {
-      "as": null,
+      "as": "passed house",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Small Business Lending Fraud Prevention Act",
-      "type": "display"
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -157,8 +229,22 @@
       "textVersionCode": null,
       "title": "To require employees of the Small Business Administration to certify that the employee does not have any prohibited conflicts of interest with respect to loans in which the employee is involved, and for other purposes.",
       "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To require employees of the Small Business Administration to certify that the employee does not have any prohibited conflicts of interest with respect to loans in which the employee is involved, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Small Business Lending Fraud Prevention Act",
+      "type": "display"
     }
   ],
-  "updated_at": "2026-06-17T17:41:55Z",
+  "updated_at": "2026-06-26T16:46:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7401.xml"
 }

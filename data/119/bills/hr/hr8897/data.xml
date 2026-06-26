@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8897" updated="2026-06-10T08:07:21Z">
-  <state datetime="2026-05-19">REFERRED</state>
+<bill session="119" type="h" number="8897" updated="2026-06-26T08:07:50Z">
+  <state datetime="2026-06-24">REPORTED</state>
   <status>
-    <introduced datetime="2026-05-19"/>
+    <unknown datetime="2026-06-24"/>
   </status>
   <introduced datetime="2026-05-19"/>
   <titles>
@@ -12,6 +12,7 @@
   <sponsor bioguide_id="M001230"/>
   <cosponsors>
     <cosponsor bioguide_id="F000477" joined="2026-05-19"/>
+    <cosponsor bioguide_id="V000138" joined="2026-06-25"/>
   </cosponsors>
   <actions>
     <action datetime="2026-05-19">
@@ -23,12 +24,23 @@
     <action datetime="2026-05-20">
       <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
     </action>
+    <action datetime="2026-06-24">
+      <text>Subcommittee on Transportation and Maritime Security Discharged</text>
+    </action>
+    <action datetime="2026-06-24">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-24" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 30 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
-    <committee code="HSHM07" name="House Homeland Security" subcommittee="Transportation and Maritime Security" activity="Referral"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSHM07" name="House Homeland Security" subcommittee="Transportation and Maritime Security" activity="Discharged, Referral"/>
   </committees>
   <relatedbills/>
-  <subjects/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
   <amendments/>
 </bill>

@@ -1,14 +1,16 @@
-<bill session="119" type="h" number="7401" updated="2026-06-17T17:41:55Z">
-  <state datetime="2026-02-11">REPORTED</state>
+<bill session="119" type="h" number="7401" updated="2026-06-26T16:46:27Z">
+  <state datetime="2026-06-24T17:06:11-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-02-11"/>
+    <unknown datetime="2026-06-24T17:06:11-04:00"/>
   </status>
   <introduced datetime="2026-02-05"/>
   <titles>
     <title type="short" as="introduced">Small Business Lending Fraud Prevention Act</title>
     <title type="short" as="reported to house">Small Business Lending Fraud Prevention Act</title>
-    <title type="display">Small Business Lending Fraud Prevention Act</title>
+    <title type="short" as="passed house">Small Business Lending Fraud Prevention Act</title>
     <title type="official" as="introduced">To require employees of the Small Business Administration to certify that the employee does not have any prohibited conflicts of interest with respect to loans in which the employee is involved, and for other purposes.</title>
+    <title type="official">To require employees of the Small Business Administration to certify that the employee does not have any prohibited conflicts of interest with respect to loans in which the employee is involved, and for other purposes.</title>
+    <title type="display">Small Business Lending Fraud Prevention Act</title>
   </titles>
   <sponsor bioguide_id="M001204"/>
   <cosponsors>
@@ -33,6 +35,30 @@
     <calendar datetime="2026-02-20" calendar="Union" number="426">
       <text>Placed on the Union Calendar, Calendar No. 426.</text>
     </calendar>
+    <action datetime="2026-06-23T14:54:12-04:00">
+      <text>Mr. Williams (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-06-23T14:54:15-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4140-4141" label="consideration"/>
+      <reference ref="CR H4140" label="text"/>
+    </action>
+    <action datetime="2026-06-23T14:54:16-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7401.</text>
+    </action>
+    <action datetime="2026-06-23T14:59:53-04:00">
+      <text>At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Williams (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.</text>
+    </action>
+    <action datetime="2026-06-24T16:31:46-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4226-4227" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="225" datetime="2026-06-24T17:06:11-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0, 1 Present (Roll no. 225).</text>
+    </vote>
+    <action datetime="2026-06-24T17:06:13-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>
