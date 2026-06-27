@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="196" updated="2026-06-23T10:56:23Z">
+<bill session="119" type="sj" number="196" updated="2026-06-26T17:11:46Z">
   <state datetime="2026-06-04">REFERRED</state>
   <status>
     <introduced datetime="2026-06-04"/>
@@ -32,11 +32,19 @@
     <calendar datetime="2026-06-10" calendar="Senate Legislative" under="General Orders" number="432">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 432.</text>
     </calendar>
+    <action datetime="2026-06-24">
+      <text>Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 190.</text>
+      <reference ref="CR S3193"/>
+    </action>
   </actions>
   <committees>
     <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="hj" number="189" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
   <amendments/>
 </bill>

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6444" updated="2026-06-02T17:10:45Z">
+<bill session="119" type="h" number="6444" updated="2026-06-27T00:31:41Z">
   <state datetime="2026-05-14">REPORTED</state>
   <status>
     <unknown datetime="2026-05-14"/>
@@ -67,7 +67,10 @@
     <committee code="HSVR03" name="House Veterans' Affairs" subcommittee="Health" activity="Reporting, Markup, Hearings By (Subcommittee), Referral"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="9237" relation="unknown"/>
+    <bill session="119" type="h" number="8800" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
     <term name="Disability and paralysis"/>

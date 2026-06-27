@@ -261,6 +261,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "D000623",
+      "district": "10",
+      "name": "DeSaulnier, Mark",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-23",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "D000635",
       "district": "3",
       "name": "Dexter, Maxine",
@@ -497,6 +507,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2026-06-04",
       "state": "MA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001223",
+      "district": "2",
+      "name": "Magaziner, Seth",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-06-23",
+      "state": "RI",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -983,7 +1003,20 @@
   "number": "1342",
   "official_title": "Expressing support for the designation of June 5, 2026, as \"National Gun Violence Awareness Day\" and June 2026 as \"National Gun Violence Awareness Month\".",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres457-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "sres756-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "K000385",
@@ -995,8 +1028,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-06-04",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Crime and law enforcement"
+  ],
+  "subjects_top_term": "Crime and law enforcement",
   "summary": null,
   "titles": [
     {
@@ -1014,6 +1049,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-06-09T08:06:03Z",
+  "updated_at": "2026-06-26T17:10:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1342.xml"
 }
