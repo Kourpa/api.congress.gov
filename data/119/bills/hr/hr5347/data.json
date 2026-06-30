@@ -98,6 +98,47 @@
       "references": [],
       "text": "Ordered to be Reported by the Yeas and Nays: 44 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-06-29T14:46:29-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-29T14:46:42-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-29T14:46:44-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5347.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-29T14:57:38-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-06-29T14:57:44-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -183,6 +224,8 @@
     "active_at": "2025-09-17",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-06-29T14:57:38-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-09-15",
@@ -199,8 +242,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-09-17",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-06-29T14:57:38-04:00",
   "subjects": [
     "Computers and information technology",
     "Government information and archives",
@@ -238,6 +281,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-24T16:16:01Z",
+  "updated_at": "2026-06-30T08:07:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5347.xml"
 }
