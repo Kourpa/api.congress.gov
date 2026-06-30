@@ -177,6 +177,16 @@
       "status": "ENACTED:SIGNED",
       "text": "Signed by President.",
       "type": "signed"
+    },
+    {
+      "acted_at": "2026-06-26",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "100",
+      "references": [],
+      "text": "Became Public Law No: 119-100.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -290,13 +300,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "100"
+  },
   "history": {
     "active": true,
     "active_at": "2025-04-30",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2026-06-26",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2026-06-26",
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-05-20T13:24:01-04:00",
     "senate_passage_result": "pass",
@@ -334,10 +348,10 @@
   ],
   "subjects_top_term": "Science, technology, communications",
   "summary": {
-    "as": "Introduced in Senate",
-    "asOf": "2025-03-12",
-    "date": "2025-04-28T13:39:37Z",
-    "text": "Lulu\u2019s Law\n\nThis bill requires the Federal Communications Commission to issue an order explicitly permitting the transmission of wireless emergency alerts to mobile phones in the event of a shark attack.\u00a0\n\n(Under current regulations, authorized government authorities are permitted to send wireless emergency alerts regarding public safety emergencies, including severe weather, missing children, and other threats to life or property.)"
+    "as": "Public Law",
+    "asOf": "2026-06-26",
+    "date": "2026-06-30T12:39:56Z",
+    "text": "Lulu\u2019s Law\n\nThis act requires the Federal Communications Commission to issue an order explicitly permitting the transmission of wireless emergency alerts to mobile phones in the event of a shark attack.\n\n(Under current regulations, authorized government authorities are permitted to send wireless emergency alerts regarding public safety emergencies, including severe weather, missing children, and other threats to life or property.)"
   },
   "titles": [
     {
@@ -383,6 +397,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-29T18:45:17Z",
+  "updated_at": "2026-06-30T13:50:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1003.xml"
 }
