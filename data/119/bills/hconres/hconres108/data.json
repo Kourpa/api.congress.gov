@@ -41,7 +41,16 @@
     {
       "acted_at": "2026-06-29T19:18:37-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4304-4309",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H4304",
+          "type": "text"
+        }
+      ],
       "text": "Considered pursuant to a previous order.",
       "type": "action"
     },
@@ -577,6 +586,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-06-30T08:07:05Z",
+  "updated_at": "2026-06-30T15:11:19Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres108.xml"
 }

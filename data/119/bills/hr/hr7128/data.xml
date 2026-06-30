@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7128" updated="2026-06-30T08:05:48Z">
+<bill session="119" type="h" number="7128" updated="2026-06-30T15:10:18Z">
   <state datetime="2026-06-29T19:09:43-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-06-29T19:09:43-04:00"/>
@@ -41,6 +41,7 @@
     </action>
     <action datetime="2026-06-29T15:00:21-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4273-4279" label="consideration"/>
     </action>
     <action datetime="2026-06-29T15:00:23-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7128.</text>
@@ -50,9 +51,11 @@
     </action>
     <action datetime="2026-06-29T19:02:26-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H4302-4303" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="229" datetime="2026-06-29T19:09:43-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 15 (Roll no. 229).</text>
+      <reference ref="CR H4273-4274" label="text"/>
     </vote>
     <action datetime="2026-06-29T19:09:46-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

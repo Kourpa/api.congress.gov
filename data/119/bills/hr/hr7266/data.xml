@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7266" updated="2026-06-30T08:07:14Z">
+<bill session="119" type="h" number="7266" updated="2026-06-30T15:08:17Z">
   <state datetime="2026-06-29T16:35:44-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-06-29T16:35:44-04:00"/>
@@ -42,12 +42,14 @@
     </action>
     <action datetime="2026-06-29T16:25:53-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4299-4300" label="consideration"/>
     </action>
     <action datetime="2026-06-29T16:25:54-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7266.</text>
     </action>
     <vote how="by voice vote" type="vote" datetime="2026-06-29T16:35:44-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4299" label="text"/>
     </vote>
     <action datetime="2026-06-29T16:35:46-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

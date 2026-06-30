@@ -38,7 +38,12 @@
     {
       "acted_at": "2026-06-29T15:31:53-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4280-4296",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -59,7 +64,12 @@
     {
       "acted_at": "2026-06-29T18:30:49-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4302",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -67,7 +77,12 @@
       "acted_at": "2026-06-29T19:02:07-04:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4280-4292",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "228",
       "status": "PASS_OVER:HOUSE",
@@ -159,7 +174,35 @@
   "status": "PASS_OVER:HOUSE",
   "status_at": "2026-06-29T19:02:07-04:00",
   "subjects": [
-    "Commerce"
+    "Administrative law and regulatory procedures",
+    "Advanced technology and technological innovations",
+    "Advisory bodies",
+    "Assault and harassment offenses",
+    "Child safety and welfare",
+    "Civil actions and liability",
+    "Commerce",
+    "Computer security and identity theft",
+    "Computers and information technology",
+    "Congressional oversight",
+    "Consumer affairs",
+    "Data collection, sharing, protection",
+    "Digital media",
+    "Drug trafficking and controlled substances",
+    "Drug, alcohol, tobacco use",
+    "Educational guidance",
+    "Federal Trade Commission (FTC)",
+    "Federal preemption",
+    "Fraud offenses and financial crimes",
+    "Government information and archives",
+    "Government studies and investigations",
+    "Intergovernmental relations",
+    "Internet, web applications, social media",
+    "Marketing and advertising",
+    "Mental health",
+    "Product safety and quality",
+    "Public-private cooperation",
+    "Right of privacy",
+    "State and local government operations"
   ],
   "subjects_top_term": "Commerce",
   "summary": {
@@ -296,6 +339,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-30T08:07:15Z",
+  "updated_at": "2026-06-30T18:09:49Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7757.xml"
 }
