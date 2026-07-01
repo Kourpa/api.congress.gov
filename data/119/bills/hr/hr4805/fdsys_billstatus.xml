@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4805</number>
-    <updateDate>2026-06-03T08:08:42Z</updateDate>
-    <updateDateIncludingText>2026-06-03T08:08:42Z</updateDateIncludingText>
+    <updateDate>2026-07-01T08:08:50Z</updateDate>
+    <updateDateIncludingText>2026-07-01T08:08:50Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -24,6 +24,10 @@
             <name>Health Subcommittee</name>
             <activities>
               <item>
+                <name>Hearings By (subcommittee)</name>
+                <date>2026-06-30T13:36:57Z</date>
+              </item>
+              <item>
                 <name>Referred to</name>
                 <date>2025-10-22T15:48:00Z</date>
               </item>
@@ -39,6 +43,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-06-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-10-22</actionDate>
         <committees>
@@ -296,8 +315,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-10-22</actionDate>
-      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2026-06-30</actionDate>
+      <text>Subcommittee Hearings Held</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

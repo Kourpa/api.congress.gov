@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="9330" updated="2026-06-19T08:23:33Z">
-  <state datetime="2026-06-18">REFERRED</state>
+<bill session="119" type="h" number="9330" updated="2026-07-01T08:09:25Z">
+  <state datetime="2026-06-30">REPORTED</state>
   <status>
-    <introduced datetime="2026-06-18"/>
+    <unknown datetime="2026-06-30"/>
   </status>
   <introduced datetime="2026-06-18"/>
   <titles>
@@ -18,9 +18,15 @@
     <action datetime="2026-06-18" state="REFERRED">
       <text>Referred to the House Committee on Financial Services.</text>
     </action>
+    <action datetime="2026-06-30">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-06-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 22.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

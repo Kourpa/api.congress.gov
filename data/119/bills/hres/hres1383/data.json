@@ -20,6 +20,29 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Ways and Means.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-30T09:16:41-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1398-119",
+        "hr8800-119",
+        "hr8595-119",
+        "hr8884-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1398 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8595, H.R. 8884 and H. Res. 1383. The resolution provides for consideration of H.R. 8800 and H.R. 8595 under a structured rule, and H.R. 8884 and H. Res. 1383 under a closed rule. The resolution provides for one hour of general debate on each measure and one motion to recommit on H.R. 8800, H.R. 8595, and H.R. 8884.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-06-30T14:15:33-04:00",
+      "action_code": "H1L220",
+      "bill_ids": [
+        "hres1398-119"
+      ],
+      "references": [],
+      "text": "Rule H. Res. 1398 failed passage of House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -40,7 +63,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-30T09:16:41-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -49,7 +73,14 @@
   "number": "1383",
   "official_title": "Commemorating the one-year anniversary of the enactment of the Working Families Tax Cuts.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1398-119",
+      "identified_by": "House",
+      "reason": "procedurally related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "V000134",
@@ -87,6 +118,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-06-26T15:26:54Z",
+  "updated_at": "2026-07-01T08:08:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1383.xml"
 }
