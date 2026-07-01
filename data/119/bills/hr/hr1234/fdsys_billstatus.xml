@@ -3,16 +3,15 @@
   <version>3.0.0</version>
   <bill>
     <number>1234</number>
-    <updateDate>2025-04-04T18:19:55Z</updateDate>
-    <updateDateIncludingText>2025-04-04T18:19:55Z</updateDateIncludingText>
+    <updateDate>2026-07-01T16:18:39Z</updateDate>
+    <updateDateIncludingText>2026-07-01T16:18:39Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2025-02-12</introducedDate>
     <congress>119</congress>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 171, Number 29 (Wednesday, February 12, 2025)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mrs. BICE:H.R. 1234.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H677]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/1234</legislationUrl>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 29 (Wednesday, February 12, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mrs. BICE:H.R. 1234.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H677]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>ssra00</systemCode>
@@ -39,6 +38,24 @@
         </activities>
       </item>
     </committees>
+    <relatedBills>
+      <item>
+        <title>GPO Modernization Act of 2026</title>
+        <congress>119</congress>
+        <number>9342</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2026-06-24</actionDate>
+          <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
     <actions>
       <item>
         <actionDate>2025-04-01</actionDate>
@@ -244,9 +261,7 @@
         <actionDate>2025-02-12</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-03-26T19:35:16Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This bill replaces the requirement for the Library of Congress to prepare hardbound versions of the Constitution Annotated and supplements with a requirement for the Library to instead prepare digital versions and publish them online.&lt;/p&gt;&lt;p&gt;The new requirement applies to the supplement after the Supreme Court term beginning October 2025 and all subsequent editions.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This bill replaces the requirement for the Library of Congress to prepare hardbound versions of the Constitution Annotated and supplements with a requirement for the Library to instead prepare digital versions and publish them online.</p><p>The new requirement applies to the supplement after the Supreme Court term beginning October 2025 and all subsequent editions.</p>]]></text>
       </summary>
     </summaries>
     <title>To direct the Librarian of Congress to promote the more cost-effective, efficient, and expanded availability of the Annotated Constitution and pocket-part supplements by replacing the hardbound versions with digital versions.</title>

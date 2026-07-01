@@ -84,7 +84,12 @@
     {
       "acted_at": "2026-06-30T14:17:34-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4344-4345",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -591,7 +596,14 @@
   "status": "FAIL:ORIGINATING:HOUSE",
   "status_at": "2026-06-30T14:27:19-04:00",
   "subjects": [
-    "International affairs"
+    "Conflicts and wars",
+    "Congressional oversight",
+    "Diplomacy, foreign officials, Americans abroad",
+    "International affairs",
+    "Lebanon",
+    "Middle East",
+    "Presidents and presidential powers, Vice Presidents",
+    "War and emergency powers"
   ],
   "subjects_top_term": "International affairs",
   "summary": {
@@ -616,6 +628,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-07-01T08:09:09Z",
+  "updated_at": "2026-07-01T18:10:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres108.xml"
 }
