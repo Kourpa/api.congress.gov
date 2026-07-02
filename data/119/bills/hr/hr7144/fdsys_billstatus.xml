@@ -3,23 +3,33 @@
   <version>3.0.0</version>
   <bill>
     <number>7144</number>
-    <updateDate>2026-02-11T13:44:46Z</updateDate>
-    <updateDateIncludingText>2026-02-11T13:44:46Z</updateDateIncludingText>
+    <updateDate>2026-07-02T08:07:15Z</updateDate>
+    <updateDateIncludingText>2026-07-02T08:07:15Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
     <introducedDate>2026-01-16</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/7144</legislationUrl>
-    <cdata>
-      <constitutionalAuthorityStatementText>&lt;pre&gt;[Congressional Record Volume 172, Number 12 (Friday, January 16, 2026)][House]From the Congressional Record Online through the Government Publishing Office [&lt;a href="https://www.gpo.gov"&gt;www.gpo.gov&lt;/a&gt;]By Mr. TORRES of New York:H.R. 7144.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8.[Page H925]&lt;/pre&gt;</constitutionalAuthorityStatementText>
-    </cdata>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 12 (Friday, January 16, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. TORRES of New York:H.R. 7144.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8.[Page H925]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
         <systemCode>hsag00</systemCode>
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition and Foreign Agriculture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-03-20T18:37:41Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -29,6 +39,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-03-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition and Foreign Agriculture Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-01-16</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -91,18 +116,18 @@
     <title>Food Rescue Act</title>
     <titles>
       <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Food Rescue Act</title>
-        <updateDate>2026-02-10T04:53:17Z</updateDate>
-      </item>
-      <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
         <title>Food Rescue Act</title>
         <updateDate>2026-02-10T04:53:17Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Food Rescue Act</title>
+        <updateDate>2026-02-10T04:53:17Z</updateDate>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
@@ -125,8 +150,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-01-16</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2026-03-20</actionDate>
+      <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7476</number>
-    <updateDate>2026-04-14T14:48:04Z</updateDate>
-    <updateDateIncludingText>2026-04-14T14:48:04Z</updateDateIncludingText>
+    <updateDate>2026-07-02T08:07:17Z</updateDate>
+    <updateDateIncludingText>2026-07-02T08:07:17Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag16</systemCode>
+            <name>General Farm Commodities, Risk Management, and Credit Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-03-20T19:18:33Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -33,8 +45,8 @@
         <number>7567</number>
         <type>HR</type>
         <latestAction>
-          <actionDate>2026-03-05</actionDate>
-          <text>Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 17.</text>
+          <actionDate>2026-05-19</actionDate>
+          <text>Received in the Senate.</text>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -45,6 +57,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-03-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag16</systemCode>
+            <name>General Farm Commodities, Risk Management, and Credit Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-02-10</actionDate>
         <text>Referred to the House Committee on Agriculture.</text>
@@ -142,8 +169,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-02-10</actionDate>
-      <text>Referred to the House Committee on Agriculture.</text>
+      <actionDate>2026-03-20</actionDate>
+      <text>Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -47,6 +47,16 @@
       "references": [],
       "text": "Subcommittee Hearings Held",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-03-20",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Forestry and Horticulture.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -55,6 +65,22 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Forestry and Horticulture",
+      "subcommittee_id": "15"
+    },
     {
       "activity": [
         "Referred To"
@@ -71,13 +97,6 @@
       "committee_id": "HSII",
       "subcommittee": "Subcommittee on Energy and Mineral Resources",
       "subcommittee_id": "06"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Agriculture",
-      "committee_id": "HSAG"
     }
   ],
   "congress": "119",
@@ -144,6 +163,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-14T15:23:05Z",
+  "updated_at": "2026-07-02T08:07:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7458.xml"
 }

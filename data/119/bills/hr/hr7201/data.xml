@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7201" updated="2026-02-19T16:12:06Z">
+<bill session="119" type="h" number="7201" updated="2026-07-02T08:07:08Z">
   <state datetime="2026-01-22">REFERRED</state>
   <status>
     <introduced datetime="2026-01-22"/>
@@ -21,10 +21,14 @@
     <action datetime="2026-01-22">
       <text>Referred to the Committee on Agriculture, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-03-20">
+      <text>Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG22" name="House Agriculture" subcommittee="Commodity Markets, Digital Assets, and Rural Development" activity="Referral"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="7571" updated="2026-03-09T23:23:34Z">
+<bill session="119" type="h" number="7571" updated="2026-07-02T08:07:24Z">
   <state datetime="2026-02-13">REFERRED</state>
   <status>
     <introduced datetime="2026-02-13"/>
   </status>
   <introduced datetime="2026-02-13"/>
   <titles>
-    <title type="display">GusNIP Expansion Act of 2026</title>
     <title type="short" as="introduced">GusNIP Expansion Act of 2026</title>
+    <title type="display">GusNIP Expansion Act of 2026</title>
     <title type="official" as="introduced">To amend the Food, Conservation, and Energy Act of 2008 with respect to the Gus Schumacher Nutrition Incentive Program and the sustainability of such program, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001087"/>
@@ -20,9 +20,13 @@
     <action datetime="2026-02-13" state="REFERRED">
       <text>Referred to the House Committee on Agriculture.</text>
     </action>
+    <action datetime="2026-03-20">
+      <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG03" name="House Agriculture" subcommittee="Nutrition and Foreign Agriculture" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

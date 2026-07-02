@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="7144" updated="2026-02-11T13:44:46Z">
+<bill session="119" type="h" number="7144" updated="2026-07-02T08:07:15Z">
   <state datetime="2026-01-16">REFERRED</state>
   <status>
     <introduced datetime="2026-01-16"/>
   </status>
   <introduced datetime="2026-01-16"/>
   <titles>
-    <title type="display">Food Rescue Act</title>
     <title type="short" as="introduced">Food Rescue Act</title>
+    <title type="display">Food Rescue Act</title>
     <title type="official" as="introduced">To amend the Emergency Food Assistance Act of 1983 to establish a national food rescue system through partnerships with food rescue organizations.</title>
   </titles>
   <sponsor bioguide_id="T000486"/>
@@ -18,9 +18,13 @@
     <action datetime="2026-01-16" state="REFERRED">
       <text>Referred to the House Committee on Agriculture.</text>
     </action>
+    <action datetime="2026-03-20">
+      <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
+    <committee code="HSAG03" name="House Agriculture" subcommittee="Nutrition and Foreign Agriculture" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
