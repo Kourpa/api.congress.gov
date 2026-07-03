@@ -209,7 +209,7 @@
     {
       "bill_id": "hres1382-119",
       "identified_by": "CRS",
-      "reason": "identical",
+      "reason": "related",
       "type": "bill"
     }
   ],
@@ -224,8 +224,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-06-24",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Law"
+  ],
+  "subjects_top_term": "Law",
   "summary": null,
   "titles": [
     {
@@ -243,6 +245,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-06-29T20:16:37Z",
+  "updated_at": "2026-07-02T22:08:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres787.xml"
 }
