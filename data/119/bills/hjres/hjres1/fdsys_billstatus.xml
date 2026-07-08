@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1</number>
-    <updateDate>2026-06-04T08:08:26Z</updateDate>
-    <updateDateIncludingText>2026-06-04T08:08:26Z</updateDateIncludingText>
+    <updateDate>2026-07-07T08:05:48Z</updateDate>
+    <updateDateIncludingText>2026-07-07T08:05:48Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HJRES</type>
@@ -19,6 +19,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-07-06T14:51:46Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-06-03T21:16:50Z</date>
@@ -49,6 +53,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-07-06</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 84.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>H00084</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-07-06</actionDate>
+        <text>Reported by the Committee on Judiciary. H. Rept. 119-732.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-07-06</actionDate>
+        <text>Reported by the Committee on Judiciary. H. Rept. 119-732.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-06-03</actionDate>
         <committees>
@@ -204,6 +253,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-07-06T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hjres1rh/xml/BILLS-119hjres1rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-01-03T05:00:00Z</date>
         <formats>
@@ -214,8 +272,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-06-03</actionDate>
-      <text>Ordered to be Reported by the Yeas and Nays: 15 - 8.</text>
+      <actionDate>2026-07-06</actionDate>
+      <text>Placed on the House Calendar, Calendar No. 84.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

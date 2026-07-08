@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="1361" updated="2026-07-01T15:00:44Z">
+<bill session="119" type="hr" number="1361" updated="2026-07-07T13:05:19Z">
   <state datetime="2026-06-11">REFERRED</state>
   <status>
     <introduced datetime="2026-06-11"/>
@@ -36,7 +36,9 @@
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="446" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Emergency management"/>
   </subjects>
