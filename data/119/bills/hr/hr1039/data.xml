@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1039" updated="2025-06-02T20:27:28Z">
+<bill session="119" type="h" number="1039" updated="2026-07-08T16:15:37Z">
   <state datetime="2025-04-07T19:04:59-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-04-07T19:04:59-04:00"/>
@@ -41,7 +41,7 @@
     </action>
     <action datetime="2025-04-07T17:00:28-04:00">
       <text>Considered under suspension of the rules.</text>
-      <reference ref="CR H1437-1439: 1" label="consideration"/>
+      <reference ref="CR H1437-1439" label="consideration"/>
     </action>
     <action datetime="2025-04-07T17:00:29-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1039.</text>
@@ -51,11 +51,11 @@
     </action>
     <action datetime="2025-04-07T18:58:29-04:00">
       <text>Considered as unfinished business.</text>
-      <reference ref="CR H1442-1443: 2" label="consideration"/>
+      <reference ref="CR H1442-1443" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="90" datetime="2025-04-07T19:04:59-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 90).</text>
-      <reference ref="CR H1437: 1" label="text"/>
+      <reference ref="CR H1437" label="text"/>
     </vote>
     <action datetime="2025-04-07T19:05:00-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -70,6 +70,8 @@
     <committee code="HSVR09" name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>
+    <bill session="119" type="h" number="9237" relation="unknown"/>
+    <bill session="119" type="s" number="4744" relation="unknown"/>
     <bill session="119" type="s" number="1311" relation="unknown"/>
   </relatedbills>
   <subjects>
@@ -84,5 +86,9 @@
     <term name="Veterans' pensions and compensation"/>
   </subjects>
   <amendments/>
-  <summary date="2025-03-21T13:34:40Z" status="Introduced in House"></summary>
+  <summary date="2025-03-21T13:34:40Z" status="Introduced in House">Clear Communication for Veterans Claims Act
+
+This bill requires the Department of Veterans Affairs (VA) to seek to enter into an agreement with a federally funded research and development center to assess notices that the VA sends to claimants applying for or submitting claims for VA benefits. The VA must report on the findings of the assessment and implement recommendations in the assessment.
+
+The bill also extends certain loan fee rates through June 23, 2034, under the VA's home loan program.</summary>
 </bill>

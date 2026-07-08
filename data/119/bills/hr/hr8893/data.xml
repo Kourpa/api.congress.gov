@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8893" updated="2026-06-16T16:09:54Z">
-  <state datetime="2026-05-19">REFERRED</state>
+<bill session="119" type="h" number="8893" updated="2026-07-08T08:05:59Z">
+  <state datetime="2026-07-07">REPORTED</state>
   <status>
-    <introduced datetime="2026-05-19"/>
+    <unknown datetime="2026-07-07"/>
   </status>
   <introduced datetime="2026-05-19"/>
   <titles>
@@ -14,6 +14,7 @@
     <cosponsor bioguide_id="B001292" joined="2026-05-19"/>
     <cosponsor bioguide_id="F000466" joined="2026-05-19"/>
     <cosponsor bioguide_id="M001219" joined="2026-05-19"/>
+    <cosponsor bioguide_id="V000138" joined="2026-07-06"/>
   </cosponsors>
   <actions>
     <action datetime="2026-05-19">
@@ -22,9 +23,15 @@
     <action datetime="2026-05-19" state="REFERRED">
       <text>Referred to the House Committee on Science, Space, and Technology.</text>
     </action>
+    <action datetime="2026-06-25">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-07" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="8479" relation="unknown"/>
