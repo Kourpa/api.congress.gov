@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="9550" updated="2026-07-06T13:38:29Z">
+<bill session="119" type="h" number="9550" updated="2026-07-13T14:53:35Z">
   <state datetime="2026-06-30">REFERRED</state>
   <status>
     <introduced datetime="2026-06-30"/>
@@ -39,7 +39,11 @@
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="4711" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+  </subjects>
   <amendments/>
 </bill>

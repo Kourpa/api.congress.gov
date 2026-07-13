@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1201</number>
-    <updateDate>2026-07-11T21:54:22Z</updateDate>
-    <updateDateIncludingText>2026-07-11T21:54:22Z</updateDateIncludingText>
+    <updateDate>2026-07-13T18:03:31Z</updateDate>
+    <updateDateIncludingText>2026-07-13T18:03:31Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -37,6 +37,17 @@
       </item>
       <item>
         <actionDate>2026-04-21</actionDate>
+        <actionTime>12:06:45</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H3005)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-04-21</actionDate>
         <actionTime>12:06:37</actionTime>
         <text>Considered as privileged matter. (consideration: CR H3005)</text>
         <type>Floor</type>
@@ -44,6 +55,27 @@
         <sourceSystem>
           <code>2</code>
           <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-04-21</actionDate>
+        <actionTime>00:00:00</actionTime>
+        <text>Submitted in House</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-04-21</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
         </sourceSystem>
       </item>
     </actions>
