@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="9516" updated="2026-07-08T21:25:20Z">
+<bill session="119" type="h" number="9516" updated="2026-07-14T08:06:35Z">
   <state datetime="2026-06-29">REFERRED</state>
   <status>
     <introduced datetime="2026-06-29"/>
@@ -32,11 +32,15 @@
     <action datetime="2026-06-29">
       <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Science, Space, and Technology, Foreign Affairs, Homeland Security, Intelligence (Permanent Select), and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-07-07">
+      <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM08" name="House Homeland Security" subcommittee="Cybersecurity and Infrastructure Protection" activity="Referral"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
     <committee code="HLIG" name="House Intelligence (Permanent Select)" subcommittee="" activity="Referred To"/>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>

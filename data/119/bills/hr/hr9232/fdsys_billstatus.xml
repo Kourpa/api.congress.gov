@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>9232</number>
-    <updateDate>2026-07-01T14:16:27Z</updateDate>
-    <updateDateIncludingText>2026-07-01T14:16:27Z</updateDateIncludingText>
+    <updateDate>2026-07-14T08:06:30Z</updateDate>
+    <updateDateIncludingText>2026-07-14T08:06:30Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Homeland Security Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hshm07</systemCode>
+            <name>Transportation and Maritime Security Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-07-07T13:54:40Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -69,6 +81,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-07-07</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm07</systemCode>
+            <name>Transportation and Maritime Security Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-06-09</actionDate>
         <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on the Judiciary, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -210,8 +237,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-06-09</actionDate>
-      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on the Judiciary, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-07-07</actionDate>
+      <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
