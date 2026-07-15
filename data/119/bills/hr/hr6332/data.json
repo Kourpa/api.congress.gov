@@ -38,6 +38,57 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 38 - 2.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-07-13T15:30:29-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Sessions moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T15:30:39-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4386-4387",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T15:30:41-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6332.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T15:44:32-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H4386",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-07-13T15:44:33-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -174,6 +225,8 @@
     "active_at": "2025-12-02",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-07-13T15:44:32-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-12-01",
@@ -190,8 +243,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-12-02",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-07-13T15:44:32-04:00",
   "subjects": [
     "Congressional tributes",
     "Government buildings, facilities, and property",
@@ -204,7 +257,7 @@
     "as": "Introduced in House",
     "asOf": "2025-12-01",
     "date": "2025-12-02T11:03:50Z",
-    "text": ""
+    "text": "This bill designates the facility of the United States Postal Service located at 10660 Page Avenue in Fairfax, Virginia, as the \"Congressman Gerald E. Connolly Post Office Building\"."
   },
   "titles": [
     {
@@ -222,6 +275,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2025-12-08T19:05:17Z",
+  "updated_at": "2026-07-14T18:40:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6332.xml"
 }

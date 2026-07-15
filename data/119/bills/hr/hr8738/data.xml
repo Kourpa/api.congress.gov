@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8738" updated="2026-07-09T21:32:22Z">
-  <state datetime="2026-05-14">REPORTED</state>
+<bill session="119" type="h" number="8738" updated="2026-07-14T19:54:49Z">
+  <state datetime="2026-07-13T17:23:09-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-05-14"/>
+    <unknown datetime="2026-07-13T17:23:09-04:00"/>
   </status>
   <introduced datetime="2026-05-12"/>
   <titles>
@@ -27,6 +27,23 @@
     </action>
     <action datetime="2026-05-14" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 11 - 0.</text>
+    </action>
+    <action datetime="2026-07-13T17:17:26-04:00">
+      <text>Mr. Steil moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-07-13T17:17:35-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4401-4402" label="consideration"/>
+    </action>
+    <action datetime="2026-07-13T17:17:36-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 8738.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-07-13T17:23:09-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4401-4402" label="text"/>
+    </vote>
+    <action datetime="2026-07-13T17:23:11-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

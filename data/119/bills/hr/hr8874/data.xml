@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="8874" updated="2026-07-08T15:22:59Z">
-  <state datetime="2026-06-24">REPORTED</state>
+<bill session="119" type="h" number="8874" updated="2026-07-14T18:47:30Z">
+  <state datetime="2026-07-13T16:20:40-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-06-24"/>
+    <unknown datetime="2026-07-13T16:20:40-04:00"/>
   </status>
   <introduced datetime="2026-05-19"/>
   <titles>
-    <title type="display">Homeland Security Capabilities Preservation Reporting Act of 2026</title>
     <title type="short" as="introduced">Homeland Security Capabilities Preservation Reporting Act of 2026</title>
+    <title type="short" as="reported to house">Homeland Security Capabilities Preservation Reporting Act of 2026</title>
+    <title type="display">Homeland Security Capabilities Preservation Reporting Act of 2026</title>
     <title type="official" as="introduced">To amend the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 to require recurring reports on the transition of jurisdictions no longer eligible for Urban Area Security Initiative funding, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001125"/>
@@ -33,9 +34,32 @@
     <action datetime="2026-06-24" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 30 - 0.</text>
     </action>
+    <action datetime="2026-07-13">
+      <text>Reported by the Committee on Homeland Security. H. Rept. 119-743.</text>
+    </action>
+    <calendar datetime="2026-07-13" calendar="Union" number="647">
+      <text>Placed on the Union Calendar, Calendar No. 647.</text>
+    </calendar>
+    <action datetime="2026-07-13T16:11:11-04:00">
+      <text>Mr. Garbarino moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-07-13T16:11:20-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4391-4392" label="consideration"/>
+    </action>
+    <action datetime="2026-07-13T16:11:24-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 8874.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-07-13T16:20:40-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4391" label="text"/>
+    </vote>
+    <action datetime="2026-07-13T16:20:43-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSHM12" name="House Homeland Security" subcommittee="Emergency Management and Technology" activity="Discharged, Referral"/>
   </committees>
   <relatedbills/>

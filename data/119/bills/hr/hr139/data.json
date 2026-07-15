@@ -17,6 +17,19 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-13T17:59:05-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1423-119",
+        "hr8595-119",
+        "hr9237-119",
+        "hr1181-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1423 Reported to House. Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -378,7 +391,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-13T17:59:05-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -388,6 +402,12 @@
   "official_title": "To make daylight savings time permanent, and for other purposes.",
   "popular_title": null,
   "related_bills": [
+    {
+      "bill_id": "hres1423-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    },
     {
       "bill_id": "s29-119",
       "identified_by": "CRS",
@@ -441,6 +461,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-11T08:06:52Z",
+  "updated_at": "2026-07-14T22:26:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr139.xml"
 }

@@ -58,6 +58,77 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 30 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-07-13",
+      "action_code": "H12200",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Homeland Security. H. Rept. 119-743.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "647",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 647.",
+      "type": "calendar",
+      "under": null
+    },
+    {
+      "acted_at": "2026-07-13T16:11:11-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Garbarino moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T16:11:20-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4391-4392",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T16:11:24-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 8874.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T16:20:40-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H4391",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-07-13T16:20:43-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -68,6 +139,7 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
@@ -114,6 +186,8 @@
     "active_at": "2026-06-24",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-07-13T16:20:40-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-05-19",
@@ -130,8 +204,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-06-24",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-07-13T16:20:40-04:00",
   "subjects": [
     "Emergency management",
     "Government information and archives",
@@ -148,6 +222,20 @@
   },
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Homeland Security Capabilities Preservation Reporting Act of 2026",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Homeland Security Capabilities Preservation Reporting Act of 2026",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -158,17 +246,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Homeland Security Capabilities Preservation Reporting Act of 2026",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To amend the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 to require recurring reports on the transition of jurisdictions no longer eligible for Urban Area Security Initiative funding, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-08T15:22:59Z",
+  "updated_at": "2026-07-14T18:47:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8874.xml"
 }

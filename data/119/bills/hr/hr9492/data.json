@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Homeland Security.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-07",
+      "action_code": "",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Homeland Security",
       "committee_id": "HSHM"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Homeland Security",
+      "committee_id": "HSHM",
+      "subcommittee": "Subcommittee on Cybersecurity and Infrastructure Protection",
+      "subcommittee_id": "08"
     }
   ],
   "congress": "119",
@@ -79,8 +98,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-06-25",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Government operations and politics"
+  ],
+  "subjects_top_term": "Government operations and politics",
   "summary": null,
   "titles": [
     {
@@ -105,6 +126,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-10T08:06:26Z",
+  "updated_at": "2026-07-14T19:55:35Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9492.xml"
 }

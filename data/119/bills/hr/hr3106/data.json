@@ -78,6 +78,97 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 30 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-07-13",
+      "action_code": "H12200",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Homeland Security. H. Rept. 119-744.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "648",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 648.",
+      "type": "calendar",
+      "under": null
+    },
+    {
+      "acted_at": "2026-07-13T16:32:58-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Garbarino moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T16:33:06-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4394-4395",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T16:33:08-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 3106.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T16:39:11-04:00",
+      "action_code": "H37220",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T18:30:49-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4403",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T18:56:44-04:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR H4394-4395",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "roll": "234",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 7 (Roll no. 234).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-07-13T18:56:45-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -88,6 +179,7 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
@@ -134,6 +226,8 @@
     "active_at": "2026-06-24",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-07-13T18:56:44-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-04-30",
@@ -150,8 +244,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-06-24",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-07-13T18:56:44-04:00",
   "subjects": [
     "Atmospheric science and weather",
     "Emergency management",
@@ -169,6 +263,20 @@
   },
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act of 2025",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -179,17 +287,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To require the Secretary of Homeland Security to conduct a collective response to a terrorism exercise that includes the management of cascading effects on critical infrastructure during times of extreme cold weather, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-09T13:27:22Z",
+  "updated_at": "2026-07-14T18:54:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3106.xml"
 }

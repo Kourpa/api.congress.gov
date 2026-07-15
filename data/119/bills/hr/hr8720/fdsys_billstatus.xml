@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>8720</number>
-    <updateDate>2026-07-10T13:37:58Z</updateDate>
-    <updateDateIncludingText>2026-07-10T13:37:58Z</updateDateIncludingText>
+    <updateDate>2026-07-14T13:28:39Z</updateDate>
+    <updateDateIncludingText>2026-07-14T16:32:25Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-07-13T17:28:56Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-05-14T17:14:06Z</date>
           </item>
@@ -31,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-07-13</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 651.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00651</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-07-13</actionDate>
+        <text>Reported (Amended) by the Committee on House Administration. H. Rept. 119-747.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-07-13</actionDate>
+        <text>Reported (Amended) by the Committee on House Administration. H. Rept. 119-747.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-05-14</actionDate>
         <committees>
@@ -157,6 +206,16 @@
     <title>Campaign Finance Transparency Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Campaign Finance Transparency Act</title>
+        <updateDate>2026-07-14T13:28:39Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Campaign Finance Transparency Act</title>
@@ -181,6 +240,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-07-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr8720rh/xml/BILLS-119hr8720rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2026-05-11T04:00:00Z</date>
         <formats>
@@ -191,8 +259,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-05-14</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 11 - 0.</text>
+      <actionDate>2026-07-13</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 651.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8897" updated="2026-07-13T17:38:58Z">
-  <state datetime="2026-06-24">REPORTED</state>
+<bill session="119" type="h" number="8897" updated="2026-07-14T18:56:11Z">
+  <state datetime="2026-07-13T19:03:53-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-06-24"/>
+    <unknown datetime="2026-07-13T19:03:53-04:00"/>
   </status>
   <introduced datetime="2026-05-19"/>
   <titles>
@@ -40,6 +40,30 @@
     <calendar datetime="2026-07-09" calendar="Union" number="639">
       <text>Placed on the Union Calendar, Calendar No. 639.</text>
     </calendar>
+    <action datetime="2026-07-13T16:39:45-04:00">
+      <text>Mr. Garbarino moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-07-13T16:39:55-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4395-4396" label="consideration"/>
+    </action>
+    <action datetime="2026-07-13T16:39:59-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 8897.</text>
+    </action>
+    <action datetime="2026-07-13T16:45:32-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2026-07-13T18:56:55-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4403-4404" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="235" datetime="2026-07-13T19:03:53-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 12 (Roll no. 235).</text>
+      <reference ref="CR H4395-4396" label="text"/>
+    </vote>
+    <action datetime="2026-07-13T19:03:55-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -48,6 +72,9 @@
   <relatedbills/>
   <subjects>
     <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Child safety and welfare"/>
+    <term name="Transportation safety and security"/>
   </subjects>
   <amendments/>
   <summary date="2026-07-08T17:04:09Z" status="Introduced in House">Improving Travel for American Families Act

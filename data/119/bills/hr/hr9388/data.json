@@ -38,6 +38,77 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported by the Yeas and Nays: 30 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-07-13",
+      "action_code": "H12200",
+      "committees": [
+        "HSHM"
+      ],
+      "references": [],
+      "text": "Reported by the Committee on Homeland Security. H. Rept. 119-740.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "644",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 644.",
+      "type": "calendar",
+      "under": null
+    },
+    {
+      "acted_at": "2026-07-13T16:24:42-04:00",
+      "action_code": "H30300",
+      "references": [
+        {
+          "reference": "CR H4393-4394",
+          "type": "consideration"
+        }
+      ],
+      "text": "Mr. Garbarino moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T16:24:54-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T16:24:55-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9388.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-13T16:32:42-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H4393",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-07-13T16:32:45-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -48,6 +119,7 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
@@ -74,6 +146,8 @@
     "active_at": "2026-06-24",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-07-13T16:32:42-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-06-23",
@@ -90,10 +164,15 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-06-24",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-07-13T16:32:42-04:00",
   "subjects": [
-    "Transportation and public works"
+    "Aviation and airports",
+    "Border security and unlawful immigration",
+    "Government lending and loan guarantees",
+    "Transportation and public works",
+    "Transportation safety and security",
+    "Travel and tourism"
   ],
   "subjects_top_term": "Transportation and public works",
   "summary": {
@@ -103,6 +182,20 @@
     "text": "One-Stop Pilot Program Extension Act\n\nThis bill revises and extends the\u00a0One Stop Security program of the Transportation Security Administration (TSA). Under this\u00a0pilot program, eligible passengers and their checked baggage arriving in the United States from certain foreign airports\u00a0with connecting flights may be eligible to continue without additional\u00a0TSA security re-screening.\n\nThe bill extends the pilot program through\u00a0December 23, 2032, from the current December 23, 2028.\n\nThe bill also revises the security requirements for excluding checked baggage from additional\u00a0TSA security re-screening. Among other things, the bill specifies that a passenger must be unable to access their checked baggage until arrival at their final destination and that U.S. Customs and Border Protection\u00a0must have received timely images of the baggage from the participating foreign\u00a0airport prior to a passenger\u2019s arrival in the United States."
   },
   "titles": [
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "One-Stop Pilot Program Extension Act",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "One-Stop Pilot Program Extension Act",
+      "type": "short"
+    },
     {
       "as": null,
       "is_for_portion": false,
@@ -114,17 +207,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "One-Stop Pilot Program Extension Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To amend title 49, United States Code, to authorize an extension of a program to permit screened passengers and their property arriving on direct flights or flight segments originating at certain foreign last point of departure airports to continue on additional flights or flight segments originating in the United States without additional screening, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-09T13:53:20Z",
+  "updated_at": "2026-07-14T18:50:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9388.xml"
 }

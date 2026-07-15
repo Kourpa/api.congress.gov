@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8168" updated="2026-07-10T19:41:17Z">
-  <state datetime="2026-06-24">REPORTED</state>
+<bill session="119" type="h" number="8168" updated="2026-07-14T19:02:02Z">
+  <state datetime="2026-07-13T16:51:16-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-06-24"/>
+    <unknown datetime="2026-07-13T16:51:16-04:00"/>
   </status>
   <introduced datetime="2026-03-30"/>
   <titles>
@@ -39,6 +39,23 @@
     <calendar datetime="2026-07-09" calendar="Union" number="642">
       <text>Placed on the Union Calendar, Calendar No. 642.</text>
     </calendar>
+    <action datetime="2026-07-13T16:46:02-04:00">
+      <text>Mr. Garbarino moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-07-13T16:46:10-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4396-4398" label="consideration"/>
+    </action>
+    <action datetime="2026-07-13T16:46:13-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 8168.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-07-13T16:51:16-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4396-4397" label="text"/>
+    </vote>
+    <action datetime="2026-07-13T16:51:24-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Reported By, Markup By, Referred To"/>

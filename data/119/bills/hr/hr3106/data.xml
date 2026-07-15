@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="3106" updated="2026-07-09T13:27:22Z">
-  <state datetime="2026-06-24">REPORTED</state>
+<bill session="119" type="h" number="3106" updated="2026-07-14T18:54:31Z">
+  <state datetime="2026-07-13T18:56:44-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-06-24"/>
+    <unknown datetime="2026-07-13T18:56:44-04:00"/>
   </status>
   <introduced datetime="2025-04-30"/>
   <titles>
-    <title type="display">Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act of 2025</title>
     <title type="short" as="introduced">Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act of 2025</title>
+    <title type="short" as="reported to house">Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act of 2025</title>
+    <title type="display">Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act of 2025</title>
     <title type="official" as="introduced">To require the Secretary of Homeland Security to conduct a collective response to a terrorism exercise that includes the management of cascading effects on critical infrastructure during times of extreme cold weather, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="K000402"/>
@@ -38,9 +39,39 @@
     <action datetime="2026-06-24" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 30 - 0.</text>
     </action>
+    <action datetime="2026-07-13">
+      <text>Reported by the Committee on Homeland Security. H. Rept. 119-744.</text>
+    </action>
+    <calendar datetime="2026-07-13" calendar="Union" number="648">
+      <text>Placed on the Union Calendar, Calendar No. 648.</text>
+    </calendar>
+    <action datetime="2026-07-13T16:32:58-04:00">
+      <text>Mr. Garbarino moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-07-13T16:33:06-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4394-4395" label="consideration"/>
+    </action>
+    <action datetime="2026-07-13T16:33:08-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3106.</text>
+    </action>
+    <action datetime="2026-07-13T16:39:11-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2026-07-13T18:30:49-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4403" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="234" datetime="2026-07-13T18:56:44-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 7 (Roll no. 234).</text>
+      <reference ref="CR H4394-4395" label="text"/>
+    </vote>
+    <action datetime="2026-07-13T18:56:45-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism and Intelligence" activity="Discharged, Referral"/>
     <committee code="HSHM12" name="House Homeland Security" subcommittee="Emergency Management and Technology" activity="Discharged, Referral"/>
   </committees>

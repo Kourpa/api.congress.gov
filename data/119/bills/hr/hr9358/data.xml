@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="9358" updated="2026-07-09T22:06:45Z">
+<bill session="119" type="h" number="9358" updated="2026-07-14T19:55:40Z">
   <state datetime="2026-06-18">REFERRED</state>
   <status>
     <introduced datetime="2026-06-18"/>
@@ -79,8 +79,13 @@
     <action datetime="2026-06-18">
       <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Oversight and Government Reform, House Administration, Education and Workforce, Agriculture, Foreign Affairs, Homeland Security, Armed Services, Veterans' Affairs, Science, Space, and Technology, Natural Resources, Financial Services, Appropriations, the Budget, Energy and Commerce, Intelligence (Permanent Select), Rules, Ethics, the Judiciary, Small Business, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-07-07">
+      <text>Referred to the Subcommittee on Oversight, Investigations, and Accountability.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
+    <committee code="HSHM09" name="House Homeland Security" subcommittee="Oversight, Investigations, and Accountability" activity="Referral"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
@@ -95,7 +100,6 @@
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
-    <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
@@ -113,7 +117,7 @@
     <bill session="119" type="s" number="3649" relation="unknown"/>
   </relatedbills>
   <subjects>
-    <term name="Health"/>
+    <term name="Government operations and politics"/>
   </subjects>
   <amendments/>
 </bill>
