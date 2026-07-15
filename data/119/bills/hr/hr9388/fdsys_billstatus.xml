@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>9388</number>
-    <updateDate>2026-07-15T08:05:53Z</updateDate>
-    <updateDateIncludingText>2026-07-15T08:05:53Z</updateDateIncludingText>
+    <updateDate>2026-07-15T13:13:24Z</updateDate>
+    <updateDateIncludingText>2026-07-15T15:35:57Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/9388</legislationUrl>
     <cdata/>
     <committees>
+      <item>
+        <systemCode>sscm00</systemCode>
+        <name>Commerce, Science, and Transportation Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-07-14T20:12:10Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hshm00</systemCode>
         <name>Homeland Security Committee</name>
@@ -35,6 +47,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-07-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-07-13</actionDate>
         <actionTime>16:32:45</actionTime>
@@ -283,6 +309,26 @@
     <title>One-Stop Pilot Program Extension Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>One-Stop Pilot Program Extension Act</title>
+        <updateDate>2026-07-15T13:13:24Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>To amend title 49, United States Code, to authorize an extension of a program to permit screened passengers and their property arriving on direct flights or flight segments originating at certain foreign last point of departure airports to continue on additional flights or flight segments originating in the United States without additional screening, and for other purposes.</title>
+        <updateDate>2026-07-15T13:13:24Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
         <title>One-Stop Pilot Program Extension Act</title>
@@ -326,6 +372,15 @@
         </formats>
       </item>
       <item>
+        <type>Engrossed in House</type>
+        <date>2026-07-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr9388eh/xml/BILLS-119hr9388eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2026-06-23T04:00:00Z</date>
         <formats>
@@ -336,9 +391,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-07-13</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>16:32:45</actionTime>
+      <actionDate>2026-07-14</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="4784" updated="2026-07-14T11:08:40Z">
-  <state datetime="2026-06-15">REPORTED</state>
+<bill session="119" type="s" number="4784" updated="2026-07-15T11:08:33Z">
+  <state datetime="2026-07-14">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2026-06-15"/>
+    <unknown datetime="2026-07-14"/>
   </status>
   <introduced datetime="2026-06-15"/>
   <titles>
@@ -27,6 +27,15 @@
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
       <reference ref="CR S3193"/>
     </action>
+    <vote-aux how="roll" type="cloture" roll="195" datetime="2026-07-14" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 46. Record Vote Number: 195.</text>
+    </vote-aux>
+    <action datetime="2026-07-14">
+      <text>Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 195) entered in Senate.</text>
+    </action>
+    <action datetime="2026-07-14">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Reported Original Measure"/>
@@ -50,6 +59,30 @@
     <term name="Armed forces and national security"/>
   </subjects>
   <amendments>
+    <amendment number="s6693"/>
+    <amendment number="s6692"/>
+    <amendment number="s6691"/>
+    <amendment number="s6690"/>
+    <amendment number="s6689"/>
+    <amendment number="s6688"/>
+    <amendment number="s6687"/>
+    <amendment number="s6686"/>
+    <amendment number="s6685"/>
+    <amendment number="s6684"/>
+    <amendment number="s6683"/>
+    <amendment number="s6682"/>
+    <amendment number="s6681"/>
+    <amendment number="s6680"/>
+    <amendment number="s6679"/>
+    <amendment number="s6678"/>
+    <amendment number="s6677"/>
+    <amendment number="s6676"/>
+    <amendment number="s6675"/>
+    <amendment number="s6674"/>
+    <amendment number="s6673"/>
+    <amendment number="s6672"/>
+    <amendment number="s6671"/>
+    <amendment number="s6670"/>
     <amendment number="s6668"/>
     <amendment number="s6667"/>
     <amendment number="s6666"/>

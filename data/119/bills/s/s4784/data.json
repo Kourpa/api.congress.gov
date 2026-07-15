@@ -45,9 +45,180 @@
       ],
       "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-07-14",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "195",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 46. Record Vote Number: 195.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-07-14",
+      "action_code": "",
+      "references": [],
+      "text": "Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 195) entered in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-14",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to proceed to consideration of measure made in Senate.",
+      "type": "action"
     }
   ],
   "amendments": [
+    {
+      "amendment_id": "samdt6693-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6693"
+    },
+    {
+      "amendment_id": "samdt6692-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6692"
+    },
+    {
+      "amendment_id": "samdt6691-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6691"
+    },
+    {
+      "amendment_id": "samdt6690-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6690"
+    },
+    {
+      "amendment_id": "samdt6689-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6689"
+    },
+    {
+      "amendment_id": "samdt6688-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6688"
+    },
+    {
+      "amendment_id": "samdt6687-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6687"
+    },
+    {
+      "amendment_id": "samdt6686-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6686"
+    },
+    {
+      "amendment_id": "samdt6685-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6685"
+    },
+    {
+      "amendment_id": "samdt6684-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6684"
+    },
+    {
+      "amendment_id": "samdt6683-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6683"
+    },
+    {
+      "amendment_id": "samdt6682-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6682"
+    },
+    {
+      "amendment_id": "samdt6681-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6681"
+    },
+    {
+      "amendment_id": "samdt6680-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6680"
+    },
+    {
+      "amendment_id": "samdt6679-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6679"
+    },
+    {
+      "amendment_id": "samdt6678-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6678"
+    },
+    {
+      "amendment_id": "samdt6677-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6677"
+    },
+    {
+      "amendment_id": "samdt6676-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6676"
+    },
+    {
+      "amendment_id": "samdt6675-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6675"
+    },
+    {
+      "amendment_id": "samdt6674-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6674"
+    },
+    {
+      "amendment_id": "samdt6673-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6673"
+    },
+    {
+      "amendment_id": "samdt6672-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6672"
+    },
+    {
+      "amendment_id": "samdt6671-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6671"
+    },
+    {
+      "amendment_id": "samdt6670-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6670"
+    },
     {
       "amendment_id": "samdt6668-119",
       "amendment_type": "samdt",
@@ -5094,6 +5265,8 @@
     "active_at": "2026-06-15",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_cloture_result": "fail",
+    "senate_cloture_result_at": "2026-07-14",
     "vetoed": false
   },
   "introduced_at": "2026-06-15",
@@ -5189,8 +5362,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-06-15",
+  "status": "PROV_KILL:CLOTUREFAILED",
+  "status_at": "2026-07-14",
   "subjects": [
     "Armed forces and national security"
   ],
@@ -5226,6 +5399,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-14T11:08:40Z",
+  "updated_at": "2026-07-15T11:08:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4784.xml"
 }

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="8897" updated="2026-07-15T08:05:46Z">
+<bill session="119" type="h" number="8897" updated="2026-07-15T13:08:25Z">
   <state datetime="2026-07-13T19:03:53-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-07-13T19:03:53-04:00"/>
@@ -7,8 +7,10 @@
   <titles>
     <title type="short" as="introduced">Improving Travel for American Families Act</title>
     <title type="short" as="reported to house">Improving Travel for American Families Act</title>
-    <title type="display">Improving Travel for American Families Act</title>
+    <title type="short" as="passed house">Improving Travel for American Families Act</title>
     <title type="official" as="introduced">To improve travel for American families, and for other purposes.</title>
+    <title type="official">To improve travel for American families, and for other purposes.</title>
+    <title type="display">Improving Travel for American Families Act</title>
   </titles>
   <sponsor bioguide_id="M001230"/>
   <cosponsors>
@@ -64,8 +66,12 @@
     <action datetime="2026-07-13T19:03:55-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2026-07-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSHM07" name="House Homeland Security" subcommittee="Transportation and Maritime Security" activity="Discharged, Referral"/>
   </committees>

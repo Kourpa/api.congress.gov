@@ -17,6 +17,28 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-14",
+      "action_code": "",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-14",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +49,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To",
         "Referred To"
       ],
@@ -189,9 +212,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-14",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-07-14",
     "vetoed": false
   },
   "introduced_at": "2025-06-18",
@@ -215,8 +241,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-06-18",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-07-14",
   "subjects": [
     "Social welfare"
   ],
@@ -229,6 +255,20 @@
   },
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Older Americans Act Reauthorization Act of 2025",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Older Americans Act Reauthorization Act of 2025",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -239,17 +279,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Older Americans Act Reauthorization Act of 2025",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "A bill to amend the Older Americans Act of 1965 to authorize appropriations for fiscal years 2026 through 2030, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-06T17:45:59Z",
+  "updated_at": "2026-07-15T13:08:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2120.xml"
 }
