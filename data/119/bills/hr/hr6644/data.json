@@ -611,6 +611,16 @@
       "status": "ENACTED:TENDAYRULE",
       "text": "Sent to Archivist of the United States unsigned.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-07-11",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "101",
+      "references": [],
+      "text": "Became Public Law No: 119-101.",
+      "type": "enacted"
     }
   ],
   "amendments": [
@@ -1578,13 +1588,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "101"
+  },
   "history": {
     "active": true,
     "active_at": "2025-12-16",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2026-07-11",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2026-07-11",
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-06-23T19:26:36-04:00",
     "senate_cloture_result": "pass",
@@ -1812,6 +1826,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-14T21:35:23Z",
+  "updated_at": "2026-07-15T17:01:59Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6644.xml"
 }
