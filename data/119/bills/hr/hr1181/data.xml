@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1181" updated="2026-07-14T22:26:17Z">
-  <state datetime="2025-12-17">REPORTED</state>
+<bill session="119" type="h" number="1181" updated="2026-07-15T08:09:20Z">
+  <state datetime="2026-07-14T17:33:33-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-12-17"/>
+    <unknown datetime="2026-07-14T17:33:33-04:00"/>
   </status>
   <introduced datetime="2025-02-11"/>
   <titles>
@@ -173,9 +173,45 @@
     <action datetime="2026-07-13T17:59:05-04:00">
       <text>Rules Committee Resolution H. Res. 1423 Reported to House. Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.</text>
     </action>
+    <action datetime="2026-07-14T14:39:57-04:00">
+      <text>Rule H. Res. 1423 passed House.</text>
+    </action>
+    <action datetime="2026-07-14T15:19:30-04:00">
+      <text>Considered under the provisions of rule H. Res. 1423.</text>
+    </action>
+    <action datetime="2026-07-14T15:19:35-04:00">
+      <text>Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.</text>
+    </action>
+    <action datetime="2026-07-14T15:20:19-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1181.</text>
+    </action>
+    <action datetime="2026-07-14T15:53:34-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-07-14T15:54:06-04:00">
+      <text>Mr. Frost moved to recommit to the Committee on Financial Services.</text>
+    </action>
+    <action datetime="2026-07-14T15:54:14-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-07-14T15:54:46-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1181 the Chair put the question on the motion to recommit and by voice vote, announced the noes had prevailed. Mr. Frost demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-07-14T17:19:17-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-07-14T17:26:05-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 208 - 217 (Roll no. 239).</text>
+    </action>
+    <vote how="roll" type="vote" roll="240" datetime="2026-07-14T17:33:33-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 221 - 201 (Roll no. 240).</text>
+    </vote>
+    <action datetime="2026-07-14T17:33:34-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Markup By, Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="hr" number="1377" relation="unknown"/>
@@ -189,7 +225,9 @@
     <term name="Retail and wholesale trades"/>
     <term name="Right of privacy"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h230"/>
+  </amendments>
   <summary date="2025-09-26T18:41:46Z" status="Introduced in House">Protecting Privacy in Purchases Act
 
 This bill prohibits payment card networks from using merchant codes that distinguish firearms retailers from&#160;general-merchandise retailers or sporting-goods retailers.

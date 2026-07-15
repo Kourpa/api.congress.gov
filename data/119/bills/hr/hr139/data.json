@@ -30,6 +30,63 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 1423 Reported to House. Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-07-14T15:58:30-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1423-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1423.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-14T15:58:35-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr8595-119",
+        "hr9237-119",
+        "hr1181-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-14T15:59:13-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 139.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-14T16:38:54-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-14T17:18:51-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "238",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 308 - 117 (Roll no. 238).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-07-14T17:18:52-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -296,7 +353,7 @@
       "sponsored_at": "2025-02-04",
       "state": "WA",
       "title": "Rep.",
-      "withdrawn_at": null
+      "withdrawn_at": "2026-07-14"
     },
     {
       "bioguide_id": "O000019",
@@ -305,6 +362,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-04-17",
       "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "P000622",
+      "district": "1",
+      "name": "Patronis, Jimmy",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-07-14",
+      "state": "FL",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -395,6 +462,8 @@
     "active_at": "2026-07-13T17:59:05-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-07-14T17:18:51-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-03",
@@ -424,8 +493,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-03",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-07-14T17:18:51-04:00",
   "subjects": [
     "Science, technology, communications",
     "State and local government operations",
@@ -461,6 +530,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-14T22:26:17Z",
+  "updated_at": "2026-07-15T08:07:50Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr139.xml"
 }

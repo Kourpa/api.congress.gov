@@ -37,6 +37,16 @@
       "references": [],
       "text": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-14",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Water, Wildlife and Fisheries.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -45,6 +55,22 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII",
+      "subcommittee": "Subcommittee on Water, Wildlife and Fisheries",
+      "subcommittee_id": "13"
+    },
     {
       "activity": [
         "Referred To"
@@ -60,13 +86,6 @@
       "committee_id": "HSAG",
       "subcommittee": "Subcommittee on Livestock, Dairy, and Poultry",
       "subcommittee_id": "29"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Natural Resources",
-      "committee_id": "HSII"
     }
   ],
   "congress": "119",
@@ -142,6 +161,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "P000048",
+      "district": "11",
+      "name": "Pfluger, August",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-07-14",
+      "state": "TX",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "S001200",
       "district": "9",
       "name": "Soto, Darren",
@@ -210,6 +239,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-02T08:07:18Z",
+  "updated_at": "2026-07-15T08:07:31Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7466.xml"
 }
