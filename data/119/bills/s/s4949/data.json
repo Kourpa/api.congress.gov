@@ -17,6 +17,38 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Environment and Public Works.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "committees": [
+        "SSEV"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "committee": "Environment and Public Works",
+      "committees": [
+        "SSEV"
+      ],
+      "references": [],
+      "text": "Committee on Environment and Public Works. Reported by Senator Capito with an amendment in the nature of a substitute. Without written report.",
+      "type": "reported"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "calendar": "Senate Legislative",
+      "number": "457",
+      "references": [],
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 457.",
+      "type": "calendar",
+      "under": "General Orders"
     }
   ],
   "amendments": [],
@@ -27,6 +59,8 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Environment and Public Works",
@@ -78,7 +112,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-15",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -97,19 +132,12 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-07-13",
+  "status": "REPORTED",
+  "status_at": "2026-07-15",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
   "titles": [
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "A bill to provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes.",
-      "type": "official"
-    },
     {
       "as": null,
       "is_for_portion": false,
@@ -121,10 +149,17 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "A bill to provide for improvements to the rivers and harbors of the United States, to provide for the conservation and development of water and related resources, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "Water Resources Development Act of 2026",
       "type": "short"
     }
   ],
-  "updated_at": "2026-07-14T16:32:32Z",
+  "updated_at": "2026-07-16T11:03:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4949.xml"
 }
