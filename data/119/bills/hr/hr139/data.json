@@ -37,7 +37,12 @@
       "bill_ids": [
         "hres1423-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4445-4452",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 1423.",
       "type": "action"
     },
@@ -71,7 +76,12 @@
       "acted_at": "2026-07-14T17:18:51-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4445-4446",
+          "type": "consideration"
+        }
+      ],
       "result": "pass",
       "roll": "238",
       "status": "PASS_OVER:HOUSE",
@@ -87,6 +97,16 @@
       "references": [],
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "committees": [
+        "SSCM"
+      ],
+      "references": [],
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -95,6 +115,13 @@
   "by_request": false,
   "committee_reports": [],
   "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Commerce, Science, and Transportation",
+      "committee_id": "SSCM"
+    },
     {
       "activity": [
         "Referred To"
@@ -509,14 +536,14 @@
   },
   "titles": [
     {
-      "as": null,
+      "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Sunshine Protection Act of 2025",
-      "type": "display"
+      "type": "short"
     },
     {
-      "as": "introduced",
+      "as": "passed house",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Sunshine Protection Act of 2025",
@@ -528,8 +555,22 @@
       "textVersionCode": null,
       "title": "To make daylight savings time permanent, and for other purposes.",
       "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To make daylight savings time permanent, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Sunshine Protection Act of 2025",
+      "type": "display"
     }
   ],
-  "updated_at": "2026-07-15T08:07:50Z",
+  "updated_at": "2026-07-16T14:54:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr139.xml"
 }

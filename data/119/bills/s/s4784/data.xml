@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="4784" updated="2026-07-15T11:08:33Z">
+<bill session="119" type="s" number="4784" updated="2026-07-16T13:11:24Z">
   <state datetime="2026-07-14">PROV_KILL:CLOTUREFAILED</state>
   <status>
     <unknown datetime="2026-07-14"/>
@@ -29,12 +29,14 @@
     </action>
     <vote-aux how="roll" type="cloture" roll="195" datetime="2026-07-14" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
       <text>Cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 46. Record Vote Number: 195.</text>
+      <reference ref="CR S3918"/>
     </vote-aux>
     <action datetime="2026-07-14">
       <text>Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 195) entered in Senate.</text>
     </action>
     <action datetime="2026-07-14">
       <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S3919"/>
     </action>
   </actions>
   <committees>
@@ -59,6 +61,13 @@
     <term name="Armed forces and national security"/>
   </subjects>
   <amendments>
+    <amendment number="s6700"/>
+    <amendment number="s6699"/>
+    <amendment number="s6698"/>
+    <amendment number="s6697"/>
+    <amendment number="s6696"/>
+    <amendment number="s6695"/>
+    <amendment number="s6694"/>
     <amendment number="s6693"/>
     <amendment number="s6692"/>
     <amendment number="s6691"/>

@@ -79,7 +79,12 @@
     {
       "acted_at": "2026-07-14T15:03:09-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4438-4441",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -94,7 +99,12 @@
       "acted_at": "2026-07-14T15:16:20-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4438-4440",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -109,6 +119,16 @@
       "references": [],
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "committees": [
+        "SSBK"
+      ],
+      "references": [],
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -119,6 +139,13 @@
     "H. Rept. 119-475"
   ],
   "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Banking, Housing, and Urban Affairs",
+      "committee_id": "SSBK"
+    },
     {
       "activity": [
         "Reported By",
@@ -203,11 +230,11 @@
       "type": "short"
     },
     {
-      "as": null,
+      "as": "passed house",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Failing Bank Acquisition Fairness Act",
-      "type": "display"
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -215,8 +242,22 @@
       "textVersionCode": null,
       "title": "To prohibit the use of certain concentration limit exceptions with respect to mergers involving a failed bank unless the applicable agency determines such use is necessary to prevent significant economic disruption or significant adverse effects on financial stability, and for other purposes.",
       "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To prohibit the use of certain concentration limit exceptions with respect to mergers involving a failed bank unless the applicable agency determines such use is necessary to prevent significant economic disruption or significant adverse effects on financial stability, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Failing Bank Acquisition Fairness Act",
+      "type": "display"
     }
   ],
-  "updated_at": "2026-07-15T08:07:53Z",
+  "updated_at": "2026-07-16T14:29:23Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6556.xml"
 }

@@ -1,13 +1,15 @@
-<bill session="119" type="h" number="139" updated="2026-07-15T08:07:50Z">
+<bill session="119" type="h" number="139" updated="2026-07-16T14:54:14Z">
   <state datetime="2026-07-14T17:18:51-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-07-14T17:18:51-04:00"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
-    <title type="display">Sunshine Protection Act of 2025</title>
     <title type="short" as="introduced">Sunshine Protection Act of 2025</title>
+    <title type="short" as="passed house">Sunshine Protection Act of 2025</title>
     <title type="official" as="introduced">To make daylight savings time permanent, and for other purposes.</title>
+    <title type="official">To make daylight savings time permanent, and for other purposes.</title>
+    <title type="display">Sunshine Protection Act of 2025</title>
   </titles>
   <sponsor bioguide_id="B001260"/>
   <cosponsors>
@@ -59,6 +61,7 @@
     </action>
     <action datetime="2026-07-14T15:58:30-04:00">
       <text>Considered under the provisions of rule H. Res. 1423.</text>
+      <reference ref="CR H4445-4452" label="consideration"/>
     </action>
     <action datetime="2026-07-14T15:58:35-04:00">
       <text>Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.</text>
@@ -71,12 +74,17 @@
     </action>
     <vote how="roll" type="vote" roll="238" datetime="2026-07-14T17:18:51-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On passage Passed by the Yeas and Nays: 308 - 117 (Roll no. 238).</text>
+      <reference ref="CR H4445-4446" label="consideration"/>
     </vote>
     <action datetime="2026-07-14T17:18:52-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2026-07-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>

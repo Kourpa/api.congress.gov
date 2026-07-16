@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1181" updated="2026-07-15T08:09:20Z">
+<bill session="119" type="h" number="1181" updated="2026-07-16T14:41:07Z">
   <state datetime="2026-07-14T17:33:33-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-07-14T17:33:33-04:00"/>
@@ -7,8 +7,10 @@
   <titles>
     <title type="short" as="introduced">Protecting Privacy in Purchases Act</title>
     <title type="short" as="reported to house">Protecting Privacy in Purchases Act</title>
-    <title type="display">Protecting Privacy in Purchases Act</title>
+    <title type="short" as="passed house">Protecting Privacy in Purchases Act</title>
     <title type="official" as="introduced">To prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes.</title>
+    <title type="official">To prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes.</title>
+    <title type="display">Protecting Privacy in Purchases Act</title>
   </titles>
   <sponsor bioguide_id="M001235"/>
   <cosponsors>
@@ -178,6 +180,7 @@
     </action>
     <action datetime="2026-07-14T15:19:30-04:00">
       <text>Considered under the provisions of rule H. Res. 1423.</text>
+      <reference ref="CR H4441-4445" label="consideration"/>
     </action>
     <action datetime="2026-07-14T15:19:35-04:00">
       <text>Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.</text>
@@ -190,6 +193,7 @@
     </action>
     <action datetime="2026-07-14T15:54:06-04:00">
       <text>Mr. Frost moved to recommit to the Committee on Financial Services.</text>
+      <reference ref="CR H4445"/>
     </action>
     <action datetime="2026-07-14T15:54:14-04:00">
       <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
@@ -199,18 +203,24 @@
     </action>
     <action datetime="2026-07-14T17:19:17-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H4451-4452" label="consideration"/>
     </action>
     <action datetime="2026-07-14T17:26:05-04:00">
       <text>On motion to recommit Failed by the Yeas and Nays: 208 - 217 (Roll no. 239).</text>
     </action>
     <vote how="roll" type="vote" roll="240" datetime="2026-07-14T17:33:33-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On passage Passed by the Yeas and Nays: 221 - 201 (Roll no. 240).</text>
+      <reference ref="CR H4441-4442" label="text"/>
     </vote>
     <action datetime="2026-07-14T17:33:34-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2026-07-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Markup By, Referred To"/>
   </committees>
   <relatedbills>

@@ -79,7 +79,12 @@
     {
       "acted_at": "2026-07-14T14:46:33-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4432-4438",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -94,7 +99,12 @@
       "acted_at": "2026-07-14T15:02:50-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4433-4434",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASS_OVER:HOUSE",
       "suspension": null,
@@ -116,6 +126,16 @@
       "references": [],
       "text": "The title of the measure was amended. Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "committees": [
+        "SSBK"
+      ],
+      "references": [],
+      "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -126,6 +146,13 @@
     "H. Rept. 119-235"
   ],
   "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Banking, Housing, and Urban Affairs",
+      "committee_id": "SSBK"
+    },
     {
       "activity": [
         "Reported By",
@@ -162,7 +189,7 @@
   },
   "introduced_at": "2025-04-29",
   "number": "3074",
-  "official_title": "To direct the Secretary of the Treasury to stop minting the penny, to require cash transactions to be rounded up or down to the nearest five cents, and for other purposes.",
+  "official_title": "To direct the Secretary of the Treasury to stop minting the penny, to permit cash transactions to be rounded up or down to the nearest five cents, and for other purposes.",
   "popular_title": null,
   "related_bills": [
     {
@@ -218,11 +245,11 @@
       "type": "short"
     },
     {
-      "as": null,
+      "as": "passed house",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Common Cents Act",
-      "type": "display"
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -230,8 +257,22 @@
       "textVersionCode": null,
       "title": "To direct the Secretary of the Treasury to stop minting the penny, to require cash transactions to be rounded up or down to the nearest five cents, and for other purposes.",
       "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To direct the Secretary of the Treasury to stop minting the penny, to permit cash transactions to be rounded up or down to the nearest five cents, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Common Cents Act",
+      "type": "display"
     }
   ],
-  "updated_at": "2026-07-15T08:07:17Z",
+  "updated_at": "2026-07-16T14:18:45Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3074.xml"
 }

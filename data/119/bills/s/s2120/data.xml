@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="2120" updated="2026-07-16T08:07:24Z">
+<bill session="119" type="s" number="2120" updated="2026-07-16T13:41:16Z">
   <state datetime="2026-07-14">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2026-07-14"/>
   </status>
   <introduced datetime="2025-06-18"/>
   <titles>
+    <title type="display">Older Americans Act Reauthorization Act of 2025</title>
     <title type="short" as="introduced">Older Americans Act Reauthorization Act of 2025</title>
     <title type="short" as="passed senate">Older Americans Act Reauthorization Act of 2025</title>
-    <title type="display">Older Americans Act Reauthorization Act of 2025</title>
     <title type="official" as="introduced">A bill to amend the Older Americans Act of 1965 to authorize appropriations for fiscal years 2026 through 2030, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001075"/>
@@ -40,7 +40,12 @@
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2026-07-14" where="s" result="pass" state="PASS_OVER:SENATE">
       <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S4077-4087" label="consideration"/>
+      <reference ref="CR S4077-4087" label="text"/>
     </vote>
+    <action datetime="2026-07-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
     <action datetime="2026-07-15T11:37:04-04:00">
       <text>Received in the House.</text>
     </action>

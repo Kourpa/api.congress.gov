@@ -50,7 +50,12 @@
       "acted_at": "2026-07-14",
       "action_code": "",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S3918",
+          "type": null
+        }
+      ],
       "result": "fail",
       "roll": "195",
       "status": "PROV_KILL:CLOTUREFAILED",
@@ -69,12 +74,59 @@
     {
       "acted_at": "2026-07-14",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S3919",
+          "type": null
+        }
+      ],
       "text": "Motion to proceed to consideration of measure made in Senate.",
       "type": "action"
     }
   ],
   "amendments": [
+    {
+      "amendment_id": "samdt6700-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6700"
+    },
+    {
+      "amendment_id": "samdt6699-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6699"
+    },
+    {
+      "amendment_id": "samdt6698-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6698"
+    },
+    {
+      "amendment_id": "samdt6697-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6697"
+    },
+    {
+      "amendment_id": "samdt6696-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6696"
+    },
+    {
+      "amendment_id": "samdt6695-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6695"
+    },
+    {
+      "amendment_id": "samdt6694-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6694"
+    },
     {
       "amendment_id": "samdt6693-119",
       "amendment_type": "samdt",
@@ -5399,6 +5451,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-15T11:08:33Z",
+  "updated_at": "2026-07-16T13:11:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4784.xml"
 }
