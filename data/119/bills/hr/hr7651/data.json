@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 8.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Judiciary",
@@ -156,12 +178,42 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "C000059",
+      "district": "41",
+      "name": "Calvert, Ken",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-07-15",
+      "state": "CA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "C001039",
       "district": "3",
       "name": "Cammack, Kat",
       "original_cosponsor": false,
       "sponsored_at": "2026-06-15",
       "state": "FL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001103",
+      "district": "1",
+      "name": "Carter, Earl L. \"Buddy\"",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-07-15",
+      "state": "GA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "C001133",
+      "district": "6",
+      "name": "Ciscomani, Juan",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-07-15",
+      "state": "AZ",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -456,6 +508,26 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "J000295",
+      "district": "14",
+      "name": "Joyce, David P.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-07-15",
+      "state": "OH",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "K000388",
+      "district": "1",
+      "name": "Kelly, Trent",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-07-15",
+      "state": "MS",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "K000403",
       "district": "3",
       "name": "Kennedy, Mike",
@@ -542,6 +614,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2026-03-18",
       "state": "IL",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "M001216",
+      "district": "7",
+      "name": "Mills, Cory",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-07-15",
+      "state": "FL",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -838,7 +920,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-15",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -857,8 +940,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-02-23",
+  "status": "REPORTED",
+  "status_at": "2026-07-15",
   "subjects": [
     "Health"
   ],
@@ -887,6 +970,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-15T08:07:26Z",
+  "updated_at": "2026-07-16T08:07:34Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7651.xml"
 }

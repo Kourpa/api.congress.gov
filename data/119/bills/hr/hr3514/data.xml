@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3514" updated="2026-07-15T08:07:40Z">
-  <state datetime="2025-05-20">REFERRED</state>
+<bill session="119" type="h" number="3514" updated="2026-07-16T08:07:52Z">
+  <state datetime="2026-07-15">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-20"/>
+    <unknown datetime="2026-07-15"/>
   </status>
   <introduced datetime="2025-05-20"/>
   <titles>
@@ -328,11 +328,17 @@
     <action datetime="2026-06-25">
       <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
     </action>
+    <action datetime="2026-07-15">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-15" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 0.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
     <committee code="HSIF14" name="House Energy and Commerce" subcommittee="Health" activity="Reporting, Markup, Referral"/>
-    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1816" relation="identical"/>

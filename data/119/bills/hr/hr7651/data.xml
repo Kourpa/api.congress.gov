@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7651" updated="2026-07-15T08:07:26Z">
-  <state datetime="2026-02-23">REFERRED</state>
+<bill session="119" type="h" number="7651" updated="2026-07-16T08:07:34Z">
+  <state datetime="2026-07-15">REPORTED</state>
   <status>
-    <introduced datetime="2026-02-23"/>
+    <unknown datetime="2026-07-15"/>
   </status>
   <introduced datetime="2026-02-23"/>
   <titles>
@@ -23,7 +23,10 @@
     <cosponsor bioguide_id="B000825" joined="2026-07-09"/>
     <cosponsor bioguide_id="B001295" joined="2026-03-25"/>
     <cosponsor bioguide_id="B001316" joined="2026-03-19"/>
+    <cosponsor bioguide_id="C000059" joined="2026-07-15"/>
     <cosponsor bioguide_id="C001039" joined="2026-06-15"/>
+    <cosponsor bioguide_id="C001103" joined="2026-07-15"/>
+    <cosponsor bioguide_id="C001133" joined="2026-07-15"/>
     <cosponsor bioguide_id="C001118" joined="2026-04-02"/>
     <cosponsor bioguide_id="C001115" joined="2026-03-19"/>
     <cosponsor bioguide_id="C001116" joined="2026-04-14"/>
@@ -53,6 +56,8 @@
     <cosponsor bioguide_id="H001093" joined="2026-03-16"/>
     <cosponsor bioguide_id="H001095" joined="2026-03-09"/>
     <cosponsor bioguide_id="J000311" joined="2026-02-25"/>
+    <cosponsor bioguide_id="J000295" joined="2026-07-15"/>
+    <cosponsor bioguide_id="K000388" joined="2026-07-15"/>
     <cosponsor bioguide_id="K000403" joined="2026-02-23"/>
     <cosponsor bioguide_id="K000392" joined="2026-03-25"/>
     <cosponsor bioguide_id="M000194" joined="2026-04-02"/>
@@ -62,6 +67,7 @@
     <cosponsor bioguide_id="M001239" joined="2026-03-09"/>
     <cosponsor bioguide_id="M001233" joined="2026-03-04"/>
     <cosponsor bioguide_id="M001211" joined="2026-03-18"/>
+    <cosponsor bioguide_id="M001216" joined="2026-07-15"/>
     <cosponsor bioguide_id="M001212" joined="2026-02-25"/>
     <cosponsor bioguide_id="M001213" joined="2026-03-18"/>
     <cosponsor bioguide_id="M001235" joined="2026-04-22"/>
@@ -99,9 +105,15 @@
     <action datetime="2026-02-23" state="REFERRED">
       <text>Referred to the House Committee on the Judiciary.</text>
     </action>
+    <action datetime="2026-07-15">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 8.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

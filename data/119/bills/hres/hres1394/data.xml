@@ -1,7 +1,7 @@
-<bill session="119" type="hr" number="1394" updated="2026-07-07T14:21:52Z">
-  <state datetime="2026-06-29">REFERRED</state>
+<bill session="119" type="hr" number="1394" updated="2026-07-16T08:08:03Z">
+  <state datetime="2026-07-15">REPORTED</state>
   <status>
-    <introduced datetime="2026-06-29"/>
+    <unknown datetime="2026-07-15"/>
   </status>
   <introduced datetime="2026-06-29"/>
   <titles>
@@ -9,7 +9,9 @@
     <title type="display">Condemning prosecution policies that give preferential treatment to foreign nationals over United States citizens.</title>
   </titles>
   <sponsor bioguide_id="L000598"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000576" joined="2026-07-15"/>
+  </cosponsors>
   <actions>
     <action datetime="2026-06-29">
       <text>Submitted in House</text>
@@ -17,9 +19,15 @@
     <action datetime="2026-06-29" state="REFERRED">
       <text>Referred to the House Committee on the Judiciary.</text>
     </action>
+    <action datetime="2026-07-15">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-15" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 14 - 9.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

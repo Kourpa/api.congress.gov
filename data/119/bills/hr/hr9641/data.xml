@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="9641" updated="2026-07-15T08:07:19Z">
-  <state datetime="2026-07-13">REFERRED</state>
+<bill session="119" type="h" number="9641" updated="2026-07-16T08:07:07Z">
+  <state datetime="2026-07-15">REPORTED</state>
   <status>
-    <introduced datetime="2026-07-13"/>
+    <unknown datetime="2026-07-15"/>
   </status>
   <introduced datetime="2026-07-13"/>
   <titles>
@@ -24,9 +24,15 @@
     <action datetime="2026-07-13">
       <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-07-15">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-15" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 38 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
+    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>

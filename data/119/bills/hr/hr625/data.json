@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 0.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Judiciary",
@@ -48,7 +70,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-15",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -80,8 +103,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-22",
+  "status": "REPORTED",
+  "status_at": "2026-07-15",
   "subjects": [
     "California",
     "Law",
@@ -93,7 +116,7 @@
     "as": "Introduced in House",
     "asOf": "2025-01-22",
     "date": "2025-03-17T19:50:00Z",
-    "text": ""
+    "text": "Local Access to Courts Act or LACA\n\nThis bill adds College Station to the list of places where court must be held in the Galveston Division of the Southern District of Texas.\n\nAdditionally, the bill adds El Centro to the list of places where court must be held in the Southern District of California."
   },
   "titles": [
     {
@@ -125,6 +148,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-06-10T22:00:53Z",
+  "updated_at": "2026-07-16T08:07:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr625.xml"
 }
