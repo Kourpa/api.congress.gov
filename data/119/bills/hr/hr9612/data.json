@@ -9,14 +9,44 @@
     },
     {
       "acted_at": "2026-07-09",
-      "action_code": "H11100",
+      "action_code": "",
       "committees": [
         "HSIF"
       ],
       "references": [],
       "status": "REFERRED",
+      "text": "Referred to the Subcommittee on Energy.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-09",
+      "action_code": "H11100",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
       "text": "Referred to the House Committee on Energy and Commerce.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-14",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Subcommittee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-14",
+      "action_code": "",
+      "committees": [
+        "HSIF"
+      ],
+      "references": [],
+      "text": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -31,6 +61,17 @@
       ],
       "committee": "House Energy and Commerce",
       "committee_id": "HSIF"
+    },
+    {
+      "activity": [
+        "reporting",
+        "markup",
+        "referral"
+      ],
+      "committee": "House Energy and Commerce",
+      "committee_id": "HSIF",
+      "subcommittee": "Subcommittee on Energy",
+      "subcommittee_id": "03"
     }
   ],
   "congress": "119",
@@ -54,11 +95,22 @@
       "state": "WA",
       "title": "Rep.",
       "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "S000929",
+      "district": "5",
+      "name": "Spartz, Victoria",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-07-16",
+      "state": "IN",
+      "title": "Rep.",
+      "withdrawn_at": null
     }
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-14",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -107,6 +159,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-15T19:24:41Z",
+  "updated_at": "2026-07-17T11:31:46Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9612.xml"
 }

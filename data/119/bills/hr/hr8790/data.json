@@ -48,6 +48,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by Voice Vote.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-07-16",
+      "action_code": "H12200",
+      "committees": [
+        "HSSY"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 119-752, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16",
+      "action_code": "H12300",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Committee on Natural Resources discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "655",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 655.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -58,18 +88,20 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Science, Space, and Technology",
       "committee_id": "HSSY"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Natural Resources",
-      "committee_id": "HSII"
     }
   ],
   "congress": "119",
@@ -121,7 +153,12 @@
     "Water use and supply"
   ],
   "subjects_top_term": "Energy",
-  "summary": null,
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2026-05-13",
+    "date": "2026-07-17T13:07:00Z",
+    "text": "Next-Generation Geothermal Research and Development Act\n\nThis bill directs the Department of Energy (DOE) to support the development of next-generation geothermal systems, such as closed-loop geothermal systems in supercritical conditions. Specifically, the bill expands the Energy Independence and Security Act of 2007 to modify and establish geothermal energy programs, such as programs concerning research and development, grants, and data management.\n\nDOE must support a program of research, development, demonstration, and commercial application for next-generation geothermal systems. DOE may administer grants for carrying out certain focus areas of the program. DOE must also ensure that at least one Frontier Observatory for Research in Geothermal Energy (FORGE) field research site has the capabilities to include next-generation geothermal testing.\n\nAdditionally, DOE must provide grants for (1) the continuation and expansion of research, development, demonstration, testing, and commercial application activities applicable to FORGE sites; and (2) the establishment of a next-generation geothermal systems center of excellence.\n\nDOE must also provide grants to accelerate the development, testing, and implementation of innovative technologies to improve the commercial-readiness of geothermal energy projects using next-generation geothermal systems.\n\nDOE must expand its\u00a0repository of geothermal drilling information to include publicly available subsurface data, including data reported as part of fossil fuel and mining operations. DOE must also periodically update the repository to improve its functionality and usability.\n\nThe bill authorizes the Department of the Interior to commission the drilling of supercritical geothermal exploration boreholes in certain areas to provide control points for deep heat mapping and geothermal development.\u00a0"
+  },
   "titles": [
     {
       "as": null,
@@ -145,6 +182,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-06-15T14:00:50Z",
+  "updated_at": "2026-07-17T13:11:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8790.xml"
 }

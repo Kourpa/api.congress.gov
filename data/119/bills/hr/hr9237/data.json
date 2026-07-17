@@ -53,9 +53,110 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 1423 Reported to House. Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16T09:11:43-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1423-119"
+      ],
+      "references": [
+        {
+          "reference": "CR H4548-4613",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under the provisions of rule H. Res. 1423.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16T09:11:48-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr139-119",
+        "hr8595-119",
+        "hr1181-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16T09:12:36-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 9237.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16T10:15:28-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16T10:16:01-04:00",
+      "action_code": "H36200",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "Mr. Deluzio moved to recommit to the Committee on Veterans' Affairs.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16T10:16:14-04:00",
+      "action_code": "H8A000",
+      "references": [],
+      "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16T10:16:38-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 9237, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Mr. Deluzio demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16T10:51:22-04:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H4614-4615",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16T11:16:29-04:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSVR"
+      ],
+      "references": [],
+      "text": "On motion to recommit Failed by the Yeas and Nays: 210 - 211 (Roll no. 249).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-16T11:16:45-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced further proceedings on H.R. 9237 is postponed.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt240-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "240"
+    }
+  ],
   "bill_id": "hr9237-119",
   "bill_type": "hr",
   "by_request": false,
@@ -63,17 +164,19 @@
   "committees": [
     {
       "activity": [
+        "Unknown",
+        "Unknown",
         "Referred To"
       ],
-      "committee": "House Armed Services",
-      "committee_id": "HSAS"
+      "committee": "House Veterans' Affairs",
+      "committee_id": "HSVR"
     },
     {
       "activity": [
         "Referred To"
       ],
-      "committee": "House Veterans' Affairs",
-      "committee_id": "HSVR"
+      "committee": "House Armed Services",
+      "committee_id": "HSAS"
     }
   ],
   "congress": "119",
@@ -735,6 +838,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-14T22:26:17Z",
+  "updated_at": "2026-07-17T15:01:06Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9237.xml"
 }

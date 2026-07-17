@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4647</number>
-    <updateDate>2026-07-16T15:17:03Z</updateDate>
-    <updateDateIncludingText>2026-07-16T15:17:03Z</updateDateIncludingText>
+    <updateDate>2026-07-17T11:33:29Z</updateDate>
+    <updateDateIncludingText>2026-07-17T11:33:29Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -54,10 +54,22 @@
             <type>Identical bill</type>
             <identifiedBy>CRS</identifiedBy>
           </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
         </relationshipDetails>
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-07-16</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.</text>
+        <type>Calendars</type>
+      </item>
       <item>
         <actionDate>2026-07-15</actionDate>
         <actionTime>11:49:09</actionTime>
@@ -83,7 +95,7 @@
       <item>
         <actionDate>2026-07-15</actionDate>
         <actionTime>11:49:07</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4476-4477)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -262,9 +274,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-07-15</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>11:49:09</actionTime>
+      <actionDate>2026-07-16</actionDate>
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
