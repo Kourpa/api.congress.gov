@@ -2,6 +2,13 @@
   "actions": [
     {
       "acted_at": "2026-05-19",
+      "action_code": "H11100",
+      "references": [],
+      "text": "Submitted in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-05-19",
       "action_code": "1025",
       "committees": [
         "HSAG"
@@ -261,7 +268,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-05-19",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -290,7 +298,10 @@
   "status": "REFERRED",
   "status_at": "2026-05-19",
   "subjects": [
-    "Agriculture and food"
+    "Agricultural practices and innovations",
+    "Agriculture and food",
+    "Commemorative events and holidays",
+    "Mental health"
   ],
   "subjects_top_term": "Agriculture and food",
   "summary": {
@@ -301,20 +312,20 @@
   },
   "titles": [
     {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Supporting the designation of May 29, 2026, as \"Mental Health Awareness in Agriculture Day\" to raise awareness around mental health in the agricultural industry and workforce and to continue to reduce stigma associated with mental illness.",
-      "type": "official"
-    },
-    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Supporting the designation of May 29, 2026, as \"Mental Health Awareness in Agriculture Day\" to raise awareness around mental health in the agricultural industry and workforce and to continue to reduce stigma associated with mental illness.",
       "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Supporting the designation of May 29, 2026, as \"Mental Health Awareness in Agriculture Day\" to raise awareness around mental health in the agricultural industry and workforce and to continue to reduce stigma associated with mental illness.",
+      "type": "official"
     }
   ],
-  "updated_at": "2026-06-01T14:29:03Z",
+  "updated_at": "2026-07-17T23:57:16Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1301.xml"
 }
