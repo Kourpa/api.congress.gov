@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>102</number>
-    <updateDate>2026-07-06T19:57:03Z</updateDate>
-    <updateDateIncludingText>2026-07-06T19:57:03Z</updateDateIncludingText>
+    <updateDate>2026-07-18T00:08:52Z</updateDate>
+    <updateDateIncludingText>2026-07-18T00:08:52Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -258,17 +258,21 @@
         <actionDate>2026-05-15</actionDate>
         <text>Submitted in House</text>
         <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-05-15</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
         <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
         </sourceSystem>
-        <committees>
-          <item>
-            <systemCode>hsfa00</systemCode>
-            <name>Foreign Affairs Committee</name>
-          </item>
-        </committees>
       </item>
     </actions>
     <sponsors>
@@ -293,21 +297,30 @@
         <updateDate>2026-05-28T20:55:48Z</updateDate>
       </policyArea>
     </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2026-05-15</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2026-07-17T20:36:05Z</updateDate>
+        <text><![CDATA[<p>This concurrent resolution directs the President to remove U.S. Armed Forces from hostilities&nbsp;against Iran or any part of its government or military unless a declaration of war or authorization to use military force for such purpose has been enacted.</p><p>The resolution specifies that it shall not be construed to prevent the United States from defending itself, its Armed Forces, its diplomatic facilities, or allied states from imminent attack.</p>]]></text>
+      </summary>
+    </summaries>
     <title>Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.</title>
     <titles>
-      <item>
-        <titleType>Official Title as Introduced</titleType>
-        <titleTypeCode>6</titleTypeCode>
-        <title>Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.</title>
-        <updateDate>2026-05-18T13:33:28Z</updateDate>
-        <billTextVersionName>Introduced in House</billTextVersionName>
-        <billTextVersionCode>IH</billTextVersionCode>
-      </item>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.</title>
-        <updateDate>2026-05-16T08:07:40Z</updateDate>
+        <updateDate>2026-07-18T00:08:52Z</updateDate>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <titleTypeCode>6</titleTypeCode>
+        <title>Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.</title>
+        <updateDate>2026-07-18T00:08:52Z</updateDate>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
       </item>
     </titles>
     <textVersions>

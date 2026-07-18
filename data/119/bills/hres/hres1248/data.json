@@ -2,6 +2,13 @@
   "actions": [
     {
       "acted_at": "2026-04-30",
+      "action_code": "H11100",
+      "references": [],
+      "text": "Submitted in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-30",
       "action_code": "1025",
       "committees": [
         "HSSO"
@@ -335,7 +342,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-04-30",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -363,20 +371,20 @@
   "summary": null,
   "titles": [
     {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Amending the Rules of the House of Representatives to prohibit Members, officers, and employees of the House of Representatives from participating in prediction markets in certain cases, and for other purposes.",
-      "type": "official"
-    },
-    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Amending the Rules of the House of Representatives to prohibit Members, officers, and employees of the House of Representatives from participating in prediction markets in certain cases, and for other purposes.",
       "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Amending the Rules of the House of Representatives to prohibit Members, officers, and employees of the House of Representatives from participating in prediction markets in certain cases, and for other purposes.",
+      "type": "official"
     }
   ],
-  "updated_at": "2026-06-24T08:08:15Z",
+  "updated_at": "2026-07-18T00:09:05Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1248.xml"
 }
