@@ -2,6 +2,13 @@
   "actions": [
     {
       "acted_at": "2026-04-28",
+      "action_code": "H11100",
+      "references": [],
+      "text": "Submitted in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-28",
       "action_code": "1025",
       "committees": [
         "HSFA"
@@ -171,7 +178,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-04-28",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -236,20 +244,20 @@
   },
   "titles": [
     {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
-      "type": "official"
-    },
-    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
       "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+      "type": "official"
     }
   ],
-  "updated_at": "2026-06-23T15:43:25Z",
+  "updated_at": "2026-07-17T23:46:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres93.xml"
 }

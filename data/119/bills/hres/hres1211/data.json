@@ -2,6 +2,13 @@
   "actions": [
     {
       "acted_at": "2026-04-23",
+      "action_code": "H11100",
+      "references": [],
+      "text": "Submitted in House",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-04-23",
       "action_code": "1025",
       "committees": [
         "HSJU"
@@ -271,7 +278,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-04-23",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -299,20 +307,20 @@
   "summary": null,
   "titles": [
     {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Expunging the December 18, 2019, and January 13, 2021, Impeachments of President Donald Trump.",
-      "type": "official"
-    },
-    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Expunging the December 18, 2019, and January 13, 2021, Impeachments of President Donald Trump.",
       "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Expunging the December 18, 2019, and January 13, 2021, Impeachments of President Donald Trump.",
+      "type": "official"
     }
   ],
-  "updated_at": "2026-04-30T20:56:31Z",
+  "updated_at": "2026-07-17T23:40:41Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1211.xml"
 }
