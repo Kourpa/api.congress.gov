@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="1703" updated="2026-07-17T23:57:00Z">
+<bill session="119" type="h" number="1703" updated="2026-07-19T13:53:21Z">
   <state datetime="2026-05-21">REPORTED</state>
   <status>
     <unknown datetime="2026-05-21"/>
   </status>
   <introduced datetime="2025-02-27"/>
   <titles>
-    <title type="display">Choices for Increased Mobility Act of 2025</title>
     <title type="short" as="introduced">Choices for Increased Mobility Act of 2025</title>
+    <title type="short" as="reported to house">Choices for Increased Mobility Act of 2026</title>
+    <title type="display">Choices for Increased Mobility Act of 2026</title>
     <title type="official" as="introduced">To amend title XVIII of the Social Security Act to clarify payment rules for manual wheelchairs under part B of the Medicare program.</title>
   </titles>
   <sponsor bioguide_id="J000302"/>
@@ -47,11 +48,20 @@
     <action datetime="2026-05-21" state="REPORTED">
       <text>Ordered to be Reported by the Yeas and Nays: 45 - 0.</text>
     </action>
+    <action datetime="2026-07-18">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-753, Part I.</text>
+    </action>
+    <action datetime="2026-07-18">
+      <text>Committee on Ways and Means discharged.</text>
+    </action>
+    <calendar datetime="2026-07-18" calendar="Union" number="656">
+      <text>Placed on the Union Calendar, Calendar No. 656.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSIF14" name="House Energy and Commerce" subcommittee="Health" activity="Reporting, Markup, Referral"/>
-    <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="247" relation="identical"/>
