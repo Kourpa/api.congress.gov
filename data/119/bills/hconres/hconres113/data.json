@@ -19,6 +19,23 @@
       "text": "Placed on the Union Calendar, Calendar No. 657.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-07-20T20:33:13-04:00",
+      "action_code": "H1L210",
+      "bill_ids": [
+        "hres1438-119",
+        "hr8800-119",
+        "hr8884-119",
+        "hcres113-119",
+        "hr7008-119",
+        "hr6955-119",
+        "hr9770-119",
+        "hr8844-119"
+      ],
+      "references": [],
+      "text": "Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit H.R. 8800, H.R. 8844, H.R. 7008, H.R. 6955, and H.R. 9770.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -41,7 +58,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-20T20:33:13-04:00",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -50,7 +68,14 @@
   "number": "113",
   "official_title": "Establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hres1438-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "A000375",
@@ -88,6 +113,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-20T21:26:17Z",
+  "updated_at": "2026-07-21T08:35:41Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres113.xml"
 }
