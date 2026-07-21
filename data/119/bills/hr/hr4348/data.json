@@ -88,6 +88,47 @@
       "text": "Placed on the Union Calendar, Calendar No. 630.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-07-20T14:57:25-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Guthrie moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-20T14:57:37-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-20T14:57:38-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4348.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-20T15:09:17-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-07-20T15:09:21-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -488,6 +529,8 @@
     "active_at": "2026-05-13",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-07-20T15:09:17-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-07-10",
@@ -511,8 +554,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-05-21",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-07-20T15:09:17-04:00",
   "subjects": [
     "Health",
     "Health programs administration and funding",
@@ -541,6 +584,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-18T00:02:15Z",
+  "updated_at": "2026-07-21T08:06:01Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4348.xml"
 }

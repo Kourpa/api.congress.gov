@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-15",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Natural Resources",
@@ -48,7 +70,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-15",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -74,8 +97,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-24",
+  "status": "REPORTED",
+  "status_at": "2026-07-15",
   "subjects": [
     "Dams and canals",
     "Government trust funds",
@@ -89,7 +112,7 @@
     "as": "Introduced in House",
     "asOf": "2025-01-24",
     "date": "2025-06-09T16:34:39Z",
-    "text": ""
+    "text": "Crow Tribe Water Rights Settlement Amendments Act of 2025\n\nThis bill revises the water rights settlement agreement entered into by the Crow Tribe of Montana and Montana.\n\nThe Crow Tribe Water Rights Settlement Act of 2010 ratified, authorized, and confirmed the water rights compact between the tribe and Montana. Among other provisions, this settlement act authorized the Bureau of Reclamation to plan, design and construct the following two major projects on the Crow Reservation: (1) the rehabilitation and improvement of the Crow Irrigation Project (CIP); and (2) the planning, design, and construction of the MR&I System (the municipal, rural, and industrial water system of the Crow Reservation).\n\nAmong other provisions, the bill revises the settlement act to\n\nreplace references to the MR&I System with MR&I Projects;\u00a0establish a nontrust, interest-bearing account\u00a0(to be known as the Crow\u00a0CIP Implementation Account) to allow Reclamation to continue to work on the rehabilitation of the CIP;\u00a0create a new MR&I Projects Account, through which the tribe must use funds for activities related to water production, treatment, or delivery infrastructure; andextend by five years (to 2030) the period during which the tribe has the exclusive right to construct hydropower facilities on the Yellowtail\u00a0Afterbay Dam in Montana."
   },
   "titles": [
     {
@@ -114,6 +137,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-04T05:06:23Z",
+  "updated_at": "2026-07-21T08:05:56Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr726.xml"
 }

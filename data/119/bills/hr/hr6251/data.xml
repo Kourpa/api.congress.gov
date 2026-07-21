@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="6251" updated="2026-07-17T23:49:32Z">
-  <state datetime="2025-11-21">REFERRED</state>
+<bill session="119" type="h" number="6251" updated="2026-07-21T08:05:33Z">
+  <state datetime="2026-07-15">REPORTED</state>
   <status>
-    <introduced datetime="2025-11-21"/>
+    <unknown datetime="2026-07-15"/>
   </status>
   <introduced datetime="2025-11-21"/>
   <titles>
@@ -26,10 +26,19 @@
     <action datetime="2026-04-16">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2026-07-15">
+      <text>Subcommittee on Water, Wildlife and Fisheries Discharged</text>
+    </action>
+    <action datetime="2026-07-15">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-15" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSII13" name="House Natural Resources" subcommittee="Water, Wildlife and Fisheries" activity="Hearings By (Subcommittee), Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSII13" name="House Natural Resources" subcommittee="Water, Wildlife and Fisheries" activity="Discharged, Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills/>
   <subjects>
