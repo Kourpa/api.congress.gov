@@ -49,7 +49,16 @@
     {
       "acted_at": "2026-07-20T16:40:29-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4656-4657",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H4656",
+          "type": "text"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -154,6 +163,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-21T08:05:52Z",
+  "updated_at": "2026-07-21T16:45:59Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7283.xml"
 }
