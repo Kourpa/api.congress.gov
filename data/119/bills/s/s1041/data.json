@@ -49,6 +49,39 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-07-21",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with amendments by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-07-21",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-21T19:17:00-04:00",
+      "action_code": "H14000",
+      "references": [],
+      "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-21T19:23:50-04:00",
+      "action_code": "H15000",
+      "references": [],
+      "text": "Held at the desk.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -106,6 +139,8 @@
     "active_at": "2025-04-03",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-07-21",
     "vetoed": false
   },
   "introduced_at": "2025-03-13",
@@ -135,8 +170,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-04-03",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-07-21",
   "subjects": [
     "Civil actions and liability",
     "Commerce",
@@ -159,6 +194,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Affordable Prescriptions for Patients Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -180,13 +222,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Affordable Prescriptions for Patients Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -194,6 +229,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-22T05:38:23Z",
+  "updated_at": "2026-07-22T11:24:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1041.xml"
 }

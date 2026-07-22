@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4123</number>
-    <updateDate>2026-07-22T05:38:24Z</updateDate>
-    <updateDateIncludingText>2026-07-22T06:03:29Z</updateDateIncludingText>
+    <updateDate>2026-07-22T10:56:39Z</updateDate>
+    <updateDateIncludingText>2026-07-22T13:33:32Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/4123</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 109 (Wednesday, June 25, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. BURLISON:H.R. 4123.Congress has the power to enact this legislation pursuantto the following:Article I, Section VIII of the United States Constitution[Page H2970]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-07-21T21:11:21Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsgo00</systemCode>
         <name>Oversight and Government Reform Committee</name>
@@ -44,6 +56,20 @@
     </committees>
     <actions>
       <item>
+        <actionDate>2026-07-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2026-07-20</actionDate>
         <actionTime>16:59:10</actionTime>
         <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -68,7 +94,7 @@
       <item>
         <actionDate>2026-07-20</actionDate>
         <actionTime>16:59:07</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4659-4661)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -380,9 +406,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-07-20</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>16:59:10</actionTime>
+      <actionDate>2026-07-21</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1041</number>
-    <updateDate>2026-07-22T05:38:23Z</updateDate>
-    <updateDateIncludingText>2026-07-22T05:48:22Z</updateDateIncludingText>
+    <updateDate>2026-07-22T11:24:24Z</updateDate>
+    <updateDateIncludingText>2026-07-22T13:18:45Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -68,6 +68,54 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>19:23:50</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>19:17:00</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with amendments by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-04-10</actionDate>
         <sourceSystem>
@@ -252,6 +300,12 @@
     <title>Affordable Prescriptions for Patients Act</title>
     <titles>
       <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Affordable Prescriptions for Patients Act</title>
+        <updateDate>2026-07-22T10:58:28Z</updateDate>
+      </item>
+      <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
         <titleTypeCode>105</titleTypeCode>
         <title>Affordable Prescriptions for Patients Act</title>
@@ -270,12 +324,6 @@
         <chamberName>Senate</chamberName>
         <billTextVersionName>Reported to Senate</billTextVersionName>
         <billTextVersionCode>RS</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Affordable Prescriptions for Patients Act</title>
-        <updateDate>2025-04-12T11:03:16Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -324,8 +372,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-10</actionDate>
-      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.</text>
+      <actionDate>2026-07-21</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>19:23:50</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
