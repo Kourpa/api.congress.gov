@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6955</number>
-    <updateDate>2026-07-22T04:06:17Z</updateDate>
-    <updateDateIncludingText>2026-07-22T04:06:17Z</updateDateIncludingText>
+    <updateDate>2026-07-22T12:41:21Z</updateDate>
+    <updateDateIncludingText>2026-07-22T12:41:21Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,14 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Unknown</name>
+            <date>2026-07-22T02:00:26Z</date>
+          </item>
+          <item>
+            <name>Unknown</name>
+            <date>2026-07-21T19:50:56Z</date>
+          </item>
           <item>
             <name>Reported By</name>
             <date>2026-04-20T16:19:23Z</date>
@@ -446,8 +454,9 @@
         <number>1438</number>
         <type>HRES</type>
         <latestAction>
-          <actionDate>2026-07-20</actionDate>
-          <text>Placed on the House Calendar, Calendar No. 86.</text>
+          <actionDate>2026-07-21</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>14:40:00</actionTime>
         </latestAction>
         <relationshipDetails>
           <item>
@@ -463,9 +472,183 @@
     </relatedBills>
     <actions>
       <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>22:06:17</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>22:06:13</actionTime>
+        <text>On passage Passed by the Yeas and Nays: 270 - 155, 1 Present (Roll no. 271).</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>271</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll271.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-07-22T02:06:13Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>22:06:13</actionTime>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 270 - 155, 1 Present (Roll no. 271).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>271</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll271.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-07-22T02:06:13Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>22:00:26</actionTime>
+        <text>On motion to recommit Failed by the Yeas and Nays: 210 - 216 (Roll no. 270).</text>
+        <type>Floor</type>
+        <actionCode>H36210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>270</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll270.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-07-22T02:00:26Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>21:53:59</actionTime>
+        <text>Considered as unfinished business.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>15:51:32</actionTime>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 6955, the Chair put the question on motion to recommit and by voice vote, announced that the noes had prevailed. Ms. Garcia (TX) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>15:51:10</actionTime>
+        <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+        <type>Floor</type>
+        <actionCode>H8A000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>15:50:56</actionTime>
+        <text>Ms. Garcia (TX) moved to recommit to the Committee on Financial Services.</text>
+        <type>Floor</type>
+        <actionCode>H36200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>15:50:24</actionTime>
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>14:44:39</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H.R. 6955.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>14:43:38</actionTime>
+        <text>Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-07-21</actionDate>
+        <actionTime>14:43:33</actionTime>
+        <text>Considered under the provisions of rule H. Res. 1438.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
         <actionDate>2026-07-20</actionDate>
         <actionTime>20:33:13</actionTime>
-        <text>Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit H.R. 8800, H.R. 8844, H.R. 7008, H.R. 6955, and H.R. 9770.</text>
+        <text>Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.</text>
         <type>Floor</type>
         <actionCode>H1L210</actionCode>
         <sourceSystem>
@@ -1159,6 +1342,92 @@
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>241</number>
+        <congress>119</congress>
+        <type>HAMDT</type>
+        <description>Pursuant to the provisions of H. Res. 1438, in lieu of the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 119-35 is considered as adopted.</description>
+        <updateDate>2026-07-22T08:09:17Z</updateDate>
+        <latestAction>
+          <actionDate>2026-07-21</actionDate>
+          <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+        </latestAction>
+        <sponsors>
+          <item>
+            <name>Rules Committee</name>
+          </item>
+        </sponsors>
+        <submittedDate>2026-07-21T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>6955</number>
+          <title>Main Street Act</title>
+          <updateDateIncludingText>2026-07-22</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-07-21</actionDate>
+              <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-07-21</actionDate>
+              <text>Amendment in the nature of a substitute reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+            <item>
+              <actionDate>2026-07-21</actionDate>
+              <text>House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+            <item>
+              <actionDate>2026-07-21</actionDate>
+              <text>House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Reported in House</type>
@@ -1180,9 +1449,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-07-20</actionDate>
-      <text>Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit H.R. 8800, H.R. 8844, H.R. 7008, H.R. 6955, and H.R. 9770.</text>
-      <actionTime>20:33:13</actionTime>
+      <actionDate>2026-07-21</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>22:06:17</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

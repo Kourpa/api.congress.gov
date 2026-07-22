@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5267" updated="2026-07-21T08:06:40Z">
-  <state datetime="2025-09-10">REFERRED</state>
+<bill session="119" type="h" number="5267" updated="2026-07-22T08:09:18Z">
+  <state datetime="2026-07-21">REPORTED</state>
   <status>
-    <introduced datetime="2025-09-10"/>
+    <unknown datetime="2026-07-21"/>
   </status>
   <introduced datetime="2025-09-10"/>
   <titles>
@@ -25,6 +25,7 @@
     <cosponsor bioguide_id="B001287" joined="2025-09-10"/>
     <cosponsor bioguide_id="B001301" joined="2026-03-24"/>
     <cosponsor bioguide_id="B000740" joined="2025-09-26"/>
+    <cosponsor bioguide_id="B001302" joined="2026-07-21"/>
     <cosponsor bioguide_id="B001295" joined="2026-04-21"/>
     <cosponsor bioguide_id="B001316" joined="2026-03-19"/>
     <cosponsor bioguide_id="C001126" joined="2025-11-18"/>
@@ -33,6 +34,7 @@
     <cosponsor bioguide_id="C001055" joined="2026-01-22"/>
     <cosponsor bioguide_id="C001133" joined="2026-04-28"/>
     <cosponsor bioguide_id="C001118" joined="2025-12-09"/>
+    <cosponsor bioguide_id="C001115" joined="2026-07-21"/>
     <cosponsor bioguide_id="C001053" joined="2025-10-08"/>
     <cosponsor bioguide_id="C001108" joined="2026-05-11"/>
     <cosponsor bioguide_id="C001059" joined="2025-09-10"/>
@@ -80,6 +82,7 @@
     <cosponsor bioguide_id="H001100" joined="2026-06-29"/>
     <cosponsor bioguide_id="J000311" joined="2025-12-10"/>
     <cosponsor bioguide_id="J000301" joined="2026-03-26"/>
+    <cosponsor bioguide_id="J000295" joined="2026-07-21"/>
     <cosponsor bioguide_id="K000398" joined="2026-01-13"/>
     <cosponsor bioguide_id="K000376" joined="2025-11-19"/>
     <cosponsor bioguide_id="K000388" joined="2026-03-26"/>
@@ -161,9 +164,15 @@
     <action datetime="2025-09-10" state="REFERRED">
       <text>Referred to the House Committee on Education and Workforce.</text>
     </action>
+    <action datetime="2026-07-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-21" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="3525" relation="unknown"/>
