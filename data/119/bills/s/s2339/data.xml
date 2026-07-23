@@ -1,12 +1,13 @@
-<bill session="119" type="s" number="2339" updated="2025-12-05T21:41:44Z">
-  <state datetime="2025-07-17">REFERRED</state>
+<bill session="119" type="s" number="2339" updated="2026-07-22T19:27:09Z">
+  <state datetime="2026-06-17">REPORTED</state>
   <status>
-    <introduced datetime="2025-07-17"/>
+    <unknown datetime="2026-06-17"/>
   </status>
   <introduced datetime="2025-07-17"/>
   <titles>
-    <title type="display">EARLY Act Reauthorization of 2025</title>
     <title type="short" as="introduced">EARLY Act Reauthorization of 2025</title>
+    <title type="short" as="reported to senate">EARLY Act Reauthorization of 2025</title>
+    <title type="display">EARLY Act Reauthorization of 2025</title>
     <title type="official" as="introduced">A bill to reauthorize the Young Women's Breast Health Education and Awareness Requires Learning Young Act of 2009.</title>
   </titles>
   <sponsor bioguide_id="K000367"/>
@@ -20,15 +21,33 @@
     <action datetime="2025-07-17" state="REFERRED">
       <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
     </action>
+    <action datetime="2026-06-17" state="REPORTED">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </action>
+    <action datetime="2026-07-16">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2026-07-16" calendar="Senate Legislative" under="General Orders" number="460">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 460.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referred To"/>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
-    <bill session="119" type="h" number="4541" relation="identical"/>
+    <bill session="119" type="h" number="4541" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Women's health"/>
   </subjects>
   <amendments/>
+  <summary date="2026-07-22T19:26:24Z" status="Reported to Senate">EARLY Act Reauthorization of 2025
+
+This bill reauthorizes through FY2031 programs relating to young women&#8217;s awareness of breast health and breast cancer, which are administered by the Centers for Disease Control and Prevention. These programs include campaigns to educate young women and health care professionals, research on preventing breast cancer in younger women, and grants for resources and services to young women diagnosed with breast cancer and precancerous conditions.</summary>
 </bill>

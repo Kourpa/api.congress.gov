@@ -17,6 +17,38 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-17",
+      "action_code": "",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-07-16",
+      "action_code": "",
+      "committee": "Health, Education, Labor, and Pensions",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.",
+      "type": "reported"
+    },
+    {
+      "acted_at": "2026-07-16",
+      "action_code": "",
+      "calendar": "Senate Legislative",
+      "number": "460",
+      "references": [],
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 460.",
+      "type": "calendar",
+      "under": "General Orders"
     }
   ],
   "amendments": [],
@@ -27,6 +59,8 @@
   "committees": [
     {
       "activity": [
+        "Reported By",
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Health, Education, Labor, and Pensions",
@@ -48,7 +82,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-06-17",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -61,7 +96,7 @@
     {
       "bill_id": "hr4541-119",
       "identified_by": "CRS",
-      "reason": "identical",
+      "reason": "related",
       "type": "bill"
     }
   ],
@@ -74,14 +109,39 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-07-17",
+  "status": "REPORTED",
+  "status_at": "2026-06-17",
   "subjects": [
-    "Health"
+    "Cancer",
+    "Health",
+    "Health information and medical records",
+    "Health programs administration and funding",
+    "Health promotion and preventive care",
+    "Medical tests and diagnostic methods",
+    "Women's health"
   ],
   "subjects_top_term": "Health",
-  "summary": null,
+  "summary": {
+    "as": "Reported to Senate",
+    "asOf": "2026-07-16",
+    "date": "2026-07-22T19:26:24Z",
+    "text": "EARLY Act Reauthorization of 2025\n\nThis bill reauthorizes through FY2031 programs relating to young women\u2019s awareness of breast health and breast cancer, which are administered by the Centers for Disease Control and Prevention. These programs include campaigns to educate young women and health care professionals, research on preventing breast cancer in younger women, and grants for resources and services to young women diagnosed with breast cancer and precancerous conditions."
+  },
   "titles": [
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "EARLY Act Reauthorization of 2025",
+      "type": "short"
+    },
+    {
+      "as": "reported to senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "EARLY Act Reauthorization of 2025",
+      "type": "short"
+    },
     {
       "as": null,
       "is_for_portion": false,
@@ -93,17 +153,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "EARLY Act Reauthorization of 2025",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "A bill to reauthorize the Young Women's Breast Health Education and Awareness Requires Learning Young Act of 2009.",
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-05T21:41:44Z",
+  "updated_at": "2026-07-22T19:27:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2339.xml"
 }

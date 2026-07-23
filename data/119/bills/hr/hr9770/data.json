@@ -59,7 +59,12 @@
       "bill_ids": [
         "hres1438-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4731-4736",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 1438.",
       "type": "action"
     },
@@ -101,7 +106,12 @@
     {
       "acted_at": "2026-07-21T22:06:32-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5019-5020",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -109,7 +119,12 @@
       "acted_at": "2026-07-21T22:14:39-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H4731-4733",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "272",
       "status": "PASS_OVER:HOUSE",
@@ -230,6 +245,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2026-07-23T10:56:29Z",
+  "updated_at": "2026-07-23T16:09:43Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9770.xml"
 }
