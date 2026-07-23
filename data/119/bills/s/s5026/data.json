@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-22",
+      "action_code": "",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Health, Education, Labor, and Pensions",
@@ -37,7 +49,8 @@
   "cosponsors": [],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-22",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -46,7 +59,14 @@
   "number": "5026",
   "official_title": "A bill to require warning labels on sugar-sweetened foods and beverages, foods and beverages containing high-intensity sweeteners, ultra-processed foods, and foods high in nutrients of concern, such as added sugar, saturated fat, or sodium, to restrict junk food advertising to children.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hr6294-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Childhood Diabetes Reduction Act of 2026",
   "sponsor": {
     "bioguide_id": "S000033",
@@ -56,10 +76,12 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-07-16",
-  "subjects": [],
-  "subjects_top_term": null,
+  "status": "REPORTED",
+  "status_at": "2026-07-22",
+  "subjects": [
+    "Health"
+  ],
+  "subjects_top_term": "Health",
   "summary": null,
   "titles": [
     {
@@ -84,6 +106,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-21T02:08:22Z",
+  "updated_at": "2026-07-23T15:10:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5026.xml"
 }
