@@ -73,9 +73,116 @@
       "references": [],
       "text": "Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-07-22T14:12:10-04:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1438-119"
+      ],
+      "references": [],
+      "text": "Considered under the provisions of rule H. Res. 1438.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-22T14:12:15-04:00",
+      "action_code": "H8D000",
+      "bill_ids": [
+        "hr8800-119",
+        "hr8884-119",
+        "hcres113-119",
+        "hr6955-119",
+        "hr9770-119"
+      ],
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-22T14:13:23-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 7008.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-22T15:13:52-04:00",
+      "action_code": "H35000",
+      "references": [],
+      "text": "The previous question was ordered pursuant to the rule.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-22T15:14:17-04:00",
+      "action_code": "H36200",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "Mr. Magaziner moved to recommit to the Committee on House Administration.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-22T15:14:29-04:00",
+      "action_code": "H8A000",
+      "references": [],
+      "text": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-22T15:14:54-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 7008, the Chair put the question on motion to recommit and by voice vote, announced the ayes had prevailed. Mr. Steil demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-22T16:38:41-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-22T16:44:29-04:00",
+      "action_code": "H36210",
+      "committees": [
+        "HSHA"
+      ],
+      "references": [],
+      "text": "On motion to recommit Failed by the Yeas and Nays: 211 - 218 (Roll no. 279).",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-22T16:52:10-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "280",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 232 - 198 (Roll no. 280).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-07-22T16:52:12-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt267-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "267"
+    }
+  ],
   "bill_id": "hr7008-119",
   "bill_type": "hr",
   "by_request": false,
@@ -85,6 +192,8 @@
   "committees": [
     {
       "activity": [
+        "Unknown",
+        "Unknown",
         "Reported By",
         "Markup By",
         "Referred To"
@@ -1032,6 +1141,8 @@
     "active_at": "2026-01-14",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-07-22T16:52:10-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-01-12",
@@ -1061,8 +1172,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-01-14",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-07-22T16:52:10-04:00",
   "subjects": [
     "Congress",
     "Family relationships",
@@ -1109,6 +1220,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-22T21:06:18Z",
+  "updated_at": "2026-07-23T08:09:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7008.xml"
 }

@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4283" updated="2025-12-16T09:05:24Z">
-  <state datetime="2025-07-02">REFERRED</state>
+<bill session="119" type="h" number="4283" updated="2026-07-23T08:08:42Z">
+  <state datetime="2026-07-22">REPORTED</state>
   <status>
-    <introduced datetime="2025-07-02"/>
+    <unknown datetime="2026-07-22"/>
   </status>
   <introduced datetime="2025-07-02"/>
   <titles>
@@ -16,6 +16,7 @@
     <cosponsor bioguide_id="J000305" joined="2025-11-17"/>
     <cosponsor bioguide_id="K000399" joined="2025-12-11"/>
     <cosponsor bioguide_id="L000582" joined="2025-11-20"/>
+    <cosponsor bioguide_id="M001241" joined="2026-07-22"/>
     <cosponsor bioguide_id="M001225" joined="2025-12-03"/>
     <cosponsor bioguide_id="O000019" joined="2025-11-04"/>
     <cosponsor bioguide_id="P000608" joined="2025-11-18"/>
@@ -31,14 +32,20 @@
     <action datetime="2025-07-02" state="REFERRED">
       <text>Referred to the House Committee on Oversight and Government Reform.</text>
     </action>
+    <action datetime="2026-07-22">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-22" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Government operations and politics"/>
   </subjects>
   <amendments/>
-  <summary date="2025-08-01T21:32:45Z" status="Introduced in House"></summary>
+  <summary date="2025-08-01T21:32:45Z" status="Introduced in House">This bill designates the facility of the United States Postal Service located at 1157 West Mission Avenue in Escondido, California, as the "Captain E. Royce Williams Post Office Building".</summary>
 </bill>

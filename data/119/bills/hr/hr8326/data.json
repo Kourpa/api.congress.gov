@@ -17,6 +17,27 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Oversight and Government Reform.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-22",
+      "action_code": "",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-22",
+      "action_code": "",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +48,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Oversight and Government Reform",
@@ -158,7 +180,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-22",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -177,8 +200,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-04-16",
+  "status": "REPORTED",
+  "status_at": "2026-07-22",
   "subjects": [
     "Government operations and politics"
   ],
@@ -205,6 +228,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-17T23:54:03Z",
+  "updated_at": "2026-07-23T08:08:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8326.xml"
 }

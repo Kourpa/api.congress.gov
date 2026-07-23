@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7008" updated="2026-07-22T21:06:18Z">
-  <state datetime="2026-01-14">REPORTED</state>
+<bill session="119" type="h" number="7008" updated="2026-07-23T08:09:28Z">
+  <state datetime="2026-07-22T16:52:10-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-01-14"/>
+    <unknown datetime="2026-07-22T16:52:10-04:00"/>
   </status>
   <introduced datetime="2026-01-12"/>
   <titles>
@@ -128,9 +128,42 @@
     <action datetime="2026-07-20T20:33:13-04:00">
       <text>Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.</text>
     </action>
+    <action datetime="2026-07-22T14:12:10-04:00">
+      <text>Considered under the provisions of rule H. Res. 1438.</text>
+    </action>
+    <action datetime="2026-07-22T14:12:15-04:00">
+      <text>Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.</text>
+    </action>
+    <action datetime="2026-07-22T14:13:23-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 7008.</text>
+    </action>
+    <action datetime="2026-07-22T15:13:52-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-07-22T15:14:17-04:00">
+      <text>Mr. Magaziner moved to recommit to the Committee on House Administration.</text>
+    </action>
+    <action datetime="2026-07-22T15:14:29-04:00">
+      <text>The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.</text>
+    </action>
+    <action datetime="2026-07-22T15:14:54-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 7008, the Chair put the question on motion to recommit and by voice vote, announced the ayes had prevailed. Mr. Steil demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-07-22T16:38:41-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <action datetime="2026-07-22T16:44:29-04:00">
+      <text>On motion to recommit Failed by the Yeas and Nays: 211 - 218 (Roll no. 279).</text>
+    </action>
+    <vote how="roll" type="vote" roll="280" datetime="2026-07-22T16:52:10-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 232 - 198 (Roll no. 280).</text>
+    </vote>
+    <action datetime="2026-07-22T16:52:12-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Reported By, Markup By, Referred To"/>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="4134" relation="unknown"/>
@@ -145,7 +178,9 @@
     <term name="Members of Congress"/>
     <term name="Securities"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h267"/>
+  </amendments>
   <summary date="2026-07-17T18:07:24Z" status="Reported to House">Stop Insider Trading Act
 
 This bill generally prohibits Members of Congress and their spouses and dependent children from purchasing stocks and requires public notice before these individuals may sell stocks.

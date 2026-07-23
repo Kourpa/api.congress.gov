@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="9570" updated="2026-07-13T19:10:33Z">
-  <state datetime="2026-07-02">REFERRED</state>
+<bill session="119" type="h" number="9570" updated="2026-07-23T08:07:52Z">
+  <state datetime="2026-07-22">REPORTED</state>
   <status>
-    <introduced datetime="2026-07-02"/>
+    <unknown datetime="2026-07-22"/>
   </status>
   <introduced datetime="2026-07-02"/>
   <titles>
@@ -30,9 +30,15 @@
     <action datetime="2026-07-02" state="REFERRED">
       <text>Referred to the House Committee on Oversight and Government Reform.</text>
     </action>
+    <action datetime="2026-07-22">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-22" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
