@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="9624" updated="2026-07-17T16:46:43Z">
-  <state datetime="2026-07-09">REFERRED</state>
+<bill session="119" type="h" number="9624" updated="2026-07-24T08:08:49Z">
+  <state datetime="2026-07-20">REPORTED</state>
   <status>
-    <introduced datetime="2026-07-09"/>
+    <unknown datetime="2026-07-20"/>
   </status>
   <introduced datetime="2026-07-09"/>
   <titles>
@@ -18,9 +18,15 @@
     <action datetime="2026-07-09" state="REFERRED">
       <text>Referred to the House Permanent Select Committee on Intelligence.</text>
     </action>
+    <action datetime="2026-07-20">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HLIG" name="House Intelligence (Permanent Select)" subcommittee="" activity="Referred To"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="5167" relation="unknown"/>

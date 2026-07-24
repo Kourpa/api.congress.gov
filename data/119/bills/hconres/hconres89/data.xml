@@ -1,12 +1,13 @@
-<bill session="119" type="hc" number="89" updated="2026-07-23T08:08:40Z">
-  <state datetime="2026-04-23">REFERRED</state>
+<bill session="119" type="hc" number="89" updated="2026-07-24T08:08:57Z">
+  <state datetime="2026-07-23T10:25:10-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2026-04-23"/>
+    <unknown datetime="2026-07-23T10:25:10-04:00"/>
   </status>
   <introduced datetime="2026-04-23"/>
   <titles>
     <title type="display">Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.</title>
     <title type="official" as="introduced">Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.</title>
+    <title type="official">Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.</title>
   </titles>
   <sponsor bioguide_id="J000298"/>
   <cosponsors>
@@ -55,6 +56,15 @@
     <action datetime="2026-07-22T19:49:04-04:00">
       <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Con. Res. 89, the Chair put the question on agreeing to the concurrent resolution and by voice vote, announced the noes had prevailed. Ms. Jayapal demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
     </action>
+    <action datetime="2026-07-23T09:46:33-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="282" datetime="2026-07-23T10:25:10-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 214 - 208 (Roll no. 282).</text>
+    </vote>
+    <action datetime="2026-07-23T10:25:11-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
@@ -73,6 +83,8 @@
     <bill session="119" type="hc" number="102" relation="identical"/>
     <bill session="119" type="hc" number="104" relation="identical"/>
     <bill session="119" type="hc" number="105" relation="identical"/>
+    <bill session="119" type="hc" number="40" relation="unknown"/>
+    <bill session="119" type="hc" number="86" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="International affairs"/>
