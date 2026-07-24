@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>89</number>
-    <updateDate>2026-07-24T08:08:57Z</updateDate>
-    <updateDateIncludingText>2026-07-24T10:18:28Z</updateDateIncludingText>
+    <updateDate>2026-07-24T13:21:12Z</updateDate>
+    <updateDateIncludingText>2026-07-24T13:21:12Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/89</legislationUrl>
     <cdata/>
     <committees>
+      <item>
+        <systemCode>ssfr00</systemCode>
+        <name>Foreign Relations Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-07-23T19:02:15Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsfa00</systemCode>
         <name>Foreign Affairs Committee</name>
@@ -275,6 +287,20 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-07-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-07-23</actionDate>
         <actionTime>10:25:11</actionTime>
@@ -720,8 +746,7 @@
     </textVersions>
     <latestAction>
       <actionDate>2026-07-23</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>10:25:11</actionTime>
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
