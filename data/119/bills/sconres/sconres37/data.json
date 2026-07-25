@@ -52,7 +52,12 @@
     {
       "acted_at": "2026-07-22T17:03:46-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5159-5160",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by unanimous consent.",
       "type": "action"
     },
@@ -60,7 +65,12 @@
       "acted_at": "2026-07-22T17:06:41-04:00",
       "action_code": "H37100",
       "how": "without objection",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5160",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:CONCURRENTRES",
       "suspension": null,
@@ -132,6 +142,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-23T10:56:29Z",
+  "updated_at": "2026-07-24T14:43:36Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sconres/BILLSTATUS-119sconres37.xml"
 }
