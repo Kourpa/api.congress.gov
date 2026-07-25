@@ -48,7 +48,16 @@
     {
       "acted_at": "2026-07-22T18:46:50-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5160-5165",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H5160",
+          "type": "text"
+        }
+      ],
       "text": "Considered pursuant to a previous order.",
       "type": "action"
     },
@@ -82,7 +91,12 @@
     {
       "acted_at": "2026-07-23T09:46:33-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5186",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -452,6 +466,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-24T13:21:12Z",
+  "updated_at": "2026-07-24T15:25:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres89.xml"
 }

@@ -42,7 +42,12 @@
       "bill_ids": [
         "hres1438-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5127-5143",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 1438.",
       "type": "action"
     },
@@ -122,7 +127,12 @@
     {
       "acted_at": "2026-07-22T16:52:13-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5158-5159",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -130,7 +140,12 @@
       "acted_at": "2026-07-22T16:59:10-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5138-5143",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
       "result": "pass",
       "roll": "281",
       "status": "PASS_OVER:HOUSE",
@@ -238,7 +253,26 @@
   "status": "PASS_OVER:HOUSE",
   "status_at": "2026-07-22T16:59:10-04:00",
   "subjects": [
-    "Economics and public finance"
+    "Administrative law and regulatory procedures",
+    "Budget deficits and national debt",
+    "Budget process",
+    "Disability assistance",
+    "Disaster relief and insurance",
+    "Economics and public finance",
+    "Fires",
+    "Forests, forestry, trees",
+    "Fraud offenses and financial crimes",
+    "Health care costs and insurance",
+    "House Committee on Agriculture",
+    "House Committee on Armed Services",
+    "House Committee on House Administration",
+    "House Permanent Select Committee on Intelligence",
+    "House of Representatives",
+    "Legislative rules and procedure",
+    "Postal service",
+    "Social security and elderly assistance",
+    "U.S. Postal Service",
+    "Unemployment"
   ],
   "subjects_top_term": "Economics and public finance",
   "summary": {
@@ -270,6 +304,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-24T13:21:08Z",
+  "updated_at": "2026-07-24T16:11:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres113.xml"
 }
