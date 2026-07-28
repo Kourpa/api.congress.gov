@@ -25,6 +25,33 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-27",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-27",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S4286",
+          "type": "consideration"
+        }
+      ],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -35,6 +62,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -266,9 +294,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-27",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-07-27",
     "vetoed": false
   },
   "introduced_at": "2026-06-18",
@@ -292,8 +323,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-06-18",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2026-07-27",
   "subjects": [
     "Civil rights and liberties, minority issues"
   ],
@@ -315,6 +346,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-07-25T10:56:26Z",
+  "updated_at": "2026-07-28T13:23:24Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres781.xml"
 }

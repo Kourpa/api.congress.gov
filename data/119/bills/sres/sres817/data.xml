@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="817" updated="2026-07-25T10:56:24Z">
+<bill session="119" type="sr" number="817" updated="2026-07-28T13:22:52Z">
   <state datetime="2026-07-23">INTRODUCED</state>
   <status>
     <introduced datetime="2026-07-23"/>
@@ -21,9 +21,24 @@
     <action datetime="2026-07-23">
       <text>Placed on Senate Executive Calendar under Over, Under the Rule. Calendar No. 6.</text>
     </action>
+    <action datetime="2026-07-27">
+      <text>Motion to proceed to executive session to consideration of measure agreed to in Senate by Voice Vote.</text>
+    </action>
+    <action datetime="2026-07-27">
+      <text>Measure laid before Senate by motion.</text>
+      <reference ref="CR S4276" label="consideration"/>
+    </action>
+    <action datetime="2026-07-27">
+      <text>Cloture motion on the measure presented in Senate.</text>
+      <reference ref="CR S4276"/>
+    </action>
   </actions>
   <committees/>
   <relatedbills/>
   <subjects/>
-  <amendments/>
+  <amendments>
+    <amendment number="s6709"/>
+    <amendment number="s6707"/>
+    <amendment number="s6706"/>
+  </amendments>
 </bill>

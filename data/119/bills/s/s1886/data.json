@@ -27,6 +27,7 @@
   "committees": [
     {
       "activity": [
+        "Referred To",
         "Referred To"
       ],
       "committee": "Senate Finance",
@@ -34,7 +35,18 @@
     }
   ],
   "congress": "119",
-  "cosponsors": [],
+  "cosponsors": [
+    {
+      "bioguide_id": "M001243",
+      "district": null,
+      "name": "McCormick, David",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-07-27",
+      "state": "PA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    }
+  ],
   "enacted_as": null,
   "history": {
     "active": false,
@@ -105,6 +117,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-22T15:03:24Z",
+  "updated_at": "2026-07-28T11:03:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1886.xml"
 }
