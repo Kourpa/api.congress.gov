@@ -515,7 +515,26 @@
   "number": "36",
   "official_title": "A concurrent resolution recognizing the significance of equal pay and the disparity in wages paid to men and to Black women.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "hconres42-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "sconres16-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hconres114-119",
+      "identified_by": "CRS",
+      "reason": "identical",
+      "type": "bill"
+    }
+  ],
   "short_title": null,
   "sponsor": {
     "bioguide_id": "B001303",
@@ -527,8 +546,10 @@
   },
   "status": "REFERRED",
   "status_at": "2026-07-21",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Labor and employment"
+  ],
+  "subjects_top_term": "Labor and employment",
   "summary": null,
   "titles": [
     {
@@ -546,6 +567,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-07-23T01:03:31Z",
+  "updated_at": "2026-07-29T15:07:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sconres/BILLSTATUS-119sconres36.xml"
 }
