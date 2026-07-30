@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="332" updated="2025-08-06T13:51:21Z">
+<bill session="119" type="sr" number="332" updated="2026-07-30T19:44:47Z">
   <state datetime="2025-07-22">PASSED:SIMPLERES</state>
   <status>
     <unknown datetime="2025-07-22"/>
@@ -27,15 +27,17 @@
     </action>
     <vote how="by Unanimous Consent" type="vote" datetime="2025-07-22" where="s" result="pass" state="PASSED:SIMPLERES">
       <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
-      <reference ref="CR S4573: 2" label="consideration"/>
-      <reference ref="CR S4533: 1" label="text"/>
+      <reference ref="CR S4573" label="consideration"/>
+      <reference ref="CR S4533" label="text"/>
     </vote>
     <action datetime="2025-07-28">
       <text>Star Print ordered on the resolution.</text>
     </action>
   </actions>
   <committees/>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="sr" number="813" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Arts, culture, religion"/>
     <term name="Commemorative events and holidays"/>
