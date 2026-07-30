@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="4410" updated="2026-07-16T10:56:29Z">
-  <state datetime="2026-04-28">REFERRED</state>
+<bill session="119" type="s" number="4410" updated="2026-07-30T10:56:33Z">
+  <state datetime="2026-07-29">REPORTED</state>
   <status>
-    <introduced datetime="2026-04-28"/>
+    <unknown datetime="2026-07-29"/>
   </status>
   <introduced datetime="2026-04-28"/>
   <titles>
@@ -25,9 +25,12 @@
     <action datetime="2026-07-15">
       <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
     </action>
+    <action datetime="2026-07-29" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="SSEG03" name="Senate Energy and Natural Resources" subcommittee="Public Lands, Forests, and Mining" activity="Hearings By (Subcommittee)"/>
   </committees>
   <relatedbills>
@@ -35,6 +38,9 @@
   </relatedbills>
   <subjects>
     <term name="Energy"/>
+    <term name="Coal"/>
+    <term name="Mining"/>
+    <term name="Wages and earnings"/>
   </subjects>
   <amendments/>
 </bill>
