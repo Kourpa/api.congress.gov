@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="3518" updated="2026-06-11T12:33:39Z">
+<bill session="119" type="s" number="3518" updated="2026-07-31T15:57:42Z">
   <state datetime="2026-06-10">REPORTED</state>
   <status>
     <unknown datetime="2026-06-10"/>
@@ -33,7 +33,9 @@
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="SSEG07" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Hearings By (Subcommittee)"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="9806" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Energy"/>
     <term name="Alternative and renewable resources"/>
