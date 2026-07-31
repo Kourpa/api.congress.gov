@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-07-30",
+      "action_code": "",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Health, Education, Labor, and Pensions",
@@ -88,7 +100,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-07-30",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -107,8 +120,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-06-04",
+  "status": "REPORTED",
+  "status_at": "2026-07-30",
   "subjects": [
     "Education"
   ],
@@ -116,18 +129,18 @@
   "summary": null,
   "titles": [
     {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "A bill to strengthen literacy outcomes for all students, to amend the comprehensive literacy State development grant program, and to ensure Federal accountability and investment in research, teacher preparation, and evidence-based instruction aligned with the science of reading.",
-      "type": "official"
-    },
-    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "READ Act",
       "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "A bill to strengthen literacy outcomes for all students, to amend the comprehensive literacy State development grant program, and to ensure Federal accountability and investment in research, teacher preparation, and evidence-based instruction aligned with the science of reading.",
+      "type": "official"
     },
     {
       "as": "introduced",
@@ -144,6 +157,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2026-06-23T21:49:27Z",
+  "updated_at": "2026-07-31T11:03:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4689.xml"
 }

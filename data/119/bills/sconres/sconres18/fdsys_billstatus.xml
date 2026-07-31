@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>18</number>
-    <updateDate>2025-12-06T07:10:24Z</updateDate>
-    <updateDateIncludingText>2025-12-06T07:10:24Z</updateDateIncludingText>
+    <updateDate>2026-07-31T10:56:43Z</updateDate>
+    <updateDateIncludingText>2026-07-31T10:56:43Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>SCONRES</type>
@@ -18,6 +18,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2025-07-16T15:24:46Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-07-16T15:24:46Z</date>
@@ -57,6 +61,22 @@
         </sourceSystem>
         <text>Referred to the Committee on Environment and Public Works. (text: CR S4423)</text>
         <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2025-07-16</actionDate>
+        <text>Submitted in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
       </item>
       <item>
         <actionDate>2025-07-16</actionDate>
@@ -181,6 +201,16 @@
         <party>D</party>
         <state>CT</state>
         <sponsorshipDate>2025-07-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000145</bioguideId>
+        <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+        <firstName>Alex</firstName>
+        <lastName>Padilla</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <sponsorshipDate>2026-07-30</sponsorshipDate>
         <isOriginalCosponsor>False</isOriginalCosponsor>
       </item>
     </cosponsors>

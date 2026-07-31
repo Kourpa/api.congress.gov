@@ -94,6 +94,26 @@
       "references": [],
       "text": "By unanimous consent agreement, vote 7/30/2026.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-07-30",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-07-30",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "217",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [
@@ -129,6 +149,8 @@
     "active_at": "2026-07-23",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-07-30",
     "vetoed": false
   },
   "introduced_at": "2026-07-23",
@@ -145,8 +167,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "INTRODUCED",
-  "status_at": "2026-07-23",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2026-07-30",
   "subjects": [],
   "subjects_top_term": null,
   "summary": null,
@@ -166,6 +188,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-30T14:06:33Z",
+  "updated_at": "2026-07-31T10:56:36Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres817.xml"
 }
