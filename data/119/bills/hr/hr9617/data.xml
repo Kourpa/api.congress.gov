@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="9617" updated="2026-07-17T17:17:26Z">
-  <state datetime="2026-07-09">REFERRED</state>
+<bill session="119" type="h" number="9617" updated="2026-08-01T08:06:27Z">
+  <state datetime="2026-07-21">REPORTED</state>
   <status>
-    <introduced datetime="2026-07-09"/>
+    <unknown datetime="2026-07-21"/>
   </status>
   <introduced datetime="2026-07-09"/>
   <titles>
@@ -30,9 +30,18 @@
     <action datetime="2026-07-14">
       <text>Forwarded by Subcommittee to Full Committee by Voice Vote.</text>
     </action>
+    <action datetime="2026-07-20">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-21">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-07-21" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 47 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Markup By, Referred To"/>
     <committee code="HSIF18" name="House Energy and Commerce" subcommittee="Environment" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills/>
