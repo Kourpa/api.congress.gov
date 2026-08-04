@@ -49,6 +49,18 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 132.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-08-03",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -108,11 +120,13 @@
     "active_at": "2025-03-12",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-08-03",
     "vetoed": false
   },
   "introduced_at": "2025-01-29",
   "number": "289",
-  "official_title": "A bill to ban the sale of products with a high concentration of sodium nitrate to individuals, and for other purposes.",
+  "official_title": "A bill to ban the sale of products with a high concentration of sodium nitrite to individuals, and for other purposes.",
   "popular_title": null,
   "related_bills": [
     {
@@ -137,8 +151,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-03-12",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-08-03",
   "subjects": [
     "Child safety and welfare",
     "Commerce",
@@ -155,6 +169,20 @@
     "text": "Youth Poisoning Protection Act\n\nThis bill makes a consumer product with a concentration of sodium nitrite of 10% or greater a banned hazardous product.\n\nThe restriction does not apply to specified drugs, medical devices, cosmetics, or food products."
   },
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Youth Poisoning Protection Act",
+      "type": "display"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "A bill to ban the sale of products with a high concentration of sodium nitrite to individuals, and for other purposes.",
+      "type": "official"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -175,22 +203,8 @@
       "textVersionCode": null,
       "title": "Youth Poisoning Protection Act",
       "type": "short"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Youth Poisoning Protection Act",
-      "type": "display"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "A bill to ban the sale of products with a high concentration of sodium nitrate to individuals, and for other purposes.",
-      "type": "official"
     }
   ],
-  "updated_at": "2026-08-04T06:23:31Z",
+  "updated_at": "2026-08-04T10:58:34Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s289.xml"
 }

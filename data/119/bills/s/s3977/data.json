@@ -23,6 +23,18 @@
       "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 347.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-08-03",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -90,6 +102,8 @@
     "active_at": "2026-03-03",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-08-03",
     "vetoed": false
   },
   "introduced_at": "2026-03-03",
@@ -113,14 +127,21 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "INTRODUCED",
-  "status_at": "2026-03-03",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-08-03",
   "subjects": [
     "Finance and financial sector"
   ],
   "subjects_top_term": "Finance and financial sector",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Bankruptcy Threshold Adjustment Act of 2026",
+      "type": "display"
+    },
     {
       "as": "senate calendar) bill text",
       "is_for_portion": false,
@@ -136,13 +157,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Bankruptcy Threshold Adjustment Act of 2026",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -150,6 +164,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-08-04T06:23:31Z",
+  "updated_at": "2026-08-04T10:58:34Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3977.xml"
 }
