@@ -1,13 +1,14 @@
-<bill session="119" type="s" number="4472" updated="2026-07-27T16:36:07Z">
-  <state datetime="2026-06-17">REPORTED</state>
+<bill session="119" type="s" number="4472" updated="2026-08-05T10:58:28Z">
+  <state datetime="2026-08-04">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-06-17"/>
+    <unknown datetime="2026-08-04"/>
   </status>
   <introduced datetime="2026-04-30"/>
   <titles>
     <title type="display">Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026</title>
     <title type="short" as="introduced">Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026</title>
     <title type="short" as="reported to senate">Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026</title>
+    <title type="short" as="passed senate">Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026</title>
     <title type="official" as="introduced">A bill to amend the Accelerating Access to Critical Therapies for ALS Act to reauthorize the provisions of such Act through fiscal year 2031, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M001153"/>
@@ -44,6 +45,9 @@
     <calendar datetime="2026-07-16" calendar="Senate Legislative" under="General Orders" number="461">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 461.</text>
     </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="2026-08-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Reported By, Markup By, Referred To"/>

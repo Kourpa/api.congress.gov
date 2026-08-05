@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="1525" updated="2025-07-01T11:06:18Z">
+<bill session="119" type="s" number="1525" updated="2026-08-05T11:03:19Z">
   <state datetime="2025-04-30">REFERRED</state>
   <status>
     <introduced datetime="2025-04-30"/>
@@ -12,6 +12,8 @@
   <sponsor bioguide_id="L000571"/>
   <cosponsors>
     <cosponsor bioguide_id="G000555" joined="2025-04-30"/>
+    <cosponsor bioguide_id="L000575" joined="2026-08-04"/>
+    <cosponsor bioguide_id="W000779" joined="2026-08-04"/>
   </cosponsors>
   <actions>
     <action datetime="2025-04-30">
@@ -22,13 +24,16 @@
     </action>
   </actions>
   <committees>
-    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="3074" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Finance and financial sector"/>
+    <term name="Consumer affairs"/>
+    <term name="Currency"/>
+    <term name="Monetary policy"/>
   </subjects>
   <amendments/>
 </bill>
