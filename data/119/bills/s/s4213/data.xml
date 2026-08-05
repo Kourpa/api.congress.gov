@@ -1,12 +1,12 @@
-<bill session="119" type="s" number="4213" updated="2026-04-15T14:38:04Z">
+<bill session="119" type="s" number="4213" updated="2026-08-04T20:50:55Z">
   <state datetime="2026-03-25">REFERRED</state>
   <status>
     <introduced datetime="2026-03-25"/>
   </status>
   <introduced datetime="2026-03-25"/>
   <titles>
-    <title type="display">Data Center Water and Energy Transparency Act of 2026</title>
     <title type="short" as="introduced">Data Center Water and Energy Transparency Act of 2026</title>
+    <title type="display">Data Center Water and Energy Transparency Act of 2026</title>
     <title type="official" as="introduced">A bill to require data center operators to submit to States or the Administrator of the Environmental Protection Agency and the Secretaries of Energy and Agriculture reports on data center energy and water use, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="D000563"/>
@@ -23,7 +23,9 @@
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="9825" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Environmental protection"/>
   </subjects>
