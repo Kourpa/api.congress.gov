@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>6500</number>
-    <updateDate>2026-08-05T17:59:28Z</updateDate>
-    <updateDateIncludingText>2026-08-05T17:59:28Z</updateDateIncludingText>
+    <updateDate>2026-08-06T11:08:46Z</updateDate>
+    <updateDateIncludingText>2026-08-06T11:08:46Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -58,6 +58,52 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-08-05</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Cloture motion on the measure presented in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-08-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion by Senator Thune to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment SA 6740 made in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-08-05</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by motion.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-08-05</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-08-05</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to measure considered in Senate.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2026-08-04</actionDate>
         <sourceSystem>
@@ -492,6 +538,724 @@
     </titles>
     <amendments>
       <amendment>
+        <number>6742</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the bill.</purpose>
+        <updateDate>2026-08-06T11:08:46Z</updateDate>
+        <latestAction>
+          <actionDate>2026-08-05</actionDate>
+          <text>Amendment SA 6742 proposed by Senator Thune to Amendment SA 6741. To improve the bill.</text>
+          <links>
+            <link>
+              <name>SA 6741</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6741</url>
+            </link>
+            <link>
+              <name>SA 6742</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6742</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-08-05T04:00:00Z</proposedDate>
+        <submittedDate>2026-08-05T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>6500</number>
+          <title>AGOA Extension Act</title>
+          <updateDateIncludingText>2026-08-06</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6741</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>To improve the bill.</purpose>
+          <updateDate>2026-08-06T11:08:46Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6742 proposed by Senator Thune to Amendment SA 6741. To improve the bill.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6742 proposed by Senator Thune to Amendment SA 6741.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>6741</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the bill.</purpose>
+        <updateDate>2026-08-06T11:08:46Z</updateDate>
+        <latestAction>
+          <actionDate>2026-08-05</actionDate>
+          <text>Amendment SA 6741 proposed by Senator Thune to Amendment SA 6740 (the instructions of the motion to commit). To improve the bill.</text>
+          <links>
+            <link>
+              <name>SA 6740</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6740</url>
+            </link>
+            <link>
+              <name>SA 6741</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6741</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-08-05T04:00:00Z</proposedDate>
+        <submittedDate>2026-08-05T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>6500</number>
+          <title>AGOA Extension Act</title>
+          <updateDateIncludingText>2026-08-06</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6740</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>To improve the bill.</purpose>
+          <updateDate>2026-08-06T11:08:45Z</updateDate>
+        </amendedAmendment>
+        <amendmentsToAmendment>
+          <count>1</count>
+        </amendmentsToAmendment>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6741 proposed by Senator Thune to Amendment SA 6740 (the instructions of the motion to commit). To improve the bill.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6741 proposed by Senator Thune to Amendment SA 6740 (the instructions of the motion to commit).</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>6740</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the bill.</purpose>
+        <updateDate>2026-08-06T11:08:45Z</updateDate>
+        <latestAction>
+          <actionDate>2026-08-05</actionDate>
+          <text>Amendment SA 6740 proposed by Senator Thune. To improve the bill.</text>
+          <links>
+            <link>
+              <name>SA 6740</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6740</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-08-05T04:00:00Z</proposedDate>
+        <submittedDate>2026-08-05T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>6500</number>
+          <title>AGOA Extension Act</title>
+          <updateDateIncludingText>2026-08-06</updateDateIncludingText>
+        </amendedBill>
+        <amendmentsToAmendment>
+          <count>1</count>
+        </amendmentsToAmendment>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6740 proposed by Senator Thune. To improve the bill.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6740 proposed by Senator Thune.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>6739</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the bill.</purpose>
+        <updateDate>2026-08-06T11:08:45Z</updateDate>
+        <latestAction>
+          <actionDate>2026-08-05</actionDate>
+          <text>Amendment SA 6739 proposed by Senator Thune to Amendment SA 6738. To improve the bill.</text>
+          <links>
+            <link>
+              <name>SA 6738</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6738</url>
+            </link>
+            <link>
+              <name>SA 6739</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6739</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-08-05T04:00:00Z</proposedDate>
+        <submittedDate>2026-08-05T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>6500</number>
+          <title>AGOA Extension Act</title>
+          <updateDateIncludingText>2026-08-06</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6738</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>To improve the bill.</purpose>
+          <updateDate>2026-08-06T11:08:45Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6739 proposed by Senator Thune to Amendment SA 6738. To improve the bill.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6739 proposed by Senator Thune to Amendment SA 6738.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>6738</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the bill.</purpose>
+        <updateDate>2026-08-06T11:08:45Z</updateDate>
+        <latestAction>
+          <actionDate>2026-08-05</actionDate>
+          <text>Amendment SA 6738 proposed by Senator Thune to language proposed to be stricken by amendment no. 6732. To improve the bill.</text>
+          <links>
+            <link>
+              <name>SA 6738</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6738</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-08-05T04:00:00Z</proposedDate>
+        <submittedDate>2026-08-05T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>6500</number>
+          <title>AGOA Extension Act</title>
+          <updateDateIncludingText>2026-08-06</updateDateIncludingText>
+        </amendedBill>
+        <amendmentsToAmendment>
+          <count>1</count>
+        </amendmentsToAmendment>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6738 proposed by Senator Thune to language proposed to be stricken by amendment no. 6732. To improve the bill.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6738 proposed by Senator Thune to language proposed to be stricken by amendment no. 6732.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>6737</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the bill.</purpose>
+        <updateDate>2026-08-06T11:08:44Z</updateDate>
+        <latestAction>
+          <actionDate>2026-08-05</actionDate>
+          <text>Amendment SA 6737 proposed by Senator Thune to Amendment SA 6736. To improve the bill.</text>
+          <links>
+            <link>
+              <name>SA 6736</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6736</url>
+            </link>
+            <link>
+              <name>SA 6737</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6737</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-08-05T04:00:00Z</proposedDate>
+        <submittedDate>2026-08-05T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>6500</number>
+          <title>AGOA Extension Act</title>
+          <updateDateIncludingText>2026-08-06</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6736</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>To improve the bill.</purpose>
+          <updateDate>2026-08-06T11:08:44Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6737 proposed by Senator Thune to Amendment SA 6736. To improve the bill.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6737 proposed by Senator Thune to Amendment SA 6736.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>6736</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the bill.</purpose>
+        <updateDate>2026-08-06T11:08:44Z</updateDate>
+        <latestAction>
+          <actionDate>2026-08-05</actionDate>
+          <text>Amendment SA 6736 proposed by Senator Thune to Amendment SA 6732. To improve the bill.</text>
+          <links>
+            <link>
+              <name>SA 6732</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6732</url>
+            </link>
+            <link>
+              <name>SA 6736</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6736</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-08-05T04:00:00Z</proposedDate>
+        <submittedDate>2026-08-05T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>6500</number>
+          <title>AGOA Extension Act</title>
+          <updateDateIncludingText>2026-08-06</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6732</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-08-06T11:08:44Z</updateDate>
+        </amendedAmendment>
+        <amendmentsToAmendment>
+          <count>1</count>
+        </amendmentsToAmendment>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6736 proposed by Senator Thune to Amendment SA 6732. To improve the bill.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6736 proposed by Senator Thune to Amendment SA 6732.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
         <number>6735</number>
         <congress>119</congress>
         <type>SAMDT</type>
@@ -515,13 +1279,14 @@
           <originChamberCode>H</originChamberCode>
           <number>6500</number>
           <title>AGOA Extension Act</title>
-          <updateDateIncludingText>2026-08-05</updateDateIncludingText>
+          <updateDateIncludingText>2026-08-06</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6732</number>
           <congress>119</congress>
           <type>SAMDT</type>
-          <updateDate>2026-08-05T11:08:24Z</updateDate>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-08-06T11:08:44Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -575,7 +1340,7 @@
           <originChamberCode>H</originChamberCode>
           <number>6500</number>
           <title>AGOA Extension Act</title>
-          <updateDateIncludingText>2026-08-05</updateDateIncludingText>
+          <updateDateIncludingText>2026-08-06</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -609,7 +1374,7 @@
         <number>6733</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-08-05T11:08:24Z</updateDate>
+        <updateDate>2026-08-05T22:25:16Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001305</bioguideId>
@@ -621,8 +1386,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>6</countIncludingWithdrawnCosponsors>
-          <count>6</count>
+          <countIncludingWithdrawnCosponsors>10</countIncludingWithdrawnCosponsors>
+          <count>10</count>
           <item>
             <bioguideId>R000618</bioguideId>
             <fullName>Sen. Ricketts, Pete [R-NE]</fullName>
@@ -683,6 +1448,46 @@
             <sponsorshipDate>2026-08-04</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>C001075</bioguideId>
+            <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+            <firstName>Bill</firstName>
+            <lastName>Cassidy</lastName>
+            <party>R</party>
+            <state>LA</state>
+            <sponsorshipDate>2026-08-05</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>C001095</bioguideId>
+            <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+            <firstName>Tom</firstName>
+            <lastName>Cotton</lastName>
+            <party>R</party>
+            <state>AR</state>
+            <sponsorshipDate>2026-08-05</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>E000295</bioguideId>
+            <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+            <firstName>Joni</firstName>
+            <lastName>Ernst</lastName>
+            <party>R</party>
+            <state>IA</state>
+            <sponsorshipDate>2026-08-05</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>C001096</bioguideId>
+            <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+            <firstName>Kevin</firstName>
+            <lastName>Cramer</lastName>
+            <party>R</party>
+            <state>ND</state>
+            <sponsorshipDate>2026-08-05</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-08-04T04:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -693,7 +1498,7 @@
           <originChamberCode>H</originChamberCode>
           <number>6500</number>
           <title>AGOA Extension Act</title>
-          <updateDateIncludingText>2026-08-05</updateDateIncludingText>
+          <updateDateIncludingText>2026-08-06</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -727,7 +1532,18 @@
         <number>6732</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-08-05T11:08:24Z</updateDate>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2026-08-06T11:08:44Z</updateDate>
+        <latestAction>
+          <actionDate>2026-08-05</actionDate>
+          <text>Cloture motion on amendment SA 6732 presented in Senate.</text>
+          <links>
+            <link>
+              <name>SA 6732</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6732</url>
+            </link>
+          </links>
+        </latestAction>
         <sponsors>
           <item>
             <bioguideId>C001035</bioguideId>
@@ -739,6 +1555,18 @@
             <middleName>M.</middleName>
           </item>
         </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>T000250</bioguideId>
+            <fullName>Sen. Thune, John [R-SD]</fullName>
+            <firstName>John</firstName>
+            <lastName>Thune</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-08-05T04:00:00Z</proposedDate>
         <submittedDate>2026-08-04T04:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -748,18 +1576,46 @@
           <originChamberCode>H</originChamberCode>
           <number>6500</number>
           <title>AGOA Extension Act</title>
-          <updateDateIncludingText>2026-08-05</updateDateIncludingText>
+          <updateDateIncludingText>2026-08-06</updateDateIncludingText>
         </amendedBill>
         <amendmentsToAmendment>
-          <count>1</count>
+          <count>2</count>
         </amendmentsToAmendment>
         <actions>
-          <count>2</count>
+          <count>5</count>
           <actions>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Cloture motion on amendment SA 6732 presented in Senate.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6732 proposed by Senator Thune for Senator Collins. In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-08-04</actionDate>
               <type>IntroReferral</type>
               <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-05</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6732 proposed by Senator Thune for Senator Collins.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
               <sourceSystem>
                 <code>9</code>
                 <name>Library of Congress</name>
@@ -821,8 +1677,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-08-04</actionDate>
-      <text>Motion to proceed to measure considered in Senate. (CR S4415)</text>
+      <actionDate>2026-08-05</actionDate>
+      <text>Cloture motion on the measure presented in Senate.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
