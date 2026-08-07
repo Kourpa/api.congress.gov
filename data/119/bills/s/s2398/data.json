@@ -49,6 +49,27 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 154.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-08-06",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [
+        {
+          "reference": "CR S4494-4495",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S4494-4495",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -306,6 +327,8 @@
     "active_at": "2025-07-30",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-08-06",
     "vetoed": false
   },
   "introduced_at": "2025-07-23",
@@ -335,8 +358,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-30",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-08-06",
   "subjects": [
     "Health",
     "Health programs administration and funding",
@@ -346,6 +369,13 @@
   "subjects_top_term": "Health",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Kay Hagan Tick Reauthorization Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -368,13 +398,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Kay Hagan Tick Reauthorization Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -382,6 +405,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-08-07T05:23:32Z",
+  "updated_at": "2026-08-07T13:08:02Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2398.xml"
 }

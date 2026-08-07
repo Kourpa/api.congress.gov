@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="434" updated="2026-08-07T05:08:30Z">
-  <state datetime="2025-06-25">REPORTED</state>
+<bill session="119" type="s" number="434" updated="2026-08-07T13:53:07Z">
+  <state datetime="2026-08-06">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-06-25"/>
+    <unknown datetime="2026-08-06"/>
   </status>
   <introduced datetime="2025-02-05"/>
   <titles>
+    <title type="display">Space Commerce Advisory Committee Act</title>
     <title type="short" as="introduced">Space Commerce Advisory Committee Act</title>
     <title type="short" as="reported to senate">Space Commerce Advisory Committee Act</title>
     <title type="short" as="passed senate">Space Commerce Advisory Committee Act</title>
-    <title type="display">Space Commerce Advisory Committee Act</title>
     <title type="official" as="introduced">A bill to establish the Commercial Space Activity Advisory Committee, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="P000595"/>
@@ -32,6 +32,14 @@
     <calendar datetime="2025-10-21" calendar="Senate Legislative" under="General Orders" number="198">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 198.</text>
     </calendar>
+    <action datetime="2026-08-06">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S4493-4494" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-08-06" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S4493-4494" label="text"/>
+    </vote>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -45,7 +53,9 @@
     <term name="Space flight and exploration"/>
     <term name="Spacecraft and satellites"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s6748"/>
+  </amendments>
   <summary date="2025-06-04T21:09:12Z" status="Introduced in Senate">Space Commerce Advisory Committee Act
 
 This bill requires the Office of Space Commerce to establish a Commercial Space Activity Advisory Committee to provide information and recommendations on nongovernmental space activities and promoting a robust and innovative commercial space sector.&#160;

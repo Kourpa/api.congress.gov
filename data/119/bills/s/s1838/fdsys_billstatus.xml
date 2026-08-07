@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1838</number>
-    <updateDate>2026-08-07T05:08:30Z</updateDate>
-    <updateDateIncludingText>2026-08-07T07:48:31Z</updateDateIncludingText>
+    <updateDate>2026-08-07T13:10:25Z</updateDate>
+    <updateDateIncludingText>2026-08-07T13:18:34Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -19,6 +19,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Discharged From</name>
+            <date>2026-08-06T18:35:15Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-05-21T17:54:37Z</date>
           </item>
@@ -30,6 +34,62 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-08-06</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S4495-4496)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-08-06</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-08-06</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S4495-4498)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-08-06</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2026-08-06</actionDate>
+        <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-05-21</actionDate>
         <committees>
@@ -177,7 +237,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>DeOndra Dixon INCLUDE Project Act of 2026</title>
-        <updateDate>2026-08-07T05:08:30Z</updateDate>
+        <updateDate>2026-08-07T10:58:29Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
@@ -206,6 +266,138 @@
         <billTextVersionCode>IS</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>6751</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2026-08-07T13:10:25Z</updateDate>
+        <latestAction>
+          <actionDate>2026-08-06</actionDate>
+          <text>Amendment SA 6751 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 6751</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6751</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>H000273</bioguideId>
+            <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+            <firstName>John</firstName>
+            <lastName>Hickenlooper</lastName>
+            <party>D</party>
+            <state>CO</state>
+            <middleName>W.</middleName>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>H000273</bioguideId>
+            <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+            <firstName>John</firstName>
+            <lastName>Hickenlooper</lastName>
+            <party>D</party>
+            <state>CO</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>M000934</bioguideId>
+            <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+            <firstName>Jerry</firstName>
+            <lastName>Moran</lastName>
+            <party>R</party>
+            <state>KS</state>
+            <sponsorshipDate>2026-08-06</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2026-08-06T04:00:00Z</proposedDate>
+        <submittedDate>2026-08-06T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>1838</number>
+          <title>DeOndra Dixon INCLUDE Project Act of 2026</title>
+          <updateDateIncludingText>2026-08-07</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6751 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6751 proposed by Senator Hickenlooper. (consideration: CR S4495-4496)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6751 proposed by Senator Hickenlooper.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 6751 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Engrossed in Senate</type>
@@ -227,8 +419,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-21</actionDate>
-      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2026-08-06</actionDate>
+      <text>Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S4495-4496)</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

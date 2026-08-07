@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>434</number>
-    <updateDate>2026-08-07T05:08:30Z</updateDate>
-    <updateDateIncludingText>2026-08-07T07:48:32Z</updateDateIncludingText>
+    <updateDate>2026-08-07T13:53:07Z</updateDate>
+    <updateDateIncludingText>2026-08-07T13:53:07Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -39,6 +39,32 @@
       </committeeReport>
     </committeeReports>
     <actions>
+      <item>
+        <actionDate>2026-08-06</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S4493-4494)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-08-06</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-08-06</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S4493-4494)</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2025-10-21</actionDate>
         <sourceSystem>
@@ -201,6 +227,12 @@
     <title>Space Commerce Advisory Committee Act</title>
     <titles>
       <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Space Commerce Advisory Committee Act</title>
+        <updateDate>2026-08-07T10:58:29Z</updateDate>
+      </item>
+      <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
         <titleTypeCode>105</titleTypeCode>
         <title>Space Commerce Advisory Committee Act</title>
@@ -209,12 +241,6 @@
         <chamberName>Senate</chamberName>
         <billTextVersionName>Engrossed in Senate</billTextVersionName>
         <billTextVersionCode>ES</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Space Commerce Advisory Committee Act</title>
-        <updateDate>2026-08-05T11:03:18Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Reported to Senate</titleType>
@@ -243,6 +269,132 @@
         <billTextVersionCode>IS</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>6748</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2026-08-07T13:06:39Z</updateDate>
+        <latestAction>
+          <actionDate>2026-08-06</actionDate>
+          <text>Amendment SA 6748 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 6748</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6748</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>P000595</bioguideId>
+            <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+            <firstName>Gary</firstName>
+            <lastName>Peters</lastName>
+            <party>D</party>
+            <state>MI</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>M001244</bioguideId>
+            <fullName>Sen. Moody, Ashley [R-FL]</fullName>
+            <firstName>Ashley</firstName>
+            <lastName>Moody</lastName>
+            <party>R</party>
+            <state>FL</state>
+            <type>Submitted on behalf of</type>
+          </item>
+          <item>
+            <bioguideId>M001244</bioguideId>
+            <fullName>Sen. Moody, Ashley [R-FL]</fullName>
+            <firstName>Ashley</firstName>
+            <lastName>Moody</lastName>
+            <party>R</party>
+            <state>FL</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <proposedDate>2026-08-06T04:00:00Z</proposedDate>
+        <submittedDate>2026-08-06T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>434</number>
+          <title>Space Commerce Advisory Committee Act</title>
+          <updateDateIncludingText>2026-08-07</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6748 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6748 proposed by Senator Moody for Senator Peters. (consideration: CR S4494)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6748 proposed by Senator Moody for Senator Peters.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-08-06</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 6748 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Engrossed in Senate</type>
@@ -273,8 +425,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-10-21</actionDate>
-      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 198.</text>
+      <actionDate>2026-08-06</actionDate>
+      <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S4493-4494)</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
