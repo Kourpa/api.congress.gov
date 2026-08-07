@@ -49,9 +49,45 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-08-05",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S4480-4481",
+          "type": "consideration"
+        }
+      ],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-08-05",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S4481",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with amendments by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt6745-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6745"
+    }
+  ],
   "bill_id": "s850-119",
   "bill_type": "s",
   "by_request": false,
@@ -116,6 +152,8 @@
     "active_at": "2025-07-30",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-08-05",
     "vetoed": false
   },
   "introduced_at": "2025-03-05",
@@ -132,8 +170,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-07-30",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-08-05",
   "subjects": [
     "Border security and unlawful immigration",
     "Canada",
@@ -165,6 +203,13 @@
       "type": "short"
     },
     {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Northern Border Security Enhancement and Review Act",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -179,6 +224,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-02T20:33:33Z",
+  "updated_at": "2026-08-06T15:23:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s850.xml"
 }
