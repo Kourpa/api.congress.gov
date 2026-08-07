@@ -17,6 +17,17 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-08-06",
+      "action_code": "",
+      "committees": [
+        "SSGA"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,6 +38,7 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "Senate Homeland Security and Governmental Affairs",
@@ -98,7 +110,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-08-06",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -124,8 +137,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-01-21",
+  "status": "REPORTED",
+  "status_at": "2026-08-06",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Congressional oversight",
@@ -138,7 +151,7 @@
     "as": "Introduced in Senate",
     "asOf": "2025-01-21",
     "date": "2025-05-27T15:30:51Z",
-    "text": ""
+    "text": "Midnight Rules Relief Act of 2025\n\nThis bill allows Congress to disapprove multiple regulations under one joint resolution of disapproval if the regulations were submitted for review during a portion of the final year of a President's term.\n\nUnder current law, the Congressional Review Act generally\u00a0provides for a period of additional review during the succeeding Congress for regulations that were submitted during the last 60 legislative days of the prior Congress. However, each joint resolution may disapprove of only one regulation."
   },
   "titles": [
     {
@@ -163,6 +176,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2025-12-06T06:30:03Z",
+  "updated_at": "2026-08-07T11:03:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s164.xml"
 }

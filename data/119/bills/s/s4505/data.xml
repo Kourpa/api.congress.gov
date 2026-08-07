@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="4505" updated="2026-08-05T10:56:27Z">
-  <state datetime="2026-05-12">REFERRED</state>
+<bill session="119" type="s" number="4505" updated="2026-08-07T10:56:57Z">
+  <state datetime="2026-08-06">REPORTED</state>
   <status>
-    <introduced datetime="2026-05-12"/>
+    <unknown datetime="2026-08-06"/>
   </status>
   <introduced datetime="2026-05-12"/>
   <titles>
@@ -27,9 +27,18 @@
     <action datetime="2026-05-12" state="REFERRED">
       <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
     </action>
+    <action datetime="2026-08-06" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </action>
+    <action datetime="2026-08-06">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2026-08-06" calendar="Senate Legislative" under="General Orders" number="546">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 546.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="3095" relation="unknown"/>
