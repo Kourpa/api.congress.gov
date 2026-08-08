@@ -1,10 +1,50 @@
 {
   "actions": [
     {
+      "acted_at": "2026-08-07",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": 223,
+      "text": "Amendment SA 6715 not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 223.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-08-07",
+      "action_code": "",
+      "references": [],
+      "text": "Amendment SA 6715 proposed by Senator Paul to Amendment SA 6711. To strike the provision relating to duties on countries that purchase Russian-origin crude oil or natural gas or facilitate sanctions evasion.",
+      "type": "action"
+    },
+    {
       "acted_at": "2026-07-29",
       "action_code": "Intro-S",
       "references": [],
       "text": "",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-08-07",
+      "action_code": "93000",
+      "references": [],
+      "text": "Senate amendment proposed (on the floor): Amendment SA 6715 proposed by Senator Paul to Amendment SA 6711.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-08-07",
+      "action_code": "95000",
+      "references": [],
+      "text": "Senate amendment not agreed to: Amendment SA 6715 not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 223.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-08-07",
+      "action_code": "97000",
+      "references": [],
+      "text": "Roll call votes on amendments in Senate: Amendment SA 6715 not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 223.",
       "type": "action"
     },
     {
@@ -23,7 +63,7 @@
     "congress": 119,
     "description": "",
     "number": 6711,
-    "purpose": ""
+    "purpose": "To impose sanctions and other measures with respect to the Russian Federation."
   },
   "amends_bill": {
     "bill_id": "hr5334-119",
@@ -36,7 +76,8 @@
   "congress": "119",
   "introduced_at": "2026-07-29",
   "number": 6715,
-  "purpose": null,
+  "proposed_at": "2026-08-07T04:00:00Z",
+  "purpose": "To strike the provision relating to duties on countries that purchase Russian-origin crude oil or natural gas or facilitate sanctions evasion.",
   "sponsor": {
     "bioguide_id": "P000603",
     "district": null,
@@ -45,7 +86,7 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "offered",
-  "status_at": "2026-07-29",
-  "updated_at": "2026-08-04T19:26:21Z"
+  "status": "fail",
+  "status_at": "2026-08-07",
+  "updated_at": "2026-08-08T16:37:32Z"
 }

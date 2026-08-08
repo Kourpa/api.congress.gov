@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="3897" updated="2026-08-08T07:38:21Z">
-  <state datetime="2026-05-14">REPORTED</state>
+<bill session="119" type="s" number="3897" updated="2026-08-08T16:48:22Z">
+  <state datetime="2026-08-07">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-05-14"/>
+    <unknown datetime="2026-08-07"/>
   </status>
   <introduced datetime="2026-02-24"/>
   <titles>
+    <title type="display">Officer John Barnes and Chief Michael Ansbro Public Safety Officers' Benefit Program Expansion Act of 2026</title>
     <title type="short" as="introduced">Officer John Barnes and Chief Michael Ansbro Public Safety Officers' Benefit Program Expansion Act of 2026</title>
     <title type="short" as="reported to senate">Officer John Barnes and Chief Michael Ansbro Public Safety Officers' Benefit Program Expansion Act of 2026</title>
     <title type="short" as="passed senate">Officer John Barnes and Chief Michael Ansbro Public Safety Officers' Benefit Program Expansion Act of 2026</title>
-    <title type="display">Officer John Barnes and Chief Michael Ansbro Public Safety Officers' Benefit Program Expansion Act of 2026</title>
     <title type="official" as="introduced">A bill to revise administrative procedures relating to public safety officers' death benefits, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000555"/>
@@ -44,6 +44,15 @@
     <calendar datetime="2026-05-19" calendar="Senate Legislative" under="General Orders" number="416">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 416.</text>
     </calendar>
+    <action datetime="2026-08-07">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="2026-08-07">
+      <text>The committee substitute withdrawn by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-08-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -61,5 +70,7 @@
     <term name="Government studies and investigations"/>
     <term name="Law enforcement officers"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s6764"/>
+  </amendments>
 </bill>

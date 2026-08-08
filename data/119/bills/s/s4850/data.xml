@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="4850" updated="2026-08-08T07:38:21Z">
-  <state datetime="2026-06-22">REFERRED</state>
+<bill session="119" type="s" number="4850" updated="2026-08-08T16:48:22Z">
+  <state datetime="2026-08-07">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2026-06-22"/>
+    <unknown datetime="2026-08-07"/>
   </status>
   <introduced datetime="2026-06-22"/>
   <titles>
+    <title type="display">Diversity Jurisdiction Inflation Adjustment Act</title>
     <title type="short" as="introduced">Diversity Jurisdiction Inflation Adjustment Act</title>
     <title type="short" as="passed senate">Diversity Jurisdiction Inflation Adjustment Act</title>
-    <title type="display">Diversity Jurisdiction Inflation Adjustment Act</title>
     <title type="official" as="introduced">A bill to amend title 28, United States Code, to adjust thresholds relating to jurisdiction for inflation.</title>
   </titles>
   <sponsor bioguide_id="K000393"/>
@@ -24,9 +24,15 @@
     <action datetime="2026-06-22" state="REFERRED">
       <text>Read twice and referred to the Committee on the Judiciary.</text>
     </action>
+    <action datetime="2026-08-07">
+      <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-08-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

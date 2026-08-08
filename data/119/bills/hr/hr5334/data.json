@@ -205,6 +205,26 @@
       ],
       "text": "Measure laid before Senate by motion.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-08-07",
+      "action_code": "",
+      "references": [],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-08-07",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "224",
+      "status": "PASS_BACK:SENATE",
+      "text": "Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 86 - 11. Record Vote Number: 224.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [
@@ -589,11 +609,13 @@
     "house_passage_result_at": "2026-04-27T16:35:00-04:00",
     "senate_cloture_result": "pass",
     "senate_cloture_result_at": "2026-07-28",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-08-07",
     "vetoed": false
   },
   "introduced_at": "2025-09-11",
   "number": "5334",
-  "official_title": "To amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.",
+  "official_title": "An act to impose sanctions and other measures with respect to the Russian Federation, as championed by the late Senator Lindsey O. Graham, and for other purposes.",
   "popular_title": null,
   "related_bills": [
     {
@@ -612,8 +634,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-04-27T16:35:00-04:00",
+  "status": "PASS_BACK:SENATE",
+  "status_at": "2026-08-07",
   "subjects": [
     "Income tax deductions",
     "Preschool education",
@@ -628,6 +650,27 @@
     "text": "Supporting Early-childhood Educators' Deductions Act of 2025 or the SEED Act of 2025\n\nThis bill expands\u00a0eligibility for the above-the-line federal tax deduction for certain eligible educator expenses to include early childhood educators. (An above-the-line tax deduction is subtracted from gross income to calculate adjusted gross income.)\n\nUnder current law, kindergarten through grade 12 teachers, instructors, counselors, principals, or aides in schools that provide\u00a0elementary or secondary education are allowed an above-the-line tax deduction of up to $300 (in 2025 and adjusted annually) for certain unreimbursed professional development and classroom expenses. (Other conditions apply.)\n\nThe bill expands eligibility for the tax deduction for such educator expenses to include early childhood educators in schools that provide early childhood (pre-kindergarten) education.\u00a0"
   },
   "titles": [
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.",
+      "type": "official"
+    },
+    {
+      "as": "amended by senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "An act to impose sanctions and other measures with respect to the Russian Federation, as championed by the late Senator Lindsey O. Graham, and for other purposes.",
+      "type": "official"
+    },
     {
       "as": null,
       "is_for_portion": false,
@@ -697,22 +740,8 @@
       "textVersionCode": null,
       "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
       "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "To amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.",
-      "type": "official"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "To amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.",
-      "type": "official"
     }
   ],
-  "updated_at": "2026-08-08T03:17:48Z",
+  "updated_at": "2026-08-08T16:48:41Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5334.xml"
 }

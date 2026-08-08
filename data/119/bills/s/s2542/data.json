@@ -49,6 +49,18 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 545.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-08-07",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -96,6 +108,8 @@
     "active_at": "2026-08-06",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-08-07",
     "vetoed": false
   },
   "introduced_at": "2025-07-30",
@@ -112,14 +126,21 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-08-06",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-08-07",
   "subjects": [
     "Government operations and politics"
   ],
   "subjects_top_term": "Government operations and politics",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Federal Building Threat Notification Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -142,13 +163,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Federal Building Threat Notification Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -156,6 +170,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-08-08T03:23:23Z",
+  "updated_at": "2026-08-08T16:48:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2542.xml"
 }

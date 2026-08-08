@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="5271" updated="2026-08-07T10:56:52Z">
-  <state datetime="2026-08-05">INTRODUCED</state>
+<bill session="119" type="s" number="5271" updated="2026-08-08T16:37:26Z">
+  <state datetime="2026-08-08">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <introduced datetime="2026-08-05"/>
+    <unknown datetime="2026-08-08"/>
   </status>
   <introduced datetime="2026-08-05"/>
   <titles>
@@ -9,7 +9,10 @@
     <title type="official" as="introduced">A bill to amend the Help America Vote Act of 2002 to require voters to provide photo identification.</title>
   </titles>
   <sponsor bioguide_id="H001104"/>
-  <cosponsors/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001244" joined="2026-08-07"/>
+    <cosponsor bioguide_id="S001198" joined="2026-08-07"/>
+  </cosponsors>
   <actions>
     <action datetime="2026-08-05">
       <text>Introduced in Senate</text>
@@ -20,6 +23,15 @@
     <calendar datetime="2026-08-06" calendar="Senate Legislative" under="General Orders" number="547">
       <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 547.</text>
     </calendar>
+    <action datetime="2026-08-08">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+    </action>
+    <action datetime="2026-08-08">
+      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="231" datetime="2026-08-08" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 231.</text>
+    </vote-aux>
   </actions>
   <committees/>
   <relatedbills/>

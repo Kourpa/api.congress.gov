@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2677" updated="2026-04-24T16:10:56Z">
-  <state datetime="2025-08-01">REFERRED</state>
+<bill session="119" type="s" number="2677" updated="2026-08-08T16:37:35Z">
+  <state datetime="2026-08-07">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-08-01"/>
+    <unknown datetime="2026-08-07"/>
   </status>
   <introduced datetime="2025-08-01"/>
   <titles>
@@ -19,9 +19,18 @@
     <action datetime="2025-08-01" state="REFERRED">
       <text>Read twice and referred to the Committee on Finance.</text>
     </action>
+    <action datetime="2026-08-07">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2026-08-07">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-08-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
+    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="4930" relation="identical"/>
@@ -29,7 +38,9 @@
   <subjects>
     <term name="Foreign trade and international finance"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s6767"/>
+  </amendments>
   <summary date="2026-04-24T16:10:50Z" status="Introduced in Senate">This bill expands the authority of U.S. Customs and Border Protection (CBP) to provide information to&#160;certain persons (e.g., trademark or copyright owners) regarding suspected violations of intellectual property rights in trade.&#160;
 
 Under current law, if&#160;CBP suspects that merchandise is being imported in violation of certain trademark and copyright laws,&#160;it may request assistance from specified persons when determining whether the merchandise is imported in violation of these laws. To permit the party to conduct examination and testing, CBP must provide them with specified information that appears on the merchandise and&#160;its packaging and labels.&#160;

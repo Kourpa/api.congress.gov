@@ -1,17 +1,19 @@
-<bill session="119" type="h" number="6500" updated="2026-08-07T11:08:39Z">
-  <state datetime="2026-01-12T19:05:15-05:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="6500" updated="2026-08-08T16:48:41Z">
+  <state datetime="2026-08-08">PASS_BACK:SENATE</state>
   <status>
-    <unknown datetime="2026-01-12T19:05:15-05:00"/>
+    <unknown datetime="2026-08-08"/>
   </status>
   <introduced datetime="2025-12-09"/>
   <titles>
+    <title type="official" as="introduced">To extend duty-free treatment provided with respect to imports from certain countries in Africa under the African Growth and Opportunity Act, to extend customs user fees, and for other purposes.</title>
+    <title type="official">To extend duty-free treatment provided with respect to imports from certain countries in Africa under the African Growth and Opportunity Act, to extend customs user fees, and for other purposes.</title>
+    <title type="official" as="amended by senate">An act making continuing appropriations and extensions for fiscal year 2027, and for other purposes.</title>
+    <title type="display">Continuing Appropriations and Extensions Act, 2027</title>
     <title type="short" as="introduced">AGOA Extension Act</title>
     <title type="short" as="reported to house">AGOA Extension Act</title>
     <title type="short" as="passed house">AGOA Extension Act</title>
     <title type="short" as="senate calendar) bill text">AGOA Extension Act</title>
-    <title type="official" as="introduced">To extend duty-free treatment provided with respect to imports from certain countries in Africa under the African Growth and Opportunity Act, to extend customs user fees, and for other purposes.</title>
-    <title type="official">To extend duty-free treatment provided with respect to imports from certain countries in Africa under the African Growth and Opportunity Act, to extend customs user fees, and for other purposes.</title>
-    <title type="display">AGOA Extension Act</title>
+    <title type="short">Continuing Appropriations and Extensions Act, 2027</title>
   </titles>
   <sponsor bioguide_id="S001195"/>
   <cosponsors>
@@ -108,6 +110,21 @@
       <text>Cloture motion on the measure presented in Senate.</text>
       <reference ref="CR S4449"/>
     </action>
+    <action datetime="2026-08-07">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="2026-08-07">
+      <text>Considered by Senate.</text>
+    </action>
+    <action datetime="2026-08-07">
+      <text>SA 6738 fell when cloture invoked SA 6732.</text>
+    </action>
+    <action datetime="2026-08-07">
+      <text>Motion by Senator Thune to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment SA 6740 fell when cloture on amendment SA 6732 was invoked in Senate.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="228" datetime="2026-08-08" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 90 - 6. Record Vote Number: 228.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Reported By, Markup By, Referred To"/>

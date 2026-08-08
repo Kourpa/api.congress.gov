@@ -1,10 +1,13 @@
-<bill session="119" type="h" number="5334" updated="2026-08-08T03:17:48Z">
-  <state datetime="2026-04-27T16:35:00-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="5334" updated="2026-08-08T16:48:41Z">
+  <state datetime="2026-08-07">PASS_BACK:SENATE</state>
   <status>
-    <unknown datetime="2026-04-27T16:35:00-04:00"/>
+    <unknown datetime="2026-08-07"/>
   </status>
   <introduced datetime="2025-09-11"/>
   <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.</title>
+    <title type="official">To amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.</title>
+    <title type="official" as="amended by senate">An act to impose sanctions and other measures with respect to the Russian Federation, as championed by the late Senator Lindsey O. Graham, and for other purposes.</title>
     <title type="display">Lindsey O. Graham Sanctioning Russia and Iran Act of 2026</title>
     <title type="short" as="introduced">SEED Act of 2025</title>
     <title type="short" as="introduced">Supporting Early-childhood Educators&#8217; Deductions Act of 2025</title>
@@ -15,8 +18,6 @@
     <title type="short" as="senate calendar) bill text">SEED Act</title>
     <title type="short" as="senate calendar) bill text">Supporting Early-childhood Educators&#8217; Deductions Act</title>
     <title type="short">Lindsey O. Graham Sanctioning Russia and Iran Act of 2026</title>
-    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.</title>
-    <title type="official">To amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="P000613"/>
   <cosponsors>
@@ -112,6 +113,12 @@
       <text>Measure laid before Senate by motion.</text>
       <reference ref="CR S4323" label="consideration"/>
     </action>
+    <action datetime="2026-08-07">
+      <text>Considered by Senate.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="224" datetime="2026-08-07" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 86 - 11. Record Vote Number: 224.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Reported By, Markup By, Referred To"/>
