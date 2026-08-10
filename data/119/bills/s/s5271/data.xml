@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="5271" updated="2026-08-08T16:37:26Z">
+<bill session="119" type="s" number="5271" updated="2026-08-10T18:33:07Z">
   <state datetime="2026-08-08">PROV_KILL:CLOTUREFAILED</state>
   <status>
     <unknown datetime="2026-08-08"/>
@@ -25,9 +25,11 @@
     </calendar>
     <action datetime="2026-08-08">
       <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S4556"/>
     </action>
     <action datetime="2026-08-08">
       <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S4556"/>
     </action>
     <vote-aux how="roll" type="cloture" roll="231" datetime="2026-08-08" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
       <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 231.</text>
@@ -35,6 +37,8 @@
   </actions>
   <committees/>
   <relatedbills/>
-  <subjects/>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
   <amendments/>
 </bill>

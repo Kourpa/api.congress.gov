@@ -1,16 +1,21 @@
 {
   "actions": [
     {
-      "acted_at": "2026-08-07",
+      "acted_at": "2026-08-08",
       "action_code": "",
       "references": [],
-      "text": "SA 6739 fell when SA 6738 fell.",
+      "text": "SA 6739 fell when SA 6738 withdrawn.",
       "type": "action"
     },
     {
       "acted_at": "2026-08-07",
       "action_code": "",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S4542",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by Senate.",
       "type": "action"
     },
@@ -81,5 +86,5 @@
   },
   "status": "offered",
   "status_at": "2026-08-05",
-  "updated_at": "2026-08-08T16:48:41Z"
+  "updated_at": "2026-08-10T18:27:27Z"
 }
