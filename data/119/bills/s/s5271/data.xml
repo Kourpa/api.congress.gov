@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="5271" updated="2026-08-11T21:02:38Z">
+<bill session="119" type="s" number="5271" updated="2026-08-12T11:17:20Z">
   <state datetime="2026-08-08">PROV_KILL:CLOTUREFAILED</state>
   <status>
     <unknown datetime="2026-08-08"/>
@@ -36,7 +36,12 @@
     </vote-aux>
   </actions>
   <committees/>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="4155" relation="unknown"/>
+    <bill session="119" type="h" number="9368" relation="unknown"/>
+    <bill session="119" type="s" number="1383" relation="unknown"/>
+    <bill session="119" type="h" number="7300" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Government operations and politics"/>
     <term name="Elections, voting, political campaign regulation"/>
