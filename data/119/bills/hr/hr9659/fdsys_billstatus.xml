@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>9659</number>
-    <updateDate>2026-07-22T12:50:00Z</updateDate>
-    <updateDateIncludingText>2026-07-22T12:50:00Z</updateDateIncludingText>
+    <updateDate>2026-08-12T08:12:00Z</updateDate>
+    <updateDateIncludingText>2026-08-12T08:12:00Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Homeland Security Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-07-14T17:44:00Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -51,6 +63,21 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-07-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security and Enforcement Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-07-13</actionDate>
         <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Workforce, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -204,8 +231,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-07-13</actionDate>
-      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Workforce, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-07-14</actionDate>
+      <text>Referred to the Subcommittee on Border Security and Enforcement.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
