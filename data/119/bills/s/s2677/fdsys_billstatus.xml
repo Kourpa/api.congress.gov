@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2677</number>
-    <updateDate>2026-08-11T11:08:28Z</updateDate>
-    <updateDateIncludingText>2026-08-11T11:08:28Z</updateDateIncludingText>
+    <updateDate>2026-08-12T12:20:29Z</updateDate>
+    <updateDateIncludingText>2026-08-12T12:20:29Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -50,14 +50,6 @@
     <actions>
       <item>
         <actionDate>2026-08-10</actionDate>
-        <sourceSystem>
-          <name>Senate</name>
-        </sourceSystem>
-        <text>Message on Senate action sent to the House.</text>
-        <type>Floor</type>
-      </item>
-      <item>
-        <actionDate>2026-08-10</actionDate>
         <actionTime>11:11:07</actionTime>
         <text>Held at the desk.</text>
         <type>Floor</type>
@@ -77,6 +69,14 @@
           <code>2</code>
           <name>House floor actions</name>
         </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-08-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
       </item>
       <item>
         <actionDate>2026-08-07</actionDate>
@@ -186,7 +186,20 @@
       <name>Foreign Trade and International Finance</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Customs enforcement</name>
+          <updateDate>2026-08-11T17:59:56Z</updateDate>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+          <updateDate>2026-08-11T17:59:56Z</updateDate>
+        </item>
+        <item>
+          <name>Intellectual property</name>
+          <updateDate>2026-08-11T17:59:56Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Foreign Trade and International Finance</name>
         <updateDate>2025-09-15T17:17:21Z</updateDate>
@@ -275,7 +288,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2677</number>
           <title>A bill to expand the sharing of information with respect to suspected violations of intellectual property rights in trade.</title>
-          <updateDateIncludingText>2026-08-11</updateDateIncludingText>
+          <updateDateIncludingText>2026-08-12</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>6</count>
@@ -366,7 +379,8 @@
     </textVersions>
     <latestAction>
       <actionDate>2026-08-10</actionDate>
-      <text>Message on Senate action sent to the House.</text>
+      <text>Held at the desk.</text>
+      <actionTime>11:11:07</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
