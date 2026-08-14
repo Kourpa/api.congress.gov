@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="207" updated="2026-08-08T03:14:48Z">
+<bill session="119" type="sj" number="207" updated="2026-08-13T20:35:16Z">
   <state datetime="2026-08-05">REFERRED</state>
   <status>
     <introduced datetime="2026-08-05"/>
@@ -29,7 +29,11 @@
   <committees>
     <committee code="SSEV" name="Senate Environment and Public Works" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="hj" number="205" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+  </subjects>
   <amendments/>
 </bill>
