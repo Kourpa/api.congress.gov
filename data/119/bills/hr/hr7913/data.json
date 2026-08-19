@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Agriculture.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-04-03",
+      "action_code": "",
+      "committees": [
+        "HSAG"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Agriculture",
       "committee_id": "HSAG"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Agriculture",
+      "committee_id": "HSAG",
+      "subcommittee": "Subcommittee on Conservation, Research, and Biotechnology",
+      "subcommittee_id": "14"
     }
   ],
   "congress": "119",
@@ -76,6 +95,13 @@
   "summary": null,
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Higher Education Challenge Grant Modernization Act",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -86,17 +112,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Higher Education Challenge Grant Modernization Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To amend the Food and Agriculture Act of 1977 to reauthorize grants and fellowships for food and agricultural sciences education, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-04-02T14:38:20Z",
+  "updated_at": "2026-08-19T08:07:55Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7913.xml"
 }
