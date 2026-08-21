@@ -48,6 +48,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 12.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-08-20",
+      "action_code": "H12200",
+      "committees": [
+        "HSED"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-759, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-08-20",
+      "action_code": "H12300",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee on the Judiciary discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-08-20",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "660",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 660.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -58,18 +88,20 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Judiciary",
+      "committee_id": "HSJU"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Education and Workforce",
       "committee_id": "HSED"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Judiciary",
-      "committee_id": "HSJU"
     }
   ],
   "congress": "119",
@@ -271,6 +303,20 @@
   "summary": null,
   "titles": [
     {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "No Antisemitism in Education Act of 2026",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "No Antisemitism in Education Act of 2026",
+      "type": "short"
+    },
+    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -283,15 +329,8 @@
       "textVersionCode": null,
       "title": "To require each local educational agency and institution of higher education that receives Federal financial assistance to treat discrimination motivated by antisemitism as vigorously as such agency or institution treats other forms of discrimination prohibited by title VI of the Civil Rights Act of 1964, and for other purposes.",
       "type": "official"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "No Antisemitism in Education Act of 2026",
-      "type": "short"
     }
   ],
-  "updated_at": "2026-07-23T08:08:42Z",
+  "updated_at": "2026-08-21T05:38:42Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8476.xml"
 }
