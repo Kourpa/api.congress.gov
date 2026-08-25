@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="9982" updated="2026-08-07T15:54:41Z">
+<bill session="119" type="h" number="9982" updated="2026-08-25T13:58:29Z">
   <state datetime="2026-07-30">REFERRED</state>
   <status>
     <introduced datetime="2026-07-30"/>
@@ -33,9 +33,11 @@
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="4063" relation="identical"/>
+  </relatedbills>
   <subjects>
-    <term name="Immigration"/>
+    <term name="International affairs"/>
   </subjects>
   <amendments/>
 </bill>
