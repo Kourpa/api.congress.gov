@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>625</number>
-    <updateDate>2026-07-16T08:07:30Z</updateDate>
-    <updateDateIncludingText>2026-07-16T08:07:30Z</updateDateIncludingText>
+    <updateDate>2026-08-28T04:38:43Z</updateDate>
+    <updateDateIncludingText>2026-08-28T04:38:43Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-08-27T14:18:05Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-07-15T18:54:24Z</date>
           </item>
@@ -31,6 +35,27 @@
       </item>
     </committees>
     <relatedBills>
+      <item>
+        <title>LACA</title>
+        <congress>119</congress>
+        <number>32</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2025-02-13</actionDate>
+          <text>Held at the desk.</text>
+          <actionTime>10:56:41</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
       <item>
         <title>JUDGES Act of 2025</title>
         <congress>119</congress>
@@ -47,25 +72,53 @@
           </item>
         </relationshipDetails>
       </item>
-      <item>
-        <title>LACA</title>
-        <congress>119</congress>
-        <number>32</number>
-        <type>S</type>
-        <latestAction>
-          <actionDate>2025-02-13</actionDate>
-          <text>Held at the desk.</text>
-          <actionTime>10:56:41</actionTime>
-        </latestAction>
-        <relationshipDetails>
-          <item>
-            <type>Identical bill</type>
-            <identifiedBy>CRS</identifiedBy>
-          </item>
-        </relationshipDetails>
-      </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-08-27</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 685.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00685</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-08-27</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-784.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-08-27</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-784.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-07-15</actionDate>
         <committees>
@@ -191,13 +244,33 @@
         <text><![CDATA[<p><strong>Local Access to Courts Act or LACA</strong></p><p>This bill adds College Station to the list of places where court must be held in the Galveston Division of the Southern District of Texas.</p><p>Additionally, the bill adds El Centro to the list of places where court must be held in the Southern District of California.</p>]]></text>
       </summary>
     </summaries>
-    <title>LACA</title>
+    <title>LACA of 2026</title>
     <titles>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>LACA</title>
-        <updateDate>2025-02-20T02:08:21Z</updateDate>
+        <title>LACA of 2026</title>
+        <updateDate>2026-08-28T04:38:43Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>LACA of 2026</title>
+        <updateDate>2026-08-28T04:38:42Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Local Access to Courts Act of 2026</title>
+        <updateDate>2026-08-28T04:38:42Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -225,6 +298,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-08-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr625rh/xml/BILLS-119hr625rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2025-01-22T05:00:00Z</date>

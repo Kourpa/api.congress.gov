@@ -1,13 +1,15 @@
-<bill session="119" type="h" number="625" updated="2026-07-16T08:07:30Z">
+<bill session="119" type="h" number="625" updated="2026-08-28T04:38:43Z">
   <state datetime="2026-07-15">REPORTED</state>
   <status>
     <unknown datetime="2026-07-15"/>
   </status>
   <introduced datetime="2025-01-22"/>
   <titles>
-    <title type="display">LACA</title>
+    <title type="display">LACA of 2026</title>
     <title type="short" as="introduced">LACA</title>
     <title type="short" as="introduced">Local Access to Courts Act</title>
+    <title type="short" as="reported to house">LACA of 2026</title>
+    <title type="short" as="reported to house">Local Access to Courts Act of 2026</title>
     <title type="official" as="introduced">To clarify where court may be held for certain district courts in Texas and California.</title>
   </titles>
   <sponsor bioguide_id="M001157"/>
@@ -27,13 +29,19 @@
     <action datetime="2026-07-15" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 0.</text>
     </action>
+    <action datetime="2026-08-27">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-784.</text>
+    </action>
+    <calendar datetime="2026-08-27" calendar="Union" number="685">
+      <text>Placed on the Union Calendar, Calendar No. 685.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
+    <bill session="119" type="s" number="32" relation="unknown"/>
     <bill session="119" type="h" number="1702" relation="unknown"/>
-    <bill session="119" type="s" number="32" relation="identical"/>
   </relatedbills>
   <subjects>
     <term name="Law"/>

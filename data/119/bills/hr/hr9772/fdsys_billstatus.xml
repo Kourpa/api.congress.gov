@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>9772</number>
-    <updateDate>2026-08-20T13:36:55Z</updateDate>
-    <updateDateIncludingText>2026-08-20T13:36:55Z</updateDateIncludingText>
+    <updateDate>2026-08-28T05:08:43Z</updateDate>
+    <updateDateIncludingText>2026-08-28T05:08:43Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-08-27T14:07:50Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-07-22T20:42:05Z</date>
           </item>
@@ -31,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-08-27</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 666.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00666</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-08-27</actionDate>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-765.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-08-27</actionDate>
+        <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-765.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-07-22</actionDate>
         <committees>
@@ -149,6 +198,16 @@
     <title>Foreign Funding Transparency Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Foreign Funding Transparency Act</title>
+        <updateDate>2026-08-28T05:08:43Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
         <title>Foreign Funding Transparency Act</title>
@@ -172,6 +231,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-08-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr9772rh/xml/BILLS-119hr9772rh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in House</type>
         <date>2026-07-18T04:00:00Z</date>
