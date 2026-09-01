@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2267" updated="2026-08-10T11:51:27Z">
+<bill session="119" type="h" number="2267" updated="2026-09-01T06:25:17Z">
   <state datetime="2026-05-12T16:52:58-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-05-12T16:52:58-04:00"/>
@@ -62,7 +62,9 @@
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="h" number="7910" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Crime and law enforcement"/>
     <term name="Congressional oversight"/>

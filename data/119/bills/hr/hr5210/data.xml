@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="5210" updated="2026-08-25T23:02:24Z">
-  <state datetime="2025-09-10">REPORTED</state>
+<bill session="119" type="h" number="5210" updated="2026-09-01T08:05:40Z">
+  <state datetime="2026-08-31T17:30:56-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-09-10"/>
+    <unknown datetime="2026-08-31T17:30:56-04:00"/>
   </status>
   <introduced datetime="2025-09-08"/>
   <titles>
@@ -22,6 +22,21 @@
     </action>
     <action datetime="2025-09-10" state="REPORTED">
       <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
+    <action datetime="2026-08-31T17:27:25-04:00">
+      <text>Mr. Schmidt moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-08-31T17:27:43-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-08-31T17:27:45-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5210.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-08-31T17:30:56-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-08-31T17:30:58-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

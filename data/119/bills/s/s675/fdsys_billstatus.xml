@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>675</number>
-    <updateDate>2026-06-30T21:21:21Z</updateDate>
-    <updateDateIncludingText>2026-07-18T22:01:43Z</updateDateIncludingText>
+    <updateDate>2026-09-01T05:08:18Z</updateDate>
+    <updateDateIncludingText>2026-09-01T05:08:18Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -12,6 +12,18 @@
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/675</legislationUrl>
     <committees>
+      <item>
+        <systemCode>hsii00</systemCode>
+        <name>Natural Resources Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-08-27T13:01:00Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>sseg00</systemCode>
         <name>Energy and Natural Resources Committee</name>
@@ -30,6 +42,22 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-08-27</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-06-23</actionDate>
         <actionTime>12:11:59</actionTime>
@@ -212,6 +240,16 @@
     <title>Theodore Roosevelt Presidential Library Act</title>
     <titles>
       <item>
+        <titleType>Short Titles from RFH (Referred to House) bill text</titleType>
+        <titleTypeCode>257</titleTypeCode>
+        <title>Theodore Roosevelt Presidential Library Act</title>
+        <updateDate>2026-09-01T05:08:18Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Referred in House</billTextVersionName>
+        <billTextVersionCode>RFH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Theodore Roosevelt Presidential Library Act</title>
@@ -292,7 +330,7 @@
           <originChamberCode>S</originChamberCode>
           <number>675</number>
           <title>Theodore Roosevelt Presidential Library Act</title>
-          <updateDateIncludingText>2026-07-18</updateDateIncludingText>
+          <updateDateIncludingText>2026-09-01</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>6</count>
@@ -362,6 +400,15 @@
       </amendment>
     </amendments>
     <textVersions>
+      <item>
+        <type>Referred in House</type>
+        <date>2026-08-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119s675rfh/xml/BILLS-119s675rfh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Engrossed in Senate</type>
         <date>2026-06-22T04:00:00Z</date>

@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4795" updated="2026-08-31T17:05:23Z">
+<bill session="119" type="h" number="4795" updated="2026-09-01T12:11:19Z">
   <state datetime="2026-06-25">REPORTED</state>
   <status>
     <unknown datetime="2026-06-25"/>
@@ -33,11 +33,16 @@
     <calendar datetime="2026-08-27" calendar="Union" number="681">
       <text>Placed on the Union Calendar, Calendar No. 681.</text>
     </calendar>
+    <action datetime="2026-08-31T19:51:08-04:00">
+      <text>Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="hr" number="1499" relation="procedurally related"/>
+  </relatedbills>
   <subjects>
     <term name="Education"/>
     <term name="Education programs funding"/>

@@ -68,7 +68,28 @@
     }
   ],
   "congress": "119",
-  "cosponsors": [],
+  "cosponsors": [
+    {
+      "bioguide_id": "D000617",
+      "district": "1",
+      "name": "DelBene, Suzan K.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-08-31",
+      "state": "WA",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "K000402",
+      "district": "26",
+      "name": "Kennedy, Timothy M.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-08-31",
+      "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    }
+  ],
   "enacted_as": null,
   "history": {
     "active": false,
@@ -109,6 +130,18 @@
       "bill_id": "s3059-119",
       "identified_by": "CRS",
       "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr4583-118",
+      "identified_by": "CRS",
+      "reason": "cross-congress related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "s2280-118",
+      "identified_by": "CRS",
+      "reason": "cross-congress related",
       "type": "bill"
     },
     {
@@ -157,6 +190,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-08-07T15:45:57Z",
+  "updated_at": "2026-09-01T08:05:30Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9519.xml"
 }

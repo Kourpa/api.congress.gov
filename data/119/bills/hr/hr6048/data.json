@@ -48,6 +48,47 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by Voice Vote.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-08-31T16:16:07-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Fitzgerald moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-08-31T16:16:24-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-08-31T16:16:26-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 6048.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-08-31T16:29:11-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-08-31T16:29:18-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -85,6 +126,8 @@
     "active_at": "2025-11-18",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-08-31T16:29:11-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-11-17",
@@ -108,8 +151,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-11-20",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-08-31T16:29:11-04:00",
   "subjects": [
     "Business records",
     "Computers and information technology",
@@ -127,9 +170,16 @@
     "as": "Introduced in House",
     "asOf": "2025-11-17",
     "date": "2026-01-29T23:35:06Z",
-    "text": ""
+    "text": "NDO Fairness Act\u00a0This bill increases the requirements the government must meet to obtain a nondisclosure order (NDO) under the Stored Communications Act (SCA).\n\nThe SCA generally prohibits providers of remote computing services or electronic communication services (providers) from disclosing stored electronic communications or records (e.g., emails) or information pertaining to customers or subscribers. However, the SCA authorizes the government seek a warrant, order, or subpoena to compel providers to disclose electronic communications or records or information pertaining to customers or subscribers during an investigation. Providers may notify customers and subscribers of the warrant, order, or subpoena unless the government obtains a court order\u2014an NDO\u2014that delays the notification.\n\nThis bill raises the standard the government must meet to obtain (or extend) an NDO. The bill also requires the court, before issuing an NDO, to issue a written determination that the standard was met based on specific and articulable facts, and to review the underlying warrant, order, or subpoena.\n\nThe bill requires NDOs to be narrowly tailored. It also limits their duration to 90 days for most investigations, though it permits a duration of up to one year for investigations pertaining to an offense involving child pornography or sexual exploitation of children.\n\nFinally, the bill requires the Department of Justice to report annually on data related to NDOs, including the number of customers or subscribers targeted; applications for orders; orders granted, extended, or denied; and orders targeting members of the media or conduct related to certain protected activities."
   },
   "titles": [
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "NDO Fairness Act",
+      "type": "short"
+    },
     {
       "as": null,
       "is_for_portion": false,
@@ -141,17 +191,10 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "NDO Fairness Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
       "title": "To amend title 18, United States Code, to modify delayed notice requirements, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-02-11T18:07:58Z",
+  "updated_at": "2026-09-01T08:06:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6048.xml"
 }
