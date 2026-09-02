@@ -318,6 +318,48 @@
       "references": [],
       "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-09-01T12:22:28-04:00",
+      "action_code": "H40140",
+      "references": [],
+      "text": "Mr. Cole moved that the House suspend the rules and agree to the Senate amendments.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-01T12:22:51-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on motion to agree to the Senate amendments to H.R. 6500.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-01T12:47:40-04:00",
+      "action_code": "H40142",
+      "references": [],
+      "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-01T14:05:11-04:00",
+      "action_code": "H41610",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "286",
+      "status": "PASSED:BILL",
+      "suspension": null,
+      "text": "On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 370 - 48 (Roll no. 286).",
+      "type": "vote",
+      "vote_type": "pingpong",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-09-01T14:05:13-04:00",
+      "action_code": "H41931",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [
@@ -437,7 +479,7 @@
     "awaiting_signature": false,
     "enacted": false,
     "house_passage_result": "pass",
-    "house_passage_result_at": "2026-01-12T19:05:15-05:00",
+    "house_passage_result_at": "2026-09-01T14:05:11-04:00",
     "senate_cloture_result": "pass",
     "senate_cloture_result_at": "2026-08-03",
     "senate_passage_result": "pass",
@@ -465,8 +507,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_BACK:SENATE",
-  "status_at": "2026-08-08",
+  "status": "PASSED:BILL",
+  "status_at": "2026-09-01T14:05:11-04:00",
   "subjects": [
     "Abortion",
     "Access Board",
@@ -805,6 +847,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-08-18T16:15:41Z",
+  "updated_at": "2026-09-02T08:06:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6500.xml"
 }
