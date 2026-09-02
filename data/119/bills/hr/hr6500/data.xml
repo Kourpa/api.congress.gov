@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="6500" updated="2026-09-02T08:06:27Z">
+<bill session="119" type="h" number="6500" updated="2026-09-02T15:48:10Z">
   <state datetime="2026-09-01T14:05:11-04:00">PASSED:BILL</state>
   <status>
     <unknown datetime="2026-09-01T14:05:11-04:00"/>
@@ -127,6 +127,7 @@
     </action>
     <action datetime="2026-09-01T12:22:28-04:00">
       <text>Mr. Cole moved that the House suspend the rules and agree to the Senate amendments.</text>
+      <reference ref="CR H5377-5385" label="consideration"/>
     </action>
     <action datetime="2026-09-01T12:22:51-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on motion to agree to the Senate amendments to H.R. 6500.</text>
@@ -136,6 +137,8 @@
     </action>
     <vote how="roll" type="pingpong" roll="286" datetime="2026-09-01T14:05:11-04:00" where="h" result="pass" state="PASSED:BILL">
       <text>On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 370 - 48 (Roll no. 286).</text>
+      <reference ref="CR H5387" label="consideration"/>
+      <reference ref="CR H5377-5383" label="text"/>
     </vote>
     <action datetime="2026-09-01T14:05:13-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

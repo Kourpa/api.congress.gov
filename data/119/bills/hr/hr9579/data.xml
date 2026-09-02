@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="9579" updated="2026-08-12T08:12:03Z">
+<bill session="119" type="h" number="9579" updated="2026-09-02T14:58:53Z">
   <state datetime="2026-07-02">REFERRED</state>
   <status>
     <introduced datetime="2026-07-02"/>
@@ -49,7 +49,9 @@
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
     <committee code="HSHM09" name="House Homeland Security" subcommittee="Oversight, Investigations, and Accountability" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="8103" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Civil rights and liberties, minority issues"/>
   </subjects>

@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="307" updated="2026-09-02T02:38:21Z">
+<bill session="119" type="s" number="307" updated="2026-09-02T15:14:44Z">
   <state datetime="2026-08-31T18:57:43-04:00">PASSED:BILL</state>
   <status>
     <unknown datetime="2026-08-31T18:57:43-04:00"/>
@@ -46,6 +46,7 @@
     </action>
     <action datetime="2026-08-31T16:30:05-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5268-5270" label="consideration"/>
     </action>
     <action datetime="2026-08-31T16:30:07-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on S. 307.</text>
@@ -55,9 +56,11 @@
     </action>
     <action datetime="2026-08-31T18:31:31-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H5347" label="consideration"/>
     </action>
     <vote how="roll" type="vote2" roll="284" datetime="2026-08-31T18:57:43-04:00" where="h" result="pass" suspension="1" state="PASSED:BILL">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 376 - 8 (Roll no. 284).</text>
+      <reference ref="CR H5268-5269" label="text"/>
     </vote>
     <action datetime="2026-08-31T18:57:45-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

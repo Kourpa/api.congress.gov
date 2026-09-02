@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="8481" updated="2026-09-02T02:38:21Z">
+<bill session="119" type="h" number="8481" updated="2026-09-02T15:04:14Z">
   <state datetime="2026-08-31T16:53:49-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-08-31T16:53:49-04:00"/>
@@ -60,12 +60,14 @@
     </action>
     <action datetime="2026-08-31T16:41:39-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5270-5272" label="consideration"/>
     </action>
     <action datetime="2026-08-31T16:41:41-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 8481.</text>
     </action>
     <vote how="by voice vote" type="vote" datetime="2026-08-31T16:53:49-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5270-5271" label="text"/>
     </vote>
     <action datetime="2026-08-31T16:53:51-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
