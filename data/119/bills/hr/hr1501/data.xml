@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1501" updated="2026-09-02T21:26:21Z">
-  <state datetime="2026-04-21">REPORTED</state>
+<bill session="119" type="h" number="1501" updated="2026-09-03T08:09:19Z">
+  <state datetime="2026-09-02T16:50:15-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-04-21"/>
+    <unknown datetime="2026-09-02T16:50:15-04:00"/>
   </status>
   <introduced datetime="2025-02-21"/>
   <titles>
@@ -46,6 +46,30 @@
     <action datetime="2026-08-31T19:51:08-04:00">
       <text>Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.</text>
     </action>
+    <action datetime="2026-09-02T13:39:42-04:00">
+      <text>Considered under the provisions of rule H. Res. 1499.</text>
+    </action>
+    <action datetime="2026-09-02T13:39:47-04:00">
+      <text>Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.</text>
+    </action>
+    <action datetime="2026-09-02T13:41:25-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1501.</text>
+    </action>
+    <action datetime="2026-09-02T14:31:48-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-09-02T14:32:46-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1501, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Huffman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-09-02T16:41:09-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="294" datetime="2026-09-02T16:50:15-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294).</text>
+    </vote>
+    <action datetime="2026-09-02T16:50:17-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -60,7 +84,9 @@
     <term name="Metals"/>
     <term name="Mining"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h270"/>
+  </amendments>
   <summary date="2026-05-21T17:46:38Z" status="Introduced in House">Protecting Domestic Mining Act of 2025
 
 This bill provides statutory authority for federal agencies to expedite the environmental review of certain mining infrastructure projects.

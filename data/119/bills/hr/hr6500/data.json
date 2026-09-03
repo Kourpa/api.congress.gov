@@ -374,6 +374,21 @@
       "references": [],
       "text": "Motion to reconsider laid on the table Agreed to without objection.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-09-02",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
+    },
+    {
+      "acted_at": "2026-09-02",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
     }
   ],
   "amendments": [
@@ -490,7 +505,8 @@
   "history": {
     "active": true,
     "active_at": "2025-12-10",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2026-09-02",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-09-01T14:05:11-04:00",
@@ -521,8 +537,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2026-09-01T14:05:11-04:00",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2026-09-02",
   "subjects": [
     "Abortion",
     "Access Board",
@@ -868,6 +884,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-09-03T02:53:19Z",
+  "updated_at": "2026-09-03T11:22:01Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6500.xml"
 }

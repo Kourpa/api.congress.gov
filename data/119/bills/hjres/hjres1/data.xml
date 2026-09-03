@@ -1,7 +1,7 @@
-<bill session="119" type="hj" number="1" updated="2026-09-02T21:26:21Z">
-  <state datetime="2026-06-03">REPORTED</state>
+<bill session="119" type="hj" number="1" updated="2026-09-03T08:06:33Z">
+  <state datetime="2026-09-02T16:35:33-04:00">PROV_KILL:SUSPENSIONFAILED</state>
   <status>
-    <unknown datetime="2026-06-03"/>
+    <unknown datetime="2026-09-02T16:35:33-04:00"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
@@ -32,6 +32,24 @@
     <calendar datetime="2026-07-06" calendar="House" number="84">
       <text>Placed on the House Calendar, Calendar No. 84.</text>
     </calendar>
+    <action datetime="2026-09-02T12:30:10-04:00">
+      <text>Mr. Biggs (AZ) moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="2026-09-02T12:30:26-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-09-02T12:30:28-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.J. Res. 1.</text>
+    </action>
+    <action datetime="2026-09-02T13:38:06-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2026-09-02T16:00:37-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="293" datetime="2026-09-02T16:35:33-04:00" where="h" result="fail" suspension="1" state="PROV_KILL:SUSPENSIONFAILED">
+      <text>On motion to suspend the rules and pass the resolution Failed by the Yeas and Nays: (2/3 required): 212 - 206 (Roll no. 293).</text>
+    </vote>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Reported By, Markup By, Referred To"/>
