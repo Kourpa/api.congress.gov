@@ -108,7 +108,12 @@
       "bill_ids": [
         "hres1499-119"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5452-5459",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under the provisions of rule H. Res. 1499.",
       "type": "action"
     },
@@ -148,7 +153,12 @@
     {
       "acted_at": "2026-09-02T16:41:09-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5460-5461",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -156,7 +166,12 @@
       "acted_at": "2026-09-02T16:50:15-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5452",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "294",
       "status": "PASS_OVER:HOUSE",
@@ -309,6 +324,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-03T08:09:19Z",
+  "updated_at": "2026-09-03T14:45:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1501.xml"
 }
