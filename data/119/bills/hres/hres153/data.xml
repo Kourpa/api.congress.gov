@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="153" updated="2026-07-11T21:24:26Z">
+<bill session="119" type="hr" number="153" updated="2026-09-02T21:46:30Z">
   <state datetime="2025-03-03T16:41:14-05:00">PASSED:SIMPLERES</state>
   <status>
     <unknown datetime="2025-03-03T16:41:14-05:00"/>
@@ -138,7 +138,9 @@
     <committee code="HSPW05" name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="1071" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Transportation and public works"/>
     <term name="Accidents"/>

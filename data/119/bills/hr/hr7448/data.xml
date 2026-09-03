@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="7448" updated="2026-08-04T19:35:20Z">
+<bill session="119" type="h" number="7448" updated="2026-09-02T22:09:04Z">
   <state datetime="2026-06-24">REPORTED</state>
   <status>
     <unknown datetime="2026-06-24"/>
@@ -61,7 +61,9 @@
     <committee code="HSHM08" name="House Homeland Security" subcommittee="Cybersecurity and Infrastructure Protection" activity="Discharged, Referral"/>
     <committee code="HSHM05" name="House Homeland Security" subcommittee="Counterterrorism and Intelligence" activity="Reporting, Hearings By (Subcommittee), Reporting, Markup, Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="1071" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Crime and law enforcement"/>
     <term name="Congressional oversight"/>
