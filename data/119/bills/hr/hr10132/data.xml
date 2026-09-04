@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="10132" updated="2026-08-25T04:53:44Z">
+<bill session="119" type="h" number="10132" updated="2026-09-04T19:02:50Z">
   <state datetime="2026-08-20">REFERRED</state>
   <status>
     <introduced datetime="2026-08-20"/>
@@ -33,7 +33,11 @@
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="118" type="h" number="3988" relation="cross-congress related"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+  </subjects>
   <amendments/>
 </bill>
