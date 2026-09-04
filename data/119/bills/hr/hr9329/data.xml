@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="9329" updated="2026-07-08T22:00:42Z">
+<bill session="119" type="h" number="9329" updated="2026-09-04T05:23:19Z">
   <state datetime="2026-06-30">REPORTED</state>
   <status>
     <unknown datetime="2026-06-30"/>
   </status>
   <introduced datetime="2026-06-18"/>
   <titles>
-    <title type="display">SEC Reform and Restructuring Act</title>
     <title type="short" as="introduced">SEC Reform and Restructuring Act</title>
+    <title type="short" as="reported to house">SEC Reform and Restructuring Act</title>
+    <title type="display">SEC Reform and Restructuring Act</title>
     <title type="official" as="introduced">To make improvements to the securities laws, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="W000812"/>
@@ -29,9 +30,15 @@
     <action datetime="2026-06-30" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 23.</text>
     </action>
+    <action datetime="2026-09-03">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-794.</text>
+    </action>
+    <calendar datetime="2026-09-03" calendar="Union" number="694">
+      <text>Placed on the Union Calendar, Calendar No. 694.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="9434" relation="unknown"/>
@@ -39,6 +46,16 @@
   </relatedbills>
   <subjects>
     <term name="Finance and financial sector"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Congressional oversight"/>
+    <term name="Financial services and investments"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Licensing and registrations"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
   </subjects>
   <amendments/>
 </bill>
