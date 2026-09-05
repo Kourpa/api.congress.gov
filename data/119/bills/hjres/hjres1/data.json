@@ -111,16 +111,9 @@
     {
       "acted_at": "2026-09-02T16:35:33-04:00",
       "action_code": "H37300",
-      "how": "roll",
       "references": [],
-      "result": "fail",
-      "roll": "293",
-      "status": "PROV_KILL:SUSPENSIONFAILED",
-      "suspension": true,
-      "text": "On motion to suspend the rules and pass the resolution Failed by the Yeas and Nays: (2/3 required): 212 - 206 (Roll no. 293).",
-      "type": "vote",
-      "vote_type": "vote",
-      "where": "h"
+      "text": "On motion to suspend the rules and pass Failed by the Yeas and Nays: (2/3 required): 212 - 206 (Roll no. 293).",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -170,8 +163,6 @@
     "active_at": "2026-06-03",
     "awaiting_signature": false,
     "enacted": false,
-    "house_passage_result": "fail",
-    "house_passage_result_at": "2026-09-02T16:35:33-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-01-03",
@@ -207,8 +198,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PROV_KILL:SUSPENSIONFAILED",
-  "status_at": "2026-09-02T16:35:33-04:00",
+  "status": "REPORTED",
+  "status_at": "2026-06-03",
   "subjects": [
     "Constitution and constitutional amendments",
     "Judges",
