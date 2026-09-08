@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1550" updated="2026-08-05T03:55:51Z">
+<bill session="119" type="h" number="1550" updated="2026-09-08T18:09:59Z">
   <state datetime="2025-05-13T16:54:36-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-05-13T16:54:36-04:00"/>
@@ -58,7 +58,9 @@
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="s" number="5590" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
     <term name="Geography and mapping"/>

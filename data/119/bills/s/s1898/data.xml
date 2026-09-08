@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="1898" updated="2026-07-23T23:06:27Z">
+<bill session="119" type="s" number="1898" updated="2026-09-08T18:03:40Z">
   <state datetime="2026-02-12">REPORTED</state>
   <status>
     <unknown datetime="2026-02-12"/>
@@ -38,7 +38,10 @@
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="s" number="447" relation="cross-congress related"/>
+    <bill session="118" type="h" number="8787" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Science, technology, communications"/>
     <term name="Administrative law and regulatory procedures"/>
