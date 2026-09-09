@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="10217" updated="2026-09-03T02:53:19Z">
+<bill session="119" type="h" number="10217" updated="2026-09-09T13:48:02Z">
   <state datetime="2026-09-01">REFERRED</state>
   <status>
     <introduced datetime="2026-09-01"/>
@@ -22,7 +22,11 @@
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="118" type="h" number="10016" relation="cross-congress related"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+  </subjects>
   <amendments/>
 </bill>

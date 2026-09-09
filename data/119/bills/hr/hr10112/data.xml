@@ -1,16 +1,17 @@
-<bill session="119" type="h" number="10112" updated="2026-08-19T21:09:24Z">
+<bill session="119" type="h" number="10112" updated="2026-09-09T14:53:06Z">
   <state datetime="2026-08-17">REFERRED</state>
   <status>
     <introduced datetime="2026-08-17"/>
   </status>
   <introduced datetime="2026-08-17"/>
   <titles>
-    <title type="short" as="introduced">Empowering States to Protect Seniors from Bad Actors Act</title>
     <title type="display">Empowering States to Protect Seniors from Bad Actors Act</title>
+    <title type="short" as="introduced">Empowering States to Protect Seniors from Bad Actors Act</title>
     <title type="official" as="introduced">To amend the Investor Protection and Securities Reform Act of 2010 to provide grants to States for enhanced protection of senior investors and senior policyholders, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000583"/>
   <cosponsors>
+    <cosponsor bioguide_id="L000599" joined="2026-09-08"/>
     <cosponsor bioguide_id="N000193" joined="2026-08-17"/>
   </cosponsors>
   <actions>
@@ -24,7 +25,10 @@
   <committees>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="8478" relation="cross-congress related"/>
+    <bill session="118" type="s" number="4371" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Finance and financial sector"/>
   </subjects>

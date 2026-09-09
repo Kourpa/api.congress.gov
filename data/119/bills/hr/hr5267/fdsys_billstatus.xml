@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>5267</number>
-    <updateDate>2026-09-09T06:53:24Z</updateDate>
-    <updateDateIncludingText>2026-09-09T06:53:24Z</updateDateIncludingText>
+    <updateDate>2026-09-09T14:52:39Z</updateDate>
+    <updateDateIncludingText>2026-09-09T14:52:39Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-09-08T18:41:23Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-07-21T20:43:12Z</date>
@@ -49,6 +53,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-09-08</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 702.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00702</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-09-08</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-802.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-09-08</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-802.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-07-21</actionDate>
         <committees>
@@ -1953,6 +2002,20 @@
     <title>American Franchise Act</title>
     <titles>
       <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>American Franchise Act</title>
+        <updateDate>2026-09-09T14:52:39Z</updateDate>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <titleTypeCode>6</titleTypeCode>
+        <title>To preserve the franchise business model.</title>
+        <updateDate>2026-09-09T14:52:39Z</updateDate>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
         <title>American Franchise Act</title>
@@ -1963,24 +2026,10 @@
         <billTextVersionCode>RH</billTextVersionCode>
       </item>
       <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>American Franchise Act</title>
-        <updateDate>2026-07-18T00:09:12Z</updateDate>
-      </item>
-      <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
         <title>American Franchise Act</title>
         <updateDate>2025-09-18T04:23:16Z</updateDate>
-        <billTextVersionName>Introduced in House</billTextVersionName>
-        <billTextVersionCode>IH</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Official Title as Introduced</titleType>
-        <titleTypeCode>6</titleTypeCode>
-        <title>To preserve the franchise business model.</title>
-        <updateDate>2025-09-18T04:18:38Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
@@ -2006,8 +2055,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-07-21</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.</text>
+      <actionDate>2026-09-08</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 702.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

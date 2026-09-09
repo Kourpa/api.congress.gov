@@ -1,14 +1,14 @@
-<bill session="119" type="h" number="5267" updated="2026-09-09T06:53:24Z">
+<bill session="119" type="h" number="5267" updated="2026-09-09T14:52:39Z">
   <state datetime="2026-07-21">REPORTED</state>
   <status>
     <unknown datetime="2026-07-21"/>
   </status>
   <introduced datetime="2025-09-10"/>
   <titles>
-    <title type="short" as="introduced">American Franchise Act</title>
-    <title type="short" as="reported to house">American Franchise Act</title>
     <title type="display">American Franchise Act</title>
     <title type="official" as="introduced">To preserve the franchise business model.</title>
+    <title type="short" as="introduced">American Franchise Act</title>
+    <title type="short" as="reported to house">American Franchise Act</title>
   </titles>
   <sponsor bioguide_id="H001082"/>
   <cosponsors>
@@ -184,9 +184,15 @@
     <action datetime="2026-07-21" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.</text>
     </action>
+    <action datetime="2026-09-08">
+      <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-802.</text>
+    </action>
+    <calendar datetime="2026-09-08" calendar="Union" number="702">
+      <text>Placed on the Union Calendar, Calendar No. 702.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="3525" relation="unknown"/>

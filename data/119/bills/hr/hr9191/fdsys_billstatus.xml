@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>9191</number>
-    <updateDate>2026-09-09T06:53:24Z</updateDate>
-    <updateDateIncludingText>2026-09-09T06:53:24Z</updateDateIncludingText>
+    <updateDate>2026-09-09T14:52:42Z</updateDate>
+    <updateDateIncludingText>2026-09-09T14:52:42Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-09-08T18:44:27Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-07-15T18:51:26Z</date>
           </item>
@@ -31,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-09-08</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 89.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>H00089</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-09-08</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-803.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-09-08</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 119-803.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-07-15</actionDate>
         <committees>
@@ -222,7 +271,7 @@
       </item>
     </cboCostEstimates>
     <policyArea>
-      <name>Congress</name>
+      <name>Government Operations and Politics</name>
     </policyArea>
     <subjects>
       <legislativeSubjects>
@@ -240,12 +289,26 @@
         </item>
       </legislativeSubjects>
       <policyArea>
-        <name>Congress</name>
-        <updateDate>2026-07-01T21:55:02Z</updateDate>
+        <name>Government Operations and Politics</name>
+        <updateDate>2026-09-09T14:10:51Z</updateDate>
       </policyArea>
     </subjects>
     <title>National Fossil Act of 2026</title>
     <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>National Fossil Act of 2026</title>
+        <updateDate>2026-09-09T14:52:42Z</updateDate>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <titleTypeCode>6</titleTypeCode>
+        <title>To amend chapter 3 of title 36, United States Code, to designate the American mastodon as the national fossil mammal and the Tyrannosaurus rex as the national fossil dinosaur of the United States, and for other purposes.</title>
+        <updateDate>2026-09-09T14:52:42Z</updateDate>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
       <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
@@ -255,20 +318,6 @@
         <chamberName>House</chamberName>
         <billTextVersionName>Reported in House</billTextVersionName>
         <billTextVersionCode>RH</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>National Fossil Act of 2026</title>
-        <updateDate>2026-09-09T06:53:24Z</updateDate>
-      </item>
-      <item>
-        <titleType>Official Title as Introduced</titleType>
-        <titleTypeCode>6</titleTypeCode>
-        <title>To amend chapter 3 of title 36, United States Code, to designate the American mastodon as the national fossil mammal and the Tyrannosaurus rex as the national fossil dinosaur of the United States, and for other purposes.</title>
-        <updateDate>2026-06-16T16:34:06Z</updateDate>
-        <billTextVersionName>Introduced in House</billTextVersionName>
-        <billTextVersionCode>IH</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -300,8 +349,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-07-15</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 1.</text>
+      <actionDate>2026-09-08</actionDate>
+      <text>Placed on the House Calendar, Calendar No. 89.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
