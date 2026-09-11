@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="858" updated="2026-09-08T18:09:59Z">
-  <state datetime="2026-08-31T15:46:16-04:00">PASSED:BILL</state>
+<bill session="119" type="s" number="858" updated="2026-09-11T19:40:14Z">
+  <state datetime="2026-09-10">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2026-08-31T15:46:16-04:00"/>
+    <unknown datetime="2026-09-10"/>
   </status>
   <introduced datetime="2025-03-05"/>
   <titles>
@@ -80,6 +80,12 @@
     <topresident datetime="2026-09-02">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2026-09-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="119-104" type="public" datetime="2026-09-10">
+      <text>Became Public Law No: 119-104.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Markup By, Markup By, Referred To"/>
