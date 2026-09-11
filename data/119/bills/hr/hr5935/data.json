@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-09-10",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Water, Wildlife and Fisheries.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Natural Resources",
       "committee_id": "HSII"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII",
+      "subcommittee": "Subcommittee on Water, Wildlife and Fisheries",
+      "subcommittee_id": "13"
     }
   ],
   "congress": "119",
@@ -77,7 +96,17 @@
   "status": "REFERRED",
   "status_at": "2025-11-07",
   "subjects": [
-    "Native Americans"
+    "California",
+    "Geography and mapping",
+    "Government trust funds",
+    "Historical and cultural resources",
+    "Indian claims",
+    "Indian lands and resources rights",
+    "Land transfers",
+    "Native Americans",
+    "Property tax",
+    "State and local taxation",
+    "Water use and supply"
   ],
   "subjects_top_term": "Native Americans",
   "summary": null,
@@ -104,6 +133,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-05-12T22:45:48Z",
+  "updated_at": "2026-09-11T08:05:42Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5935.xml"
 }

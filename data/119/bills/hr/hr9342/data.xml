@@ -28,10 +28,19 @@
     <action datetime="2026-06-24" state="REPORTED">
       <text>Ordered to be Reported (Amended) by Voice Vote.</text>
     </action>
+    <action datetime="2026-09-10">
+      <text>Reported (Amended) by the Committee on House Administration. H. Rept. 119-809, Part I.</text>
+    </action>
+    <action datetime="2026-09-10">
+      <text>Committee on Oversight and Gov Reform discharged.</text>
+    </action>
+    <calendar datetime="2026-09-10" calendar="Union" number="708">
+      <text>Placed on the Union Calendar, Calendar No. 708.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Markup By, Referred To"/>
-    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="1234" relation="unknown"/>

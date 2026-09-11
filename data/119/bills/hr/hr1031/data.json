@@ -17,6 +17,16 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Natural Resources.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-09-10",
+      "action_code": "",
+      "committees": [
+        "HSII"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Federal Lands.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -31,6 +41,15 @@
       ],
       "committee": "House Natural Resources",
       "committee_id": "HSII"
+    },
+    {
+      "activity": [
+        "referral"
+      ],
+      "committee": "House Natural Resources",
+      "committee_id": "HSII",
+      "subcommittee": "Subcommittee on Federal Lands",
+      "subcommittee_id": "10"
     }
   ],
   "congress": "119",
@@ -62,6 +81,16 @@
       "original_cosponsor": false,
       "sponsored_at": "2025-02-06",
       "state": "NY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "K000398",
+      "district": "7",
+      "name": "Kean, Thomas H.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-09-10",
+      "state": "NJ",
       "title": "Rep.",
       "withdrawn_at": null
     },
@@ -159,6 +188,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-09T14:52:59Z",
+  "updated_at": "2026-09-11T08:05:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1031.xml"
 }

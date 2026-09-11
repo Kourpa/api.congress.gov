@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2323</number>
-    <updateDate>2026-06-24T08:09:00Z</updateDate>
-    <updateDateIncludingText>2026-06-24T08:09:00Z</updateDateIncludingText>
+    <updateDate>2026-09-11T08:05:26Z</updateDate>
+    <updateDateIncludingText>2026-09-11T08:05:26Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Natural Resources Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-09-10T14:42:28Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -46,6 +58,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-09-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>Federal Lands Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-06-23</actionDate>
         <actionTime>19:28:34</actionTime>
@@ -272,9 +299,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-06-23</actionDate>
-      <text>ASSUMING FIRST SPONSORSHIP - Mr. Pfluger asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 2323, a bill originally introduced by Representative Gonzales (TX), for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.</text>
-      <actionTime>19:28:34</actionTime>
+      <actionDate>2026-09-10</actionDate>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
