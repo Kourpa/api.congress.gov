@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>9057</number>
-    <updateDate>2026-06-08T17:57:58Z</updateDate>
-    <updateDateIncludingText>2026-06-08T17:57:58Z</updateDateIncludingText>
+    <updateDate>2026-09-12T08:05:51Z</updateDate>
+    <updateDateIncludingText>2026-09-12T08:05:51Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Agriculture Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition and Foreign Agriculture Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-06-15T15:07:53Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -69,6 +81,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-06-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition and Foreign Agriculture Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-05-29</actionDate>
         <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -228,8 +255,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-05-29</actionDate>
-      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-06-15</actionDate>
+      <text>Referred to the Subcommittee on Nutrition and Foreign Agriculture.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
