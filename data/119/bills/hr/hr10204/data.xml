@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="10204" updated="2026-09-09T20:12:37Z">
-  <state datetime="2026-09-01">REFERRED</state>
+<bill session="119" type="h" number="10204" updated="2026-09-15T08:06:17Z">
+  <state datetime="2026-09-14T15:24:26-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2026-09-01"/>
+    <unknown datetime="2026-09-14T15:24:26-04:00"/>
   </status>
   <introduced datetime="2026-09-01"/>
   <titles>
@@ -24,6 +24,21 @@
     <action datetime="2026-09-01">
       <text>Referred to the Committee on House Administration, and in addition to the Committees on the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-09-14T15:14:26-04:00">
+      <text>Mr. Griffith moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-09-14T15:14:43-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-09-14T15:14:49-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 10204.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-09-14T15:24:26-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-09-14T15:24:57-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
@@ -35,6 +50,14 @@
   </relatedbills>
   <subjects>
     <term name="Congress"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal officials"/>
+    <term name="Government Publishing Office (GPO)"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Intellectual property"/>
+    <term name="Library of Congress"/>
   </subjects>
   <amendments/>
   <summary date="2026-09-09T20:12:30Z" status="Introduced in House">Legislative Branch Agencies Clarification Act
