@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="1518" updated="2026-09-09T15:03:26Z">
+<bill session="119" type="hr" number="1518" updated="2026-09-16T17:10:58Z">
   <state datetime="2026-09-08">REFERRED</state>
   <status>
     <introduced datetime="2026-09-08"/>
@@ -21,7 +21,15 @@
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="hr" number="763" relation="unknown"/>
+    <bill session="117" type="hr" number="632" relation="cross-congress related"/>
+    <bill session="117" type="hr" number="1332" relation="cross-congress related"/>
+    <bill session="118" type="hr" number="727" relation="cross-congress related"/>
+    <bill session="118" type="hr" number="1426" relation="cross-congress related"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
   <amendments/>
 </bill>
