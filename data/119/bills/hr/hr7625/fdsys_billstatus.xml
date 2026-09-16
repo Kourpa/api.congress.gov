@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7625</number>
-    <updateDate>2026-07-18T00:08:50Z</updateDate>
-    <updateDateIncludingText>2026-07-18T00:08:50Z</updateDateIncludingText>
+    <updateDate>2026-09-16T08:09:23Z</updateDate>
+    <updateDateIncludingText>2026-09-16T08:09:23Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,38 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/7625</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 34 (Friday, February 20, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. McDOWELL:H.R. 7625.Congress has the power to enact this legislation pursuantto the following:Article I Section 8 of the Constitution of the UnitedStates of America[Page H2235]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw07</systemCode>
+            <name>Coast Guard and Maritime Transportation Subcommittee</name>
+            <activities>
+              <item>
+                <name>Discharged from</name>
+                <date>2026-09-15T17:01:11Z</date>
+              </item>
+              <item>
+                <name>Referred to</name>
+                <date>2026-02-21T16:12:14Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Markup By</name>
+            <date>2026-09-15T17:01:24Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2026-02-20T16:33:50Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hshm00</systemCode>
         <name>Homeland Security Committee</name>
@@ -37,32 +69,53 @@
           </item>
         </activities>
       </item>
+    </committees>
+    <actions>
       <item>
-        <systemCode>hspw00</systemCode>
-        <name>Transportation and Infrastructure Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <subcommittees>
+        <actionDate>2026-09-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <committees>
           <item>
             <systemCode>hspw07</systemCode>
             <name>Coast Guard and Maritime Transportation Subcommittee</name>
-            <activities>
-              <item>
-                <name>Referred to</name>
-                <date>2026-02-21T16:12:14Z</date>
-              </item>
-            </activities>
           </item>
-        </subcommittees>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2026-02-20T16:33:50Z</date>
-          </item>
-        </activities>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Coast Guard and Maritime Transportation Discharged</text>
+        <type>Committee</type>
       </item>
-    </committees>
-    <actions>
       <item>
         <actionDate>2026-02-23</actionDate>
         <committees>
@@ -239,8 +292,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-02-23</actionDate>
-      <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
+      <actionDate>2026-09-15</actionDate>
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

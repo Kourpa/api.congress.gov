@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="9496" updated="2026-09-14T14:47:29Z">
-  <state datetime="2026-07-01">REPORTED</state>
+<bill session="119" type="h" number="9496" updated="2026-09-16T08:09:11Z">
+  <state datetime="2026-09-15T20:37:36-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-07-01"/>
+    <unknown datetime="2026-09-15T20:37:36-04:00"/>
   </status>
   <introduced datetime="2026-06-29"/>
   <titles>
@@ -34,6 +34,21 @@
     <calendar datetime="2026-09-08" calendar="Union" number="697">
       <text>Placed on the Union Calendar, Calendar No. 697.</text>
     </calendar>
+    <action datetime="2026-09-15T20:28:38-04:00">
+      <text>Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-09-15T20:28:53-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-09-15T20:28:54-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 9496.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-09-15T20:37:36-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-09-15T20:37:37-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Reported By, Markup By, Referred To"/>

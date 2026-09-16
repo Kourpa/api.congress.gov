@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>10167</number>
-    <updateDate>2026-09-15T13:58:36Z</updateDate>
-    <updateDateIncludingText>2026-09-15T13:58:36Z</updateDateIncludingText>
+    <updateDate>2026-09-16T10:56:27Z</updateDate>
+    <updateDateIncludingText>2026-09-16T12:18:36Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/10167</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 136 (Thursday, August 27, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mrs. McCLAIN:H.R. 10167.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 5 of the United StatesConstitution, which grants Congress the power ``To coinMoney, regulate the Value thereof, and of foreign Coin''; andArticle I, Section 8, Clause 18, which grants Congress thepower ``To make all Laws which shall be necessary and properfor carrying into Execution the foregoing Powers.''[Page H5258]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>ssbk00</systemCode>
+        <name>Banking, Housing, and Urban Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-09-15T22:04:22Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsba00</systemCode>
         <name>Financial Services Committee</name>
@@ -41,6 +53,10 @@
           <item>
             <type>Identical bill</type>
             <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
           </item>
         </relationshipDetails>
       </item>
@@ -74,10 +90,28 @@
             <type>Related bill</type>
             <identifiedBy>CRS</identifiedBy>
           </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
         </relationshipDetails>
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-09-14</actionDate>
         <actionTime>19:27:15</actionTime>
@@ -229,6 +263,26 @@
     <title>Common Cents Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>Common Cents Act</title>
+        <updateDate>2026-09-16T06:08:25Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>To direct the Secretary of the Treasury to stop minting the penny, to require cash transactions to be rounded up or down to the nearest 5 cents, and for other purposes.</title>
+        <updateDate>2026-09-16T06:08:25Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Common Cents Act</title>
@@ -253,6 +307,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in House</type>
+        <date>2026-09-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr10167eh/xml/BILLS-119hr10167eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2026-08-27T04:00:00Z</date>
         <formats>
@@ -263,9 +326,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-09-14</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>19:27:15</actionTime>
+      <actionDate>2026-09-15</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

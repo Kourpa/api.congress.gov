@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="9530" updated="2026-09-01T08:05:49Z">
-  <state datetime="2026-06-29">REFERRED</state>
+<bill session="119" type="h" number="9530" updated="2026-09-16T08:09:36Z">
+  <state datetime="2026-09-15">REPORTED</state>
   <status>
-    <introduced datetime="2026-06-29"/>
+    <unknown datetime="2026-09-15"/>
   </status>
   <introduced datetime="2026-06-29"/>
   <titles>
@@ -24,9 +24,22 @@
     <action datetime="2026-06-29" state="REFERRED">
       <text>Referred to the House Committee on Transportation and Infrastructure.</text>
     </action>
+    <action datetime="2026-06-30">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2026-09-15">
+      <text>Subcommittee on Aviation Discharged</text>
+    </action>
+    <action datetime="2026-09-15">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-09-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSPW05" name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Discharged, Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

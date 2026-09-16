@@ -78,6 +78,34 @@
       "references": [],
       "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Con. Res. 93, the Chair put the question on agreeing to the resolution and by voice vote, announced the noes had prevailed. Mr. Moulton demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15T22:22:09-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15T22:32:08-04:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "307",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 204 (Roll no. 307).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-09-15T22:32:09-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -243,6 +271,8 @@
     "active_at": "2026-04-28",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-09-15T22:32:08-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-04-28",
@@ -260,6 +290,18 @@
       "bill_id": "hconres86-119",
       "identified_by": "CRS",
       "reason": "identical",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hconres75-119",
+      "identified_by": "House",
+      "reason": "related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hconres89-119",
+      "identified_by": "House",
+      "reason": "related",
       "type": "bill"
     },
     {
@@ -284,8 +326,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-04-28",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-09-15T22:32:08-04:00",
   "subjects": [
     "Conflicts and wars",
     "Congressional-executive branch relations",
@@ -319,6 +361,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-15T08:05:28Z",
+  "updated_at": "2026-09-16T08:09:17Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres93.xml"
 }

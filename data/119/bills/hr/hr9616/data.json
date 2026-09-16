@@ -98,6 +98,47 @@
       "text": "Placed on the Union Calendar, Calendar No. 720.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-09-15T20:19:43-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Guthrie moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15T20:19:55-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15T20:19:56-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9616.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15T20:26:25-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-09-15T20:26:40-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -147,6 +188,8 @@
     "active_at": "2026-07-14",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-09-15T20:26:25-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-07-09",
@@ -163,8 +206,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-07-21",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-09-15T20:26:25-04:00",
   "subjects": [
     "Energy",
     "Environmental assessment, monitoring, research",
@@ -183,13 +226,6 @@
   },
   "titles": [
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "EMRTAI Authorization Act of 2026",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -204,6 +240,27 @@
       "type": "short"
     },
     {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "EMRTAI Authorization Act of 2026",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Environmental Monitoring and Remediation Technology Assessment Initiative Authorization Act of 2026",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "EMRTAI Authorization Act of 2026",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -211,6 +268,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-15T08:05:26Z",
+  "updated_at": "2026-09-16T08:09:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9616.xml"
 }

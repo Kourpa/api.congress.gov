@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7889</number>
-    <updateDate>2026-09-15T08:06:06Z</updateDate>
-    <updateDateIncludingText>2026-09-15T08:06:06Z</updateDateIncludingText>
+    <updateDate>2026-09-16T10:56:33Z</updateDate>
+    <updateDateIncludingText>2026-09-16T12:18:32Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/7889</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 43 (Monday, March 9, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. WITTMAN:H.R. 7889.Congress has the power to enact this legislation pursuantto the following:Congress has the authority to enact this legislationpursuant to its powers under Article I, Section 8 of theConstitution of the United States.[Page H2477]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>ssev00</systemCode>
+        <name>Environment and Public Works Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-09-15T22:07:54Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsii00</systemCode>
         <name>Natural Resources Committee</name>
@@ -78,6 +90,20 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
       <item>
         <actionDate>2026-09-14</actionDate>
         <actionTime>17:06:44</actionTime>
@@ -477,9 +503,39 @@
     <title>AWRC Act of 2025</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>AWRC Act of 2025</title>
+        <updateDate>2026-09-16T06:08:24Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>To amend the Water Resources Research Act of 1984 to reauthorize the water resources research and technology institutes program, and for other purposes.</title>
+        <updateDate>2026-09-16T06:08:24Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>Advancing Water Research and Collaboration Act of 2025</title>
+        <updateDate>2026-09-16T06:08:24Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
-        <title>AWRC Act of 2025</title>
+        <title>Advancing Water Research and Collaboration Act of 2025</title>
         <updateDate>2026-08-21T05:38:42Z</updateDate>
         <chamberCode>H</chamberCode>
         <chamberName>House</chamberName>
@@ -489,7 +545,7 @@
       <item>
         <titleType>Short Title(s) as Reported to House</titleType>
         <titleTypeCode>102</titleTypeCode>
-        <title>Advancing Water Research and Collaboration Act of 2025</title>
+        <title>AWRC Act of 2025</title>
         <updateDate>2026-08-21T05:38:42Z</updateDate>
         <chamberCode>H</chamberCode>
         <chamberName>House</chamberName>
@@ -505,7 +561,7 @@
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
-        <title>AWRC Act of 2025</title>
+        <title>Advancing Water Research and Collaboration Act of 2025</title>
         <updateDate>2026-04-08T12:23:26Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
@@ -513,7 +569,7 @@
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
-        <title>Advancing Water Research and Collaboration Act of 2025</title>
+        <title>AWRC Act of 2025</title>
         <updateDate>2026-04-08T12:23:26Z</updateDate>
         <billTextVersionName>Introduced in House</billTextVersionName>
         <billTextVersionCode>IH</billTextVersionCode>
@@ -528,6 +584,15 @@
       </item>
     </titles>
     <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2026-09-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr7889eh/xml/BILLS-119hr7889eh.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Reported in House</type>
         <date>2026-08-20T04:00:00Z</date>
@@ -548,9 +613,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-09-14</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>17:06:44</actionTime>
+      <actionDate>2026-09-15</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -17,6 +17,47 @@
       "status": "REFERRED",
       "text": "Referred to the House Committee on Transportation and Infrastructure.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-06-30",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Referred to the Subcommittee on Aviation.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2026-09-15",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Subcommittee on Aviation Discharged",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "text": "Committee Consideration and Mark-up Session Held",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15",
+      "action_code": "",
+      "committees": [
+        "HSPW"
+      ],
+      "references": [],
+      "status": "REPORTED",
+      "text": "Ordered to be Reported (Amended) by Voice Vote.",
+      "type": "ordered-reported"
     }
   ],
   "amendments": [],
@@ -27,10 +68,21 @@
   "committees": [
     {
       "activity": [
+        "Markup By",
         "Referred To"
       ],
       "committee": "House Transportation and Infrastructure",
       "committee_id": "HSPW"
+    },
+    {
+      "activity": [
+        "discharged",
+        "referral"
+      ],
+      "committee": "House Transportation and Infrastructure",
+      "committee_id": "HSPW",
+      "subcommittee": "Subcommittee on Aviation",
+      "subcommittee_id": "05"
     }
   ],
   "congress": "119",
@@ -88,7 +140,8 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-09-15",
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -107,8 +160,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-06-29",
+  "status": "REPORTED",
+  "status_at": "2026-09-15",
   "subjects": [
     "Transportation and public works"
   ],
@@ -137,6 +190,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-01T08:05:49Z",
+  "updated_at": "2026-09-16T08:09:36Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9530.xml"
 }

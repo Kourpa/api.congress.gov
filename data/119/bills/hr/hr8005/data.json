@@ -88,6 +88,54 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 43 - 6.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-09-15T19:31:09-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Guthrie moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15T19:31:18-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15T19:31:19-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 8005.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15T19:38:50-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-09-15T19:38:53-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15T19:38:54-04:00",
+      "action_code": "H38800",
+      "references": [],
+      "text": "The title of the measure was amended. Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -132,6 +180,8 @@
     "active_at": "2026-07-15",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-09-15T19:38:50-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-03-19",
@@ -155,8 +205,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-07-21",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-09-15T19:38:50-04:00",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Congressional oversight",
@@ -195,6 +245,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-08-01T08:06:25Z",
+  "updated_at": "2026-09-16T08:08:59Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8005.xml"
 }

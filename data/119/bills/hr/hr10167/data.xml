@@ -1,13 +1,15 @@
-<bill session="119" type="h" number="10167" updated="2026-09-15T13:58:36Z">
+<bill session="119" type="h" number="10167" updated="2026-09-16T10:56:27Z">
   <state datetime="2026-09-14T19:27:13-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-09-14T19:27:13-04:00"/>
   </status>
   <introduced datetime="2026-08-27"/>
   <titles>
-    <title type="display">Common Cents Act</title>
     <title type="short" as="introduced">Common Cents Act</title>
+    <title type="short" as="passed house">Common Cents Act</title>
     <title type="official" as="introduced">To direct the Secretary of the Treasury to stop minting the penny, to require cash transactions to be rounded up or down to the nearest 5 cents, and for other purposes.</title>
+    <title type="official">To direct the Secretary of the Treasury to stop minting the penny, to require cash transactions to be rounded up or down to the nearest 5 cents, and for other purposes.</title>
+    <title type="display">Common Cents Act</title>
   </titles>
   <sponsor bioguide_id="M001136"/>
   <cosponsors>
@@ -35,8 +37,12 @@
     <action datetime="2026-09-14T19:27:15-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
+    <action datetime="2026-09-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>

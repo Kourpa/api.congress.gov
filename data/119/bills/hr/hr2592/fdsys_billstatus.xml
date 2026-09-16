@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2592</number>
-    <updateDate>2026-09-03T08:06:44Z</updateDate>
-    <updateDateIncludingText>2026-09-03T08:06:44Z</updateDateIncludingText>
+    <updateDate>2026-09-16T08:09:23Z</updateDate>
+    <updateDateIncludingText>2026-09-16T08:09:23Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -24,6 +24,14 @@
             <name>Aviation Subcommittee</name>
             <activities>
               <item>
+                <name>Discharged from</name>
+                <date>2026-09-15T16:58:45Z</date>
+              </item>
+              <item>
+                <name>Referred to</name>
+                <date>2025-04-03T15:25:26Z</date>
+              </item>
+              <item>
                 <name>Referred to</name>
                 <date>2025-04-02T20:48:52Z</date>
               </item>
@@ -32,6 +40,10 @@
         </subcommittees>
         <activities>
           <item>
+            <name>Markup By</name>
+            <date>2026-09-15T16:58:54Z</date>
+          </item>
+          <item>
             <name>Referred To</name>
             <date>2025-04-02T22:02:15Z</date>
           </item>
@@ -39,6 +51,66 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw05</systemCode>
+            <name>Aviation Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Aviation Discharged</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2025-04-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw05</systemCode>
+            <name>Aviation Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Aviation.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-04-02</actionDate>
         <text>Referred to the House Committee on Transportation and Infrastructure.</text>
@@ -54,21 +126,6 @@
             <name>Transportation and Infrastructure Committee</name>
           </item>
         </committees>
-      </item>
-      <item>
-        <actionDate>2025-04-02</actionDate>
-        <committees>
-          <item>
-            <systemCode>hspw05</systemCode>
-            <name>Aviation Subcommittee</name>
-          </item>
-        </committees>
-        <sourceSystem>
-          <code>1</code>
-          <name>House committee actions</name>
-        </sourceSystem>
-        <text>Referred to the Subcommittee on Aviation.</text>
-        <type>Committee</type>
       </item>
       <item>
         <actionDate>2025-04-02</actionDate>
@@ -464,8 +521,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-02</actionDate>
-      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+      <actionDate>2026-09-15</actionDate>
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

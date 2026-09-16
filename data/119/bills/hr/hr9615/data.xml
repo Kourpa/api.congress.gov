@@ -1,13 +1,15 @@
-<bill session="119" type="h" number="9615" updated="2026-09-15T08:06:13Z">
-  <state datetime="2026-07-09">REFERRED</state>
+<bill session="119" type="h" number="9615" updated="2026-09-16T08:09:08Z">
+  <state datetime="2026-09-15T19:52:27-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2026-07-09"/>
+    <unknown datetime="2026-09-15T19:52:27-04:00"/>
   </status>
   <introduced datetime="2026-07-09"/>
   <titles>
-    <title type="display">BRACE Act</title>
     <title type="short" as="introduced">Battery Recycling for America&#8217;s Competitive Economy Act</title>
     <title type="short" as="introduced">BRACE Act</title>
+    <title type="short" as="reported to house">Battery Recycling for America&#8217;s Competitive Economy Act</title>
+    <title type="short" as="reported to house">BRACE Act</title>
+    <title type="display">BRACE Act</title>
     <title type="official" as="introduced">To support the recycling and recovery of lithium-ion batteries.</title>
   </titles>
   <sponsor bioguide_id="M001215"/>
@@ -38,6 +40,21 @@
     <calendar datetime="2026-09-14" calendar="Union" number="717">
       <text>Placed on the Union Calendar, Calendar No. 717.</text>
     </calendar>
+    <action datetime="2026-09-15T19:46:06-04:00">
+      <text>Mr. Guthrie moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-09-15T19:46:16-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-09-15T19:46:17-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 9615.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-09-15T19:52:27-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-09-15T19:52:31-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Referred To"/>

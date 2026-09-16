@@ -262,9 +262,41 @@
       ],
       "text": "Cloture motion on the motion to proceed to the measure presented in Senate.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-09-15",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "234",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 234.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-09-15",
+      "action_code": "",
+      "references": [],
+      "text": "Motion by Senator Tillis to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 234) entered in Senate.",
+      "type": "action"
     }
   ],
   "amendments": [
+    {
+      "amendment_id": "samdt6772-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6772"
+    },
+    {
+      "amendment_id": "samdt6771-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6771"
+    },
     {
       "amendment_id": "hamdt48-119",
       "amendment_type": "hamdt",
@@ -529,6 +561,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-07-17T15:30:31-04:00",
+    "senate_cloture_result": "fail",
+    "senate_cloture_result_at": "2026-09-15",
     "vetoed": false
   },
   "introduced_at": "2025-05-29",
@@ -564,8 +598,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-07-17T15:30:31-04:00",
+  "status": "PROV_KILL:CLOTUREFAILED",
+  "status_at": "2026-09-15",
   "subjects": [
     "Advanced technology and technological innovations",
     "Bank accounts, deposits, capital",
@@ -675,6 +709,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-07T10:56:17Z",
+  "updated_at": "2026-09-16T11:08:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3633.xml"
 }

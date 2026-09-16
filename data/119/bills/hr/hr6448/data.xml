@@ -1,13 +1,13 @@
-<bill session="119" type="h" number="6448" updated="2026-02-03T09:05:39Z">
-  <state datetime="2025-12-04">REFERRED</state>
+<bill session="119" type="h" number="6448" updated="2026-09-16T08:09:40Z">
+  <state datetime="2026-09-15">REPORTED</state>
   <status>
-    <introduced datetime="2025-12-04"/>
+    <unknown datetime="2026-09-15"/>
   </status>
   <introduced datetime="2025-12-04"/>
   <titles>
-    <title type="display">TASA Act of 2025</title>
     <title type="short" as="introduced">TASA Act of 2025</title>
     <title type="short" as="introduced">Territories Airport Support Act of 2025</title>
+    <title type="display">TASA Act of 2025</title>
     <title type="official" as="introduced">To amend section 47109 of title 49, United States Code, to update the requirements to qualify for the special rule relating to project costs for airports in economically distressed communities, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="K000404"/>
@@ -29,10 +29,19 @@
     <action datetime="2026-02-02">
       <text>Referred to the Subcommittee on Aviation.</text>
     </action>
+    <action datetime="2026-09-15">
+      <text>Subcommittee on Aviation Discharged</text>
+    </action>
+    <action datetime="2026-09-15">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-09-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
-    <committee code="HSPW05" name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Referral"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSPW05" name="House Transportation and Infrastructure" subcommittee="Aviation" activity="Discharged, Referral"/>
   </committees>
   <relatedbills/>
   <subjects>

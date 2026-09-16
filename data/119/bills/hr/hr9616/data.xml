@@ -1,13 +1,15 @@
-<bill session="119" type="h" number="9616" updated="2026-09-15T08:05:26Z">
-  <state datetime="2026-07-21">REPORTED</state>
+<bill session="119" type="h" number="9616" updated="2026-09-16T08:09:20Z">
+  <state datetime="2026-09-15T20:26:25-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-07-21"/>
+    <unknown datetime="2026-09-15T20:26:25-04:00"/>
   </status>
   <introduced datetime="2026-07-09"/>
   <titles>
-    <title type="display">EMRTAI Authorization Act of 2026</title>
     <title type="short" as="introduced">EMRTAI Authorization Act of 2026</title>
     <title type="short" as="introduced">Environmental Monitoring and Remediation Technology Assessment Initiative Authorization Act of 2026</title>
+    <title type="short" as="reported to house">EMRTAI Authorization Act of 2026</title>
+    <title type="short" as="reported to house">Environmental Monitoring and Remediation Technology Assessment Initiative Authorization Act of 2026</title>
+    <title type="display">EMRTAI Authorization Act of 2026</title>
     <title type="official" as="introduced">To establish a program for the recovery of critical materials from contaminated sites, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="P000048"/>
@@ -45,6 +47,21 @@
     <calendar datetime="2026-09-14" calendar="Union" number="720">
       <text>Placed on the Union Calendar, Calendar No. 720.</text>
     </calendar>
+    <action datetime="2026-09-15T20:19:43-04:00">
+      <text>Mr. Guthrie moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-09-15T20:19:55-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-09-15T20:19:56-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 9616.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-09-15T20:26:25-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-09-15T20:26:40-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Markup By, Referred To"/>
