@@ -48,7 +48,12 @@
     {
       "acted_at": "2026-09-14T20:20:48-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5609-5615",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered pursuant to a previous order of the House",
       "type": "action"
     },
@@ -90,7 +95,12 @@
       "acted_at": "2026-09-15T22:32:08-04:00",
       "action_code": "H37100",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5609",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "307",
       "status": "PASS_OVER:HOUSE",
@@ -361,6 +371,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-16T08:09:17Z",
+  "updated_at": "2026-09-16T16:11:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres93.xml"
 }

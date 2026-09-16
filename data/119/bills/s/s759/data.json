@@ -102,7 +102,12 @@
     {
       "acted_at": "2026-09-14T15:32:53-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5559-5560",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -117,7 +122,12 @@
       "acted_at": "2026-09-14T15:35:35-04:00",
       "action_code": "H37300",
       "how": "by voice vote",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5559",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:BILL",
       "suspension": null,
@@ -201,6 +211,7 @@
   "status": "PASSED:BILL",
   "status_at": "2026-09-14T15:35:35-04:00",
   "subjects": [
+    "Data collection, sharing, protection",
     "Geography and mapping",
     "Government information and archives",
     "Hunting and fishing",
@@ -260,6 +271,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-16T06:08:22Z",
+  "updated_at": "2026-09-16T15:58:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s759.xml"
 }

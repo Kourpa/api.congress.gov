@@ -69,7 +69,12 @@
     {
       "acted_at": "2026-09-14T19:44:08-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5605-5608",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -98,7 +103,12 @@
       "acted_at": "2026-09-15T22:03:09-04:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5605",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "302",
       "status": "PASS_OVER:HOUSE",
@@ -219,6 +229,6 @@
       "type": "short"
     }
   ],
-  "updated_at": "2026-09-16T08:09:09Z",
+  "updated_at": "2026-09-16T16:05:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8278.xml"
 }
