@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1682</number>
-    <updateDate>2026-09-08T18:09:59Z</updateDate>
-    <updateDateIncludingText>2026-09-08T18:09:59Z</updateDateIncludingText>
+    <updateDate>2026-09-17T10:56:43Z</updateDate>
+    <updateDateIncludingText>2026-09-17T10:56:43Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Hearings By (full committee)</name>
+            <date>2026-09-16T14:00:00Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-05-14T15:58:08Z</date>
@@ -51,6 +55,20 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-09-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2025-05-14</actionDate>
         <committees>
@@ -301,7 +319,7 @@
     <title>BELO’S Act</title>
     <titles>
       <item>
-        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleType>Official Title from EH (Engrossed in House) bill text</titleType>
         <titleTypeCode>259</titleTypeCode>
         <title>To amend the Federal Lands Recreation Enhancement Act to provide for lifetime National Parks and Federal Recreational Lands Passes for family members of members of the Armed Forces who lost their lives while serving their country.</title>
         <updateDate>2026-07-10T19:58:20Z</updateDate>
@@ -363,7 +381,7 @@
       <item>
         <titleType>Short Title(s) as Passed House</titleType>
         <titleTypeCode>104</titleTypeCode>
-        <title>Benefits that Endure for Lifetimes Of Service Act</title>
+        <title>BELO’S Act</title>
         <updateDate>2025-05-15T03:38:24Z</updateDate>
         <chamberCode>H</chamberCode>
         <chamberName>House</chamberName>
@@ -373,7 +391,7 @@
       <item>
         <titleType>Short Title(s) as Passed House</titleType>
         <titleTypeCode>104</titleTypeCode>
-        <title>BELO’S Act</title>
+        <title>Benefits that Endure for Lifetimes Of Service Act</title>
         <updateDate>2025-05-15T03:38:24Z</updateDate>
         <chamberCode>H</chamberCode>
         <chamberName>House</chamberName>
@@ -411,8 +429,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-05-14</actionDate>
-      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2026-09-16</actionDate>
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
