@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7365" updated="2026-08-04T15:20:25Z">
-  <state datetime="2026-07-22">REPORTED</state>
+<bill session="119" type="h" number="7365" updated="2026-09-17T08:08:16Z">
+  <state datetime="2026-09-16T14:43:18-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-07-22"/>
+    <unknown datetime="2026-09-16T14:43:18-04:00"/>
   </status>
   <introduced datetime="2026-02-04"/>
   <titles>
@@ -33,6 +33,21 @@
     </action>
     <action datetime="2026-07-22" state="REPORTED">
       <text>Ordered to be Reported by Voice Vote.</text>
+    </action>
+    <action datetime="2026-09-16T14:37:13-04:00">
+      <text>Mr. Comer moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-09-16T14:37:17-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-09-16T14:37:18-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7365.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-09-16T14:43:18-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-09-16T14:43:20-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
   </actions>
   <committees>

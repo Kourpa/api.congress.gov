@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3342" updated="2026-07-23T08:08:21Z">
-  <state datetime="2025-05-13">REFERRED</state>
+<bill session="119" type="h" number="3342" updated="2026-09-17T08:07:23Z">
+  <state datetime="2026-09-16">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-13"/>
+    <unknown datetime="2026-09-16"/>
   </status>
   <introduced datetime="2025-05-13"/>
   <titles>
@@ -31,10 +31,16 @@
     <action datetime="2025-05-13">
       <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </action>
+    <action datetime="2026-09-16">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-09-16" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 16 - 7.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>

@@ -1,14 +1,16 @@
-<bill session="119" type="h" number="7443" updated="2026-09-16T13:08:29Z">
-  <state datetime="2026-06-24">REPORTED</state>
+<bill session="119" type="h" number="7443" updated="2026-09-17T08:08:23Z">
+  <state datetime="2026-09-16T12:22:04-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-06-24"/>
+    <unknown datetime="2026-09-16T12:22:04-04:00"/>
   </status>
   <introduced datetime="2026-02-09"/>
   <titles>
     <title type="short" as="introduced">I&amp;A Mission Reorientation Act of 2026</title>
     <title type="short" as="reported to house">I&amp;A Mission Reorientation Act of 2026</title>
-    <title type="display">I&amp;A Mission Reorientation Act of 2026</title>
+    <title type="short" as="passed house">I&amp;A Mission Reorientation Act of 2026</title>
     <title type="official" as="introduced">To amend the Homeland Security Act of 2002 to realign the mission of the Office of Intelligence and Analysis of the Department of Homeland Security, and for other purposes.</title>
+    <title type="official">To amend the Homeland Security Act of 2002 to realign the mission of the Office of Intelligence and Analysis of the Department of Homeland Security, and for other purposes.</title>
+    <title type="display">I&amp;A Mission Reorientation Act of 2026</title>
   </titles>
   <sponsor bioguide_id="P000048"/>
   <cosponsors>
@@ -44,6 +46,21 @@
     <calendar datetime="2026-09-15" calendar="Union" number="727">
       <text>Placed on the Union Calendar, Calendar No. 727.</text>
     </calendar>
+    <action datetime="2026-09-16T12:12:13-04:00">
+      <text>Mr. Van Epps moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-09-16T12:12:43-04:00">
+      <text>Considered under suspension of the rules.</text>
+    </action>
+    <action datetime="2026-09-16T12:12:44-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7443.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-09-16T12:22:04-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+    </vote>
+    <action datetime="2026-09-16T12:22:13-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Reported By, Markup By, Referred To"/>

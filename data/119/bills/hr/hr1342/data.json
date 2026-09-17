@@ -27,6 +27,47 @@
       "references": [],
       "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-09-16T11:05:10-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Perry moved to suspend the rules and pass the bill.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-16T11:05:13-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-16T11:05:14-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1342.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-16T11:25:35-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-09-16T11:25:38-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -77,9 +118,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-09-16T11:05:10-04:00",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-09-16T11:25:35-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-13",
@@ -103,8 +147,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-13",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-09-16T11:25:35-04:00",
   "subjects": [
     "Emergency management"
   ],
@@ -113,18 +157,18 @@
     "as": "Introduced in House",
     "asOf": "2025-02-13",
     "date": "2025-06-10T17:04:34Z",
-    "text": ""
+    "text": "Stopping Political Discrimination in Disaster Assistance Act\n\nThis bill prohibits discrimination on the basis of political affiliation by the Federal Emergency Management Agency (FEMA) and other participating entities (i.e., public or private entities providing or receiving assistance) in carrying out federal major disaster or emergency relief and assistance activities.\n\nCurrent law requires\u00a0FEMA and other participating entities to provide federal major disaster or emergency relief and assistance without discrimination on the basis of race, color, religion, nationality, sex, age, disability, English proficiency, or economic status. The bill adds political affiliation to the classes protected under this requirement.\u00a0"
   },
   "titles": [
     {
-      "as": null,
+      "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Stopping Political Discrimination in Disaster Assistance Act",
-      "type": "display"
+      "type": "short"
     },
     {
-      "as": "introduced",
+      "as": "passed house",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Stopping Political Discrimination in Disaster Assistance Act",
@@ -136,8 +180,22 @@
       "textVersionCode": null,
       "title": "To prohibit discrimination based on political affiliation in granting disaster assistance.",
       "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To prohibit discrimination based on political affiliation in granting disaster assistance.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Stopping Political Discrimination in Disaster Assistance Act",
+      "type": "display"
     }
   ],
-  "updated_at": "2025-12-05T22:02:22Z",
+  "updated_at": "2026-09-17T04:38:39Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1342.xml"
 }

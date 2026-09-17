@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="9576" updated="2026-09-16T19:06:35Z">
-  <state datetime="2026-07-02">REFERRED</state>
+<bill session="119" type="h" number="9576" updated="2026-09-17T08:09:17Z">
+  <state datetime="2026-09-16T18:37:27-04:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2026-07-02"/>
+    <unknown datetime="2026-09-16T18:37:27-04:00"/>
   </status>
   <introduced datetime="2026-07-02"/>
   <titles>
@@ -26,6 +26,30 @@
     <action datetime="2026-09-14T20:46:32-04:00">
       <text>Rules Committee Resolution H. Res. 1530 Reported to House. Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.</text>
     </action>
+    <action datetime="2026-09-16T15:45:44-04:00">
+      <text>Considered under the provisions of rule H. Res. 1530.</text>
+    </action>
+    <action datetime="2026-09-16T15:45:49-04:00">
+      <text>Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.</text>
+    </action>
+    <action datetime="2026-09-16T15:46:33-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 9576.</text>
+    </action>
+    <action datetime="2026-09-16T16:35:19-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <action datetime="2026-09-16T16:35:32-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 9576, the Chair put the question on passage of the bill, and by voice vote announced that the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+    </action>
+    <action datetime="2026-09-16T18:28:42-04:00">
+      <text>Considered as unfinished business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="309" datetime="2026-09-16T18:37:27-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 352 - 72 (Roll no. 309).</text>
+    </vote>
+    <action datetime="2026-09-16T18:37:31-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
@@ -40,7 +64,9 @@
     <term name="Executive agency funding and structure"/>
     <term name="Fraud offenses and financial crimes"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h272"/>
+  </amendments>
   <summary date="2026-09-11T21:18:06Z" status="Introduced in House">National Fraud Enforcement Division Act of 2026
 
 This bill provides statutory authority for the National Fraud Enforcement Division within the Department of Justice (DOJ). The division investigates and prosecutes fraud against taxpayer dollars and taxpayer-funded programs.

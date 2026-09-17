@@ -38,6 +38,47 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-09-16T12:34:47-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Walberg moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-16T12:35:07-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-16T12:35:08-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 8775.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-16T12:44:22-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-09-16T12:44:24-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -63,6 +104,8 @@
     "active_at": "2026-07-21",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-09-16T12:44:22-04:00",
     "vetoed": false
   },
   "introduced_at": "2026-05-12",
@@ -79,8 +122,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-07-21",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-09-16T12:44:22-04:00",
   "subjects": [
     "Crimes against children",
     "Labor and employment",
@@ -96,11 +139,18 @@
   },
   "titles": [
     {
-      "as": null,
+      "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Ending Predator Access to Union Power Act",
-      "type": "display"
+      "type": "short"
+    },
+    {
+      "as": "passed house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Ending Predator Access to Union Power Act",
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -110,13 +160,20 @@
       "type": "official"
     },
     {
-      "as": "introduced",
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To amend the Labor-Management Reporting and Disclosure Act of 1959 to provide that individuals who have been convicted of sex offenses against minors may not serve in certain positions.",
+      "type": "official"
+    },
+    {
+      "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Ending Predator Access to Union Power Act",
-      "type": "short"
+      "type": "display"
     }
   ],
-  "updated_at": "2026-09-14T14:33:34Z",
+  "updated_at": "2026-09-17T04:38:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8775.xml"
 }

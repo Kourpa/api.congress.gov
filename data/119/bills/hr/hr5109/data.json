@@ -78,6 +78,54 @@
       "text": "Placed on the Union Calendar, Calendar No. 725.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-09-16T11:34:05-04:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Van Epps moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-16T11:34:09-04:00",
+      "action_code": "H30000",
+      "references": [],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-16T11:34:10-04:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5109.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-16T11:45:07-04:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-09-16T11:45:08-04:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-16T11:45:10-04:00",
+      "action_code": "H38800",
+      "references": [],
+      "text": "The title of the measure was amended. Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -185,14 +233,16 @@
     "active_at": "2026-06-24",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-09-16T11:45:07-04:00",
     "vetoed": false
   },
   "introduced_at": "2025-09-03",
   "number": "5109",
-  "official_title": "To require the Administrator of the Transportation Security Administration of the United States to develop guidelines to improve returning citizens' access to the Transportation Worker Identification Credential program, to assist individuals in custody of Federal, State, and local prisons in pre-applying or preparing applications for Transportation Worker Identification Credential cards, and to assist individuals requesting an appeal or waiver of preliminary determination of ineligibility, and for other purposes.",
+  "official_title": "To require the Administrator of the Transportation Security Administration to develop certain guidelines to improve access to the Transportation Worker Identification Credential program.",
   "popular_title": null,
   "related_bills": [],
-  "short_title": null,
+  "short_title": "Transportation Worker Identification Credential Efficiency Act",
   "sponsor": {
     "bioguide_id": "C001125",
     "district": "2",
@@ -201,8 +251,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-06-24",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-09-16T11:45:07-04:00",
   "subjects": [
     "Congressional oversight",
     "Correctional facilities and imprisonment",
@@ -220,20 +270,41 @@
   },
   "titles": [
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "To require the Administrator of the Transportation Security Administration of the United States to develop guidelines to improve returning citizens' access to the Transportation Worker Identification Credential program, to assist individuals in custody of Federal, State, and local prisons in pre-applying or preparing applications for Transportation Worker Identification Credential cards, and to assist individuals requesting an appeal or waiver of preliminary determination of ineligibility, and for other purposes.",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "To require the Administrator of the Transportation Security Administration of the United States to develop guidelines to improve returning citizens' access to the Transportation Worker Identification Credential program, to assist individuals in custody of Federal, State, and local prisons in pre-applying or preparing applications for Transportation Worker Identification Credential cards, and to assist individuals requesting an appeal or waiver of preliminary determination of ineligibility, and for other purposes.",
       "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To require the Administrator of the Transportation Security Administration to develop certain guidelines to improve access to the Transportation Worker Identification Credential program.",
+      "type": "official"
+    },
+    {
+      "as": "amended by house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To require the Administrator of the Transportation Security Administration to develop certain guidelines to improve access to the Transportation Worker Identification Credential program.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Transportation Worker Identification Credential Efficiency Act",
+      "type": "display"
+    },
+    {
+      "as": "passed house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Transportation Worker Identification Credential Efficiency Act",
+      "type": "short"
     }
   ],
-  "updated_at": "2026-09-16T15:14:58Z",
+  "updated_at": "2026-09-17T08:08:21Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5109.xml"
 }

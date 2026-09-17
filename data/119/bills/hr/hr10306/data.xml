@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="10306" updated="2026-09-09T14:52:45Z">
-  <state datetime="2026-09-08">REFERRED</state>
+<bill session="119" type="h" number="10306" updated="2026-09-17T08:08:03Z">
+  <state datetime="2026-09-15">REPORTED</state>
   <status>
-    <introduced datetime="2026-09-08"/>
+    <unknown datetime="2026-09-15"/>
   </status>
   <introduced datetime="2026-09-08"/>
   <titles>
@@ -18,9 +18,15 @@
     <action datetime="2026-09-08" state="REFERRED">
       <text>Referred to the House Committee on Natural Resources.</text>
     </action>
+    <action datetime="2026-09-15">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-09-15" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects/>

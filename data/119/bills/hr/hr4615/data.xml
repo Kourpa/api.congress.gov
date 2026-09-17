@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="4615" updated="2026-09-15T08:05:56Z">
-  <state datetime="2025-07-22">REFERRED</state>
+<bill session="119" type="h" number="4615" updated="2026-09-17T08:07:27Z">
+  <state datetime="2026-09-16">REPORTED</state>
   <status>
-    <introduced datetime="2025-07-22"/>
+    <unknown datetime="2026-09-16"/>
   </status>
   <introduced datetime="2025-07-22"/>
   <titles>
@@ -14,6 +14,7 @@
     <cosponsor bioguide_id="B001327" joined="2026-06-24"/>
     <cosponsor bioguide_id="C001072" joined="2025-10-28"/>
     <cosponsor bioguide_id="C001055" joined="2025-09-26"/>
+    <cosponsor bioguide_id="C001123" joined="2026-09-16"/>
     <cosponsor bioguide_id="C001119" joined="2026-07-15"/>
     <cosponsor bioguide_id="D000629" joined="2025-10-08"/>
     <cosponsor bioguide_id="D000230" joined="2026-01-06"/>
@@ -33,9 +34,15 @@
     <action datetime="2025-07-22" state="REFERRED">
       <text>Referred to the House Committee on Small Business.</text>
     </action>
+    <action datetime="2026-09-16">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-09-16" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Referred To"/>
+    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
