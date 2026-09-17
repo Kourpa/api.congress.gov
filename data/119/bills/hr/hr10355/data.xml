@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="10355" updated="2026-09-15T14:00:07Z">
-  <state datetime="2026-09-14">REFERRED</state>
+<bill session="119" type="h" number="10355" updated="2026-09-17T18:47:29Z">
+  <state datetime="2026-09-16">REPORTED</state>
   <status>
-    <introduced datetime="2026-09-14"/>
+    <unknown datetime="2026-09-16"/>
   </status>
   <introduced datetime="2026-09-14"/>
   <titles>
@@ -20,13 +20,22 @@
     <action datetime="2026-09-14" state="REFERRED">
       <text>Referred to the House Committee on Small Business.</text>
     </action>
+    <action datetime="2026-09-16">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-09-16" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 23 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Referred To"/>
+    <committee code="HSSM" name="House Small Business" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
     <term name="Commerce"/>
+    <term name="Consumer affairs"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Government lending and loan guarantees"/>
   </subjects>
   <amendments/>
 </bill>

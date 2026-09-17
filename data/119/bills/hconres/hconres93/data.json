@@ -87,7 +87,12 @@
     {
       "acted_at": "2026-09-15T22:22:09-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5826-5827",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered as unfinished business.",
       "type": "action"
     },
@@ -395,6 +400,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-17T10:56:38Z",
+  "updated_at": "2026-09-17T16:32:04Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres93.xml"
 }
