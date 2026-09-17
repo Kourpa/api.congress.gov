@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="32" updated="2026-09-15T08:05:20Z">
-  <state datetime="2026-08-31T19:11:54-04:00">PASSED:BILL</state>
+<bill session="119" type="s" number="32" updated="2026-09-17T13:59:08Z">
+  <state datetime="2026-09-16">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2026-08-31T19:11:54-04:00"/>
+    <unknown datetime="2026-09-16"/>
   </status>
   <introduced datetime="2025-01-08"/>
   <titles>
@@ -69,6 +69,9 @@
     <topresident datetime="2026-09-14">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2026-09-16" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
   </actions>
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Discharged From, Referred To"/>

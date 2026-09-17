@@ -109,7 +109,12 @@
     {
       "acted_at": "2026-09-15T17:35:09-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5656-5661",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered under suspension of the rules.",
       "type": "action"
     },
@@ -138,7 +143,12 @@
       "acted_at": "2026-09-16T18:53:48-04:00",
       "action_code": "H37300",
       "how": "roll",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5656-5657",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "roll": "312",
       "status": "PASS_OVER:HOUSE",
