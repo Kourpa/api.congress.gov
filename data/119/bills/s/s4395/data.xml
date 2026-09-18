@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="4395" updated="2026-09-16T11:03:40Z">
-  <state datetime="2026-04-27">REFERRED</state>
+<bill session="119" type="s" number="4395" updated="2026-09-18T11:04:01Z">
+  <state datetime="2026-09-17">REPORTED</state>
   <status>
-    <introduced datetime="2026-04-27"/>
+    <unknown datetime="2026-09-17"/>
   </status>
   <introduced datetime="2026-04-27"/>
   <titles>
@@ -23,6 +23,7 @@
     <cosponsor bioguide_id="C001096" joined="2026-04-27"/>
     <cosponsor bioguide_id="C000880" joined="2026-04-27"/>
     <cosponsor bioguide_id="D000618" joined="2026-08-03"/>
+    <cosponsor bioguide_id="F000463" joined="2026-09-17"/>
     <cosponsor bioguide_id="G000574" joined="2026-04-27"/>
     <cosponsor bioguide_id="G000555" joined="2026-06-04"/>
     <cosponsor bioguide_id="H000601" joined="2026-04-27"/>
@@ -30,6 +31,7 @@
     <cosponsor bioguide_id="K000384" joined="2026-09-15"/>
     <cosponsor bioguide_id="K000393" joined="2026-04-27"/>
     <cosponsor bioguide_id="K000394" joined="2026-04-27"/>
+    <cosponsor bioguide_id="K000383" joined="2026-09-17"/>
     <cosponsor bioguide_id="L000571" joined="2026-04-27"/>
     <cosponsor bioguide_id="M000934" joined="2026-07-29"/>
     <cosponsor bioguide_id="M001242" joined="2026-04-27"/>
@@ -57,9 +59,12 @@
     <action datetime="2026-04-27" state="REFERRED">
       <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
     </action>
+    <action datetime="2026-09-17" state="REPORTED">
+      <text>Committee on Banking, Housing, and Urban Affairs. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="7128" relation="unknown"/>
