@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2713" updated="2026-09-03T08:06:24Z">
-  <state datetime="2025-04-08">REFERRED</state>
+<bill session="119" type="h" number="2713" updated="2026-09-19T08:06:01Z">
+  <state datetime="2026-09-16">REPORTED</state>
   <status>
-    <introduced datetime="2025-04-08"/>
+    <unknown datetime="2026-09-16"/>
   </status>
   <introduced datetime="2025-04-08"/>
   <titles>
@@ -30,9 +30,15 @@
     <action datetime="2026-09-01">
       <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.</text>
     </action>
+    <action datetime="2026-09-16">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-09-16" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 0.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
+    <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Markup By, Referred To"/>
     <committee code="HSIF17" name="House Energy and Commerce" subcommittee="Commerce, Manufacturing, and Trade" activity="Reporting, Markup, Referral"/>
   </committees>
   <relatedbills>
@@ -40,6 +46,14 @@
   </relatedbills>
   <subjects>
     <term name="Commerce"/>
+    <term name="Civil actions and liability"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Consumer affairs"/>
+    <term name="Corporate finance and management"/>
+    <term name="Inflation and prices"/>
+    <term name="Internet, web applications, social media"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Service industries"/>
   </subjects>
   <amendments/>
   <summary date="2026-04-09T14:14:33Z" status="Introduced in House">Mitigating Automated Internet Networks for Event Ticketing Act or the MAIN Event Ticketing Act
