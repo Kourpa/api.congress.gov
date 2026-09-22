@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="10205" updated="2026-09-03T02:53:19Z">
+<bill session="119" type="h" number="10205" updated="2026-09-22T18:46:36Z">
   <state datetime="2026-09-01">REFERRED</state>
   <status>
     <introduced datetime="2026-09-01"/>
@@ -33,7 +33,13 @@
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="118" type="h" number="5113" relation="cross-congress related"/>
+    <bill session="119" type="s" number="5240" relation="identical"/>
+    <bill session="118" type="s" number="3270" relation="cross-congress related"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
   <amendments/>
 </bill>
