@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="10332" updated="2026-09-18T16:50:26Z">
+<bill session="119" type="h" number="10332" updated="2026-09-22T13:34:28Z">
   <state datetime="2026-09-10">REFERRED</state>
   <status>
     <introduced datetime="2026-09-10"/>
@@ -24,7 +24,11 @@
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="3546" relation="identical"/>
+    <bill session="117" type="s" number="2972" relation="cross-congress related"/>
+    <bill session="119" type="h" number="7045" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Science, technology, communications"/>
   </subjects>

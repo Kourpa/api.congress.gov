@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>171</number>
-    <updateDate>2025-05-02T08:06:35Z</updateDate>
-    <updateDateIncludingText>2025-05-02T08:06:35Z</updateDateIncludingText>
+    <updateDate>2026-09-22T15:27:40Z</updateDate>
+    <updateDateIncludingText>2026-09-22T15:27:40Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
     <introducedDate>2025-02-27</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/171</legislationUrl>
     <cdata/>
     <committees>
       <item>
@@ -45,8 +46,18 @@
       <item>
         <actionDate>2025-02-27</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-27</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -397,9 +408,7 @@
         <actionDate>2025-02-27</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-04-08T19:42:32Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution reaffirms that the Twenty-Second Amendment to the U.S. Constitution (1) applies to two terms in the aggregate as President of the United States, and (2) prohibits President Trump from running for another term as President.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution reaffirms that the Twenty-Second Amendment to the U.S. Constitution (1) applies to two terms in the aggregate as President of the United States, and (2) prohibits President Trump from running for another term as President.</p>]]></text>
       </summary>
     </summaries>
     <title>Reaffirming the Twenty-second Amendment.</title>
