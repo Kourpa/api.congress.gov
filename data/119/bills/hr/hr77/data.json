@@ -322,15 +322,21 @@
   "popular_title": null,
   "related_bills": [
     {
-      "bill_id": "hres122-119",
+      "bill_id": "s164-119",
       "identified_by": "House",
-      "reason": "procedurally related",
+      "reason": "related",
       "type": "bill"
     },
     {
-      "bill_id": "s164-119",
+      "bill_id": "hr115-118",
       "identified_by": "CRS",
-      "reason": "related",
+      "reason": "cross-congress related",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hres122-119",
+      "identified_by": "House",
+      "reason": "procedurally related",
       "type": "bill"
     }
   ],
@@ -403,6 +409,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-07-11T11:23:20Z",
+  "updated_at": "2026-09-22T08:05:42Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr77.xml"
 }
