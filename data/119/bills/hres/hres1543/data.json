@@ -3,7 +3,12 @@
     {
       "acted_at": "2026-09-16T14:35:45-04:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5931",
+          "type": "consideration"
+        }
+      ],
       "text": "Considered by unanimous consent.",
       "type": "action"
     },
@@ -18,7 +23,12 @@
       "acted_at": "2026-09-16T14:36:40-04:00",
       "action_code": "H37100",
       "how": "without objection",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H5931",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:SIMPLERES",
       "suspension": null,
@@ -95,6 +105,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-18T05:23:22Z",
+  "updated_at": "2026-09-23T17:30:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1543.xml"
 }

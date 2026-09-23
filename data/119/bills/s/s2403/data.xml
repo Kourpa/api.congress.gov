@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2403" updated="2026-09-23T06:53:22Z">
+<bill session="119" type="s" number="2403" updated="2026-09-23T16:59:41Z">
   <state datetime="2026-09-16T19:05:16-04:00">PASSED:BILL</state>
   <status>
     <unknown datetime="2026-09-16T19:05:16-04:00"/>
@@ -51,6 +51,7 @@
     </action>
     <action datetime="2026-09-16T12:23:40-04:00">
       <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5905-5906" label="consideration"/>
     </action>
     <action datetime="2026-09-16T12:23:41-04:00">
       <text>DEBATE - The House proceeded with forty minutes of debate on S. 2403.</text>
@@ -60,9 +61,11 @@
     </action>
     <action datetime="2026-09-16T18:59:01-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H5960" label="consideration"/>
     </action>
     <vote how="roll" type="vote2" roll="314" datetime="2026-09-16T19:05:16-04:00" where="h" result="pass" suspension="1" state="PASSED:BILL">
       <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 14 (Roll no. 314).</text>
+      <reference ref="CR H5905" label="text"/>
     </vote>
     <action datetime="2026-09-16T19:05:18-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

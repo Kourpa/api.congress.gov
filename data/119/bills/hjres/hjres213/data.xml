@@ -1,4 +1,4 @@
-<bill session="119" type="hj" number="213" updated="2026-09-18T10:56:27Z">
+<bill session="119" type="hj" number="213" updated="2026-09-23T16:26:36Z">
   <state datetime="2026-09-16T18:50:06-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-09-16T18:50:06-04:00"/>
@@ -32,6 +32,7 @@
     </action>
     <action datetime="2026-09-16T17:27:24-04:00">
       <text>Considered under the provisions of rule H. Res. 1530.</text>
+      <reference ref="CR H5953-5956" label="consideration"/>
     </action>
     <action datetime="2026-09-16T17:27:29-04:00">
       <text>Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.</text>
@@ -47,9 +48,11 @@
     </action>
     <action datetime="2026-09-16T18:44:17-04:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H5958" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="311" datetime="2026-09-16T18:50:06-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
       <text>On passage Passed by the Yeas and Nays: 214 - 208 (Roll no. 311).</text>
+      <reference ref="CR H5953" label="text"/>
     </vote>
     <action datetime="2026-09-16T18:50:09-04:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
