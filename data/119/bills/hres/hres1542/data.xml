@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="1542" updated="2026-09-17T08:08:15Z">
+<bill session="119" type="hr" number="1542" updated="2026-09-22T22:26:36Z">
   <state datetime="2026-09-15">REFERRED</state>
   <status>
     <introduced datetime="2026-09-15"/>
@@ -66,7 +66,11 @@
     <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="sr" number="854" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
   <amendments/>
 </bill>
