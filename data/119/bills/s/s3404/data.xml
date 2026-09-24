@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="3404" updated="2026-09-24T05:08:19Z">
-  <state datetime="2026-04-14">REPORTED</state>
+<bill session="119" type="s" number="3404" updated="2026-09-24T16:04:13Z">
+  <state datetime="2026-09-23">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-04-14"/>
+    <unknown datetime="2026-09-23"/>
   </status>
   <introduced datetime="2025-12-09"/>
   <titles>
+    <title type="display">Satellite Cybersecurity Act of 2025</title>
     <title type="short" as="introduced">Satellite Cybersecurity Act of 2025</title>
     <title type="short" as="reported to senate">Satellite Cybersecurity Act of 2025</title>
     <title type="short" as="passed senate">Satellite Cybersecurity Act of 2025</title>
-    <title type="display">Satellite Cybersecurity Act of 2025</title>
     <title type="official" as="introduced">A bill to require a report on Federal support to the cybersecurity of commercial satellite systems, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="P000595"/>
@@ -31,6 +31,11 @@
     <calendar datetime="2026-09-14" calendar="Senate Legislative" under="General Orders" number="560">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-09-23" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S4956-4958" label="consideration"/>
+      <reference ref="CR S4957-4958" label="text of amendment in the nature of a substitute"/>
+    </vote>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>

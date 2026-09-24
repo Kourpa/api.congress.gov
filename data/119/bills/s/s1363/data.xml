@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="1363" updated="2026-09-24T05:08:19Z">
-  <state datetime="2025-12-17">REPORTED</state>
+<bill session="119" type="s" number="1363" updated="2026-09-24T15:42:41Z">
+  <state datetime="2026-09-23">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-12-17"/>
+    <unknown datetime="2026-09-23"/>
   </status>
   <introduced datetime="2025-04-09"/>
   <titles>
+    <title type="display">New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act</title>
     <title type="short" as="introduced">New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act</title>
     <title type="short" as="reported to senate">New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act</title>
     <title type="short" as="passed senate">New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act</title>
-    <title type="display">New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act</title>
     <title type="official" as="introduced">A bill to provide for greater cooperation and coordination between the Federal Government and the governing bodies and community users of land grant-mercedes in New Mexico relating to historical or traditional uses of certain land grant-mercedes on Federal public land, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="L000570"/>
@@ -32,6 +32,11 @@
     <calendar datetime="2026-07-23" calendar="Senate Legislative" under="General Orders" number="476">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 476.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-09-23" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S4898-4901" label="consideration"/>
+      <reference ref="CR S4898-4901" label="text"/>
+    </vote>
   </actions>
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
