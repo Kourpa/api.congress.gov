@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>10260</number>
-    <updateDate>2026-09-22T18:20:44Z</updateDate>
-    <updateDateIncludingText>2026-09-22T18:20:44Z</updateDateIncludingText>
+    <updateDate>2026-09-24T08:05:25Z</updateDate>
+    <updateDateIncludingText>2026-09-24T08:05:25Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,6 +14,30 @@
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 140 (Thursday, September 3, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. FINSTAD:H.R. 10260.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H5510]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
+        <systemCode>hsvr00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-09-10T17:18:19Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-09-03T13:00:05Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsas00</systemCode>
         <name>Armed Services Committee</name>
         <chamber>House</chamber>
@@ -22,18 +46,6 @@
           <item>
             <name>Referred To</name>
             <date>2026-09-03T13:00:10Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hsvr00</systemCode>
-        <name>Veterans' Affairs Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2026-09-03T13:00:05Z</date>
           </item>
         </activities>
       </item>
@@ -57,6 +69,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-09-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr10</systemCode>
+            <name>Economic Opportunity Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-09-03</actionDate>
         <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
@@ -183,8 +210,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-09-03</actionDate>
-      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      <actionDate>2026-09-10</actionDate>
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

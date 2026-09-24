@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="5354" updated="2026-09-17T11:03:29Z">
-  <state datetime="2026-08-06">REFERRED</state>
+<bill session="119" type="s" number="5354" updated="2026-09-24T11:03:22Z">
+  <state datetime="2026-09-23">REPORTED</state>
   <status>
-    <introduced datetime="2026-08-06"/>
+    <unknown datetime="2026-09-23"/>
   </status>
   <introduced datetime="2026-08-06"/>
   <titles>
@@ -11,11 +11,13 @@
   </titles>
   <sponsor bioguide_id="M001153"/>
   <cosponsors>
+    <cosponsor bioguide_id="C001113" joined="2026-09-23"/>
     <cosponsor bioguide_id="C000880" joined="2026-08-06"/>
     <cosponsor bioguide_id="D000618" joined="2026-08-06"/>
     <cosponsor bioguide_id="H001042" joined="2026-08-06"/>
     <cosponsor bioguide_id="L000570" joined="2026-08-06"/>
     <cosponsor bioguide_id="S001194" joined="2026-08-06"/>
+    <cosponsor bioguide_id="S001203" joined="2026-09-23"/>
     <cosponsor bioguide_id="S001198" joined="2026-08-06"/>
   </cosponsors>
   <actions>
@@ -28,9 +30,12 @@
     <action datetime="2026-09-16">
       <text>Committee on Indian Affairs. Hearings held.</text>
     </action>
+    <action datetime="2026-09-23" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported with an amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SLIA" name="Senate Indian Affairs" subcommittee="" activity="Hearings By (Full Committee), Referred To"/>
+    <committee code="SLIA" name="Senate Indian Affairs" subcommittee="" activity="Markup By, Hearings By (Full Committee), Referred To"/>
   </committees>
   <relatedbills/>
   <subjects>
