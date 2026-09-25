@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>113</number>
-    <updateDate>2025-06-07T01:17:11Z</updateDate>
-    <updateDateIncludingText>2025-06-07T01:17:11Z</updateDateIncludingText>
+    <updateDate>2026-09-25T17:24:56Z</updateDate>
+    <updateDateIncludingText>2026-09-25T17:24:56Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
     <introducedDate>2025-02-05</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/113</legislationUrl>
     <cdata/>
     <committees>
       <item>
@@ -96,8 +97,18 @@
       <item>
         <actionDate>2025-02-05</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-05</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -158,9 +169,7 @@
         <actionDate>2025-02-05</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-06-07T01:16:11Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution directs the Department of Homeland Security (DHS) to transmit to the House of Representatives documentation relating to the security of DHS information and the recruitment and retention of the DHS workforce, particularly relating to Department of Government Efficiency and Office of Personnel Management access to DHS data.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution directs the Department of Homeland Security (DHS) to transmit to the House of Representatives documentation relating to the security of DHS information and the recruitment and retention of the DHS workforce, particularly relating to Department of Government Efficiency and Office of Personnel Management access to DHS data.</p>]]></text>
       </summary>
     </summaries>
     <title>Directing the Secretary of Homeland Security to transmit to the House of Representatives certain documents relating to Department of Homeland Security policies and activities related to the security of Department information and data and the recruitment and retention of its workforce.</title>

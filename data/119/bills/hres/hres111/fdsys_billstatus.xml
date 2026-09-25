@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>111</number>
-    <updateDate>2025-07-28T15:31:52Z</updateDate>
-    <updateDateIncludingText>2025-07-28T15:31:52Z</updateDateIncludingText>
+    <updateDate>2026-09-25T17:29:44Z</updateDate>
+    <updateDateIncludingText>2026-09-25T17:29:44Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
     <introducedDate>2025-02-05</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/111</legislationUrl>
     <cdata/>
     <committees>
       <item>
@@ -101,8 +102,18 @@
       <item>
         <actionDate>2025-02-05</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-05</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -172,9 +183,7 @@
         <actionDate>2025-02-05</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-07-28T15:31:39Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution expresses the sense that the United States should strive to be a global leader in the development and adoption of digital assets and blockchain technology.&amp;nbsp;&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution expresses the sense that the United States should strive to be a global leader in the development and adoption of digital assets and blockchain technology.&nbsp;</p>]]></text>
       </summary>
     </summaries>
     <title>Expressing support for blockchain technology and digital assets.</title>

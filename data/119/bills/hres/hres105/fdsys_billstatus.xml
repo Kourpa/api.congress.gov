@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>105</number>
-    <updateDate>2025-12-12T21:23:53Z</updateDate>
-    <updateDateIncludingText>2025-12-12T21:23:53Z</updateDateIncludingText>
+    <updateDate>2026-09-25T17:42:10Z</updateDate>
+    <updateDateIncludingText>2026-09-25T17:42:10Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -80,8 +80,18 @@
       <item>
         <actionDate>2025-02-04</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-04</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -152,9 +162,7 @@
         <actionDate>2025-02-04</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-04-03T21:18:52Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution affirms that Iran's pursuit of nuclear weapons is a credible threat to the United States and an existential threat to Israel and other allies and partners in the Middle East.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The resolution also (1) demands that Iran cease engaging in activities such as enriching uranium and developing a nuclear warhead, and (2) asserts that all options should be considered to address the nuclear threat posed by Iran.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution affirms that Iran's pursuit of nuclear weapons is a credible threat to the United States and an existential threat to Israel and other allies and partners in the Middle East.&nbsp;</p><p>The resolution also (1) demands that Iran cease engaging in activities such as enriching uranium and developing a nuclear warhead, and (2) asserts that all options should be considered to address the nuclear threat posed by Iran.</p>]]></text>
       </summary>
     </summaries>
     <title>Affirming the threats to world stability from a nuclear weapons-capable Islamic Republic of Iran.</title>

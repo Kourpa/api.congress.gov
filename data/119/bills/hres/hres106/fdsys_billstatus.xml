@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>106</number>
-    <updateDate>2025-12-12T21:25:59Z</updateDate>
-    <updateDateIncludingText>2025-12-12T21:25:59Z</updateDateIncludingText>
+    <updateDate>2026-09-25T17:40:36Z</updateDate>
+    <updateDateIncludingText>2026-09-25T17:40:36Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -46,8 +46,18 @@
       <item>
         <actionDate>2025-02-04</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-04</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -265,9 +275,7 @@
         <actionDate>2025-02-04</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-03-07T16:06:26Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution states that the United Nations Security Council should immediately impose an arms embargo against the military of Burma (Myanmar) and hold it accountable for its ongoing violations of human rights.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution states that the United Nations Security Council should immediately impose an arms embargo against the military of Burma (Myanmar) and hold it accountable for its ongoing violations of human rights.</p>]]></text>
       </summary>
     </summaries>
     <title>Expressing the sense of the House of Representatives that the United Nations Security Council should immediately impose an arms embargo against the military of Burma.</title>

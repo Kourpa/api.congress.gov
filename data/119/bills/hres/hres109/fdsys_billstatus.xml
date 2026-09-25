@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>109</number>
-    <updateDate>2025-04-30T20:12:02Z</updateDate>
-    <updateDateIncludingText>2025-04-30T20:12:02Z</updateDateIncludingText>
+    <updateDate>2026-09-25T17:39:01Z</updateDate>
+    <updateDateIncludingText>2026-09-25T17:39:01Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
     <introducedDate>2025-02-05</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/109</legislationUrl>
     <cdata/>
     <committees>
       <item>
@@ -45,8 +46,18 @@
       <item>
         <actionDate>2025-02-05</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-05</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -104,9 +115,7 @@
         <actionDate>2025-02-05</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-04-30T20:11:27Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution provides amounts for the expenses of the House Committee on Ways and Means for the 119th Congress.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution provides amounts for the expenses of the House Committee on Ways and Means for the 119th Congress.</p>]]></text>
       </summary>
     </summaries>
     <title>Providing amounts for the expenses of the Committee on Ways and Means in the One Hundred Nineteenth Congress.</title>

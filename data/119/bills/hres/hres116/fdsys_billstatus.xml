@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>116</number>
-    <updateDate>2026-01-15T09:06:53Z</updateDate>
-    <updateDateIncludingText>2026-01-15T09:06:53Z</updateDateIncludingText>
+    <updateDate>2026-09-25T17:20:23Z</updateDate>
+    <updateDateIncludingText>2026-09-25T17:20:23Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -64,8 +64,18 @@
       <item>
         <actionDate>2025-02-05</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-05</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -1694,9 +1704,7 @@
         <actionDate>2025-02-05</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-05-22T16:09:31Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution disapproves of pardons for individuals who were found guilty of assaulting U.S. Capitol Police officers.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution disapproves of pardons for individuals who were found guilty of assaulting U.S. Capitol Police officers.</p>]]></text>
       </summary>
     </summaries>
     <title>Condemning the pardons for individuals who were found guilty of assaulting Capitol Police Officers.</title>
