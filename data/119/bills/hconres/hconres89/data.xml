@@ -1,7 +1,7 @@
-<bill session="119" type="hc" number="89" updated="2026-09-19T23:22:02Z">
-  <state datetime="2026-07-23T10:25:10-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="hc" number="89" updated="2026-09-25T10:56:56Z">
+  <state datetime="2026-09-24">FAIL:SECOND:SENATE</state>
   <status>
-    <unknown datetime="2026-07-23T10:25:10-04:00"/>
+    <unknown datetime="2026-09-24"/>
   </status>
   <introduced datetime="2026-04-23"/>
   <titles>
@@ -71,9 +71,18 @@
     <action datetime="2026-07-23">
       <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
     </action>
+    <action datetime="2026-09-24">
+      <text>Senate Committee on Foreign Relations discharged, under the order of 8/8/26.</text>
+    </action>
+    <action datetime="2026-09-24">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="244" datetime="2026-09-24" where="s" result="fail" state="FAIL:SECOND:SENATE">
+      <text>Failed of passage in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 244.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Referred To"/>
+    <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>

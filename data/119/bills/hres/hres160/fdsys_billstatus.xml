@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>160</number>
-    <updateDate>2026-02-18T16:19:02Z</updateDate>
-    <updateDateIncludingText>2026-02-18T16:19:02Z</updateDateIncludingText>
+    <updateDate>2026-09-25T14:55:48Z</updateDate>
+    <updateDateIncludingText>2026-09-25T14:55:48Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -96,8 +96,18 @@
       <item>
         <actionDate>2025-02-24</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-24</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -522,9 +532,7 @@
         <actionDate>2025-02-24</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-03-31T20:46:16Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution recognizes National Mentoring Month.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution recognizes National Mentoring Month.</p>]]></text>
       </summary>
     </summaries>
     <title>Recognizing January 2025 as "National Mentoring Month".</title>

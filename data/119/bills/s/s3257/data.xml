@@ -1,19 +1,21 @@
-<bill session="119" type="s" number="3257" updated="2026-09-25T02:53:18Z">
-  <state datetime="2026-04-14">REPORTED</state>
+<bill session="119" type="s" number="3257" updated="2026-09-25T13:36:13Z">
+  <state datetime="2026-09-24">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-04-14"/>
+    <unknown datetime="2026-09-24"/>
   </status>
   <introduced datetime="2025-11-20"/>
   <titles>
+    <title type="display">John A. Hauser Mental Health in Aviation Act</title>
     <title type="short" as="introduced">Mental Health in Aviation Act of 2025</title>
     <title type="short" as="reported to senate">John A. Hauser Mental Health in Aviation Act</title>
     <title type="short" as="passed senate">John A. Hauser Mental Health in Aviation Act</title>
-    <title type="display">John A. Hauser Mental Health in Aviation Act</title>
     <title type="official" as="introduced">A bill to require the Administrator of the Federal Aviation Administration to revise regulations for certain individuals carrying out aviation activities who disclose a mental health diagnosis or condition, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="H001061"/>
   <cosponsors>
     <cosponsor bioguide_id="B001230" joined="2026-01-06"/>
+    <cosponsor bioguide_id="B001267" joined="2026-09-24"/>
+    <cosponsor bioguide_id="B001288" joined="2026-09-24"/>
     <cosponsor bioguide_id="B001319" joined="2025-11-20"/>
     <cosponsor bioguide_id="C001075" joined="2026-06-15"/>
     <cosponsor bioguide_id="C001088" joined="2026-03-23"/>
@@ -27,6 +29,7 @@
     <cosponsor bioguide_id="H001046" joined="2025-12-04"/>
     <cosponsor bioguide_id="H000273" joined="2025-11-20"/>
     <cosponsor bioguide_id="H001079" joined="2026-03-03"/>
+    <cosponsor bioguide_id="K000377" joined="2026-09-24"/>
     <cosponsor bioguide_id="K000393" joined="2026-02-09"/>
     <cosponsor bioguide_id="K000394" joined="2025-11-20"/>
     <cosponsor bioguide_id="K000367" joined="2025-11-20"/>
@@ -37,6 +40,7 @@
     <cosponsor bioguide_id="R000122" joined="2025-11-20"/>
     <cosponsor bioguide_id="R000584" joined="2025-12-01"/>
     <cosponsor bioguide_id="R000605" joined="2026-03-17"/>
+    <cosponsor bioguide_id="S001150" joined="2026-09-24"/>
     <cosponsor bioguide_id="S001181" joined="2026-03-03"/>
     <cosponsor bioguide_id="S001208" joined="2026-06-15"/>
     <cosponsor bioguide_id="S001198" joined="2026-01-06"/>
@@ -59,6 +63,15 @@
     <calendar datetime="2026-09-14" calendar="Senate Legislative" under="General Orders" number="558">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.</text>
     </calendar>
+    <action datetime="2026-09-24">
+      <text>The committee substitute withdrawn by Unanimous Consent.</text>
+    </action>
+    <action datetime="2026-09-24">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-09-24" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To, Referred To"/>
@@ -78,5 +91,7 @@
     <term name="Transportation employees"/>
     <term name="Transportation safety and security"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s6834"/>
+  </amendments>
 </bill>

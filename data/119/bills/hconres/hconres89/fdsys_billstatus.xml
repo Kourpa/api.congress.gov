@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>89</number>
-    <updateDate>2026-09-19T23:22:02Z</updateDate>
-    <updateDateIncludingText>2026-09-19T23:22:02Z</updateDateIncludingText>
+    <updateDate>2026-09-25T10:56:56Z</updateDate>
+    <updateDateIncludingText>2026-09-25T10:56:56Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
@@ -19,6 +19,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-09-24T17:18:33Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2026-07-23T19:02:15Z</date>
@@ -303,6 +307,82 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-09-24</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Failed of passage in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 244.</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>244</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00244.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-09-24T18:41:06Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-09-24</actionDate>
+        <text>Failed of passage/not agreed to in Senate: Failed of passage in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 244.</text>
+        <type>Floor</type>
+        <actionCode>18000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>244</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00244.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-09-24T18:41:06Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-09-24</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-09-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Foreign Relations discharged, under the order of 8/8/26.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2026-09-24</actionDate>
+        <text>Senate Committee on Foreign Relations discharged, under the order of 8/8/26.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-07-23</actionDate>
         <committees>
@@ -799,8 +879,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-07-23</actionDate>
-      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+      <actionDate>2026-09-24</actionDate>
+      <text>Failed of passage in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 244.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

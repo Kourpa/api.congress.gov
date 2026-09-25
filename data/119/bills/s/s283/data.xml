@@ -1,16 +1,16 @@
-<bill session="119" type="s" number="283" updated="2026-09-25T02:53:18Z">
-  <state datetime="2026-09-14T15:31:25-04:00">PASS_BACK:HOUSE</state>
+<bill session="119" type="s" number="283" updated="2026-09-25T13:12:05Z">
+  <state datetime="2026-09-24">PASSED:BILL</state>
   <status>
-    <unknown datetime="2026-09-14T15:31:25-04:00"/>
+    <unknown datetime="2026-09-24"/>
   </status>
   <introduced datetime="2025-01-28"/>
   <titles>
+    <title type="display">Illegal Red Snapper and Tuna Enforcement Act</title>
     <title type="short" as="introduced">Illegal Red Snapper and Tuna Enforcement Act</title>
     <title type="short" as="reported to senate">Illegal Red Snapper and Tuna Enforcement Act</title>
     <title type="short" as="passed senate">Illegal Red Snapper and Tuna Enforcement Act</title>
     <title type="short">Illegal Red Snapper and Tuna Enforcement Act</title>
     <title type="short">Illegal Red Snapper and Tuna Enforcement Act</title>
-    <title type="display">Illegal Red Snapper and Tuna Enforcement Act</title>
     <title type="official" as="introduced">A bill to require the Under Secretary of Commerce for Standards and Technology and the Administrator of National Oceanic and Atmospheric Administration to develop a standard methodology for identifying the country of origin of seafood to support enforcement against illegal, unreported, and unregulated fishing, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001098"/>
@@ -70,6 +70,9 @@
     <action datetime="2026-09-15">
       <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
     </action>
+    <vote how="by Unanimous Consent" type="pingpong" datetime="2026-09-24" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment to S. 283 by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>

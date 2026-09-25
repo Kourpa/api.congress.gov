@@ -49,9 +49,42 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-09-24",
+      "action_code": "",
+      "references": [],
+      "text": "The committee substitute withdrawn by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-24",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-24",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt6834-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6834"
+    }
+  ],
   "bill_id": "s3257-119",
   "bill_type": "s",
   "by_request": false,
@@ -77,6 +110,26 @@
       "original_cosponsor": false,
       "sponsored_at": "2026-01-06",
       "state": "WI",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "B001267",
+      "district": null,
+      "name": "Bennet, Michael F.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-09-24",
+      "state": "CO",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "B001288",
+      "district": null,
+      "name": "Booker, Cory A.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-09-24",
+      "state": "NJ",
       "title": "Sen.",
       "withdrawn_at": null
     },
@@ -211,6 +264,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "K000377",
+      "district": null,
+      "name": "Kelly, Mark",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-09-24",
+      "state": "AZ",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "K000393",
       "district": null,
       "name": "Kennedy, John",
@@ -311,6 +374,16 @@
       "withdrawn_at": null
     },
     {
+      "bioguide_id": "S001150",
+      "district": null,
+      "name": "Schiff, Adam B.",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-09-24",
+      "state": "CA",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
       "bioguide_id": "S001181",
       "district": null,
       "name": "Shaheen, Jeanne",
@@ -367,6 +440,8 @@
     "active_at": "2026-04-14",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-09-24",
     "vetoed": false
   },
   "introduced_at": "2025-11-20",
@@ -383,8 +458,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-04-14",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-09-24",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Aviation and airports",
@@ -402,6 +477,13 @@
   "subjects_top_term": "Transportation and public works",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "John A. Hauser Mental Health in Aviation Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -424,13 +506,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "John A. Hauser Mental Health in Aviation Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -438,6 +513,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-25T02:53:18Z",
+  "updated_at": "2026-09-25T13:36:13Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3257.xml"
 }

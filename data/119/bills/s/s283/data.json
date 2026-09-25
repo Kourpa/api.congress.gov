@@ -149,6 +149,18 @@
       "references": [],
       "text": "Message on House action received in Senate and at desk: House amendment to Senate bill.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-09-24",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Senate agreed to the House amendment to S. 283 by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "pingpong",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -221,7 +233,7 @@
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-09-14T15:31:25-04:00",
     "senate_passage_result": "pass",
-    "senate_passage_result_at": "2025-07-14",
+    "senate_passage_result_at": "2026-09-24",
     "vetoed": false
   },
   "introduced_at": "2025-01-28",
@@ -238,8 +250,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASS_BACK:HOUSE",
-  "status_at": "2026-09-14T15:31:25-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2026-09-24",
   "subjects": [
     "Congressional oversight",
     "Fishes",
@@ -256,6 +268,13 @@
     "text": "Illegal Red Snapper and Tuna Enforcement Act\n\nThis bill directs the National Oceanic and Atmospheric Administration (NOAA) and the National Institute of Standards and Technology (NIST) to jointly develop a standard methodology for identifying the country of origin of seafood to support enforcement against illegal, unreported, and unregulated fishing (IUU fishing). It also authorizes technical assistance to other countries\u00a0to help combat IUU fishing and transnational organized crime.\u00a0\n\nNOAA and NIST must consult with U.S. Customs and Border Protection and the Coast Guard in developing the methodology, which must use chemical analysis to identify the country of origin of seafood. The methodology must be consistent with the needs of federal and state law enforcement agencies in combating IUU fishing. The methodology must also include a portable field kit and, to the extent practicable, be appropriate for testing prepared food (including raw preparations of seafood such as sushi). The agencies must conduct\u00a0pilot studies of the methodology on red snapper and tuna.\n\nWithin two\u00a0years after the bill's enactment, NIST must report to Congress regarding the methodology\u00a0and a plan for operationalizing it. The report must explain any aspects of its\u00a0methodology\u00a0that are impracticable,\u00a0whether additional research would make the methodology practicable, and whether an alternate approach might be practicable.\u00a0\n\nThe bill also authorizes the Department of Defense to use operation and maintenance funds to provide technical assistance\u00a0to maritime forces of other countries to help combat IUU fishing and transnational organized crime (e.g., by providing observers or data analysis)."
   },
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Illegal Red Snapper and Tuna Enforcement Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -292,13 +311,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Illegal Red Snapper and Tuna Enforcement Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -306,6 +318,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-25T02:53:18Z",
+  "updated_at": "2026-09-25T13:12:05Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s283.xml"
 }
