@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>143</number>
-    <updateDate>2025-07-30T21:02:20Z</updateDate>
-    <updateDateIncludingText>2025-07-30T21:02:20Z</updateDateIncludingText>
+    <updateDate>2026-09-25T15:47:48Z</updateDate>
+    <updateDateIncludingText>2026-09-25T15:47:48Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
     <introducedDate>2025-02-18</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/143</legislationUrl>
     <cdata/>
     <committees>
       <item>
@@ -45,8 +46,18 @@
       <item>
         <actionDate>2025-02-18</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-18</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -95,9 +106,7 @@
         <actionDate>2025-02-18</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-07-30T21:01:04Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution impeaches Paul Engelmayer, a U.S. District Judge for the Southern District of New York, for high crimes and misdemeanors.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution impeaches Paul Engelmayer, a U.S. District Judge for the Southern District of New York, for high crimes and misdemeanors.</p>]]></text>
       </summary>
     </summaries>
     <title>Impeaching Paul Engelmayer, judge of the United States District Court for the Southern District of New York, for high crimes and misdemeanors.</title>

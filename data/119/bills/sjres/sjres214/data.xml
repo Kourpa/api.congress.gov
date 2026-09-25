@@ -1,4 +1,4 @@
-<bill session="119" type="sj" number="214" updated="2026-09-18T05:34:54Z">
+<bill session="119" type="sj" number="214" updated="2026-09-25T15:09:36Z">
   <state datetime="2026-09-15">REFERRED</state>
   <status>
     <introduced datetime="2026-09-15"/>
@@ -34,7 +34,15 @@
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="117" type="sj" number="21" relation="cross-congress related"/>
+    <bill session="117" type="hj" number="53" relation="cross-congress related"/>
+    <bill session="118" type="sj" number="33" relation="cross-congress related"/>
+    <bill session="118" type="hj" number="72" relation="cross-congress related"/>
+    <bill session="119" type="hj" number="216" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+  </subjects>
   <amendments/>
 </bill>

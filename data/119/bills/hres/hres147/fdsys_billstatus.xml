@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>147</number>
-    <updateDate>2025-10-07T08:05:22Z</updateDate>
-    <updateDateIncludingText>2025-10-07T08:05:22Z</updateDateIncludingText>
+    <updateDate>2026-09-25T15:38:30Z</updateDate>
+    <updateDateIncludingText>2026-09-25T15:38:30Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -74,8 +74,18 @@
       <item>
         <actionDate>2025-02-21</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-21</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -156,9 +166,7 @@
         <actionDate>2025-02-21</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-03-31T20:42:11Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution supports the designation of a National For the Inspiration and Recognition of Science and Technology (FIRST) Robotics Day and its celebration around the United States.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution supports the designation of a National For the Inspiration and Recognition of Science and Technology (FIRST) Robotics Day and its celebration around the United States.</p>]]></text>
       </summary>
     </summaries>
     <title>Expressing support for designation of the third Friday of every March, as "National FIRST Robotics Day".</title>
