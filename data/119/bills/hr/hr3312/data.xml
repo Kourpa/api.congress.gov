@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="3312" updated="2026-09-28T16:04:08Z">
+<bill session="119" type="h" number="3312" updated="2026-09-28T19:45:53Z">
   <state datetime="2025-05-08">REFERRED</state>
   <status>
     <introduced datetime="2025-05-08"/>
@@ -48,7 +48,10 @@
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="h" number="5788" relation="cross-congress related"/>
+    <bill session="118" type="h" number="8140" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Crime and law enforcement"/>
   </subjects>
