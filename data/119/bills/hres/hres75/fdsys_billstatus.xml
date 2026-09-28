@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>75</number>
-    <updateDate>2025-10-01T08:05:21Z</updateDate>
-    <updateDateIncludingText>2025-10-01T08:05:21Z</updateDateIncludingText>
+    <updateDate>2026-09-28T16:02:23Z</updateDate>
+    <updateDateIncludingText>2026-09-28T16:02:23Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -46,8 +46,18 @@
       <item>
         <actionDate>2025-01-28</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-01-28</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -662,9 +672,7 @@
         <actionDate>2025-01-28</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-07-12T20:46:03Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution recognizes the cultural and historical significance of the Lunar New Year.&lt;/p&gt;&lt;p&gt;The resolution expresses, in observance of this Lunar New Year, the Year of the Snake, the deepest respect of the House of Representatives for Asian Americans and all individuals throughout the world who celebrate this significant occasion.&lt;/p&gt;&lt;p&gt;The resolution wishes Asian Americans and all individuals who observe this holiday a happy and prosperous new year.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution recognizes the cultural and historical significance of the Lunar New Year.</p><p>The resolution expresses, in observance of this Lunar New Year, the Year of the Snake, the deepest respect of the House of Representatives for Asian Americans and all individuals throughout the world who celebrate this significant occasion.</p><p>The resolution wishes Asian Americans and all individuals who observe this holiday a happy and prosperous new year.</p>]]></text>
       </summary>
     </summaries>
     <title>Recognizing the cultural and historical significance of Lunar New Year in 2025.</title>

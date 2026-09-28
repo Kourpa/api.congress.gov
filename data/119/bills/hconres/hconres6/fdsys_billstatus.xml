@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>6</number>
-    <updateDate>2025-03-25T17:52:02Z</updateDate>
-    <updateDateIncludingText>2025-03-25T17:52:02Z</updateDateIncludingText>
+    <updateDate>2026-09-28T15:53:37Z</updateDate>
+    <updateDateIncludingText>2026-09-28T15:53:37Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HCONRES</type>
     <introducedDate>2025-01-28</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/6</legislationUrl>
     <cdata/>
     <committees>
       <item>
@@ -45,8 +46,18 @@
       <item>
         <actionDate>2025-01-28</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-01-28</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -94,9 +105,7 @@
         <actionDate>2025-01-28</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-03-11T21:20:10Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;&lt;strong&gt;Majority Rule Resolution&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This concurrent resolution provides that the House of Representatives and the Senate may not require more than a simple majority of those voting, a quorum being present, in order to bring debate to a close in such chamber.&lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p><strong>Majority Rule Resolution</strong></p><p>This concurrent resolution provides that the House of Representatives and the Senate may not require more than a simple majority of those voting, a quorum being present, in order to bring debate to a close in such chamber.</p>]]></text>
       </summary>
     </summaries>
     <title>Majority Rule Resolution</title>

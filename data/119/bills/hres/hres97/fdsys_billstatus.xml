@@ -3,13 +3,14 @@
   <version>3.0.0</version>
   <bill>
     <number>97</number>
-    <updateDate>2025-05-01T19:35:43Z</updateDate>
-    <updateDateIncludingText>2025-05-01T19:35:43Z</updateDateIncludingText>
+    <updateDate>2026-09-28T15:18:48Z</updateDate>
+    <updateDateIncludingText>2026-09-28T15:18:48Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
     <introducedDate>2025-02-04</introducedDate>
     <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/97</legislationUrl>
     <cdata/>
     <committees>
       <item>
@@ -63,8 +64,18 @@
       <item>
         <actionDate>2025-02-04</actionDate>
         <text>Submitted in House</text>
-        <type>Committee</type>
-        <actionCode>H12100</actionCode>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2025-02-04</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
         <sourceSystem>
           <code>9</code>
           <name>Library of Congress</name>
@@ -116,9 +127,7 @@
         <actionDate>2025-02-04</actionDate>
         <actionDesc>Introduced in House</actionDesc>
         <updateDate>2025-03-07T18:11:54Z</updateDate>
-        <cdata>
-          <text>&lt;p&gt;This resolution supports the designation of National Tribal Colleges and Universities Week. &lt;/p&gt;</text>
-        </cdata>
+        <text><![CDATA[<p>This resolution supports the designation of National Tribal Colleges and Universities Week. </p>]]></text>
       </summary>
     </summaries>
     <title>Expressing support for the designation of the week beginning February 3, 2025, as "National Tribal Colleges and Universities Week".</title>
