@@ -49,6 +49,27 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 530.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-09-28",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S5121-5122",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S5121-5122",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -96,6 +117,8 @@
     "active_at": "2026-07-22",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-09-28",
     "vetoed": false
   },
   "introduced_at": "2026-07-14",
@@ -112,8 +135,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-07-22",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-09-28",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Department of Health and Human Services",
@@ -131,6 +154,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Making America's Food Safer Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -145,11 +175,11 @@
       "type": "short"
     },
     {
-      "as": null,
+      "as": "passed senate",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Making America's Food Safer Act",
-      "type": "display"
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -159,6 +189,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-18T20:34:19Z",
+  "updated_at": "2026-09-29T16:20:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4974.xml"
 }

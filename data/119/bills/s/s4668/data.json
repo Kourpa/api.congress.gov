@@ -229,9 +229,40 @@
       "references": [],
       "text": "The committee substitute tabled by Voice Vote.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-09-28",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S5021-5064",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-28",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "250",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Yea-Nay Vote. 77 - 22. Record Vote Number: 250.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [
+    {
+      "amendment_id": "samdt6836-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6836"
+    },
     {
       "amendment_id": "samdt6835-119",
       "amendment_type": "samdt",
@@ -786,6 +817,8 @@
     "enacted": false,
     "senate_cloture_result": "pass",
     "senate_cloture_result_at": "2026-09-15",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-09-28",
     "vetoed": false
   },
   "introduced_at": "2026-06-02",
@@ -809,8 +842,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-06-18",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-09-28",
   "subjects": [
     "Athletes",
     "Contracts and agency",
@@ -856,6 +889,20 @@
       "type": "short"
     },
     {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Protect College Sports Act of 2026",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": true,
+      "textVersionCode": null,
+      "title": "HBCU Sports Media and Connectivity Program",
+      "type": "short"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -863,6 +910,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-27T11:03:26Z",
+  "updated_at": "2026-09-29T15:57:00Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4668.xml"
 }

@@ -167,6 +167,23 @@
       "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-09-28",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [
+        {
+          "reference": "CR S5120",
+          "type": "consideration"
+        }
+      ],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -1239,6 +1256,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-07-22T17:01:41-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-09-28",
     "vetoed": false
   },
   "introduced_at": "2026-04-06",
@@ -1262,8 +1281,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-07-22T17:01:41-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2026-09-28",
   "subjects": [
     "Department of Health and Human Services",
     "Drug therapy",
@@ -1336,6 +1355,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-19T23:41:17Z",
+  "updated_at": "2026-09-29T16:16:22Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8205.xml"
 }

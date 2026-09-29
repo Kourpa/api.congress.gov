@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="9340" updated="2026-09-29T07:56:19Z">
+<bill session="119" type="h" number="9340" updated="2026-09-29T16:29:33Z">
   <state datetime="2026-09-16T18:53:48-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-09-16T18:53:48-04:00"/>
@@ -122,6 +122,14 @@
     <calendar datetime="2026-09-24" calendar="Senate Legislative" under="General Orders" number="684">
       <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 684.</text>
     </calendar>
+    <action datetime="2026-09-28">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5065"/>
+    </action>
+    <action datetime="2026-09-28">
+      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S5065"/>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Markup By, Referred To"/>
@@ -144,7 +152,9 @@
     <term name="Public utilities and utility rates"/>
     <term name="State and local government operations"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s6837"/>
+  </amendments>
   <summary date="2026-09-14T13:21:03Z" status="Reported to House">Ratepayer Protection Act
 
 The bill requires state utility regulators and nonregulated utilities to consider implementing a&#160;standard to hold certain large-load customers responsible for the costs associated with any generation, transmission, or distribution upgrade of electric service necessary to serve such customers.&#160;A large-load customer means a non-residential electric consumer that enters, or requests to enter, an agreement concerning the sale of electric energy&#160;primarily to operate information technology infrastructure and related systems pertaining to data storage and computational applications and services (e.g., data centers) that have a peak electric demand of 100 megawatts or more at a single site or campus.&#160;

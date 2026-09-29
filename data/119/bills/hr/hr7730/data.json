@@ -114,8 +114,25 @@
       "acted_at": "2026-09-17",
       "action_code": "",
       "references": [],
-      "text": "Received in the Senate.",
+      "text": "Received in the Senate, read twice.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-09-28",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S5123",
+          "type": "consideration"
+        }
+      ],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -207,6 +224,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-09-16T15:43:43-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-09-28",
     "vetoed": false
   },
   "introduced_at": "2026-02-26",
@@ -230,8 +249,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-09-16T15:43:43-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2026-09-28",
   "subjects": [
     "Bankruptcy",
     "Debt collection",
@@ -289,6 +308,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-09-23T17:24:21Z",
+  "updated_at": "2026-09-29T16:24:35Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7730.xml"
 }

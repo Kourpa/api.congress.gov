@@ -1,13 +1,15 @@
-<bill session="119" type="s" number="4668" updated="2026-09-27T11:03:26Z">
-  <state datetime="2026-06-18">REPORTED</state>
+<bill session="119" type="s" number="4668" updated="2026-09-29T15:57:00Z">
+  <state datetime="2026-09-28">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-06-18"/>
+    <unknown datetime="2026-09-28"/>
   </status>
   <introduced datetime="2026-06-02"/>
   <titles>
     <title type="display">Protect College Sports Act of 2026</title>
     <title type="short" as="introduced">Protect College Sports Act of 2026</title>
     <title type="short" as="reported to senate">Protect College Sports Act of 2026</title>
+    <title type="short" as="passed senate">Protect College Sports Act of 2026</title>
+    <title type="short" as="passed senate" partial="1">HBCU Sports Media and Connectivity Program</title>
     <title type="official" as="introduced">A bill to protect the name, image, and likeness rights of, and provide protections for, student athletes and to promote fair competition among intercollegiate athletics, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="C001098"/>
@@ -98,6 +100,13 @@
     <action datetime="2026-09-24">
       <text>The committee substitute tabled by Voice Vote.</text>
     </action>
+    <action datetime="2026-09-28">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S5021-5064" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="250" datetime="2026-09-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 77 - 22. Record Vote Number: 250.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Markup By, Referred To"/>
@@ -121,6 +130,7 @@
     <term name="Wages and earnings"/>
   </subjects>
   <amendments>
+    <amendment number="s6836"/>
     <amendment number="s6835"/>
     <amendment number="s6831"/>
     <amendment number="s6830"/>
