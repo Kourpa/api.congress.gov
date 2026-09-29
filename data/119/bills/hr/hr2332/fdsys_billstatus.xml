@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2332</number>
-    <updateDate>2026-07-28T20:49:29Z</updateDate>
-    <updateDateIncludingText>2026-07-28T20:49:29Z</updateDateIncludingText>
+    <updateDate>2026-09-29T17:03:49Z</updateDate>
+    <updateDateIncludingText>2026-09-29T17:03:49Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -14,11 +14,31 @@
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 54 (Tuesday, March 25, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. MANN:H.R. 2332.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the U.S. Constitution.[Page H1274]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
       <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-09-28T16:10:47Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2025-03-25T14:00:40Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
         <systemCode>hsed00</systemCode>
         <name>Education and Workforce Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-09-28T16:10:26Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-06-25T19:56:38Z</date>
@@ -26,18 +46,6 @@
           <item>
             <name>Referred To</name>
             <date>2025-03-25T14:00:35Z</date>
-          </item>
-        </activities>
-      </item>
-      <item>
-        <systemCode>hsju00</systemCode>
-        <name>Judiciary Committee</name>
-        <chamber>House</chamber>
-        <type>Standing</type>
-        <activities>
-          <item>
-            <name>Referred To</name>
-            <date>2025-03-25T14:00:40Z</date>
           </item>
         </activities>
       </item>
@@ -61,6 +69,83 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-09-28</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 734.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00734</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-09-28</actionDate>
+        <text>Committee on the Judiciary discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-09-28</actionDate>
+        <text>Committee on the Judiciary discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-09-28</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-837, Part I.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-09-28</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-837, Part I.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-06-25</actionDate>
         <committees>
@@ -513,16 +598,36 @@
       </legislativeSubjects>
       <policyArea>
         <name>Government Operations and Politics</name>
-        <updateDate>2025-05-20T12:40:28Z</updateDate>
+        <updateDate>2026-09-29T17:03:49Z</updateDate>
       </policyArea>
     </subjects>
-    <title>SHARE Act of 2025</title>
+    <title>SHARE Act of 2026</title>
     <titles>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>SHARE Act of 2026</title>
+        <updateDate>2026-09-29T05:08:20Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>States Handling Access to Reciprocity for Employment Act of 2026</title>
+        <updateDate>2026-09-29T05:08:20Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
       <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
-        <title>SHARE Act of 2025</title>
-        <updateDate>2025-04-04T05:08:24Z</updateDate>
+        <title>SHARE Act of 2026</title>
+        <updateDate>2026-09-29T05:08:20Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -551,6 +656,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-09-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr2332rh/xml/BILLS-119hr2332rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2025-03-25T04:00:00Z</date>
         <formats>
@@ -561,8 +675,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-06-25</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.</text>
+      <actionDate>2026-09-28</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 734.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

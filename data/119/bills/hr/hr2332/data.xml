@@ -1,13 +1,15 @@
-<bill session="119" type="h" number="2332" updated="2026-07-28T20:49:29Z">
+<bill session="119" type="h" number="2332" updated="2026-09-29T17:03:49Z">
   <state datetime="2026-06-25">REPORTED</state>
   <status>
     <unknown datetime="2026-06-25"/>
   </status>
   <introduced datetime="2025-03-25"/>
   <titles>
-    <title type="display">SHARE Act of 2025</title>
     <title type="short" as="introduced">SHARE Act of 2025</title>
     <title type="short" as="introduced">States Handling Access to Reciprocity for Employment Act of 2025</title>
+    <title type="short" as="reported to house">SHARE Act of 2026</title>
+    <title type="short" as="reported to house">States Handling Access to Reciprocity for Employment Act of 2026</title>
+    <title type="display">SHARE Act of 2026</title>
     <title type="official" as="introduced">To authorize the use of Federal Bureau of Investigation criminal history record information for administration of certain licenses.</title>
   </titles>
   <sponsor bioguide_id="M000871"/>
@@ -58,10 +60,19 @@
     <action datetime="2026-06-25" state="REPORTED">
       <text>Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.</text>
     </action>
+    <action datetime="2026-09-28">
+      <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-837, Part I.</text>
+    </action>
+    <action datetime="2026-09-28">
+      <text>Committee on the Judiciary discharged.</text>
+    </action>
+    <calendar datetime="2026-09-28" calendar="Union" number="734">
+      <text>Placed on the Union Calendar, Calendar No. 734.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Markup By, Referred To"/>
-    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
+    <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Discharged From, Referred To"/>
+    <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1101" relation="unknown"/>

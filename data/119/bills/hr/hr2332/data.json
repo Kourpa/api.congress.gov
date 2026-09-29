@@ -48,6 +48,36 @@
       "status": "REPORTED",
       "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.",
       "type": "ordered-reported"
+    },
+    {
+      "acted_at": "2026-09-28",
+      "action_code": "H12200",
+      "committees": [
+        "HSED"
+      ],
+      "references": [],
+      "text": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-837, Part I.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-28",
+      "action_code": "H12300",
+      "committees": [
+        "HSJU"
+      ],
+      "references": [],
+      "text": "Committee on the Judiciary discharged.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-28",
+      "action_code": "H12410",
+      "calendar": "Union",
+      "number": "734",
+      "references": [],
+      "text": "Placed on the Union Calendar, Calendar No. 734.",
+      "type": "calendar",
+      "under": null
     }
   ],
   "amendments": [],
@@ -58,18 +88,20 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
+        "Referred To"
+      ],
+      "committee": "House Judiciary",
+      "committee_id": "HSJU"
+    },
+    {
+      "activity": [
+        "Reported By",
         "Markup By",
         "Referred To"
       ],
       "committee": "House Education and Workforce",
       "committee_id": "HSED"
-    },
-    {
-      "activity": [
-        "Referred To"
-      ],
-      "committee": "House Judiciary",
-      "committee_id": "HSJU"
     }
   ],
   "congress": "119",
@@ -385,7 +417,7 @@
       "type": "bill"
     }
   ],
-  "short_title": "SHARE Act of 2025",
+  "short_title": "SHARE Act of 2026",
   "sponsor": {
     "bioguide_id": "M000871",
     "district": "1",
@@ -408,13 +440,6 @@
   "summary": null,
   "titles": [
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "SHARE Act of 2025",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -429,6 +454,27 @@
       "type": "short"
     },
     {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "SHARE Act of 2026",
+      "type": "short"
+    },
+    {
+      "as": "reported to house",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "States Handling Access to Reciprocity for Employment Act of 2026",
+      "type": "short"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "SHARE Act of 2026",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -436,6 +482,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-07-28T20:49:29Z",
+  "updated_at": "2026-09-29T17:03:49Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2332.xml"
 }
