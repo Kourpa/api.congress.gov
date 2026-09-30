@@ -28,9 +28,45 @@
       "references": [],
       "text": "Committee on Environment and Public Works. Hearings held.",
       "type": "hearings"
+    },
+    {
+      "acted_at": "2026-09-29",
+      "action_code": "",
+      "committees": [
+        "SSEV"
+      ],
+      "references": [],
+      "text": "Senate Committee on Environment and Public Works discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-29",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-29",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt6843-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6843"
+    }
+  ],
   "bill_id": "s528-119",
   "bill_type": "s",
   "by_request": false,
@@ -38,6 +74,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Hearings By (full committee)",
         "Referred To"
       ],
@@ -174,6 +211,8 @@
     "active_at": "2026-04-15",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-09-29",
     "vetoed": false
   },
   "introduced_at": "2025-02-11",
@@ -197,8 +236,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-02-11",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-09-29",
   "subjects": [
     "Aquatic ecology",
     "Environmental assessment, monitoring, research",
@@ -269,6 +308,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-30T05:53:22Z",
+  "updated_at": "2026-09-30T12:33:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s528.xml"
 }

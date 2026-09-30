@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1190</number>
-    <updateDate>2026-07-10T16:53:24Z</updateDate>
-    <updateDateIncludingText>2026-07-13T19:42:45Z</updateDateIncludingText>
+    <updateDate>2026-09-30T14:41:22Z</updateDate>
+    <updateDateIncludingText>2026-09-30T14:41:22Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-09-30T00:24:09Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-06-24T21:03:10Z</date>
@@ -70,6 +74,54 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-09-29</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-09-29</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-29</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2026-09-29</actionDate>
+        <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-06-24</actionDate>
         <committees>
@@ -357,7 +409,7 @@
       </legislativeSubjects>
       <policyArea>
         <name>Finance and Financial Sector</name>
-        <updateDate>2025-03-17T14:25:04Z</updateDate>
+        <updateDate>2026-09-30T14:41:22Z</updateDate>
       </policyArea>
     </subjects>
     <summaries>
@@ -372,7 +424,7 @@
     <title>Expanding Access to Capital for Rural Job Creators Act</title>
     <titles>
       <item>
-        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleType>Official Title from EH (Engrossed in House) bill text</titleType>
         <titleTypeCode>259</titleTypeCode>
         <title>To amend the Securities Exchange Act of 1934 to expand access to capital for rural-area small businesses, and for other purposes.</title>
         <updateDate>2026-07-10T16:53:24Z</updateDate>
@@ -473,8 +525,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-24</actionDate>
-      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2026-09-29</actionDate>
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

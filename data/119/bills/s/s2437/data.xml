@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="2437" updated="2026-09-23T04:53:20Z">
+<bill session="119" type="s" number="2437" updated="2026-09-30T15:34:07Z">
   <state datetime="2026-06-10">REPORTED</state>
   <status>
     <unknown datetime="2026-06-10"/>
@@ -38,7 +38,9 @@
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="SSEG07" name="Senate Energy and Natural Resources" subcommittee="Water and Power" activity="Hearings By (Subcommittee)"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="h" number="3857" relation="identical"/>
+  </relatedbills>
   <subjects>
     <term name="Water resources development"/>
     <term name="Advanced technology and technological innovations"/>

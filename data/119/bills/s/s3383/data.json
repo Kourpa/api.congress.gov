@@ -49,9 +49,35 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 459.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-09-29",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-29",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt6839-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6839"
+    }
+  ],
   "bill_id": "s3383-119",
   "bill_type": "s",
   "by_request": false,
@@ -99,6 +125,8 @@
     "active_at": "2025-12-17",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-09-29",
     "vetoed": false
   },
   "introduced_at": "2025-12-08",
@@ -115,8 +143,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-12-17",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-09-29",
   "subjects": [
     "Economic development",
     "Federal-Indian relations",
@@ -126,6 +154,13 @@
   "subjects_top_term": "Native Americans",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -148,13 +183,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -162,6 +190,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-30T05:53:20Z",
+  "updated_at": "2026-09-30T12:33:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3383.xml"
 }

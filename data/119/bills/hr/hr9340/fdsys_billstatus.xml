@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>9340</number>
-    <updateDate>2026-09-29T16:29:33Z</updateDate>
-    <updateDateIncludingText>2026-09-29T16:29:33Z</updateDateIncludingText>
+    <updateDate>2026-09-30T12:32:50Z</updateDate>
+    <updateDateIncludingText>2026-09-30T12:32:50Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -98,6 +98,14 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-09-29</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure made in Senate.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2026-09-28</actionDate>
         <sourceSystem>
@@ -1047,6 +1055,115 @@
     </titles>
     <amendments>
       <amendment>
+        <number>6840</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-09-30T11:08:23Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>V000128</bioguideId>
+            <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+            <firstName>Chris</firstName>
+            <lastName>Van Hollen</lastName>
+            <party>D</party>
+            <state>MD</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>5</countIncludingWithdrawnCosponsors>
+          <count>5</count>
+          <item>
+            <bioguideId>A000382</bioguideId>
+            <fullName>Sen. Alsobrooks, Angela D. [D-MD]</fullName>
+            <firstName>Angela</firstName>
+            <lastName>Alsobrooks</lastName>
+            <party>D</party>
+            <state>MD</state>
+            <sponsorshipDate>2026-09-29</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>B001288</bioguideId>
+            <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+            <firstName>Cory</firstName>
+            <lastName>Booker</lastName>
+            <party>D</party>
+            <state>NJ</state>
+            <sponsorshipDate>2026-09-29</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>D000622</bioguideId>
+            <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+            <firstName>Tammy</firstName>
+            <lastName>Duckworth</lastName>
+            <party>D</party>
+            <state>IL</state>
+            <sponsorshipDate>2026-09-29</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>D000563</bioguideId>
+            <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+            <firstName>Richard</firstName>
+            <lastName>Durbin</lastName>
+            <party>D</party>
+            <state>IL</state>
+            <middleName>J.</middleName>
+            <sponsorshipDate>2026-09-29</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+            <sponsorshipDate>2026-09-29</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2026-09-29T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>9340</number>
+          <title>Ratepayer Protection Act</title>
+          <updateDateIncludingText>2026-09-30</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-09-29</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-09-29</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
         <number>6837</number>
         <congress>119</congress>
         <type>SAMDT</type>
@@ -1071,7 +1188,7 @@
           <originChamberCode>H</originChamberCode>
           <number>9340</number>
           <title>Ratepayer Protection Act</title>
-          <updateDateIncludingText>2026-09-29</updateDateIncludingText>
+          <updateDateIncludingText>2026-09-30</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -1141,8 +1258,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-09-28</actionDate>
-      <text>Cloture motion on the motion to proceed to the measure presented in Senate. (CR S5065)</text>
+      <actionDate>2026-09-29</actionDate>
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

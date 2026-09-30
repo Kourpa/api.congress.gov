@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="3383" updated="2026-09-30T05:53:20Z">
-  <state datetime="2025-12-17">REPORTED</state>
+<bill session="119" type="s" number="3383" updated="2026-09-30T12:33:27Z">
+  <state datetime="2026-09-29">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2025-12-17"/>
+    <unknown datetime="2026-09-29"/>
   </status>
   <introduced datetime="2025-12-08"/>
   <titles>
+    <title type="display">Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025</title>
     <title type="short" as="introduced">Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025</title>
     <title type="short" as="reported to senate">Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025</title>
     <title type="short" as="passed senate">Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025</title>
-    <title type="display">Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025</title>
     <title type="official" as="introduced">A bill to amend the Act of August 9, 1955, to make improvements to that Act, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="S001194"/>
@@ -32,6 +32,12 @@
     <calendar datetime="2026-07-16" calendar="Senate Legislative" under="General Orders" number="459">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 459.</text>
     </calendar>
+    <action datetime="2026-09-29">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-09-29" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SLIA" name="Senate Indian Affairs" subcommittee="" activity="Reported By, Markup By, Markup By, Referred To"/>
@@ -43,7 +49,9 @@
     <term name="Federal-Indian relations"/>
     <term name="Indian lands and resources rights"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="s6839"/>
+  </amendments>
   <committee-reports>
     <report>S. Rept. 119-130</report>
   </committee-reports>
