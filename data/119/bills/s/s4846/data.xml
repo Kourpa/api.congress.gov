@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="4846" updated="2026-09-17T11:03:29Z">
-  <state datetime="2026-06-22">REFERRED</state>
+<bill session="119" type="s" number="4846" updated="2026-10-01T11:03:24Z">
+  <state datetime="2026-09-30">REPORTED</state>
   <status>
-    <introduced datetime="2026-06-22"/>
+    <unknown datetime="2026-09-30"/>
   </status>
   <introduced datetime="2026-06-22"/>
   <titles>
@@ -24,9 +24,12 @@
     <action datetime="2026-09-16">
       <text>Committee on Energy and Natural Resources. Hearings held.</text>
     </action>
+    <action datetime="2026-09-30" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Hearings By (Full Committee), Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Markup By, Hearings By (Full Committee), Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="5709" relation="unknown"/>

@@ -221,17 +221,51 @@
     {
       "acted_at": "2026-09-29",
       "action_code": "",
-      "references": [
-        {
-          "reference": "CR S5186",
-          "type": null
-        }
-      ],
+      "references": [],
       "text": "Motion to proceed to consideration of measure made in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-30",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to proceed to consideration of measure made in Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-30",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "fail",
+      "roll": "254",
+      "status": "PROV_KILL:CLOTUREFAILED",
+      "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 254.",
+      "type": "vote-aux",
+      "vote_type": "cloture",
+      "where": "s"
+    },
+    {
+      "acted_at": "2026-09-30",
+      "action_code": "",
+      "references": [],
+      "text": "Motion to proceed to consideration of measure withdrawn in Senate.",
       "type": "action"
     }
   ],
   "amendments": [
+    {
+      "amendment_id": "samdt6846-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6846"
+    },
+    {
+      "amendment_id": "samdt6845-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6845"
+    },
     {
       "amendment_id": "samdt6840-119",
       "amendment_type": "samdt",
@@ -705,6 +739,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-09-16T18:53:48-04:00",
+    "senate_cloture_result": "fail",
+    "senate_cloture_result_at": "2026-09-30",
     "vetoed": false
   },
   "introduced_at": "2026-06-18",
@@ -734,8 +770,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-09-16T18:53:48-04:00",
+  "status": "PROV_KILL:CLOTUREFAILED",
+  "status_at": "2026-09-30",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Electric power generation and transmission",
@@ -807,6 +843,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-09-30T18:05:04Z",
+  "updated_at": "2026-10-01T11:08:29Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9340.xml"
 }

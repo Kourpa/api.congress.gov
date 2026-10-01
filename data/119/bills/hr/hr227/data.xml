@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="227" updated="2026-09-19T23:23:29Z">
-  <state datetime="2026-04-27T19:10:14-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="227" updated="2026-10-01T14:18:20Z">
+  <state datetime="2026-09-30">PASSED:BILL</state>
   <status>
-    <unknown datetime="2026-04-27T19:10:14-04:00"/>
+    <unknown datetime="2026-09-30"/>
   </status>
   <introduced datetime="2025-01-07"/>
   <titles>
@@ -83,9 +83,15 @@
     <action datetime="2026-04-28">
       <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
     </action>
+    <action datetime="2026-09-30">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2026-09-30" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
+    <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills/>

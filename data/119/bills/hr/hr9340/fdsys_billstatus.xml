@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>9340</number>
-    <updateDate>2026-09-30T18:05:04Z</updateDate>
-    <updateDateIncludingText>2026-09-30T18:05:04Z</updateDateIncludingText>
+    <updateDate>2026-10-01T11:08:29Z</updateDate>
+    <updateDateIncludingText>2026-10-01T11:08:29Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -99,11 +99,45 @@
     </relatedBills>
     <actions>
       <item>
+        <actionDate>2026-09-30</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-09-30</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 254.</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>254</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00254.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-09-30T17:45:52Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-09-30</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure made in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
         <actionDate>2026-09-29</actionDate>
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Motion to proceed to consideration of measure made in Senate. (CR S5186)</text>
+        <text>Motion to proceed to consideration of measure made in Senate.</text>
         <type>Floor</type>
       </item>
       <item>
@@ -1055,6 +1089,109 @@
     </titles>
     <amendments>
       <amendment>
+        <number>6846</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-10-01T11:08:29Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>G000574</bioguideId>
+            <fullName>Sen. Gallego, Ruben [D-AZ]</fullName>
+            <firstName>Ruben</firstName>
+            <lastName>Gallego</lastName>
+            <party>D</party>
+            <state>AZ</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-09-30T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>9340</number>
+          <title>Ratepayer Protection Act</title>
+          <updateDateIncludingText>2026-10-01</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-09-30</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-09-30</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>6845</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-10-01T11:08:29Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>M000133</bioguideId>
+            <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+            <firstName>Edward</firstName>
+            <lastName>Markey</lastName>
+            <party>D</party>
+            <state>MA</state>
+            <middleName>J.</middleName>
+          </item>
+        </sponsors>
+        <submittedDate>2026-09-30T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>9340</number>
+          <title>Ratepayer Protection Act</title>
+          <updateDateIncludingText>2026-10-01</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-09-30</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-09-30</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
         <number>6840</number>
         <congress>119</congress>
         <type>SAMDT</type>
@@ -1133,7 +1270,7 @@
           <originChamberCode>H</originChamberCode>
           <number>9340</number>
           <title>Ratepayer Protection Act</title>
-          <updateDateIncludingText>2026-09-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-10-01</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -1188,7 +1325,7 @@
           <originChamberCode>H</originChamberCode>
           <number>9340</number>
           <title>Ratepayer Protection Act</title>
-          <updateDateIncludingText>2026-09-30</updateDateIncludingText>
+          <updateDateIncludingText>2026-10-01</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -1258,8 +1395,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-09-29</actionDate>
-      <text>Motion to proceed to consideration of measure made in Senate. (CR S5186)</text>
+      <actionDate>2026-09-30</actionDate>
+      <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

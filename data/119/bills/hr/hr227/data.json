@@ -139,6 +139,28 @@
       "references": [],
       "text": "Received in the Senate and Read twice and referred to the Committee on Finance.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-09-30",
+      "action_code": "",
+      "committees": [
+        "SSFI"
+      ],
+      "references": [],
+      "text": "Senate Committee on Finance discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-09-30",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -151,6 +173,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Finance",
@@ -387,6 +410,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-04-27T19:10:14-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-09-30",
     "vetoed": false
   },
   "introduced_at": "2025-01-07",
@@ -403,8 +428,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-04-27T19:10:14-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2026-09-30",
   "subjects": [
     "Congressional oversight",
     "Income tax exclusion",
@@ -471,6 +496,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-19T23:23:29Z",
+  "updated_at": "2026-10-01T14:18:20Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr227.xml"
 }

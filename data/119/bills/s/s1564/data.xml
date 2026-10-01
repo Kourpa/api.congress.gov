@@ -1,12 +1,13 @@
-<bill session="119" type="s" number="1564" updated="2026-04-16T11:03:24Z">
-  <state datetime="2025-05-01">REFERRED</state>
+<bill session="119" type="s" number="1564" updated="2026-10-01T14:14:36Z">
+  <state datetime="2026-09-30">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-05-01"/>
+    <unknown datetime="2026-09-30"/>
   </status>
   <introduced datetime="2025-05-01"/>
   <titles>
-    <title type="display">Floodplain Enhancement and Recovery Act</title>
     <title type="short" as="introduced">Floodplain Enhancement and Recovery Act</title>
+    <title type="short" as="passed senate">Floodplain Enhancement and Recovery Act</title>
+    <title type="display">Floodplain Enhancement and Recovery Act</title>
     <title type="official" as="introduced">A bill to amend the Homeowner Flood Insurance Affordability Act of 2014 to address ecosystem restoration projects, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M001111"/>
@@ -22,9 +23,15 @@
     <action datetime="2025-05-01" state="REFERRED">
       <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
     </action>
+    <action datetime="2026-09-30">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-09-30" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To, Referred To"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Discharged From, Referred To, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="6256" relation="identical"/>

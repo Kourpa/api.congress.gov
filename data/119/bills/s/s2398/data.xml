@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="2398" updated="2026-09-30T08:05:46Z">
-  <state datetime="2026-09-15T19:13:51-04:00">PASSED:BILL</state>
+<bill session="119" type="s" number="2398" updated="2026-10-01T14:01:00Z">
+  <state datetime="2026-09-30">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2026-09-15T19:13:51-04:00"/>
+    <unknown datetime="2026-09-30"/>
   </status>
   <introduced datetime="2025-07-23"/>
   <titles>
@@ -88,6 +88,12 @@
     <topresident datetime="2026-09-29">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2026-09-30" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="119-118" type="public" datetime="2026-09-30">
+      <text>Became Public Law No: 119-118.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Reported By, Markup By, Referred To"/>

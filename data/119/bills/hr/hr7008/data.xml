@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="7008" updated="2026-09-30T10:56:26Z">
-  <state datetime="2026-07-22T16:52:10-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="7008" updated="2026-10-01T10:57:12Z">
+  <state datetime="2026-09-30">PROV_KILL:CLOTUREFAILED</state>
   <status>
-    <unknown datetime="2026-07-22T16:52:10-04:00"/>
+    <unknown datetime="2026-09-30"/>
   </status>
   <introduced datetime="2026-01-12"/>
   <titles>
@@ -188,6 +188,9 @@
     <action datetime="2026-09-28">
       <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
     </action>
+    <vote-aux how="roll" type="cloture" roll="253" datetime="2026-09-30" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
+      <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 253.</text>
+    </vote-aux>
   </actions>
   <committees>
     <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Unknown, Unknown, Reported By, Markup By, Referred To"/>
