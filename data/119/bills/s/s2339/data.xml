@@ -1,13 +1,14 @@
-<bill session="119" type="s" number="2339" updated="2026-07-22T19:27:09Z">
-  <state datetime="2026-06-17">REPORTED</state>
+<bill session="119" type="s" number="2339" updated="2026-09-30T11:03:20Z">
+  <state datetime="2026-09-28">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-06-17"/>
+    <unknown datetime="2026-09-28"/>
   </status>
   <introduced datetime="2025-07-17"/>
   <titles>
+    <title type="display">EARLY Act Reauthorization of 2025</title>
     <title type="short" as="introduced">EARLY Act Reauthorization of 2025</title>
     <title type="short" as="reported to senate">EARLY Act Reauthorization of 2025</title>
-    <title type="display">EARLY Act Reauthorization of 2025</title>
+    <title type="short" as="passed senate">EARLY Act Reauthorization of 2025</title>
     <title type="official" as="introduced">A bill to reauthorize the Young Women's Breast Health Education and Awareness Requires Learning Young Act of 2009.</title>
   </titles>
   <sponsor bioguide_id="K000367"/>
@@ -30,6 +31,11 @@
     <calendar datetime="2026-07-16" calendar="Senate Legislative" under="General Orders" number="460">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 460.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-09-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S5120" label="consideration"/>
+      <reference ref="CR S5120" label="text"/>
+    </vote>
   </actions>
   <committees>
     <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Reported By, Markup By, Referred To"/>
