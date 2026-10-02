@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="9340" updated="2026-10-01T11:08:29Z">
+<bill session="119" type="h" number="9340" updated="2026-10-02T15:39:58Z">
   <state datetime="2026-09-30">PROV_KILL:CLOTUREFAILED</state>
   <status>
     <unknown datetime="2026-09-30"/>
@@ -135,12 +135,14 @@
     </action>
     <action datetime="2026-09-30">
       <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5199"/>
     </action>
     <vote-aux how="roll" type="cloture" roll="254" datetime="2026-09-30" where="s" result="fail" state="PROV_KILL:CLOTUREFAILED">
       <text>Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 57 - 43. Record Vote Number: 254.</text>
     </vote-aux>
     <action datetime="2026-09-30">
       <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
+      <reference ref="CR S5199"/>
     </action>
   </actions>
   <committees>
