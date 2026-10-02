@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="5396" updated="2026-09-24T03:08:20Z">
+<bill session="119" type="s" number="5396" updated="2026-10-01T20:31:33Z">
   <state datetime="2026-09-15">REFERRED</state>
   <status>
     <introduced datetime="2026-09-15"/>
@@ -24,7 +24,11 @@
   <committees>
     <committee code="SSRA" name="Senate Rules and Administration" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="s" number="3056" relation="cross-congress related"/>
+    <bill session="118" type="h" number="5974" relation="cross-congress related"/>
+    <bill session="119" type="h" number="10396" relation="identical"/>
+  </relatedbills>
   <subjects/>
   <amendments/>
 </bill>

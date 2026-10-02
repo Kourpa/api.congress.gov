@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="5428" updated="2026-09-25T12:20:43Z">
+<bill session="119" type="s" number="5428" updated="2026-10-01T20:17:21Z">
   <state datetime="2026-09-17">REFERRED</state>
   <status>
     <introduced datetime="2026-09-17"/>
@@ -31,7 +31,13 @@
   <committees>
     <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="883" relation="cross-congress related"/>
+    <bill session="117" type="s" number="3575" relation="cross-congress related"/>
+    <bill session="117" type="h" number="6583" relation="cross-congress related"/>
+    <bill session="118" type="s" number="320" relation="cross-congress related"/>
+    <bill session="119" type="h" number="930" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Health"/>
   </subjects>
