@@ -34,7 +34,18 @@
     }
   ],
   "congress": "119",
-  "cosponsors": [],
+  "cosponsors": [
+    {
+      "bioguide_id": "B001282",
+      "district": "6",
+      "name": "Barr, Andy",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-09-24",
+      "state": "KY",
+      "title": "Rep.",
+      "withdrawn_at": null
+    }
+  ],
   "enacted_as": null,
   "history": {
     "active": false,
@@ -46,7 +57,14 @@
   "number": "10477",
   "official_title": "To amend the Sarbanes-Oxley Act of 2002 to exclude the audits of privately held, non-carrying brokers and dealers that are in good standing from certain requirements under title I of that Act, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s5454-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Small Business Audit Correction Act of 2026",
   "sponsor": {
     "bioguide_id": "H001072",
@@ -86,6 +104,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-24T15:48:55Z",
+  "updated_at": "2026-10-02T22:08:52Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10477.xml"
 }
