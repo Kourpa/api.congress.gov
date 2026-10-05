@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="10563" updated="2026-09-28T12:53:23Z">
+<bill session="119" type="h" number="10563" updated="2026-10-05T16:17:46Z">
   <state datetime="2026-09-24">REFERRED</state>
   <status>
     <introduced datetime="2026-09-24"/>
@@ -35,7 +35,14 @@
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="117" type="s" number="2052" relation="cross-congress related"/>
+    <bill session="117" type="h" number="3907" relation="cross-congress related"/>
+    <bill session="118" type="s" number="681" relation="cross-congress related"/>
+    <bill session="118" type="h" number="1404" relation="cross-congress related"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+  </subjects>
   <amendments/>
 </bill>
