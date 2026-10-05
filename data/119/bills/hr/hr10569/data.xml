@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="10569" updated="2026-09-28T12:53:23Z">
+<bill session="119" type="h" number="10569" updated="2026-10-05T11:43:36Z">
   <state datetime="2026-09-24">REFERRED</state>
   <status>
     <introduced datetime="2026-09-24"/>
@@ -25,7 +25,11 @@
   <committees>
     <committee code="HSHM" name="House Homeland Security" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="5502" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
   <amendments/>
 </bill>

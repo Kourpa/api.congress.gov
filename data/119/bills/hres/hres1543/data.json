@@ -1,6 +1,27 @@
 {
   "actions": [
     {
+      "acted_at": "2026-09-15",
+      "action_code": "",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "status": "REFERRED",
+      "text": "The committee report referred to in this resolution is H.Rept. 119-831.",
+      "type": "referral"
+    },
+    {
+      "acted_at": "2026-09-15",
+      "action_code": "",
+      "committees": [
+        "HSGO"
+      ],
+      "references": [],
+      "text": "The committee favorably reported H.Rept. 119-831 by the yeas and nays 41-0.",
+      "type": "action"
+    },
+    {
       "acted_at": "2026-09-16T14:35:45-04:00",
       "action_code": "H30000",
       "references": [
@@ -50,13 +71,22 @@
   "bill_type": "hres",
   "by_request": false,
   "committee_reports": [],
-  "committees": [],
+  "committees": [
+    {
+      "activity": [
+        "Unknown",
+        "Unknown"
+      ],
+      "committee": "House Oversight and Government Reform",
+      "committee_id": "HSGO"
+    }
+  ],
   "congress": "119",
   "cosponsors": [],
   "enacted_as": null,
   "history": {
     "active": true,
-    "active_at": "2026-09-16T14:35:45-04:00",
+    "active_at": "2026-09-15",
     "awaiting_signature": false,
     "enacted": false,
     "house_passage_result": "pass",
@@ -111,6 +141,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-29T18:44:44Z",
+  "updated_at": "2026-10-05T14:02:47Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1543.xml"
 }
