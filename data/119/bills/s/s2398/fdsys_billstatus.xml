@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2398</number>
-    <updateDate>2026-10-01T14:01:00Z</updateDate>
-    <updateDateIncludingText>2026-10-01T14:01:00Z</updateDateIncludingText>
+    <updateDate>2026-10-06T13:23:30Z</updateDate>
+    <updateDateIncludingText>2026-10-06T13:23:30Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -67,6 +67,14 @@
           <item>
             <type>Related bill</type>
             <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>PrimaryCompanionBillBecameLaw</type>
+            <identifiedBy>U.S. Government Publishing Office</identifiedBy>
+          </item>
+          <item>
+            <type>SecondaryCompanionBillBecameLaw</type>
+            <identifiedBy>U.S. Government Publishing Office</identifiedBy>
           </item>
         </relationshipDetails>
       </item>
@@ -720,7 +728,12 @@
       </item>
       <item>
         <date>2026-10-01T03:59:59Z</date>
-        <formats/>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/PLAW-119publ118/uslm/PLAW-119publ118.xml</url>
+            <type>United States Legislative Markup</type>
+          </item>
+        </formats>
         <type>Public Law</type>
       </item>
     </textVersions>
