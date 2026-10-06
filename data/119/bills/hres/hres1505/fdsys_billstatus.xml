@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1505</number>
-    <updateDate>2026-09-26T08:06:26Z</updateDate>
-    <updateDateIncludingText>2026-09-26T08:06:26Z</updateDateIncludingText>
+    <updateDate>2026-10-06T08:06:01Z</updateDate>
+    <updateDateIncludingText>2026-10-06T08:06:01Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -12,6 +12,24 @@
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/1505</legislationUrl>
     <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsso00</systemCode>
+        <name>Ethics Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Unknown</name>
+            <date>2026-06-10T20:06:17Z</date>
+          </item>
+          <item>
+            <name>Unknown</name>
+            <date>2026-06-10T20:05:38Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
     <actions>
       <item>
         <actionDate>2026-09-01</actionDate>
@@ -78,6 +96,36 @@
           <code>2</code>
           <name>House floor actions</name>
         </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsso00</systemCode>
+            <name>Ethics Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>The committee favorably reported H.Rept. 119-694.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-06-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsso00</systemCode>
+            <name>Ethics Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>The committee report referred to in this resolution is H.Rept. 119-694.</text>
+        <type>Committee</type>
       </item>
     </actions>
     <sponsors>
