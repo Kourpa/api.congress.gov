@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>10238</number>
-    <updateDate>2026-10-14T04:08:23Z</updateDate>
-    <updateDateIncludingText>2026-10-14T04:08:23Z</updateDateIncludingText>
+    <updateDate>2026-10-14T08:05:28Z</updateDate>
+    <updateDateIncludingText>2026-10-14T08:05:28Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -20,6 +20,10 @@
         <type>Standing</type>
         <activities>
           <item>
+            <name>Reported By</name>
+            <date>2026-10-13T17:30:20Z</date>
+          </item>
+          <item>
             <name>Markup By</name>
             <date>2026-09-16T20:27:04Z</date>
           </item>
@@ -31,6 +35,51 @@
       </item>
     </committees>
     <actions>
+      <item>
+        <actionDate>2026-10-13</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 748.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00748</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-10-13</actionDate>
+        <text>Reported (Amended) by the Committee on Small Business. H. Rept. 119-851.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-10-13</actionDate>
+        <text>Reported (Amended) by the Committee on Small Business. H. Rept. 119-851.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssm00</systemCode>
+            <name>Small Business Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-09-16</actionDate>
         <committees>
@@ -211,8 +260,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-09-16</actionDate>
-      <text>Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.</text>
+      <actionDate>2026-10-13</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 748.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
