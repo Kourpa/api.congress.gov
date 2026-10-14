@@ -149,6 +149,24 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2026-10-09",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
+    },
+    {
+      "acted_at": "2026-10-09",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "121",
+      "references": [],
+      "text": "Became Public Law No: 119-121.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -222,13 +240,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "121"
+  },
   "history": {
     "active": true,
     "active_at": "2025-02-05",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2026-09-29",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2026-10-09",
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-09-15T18:52:50-04:00",
     "senate_passage_result": "pass",
@@ -256,8 +278,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2026-09-15T18:52:50-04:00",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2026-10-09",
   "subjects": [
     "Arts, culture, religion",
     "Congressional oversight",
@@ -317,6 +339,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-30T08:05:45Z",
+  "updated_at": "2026-10-13T18:07:11Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s195.xml"
 }
