@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="5660" updated="2026-10-09T03:53:21Z">
+<bill session="119" type="s" number="5660" updated="2026-10-14T18:26:47Z">
   <state datetime="2026-09-30">REFERRED</state>
   <status>
     <introduced datetime="2026-09-30"/>
@@ -27,7 +27,11 @@
   <committees>
     <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="10664" relation="identical"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
   <amendments/>
 </bill>
