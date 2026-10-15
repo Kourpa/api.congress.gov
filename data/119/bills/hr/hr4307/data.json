@@ -133,6 +133,13 @@
       "type": "vote",
       "vote_type": "vote2",
       "where": "s"
+    },
+    {
+      "acted_at": "2026-10-14",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -206,7 +213,13 @@
     {
       "bill_id": "s2241-119",
       "identified_by": "CRS",
-      "reason": "related",
+      "reason": "identical",
+      "type": "bill"
+    },
+    {
+      "bill_id": "hr443-118",
+      "identified_by": "CRS",
+      "reason": "cross-congress related",
       "type": "bill"
     }
   ],
@@ -290,6 +303,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-10-09T03:38:25Z",
+  "updated_at": "2026-10-15T20:01:52Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4307.xml"
 }

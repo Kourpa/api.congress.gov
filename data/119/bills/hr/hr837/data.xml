@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="837" updated="2026-10-02T14:24:32Z">
+<bill session="119" type="h" number="837" updated="2026-10-15T10:56:21Z">
   <state datetime="2026-09-30">PASSED:BILL</state>
   <status>
     <unknown datetime="2026-09-30"/>
@@ -51,6 +51,9 @@
       <text>Passed Senate without amendment by Unanimous Consent.</text>
       <reference ref="CR S5226" label="consideration"/>
     </vote>
+    <action datetime="2026-10-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -58,7 +61,7 @@
   </committees>
   <relatedbills>
     <bill session="118" type="h" number="1829" relation="cross-congress related"/>
-    <bill session="119" type="s" number="700" relation="identical"/>
+    <bill session="119" type="s" number="700" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>

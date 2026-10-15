@@ -144,6 +144,13 @@
       "references": [],
       "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-10-14",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -184,7 +191,8 @@
   "history": {
     "active": true,
     "active_at": "2025-05-13T17:26:17-04:00",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2026-10-14",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-05-13T17:31:26-04:00",
@@ -228,6 +236,13 @@
     "text": "Reversionary Interest Conveyance Act\n\nThis bill directs the Bureau of Land Management (BLM) to\u00a0offer to sell the reversionary interest of the United States in approximately 8.43 acres of land in Sacramento, California, as generally depicted on a specified map dated November 7, 2022.\u00a0Within two years of receiving a request from the owner of the land, the BLM must offer the reversionary interest and convey the reversionary interest to the buyer upon payment. The payment must be\u00a0in an amount that is at least the fair market value of the reversionary interest. The buyer must also pay all costs related to the applicable conveyance of the reversionary interest, including all surveys, appraisals, and other administrative costs.\n\nThe bill subjects the conveyance to valid existing rights.\n\nThe proceeds from the sale must be deposited into Federal Land Disposal Account."
   },
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Reversionary Interest Conveyance Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -276,15 +291,8 @@
       "textVersionCode": null,
       "title": "To convey the reversionary interest of the United States in certain land in Sacramento, California.",
       "type": "official"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Reversionary Interest Conveyance Act",
-      "type": "display"
     }
   ],
-  "updated_at": "2026-10-05T12:23:30Z",
+  "updated_at": "2026-10-15T16:07:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr952.xml"
 }

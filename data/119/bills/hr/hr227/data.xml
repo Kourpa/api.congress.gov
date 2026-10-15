@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="227" updated="2026-10-09T03:38:25Z">
+<bill session="119" type="h" number="227" updated="2026-10-15T14:40:49Z">
   <state datetime="2026-09-30">PASSED:BILL</state>
   <status>
     <unknown datetime="2026-09-30"/>
@@ -91,6 +91,9 @@
       <text>Passed Senate without amendment by Unanimous Consent.</text>
       <reference ref="CR S5298" label="consideration"/>
     </vote>
+    <action datetime="2026-10-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
   </actions>
   <committees>
     <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>
@@ -98,6 +101,8 @@
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="639" relation="unknown"/>
+    <bill session="118" type="h" number="6068" relation="cross-congress related"/>
+    <bill session="118" type="s" number="4126" relation="cross-congress related"/>
   </relatedbills>
   <subjects>
     <term name="Social welfare"/>

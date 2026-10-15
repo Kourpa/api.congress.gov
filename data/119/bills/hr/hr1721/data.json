@@ -153,6 +153,13 @@
       "references": [],
       "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-10-14",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -208,7 +215,8 @@
   "history": {
     "active": true,
     "active_at": "2025-03-04",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2026-10-14",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-04-28T15:52:23-04:00",
@@ -254,6 +262,13 @@
     "text": "Critical Infrastructure Manufacturing Feasibility Act\n\nThis bill requires the Department of Commerce to study and report on products that are in high demand across the critical infrastructure sectors. Critical infrastructure sectors are those whose assets, systems, and networks are vital to national security, the economy, public health or safety, or any combination of those matters.\n\nThe study must (1) identify the products in high demand across those sectors that are being imported due to manufacturing, material, or supply chain constraints; and (2) analyze the costs, benefits, and feasibility of manufacturing those products in the United States."
   },
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Critical Infrastructure Manufacturing Feasibility Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -302,15 +317,8 @@
       "textVersionCode": null,
       "title": "To direct the Secretary of Commerce to conduct a study on the feasibility of manufacturing in the United States products for critical infrastructure sectors, and for other purposes.",
       "type": "official"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Critical Infrastructure Manufacturing Feasibility Act",
-      "type": "display"
     }
   ],
-  "updated_at": "2026-09-29T05:23:24Z",
+  "updated_at": "2026-10-15T16:07:28Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1721.xml"
 }

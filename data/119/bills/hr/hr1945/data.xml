@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1945" updated="2026-10-09T03:38:25Z">
+<bill session="119" type="h" number="1945" updated="2026-10-15T10:56:20Z">
   <state datetime="2026-09-29">PASSED:BILL</state>
   <status>
     <unknown datetime="2026-09-29"/>
@@ -71,6 +71,9 @@
       <text>Passed Senate without amendment by Unanimous Consent.</text>
       <reference ref="CR S5140" label="consideration"/>
     </vote>
+    <action datetime="2026-10-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Discharged, Referred To"/>
@@ -78,6 +81,7 @@
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="650" relation="identical"/>
+    <bill session="118" type="s" number="4607" relation="cross-congress related"/>
   </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
