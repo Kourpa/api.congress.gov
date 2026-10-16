@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="240" updated="2026-10-06T08:05:20Z">
-  <state datetime="2026-09-24">PASSED:BILL</state>
+<bill session="119" type="s" number="240" updated="2026-10-16T16:50:28Z">
+  <state datetime="2026-10-15">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2026-09-24"/>
+    <unknown datetime="2026-10-15"/>
   </status>
   <introduced datetime="2025-01-24"/>
   <titles>
@@ -77,6 +77,12 @@
     <topresident datetime="2026-10-05">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2026-10-15" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="119-122" type="public" datetime="2026-10-15">
+      <text>Became Public Law No: 119-122.</text>
+    </enacted>
   </actions>
   <committees>
     <committee code="SLIA" name="Senate Indian Affairs" subcommittee="" activity="Reported By, Markup By, Referred To"/>

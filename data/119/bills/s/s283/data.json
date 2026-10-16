@@ -180,6 +180,24 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2026-10-15",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
+    },
+    {
+      "acted_at": "2026-10-15",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "123",
+      "references": [],
+      "text": "Became Public Law No: 119-123.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -243,13 +261,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "123"
+  },
   "history": {
     "active": true,
     "active_at": "2025-02-05",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2026-10-05",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2026-10-15",
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-09-14T15:31:25-04:00",
     "senate_passage_result": "pass",
@@ -270,8 +292,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2026-09-24",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2026-10-15",
   "subjects": [
     "Congressional oversight",
     "Fishes",
@@ -338,6 +360,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-10-06T08:05:21Z",
+  "updated_at": "2026-10-16T16:51:47Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s283.xml"
 }
