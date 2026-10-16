@@ -193,6 +193,13 @@
       "references": [],
       "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-10-15",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -280,7 +287,8 @@
   "history": {
     "active": true,
     "active_at": "2026-01-15",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2026-10-15",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-04-20T16:22:11-04:00",
