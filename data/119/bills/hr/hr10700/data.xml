@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="10700" updated="2026-10-07T04:23:24Z">
+<bill session="119" type="h" number="10700" updated="2026-10-20T15:42:00Z">
   <state datetime="2026-10-01">REFERRED</state>
   <status>
     <introduced datetime="2026-10-01"/>
@@ -26,7 +26,14 @@
   <committees>
     <committee code="HSHA" name="House Committee on House Administration" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="117" type="s" number="1470" relation="cross-congress related"/>
+    <bill session="117" type="h" number="2941" relation="cross-congress related"/>
+    <bill session="118" type="s" number="3748" relation="cross-congress related"/>
+    <bill session="118" type="h" number="7389" relation="cross-congress related"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
   <amendments/>
 </bill>
