@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="837" updated="2026-10-15T10:56:21Z">
-  <state datetime="2026-09-30">PASSED:BILL</state>
+<bill session="119" type="h" number="837" updated="2026-10-21T15:26:08Z">
+  <state datetime="2026-10-20">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2026-09-30"/>
+    <unknown datetime="2026-10-20"/>
   </status>
   <introduced datetime="2025-01-31"/>
   <titles>
@@ -57,6 +57,9 @@
     <topresident datetime="2026-10-15">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2026-10-20" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
   </actions>
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -64,7 +67,10 @@
   </committees>
   <relatedbills>
     <bill session="118" type="h" number="1829" relation="cross-congress related"/>
-    <bill session="119" type="s" number="700" relation="unknown"/>
+    <bill session="119" type="s" number="700" relation="identical"/>
+    <bill session="117" type="s" number="2893" relation="cross-congress related"/>
+    <bill session="117" type="h" number="5409" relation="cross-congress related"/>
+    <bill session="118" type="s" number="1015" relation="cross-congress related"/>
   </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
