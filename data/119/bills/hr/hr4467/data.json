@@ -185,6 +185,16 @@
       "status": "ENACTED:SIGNED",
       "text": "Signed by President.",
       "type": "signed"
+    },
+    {
+      "acted_at": "2026-10-20",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "132",
+      "references": [],
+      "text": "Became Public Law No: 119-132.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -249,13 +259,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "132"
+  },
   "history": {
     "active": true,
     "active_at": "2025-09-18",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2026-10-20",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2026-10-20",
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-03-16T16:20:46-04:00",
     "senate_passage_result": "pass",
@@ -341,6 +355,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-10-21T12:36:09Z",
+  "updated_at": "2026-10-21T20:57:07Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4467.xml"
 }
