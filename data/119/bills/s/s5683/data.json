@@ -10,9 +10,12 @@
     {
       "acted_at": "2026-10-15",
       "action_code": "",
+      "committees": [
+        "SSAS"
+      ],
       "references": [],
       "status": "REFERRED",
-      "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.",
+      "text": "Read twice and referred to the Committee on Armed Services under authority of the order of the Senate of 09/30/2026.",
       "type": "referral"
     }
   ],
@@ -21,7 +24,15 @@
   "bill_type": "s",
   "by_request": false,
   "committee_reports": [],
-  "committees": [],
+  "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Armed Services",
+      "committee_id": "SSAS"
+    }
+  ],
   "congress": "119",
   "cosponsors": [
     {
@@ -99,6 +110,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-10-20T20:40:52Z",
+  "updated_at": "2026-10-29T11:03:45Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5683.xml"
 }

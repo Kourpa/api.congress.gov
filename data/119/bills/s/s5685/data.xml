@@ -1,12 +1,12 @@
-<bill session="119" type="s" number="5685" updated="2026-10-28T18:02:32Z">
+<bill session="119" type="s" number="5685" updated="2026-10-29T11:03:45Z">
   <state datetime="2026-10-15">REFERRED</state>
   <status>
     <introduced datetime="2026-10-15"/>
   </status>
   <introduced datetime="2026-10-15"/>
   <titles>
-    <title type="short" as="introduced">Epstein Wall Street Records Act of 2026</title>
     <title type="display">Epstein Wall Street Records Act of 2026</title>
+    <title type="short" as="introduced">Epstein Wall Street Records Act of 2026</title>
     <title type="official" as="introduced">A bill to require the disclosure of supervisory records of certain financial institutions that relate to Jeffrey Epstein, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="W000817"/>
@@ -20,10 +20,12 @@
       <text>Introduced in Senate</text>
     </action>
     <action datetime="2026-10-15" state="REFERRED">
-      <text>Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs under authority of the order of the Senate of 09/30/2026.</text>
     </action>
   </actions>
-  <committees/>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" subcommittee="" activity="Referred To"/>
+  </committees>
   <relatedbills>
     <bill session="119" type="h" number="10820" relation="identical"/>
   </relatedbills>

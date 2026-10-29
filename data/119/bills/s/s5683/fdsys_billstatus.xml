@@ -3,14 +3,28 @@
   <version>3.0.0</version>
   <bill>
     <number>5683</number>
-    <updateDate>2026-10-20T20:40:52Z</updateDate>
-    <updateDateIncludingText>2026-10-20T20:40:52Z</updateDateIncludingText>
+    <updateDate>2026-10-29T11:03:45Z</updateDate>
+    <updateDateIncludingText>2026-10-29T11:03:45Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
     <introducedDate>2026-10-15</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/5683</legislationUrl>
+    <committees>
+      <item>
+        <systemCode>ssas00</systemCode>
+        <name>Armed Services Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-10-15T15:43:58Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
     <relatedBills>
       <item>
         <title>National Defense Authorization Act for Fiscal Year 2027</title>
@@ -32,11 +46,17 @@
     <actions>
       <item>
         <actionDate>2026-10-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.</text>
-        <type>Floor</type>
+        <text>Read twice and referred to the Committee on Armed Services under authority of the order of the Senate of 09/30/2026.</text>
+        <type>IntroReferral</type>
       </item>
       <item>
         <actionDate>2026-10-15</actionDate>
@@ -113,7 +133,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Best Practices for Military Family Child Care Homes Act</title>
-        <updateDate>2026-10-17T10:58:31Z</updateDate>
+        <updateDate>2026-10-29T11:03:45Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -145,7 +165,7 @@
     </textVersions>
     <latestAction>
       <actionDate>2026-10-15</actionDate>
-      <text>Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.</text>
+      <text>Read twice and referred to the Committee on Armed Services under authority of the order of the Senate of 09/30/2026.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

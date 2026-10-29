@@ -2,10 +2,23 @@
   "actions": [
     {
       "acted_at": "2026-10-15",
+      "action_code": "10025",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Submitted in Senate",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-10-15",
       "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
       "references": [],
       "status": "REFERRED",
-      "text": "Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary.",
+      "text": "Referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026.",
       "type": "referral"
     }
   ],
@@ -14,7 +27,15 @@
   "bill_type": "sres",
   "by_request": false,
   "committee_reports": [],
-  "committees": [],
+  "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Judiciary",
+      "committee_id": "SSJU"
+    }
+  ],
   "congress": "119",
   "cosponsors": [
     {
@@ -52,7 +73,10 @@
   "status": "REFERRED",
   "status_at": "2026-10-15",
   "subjects": [
-    "Health"
+    "Child health",
+    "Commemorative events and holidays",
+    "Health",
+    "Health promotion and preventive care"
   ],
   "subjects_top_term": "Health",
   "summary": null,
@@ -72,6 +96,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-10-19T13:33:24Z",
+  "updated_at": "2026-10-29T10:56:47Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres951.xml"
 }

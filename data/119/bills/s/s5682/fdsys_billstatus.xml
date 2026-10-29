@@ -3,22 +3,42 @@
   <version>3.0.0</version>
   <bill>
     <number>5682</number>
-    <updateDate>2026-10-26T20:10:50Z</updateDate>
-    <updateDateIncludingText>2026-10-26T20:10:50Z</updateDateIncludingText>
+    <updateDate>2026-10-29T11:03:45Z</updateDate>
+    <updateDateIncludingText>2026-10-29T11:03:45Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
     <introducedDate>2026-10-15</introducedDate>
     <congress>119</congress>
     <legislationUrl>https://www.congress.gov/bill/119th-congress/senate-bill/5682</legislationUrl>
+    <committees>
+      <item>
+        <systemCode>ssfr00</systemCode>
+        <name>Foreign Relations Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-10-15T15:40:57Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
     <actions>
       <item>
         <actionDate>2026-10-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Foreign Relations.</text>
-        <type>Floor</type>
+        <text>Read twice and referred to the Committee on Foreign Relations under authority of the order of the Senate of 09/30/2026.</text>
+        <type>IntroReferral</type>
       </item>
       <item>
         <actionDate>2026-10-15</actionDate>
@@ -55,18 +75,18 @@
     <title>Foreign Government-Owned Media FARA Registration Act</title>
     <titles>
       <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Foreign Government-Owned Media FARA Registration Act</title>
+        <updateDate>2026-10-29T11:03:45Z</updateDate>
+      </item>
+      <item>
         <titleType>Short Title(s) as Introduced</titleType>
         <titleTypeCode>101</titleTypeCode>
         <title>Foreign Government-Owned Media FARA Registration Act</title>
         <updateDate>2026-10-22T04:53:17Z</updateDate>
         <billTextVersionName>Introduced in Senate</billTextVersionName>
         <billTextVersionCode>IS</billTextVersionCode>
-      </item>
-      <item>
-        <titleType>Display Title</titleType>
-        <titleTypeCode>45</titleTypeCode>
-        <title>Foreign Government-Owned Media FARA Registration Act</title>
-        <updateDate>2026-10-22T04:53:17Z</updateDate>
       </item>
       <item>
         <titleType>Official Title as Introduced</titleType>
@@ -90,7 +110,7 @@
     </textVersions>
     <latestAction>
       <actionDate>2026-10-15</actionDate>
-      <text>Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Foreign Relations.</text>
+      <text>Read twice and referred to the Committee on Foreign Relations under authority of the order of the Senate of 09/30/2026.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

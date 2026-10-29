@@ -10,9 +10,12 @@
     {
       "acted_at": "2026-10-15",
       "action_code": "",
+      "committees": [
+        "SSBK"
+      ],
       "references": [],
       "status": "REFERRED",
-      "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs under authority of the order of the Senate of 09/30/2026.",
       "type": "referral"
     }
   ],
@@ -21,7 +24,15 @@
   "bill_type": "s",
   "by_request": false,
   "committee_reports": [],
-  "committees": [],
+  "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Banking, Housing, and Urban Affairs",
+      "committee_id": "SSBK"
+    }
+  ],
   "congress": "119",
   "cosponsors": [
     {
@@ -100,13 +111,6 @@
   "summary": null,
   "titles": [
     {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Epstein Wall Street Records Act of 2026",
-      "type": "short"
-    },
-    {
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
@@ -117,10 +121,17 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "Epstein Wall Street Records Act of 2026",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "A bill to require the disclosure of supervisory records of certain financial institutions that relate to Jeffrey Epstein, and for other purposes.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-10-28T18:02:32Z",
+  "updated_at": "2026-10-29T11:03:45Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5685.xml"
 }

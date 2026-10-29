@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="5683" updated="2026-10-20T20:40:52Z">
+<bill session="119" type="s" number="5683" updated="2026-10-29T11:03:45Z">
   <state datetime="2026-10-15">REFERRED</state>
   <status>
     <introduced datetime="2026-10-15"/>
@@ -18,10 +18,12 @@
       <text>Introduced in Senate</text>
     </action>
     <action datetime="2026-10-15" state="REFERRED">
-      <text>Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Armed Services.</text>
+      <text>Read twice and referred to the Committee on Armed Services under authority of the order of the Senate of 09/30/2026.</text>
     </action>
   </actions>
-  <committees/>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Referred To"/>
+  </committees>
   <relatedbills>
     <bill session="119" type="h" number="8800" relation="unknown"/>
   </relatedbills>
