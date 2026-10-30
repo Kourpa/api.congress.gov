@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="9" updated="2026-08-05T11:03:18Z">
+<bill session="119" type="s" number="9" updated="2026-10-29T20:58:12Z">
   <state datetime="2025-03-03">PROV_KILL:CLOTUREFAILED</state>
   <status>
     <unknown datetime="2025-03-03"/>
@@ -83,7 +83,11 @@
     </vote-aux>
   </actions>
   <committees/>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="h" number="426" relation="cross-congress related"/>
+    <bill session="117" type="s" number="251" relation="cross-congress related"/>
+    <bill session="118" type="s" number="613" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Sports and recreation"/>
     <term name="Athletes"/>

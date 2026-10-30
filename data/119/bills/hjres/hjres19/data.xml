@@ -1,4 +1,4 @@
-<bill session="119" type="hj" number="19" updated="2026-09-19T23:07:09Z">
+<bill session="119" type="hj" number="19" updated="2026-10-29T17:05:26Z">
   <state datetime="2025-01-15">REFERRED</state>
   <status>
     <introduced datetime="2025-01-15"/>
@@ -38,7 +38,9 @@
     <committee code="HSED" name="House Education and Workforce" subcommittee="" activity="Referred To"/>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="hj" number="33" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
     <term name="Asia"/>

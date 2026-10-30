@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="9297" updated="2026-08-04T08:06:06Z">
+<bill session="119" type="h" number="9297" updated="2026-10-30T08:06:03Z">
   <state datetime="2026-06-11">REFERRED</state>
   <status>
     <introduced datetime="2026-06-11"/>
@@ -11,6 +11,7 @@
   </titles>
   <sponsor bioguide_id="S001205"/>
   <cosponsors>
+    <cosponsor bioguide_id="C001080" joined="2026-10-29"/>
     <cosponsor bioguide_id="F000483" joined="2026-06-11"/>
     <cosponsor bioguide_id="M001229" joined="2026-08-03"/>
     <cosponsor bioguide_id="T000460" joined="2026-06-11"/>
@@ -26,7 +27,9 @@
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="9408" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Transportation and public works"/>
   </subjects>
