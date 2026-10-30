@@ -1,12 +1,13 @@
-<bill session="119" type="h" number="9600" updated="2026-09-17T08:07:29Z">
+<bill session="119" type="h" number="9600" updated="2026-10-30T08:06:12Z">
   <state datetime="2026-09-15">REPORTED</state>
   <status>
     <unknown datetime="2026-09-15"/>
   </status>
   <introduced datetime="2026-07-06"/>
   <titles>
-    <title type="display">Common Sense 250 Act of 2026</title>
     <title type="short" as="introduced">Common Sense 250 Act of 2026</title>
+    <title type="short" as="reported to house">Common Sense 250 Act of 2026</title>
+    <title type="display">Common Sense 250 Act of 2026</title>
     <title type="official" as="introduced">To approve the location of a commemorative work for Thomas Paine, America's indispensable and unsung Founding Father.</title>
   </titles>
   <sponsor bioguide_id="R000606"/>
@@ -35,9 +36,15 @@
     <action datetime="2026-09-15" state="REPORTED">
       <text>Ordered to be Reported by Unanimous Consent.</text>
     </action>
+    <action datetime="2026-10-29">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 119-860.</text>
+    </action>
+    <calendar datetime="2026-10-29" calendar="Union" number="757">
+      <text>Placed on the Union Calendar, Calendar No. 757.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
     <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Discharged, Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills/>

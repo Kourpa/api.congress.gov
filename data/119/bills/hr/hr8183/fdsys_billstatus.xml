@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>8183</number>
-    <updateDate>2026-09-19T23:35:45Z</updateDate>
-    <updateDateIncludingText>2026-09-19T23:35:45Z</updateDateIncludingText>
+    <updateDate>2026-10-30T08:54:05Z</updateDate>
+    <updateDateIncludingText>2026-10-30T08:54:05Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-10-29T16:37:12Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-07-21T20:38:43Z</date>
@@ -49,6 +53,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-10-29</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 758.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00758</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-10-29</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-861.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-10-29</actionDate>
+        <text>Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-861.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Workforce Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-07-21</actionDate>
         <committees>
@@ -211,6 +260,26 @@
     <title>MATCH Act of 2026</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>MATCH Act of 2026</title>
+        <updateDate>2026-10-30T08:54:05Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>Modernizing Access to Talents, Credentials, and Hiring Act of 2026</title>
+        <updateDate>2026-10-30T08:54:05Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>MATCH Act of 2026</title>
@@ -243,6 +312,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-10-29T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr8183rh/xml/BILLS-119hr8183rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2026-04-02T04:00:00Z</date>
         <formats>
@@ -253,8 +331,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-07-21</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.</text>
+      <actionDate>2026-10-29</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 758.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
