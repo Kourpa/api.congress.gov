@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="77" updated="2025-05-15T17:33:45Z">
+<bill session="119" type="sr" number="77" updated="2026-11-04T19:59:45Z">
   <state datetime="2025-02-13">REPORTED</state>
   <status>
     <unknown datetime="2025-02-13"/>
@@ -26,7 +26,10 @@
     <committee code="SSRA" name="Senate Rules and Administration" subcommittee="" activity="Referred To"/>
     <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Reported Original Measure"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="sr" number="48" relation="cross-congress related"/>
+    <bill session="118" type="sr" number="43" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Congress"/>
     <term name="Congressional committees"/>
