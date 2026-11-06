@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="9124" updated="2026-06-30T08:07:13Z">
+<bill session="119" type="h" number="9124" updated="2026-11-06T09:06:33Z">
   <state datetime="2026-06-03">REFERRED</state>
   <status>
     <introduced datetime="2026-06-03"/>
@@ -14,6 +14,7 @@
     <cosponsor bioguide_id="G000586" joined="2026-06-03"/>
     <cosponsor bioguide_id="J000288" joined="2026-06-03"/>
     <cosponsor bioguide_id="M000312" joined="2026-06-29"/>
+    <cosponsor bioguide_id="M001160" joined="2026-11-05"/>
     <cosponsor bioguide_id="N000002" joined="2026-06-03"/>
     <cosponsor bioguide_id="N000147" joined="2026-06-03"/>
     <cosponsor bioguide_id="O000173" joined="2026-06-03"/>
@@ -32,7 +33,10 @@
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="h" number="1340" relation="cross-congress related"/>
+    <bill session="118" type="h" number="6839" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Immigration"/>
   </subjects>
