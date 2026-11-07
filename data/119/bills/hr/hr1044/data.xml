@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1044" updated="2026-09-08T18:09:59Z">
+<bill session="119" type="h" number="1044" updated="2026-11-06T21:10:29Z">
   <state datetime="2025-07-14T16:47:05-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-07-14T16:47:05-04:00"/>
@@ -55,7 +55,9 @@
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="9492" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Water resources development"/>
     <term name="California"/>

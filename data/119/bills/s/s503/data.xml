@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="503" updated="2026-09-08T18:03:40Z">
+<bill session="119" type="s" number="503" updated="2026-11-06T22:17:13Z">
   <state datetime="2025-11-04">PASS_OVER:SENATE</state>
   <status>
     <unknown datetime="2025-11-04"/>
@@ -54,7 +54,9 @@
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="s" number="690" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Science, technology, communications"/>
     <term name="Congressional oversight"/>
