@@ -67,6 +67,57 @@
       "text": "Placed on the Union Calendar, Calendar No. 774.",
       "type": "calendar",
       "under": null
+    },
+    {
+      "acted_at": "2026-11-09T16:07:54-05:00",
+      "action_code": "H30300",
+      "references": [],
+      "text": "Mr. Latta moved to suspend the rules and pass the bill, as amended.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-09T16:08:06-05:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H6102-6104",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under suspension of the rules.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-09T16:08:08-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 9613.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-09T16:17:46-05:00",
+      "action_code": "H37300",
+      "how": "by voice vote",
+      "references": [
+        {
+          "reference": "CR H6102-6103",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-11-09T16:17:50-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -114,6 +165,8 @@
     "active_at": "2026-07-14",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-11-09T16:17:46-05:00",
     "vetoed": false
   },
   "introduced_at": "2026-07-09",
@@ -130,8 +183,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-07-09",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-11-09T16:17:46-05:00",
   "subjects": [
     "Advisory bodies",
     "Electric power generation and transmission",
@@ -148,6 +201,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Nuclear Advisory Committee Reform Act",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -162,13 +222,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Nuclear Advisory Committee Reform Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -176,6 +229,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-11-06T09:06:34Z",
+  "updated_at": "2026-11-10T18:20:01Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9613.xml"
 }
