@@ -1,15 +1,17 @@
-<bill session="119" type="s" number="3589" updated="2026-09-30T12:05:19Z">
-  <state datetime="2026-07-30">REPORTED</state>
+<bill session="119" type="s" number="3589" updated="2026-11-10T11:58:23Z">
+  <state datetime="2026-11-09">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-07-30"/>
+    <unknown datetime="2026-11-09"/>
   </status>
   <introduced datetime="2026-01-07"/>
   <titles>
+    <title type="display">RISE Act</title>
     <title type="short" as="introduced">Respond, Innovate, Succeed, and Empower Act</title>
     <title type="short" as="introduced">RISE Act</title>
     <title type="short" as="reported to senate">Respond, Innovate, Succeed, and Empower Act</title>
     <title type="short" as="reported to senate">RISE Act</title>
-    <title type="display">RISE Act</title>
+    <title type="short" as="passed senate">Respond, Innovate, Succeed, and Empower Act</title>
+    <title type="short" as="passed senate">RISE Act</title>
     <title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to provide students with disabilities and their families with access to critical information needed to select the right college and succeed once enrolled.</title>
   </titles>
   <sponsor bioguide_id="B001299"/>
@@ -42,6 +44,9 @@
     <calendar datetime="2026-08-05" calendar="Senate Legislative" under="General Orders" number="543">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.</text>
     </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="2026-11-09" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" subcommittee="" activity="Reported By, Markup By, Referred To"/>

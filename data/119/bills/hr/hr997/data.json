@@ -173,6 +173,13 @@
       "references": [],
       "text": "Message on Senate action sent to the House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-11-09",
+      "action_code": "E20000",
+      "references": [],
+      "text": "Presented to President.",
+      "type": "topresident"
     }
   ],
   "amendments": [],
@@ -218,7 +225,8 @@
   "history": {
     "active": true,
     "active_at": "2025-02-12",
-    "awaiting_signature": false,
+    "awaiting_signature": true,
+    "awaiting_signature_since": "2026-11-09",
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-03-31T19:03:39-04:00",
@@ -270,6 +278,13 @@
   },
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "National Taxpayer Advocate Enhancement Act of 2025",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -317,15 +332,8 @@
       "textVersionCode": null,
       "title": "To amend the Internal Revenue Code of 1986 to conform to the intent of the Internal Revenue Service Restructuring and Reform Act of 1998, as set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105\u2013599, that the National Taxpayer Advocate be able to hire and consult counsel as appropriate.",
       "type": "official"
-    },
-    {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "National Taxpayer Advocate Enhancement Act of 2025",
-      "type": "display"
     }
   ],
-  "updated_at": "2026-10-15T10:56:21Z",
+  "updated_at": "2026-11-10T14:13:57Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr997.xml"
 }
