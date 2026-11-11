@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="97" updated="2025-09-08T18:40:39Z">
+<bill session="119" type="h" number="97" updated="2026-11-10T21:29:03Z">
   <state datetime="2025-01-03">REFERRED</state>
   <status>
     <introduced datetime="2025-01-03"/>
@@ -27,7 +27,10 @@
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="h" number="43" relation="cross-congress related"/>
+    <bill session="118" type="h" number="89" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Law"/>
     <term name="Civil actions and liability"/>
@@ -36,5 +39,7 @@
     <term name="Jurisdiction and venue"/>
   </subjects>
   <amendments/>
-  <summary date="2025-02-05T15:28:21Z" status="Introduced in House"></summary>
+  <summary date="2025-02-05T15:28:21Z" status="Introduced in House">Injunctive Authority Clarification Act of 2025&#160;
+
+This bill prohibits federal courts from issuing injunctive orders that bar enforcement of a federal law or policy against a nonparty, unless the nonparty is represented by a party in a class action lawsuit.</summary>
 </bill>
