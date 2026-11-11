@@ -1,13 +1,13 @@
-<bill session="119" type="h" number="9612" updated="2026-11-06T09:06:48Z">
-  <state datetime="2026-07-09">REFERRED</state>
+<bill session="119" type="h" number="9612" updated="2026-11-10T18:18:25Z">
+  <state datetime="2026-11-09T19:07:45-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2026-07-09"/>
+    <unknown datetime="2026-11-09T19:07:45-05:00"/>
   </status>
   <introduced datetime="2026-07-09"/>
   <titles>
+    <title type="display">American Enrichment Deployment Act</title>
     <title type="short" as="introduced">American Enrichment Deployment Act</title>
     <title type="short" as="reported to house">American Enrichment Deployment Act</title>
-    <title type="display">American Enrichment Deployment Act</title>
     <title type="official" as="introduced">To amend the Atomic Energy Act of 1954 to update the licensing procedures for uranium enrichment facilities to enable the timely, safe deployment of such facilities, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="F000478"/>
@@ -41,6 +41,30 @@
     <calendar datetime="2026-11-05" calendar="Union" number="772">
       <text>Placed on the Union Calendar, Calendar No. 772.</text>
     </calendar>
+    <action datetime="2026-11-09T15:53:14-05:00">
+      <text>Mr. Latta moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-11-09T15:53:26-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6100-6102" label="consideration"/>
+    </action>
+    <action datetime="2026-11-09T15:53:27-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 9612.</text>
+    </action>
+    <action datetime="2026-11-09T16:07:27-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2026-11-09T19:00:10-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6108" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="316" datetime="2026-11-09T19:07:45-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3 (Roll no. 316).</text>
+      <reference ref="CR H6100-6101" label="text"/>
+    </vote>
+    <action datetime="2026-11-09T19:07:47-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Referred To"/>

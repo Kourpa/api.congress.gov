@@ -1,13 +1,13 @@
-<bill session="119" type="h" number="3978" updated="2026-11-07T09:06:45Z">
-  <state datetime="2025-06-12">REFERRED</state>
+<bill session="119" type="h" number="3978" updated="2026-11-10T18:15:28Z">
+  <state datetime="2026-11-09T19:00:01-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-06-12"/>
+    <unknown datetime="2026-11-09T19:00:01-05:00"/>
   </status>
   <introduced datetime="2025-06-12"/>
   <titles>
+    <title type="display">Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act</title>
     <title type="short" as="introduced">Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act</title>
     <title type="short" as="reported to house">Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act</title>
-    <title type="display">Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act</title>
     <title type="official" as="introduced">To amend the definition of "production facility" in the Atomic Energy Act of 1954 to exclude an equipment or device capable of reprocessing spent nuclear fuel in a manner that does not separate plutonium from other transuranic elements, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="L000566"/>
@@ -63,6 +63,30 @@
     <calendar datetime="2026-11-05" calendar="Union" number="768">
       <text>Placed on the Union Calendar, Calendar No. 768.</text>
     </calendar>
+    <action datetime="2026-11-09T15:22:34-05:00">
+      <text>Mr. Latta moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-11-09T15:22:53-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6096-6097" label="consideration"/>
+    </action>
+    <action datetime="2026-11-09T15:22:54-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3978.</text>
+    </action>
+    <action datetime="2026-11-09T15:28:17-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2026-11-09T18:31:21-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6107-6108" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="315" datetime="2026-11-09T19:00:01-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 2 (Roll no. 315).</text>
+      <reference ref="CR H6096" label="text"/>
+    </vote>
+    <action datetime="2026-11-09T19:00:03-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Referred To"/>

@@ -1,13 +1,13 @@
-<bill session="119" type="h" number="9614" updated="2026-11-06T09:06:52Z">
-  <state datetime="2026-07-09">REFERRED</state>
+<bill session="119" type="h" number="9614" updated="2026-11-10T18:20:50Z">
+  <state datetime="2026-11-09T16:27:53-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2026-07-09"/>
+    <unknown datetime="2026-11-09T16:27:53-05:00"/>
   </status>
   <introduced datetime="2026-07-09"/>
   <titles>
+    <title type="display">NRC Staff Pay Alignment Act</title>
     <title type="short" as="introduced">NRC Staff Pay Alignment Act</title>
     <title type="short" as="reported to house">NRC Staff Pay Alignment Act</title>
-    <title type="display">NRC Staff Pay Alignment Act</title>
     <title type="official" as="introduced">To amend the Atomic Energy Act of 1954 to provide compensation authority for certain career appointees, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="M001226"/>
@@ -34,6 +34,23 @@
     <calendar datetime="2026-11-05" calendar="Union" number="773">
       <text>Placed on the Union Calendar, Calendar No. 773.</text>
     </calendar>
+    <action datetime="2026-11-09T16:17:52-05:00">
+      <text>Mr. Latta moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2026-11-09T16:18:12-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6104-6105" label="consideration"/>
+    </action>
+    <action datetime="2026-11-09T16:18:14-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 9614.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2026-11-09T16:27:53-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6104" label="text"/>
+    </vote>
+    <action datetime="2026-11-09T16:27:57-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Referred To"/>
