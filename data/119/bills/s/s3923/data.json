@@ -49,9 +49,41 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 685.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-11-10",
+      "action_code": "",
+      "references": [],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-10",
+      "action_code": "",
+      "references": [],
+      "text": "The committee amendments withdrawn by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-10",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [
+    {
+      "amendment_id": "samdt6881-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "6881"
+    },
     {
       "amendment_id": "samdt6838-119",
       "amendment_type": "samdt",
@@ -195,6 +227,8 @@
     "active_at": "2026-03-04",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-10",
     "vetoed": false
   },
   "introduced_at": "2026-02-25",
@@ -242,8 +276,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-03-04",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-11-10",
   "subjects": [
     "Advanced technology and technological innovations",
     "Aquatic ecology",
@@ -289,6 +323,13 @@
   "summary": null,
   "titles": [
     {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Weather Research and Forecasting Innovation Reauthorization Act of 2026",
+      "type": "display"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -303,11 +344,11 @@
       "type": "short"
     },
     {
-      "as": null,
+      "as": "passed senate",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Weather Research and Forecasting Innovation Reauthorization Act of 2026",
-      "type": "display"
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -317,6 +358,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-10-16T19:50:19Z",
+  "updated_at": "2026-11-11T12:08:53Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3923.xml"
 }

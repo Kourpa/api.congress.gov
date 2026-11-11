@@ -25,6 +25,28 @@
       "status": "REFERRED",
       "text": "Referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-11-10",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-10",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:SIMPLERES",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -35,6 +57,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -136,9 +159,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-11-10",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-10",
     "vetoed": false
   },
   "introduced_at": "2026-10-15",
@@ -155,8 +181,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-10-15",
+  "status": "PASSED:SIMPLERES",
+  "status_at": "2026-11-10",
   "subjects": [
     "Alternative and renewable resources",
     "Commemorative events and holidays",
@@ -186,6 +212,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-11-10T21:06:23Z",
+  "updated_at": "2026-11-11T11:56:46Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres950.xml"
 }

@@ -1,13 +1,14 @@
-<bill session="119" type="s" number="3923" updated="2026-10-16T19:50:19Z">
-  <state datetime="2026-03-04">REPORTED</state>
+<bill session="119" type="s" number="3923" updated="2026-11-11T12:08:53Z">
+  <state datetime="2026-11-10">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-03-04"/>
+    <unknown datetime="2026-11-10"/>
   </status>
   <introduced datetime="2026-02-25"/>
   <titles>
+    <title type="display">Weather Research and Forecasting Innovation Reauthorization Act of 2026</title>
     <title type="short" as="introduced">Weather Research and Forecasting Innovation Reauthorization Act of 2026</title>
     <title type="short" as="reported to senate">Weather Research and Forecasting Innovation Reauthorization Act of 2026</title>
-    <title type="display">Weather Research and Forecasting Innovation Reauthorization Act of 2026</title>
+    <title type="short" as="passed senate">Weather Research and Forecasting Innovation Reauthorization Act of 2026</title>
     <title type="official" as="introduced">A bill to improve the weather research of the National Oceanic and Atmospheric Administration, support improvements in weather forecasting and prediction, and expand commercial opportunities for the provision of weather data.</title>
   </titles>
   <sponsor bioguide_id="C001098"/>
@@ -40,6 +41,15 @@
     <calendar datetime="2026-09-28" calendar="Senate Legislative" under="General Orders" number="685">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 685.</text>
     </calendar>
+    <action datetime="2026-11-10">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="2026-11-10">
+      <text>The committee amendments withdrawn by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-11-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="SSCM" name="Senate Commerce, Science, and Transportation" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -93,6 +103,7 @@
     <term name="Wetlands"/>
   </subjects>
   <amendments>
+    <amendment number="s6881"/>
     <amendment number="s6838"/>
   </amendments>
   <committee-reports>
