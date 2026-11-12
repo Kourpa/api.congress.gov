@@ -112,9 +112,26 @@
     {
       "acted_at": "2026-11-10",
       "action_code": "",
-      "references": [],
-      "text": "Received in the Senate.",
+      "references": [
+        {
+          "reference": "CR S5572",
+          "type": "consideration"
+        }
+      ],
+      "text": "Received in the Senate, read twice.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-11-11",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -204,6 +221,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-11-09T16:40:01-05:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-11",
     "vetoed": false
   },
   "introduced_at": "2026-04-28",
@@ -245,8 +264,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-11-09T16:40:01-05:00",
+  "status": "PASSED:BILL",
+  "status_at": "2026-11-11",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Armed forces and national security",
@@ -299,6 +318,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-11-11T11:56:54Z",
+  "updated_at": "2026-11-12T15:22:53Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8552.xml"
 }

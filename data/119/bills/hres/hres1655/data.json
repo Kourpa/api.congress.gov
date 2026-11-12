@@ -10,7 +10,16 @@
     {
       "acted_at": "2026-11-10T17:33:54-05:00",
       "action_code": "H30000",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H6126-6133",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR H6126-6132",
+          "type": "text"
+        }
+      ],
       "text": "Considered as privileged matter.",
       "type": "action"
     },
@@ -20,7 +29,12 @@
       "committees": [
         "HSJU"
       ],
-      "references": [],
+      "references": [
+        {
+          "reference": "CR H6132",
+          "type": null
+        }
+      ],
       "text": "Mr. Issa moved to refer to the Judiciary.",
       "type": "action"
     },
@@ -116,6 +130,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-11-11T09:07:05Z",
+  "updated_at": "2026-11-12T15:27:51Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1655.xml"
 }

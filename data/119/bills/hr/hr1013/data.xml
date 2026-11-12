@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="1013" updated="2026-11-11T09:06:56Z">
-  <state datetime="2025-05-20">REPORTED</state>
+<bill session="119" type="h" number="1013" updated="2026-11-12T16:16:58Z">
+  <state datetime="2026-11-11T14:43:57-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2025-05-20"/>
+    <unknown datetime="2026-11-11T14:43:57-05:00"/>
   </status>
   <introduced datetime="2025-02-05"/>
   <titles>
@@ -62,6 +62,23 @@
     <action datetime="2026-11-10T18:20:54-05:00">
       <text>Rule H. Res. 1650 passed House.</text>
     </action>
+    <action datetime="2026-11-11T13:33:53-05:00">
+      <text>Considered under the provisions of rule H. Res. 1650.</text>
+      <reference ref="CR H6166-6171" label="consideration"/>
+    </action>
+    <action datetime="2026-11-11T13:33:58-05:00">
+      <text>Rule provides for consideration of H.R. 1013 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2026-11-11T13:34:45-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1013.</text>
+    </action>
+    <vote how="roll" type="vote" roll="321" datetime="2026-11-11T14:43:57-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 295 - 128 (Roll no. 321).</text>
+      <reference ref="CR H6166" label="text"/>
+    </vote>
+    <action datetime="2026-11-11T14:43:59-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -78,7 +95,9 @@
     <term name="Religion"/>
     <term name="Social work, volunteer service, charitable organizations"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h273"/>
+  </amendments>
   <summary date="2025-06-09T19:50:46Z" status="Introduced in House">Retirement Fairness for Charities and Educational Institutions Act of 2025
 
 This bill allows 403(b) retirement plans (i.e., retirement plans designed for certain employees of public schools, charities, and churches) to invest in collective investment trusts, which are a group of pooled investment assets held by a bank or trust company, and in insurance company separate accounts.</summary>

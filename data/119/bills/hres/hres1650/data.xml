@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="1650" updated="2026-11-12T05:23:37Z">
+<bill session="119" type="hr" number="1650" updated="2026-11-12T15:24:19Z">
   <state datetime="2026-11-10T18:20:53-05:00">PASSED:SIMPLERES</state>
   <status>
     <unknown datetime="2026-11-10T18:20:53-05:00"/>
@@ -23,6 +23,7 @@
     </calendar>
     <action datetime="2026-11-10T12:11:21-05:00">
       <text>Considered as privileged matter.</text>
+      <reference ref="CR H6122-6126" label="consideration"/>
     </action>
     <action datetime="2026-11-10T12:12:24-05:00">
       <text>DEBATE - The House proceeded with one hour of debate on H. Res. 1650.</text>
@@ -32,12 +33,15 @@
     </action>
     <action datetime="2026-11-10T18:03:00-05:00">
       <text>Considered as unfinished business.</text>
+      <reference ref="CR H6133-6134" label="consideration"/>
     </action>
     <action datetime="2026-11-10T18:10:37-05:00">
       <text>On ordering the previous question Agreed to by the Yeas and Nays: 213 - 207 (Roll no. 318).</text>
+      <reference ref="CR H6133" label="consideration"/>
     </action>
     <vote how="roll" type="vote" roll="319" datetime="2026-11-10T18:20:53-05:00" where="h" result="pass" state="PASSED:SIMPLERES">
       <text>On agreeing to the resolution Agreed to by recorded vote: 215 - 209 (Roll no. 319).</text>
+      <reference ref="CR H6122-6123" label="text"/>
     </vote>
     <action datetime="2026-11-10T18:20:57-05:00">
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>

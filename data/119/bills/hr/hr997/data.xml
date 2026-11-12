@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="997" updated="2026-11-10T14:13:57Z">
-  <state datetime="2026-09-28">PASSED:BILL</state>
+<bill session="119" type="h" number="997" updated="2026-11-12T15:04:55Z">
+  <state datetime="2026-11-10">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2026-09-28"/>
+    <unknown datetime="2026-11-10"/>
   </status>
   <introduced datetime="2025-02-05"/>
   <titles>
@@ -77,6 +77,9 @@
     <topresident datetime="2026-11-09">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2026-11-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
   </actions>
   <committees>
     <committee code="SSFI" name="Senate Finance" subcommittee="" activity="Discharged From, Referred To"/>

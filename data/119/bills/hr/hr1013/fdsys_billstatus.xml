@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1013</number>
-    <updateDate>2026-11-11T09:06:56Z</updateDate>
-    <updateDateIncludingText>2026-11-11T09:06:56Z</updateDateIncludingText>
+    <updateDate>2026-11-12T16:16:58Z</updateDate>
+    <updateDateIncludingText>2026-11-12T16:16:58Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -75,6 +75,92 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-11-11</actionDate>
+        <actionTime>14:43:59</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-11</actionDate>
+        <actionTime>14:43:57</actionTime>
+        <text>On passage Passed by the Yeas and Nays: 295 - 128 (Roll no. 321). (text: CR H6166)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>321</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll321.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-11-11T19:43:57Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-11-11</actionDate>
+        <actionTime>14:43:57</actionTime>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 295 - 128 (Roll no. 321).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>321</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll321.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-11-11T19:43:57Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-11-11</actionDate>
+        <actionTime>13:34:45</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H.R. 1013.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-11</actionDate>
+        <actionTime>13:33:58</actionTime>
+        <text>Rule provides for consideration of H.R. 1013 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Bill is closed to amendments.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-11</actionDate>
+        <actionTime>13:33:53</actionTime>
+        <text>Considered under the provisions of rule H. Res. 1650. (consideration: CR H6166-6171)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2026-11-10</actionDate>
         <actionTime>18:20:54</actionTime>
@@ -570,6 +656,92 @@
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>273</number>
+        <congress>119</congress>
+        <type>HAMDT</type>
+        <description>Pursuant to the provisions of H. Res. 1650, an amendment in the nature of asubstitute recommended by the Committee on Financial Services now printed in the bill is considered adopted.</description>
+        <updateDate>2026-11-12T09:09:32Z</updateDate>
+        <latestAction>
+          <actionDate>2026-11-11</actionDate>
+          <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+        </latestAction>
+        <sponsors>
+          <item>
+            <name>Rules Committee</name>
+          </item>
+        </sponsors>
+        <submittedDate>2026-11-11T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1013</number>
+          <title>Retirement Fairness for Charities and Educational Institutions Act of 2025</title>
+          <updateDateIncludingText>2026-11-12</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-11</actionDate>
+              <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-11</actionDate>
+              <text>Amendment in the nature of a substitute reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+            <item>
+              <actionDate>2026-11-11</actionDate>
+              <text>House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-11</actionDate>
+              <text>House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Reported in House</type>
@@ -591,9 +763,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-11-10</actionDate>
-      <text>Rule H. Res. 1650 passed House.</text>
-      <actionTime>18:20:54</actionTime>
+      <actionDate>2026-11-11</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>14:43:59</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -78,9 +78,71 @@
       "references": [],
       "text": "Rule H. Res. 1650 passed House.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-11-11T13:33:53-05:00",
+      "action_code": "H30000",
+      "bill_ids": [
+        "hres1650-119"
+      ],
+      "references": [
+        {
+          "reference": "CR H6166-6171",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered under the provisions of rule H. Res. 1650.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-11T13:33:58-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "Rule provides for consideration of H.R. 1013 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Bill is closed to amendments.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-11T13:34:45-05:00",
+      "action_code": "H8D000",
+      "references": [],
+      "text": "DEBATE - The House proceeded with one hour of debate on H.R. 1013.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-11T14:43:57-05:00",
+      "action_code": "H37100",
+      "how": "roll",
+      "references": [
+        {
+          "reference": "CR H6166",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "roll": "321",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": null,
+      "text": "On passage Passed by the Yeas and Nays: 295 - 128 (Roll no. 321).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-11-11T14:43:59-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "hamdt273-119",
+      "amendment_type": "hamdt",
+      "chamber": "h",
+      "number": "273"
+    }
+  ],
   "bill_id": "hr1013-119",
   "bill_type": "hr",
   "by_request": false,
@@ -347,6 +409,8 @@
     "active_at": "2025-05-20",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-11-11T14:43:57-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-02-05",
@@ -376,8 +440,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-05-20",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-11-11T14:43:57-05:00",
   "subjects": [
     "Employee benefits and pensions",
     "Finance and financial sector",
@@ -423,6 +487,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-11-11T09:06:56Z",
+  "updated_at": "2026-11-12T16:16:58Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1013.xml"
 }
