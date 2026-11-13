@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1531" updated="2026-02-13T04:08:22Z">
+<bill session="119" type="h" number="1531" updated="2026-11-12T20:38:50Z">
   <state datetime="2026-02-09T19:07:28-05:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2026-02-09T19:07:28-05:00"/>
@@ -80,7 +80,9 @@
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Discharged From, Referred To"/>
     <committee code="HSBA" name="House Financial Services" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="803" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="International affairs"/>
     <term name="Asia"/>

@@ -1,12 +1,12 @@
-<bill session="119" type="s" number="4234" updated="2026-04-21T03:58:50Z">
+<bill session="119" type="s" number="4234" updated="2026-11-12T22:08:16Z">
   <state datetime="2026-03-26">REFERRED</state>
   <status>
     <introduced datetime="2026-03-26"/>
   </status>
   <introduced datetime="2026-03-26"/>
   <titles>
-    <title type="display">Healthy Watersheds, Healthy Communities Act of 2026</title>
     <title type="short" as="introduced">Healthy Watersheds, Healthy Communities Act of 2026</title>
+    <title type="display">Healthy Watersheds, Healthy Communities Act of 2026</title>
     <title type="official" as="introduced">A bill to amend the Watershed Protection and Flood Prevention Act to improve that Act, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="B001267"/>
@@ -25,7 +25,10 @@
   <committees>
     <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="s" number="2636" relation="cross-congress related"/>
+    <bill session="118" type="h" number="6497" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Water resources development"/>
   </subjects>

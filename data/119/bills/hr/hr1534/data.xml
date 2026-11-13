@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1534" updated="2026-09-08T18:09:59Z">
+<bill session="119" type="h" number="1534" updated="2026-11-12T20:46:56Z">
   <state datetime="2025-03-25T13:56:23-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-03-25T13:56:23-04:00"/>
@@ -58,7 +58,9 @@
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="7685" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Science, technology, communications"/>
     <term name="Advanced technology and technological innovations"/>
