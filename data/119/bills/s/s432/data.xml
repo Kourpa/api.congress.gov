@@ -1,13 +1,13 @@
-<bill session="119" type="s" number="432" updated="2026-11-13T08:13:38Z">
-  <state datetime="2025-02-05">REFERRED</state>
+<bill session="119" type="s" number="432" updated="2026-11-13T15:26:49Z">
+  <state datetime="2026-11-12">PASS_OVER:SENATE</state>
   <status>
-    <introduced datetime="2025-02-05"/>
+    <unknown datetime="2026-11-12"/>
   </status>
   <introduced datetime="2025-02-05"/>
   <titles>
+    <title type="display">Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act</title>
     <title type="short" as="introduced">Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act</title>
     <title type="short" as="passed senate">Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act</title>
-    <title type="display">Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act</title>
     <title type="official" as="introduced">A bill to establish the Fort Ontario Holocaust Refugee Shelter National Historical Park in the State of New York as a unit of the National Park System, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000555"/>
@@ -21,9 +21,17 @@
     <action datetime="2025-02-05" state="REFERRED">
       <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
     </action>
+    <action datetime="2026-11-12">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-11-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5668" label="consideration"/>
+      <reference ref="CR S5669" label="text"/>
+    </vote>
   </actions>
   <committees>
-    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Referred To"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Discharged From, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="1031" relation="identical"/>

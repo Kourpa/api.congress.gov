@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2102" updated="2026-11-13T08:08:33Z">
-  <state datetime="2025-03-14">REFERRED</state>
+<bill session="119" type="h" number="2102" updated="2026-11-13T11:56:59Z">
+  <state datetime="2026-11-12T10:59:28-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <introduced datetime="2025-03-14"/>
+    <unknown datetime="2026-11-12T10:59:28-05:00"/>
   </status>
   <introduced datetime="2025-03-14"/>
   <titles>
@@ -369,19 +369,43 @@
     <action datetime="2025-04-04">
       <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
     </action>
+    <action datetime="2026-11-12T09:47:57-05:00">
+      <text>Considered under the provisions of rule H. Res. 1247.</text>
+      <reference ref="CR H6195-6201" label="consideration"/>
+    </action>
+    <action datetime="2026-11-12T09:48:52-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 2102.</text>
+    </action>
+    <action datetime="2026-11-12T10:25:17-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="323" datetime="2026-11-12T10:59:28-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 392 - 18 (Roll no. 323).</text>
+      <reference ref="CR H6195" label="text"/>
+    </vote>
+    <action datetime="2026-11-12T10:59:31-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2026-11-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Armed Services.</text>
+    </action>
   </actions>
   <committees>
+    <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Referred To"/>
     <committee code="HSVR" name="House Veterans' Affairs" subcommittee="" activity="Referred To"/>
     <committee code="HSVR09" name="House Veterans' Affairs" subcommittee="Disability Assistance and Memorial Affairs" activity="Referral"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1032" relation="identical"/>
+    <bill session="119" type="hr" number="1247" relation="unknown"/>
   </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
   </subjects>
-  <amendments/>
+  <amendments>
+    <amendment number="h274"/>
+  </amendments>
   <summary date="2026-08-31T18:42:18Z" status="Introduced in House">Major Richard Star Act
 
 This bill allows a veteran with a combat-related disability to receive retirement pay, without reduction, concurrently with their disability compensation. This includes veterans with a combat-related disability and fewer than 20 years of creditable service. (Currently, veterans who receive combat-related special compensation and retirement pay are subject to an offset in retirement pay for concurrent receipt of such benefits.)</summary>

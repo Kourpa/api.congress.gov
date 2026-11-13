@@ -1,7 +1,7 @@
-<bill session="119" type="s" number="1353" updated="2026-09-25T21:05:21Z">
-  <state datetime="2026-02-04">REPORTED</state>
+<bill session="119" type="s" number="1353" updated="2026-11-13T14:57:37Z">
+  <state datetime="2026-11-12">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-02-04"/>
+    <unknown datetime="2026-11-12"/>
   </status>
   <introduced datetime="2025-04-08"/>
   <titles>
@@ -31,6 +31,11 @@
     <calendar datetime="2026-07-23" calendar="Senate Legislative" under="General Orders" number="475">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-11-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S5666-5667" label="consideration"/>
+      <reference ref="CR S5667" label="text"/>
+    </vote>
   </actions>
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>

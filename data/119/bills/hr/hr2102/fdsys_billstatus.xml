@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2102</number>
-    <updateDate>2026-11-13T08:08:33Z</updateDate>
-    <updateDateIncludingText>2026-11-13T08:08:33Z</updateDateIncludingText>
+    <updateDate>2026-11-13T11:56:59Z</updateDate>
+    <updateDateIncludingText>2026-11-13T16:03:42Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/2102</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 171, Number 49 (Friday, March 14, 2025)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. BILIRAKIS:H.R. 2102.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H1162]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>ssas00</systemCode>
+        <name>Armed Services Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-11-12T18:16:55Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsvr00</systemCode>
         <name>Veterans' Affairs Committee</name>
@@ -67,8 +79,125 @@
           </item>
         </relationshipDetails>
       </item>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans' disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes.</title>
+        <congress>119</congress>
+        <number>1247</number>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2026-11-12</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>09:46:07</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-11-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2026-11-12</actionDate>
+        <actionTime>10:59:31</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-12</actionDate>
+        <actionTime>10:59:28</actionTime>
+        <text>On passage Passed by the Yeas and Nays: 392 - 18 (Roll no. 323). (text: CR H6195)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>323</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll323.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-11-12T15:59:28Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-11-12</actionDate>
+        <actionTime>10:59:28</actionTime>
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 392 - 18 (Roll no. 323).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>323</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll323.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-11-12T15:59:28Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-11-12</actionDate>
+        <actionTime>10:25:17</actionTime>
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-12</actionDate>
+        <actionTime>09:48:52</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H.R. 2102.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-12</actionDate>
+        <actionTime>09:47:57</actionTime>
+        <text>Considered under the provisions of rule H. Res. 1247. (consideration: CR H6195-6201)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2025-04-04</actionDate>
         <committees>
@@ -4108,6 +4237,92 @@
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>274</number>
+        <congress>119</congress>
+        <type>HAMDT</type>
+        <description>Pursuant to the provisions of H. Res. 1247, an amendment in the nature of a substitute specified in section 4 of that resolution is considered adopted.</description>
+        <updateDate>2026-11-13T09:09:34Z</updateDate>
+        <latestAction>
+          <actionDate>2026-11-12</actionDate>
+          <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+        </latestAction>
+        <sponsors>
+          <item>
+            <name>Rules Committee</name>
+          </item>
+        </sponsors>
+        <submittedDate>2026-11-12T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2102</number>
+          <title>Major Richard Star Act</title>
+          <updateDateIncludingText>2026-11-13</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>4</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-12</actionDate>
+              <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-12</actionDate>
+              <text>Amendment reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+            <item>
+              <actionDate>2026-11-12</actionDate>
+              <text>House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
+              <type/>
+              <actionCode>72500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-12</actionDate>
+              <text>House amendment offered/reported by: Amendment reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Engrossed in House</type>
@@ -4129,8 +4344,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-04-04</actionDate>
-      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <actionDate>2026-11-12</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Armed Services.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

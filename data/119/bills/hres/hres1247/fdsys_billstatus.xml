@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1247</number>
-    <updateDate>2026-11-12T16:12:21Z</updateDate>
-    <updateDateIncludingText>2026-11-12T16:12:21Z</updateDateIncludingText>
+    <updateDate>2026-11-13T09:07:33Z</updateDate>
+    <updateDateIncludingText>2026-11-13T16:03:43Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -30,7 +30,89 @@
         </activities>
       </item>
     </committees>
+    <relatedBills>
+      <item>
+        <title>Major Richard Star Act</title>
+        <congress>119</congress>
+        <number>2102</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2026-11-12</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-11-12</actionDate>
+        <actionTime>09:46:07</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-12</actionDate>
+        <actionTime>09:46:06</actionTime>
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 271 - 135 (Roll no. 322).</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>322</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll322.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-11-12T14:46:06Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-11-12</actionDate>
+        <actionTime>09:46:06</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 271 - 135 (Roll no. 322).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>322</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll322.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-11-12T14:46:06Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-11-12</actionDate>
+        <actionTime>09:14:01</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H6194-6195)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
       <item>
         <actionDate>2026-11-11</actionDate>
         <actionTime>13:32:25</actionTime>
@@ -275,6 +357,26 @@
     <title>Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans' disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes.</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <titleTypeCode>104</titleTypeCode>
+        <title>Major Richard Star Act</title>
+        <updateDate>2026-11-13T08:23:37Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans’ disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes.</title>
+        <updateDate>2026-11-13T08:23:37Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans' disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes.</title>
@@ -297,6 +399,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Engrossed in House</type>
+        <date>2026-11-12T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hres1247eh/xml/BILLS-119hres1247eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2026-04-30T04:00:00Z</date>
         <formats>
@@ -307,9 +418,9 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-11-11</actionDate>
-      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1247, the Chair put the question on agreeing to the resolution and by voice vote, announced that the noes had prevailed. Mr. Takano demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
-      <actionTime>13:32:25</actionTime>
+      <actionDate>2026-11-12</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>09:46:07</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

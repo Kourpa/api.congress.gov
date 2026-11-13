@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="3493" updated="2026-11-13T08:08:32Z">
-  <state datetime="2026-03-04">REPORTED</state>
+<bill session="119" type="s" number="3493" updated="2026-11-13T14:59:13Z">
+  <state datetime="2026-11-12">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-03-04"/>
+    <unknown datetime="2026-11-12"/>
   </status>
   <introduced datetime="2025-12-16"/>
   <titles>
+    <title type="display">Carson City Public Land Correction Act</title>
     <title type="short" as="introduced">Carson City Public Land Correction Act</title>
     <title type="short" as="reported to senate">Carson City Public Land Correction Act</title>
     <title type="short" as="passed senate">Carson City Public Land Correction Act</title>
-    <title type="display">Carson City Public Land Correction Act</title>
     <title type="official" as="introduced">A bill to provide for the conveyance of certain Federal land in Carson City, Nevada, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="R000608"/>
@@ -32,6 +32,11 @@
     <calendar datetime="2026-07-23" calendar="Senate Legislative" under="General Orders" number="488">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 488.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-11-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S5666-5667" label="consideration"/>
+      <reference ref="CR S5667-5668" label="text"/>
+    </vote>
   </actions>
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
