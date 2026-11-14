@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1263" updated="2026-07-10T16:43:19Z">
+<bill session="119" type="h" number="1263" updated="2026-11-13T23:33:55Z">
   <state datetime="2025-05-19T18:55:41-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-05-19T18:55:41-04:00"/>
@@ -59,7 +59,9 @@
     <committee code="SSFR" name="Senate Foreign Relations" subcommittee="" activity="Referred To"/>
     <committee code="HSFA" name="House Foreign Affairs" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="5375" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="International affairs"/>
     <term name="Advisory bodies"/>

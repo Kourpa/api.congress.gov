@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1217" updated="2026-03-30T14:11:32Z">
+<bill session="119" type="h" number="1217" updated="2026-11-13T23:17:03Z">
   <state datetime="2025-02-11">REFERRED</state>
   <status>
     <introduced datetime="2025-02-11"/>
@@ -27,7 +27,10 @@
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="s" number="3496" relation="cross-congress related"/>
+    <bill session="118" type="h" number="7053" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Environmental protection"/>
   </subjects>
