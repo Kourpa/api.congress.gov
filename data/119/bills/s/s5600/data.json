@@ -29,13 +29,6 @@
       "where": "s"
     },
     {
-      "acted_at": "2026-10-05",
-      "action_code": "",
-      "references": [],
-      "text": "Message on Senate action sent to the House.",
-      "type": "action"
-    },
-    {
       "acted_at": "2026-10-05T16:32:15-04:00",
       "action_code": "H14000",
       "references": [],
@@ -47,6 +40,13 @@
       "action_code": "H15000",
       "references": [],
       "text": "Held at the desk.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-10-05",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
       "type": "action"
     }
   ],
@@ -85,6 +85,16 @@
       "original_cosponsor": true,
       "sponsored_at": "2026-09-29",
       "state": "NJ",
+      "title": "Sen.",
+      "withdrawn_at": null
+    },
+    {
+      "bioguide_id": "P000145",
+      "district": null,
+      "name": "Padilla, Alex",
+      "original_cosponsor": false,
+      "sponsored_at": "2026-11-16",
+      "state": "CA",
       "title": "Sen.",
       "withdrawn_at": null
     }
@@ -159,6 +169,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-10-08T13:51:05Z",
+  "updated_at": "2026-11-17T12:03:43Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5600.xml"
 }

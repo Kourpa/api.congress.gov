@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2102</number>
-    <updateDate>2026-11-17T06:08:37Z</updateDate>
-    <updateDateIncludingText>2026-11-17T06:18:48Z</updateDateIncludingText>
+    <updateDate>2026-11-17T09:09:36Z</updateDate>
+    <updateDateIncludingText>2026-11-17T09:09:36Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -4266,7 +4266,7 @@
         <congress>119</congress>
         <type>HAMDT</type>
         <description>Pursuant to the provisions of H. Res. 1247, an amendment in the nature of a substitute specified in section 4 of that resolution is considered adopted.</description>
-        <updateDate>2026-11-13T09:09:34Z</updateDate>
+        <updateDate>2026-11-17T09:09:36Z</updateDate>
         <latestAction>
           <actionDate>2026-11-12</actionDate>
           <text>On agreeing to the Rules amendment (A001) Agreed to without objection.</text>
@@ -4302,7 +4302,23 @@
             </item>
             <item>
               <actionDate>2026-11-12</actionDate>
-              <text>Amendment reported by the House Committee on Rules.</text>
+              <text>Amendment in the nature of a substitute reported by the House Committee on Rules.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committees>
+                <item>
+                  <systemCode>hsru00</systemCode>
+                  <name>Rules Committee</name>
+                </item>
+              </committees>
+            </item>
+            <item>
+              <actionDate>2026-11-12</actionDate>
+              <text>House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.</text>
               <type>NotUsed</type>
               <actionCode>71500</actionCode>
               <sourceSystem>
@@ -4325,22 +4341,6 @@
                 <code>9</code>
                 <name>Library of Congress</name>
               </sourceSystem>
-            </item>
-            <item>
-              <actionDate>2026-11-12</actionDate>
-              <text>House amendment offered/reported by: Amendment reported by the House Committee on Rules.</text>
-              <type>NotUsed</type>
-              <actionCode>71500</actionCode>
-              <sourceSystem>
-                <code>9</code>
-                <name>Library of Congress</name>
-              </sourceSystem>
-              <committees>
-                <item>
-                  <systemCode>hsru00</systemCode>
-                  <name>Rules Committee</name>
-                </item>
-              </committees>
             </item>
           </actions>
         </actions>

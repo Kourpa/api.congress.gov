@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2347</number>
-    <updateDate>2026-11-14T12:08:57Z</updateDate>
-    <updateDateIncludingText>2026-11-14T12:08:57Z</updateDateIncludingText>
+    <updateDate>2026-11-17T14:13:24Z</updateDate>
+    <updateDateIncludingText>2026-11-17T14:13:24Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -58,6 +58,28 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-11-16</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Considered by Senate. (consideration: CR S5679)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-11-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion by Senator Thune to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 6888) fell when cloture was invoked on amendment SA 6883 in Senate.</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2026-11-11</actionDate>
         <sourceSystem>
@@ -527,6 +549,825 @@
     </titles>
     <amendments>
       <amendment>
+        <number>7020</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>S001194</bioguideId>
+            <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+            <firstName>Brian</firstName>
+            <lastName>Schatz</lastName>
+            <party>D</party>
+            <state>HI</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>M001153</bioguideId>
+            <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+            <firstName>Lisa</firstName>
+            <lastName>Murkowski</lastName>
+            <party>R</party>
+            <state>AK</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>7000</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <updateDate>2026-11-13T12:09:22Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>7019</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>M001153</bioguideId>
+            <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+            <firstName>Lisa</firstName>
+            <lastName>Murkowski</lastName>
+            <party>R</party>
+            <state>AK</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>S001194</bioguideId>
+            <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+            <firstName>Brian</firstName>
+            <lastName>Schatz</lastName>
+            <party>D</party>
+            <state>HI</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6999</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <updateDate>2026-11-13T12:09:22Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>7018</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6883</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>7017</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6883</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>7016</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6883</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>7015</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>B001267</bioguideId>
+            <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+            <firstName>Michael</firstName>
+            <lastName>Bennet</lastName>
+            <party>D</party>
+            <state>CO</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6957</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <updateDate>2026-11-13T12:09:24Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>7014</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6883</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>7013</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6883</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>7012</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>O000174</bioguideId>
+            <fullName>Sen. Ossoff, Jon [D-GA]</fullName>
+            <firstName>Jon</firstName>
+            <lastName>Ossoff</lastName>
+            <party>D</party>
+            <state>GA</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>W000790</bioguideId>
+            <fullName>Sen. Warnock, Raphael G. [D-GA]</fullName>
+            <firstName>Raphael</firstName>
+            <lastName>Warnock</lastName>
+            <party>D</party>
+            <state>GA</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>7005</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <updateDate>2026-11-13T12:09:22Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>7011</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>A000382</bioguideId>
+            <fullName>Sen. Alsobrooks, Angela D. [D-MD]</fullName>
+            <firstName>Angela</firstName>
+            <lastName>Alsobrooks</lastName>
+            <party>D</party>
+            <state>MD</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>S001181</bioguideId>
+            <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+            <firstName>Jeanne</firstName>
+            <lastName>Shaheen</lastName>
+            <party>D</party>
+            <state>NH</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6883</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>7010</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>P000603</bioguideId>
+            <fullName>Sen. Paul, Rand [R-KY]</fullName>
+            <firstName>Rand</firstName>
+            <lastName>Paul</lastName>
+            <party>R</party>
+            <state>KY</state>
+          </item>
+        </sponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6883</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>7009</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>M000934</bioguideId>
+            <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+            <firstName>Jerry</firstName>
+            <lastName>Moran</lastName>
+            <party>R</party>
+            <state>KS</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
+          <count>3</count>
+          <item>
+            <bioguideId>S001227</bioguideId>
+            <fullName>Sen. Schmitt, Eric [R-MO]</fullName>
+            <firstName>Eric</firstName>
+            <lastName>Schmitt</lastName>
+            <party>R</party>
+            <state>MO</state>
+            <middleName>S.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>G000386</bioguideId>
+            <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+            <firstName>Chuck</firstName>
+            <lastName>Grassley</lastName>
+            <party>R</party>
+            <state>IA</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>Y000064</bioguideId>
+            <fullName>Sen. Young, Todd [R-IN]</fullName>
+            <firstName>Todd</firstName>
+            <lastName>Young</lastName>
+            <party>R</party>
+            <state>IN</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2026-11-16T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6883</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
         <number>7008</number>
         <congress>119</congress>
         <type>SAMDT</type>
@@ -550,14 +1391,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -625,14 +1466,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -711,14 +1552,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -786,15 +1627,18 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
+        <amendmentsToAmendment>
+          <count>1</count>
+        </amendmentsToAmendment>
         <actions>
           <count>2</count>
           <actions>
@@ -858,14 +1702,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -919,14 +1763,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -981,14 +1825,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1068,14 +1912,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1109,113 +1953,7 @@
         <number>7000</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T20:53:28Z</updateDate>
-        <sponsors>
-          <item>
-            <bioguideId>M001153</bioguideId>
-            <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
-            <firstName>Lisa</firstName>
-            <lastName>Murkowski</lastName>
-            <party>R</party>
-            <state>AK</state>
-          </item>
-        </sponsors>
-        <cosponsors>
-          <countIncludingWithdrawnCosponsors>4</countIncludingWithdrawnCosponsors>
-          <count>4</count>
-          <item>
-            <bioguideId>S001194</bioguideId>
-            <fullName>Sen. Schatz, Brian [D-HI]</fullName>
-            <firstName>Brian</firstName>
-            <lastName>Schatz</lastName>
-            <party>D</party>
-            <state>HI</state>
-            <sponsorshipDate>2026-11-12</sponsorshipDate>
-            <isOriginalCosponsor>True</isOriginalCosponsor>
-          </item>
-          <item>
-            <bioguideId>C000127</bioguideId>
-            <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
-            <firstName>Maria</firstName>
-            <lastName>Cantwell</lastName>
-            <party>D</party>
-            <state>WA</state>
-            <sponsorshipDate>2026-11-12</sponsorshipDate>
-            <isOriginalCosponsor>True</isOriginalCosponsor>
-          </item>
-          <item>
-            <bioguideId>G000574</bioguideId>
-            <fullName>Sen. Gallego, Ruben [D-AZ]</fullName>
-            <firstName>Ruben</firstName>
-            <lastName>Gallego</lastName>
-            <party>D</party>
-            <state>AZ</state>
-            <sponsorshipDate>2026-11-12</sponsorshipDate>
-            <isOriginalCosponsor>True</isOriginalCosponsor>
-          </item>
-          <item>
-            <bioguideId>L000570</bioguideId>
-            <fullName>Sen. Luján, Ben Ray [D-NM]</fullName>
-            <firstName>Ben</firstName>
-            <lastName>Luján</lastName>
-            <party>D</party>
-            <state>NM</state>
-            <middleName>R.</middleName>
-            <sponsorshipDate>2026-11-12</sponsorshipDate>
-            <isOriginalCosponsor>True</isOriginalCosponsor>
-          </item>
-        </cosponsors>
-        <submittedDate>2026-11-12T05:00:00Z</submittedDate>
-        <chamber>Senate</chamber>
-        <amendedBill>
-          <congress>119</congress>
-          <type>HR</type>
-          <originChamber>House</originChamber>
-          <originChamberCode>H</originChamberCode>
-          <number>2347</number>
-          <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
-        </amendedBill>
-        <amendedAmendment>
-          <number>6883</number>
-          <congress>119</congress>
-          <type>SAMDT</type>
-          <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
-        </amendedAmendment>
-        <actions>
-          <count>2</count>
-          <actions>
-            <item>
-              <actionDate>2026-11-12</actionDate>
-              <type>IntroReferral</type>
-              <actionCode>Intro-S</actionCode>
-              <sourceSystem>
-                <code>9</code>
-                <name>Library of Congress</name>
-              </sourceSystem>
-            </item>
-            <item>
-              <actionDate>2026-11-12</actionDate>
-              <text>Senate amendment submitted</text>
-              <type>Floor</type>
-              <actionCode>91000</actionCode>
-              <sourceSystem>
-                <code>9</code>
-                <name>Library of Congress</name>
-              </sourceSystem>
-            </item>
-          </actions>
-        </actions>
-        <textVersions>
-          <count>1</count>
-        </textVersions>
-      </amendment>
-      <amendment>
-        <number>6999</number>
-        <congress>119</congress>
-        <type>SAMDT</type>
-        <updateDate>2026-11-12T21:54:00Z</updateDate>
+        <updateDate>2026-11-16T21:18:59Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001153</bioguideId>
@@ -1271,15 +2009,14 @@
             <isOriginalCosponsor>True</isOriginalCosponsor>
           </item>
           <item>
-            <bioguideId>H000273</bioguideId>
-            <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
-            <firstName>John</firstName>
-            <lastName>Hickenlooper</lastName>
+            <bioguideId>K000367</bioguideId>
+            <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+            <firstName>Amy</firstName>
+            <lastName>Klobuchar</lastName>
             <party>D</party>
-            <state>CO</state>
-            <middleName>W.</middleName>
-            <sponsorshipDate>2026-11-12</sponsorshipDate>
-            <isOriginalCosponsor>True</isOriginalCosponsor>
+            <state>MN</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
@@ -1291,15 +2028,148 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
+        <amendmentsToAmendment>
+          <count>1</count>
+        </amendmentsToAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-12</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-12</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
+        <number>6999</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-16T21:18:40Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>M001153</bioguideId>
+            <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+            <firstName>Lisa</firstName>
+            <lastName>Murkowski</lastName>
+            <party>R</party>
+            <state>AK</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>6</countIncludingWithdrawnCosponsors>
+          <count>6</count>
+          <item>
+            <bioguideId>S001194</bioguideId>
+            <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+            <firstName>Brian</firstName>
+            <lastName>Schatz</lastName>
+            <party>D</party>
+            <state>HI</state>
+            <sponsorshipDate>2026-11-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>C000127</bioguideId>
+            <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+            <firstName>Maria</firstName>
+            <lastName>Cantwell</lastName>
+            <party>D</party>
+            <state>WA</state>
+            <sponsorshipDate>2026-11-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>G000574</bioguideId>
+            <fullName>Sen. Gallego, Ruben [D-AZ]</fullName>
+            <firstName>Ruben</firstName>
+            <lastName>Gallego</lastName>
+            <party>D</party>
+            <state>AZ</state>
+            <sponsorshipDate>2026-11-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>L000570</bioguideId>
+            <fullName>Sen. Luján, Ben Ray [D-NM]</fullName>
+            <firstName>Ben</firstName>
+            <lastName>Luján</lastName>
+            <party>D</party>
+            <state>NM</state>
+            <middleName>R.</middleName>
+            <sponsorshipDate>2026-11-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>H000273</bioguideId>
+            <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+            <firstName>John</firstName>
+            <lastName>Hickenlooper</lastName>
+            <party>D</party>
+            <state>CO</state>
+            <middleName>W.</middleName>
+            <sponsorshipDate>2026-11-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>K000367</bioguideId>
+            <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+            <firstName>Amy</firstName>
+            <lastName>Klobuchar</lastName>
+            <party>D</party>
+            <state>MN</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2026-11-12T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6883</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
+        </amendedAmendment>
+        <amendmentsToAmendment>
+          <count>1</count>
+        </amendmentsToAmendment>
         <actions>
           <count>2</count>
           <actions>
@@ -1352,14 +2222,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1413,14 +2283,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1488,14 +2358,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1563,14 +2433,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1648,14 +2518,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1743,14 +2613,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1818,14 +2688,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1893,14 +2763,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -1966,14 +2836,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2027,14 +2897,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2122,14 +2992,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2207,14 +3077,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2292,14 +3162,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2379,14 +3249,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2465,14 +3335,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2537,14 +3407,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2609,14 +3479,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2681,14 +3551,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2753,14 +3623,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2825,14 +3695,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2897,14 +3767,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -2969,14 +3839,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3041,14 +3911,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3113,14 +3983,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3220,14 +4090,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3295,14 +4165,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3356,14 +4226,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3452,14 +4322,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3524,14 +4394,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3586,14 +4456,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3648,14 +4518,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3710,14 +4580,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3772,14 +4642,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3834,14 +4704,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3907,14 +4777,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -3980,14 +4850,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4053,14 +4923,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4094,7 +4964,7 @@
         <number>6961</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T20:09:06Z</updateDate>
+        <updateDate>2026-11-16T21:17:26Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>K000383</bioguideId>
@@ -4117,6 +4987,21 @@
             <type>Submitted on behalf of</type>
           </item>
         </onBehalfOfSponsor>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>T000476</bioguideId>
+            <fullName>Sen. Tillis, Thomas [R-NC]</fullName>
+            <firstName>Thomas</firstName>
+            <lastName>Tillis</lastName>
+            <party>R</party>
+            <state>NC</state>
+            <middleName>Roland</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+        </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -4126,14 +5011,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4199,14 +5084,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4271,14 +5156,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4343,14 +5228,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4384,7 +5269,7 @@
         <number>6957</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T20:07:32Z</updateDate>
+        <updateDate>2026-11-16T20:28:19Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001267</bioguideId>
@@ -4396,8 +5281,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>2</countIncludingWithdrawnCosponsors>
-          <count>2</count>
+          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
+          <count>3</count>
           <item>
             <bioguideId>S001150</bioguideId>
             <fullName>Sen. Schiff, Adam B. [D-CA]</fullName>
@@ -4420,6 +5305,17 @@
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>C001088</bioguideId>
+            <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+            <firstName>Christopher</firstName>
+            <lastName>Coons</lastName>
+            <party>D</party>
+            <state>DE</state>
+            <middleName>A.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -4430,15 +5326,18 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
+        <amendmentsToAmendment>
+          <count>1</count>
+        </amendmentsToAmendment>
         <actions>
           <count>2</count>
           <actions>
@@ -4517,14 +5416,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4558,7 +5457,7 @@
         <number>6955</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T20:06:43Z</updateDate>
+        <updateDate>2026-11-16T20:27:16Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001267</bioguideId>
@@ -4570,8 +5469,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>2</countIncludingWithdrawnCosponsors>
-          <count>2</count>
+          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
+          <count>3</count>
           <item>
             <bioguideId>C000127</bioguideId>
             <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
@@ -4593,6 +5492,17 @@
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>S001150</bioguideId>
+            <fullName>Sen. Schiff, Adam B. [D-CA]</fullName>
+            <firstName>Adam</firstName>
+            <lastName>Schiff</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <middleName>B.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -4603,14 +5513,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4690,14 +5600,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4751,14 +5661,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4812,14 +5722,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4873,14 +5783,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4934,14 +5844,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -4995,14 +5905,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5071,14 +5981,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5132,14 +6042,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5193,14 +6103,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5254,14 +6164,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5330,14 +6240,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5391,14 +6301,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5432,7 +6342,7 @@
         <number>6942</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T21:13:40Z</updateDate>
+        <updateDate>2026-11-16T22:10:32Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>P000145</bioguideId>
@@ -5444,8 +6354,18 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>4</countIncludingWithdrawnCosponsors>
-          <count>4</count>
+          <countIncludingWithdrawnCosponsors>6</countIncludingWithdrawnCosponsors>
+          <count>6</count>
+          <item>
+            <bioguideId>K000377</bioguideId>
+            <fullName>Sen. Kelly, Mark [D-AZ]</fullName>
+            <firstName>Mark</firstName>
+            <lastName>Kelly</lastName>
+            <party>D</party>
+            <state>AZ</state>
+            <sponsorshipDate>2026-11-12</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
           <item>
             <bioguideId>G000574</bioguideId>
             <fullName>Sen. Gallego, Ruben [D-AZ]</fullName>
@@ -5488,6 +6408,16 @@
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>S001194</bioguideId>
+            <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+            <firstName>Brian</firstName>
+            <lastName>Schatz</lastName>
+            <party>D</party>
+            <state>HI</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -5498,14 +6428,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5571,14 +6501,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5644,14 +6574,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5717,14 +6647,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5790,14 +6720,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5863,14 +6793,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -5980,14 +6910,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6041,14 +6971,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6102,14 +7032,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6198,14 +7128,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6239,7 +7169,7 @@
         <number>6932</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T18:57:50Z</updateDate>
+        <updateDate>2026-11-16T21:17:01Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001288</bioguideId>
@@ -6251,8 +7181,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
-          <count>1</count>
+          <countIncludingWithdrawnCosponsors>2</countIncludingWithdrawnCosponsors>
+          <count>2</count>
           <item>
             <bioguideId>A000382</bioguideId>
             <fullName>Sen. Alsobrooks, Angela D. [D-MD]</fullName>
@@ -6262,6 +7192,16 @@
             <state>MD</state>
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>K000394</bioguideId>
+            <fullName>Sen. Kim, Andy [D-NJ]</fullName>
+            <firstName>Andy</firstName>
+            <lastName>Kim</lastName>
+            <party>D</party>
+            <state>NJ</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
@@ -6273,14 +7213,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6334,14 +7274,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6421,14 +7361,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6508,14 +7448,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6595,14 +7535,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6636,7 +7576,7 @@
         <number>6927</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T18:50:34Z</updateDate>
+        <updateDate>2026-11-16T20:10:42Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>L000570</bioguideId>
@@ -6660,8 +7600,8 @@
           </item>
         </onBehalfOfSponsor>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
-          <count>1</count>
+          <countIncludingWithdrawnCosponsors>4</countIncludingWithdrawnCosponsors>
+          <count>4</count>
           <item>
             <bioguideId>B001267</bioguideId>
             <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
@@ -6671,6 +7611,37 @@
             <state>CO</state>
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>H000273</bioguideId>
+            <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+            <firstName>John</firstName>
+            <lastName>Hickenlooper</lastName>
+            <party>D</party>
+            <state>CO</state>
+            <middleName>W.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>K000377</bioguideId>
+            <fullName>Sen. Kelly, Mark [D-AZ]</fullName>
+            <firstName>Mark</firstName>
+            <lastName>Kelly</lastName>
+            <party>D</party>
+            <state>AZ</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>P000145</bioguideId>
+            <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+            <firstName>Alex</firstName>
+            <lastName>Padilla</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
@@ -6682,14 +7653,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6723,7 +7694,7 @@
         <number>6926</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T18:50:34Z</updateDate>
+        <updateDate>2026-11-16T20:10:22Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>L000570</bioguideId>
@@ -6747,8 +7718,8 @@
           </item>
         </onBehalfOfSponsor>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
-          <count>1</count>
+          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
+          <count>3</count>
           <item>
             <bioguideId>B001267</bioguideId>
             <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
@@ -6758,6 +7729,27 @@
             <state>CO</state>
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>H000273</bioguideId>
+            <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+            <firstName>John</firstName>
+            <lastName>Hickenlooper</lastName>
+            <party>D</party>
+            <state>CO</state>
+            <middleName>W.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>P000145</bioguideId>
+            <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+            <firstName>Alex</firstName>
+            <lastName>Padilla</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
@@ -6769,14 +7761,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6810,7 +7802,7 @@
         <number>6925</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T18:50:33Z</updateDate>
+        <updateDate>2026-11-16T20:10:08Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>L000570</bioguideId>
@@ -6834,8 +7826,8 @@
           </item>
         </onBehalfOfSponsor>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
-          <count>1</count>
+          <countIncludingWithdrawnCosponsors>2</countIncludingWithdrawnCosponsors>
+          <count>2</count>
           <item>
             <bioguideId>B001267</bioguideId>
             <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
@@ -6845,6 +7837,17 @@
             <state>CO</state>
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>H000273</bioguideId>
+            <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+            <firstName>John</firstName>
+            <lastName>Hickenlooper</lastName>
+            <party>D</party>
+            <state>CO</state>
+            <middleName>W.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
@@ -6856,14 +7859,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6897,7 +7900,7 @@
         <number>6924</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T18:50:32Z</updateDate>
+        <updateDate>2026-11-16T20:09:58Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>L000570</bioguideId>
@@ -6921,8 +7924,8 @@
           </item>
         </onBehalfOfSponsor>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
-          <count>1</count>
+          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
+          <count>3</count>
           <item>
             <bioguideId>B001267</bioguideId>
             <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
@@ -6932,6 +7935,28 @@
             <state>CO</state>
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>H000273</bioguideId>
+            <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+            <firstName>John</firstName>
+            <lastName>Hickenlooper</lastName>
+            <party>D</party>
+            <state>CO</state>
+            <middleName>W.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>C001088</bioguideId>
+            <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+            <firstName>Christopher</firstName>
+            <lastName>Coons</lastName>
+            <party>D</party>
+            <state>DE</state>
+            <middleName>A.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
@@ -6943,14 +7968,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -6984,7 +8009,7 @@
         <number>6923</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T18:50:32Z</updateDate>
+        <updateDate>2026-11-16T20:09:47Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>L000570</bioguideId>
@@ -7008,8 +8033,8 @@
           </item>
         </onBehalfOfSponsor>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
-          <count>1</count>
+          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
+          <count>3</count>
           <item>
             <bioguideId>B001267</bioguideId>
             <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
@@ -7019,6 +8044,27 @@
             <state>CO</state>
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>H000273</bioguideId>
+            <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+            <firstName>John</firstName>
+            <lastName>Hickenlooper</lastName>
+            <party>D</party>
+            <state>CO</state>
+            <middleName>W.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>K000377</bioguideId>
+            <fullName>Sen. Kelly, Mark [D-AZ]</fullName>
+            <firstName>Mark</firstName>
+            <lastName>Kelly</lastName>
+            <party>D</party>
+            <state>AZ</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
@@ -7030,14 +8076,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7091,14 +8137,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7152,14 +8198,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7213,14 +8259,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7274,14 +8320,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7335,14 +8381,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7420,14 +8466,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7527,14 +8573,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7612,14 +8658,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7673,14 +8719,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7758,14 +8804,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7819,14 +8865,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7880,14 +8926,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -7941,14 +8987,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8027,14 +9073,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8088,14 +9134,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8174,7 +9220,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -8243,14 +9289,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8304,14 +9350,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8366,14 +9412,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8428,14 +9474,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8469,7 +9515,7 @@
         <number>6902</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T20:13:18Z</updateDate>
+        <updateDate>2026-11-16T20:15:47Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001305</bioguideId>
@@ -8481,8 +9527,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
-          <count>3</count>
+          <countIncludingWithdrawnCosponsors>4</countIncludingWithdrawnCosponsors>
+          <count>4</count>
           <item>
             <bioguideId>R000605</bioguideId>
             <fullName>Sen. Rounds, Mike [R-SD]</fullName>
@@ -8513,6 +9559,16 @@
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>H001061</bioguideId>
+            <fullName>Sen. Hoeven, John [R-ND]</fullName>
+            <firstName>John</firstName>
+            <lastName>Hoeven</lastName>
+            <party>R</party>
+            <state>ND</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -8523,14 +9579,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8584,14 +9640,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8720,14 +9776,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8781,14 +9837,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8842,14 +9898,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -8988,14 +10044,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -9029,7 +10085,7 @@
         <number>6896</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-11T19:56:41Z</updateDate>
+        <updateDate>2026-11-16T22:10:58Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>A000382</bioguideId>
@@ -9041,8 +10097,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>11</countIncludingWithdrawnCosponsors>
-          <count>11</count>
+          <countIncludingWithdrawnCosponsors>12</countIncludingWithdrawnCosponsors>
+          <count>12</count>
           <item>
             <bioguideId>S001150</bioguideId>
             <fullName>Sen. Schiff, Adam B. [D-CA]</fullName>
@@ -9156,6 +10212,16 @@
             <sponsorshipDate>2026-11-11</sponsorshipDate>
             <isOriginalCosponsor>True</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>K000367</bioguideId>
+            <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+            <firstName>Amy</firstName>
+            <lastName>Klobuchar</lastName>
+            <party>D</party>
+            <state>MN</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-11-11T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -9166,14 +10232,14 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <actions>
           <count>2</count>
@@ -9252,7 +10318,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9306,7 +10372,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9374,7 +10440,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9442,7 +10508,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9496,7 +10562,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9531,14 +10597,18 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-11-13T12:08:39Z</updateDate>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
         <latestAction>
-          <actionDate>2026-11-11</actionDate>
-          <text>Considered by Senate. (consideration: CR S5567)</text>
+          <actionDate>2026-11-16</actionDate>
+          <text>SA 6890 fell when SA 6889 fell.</text>
           <links>
             <link>
-              <name>S5567</name>
-              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5567</url>
+              <name>SA 6889</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6889</url>
+            </link>
+            <link>
+              <name>SA 6890</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6890</url>
             </link>
           </links>
         </latestAction>
@@ -9573,7 +10643,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6889</number>
@@ -9583,8 +10653,17 @@
           <updateDate>2026-11-12T16:35:30Z</updateDate>
         </amendedAmendment>
         <actions>
-          <count>5</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>SA 6890 fell when SA 6889 fell.</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-11-11</actionDate>
               <sourceSystem>
@@ -9634,20 +10713,27 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6889</number>
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-11-13T12:08:39Z</updateDate>
+        <updateDate>2026-11-17T12:08:47Z</updateDate>
         <latestAction>
-          <actionDate>2026-11-11</actionDate>
-          <text>Considered by Senate. (consideration: CR S5567)</text>
+          <actionDate>2026-11-16</actionDate>
+          <text>SA 6889 fell when SA 6888 (the instructions of the motion to commit) fell.</text>
           <links>
             <link>
-              <name>S5567</name>
-              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5567</url>
+              <name>SA 6888</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6888</url>
+            </link>
+            <link>
+              <name>SA 6889</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6889</url>
             </link>
           </links>
         </latestAction>
@@ -9682,7 +10768,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6888</number>
@@ -9695,8 +10781,17 @@
           <count>1</count>
         </amendmentsToAmendment>
         <actions>
-          <count>5</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>SA 6889 fell when SA 6888 (the instructions of the motion to commit) fell.</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-11-11</actionDate>
               <sourceSystem>
@@ -9746,20 +10841,27 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6888</number>
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-11-13T12:08:38Z</updateDate>
+        <updateDate>2026-11-17T12:08:48Z</updateDate>
         <latestAction>
-          <actionDate>2026-11-11</actionDate>
-          <text>Considered by Senate. (consideration: CR S5567)</text>
+          <actionDate>2026-11-16</actionDate>
+          <text>SA 6888 (the instructions of the motion to commit) fell when cloture invoked on amendment SA 6883.</text>
           <links>
             <link>
-              <name>S5567</name>
-              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5567</url>
+              <name>SA 6883</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6883</url>
+            </link>
+            <link>
+              <name>SA 6888</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6888</url>
             </link>
           </links>
         </latestAction>
@@ -9794,14 +10896,23 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendmentsToAmendment>
           <count>1</count>
         </amendmentsToAmendment>
         <actions>
-          <count>5</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>SA 6888 (the instructions of the motion to commit) fell when cloture invoked on amendment SA 6883.</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-11-11</actionDate>
               <sourceSystem>
@@ -9851,20 +10962,23 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6887</number>
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-11-13T12:08:39Z</updateDate>
+        <updateDate>2026-11-17T14:13:24Z</updateDate>
         <latestAction>
-          <actionDate>2026-11-11</actionDate>
-          <text>Considered by Senate. (consideration: CR S5567)</text>
+          <actionDate>2026-11-16</actionDate>
+          <text>Considered by Senate. (consideration: CR S5679)</text>
           <links>
             <link>
-              <name>S5567</name>
-              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5567</url>
+              <name>S5679</name>
+              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5679</url>
             </link>
           </links>
         </latestAction>
@@ -9899,18 +11013,27 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6886</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>To improve the bill.</purpose>
-          <updateDate>2026-11-12T16:31:25Z</updateDate>
+          <updateDate>2026-11-17T14:13:04Z</updateDate>
         </amendedAmendment>
         <actions>
-          <count>5</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Considered by Senate. (consideration: CR S5679)</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-11-11</actionDate>
               <sourceSystem>
@@ -9960,20 +11083,23 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6886</number>
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-11-13T12:08:39Z</updateDate>
+        <updateDate>2026-11-17T14:13:05Z</updateDate>
         <latestAction>
-          <actionDate>2026-11-11</actionDate>
-          <text>Considered by Senate. (consideration: CR S5567)</text>
+          <actionDate>2026-11-16</actionDate>
+          <text>Considered by Senate. (consideration: CR S5679)</text>
           <links>
             <link>
-              <name>S5567</name>
-              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5567</url>
+              <name>S5679</name>
+              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5679</url>
             </link>
           </links>
         </latestAction>
@@ -10008,14 +11134,23 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendmentsToAmendment>
           <count>1</count>
         </amendmentsToAmendment>
         <actions>
-          <count>5</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Considered by Senate. (consideration: CR S5679)</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-11-11</actionDate>
               <sourceSystem>
@@ -10065,20 +11200,23 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6885</number>
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-11-13T12:08:38Z</updateDate>
+        <updateDate>2026-11-17T14:12:45Z</updateDate>
         <latestAction>
-          <actionDate>2026-11-11</actionDate>
-          <text>Considered by Senate. (consideration: CR S5567)</text>
+          <actionDate>2026-11-16</actionDate>
+          <text>Considered by Senate. (consideration: CR S5679)</text>
           <links>
             <link>
-              <name>S5567</name>
-              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5567</url>
+              <name>S5679</name>
+              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5679</url>
             </link>
           </links>
         </latestAction>
@@ -10113,18 +11251,27 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6884</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>To improve the bill.</purpose>
-          <updateDate>2026-11-12T16:30:17Z</updateDate>
+          <updateDate>2026-11-17T14:12:22Z</updateDate>
         </amendedAmendment>
         <actions>
-          <count>5</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Considered by Senate. (consideration: CR S5679)</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-11-11</actionDate>
               <sourceSystem>
@@ -10174,20 +11321,23 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6884</number>
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-11-13T12:08:38Z</updateDate>
+        <updateDate>2026-11-17T14:12:23Z</updateDate>
         <latestAction>
-          <actionDate>2026-11-11</actionDate>
-          <text>Considered by Senate. (consideration: CR S5567)</text>
+          <actionDate>2026-11-16</actionDate>
+          <text>Considered by Senate. (consideration: CR S5679)</text>
           <links>
             <link>
-              <name>S5567</name>
-              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5567</url>
+              <name>S5679</name>
+              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5679</url>
             </link>
           </links>
         </latestAction>
@@ -10222,21 +11372,30 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
           <congress>119</congress>
           <type>SAMDT</type>
           <purpose>In the nature of a substitute.</purpose>
-          <updateDate>2026-11-12T16:27:35Z</updateDate>
+          <updateDate>2026-11-17T14:11:58Z</updateDate>
         </amendedAmendment>
         <amendmentsToAmendment>
           <count>1</count>
         </amendmentsToAmendment>
         <actions>
-          <count>5</count>
+          <count>6</count>
           <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Considered by Senate. (consideration: CR S5679)</text>
+              <type>Floor</type>
+            </item>
             <item>
               <actionDate>2026-11-11</actionDate>
               <sourceSystem>
@@ -10286,24 +11445,23 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6883</number>
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>In the nature of a substitute.</purpose>
-        <updateDate>2026-11-13T12:08:38Z</updateDate>
+        <updateDate>2026-11-17T14:11:59Z</updateDate>
         <latestAction>
-          <actionDate>2026-11-11</actionDate>
-          <text>Cloture motion on amendment SA 6883 presented in Senate. (CR S5568)</text>
+          <actionDate>2026-11-16</actionDate>
+          <text>Considered by Senate. (consideration: CR S5679)</text>
           <links>
             <link>
-              <name>S5568</name>
-              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5568</url>
-            </link>
-            <link>
-              <name>SA 6883</name>
-              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/6883</url>
+              <name>S5679</name>
+              <url>https://www.congress.gov/congressional-record/volume-172/senate-section/page/S5679</url>
             </link>
           </links>
         </latestAction>
@@ -10382,14 +11540,42 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <amendmentsToAmendment>
-          <count>113</count>
+          <count>121</count>
         </amendmentsToAmendment>
         <actions>
-          <count>6</count>
+          <count>9</count>
           <actions>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Considered by Senate. (consideration: CR S5679)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-11-16</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Cloture on amendment SA 6883 invoked in Senate by Yea-Nay Vote. 70 - 27. Record Vote Number: 264. (CR S5679)</text>
+              <type>Floor</type>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>264</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-11-17T00:04:08Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00264.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
             <item>
               <actionDate>2026-11-11</actionDate>
               <sourceSystem>
@@ -10427,6 +11613,26 @@
               </sourceSystem>
             </item>
             <item>
+              <actionDate>2026-11-16</actionDate>
+              <text>Roll call votes on amendments in Senate: Cloture on amendment SA 6883 invoked in Senate by Yea-Nay Vote. 70 - 27. Record Vote Number: 264.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <recordedVotes>
+                <recordedVote>
+                  <rollNumber>264</rollNumber>
+                  <chamber>Senate</chamber>
+                  <congress>119</congress>
+                  <date>2026-11-17T00:04:08Z</date>
+                  <sessionNumber>2</sessionNumber>
+                  <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00264.xml</url>
+                </recordedVote>
+              </recordedVotes>
+            </item>
+            <item>
               <actionDate>2026-11-10</actionDate>
               <text>Senate amendment proposed (on the floor): Amendment SA 6883 proposed by Senator Thune for Senator Capito.</text>
               <type>Floor</type>
@@ -10453,7 +11659,7 @@
         <number>6882</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T18:57:18Z</updateDate>
+        <updateDate>2026-11-16T22:11:14Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>S001150</bioguideId>
@@ -10466,8 +11672,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>28</countIncludingWithdrawnCosponsors>
-          <count>28</count>
+          <countIncludingWithdrawnCosponsors>34</countIncludingWithdrawnCosponsors>
+          <count>34</count>
           <item>
             <bioguideId>C001113</bioguideId>
             <fullName>Sen. Cortez Masto, Catherine [D-NV]</fullName>
@@ -10755,6 +11961,69 @@
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>K000394</bioguideId>
+            <fullName>Sen. Kim, Andy [D-NJ]</fullName>
+            <firstName>Andy</firstName>
+            <lastName>Kim</lastName>
+            <party>D</party>
+            <state>NJ</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>H000273</bioguideId>
+            <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+            <firstName>John</firstName>
+            <lastName>Hickenlooper</lastName>
+            <party>D</party>
+            <state>CO</state>
+            <middleName>W.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>W000800</bioguideId>
+            <fullName>Sen. Welch, Peter [D-VT]</fullName>
+            <firstName>Peter</firstName>
+            <lastName>Welch</lastName>
+            <party>D</party>
+            <state>VT</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>C001088</bioguideId>
+            <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+            <firstName>Christopher</firstName>
+            <lastName>Coons</lastName>
+            <party>D</party>
+            <state>DE</state>
+            <middleName>A.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>K000367</bioguideId>
+            <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+            <firstName>Amy</firstName>
+            <lastName>Klobuchar</lastName>
+            <party>D</party>
+            <state>MN</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>F000479</bioguideId>
+            <fullName>Sen. Fetterman, John [D-PA]</fullName>
+            <firstName>John</firstName>
+            <lastName>Fetterman</lastName>
+            <party>D</party>
+            <state>PA</state>
+            <middleName>K.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-11-10T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -10765,7 +12034,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10791,6 +12060,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6880</number>
@@ -10816,7 +12088,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10842,6 +12114,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6879</number>
@@ -10867,7 +12142,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10893,6 +12168,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6878</number>
@@ -10918,7 +12196,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10944,6 +12222,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6877</number>
@@ -10969,7 +12250,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -10995,6 +12276,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6876</number>
@@ -11020,7 +12304,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11046,6 +12330,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6875</number>
@@ -11071,7 +12358,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11097,6 +12384,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6874</number>
@@ -11122,7 +12412,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11148,6 +12438,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6873</number>
@@ -11173,7 +12466,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11199,6 +12492,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6872</number>
@@ -11224,7 +12520,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11250,6 +12546,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6871</number>
@@ -11299,7 +12598,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11325,6 +12624,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6870</number>
@@ -11350,7 +12652,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11376,6 +12678,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6869</number>
@@ -11401,7 +12706,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11427,6 +12732,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6868</number>
@@ -11452,7 +12760,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11478,6 +12786,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6867</number>
@@ -11503,7 +12814,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11529,6 +12840,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6866</number>
@@ -11554,7 +12868,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11580,6 +12894,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6865</number>
@@ -11629,7 +12946,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11655,6 +12972,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6864</number>
@@ -11680,7 +13000,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11706,6 +13026,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6863</number>
@@ -11731,7 +13054,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11757,6 +13080,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6862</number>
@@ -11782,7 +13108,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11808,6 +13134,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6861</number>
@@ -11833,7 +13162,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11859,6 +13188,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6860</number>
@@ -11884,7 +13216,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11910,6 +13242,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6859</number>
@@ -11935,7 +13270,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11961,6 +13296,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6858</number>
@@ -11986,7 +13324,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12012,6 +13350,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6857</number>
@@ -12037,7 +13378,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12063,6 +13404,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6856</number>
@@ -12088,7 +13432,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12114,12 +13458,15 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6855</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-10T22:55:17Z</updateDate>
+        <updateDate>2026-11-16T23:28:21Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>S001194</bioguideId>
@@ -12130,6 +13477,73 @@
             <state>HI</state>
           </item>
         </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>6</countIncludingWithdrawnCosponsors>
+          <count>6</count>
+          <item>
+            <bioguideId>B001267</bioguideId>
+            <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+            <firstName>Michael</firstName>
+            <lastName>Bennet</lastName>
+            <party>D</party>
+            <state>CO</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>B001288</bioguideId>
+            <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+            <firstName>Cory</firstName>
+            <lastName>Booker</lastName>
+            <party>D</party>
+            <state>NJ</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>C001113</bioguideId>
+            <fullName>Sen. Cortez Masto, Catherine [D-NV]</fullName>
+            <firstName>Catherine</firstName>
+            <lastName>Cortez Masto</lastName>
+            <party>D</party>
+            <state>NV</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>F000479</bioguideId>
+            <fullName>Sen. Fetterman, John [D-PA]</fullName>
+            <firstName>John</firstName>
+            <lastName>Fetterman</lastName>
+            <party>D</party>
+            <state>PA</state>
+            <middleName>K.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>L000570</bioguideId>
+            <fullName>Sen. Luján, Ben Ray [D-NM]</fullName>
+            <firstName>Ben</firstName>
+            <lastName>Luján</lastName>
+            <party>D</party>
+            <state>NM</state>
+            <middleName>R.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>S001150</bioguideId>
+            <fullName>Sen. Schiff, Adam B. [D-CA]</fullName>
+            <firstName>Adam</firstName>
+            <lastName>Schiff</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <middleName>B.</middleName>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
+        </cosponsors>
         <submittedDate>2026-11-10T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
         <amendedBill>
@@ -12139,7 +13553,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12165,12 +13579,15 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6854</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-12T17:45:59Z</updateDate>
+        <updateDate>2026-11-16T22:00:45Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>M001153</bioguideId>
@@ -12182,8 +13599,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>4</countIncludingWithdrawnCosponsors>
-          <count>4</count>
+          <countIncludingWithdrawnCosponsors>5</countIncludingWithdrawnCosponsors>
+          <count>5</count>
           <item>
             <bioguideId>S001194</bioguideId>
             <fullName>Sen. Schatz, Brian [D-HI]</fullName>
@@ -12225,6 +13642,16 @@
             <sponsorshipDate>2026-11-12</sponsorshipDate>
             <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>P000145</bioguideId>
+            <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+            <firstName>Alex</firstName>
+            <lastName>Padilla</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <sponsorshipDate>2026-11-16</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-11-10T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -12235,7 +13662,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12261,6 +13688,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6853</number>
@@ -12286,7 +13716,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12312,6 +13742,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6852</number>
@@ -12337,7 +13770,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12363,6 +13796,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6851</number>
@@ -12388,7 +13824,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12414,6 +13850,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6850</number>
@@ -12439,7 +13878,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12465,6 +13904,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
       <amendment>
         <number>6849</number>
@@ -12505,7 +13947,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-14</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-17</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12531,6 +13973,9 @@
             </item>
           </actions>
         </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
       </amendment>
     </amendments>
     <textVersions>
@@ -12572,8 +14017,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-11-11</actionDate>
-      <text>Cloture motion on the measure presented in Senate. (CR S5568)</text>
+      <actionDate>2026-11-16</actionDate>
+      <text>Considered by Senate. (consideration: CR S5679)</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
