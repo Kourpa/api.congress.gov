@@ -1,4 +1,4 @@
-<bill session="119" type="hr" number="149" updated="2026-09-25T15:34:22Z">
+<bill session="119" type="hr" number="149" updated="2026-11-16T18:42:15Z">
   <state datetime="2025-02-21">REFERRED</state>
   <status>
     <introduced datetime="2025-02-21"/>
@@ -27,7 +27,10 @@
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="hr" number="138" relation="cross-congress related"/>
+    <bill session="118" type="hr" number="148" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Arts, culture, religion"/>
   </subjects>
