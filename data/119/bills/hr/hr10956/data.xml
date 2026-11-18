@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="10956" updated="2026-11-13T09:06:39Z">
+<bill session="119" type="h" number="10956" updated="2026-11-17T19:28:00Z">
   <state datetime="2026-11-05">REFERRED</state>
   <status>
     <introduced datetime="2026-11-05"/>
@@ -30,7 +30,12 @@
     <committee code="HSII24" name="House Natural Resources" subcommittee="Indian and Insular Affairs" activity="Referral"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="s" number="632" relation="unknown"/>
+    <bill session="118" type="s" number="3022" relation="cross-congress related"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+  </subjects>
   <amendments/>
 </bill>

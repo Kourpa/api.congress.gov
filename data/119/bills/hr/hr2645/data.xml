@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2645" updated="2025-05-21T21:17:37Z">
+<bill session="119" type="h" number="2645" updated="2026-11-17T18:32:41Z">
   <state datetime="2025-04-03">REFERRED</state>
   <status>
     <introduced datetime="2025-04-03"/>
@@ -25,9 +25,16 @@
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="s" number="2820" relation="cross-congress related"/>
+    <bill session="118" type="h" number="5499" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Land use and conservation"/>
+    <term name="Monuments and memorials"/>
+    <term name="Parks, recreation areas, trails"/>
   </subjects>
   <amendments/>
 </bill>

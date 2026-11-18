@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="4815" updated="2026-11-06T15:18:33Z">
+<bill session="119" type="h" number="4815" updated="2026-11-17T18:45:39Z">
   <state datetime="2025-07-29">REFERRED</state>
   <status>
     <introduced datetime="2025-07-29"/>
@@ -22,7 +22,10 @@
   <committees>
     <committee code="HSGO" name="House Oversight and Government Reform" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="h" number="6361" relation="cross-congress related"/>
+    <bill session="118" type="h" number="4463" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
     <term name="District of Columbia"/>

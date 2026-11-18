@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="4990" updated="2026-04-06T15:55:51Z">
+<bill session="119" type="h" number="4990" updated="2026-11-17T18:59:00Z">
   <state datetime="2025-08-15">REFERRED</state>
   <status>
     <introduced datetime="2025-08-15"/>
   </status>
   <introduced datetime="2025-08-15"/>
   <titles>
-    <title type="display">Wildfire Grid Resiliency Act</title>
     <title type="short" as="introduced">Wildfire Grid Resiliency Act</title>
+    <title type="display">Wildfire Grid Resiliency Act</title>
     <title type="official" as="introduced">To direct the Secretary of Energy to carry out a demonstration program for projects that improve electric grid resilience with respect to wildfires, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="T000474"/>
@@ -22,7 +22,10 @@
   <committees>
     <committee code="HSSY" name="House Science, Space, and Technology" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="3615" relation="cross-congress related"/>
+    <bill session="117" type="h" number="6012" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Energy"/>
   </subjects>

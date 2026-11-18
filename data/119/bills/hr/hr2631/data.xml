@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2631" updated="2025-05-28T14:23:31Z">
+<bill session="119" type="h" number="2631" updated="2026-11-17T18:28:53Z">
   <state datetime="2025-04-03">REFERRED</state>
   <status>
     <introduced datetime="2025-04-03"/>
@@ -22,7 +22,10 @@
   <committees>
     <committee code="HSAP" name="House Appropriations" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="2496" relation="cross-congress related"/>
+    <bill session="117" type="h" number="2362" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Armed forces and national security"/>
   </subjects>

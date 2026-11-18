@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="2626" updated="2025-06-11T20:15:06Z">
+<bill session="119" type="h" number="2626" updated="2026-11-17T18:28:05Z">
   <state datetime="2025-04-03">REFERRED</state>
   <status>
     <introduced datetime="2025-04-03"/>
@@ -29,7 +29,10 @@
     <committee code="HSAG" name="House Agriculture" subcommittee="" activity="Referred To"/>
     <committee code="HSAG29" name="House Agriculture" subcommittee="Livestock, Dairy, and Poultry" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="h" number="7004" relation="cross-congress related"/>
+    <bill session="118" type="h" number="2939" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Animals"/>
   </subjects>

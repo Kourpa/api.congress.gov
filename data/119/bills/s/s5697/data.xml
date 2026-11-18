@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="5697" updated="2026-11-13T07:23:39Z">
+<bill session="119" type="s" number="5697" updated="2026-11-17T21:47:50Z">
   <state datetime="2026-11-10">REFERRED</state>
   <status>
     <introduced datetime="2026-11-10"/>
@@ -24,7 +24,12 @@
   <committees>
     <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
-  <subjects/>
+  <relatedbills>
+    <bill session="119" type="h" number="6329" relation="unknown"/>
+    <bill session="118" type="h" number="7219" relation="cross-congress related"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+  </subjects>
   <amendments/>
 </bill>
