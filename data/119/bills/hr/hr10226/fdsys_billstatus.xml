@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>10226</number>
-    <updateDate>2026-10-30T08:06:17Z</updateDate>
-    <updateDateIncludingText>2026-10-30T08:06:17Z</updateDateIncludingText>
+    <updateDate>2026-11-18T09:06:14Z</updateDate>
+    <updateDateIncludingText>2026-11-18T09:06:14Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -23,13 +23,45 @@
             <name>Referred To</name>
             <date>2026-09-02T14:02:20Z</date>
           </item>
+          <item>
+            <name>Referred To</name>
+            <date>2026-09-02T04:00:05Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hshm00</systemCode>
+        <name>Homeland Security Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-09-02T04:00:10Z</date>
+          </item>
         </activities>
       </item>
     </committees>
     <actions>
       <item>
         <actionDate>2026-09-02</actionDate>
-        <text>Referred to the House Committee on the Judiciary.</text>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hshm00</systemCode>
+            <name>Homeland Security Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-09-02</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
         <type>IntroReferral</type>
         <actionCode>H11100</actionCode>
         <sourceSystem>
@@ -175,7 +207,7 @@
     </titles>
     <latestAction>
       <actionDate>2026-09-02</actionDate>
-      <text>Referred to the House Committee on the Judiciary.</text>
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

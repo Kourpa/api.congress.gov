@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="8483" updated="2026-11-12T18:00:22Z">
-  <state datetime="2026-09-15">REPORTED</state>
+<bill session="119" type="h" number="8483" updated="2026-11-18T18:53:21Z">
+  <state datetime="2026-11-17T18:56:38-05:00">PASS_OVER:HOUSE</state>
   <status>
-    <unknown datetime="2026-09-15"/>
+    <unknown datetime="2026-11-17T18:56:38-05:00"/>
   </status>
   <introduced datetime="2026-04-23"/>
   <titles>
@@ -37,12 +37,38 @@
     <calendar datetime="2026-10-29" calendar="Union" number="755">
       <text>Placed on the Union Calendar, Calendar No. 755.</text>
     </calendar>
+    <action datetime="2026-11-17T16:27:01-05:00">
+      <text>Mr. Westerman moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2026-11-17T16:27:05-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6240-6242" label="consideration"/>
+    </action>
+    <action datetime="2026-11-17T16:27:08-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 8483.</text>
+    </action>
+    <action datetime="2026-11-17T16:33:52-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2026-11-17T18:30:46-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6250-6251" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="324" datetime="2026-11-17T18:56:38-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 324).</text>
+      <reference ref="CR H6240-6241" label="text"/>
+    </vote>
+    <action datetime="2026-11-17T18:56:40-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
   </actions>
   <committees>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Referred To"/>
     <committee code="HSII24" name="House Natural Resources" subcommittee="Indian and Insular Affairs" activity="Discharged, Hearings By (Subcommittee), Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="119" type="s" number="5694" relation="unknown"/>
+  </relatedbills>
   <subjects>
     <term name="Native Americans"/>
     <term name="California"/>
