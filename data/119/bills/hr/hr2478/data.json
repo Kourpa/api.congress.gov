@@ -138,6 +138,33 @@
       "references": [],
       "text": "Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-11-18",
+      "action_code": "",
+      "committees": [
+        "SSBK"
+      ],
+      "references": [],
+      "text": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-18",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S5777-5778",
+          "type": "consideration"
+        }
+      ],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -150,6 +177,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Banking, Housing, and Urban Affairs",
@@ -286,6 +314,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-06-25T13:30:23-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-18",
     "vetoed": false
   },
   "introduced_at": "2025-03-27",
@@ -309,8 +339,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-06-25T13:30:23-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2026-11-18",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Congressional oversight",
@@ -380,6 +410,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-07-15T13:08:24Z",
+  "updated_at": "2026-11-19T15:57:14Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2478.xml"
 }

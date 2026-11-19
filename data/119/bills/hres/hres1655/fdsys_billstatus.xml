@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1655</number>
-    <updateDate>2026-11-18T13:51:13Z</updateDate>
-    <updateDateIncludingText>2026-11-19T04:49:03Z</updateDateIncludingText>
+    <updateDate>2026-11-19T09:07:34Z</updateDate>
+    <updateDateIncludingText>2026-11-19T09:07:34Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HRES</type>
@@ -26,6 +26,10 @@
           <item>
             <name>Unknown</name>
             <date>2026-11-10T22:34:11Z</date>
+          </item>
+          <item>
+            <name>Referred To</name>
+            <date>2026-11-10T05:00:05Z</date>
           </item>
         </activities>
       </item>
@@ -129,6 +133,22 @@
           <code>2</code>
           <name>House floor actions</name>
         </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-10</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
       </item>
       <item>
         <actionDate>2026-11-10</actionDate>

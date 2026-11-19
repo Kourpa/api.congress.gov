@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>8195</number>
-    <updateDate>2026-11-19T04:38:40Z</updateDate>
-    <updateDateIncludingText>2026-11-19T07:03:54Z</updateDateIncludingText>
+    <updateDate>2026-11-19T11:56:58Z</updateDate>
+    <updateDateIncludingText>2026-11-19T14:49:20Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -13,6 +13,18 @@
     <legislationUrl>https://www.congress.gov/bill/119th-congress/house-bill/8195</legislationUrl>
     <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 172, Number 61 (Thursday, April 2, 2026)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. WALBERG:H.R. 8195.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H2821]</pre>]]></constitutionalAuthorityStatementText>
     <committees>
+      <item>
+        <systemCode>ssev00</systemCode>
+        <name>Environment and Public Works Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-11-18T21:47:38Z</date>
+          </item>
+        </activities>
+      </item>
       <item>
         <systemCode>hsii00</systemCode>
         <name>Natural Resources Committee</name>
@@ -79,6 +91,20 @@
     </relatedBills>
     <actions>
       <item>
+        <actionDate>2026-11-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
         <actionDate>2026-11-17</actionDate>
         <actionTime>16:26:38</actionTime>
         <text>Motion to reconsider laid on the table Agreed to without objection.</text>
@@ -103,7 +129,7 @@
       <item>
         <actionDate>2026-11-17</actionDate>
         <actionTime>16:26:18</actionTime>
-        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6238-6239)</text>
         <type>Floor</type>
         <actionCode>8000</actionCode>
         <sourceSystem>
@@ -503,9 +529,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-11-17</actionDate>
-      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
-      <actionTime>16:26:38</actionTime>
+      <actionDate>2026-11-18</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

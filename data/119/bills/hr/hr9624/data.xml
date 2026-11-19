@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="9624" updated="2026-11-19T05:53:38Z">
+<bill session="119" type="h" number="9624" updated="2026-11-19T16:11:35Z">
   <state datetime="2026-07-20">REPORTED</state>
   <status>
     <unknown datetime="2026-07-20"/>
@@ -25,9 +25,15 @@
     <action datetime="2026-07-20" state="REPORTED">
       <text>Ordered to be Reported (Amended) by Voice Vote.</text>
     </action>
+    <action datetime="2026-11-18">
+      <text>Reported (Amended) by the Committee on Intelligence. H. Rept. 119-886.</text>
+    </action>
+    <calendar datetime="2026-11-18" calendar="Union" number="781">
+      <text>Placed on the Union Calendar, Calendar No. 781.</text>
+    </calendar>
   </actions>
   <committees>
-    <committee code="HLIG" name="House Intelligence (Permanent Select)" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
   <relatedbills>
     <bill session="119" type="h" number="5167" relation="unknown"/>
@@ -82,4 +88,7 @@
     <term name="Veterans' pensions and compensation"/>
   </subjects>
   <amendments/>
+  <committee-reports>
+    <report>H. Rept. 119-886</report>
+  </committee-reports>
 </bill>
