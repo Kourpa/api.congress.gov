@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>4035</number>
-    <updateDate>2026-10-01T11:03:23Z</updateDate>
-    <updateDateIncludingText>2026-10-01T11:03:23Z</updateDateIncludingText>
+    <updateDate>2026-11-20T16:06:27Z</updateDate>
+    <updateDateIncludingText>2026-11-20T16:06:27Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -18,6 +18,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-11-19T23:56:09Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2026-03-10T16:12:06Z</date>
@@ -44,6 +48,62 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S5795)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S5794-5795)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssaf00</systemCode>
+            <name>Agriculture, Nutrition, and Forestry Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssaf00</systemCode>
+            <name>Agriculture, Nutrition, and Forestry Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-03-10</actionDate>
         <committees>
@@ -109,7 +169,27 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>DEATH BETS Act</title>
-        <updateDate>2026-10-01T11:03:23Z</updateDate>
+        <updateDate>2026-11-20T11:58:38Z</updateDate>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate</titleType>
+        <titleTypeCode>105</titleTypeCode>
+        <title>DEATH BETS Act</title>
+        <updateDate>2026-11-20T08:23:33Z</updateDate>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate</titleType>
+        <titleTypeCode>105</titleTypeCode>
+        <title>Discouraging Exploitative Assassination, Tragedy, and Harm Betting in Event Trading Systems Act</title>
+        <updateDate>2026-11-20T08:23:33Z</updateDate>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
       </item>
       <item>
         <titleType>Short Title(s) as Introduced</titleType>
@@ -136,7 +216,148 @@
         <billTextVersionCode>IS</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>7031</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the bill.</purpose>
+        <updateDate>2026-11-20T16:06:26Z</updateDate>
+        <latestAction>
+          <actionDate>2026-11-19</actionDate>
+          <text>Amendment SA 7031 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 7031</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/7031</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S001150</bioguideId>
+            <fullName>Sen. Schiff, Adam B. [D-CA]</fullName>
+            <firstName>Adam</firstName>
+            <lastName>Schiff</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <middleName>B.</middleName>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>S001150</bioguideId>
+            <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+            <firstName>ADAM</firstName>
+            <lastName>SCHIFF</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>C001114</bioguideId>
+            <fullName>Sen. Curtis, John R. [R-UT]</fullName>
+            <firstName>John</firstName>
+            <lastName>Curtis</lastName>
+            <party>R</party>
+            <state>UT</state>
+            <sponsorshipDate>2026-11-19</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2026-11-19T05:00:00Z</proposedDate>
+        <submittedDate>2026-11-19T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>4035</number>
+          <title>DEATH BETS Act</title>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 7031 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 7031 proposed by Senator Schiff. To improve the bill. (consideration: CR S5795)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 7031 proposed by Senator Schiff.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 7031 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+    </amendments>
     <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2026-11-19T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119s4035es/xml/BILLS-119s4035es.xml</url>
+          </item>
+        </formats>
+      </item>
       <item>
         <type>Introduced in Senate</type>
         <date>2026-03-10T04:00:00Z</date>
@@ -148,8 +369,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-03-10</actionDate>
-      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <actionDate>2026-11-19</actionDate>
+      <text>Passed Senate with an amendment by Voice Vote. (text of amendment in the nature of a substitute: CR S5795)</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

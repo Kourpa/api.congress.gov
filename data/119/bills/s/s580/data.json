@@ -49,9 +49,51 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 129.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S5796-5797",
+          "type": "consideration"
+        }
+      ],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S5796-5797",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt7034-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "7034"
+    },
+    {
+      "amendment_id": "samdt7033-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "7033"
+    }
+  ],
   "bill_id": "s580-119",
   "bill_type": "s",
   "by_request": false,
@@ -98,14 +140,16 @@
     "active_at": "2025-04-30",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-19",
     "vetoed": false
   },
   "introduced_at": "2025-02-13",
   "number": "580",
-  "official_title": "A bill to require the Secretary of Commerce to provide training and guidance relating to human rights abuses, including such abuses perpetrated against the Uyghur population by the Government of the People's Republic of China, and for other purposes.",
+  "official_title": "A bill to require the Secretary of Commerce to provide training and guidance relating to violations of human rights, including such abuses perpetrated against Uyghur and other religious and ethnic minority groups by the Government of the People's Republic of China, and for other purposes.",
   "popular_title": null,
   "related_bills": [],
-  "short_title": "Combating CCP Labor Abuses Act of 2025",
+  "short_title": "Combating CCP Labor Abuses Act of 2026",
   "sponsor": {
     "bioguide_id": "P000595",
     "district": null,
@@ -114,8 +158,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2025-04-30",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-11-19",
   "subjects": [
     "Asia",
     "China",
@@ -132,7 +176,7 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Combating CCP Labor Abuses Act of 2025",
+      "title": "Combating CCP Labor Abuses Act of 2026",
       "type": "display"
     },
     {
@@ -150,13 +194,27 @@
       "type": "short"
     },
     {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Combating CCP Labor Abuses Act of 2026",
+      "type": "short"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "A bill to require the Secretary of Commerce to provide training and guidance relating to human rights abuses, including such abuses perpetrated against the Uyghur population by the Government of the People's Republic of China, and for other purposes.",
       "type": "official"
+    },
+    {
+      "as": "amended by senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "A bill to require the Secretary of Commerce to provide training and guidance relating to violations of human rights, including such abuses perpetrated against Uyghur and other religious and ethnic minority groups by the Government of the People's Republic of China, and for other purposes.",
+      "type": "official"
     }
   ],
-  "updated_at": "2026-09-08T18:03:40Z",
+  "updated_at": "2026-11-20T16:13:25Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s580.xml"
 }

@@ -54,6 +54,27 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 691.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S5797",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S5797",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -101,13 +122,22 @@
     "active_at": "2026-07-22",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-19",
     "vetoed": false
   },
   "introduced_at": "2026-04-30",
   "number": "4448",
   "official_title": "A bill to require the Assistant Secretary of Commerce for Communications and Information to create tools for tracking the progress of grant recipients under the Broadband Equity, Access, and Deployment Program, to require the Assistant Secretary to help executive agencies improve compliance with the statutory deadline for processing communications use applications, and for other purposes.",
   "popular_title": null,
-  "related_bills": [],
+  "related_bills": [
+    {
+      "bill_id": "s866-119",
+      "identified_by": "CRS",
+      "reason": "related",
+      "type": "bill"
+    }
+  ],
   "short_title": "Accelerating Broadband Permits Act of 2026",
   "sponsor": {
     "bioguide_id": "T000250",
@@ -117,8 +147,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-07-22",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-11-19",
   "subjects": [
     "Broadcasting, cable, digital technologies",
     "Infrastructure development",
@@ -129,6 +159,13 @@
   "subjects_top_term": "Science, technology, communications",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Accelerating Broadband Permits Act of 2026",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -151,13 +188,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Accelerating Broadband Permits Act of 2026",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -165,6 +195,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-11-20T08:08:37Z",
+  "updated_at": "2026-11-20T14:42:37Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4448.xml"
 }

@@ -17,9 +17,55 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on the Judiciary.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "committees": [
+        "SSJU"
+      ],
+      "references": [],
+      "text": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S5796",
+          "type": "consideration"
+        }
+      ],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S5796",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt7032-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "7032"
+    }
+  ],
   "bill_id": "s2479-119",
   "bill_type": "s",
   "by_request": false,
@@ -27,6 +73,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Judiciary",
@@ -48,9 +95,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-11-19",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-19",
     "vetoed": false
   },
   "introduced_at": "2025-07-28",
@@ -65,7 +115,7 @@
       "type": "bill"
     }
   ],
-  "short_title": "Reserve Organization of America Charter Amendments Act of 2025",
+  "short_title": "Reserve Organization of America Charter Amendments Act of 2026",
   "sponsor": {
     "bioguide_id": "B001243",
     "district": null,
@@ -74,8 +124,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-07-28",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-11-19",
   "subjects": [
     "Government operations and politics"
   ],
@@ -86,7 +136,7 @@
       "as": null,
       "is_for_portion": false,
       "textVersionCode": null,
-      "title": "Reserve Organization of America Charter Amendments Act of 2025",
+      "title": "Reserve Organization of America Charter Amendments Act of 2026",
       "type": "display"
     },
     {
@@ -97,6 +147,13 @@
       "type": "short"
     },
     {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Reserve Organization of America Charter Amendments Act of 2026",
+      "type": "short"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -104,6 +161,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-22T20:51:54Z",
+  "updated_at": "2026-11-20T16:11:05Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2479.xml"
 }

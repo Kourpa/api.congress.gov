@@ -17,6 +17,37 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "committees": [
+        "SSHR"
+      ],
+      "references": [],
+      "text": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [
+        {
+          "reference": "CR S5786",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S5786",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -27,6 +58,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Health, Education, Labor, and Pensions",
@@ -48,9 +80,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-11-19",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-19",
     "vetoed": false
   },
   "introduced_at": "2025-12-03",
@@ -74,42 +109,14 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2025-12-03",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-11-19",
   "subjects": [
     "Labor and employment"
   ],
   "subjects_top_term": "Labor and employment",
   "summary": null,
   "titles": [
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Fair Access for Individuals to Receive Leave Act",
-      "type": "short"
-    },
-    {
-      "as": "introduced",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "FAIR Leave Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Fair Access for Individuals to Receive Leave Act",
-      "type": "short"
-    },
-    {
-      "as": "passed senate",
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "FAIR Leave Act",
-      "type": "short"
-    },
     {
       "as": null,
       "is_for_portion": false,
@@ -121,10 +128,38 @@
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
+      "title": "Fair Access for Individuals to Receive Leave Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "FAIR Leave Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Fair Access for Individuals to Receive Leave Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "FAIR Leave Act",
+      "type": "short"
+    },
+    {
+      "as": "introduced",
+      "is_for_portion": false,
+      "textVersionCode": null,
       "title": "A bill to amend the Family and Medical Leave Act of 1993, to repeal certain limits on leave for married individuals employed by the same employer.",
       "type": "official"
     }
   ],
-  "updated_at": "2026-11-20T08:13:47Z",
+  "updated_at": "2026-11-20T15:56:40Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3321.xml"
 }

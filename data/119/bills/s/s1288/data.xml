@@ -1,14 +1,14 @@
-<bill session="119" type="s" number="1288" updated="2026-11-20T08:13:47Z">
-  <state datetime="2026-06-10">REPORTED</state>
+<bill session="119" type="s" number="1288" updated="2026-11-20T16:01:33Z">
+  <state datetime="2026-11-19">PASS_OVER:SENATE</state>
   <status>
-    <unknown datetime="2026-06-10"/>
+    <unknown datetime="2026-11-19"/>
   </status>
   <introduced datetime="2025-04-03"/>
   <titles>
+    <title type="display">Finger Lakes National Heritage Area Act</title>
     <title type="short" as="introduced">Finger Lakes National Heritage Area Act</title>
     <title type="short" as="reported to senate">Finger Lakes National Heritage Area Act</title>
     <title type="short" as="passed senate">Finger Lakes National Heritage Area Act</title>
-    <title type="display">Finger Lakes National Heritage Area Act</title>
     <title type="official" as="introduced">A bill to amend the John D. Dingell, Jr. Conservation, Management, and Recreation Act to designate as a component of the National Heritage Area System the Finger Lakes National Heritage Area in the State of New York, and for other purposes.</title>
   </titles>
   <sponsor bioguide_id="G000555"/>
@@ -29,6 +29,11 @@
     <calendar datetime="2026-09-17" calendar="Senate Legislative" under="General Orders" number="632">
       <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 632.</text>
     </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2026-11-19" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5793" label="consideration"/>
+      <reference ref="CR S5793" label="text"/>
+    </vote>
   </actions>
   <committees>
     <committee code="SSEG" name="Senate Energy and Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>

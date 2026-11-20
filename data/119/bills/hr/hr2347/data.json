@@ -314,9 +314,40 @@
       ],
       "text": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 31. Record Vote Number: 268.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S5779-5780, S5797-5804",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered by Senate.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "270",
+      "status": "PASS_BACK:SENATE",
+      "text": "Passed Senate with an amendment by Yea-Nay Vote. 62 - 33. Record Vote Number: 270.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [
+    {
+      "amendment_id": "samdt7030-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "7030"
+    },
     {
       "amendment_id": "samdt7027-119",
       "amendment_type": "samdt",
@@ -1440,6 +1471,8 @@
     "house_passage_result_at": "2026-04-27T16:27:03-04:00",
     "senate_cloture_result": "pass",
     "senate_cloture_result_at": "2026-11-09",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-19",
     "vetoed": false
   },
   "introduced_at": "2025-03-25",
@@ -1463,8 +1496,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-04-27T16:27:03-04:00",
+  "status": "PASS_BACK:SENATE",
+  "status_at": "2026-11-19",
   "subjects": [
     "Assault and harassment offenses",
     "Civil actions and liability",
@@ -1531,6 +1564,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-11-19T16:10:00Z",
+  "updated_at": "2026-11-20T15:55:39Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2347.xml"
 }

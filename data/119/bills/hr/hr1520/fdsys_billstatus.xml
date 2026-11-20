@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1520</number>
-    <updateDate>2026-09-02T04:26:25Z</updateDate>
-    <updateDateIncludingText>2026-11-20T08:13:51Z</updateDateIncludingText>
+    <updateDate>2026-11-20T15:58:11Z</updateDate>
+    <updateDateIncludingText>2026-11-20T16:03:55Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>Senate</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Discharged From</name>
+            <date>2026-11-19T18:16:37Z</date>
+          </item>
           <item>
             <name>Referred To</name>
             <date>2025-06-24T21:02:43Z</date>
@@ -74,6 +78,62 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5788-5789)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S5788-5789)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2025-06-24</actionDate>
         <committees>
@@ -645,6 +705,14 @@
     <title>Charlotte Woodward Organ Transplant Discrimination Prevention Act</title>
     <titles>
       <item>
+        <titleType>Short Title(s) from Engrossed Amendment Senate bill text</titleType>
+        <titleTypeCode>250</titleTypeCode>
+        <title>Charlotte Woodward Organ Transplant Discrimination Prevention Act</title>
+        <updateDate>2026-11-20T08:23:34Z</updateDate>
+        <billTextVersionName>Engrossed Amendment Senate</billTextVersionName>
+        <billTextVersionCode>EAS</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Official Title from EH (Engrossed in House) bill text</titleType>
         <titleTypeCode>259</titleTypeCode>
         <title>To prohibit discrimination on the basis of mental or physical disability in cases of organ transplants.</title>
@@ -707,6 +775,137 @@
         <billTextVersionCode>IH</billTextVersionCode>
       </item>
     </titles>
+    <amendments>
+      <amendment>
+        <number>7028</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2026-11-20T15:58:11Z</updateDate>
+        <latestAction>
+          <actionDate>2026-11-19</actionDate>
+          <text>Amendment SA 7028 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 7028</name>
+              <url>https://www.congress.gov/amendment/119th-congress/senate-amendment/7028</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>M001244</bioguideId>
+            <fullName>Sen. Moody, Ashley [R-FL]</fullName>
+            <firstName>Ashley</firstName>
+            <lastName>Moody</lastName>
+            <party>R</party>
+            <state>FL</state>
+          </item>
+        </sponsors>
+        <onBehalfOfSponsor>
+          <item>
+            <bioguideId>M001244</bioguideId>
+            <fullName>Sen. Moody, Ashley [R-FL]</fullName>
+            <firstName>Ashley</firstName>
+            <lastName>Moody</lastName>
+            <party>R</party>
+            <state>FL</state>
+            <type>Proposed on behalf of</type>
+          </item>
+        </onBehalfOfSponsor>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>H001076</bioguideId>
+            <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+            <firstName>Maggie</firstName>
+            <lastName>Hassan</lastName>
+            <party>D</party>
+            <state>NH</state>
+            <sponsorshipDate>2026-11-19</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2026-11-19T05:00:00Z</proposedDate>
+        <submittedDate>2026-11-19T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1520</number>
+          <title>Charlotte Woodward Organ Transplant Discrimination Prevention Act</title>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 7028 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 7028 proposed by Senator Moody. In the nature of a substitute. (consideration: CR S5788-5789)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 7028 proposed by Senator Moody.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 7028 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+    </amendments>
     <textVersions>
       <item>
         <type>Engrossed Amendment Senate</type>
@@ -755,8 +954,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2025-06-24</actionDate>
-      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2026-11-19</actionDate>
+      <text>Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5788-5789)</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

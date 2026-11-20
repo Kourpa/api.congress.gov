@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="787" updated="2026-09-08T18:08:35Z">
+<bill session="119" type="h" number="787" updated="2026-11-20T16:08:01Z">
   <state datetime="2025-06-03T15:40:52-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-06-03T15:40:52-04:00"/>
@@ -63,7 +63,10 @@
     <committee code="SSSB" name="Senate Small Business and Entrepreneurship" subcommittee="" activity="Referred To"/>
     <committee code="HSSM" name="House Small Business" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="7987" relation="cross-congress related"/>
+    <bill session="118" type="s" number="4341" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Commerce"/>
     <term name="Public contracts and procurement"/>

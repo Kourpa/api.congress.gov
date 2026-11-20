@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>10368</number>
-    <updateDate>2026-09-29T08:05:30Z</updateDate>
-    <updateDateIncludingText>2026-09-29T08:05:30Z</updateDateIncludingText>
+    <updateDate>2026-11-20T09:08:22Z</updateDate>
+    <updateDateIncludingText>2026-11-20T09:08:22Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -18,6 +18,18 @@
         <name>Homeland Security Committee</name>
         <chamber>House</chamber>
         <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hshm07</systemCode>
+            <name>Transportation and Maritime Security Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2026-09-15T19:56:27Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
         <activities>
           <item>
             <name>Referred To</name>
@@ -45,6 +57,21 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm07</systemCode>
+            <name>Transportation and Maritime Security Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
+        <type>Committee</type>
+      </item>
       <item>
         <actionDate>2026-09-14</actionDate>
         <text>Referred to the House Committee on Homeland Security.</text>
@@ -167,8 +194,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-09-14</actionDate>
-      <text>Referred to the House Committee on Homeland Security.</text>
+      <actionDate>2026-09-15</actionDate>
+      <text>Referred to the Subcommittee on Transportation and Maritime Security.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

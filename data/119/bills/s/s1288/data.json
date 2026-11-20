@@ -49,6 +49,27 @@
       "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 632.",
       "type": "calendar",
       "under": "General Orders"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S5793",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S5793",
+          "type": "text"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -75,6 +96,8 @@
     "active_at": "2026-06-10",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-19",
     "vetoed": false
   },
   "introduced_at": "2025-04-03",
@@ -110,8 +133,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-06-10",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-11-19",
   "subjects": [
     "Historic sites and heritage areas",
     "Lakes and rivers",
@@ -121,6 +144,13 @@
   "subjects_top_term": "Public lands and natural resources",
   "summary": null,
   "titles": [
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Finger Lakes National Heritage Area Act",
+      "type": "display"
+    },
     {
       "as": "introduced",
       "is_for_portion": false,
@@ -143,13 +173,6 @@
       "type": "short"
     },
     {
-      "as": null,
-      "is_for_portion": false,
-      "textVersionCode": null,
-      "title": "Finger Lakes National Heritage Area Act",
-      "type": "display"
-    },
-    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -157,6 +180,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-11-20T08:13:47Z",
+  "updated_at": "2026-11-20T16:01:33Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s1288.xml"
 }

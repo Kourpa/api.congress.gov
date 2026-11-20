@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="2347" updated="2026-11-19T16:10:00Z">
-  <state datetime="2026-04-27T16:27:03-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="2347" updated="2026-11-20T15:55:39Z">
+  <state datetime="2026-11-19">PASS_BACK:SENATE</state>
   <status>
-    <unknown datetime="2026-04-27T16:27:03-04:00"/>
+    <unknown datetime="2026-11-19"/>
   </status>
   <introduced datetime="2025-03-25"/>
   <titles>
@@ -122,6 +122,13 @@
       <text>Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 31. Record Vote Number: 268.</text>
       <reference ref="CR S5736"/>
     </action>
+    <action datetime="2026-11-19">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S5779-5780, S5797-5804" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote2" roll="270" datetime="2026-11-19" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 62 - 33. Record Vote Number: 270.</text>
+    </vote>
   </actions>
   <committees>
     <committee code="HSWM" name="House Ways and Means" subcommittee="" activity="Reported By, Markup By, Referred To"/>
@@ -138,6 +145,7 @@
     <term name="Sex offenses"/>
   </subjects>
   <amendments>
+    <amendment number="s7030"/>
     <amendment number="s7027"/>
     <amendment number="s7026"/>
     <amendment number="s7025"/>

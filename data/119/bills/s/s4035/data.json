@@ -17,9 +17,55 @@
       "status": "REFERRED",
       "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "committees": [
+        "SSAF"
+      ],
+      "references": [],
+      "text": "Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S5794-5795",
+          "type": "consideration"
+        }
+      ],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "how": "by Voice Vote",
+      "references": [
+        {
+          "reference": "CR S5795",
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ],
+      "result": "pass",
+      "status": "PASS_OVER:SENATE",
+      "text": "Passed Senate with an amendment by Voice Vote.",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "s"
     }
   ],
-  "amendments": [],
+  "amendments": [
+    {
+      "amendment_id": "samdt7031-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "7031"
+    }
+  ],
   "bill_id": "s4035-119",
   "bill_type": "s",
   "by_request": false,
@@ -27,6 +73,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Agriculture, Nutrition, and Forestry",
@@ -48,9 +95,12 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": false,
+    "active": true,
+    "active_at": "2026-11-19",
     "awaiting_signature": false,
     "enacted": false,
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-19",
     "vetoed": false
   },
   "introduced_at": "2026-03-10",
@@ -74,8 +124,8 @@
     "title": "Sen.",
     "type": "person"
   },
-  "status": "REFERRED",
-  "status_at": "2026-03-10",
+  "status": "PASS_OVER:SENATE",
+  "status_at": "2026-11-19",
   "subjects": [
     "Finance and financial sector"
   ],
@@ -104,6 +154,20 @@
       "type": "short"
     },
     {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "DEATH BETS Act",
+      "type": "short"
+    },
+    {
+      "as": "passed senate",
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Discouraging Exploitative Assassination, Tragedy, and Harm Betting in Event Trading Systems Act",
+      "type": "short"
+    },
+    {
       "as": "introduced",
       "is_for_portion": false,
       "textVersionCode": null,
@@ -111,6 +175,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-10-01T11:03:23Z",
+  "updated_at": "2026-11-20T16:06:27Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s4035.xml"
 }

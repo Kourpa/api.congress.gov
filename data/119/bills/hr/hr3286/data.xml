@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="3286" updated="2026-03-19T08:07:21Z">
-  <state datetime="2025-05-08">REFERRED</state>
+<bill session="119" type="h" number="3286" updated="2026-11-20T09:07:34Z">
+  <state datetime="2026-11-18">REPORTED</state>
   <status>
-    <introduced datetime="2025-05-08"/>
+    <unknown datetime="2026-11-18"/>
   </status>
   <introduced datetime="2025-05-08"/>
   <titles>
@@ -30,16 +30,29 @@
     <action datetime="2026-03-18">
       <text>Subcommittee Hearings Held</text>
     </action>
+    <action datetime="2026-11-18">
+      <text>Subcommittee on Federal Lands Discharged</text>
+    </action>
+    <action datetime="2026-11-18">
+      <text>Committee Consideration and Mark-up Session Held</text>
+    </action>
+    <action datetime="2026-11-18" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.</text>
+    </action>
   </actions>
   <committees>
-    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Referred To"/>
-    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Hearings By (Subcommittee), Referral"/>
+    <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Markup By, Referred To"/>
+    <committee code="HSII10" name="House Natural Resources" subcommittee="Federal Lands" activity="Discharged, Hearings By (Subcommittee), Referral"/>
   </committees>
   <relatedbills>
     <bill session="119" type="s" number="1674" relation="identical"/>
   </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
+    <term name="Geography and mapping"/>
+    <term name="Kentucky"/>
+    <term name="Land transfers"/>
+    <term name="Parks, recreation areas, trails"/>
   </subjects>
   <amendments/>
 </bill>

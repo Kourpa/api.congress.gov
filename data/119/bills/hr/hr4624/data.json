@@ -139,9 +139,49 @@
       "references": [],
       "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "type": "referral"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "committees": [
+        "SSCM"
+      ],
+      "references": [],
+      "text": "Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "references": [
+        {
+          "reference": "CR S5793",
+          "type": "consideration"
+        }
+      ],
+      "text": "Measure laid before Senate by unanimous consent.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [],
+      "result": "pass",
+      "status": "PASS_BACK:SENATE",
+      "text": "Passed Senate with an amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [
+    {
+      "amendment_id": "samdt7029-119",
+      "amendment_type": "samdt",
+      "chamber": "s",
+      "number": "7029"
+    },
     {
       "amendment_id": "samdt6833-119",
       "amendment_type": "samdt",
@@ -158,6 +198,7 @@
   "committees": [
     {
       "activity": [
+        "Discharged From",
         "Referred To"
       ],
       "committee": "Senate Commerce, Science, and Transportation",
@@ -322,6 +363,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-03-24T15:31:41-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-19",
     "vetoed": false
   },
   "introduced_at": "2025-07-23",
@@ -338,8 +381,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2026-03-24T15:31:41-04:00",
+  "status": "PASS_BACK:SENATE",
+  "status_at": "2026-11-19",
   "subjects": [
     "Advisory bodies",
     "Contracts and agency",
@@ -417,6 +460,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-11-20T08:08:38Z",
+  "updated_at": "2026-11-20T16:03:02Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4624.xml"
 }

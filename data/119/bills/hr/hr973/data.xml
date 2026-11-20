@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="973" updated="2026-07-11T22:08:20Z">
-  <state datetime="2025-04-28T18:57:02-04:00">PASS_OVER:HOUSE</state>
+<bill session="119" type="h" number="973" updated="2026-11-20T16:05:11Z">
+  <state datetime="2026-11-19">PASSED:BILL</state>
   <status>
-    <unknown datetime="2025-04-28T18:57:02-04:00"/>
+    <unknown datetime="2026-11-19"/>
   </status>
   <introduced datetime="2025-02-04"/>
   <titles>
@@ -82,8 +82,12 @@
       <text>Motion to reconsider laid on the table Agreed to without objection.</text>
     </action>
     <action datetime="2025-04-29">
-      <text>Received in the Senate.</text>
+      <text>Received in the Senate, read twice.</text>
     </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2026-11-19" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S5793-5794" label="consideration"/>
+    </vote>
   </actions>
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Reported By, Markup By, Referred To"/>

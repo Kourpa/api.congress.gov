@@ -95,6 +95,49 @@
       "references": [],
       "text": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19T09:14:52-05:00",
+      "action_code": "H30000",
+      "references": [
+        {
+          "reference": "CR H6294-6295",
+          "type": "consideration"
+        }
+      ],
+      "text": "Considered as unfinished business.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19T09:43:52-05:00",
+      "action_code": "H37300",
+      "how": "roll",
+      "references": [],
+      "result": "pass",
+      "roll": "327",
+      "status": "PASS_OVER:HOUSE",
+      "suspension": true,
+      "text": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 327).",
+      "type": "vote",
+      "vote_type": "vote",
+      "where": "h"
+    },
+    {
+      "acted_at": "2026-11-19T09:43:54-05:00",
+      "action_code": "H38310",
+      "references": [],
+      "text": "Motion to reconsider laid on the table Agreed to without objection.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "committees": [
+        "SSBU"
+      ],
+      "references": [],
+      "text": "Received in the Senate and Read twice and referred to the Committee on the Budget.",
+      "type": "referral"
     }
   ],
   "amendments": [],
@@ -105,6 +148,13 @@
     "H. Rept. 119-882"
   ],
   "committees": [
+    {
+      "activity": [
+        "Referred To"
+      ],
+      "committee": "Senate Budget",
+      "committee_id": "SSBU"
+    },
     {
       "activity": [
         "Reported By",
@@ -374,6 +424,8 @@
     "active_at": "2026-09-16",
     "awaiting_signature": false,
     "enacted": false,
+    "house_passage_result": "pass",
+    "house_passage_result_at": "2026-11-19T09:43:52-05:00",
     "vetoed": false
   },
   "introduced_at": "2025-07-16",
@@ -397,8 +449,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "REPORTED",
-  "status_at": "2026-09-16",
+  "status": "PASS_OVER:HOUSE",
+  "status_at": "2026-11-19T09:43:52-05:00",
   "subjects": [
     "Accounting and auditing",
     "Budget deficits and national debt",
@@ -432,11 +484,11 @@
       "type": "short"
     },
     {
-      "as": null,
+      "as": "passed house",
       "is_for_portion": false,
       "textVersionCode": null,
       "title": "Preventive Health Savings Act",
-      "type": "display"
+      "type": "short"
     },
     {
       "as": "introduced",
@@ -444,8 +496,22 @@
       "textVersionCode": null,
       "title": "To amend the Congressional Budget Act of 1974 respecting the scoring of preventive health savings.",
       "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "To amend the Congressional Budget Act of 1974 respecting the scoring of preventive health savings.",
+      "type": "official"
+    },
+    {
+      "as": null,
+      "is_for_portion": false,
+      "textVersionCode": null,
+      "title": "Preventive Health Savings Act",
+      "type": "display"
     }
   ],
-  "updated_at": "2026-11-19T17:05:28Z",
+  "updated_at": "2026-11-20T15:16:41Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4464.xml"
 }

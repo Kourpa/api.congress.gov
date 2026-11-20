@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2347</number>
-    <updateDate>2026-11-19T16:10:00Z</updateDate>
-    <updateDateIncludingText>2026-11-19T16:10:00Z</updateDateIncludingText>
+    <updateDate>2026-11-20T15:55:39Z</updateDate>
+    <updateDateIncludingText>2026-11-20T15:55:39Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -58,6 +58,52 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Yea-Nay Vote. 62 - 33. Record Vote Number: 270.</text>
+        <type>Floor</type>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>270</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00270.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-11-20T02:44:02Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 62 - 33. Record Vote Number: 270.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>270</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00270.xml</url>
+            <chamber>Senate</chamber>
+            <congress>119</congress>
+            <date>2026-11-20T02:44:02Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-11-19</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Considered by Senate. (consideration: CR S5779-5780, S5797-5804)</text>
+        <type>Floor</type>
+      </item>
       <item>
         <actionDate>2026-11-18</actionDate>
         <sourceSystem>
@@ -601,10 +647,106 @@
     </titles>
     <amendments>
       <amendment>
+        <number>7030</number>
+        <congress>119</congress>
+        <type>SAMDT</type>
+        <updateDate>2026-11-20T12:08:52Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>L000577</bioguideId>
+            <fullName>Sen. Lee, Mike [R-UT]</fullName>
+            <firstName>Mike</firstName>
+            <lastName>Lee</lastName>
+            <party>R</party>
+            <state>UT</state>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
+          <count>3</count>
+          <item>
+            <bioguideId>H001046</bioguideId>
+            <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+            <firstName>Martin</firstName>
+            <lastName>Heinrich</lastName>
+            <party>D</party>
+            <state>NM</state>
+            <sponsorshipDate>2026-11-19</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>C001047</bioguideId>
+            <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+            <firstName>Shelley</firstName>
+            <lastName>Capito</lastName>
+            <party>R</party>
+            <state>WV</state>
+            <middleName>Moore</middleName>
+            <sponsorshipDate>2026-11-19</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>W000802</bioguideId>
+            <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+            <firstName>Sheldon</firstName>
+            <lastName>Whitehouse</lastName>
+            <party>D</party>
+            <state>RI</state>
+            <sponsorshipDate>2026-11-19</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <submittedDate>2026-11-19T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>119</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>2347</number>
+          <title>Survivor Justice Tax Prevention Act</title>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
+        </amendedBill>
+        <amendedAmendment>
+          <number>6883</number>
+          <congress>119</congress>
+          <type>SAMDT</type>
+          <purpose>In the nature of a substitute.</purpose>
+          <updateDate>2026-11-19T12:08:46Z</updateDate>
+        </amendedAmendment>
+        <actions>
+          <count>2</count>
+          <actions>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <type>IntroReferral</type>
+              <actionCode>Intro-S</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2026-11-19</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <textVersions>
+          <count>1</count>
+        </textVersions>
+      </amendment>
+      <amendment>
         <number>7027</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-19T12:08:46Z</updateDate>
+        <updateDate>2026-11-18T23:55:34Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>V000128</bioguideId>
@@ -624,7 +766,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -665,7 +807,7 @@
         <number>7026</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-19T12:08:46Z</updateDate>
+        <updateDate>2026-11-18T23:55:25Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>V000128</bioguideId>
@@ -685,7 +827,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6933</number>
@@ -725,7 +867,7 @@
         <number>7025</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-19T12:08:46Z</updateDate>
+        <updateDate>2026-11-18T19:53:02Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>O000174</bioguideId>
@@ -759,7 +901,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>7005</number>
@@ -799,7 +941,7 @@
         <number>7024</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-19T12:08:46Z</updateDate>
+        <updateDate>2026-11-18T16:36:09Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>B001267</bioguideId>
@@ -819,7 +961,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -873,7 +1015,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -969,7 +1111,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -1044,7 +1186,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>7000</number>
@@ -1118,7 +1260,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6999</number>
@@ -1178,7 +1320,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -1239,7 +1381,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -1300,7 +1442,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -1361,7 +1503,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6957</number>
@@ -1421,7 +1563,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -1482,7 +1624,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -1557,7 +1699,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>7005</number>
@@ -1642,7 +1784,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -1703,7 +1845,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -1799,7 +1941,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -1860,7 +2002,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -1935,7 +2077,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2021,7 +2163,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2096,7 +2238,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2171,7 +2313,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2232,7 +2374,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2294,7 +2436,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2381,7 +2523,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2508,7 +2650,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2638,7 +2780,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2717,7 +2859,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2793,7 +2935,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2868,7 +3010,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -2943,7 +3085,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3028,7 +3170,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3123,7 +3265,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3198,7 +3340,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3273,7 +3415,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3346,7 +3488,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3407,7 +3549,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3502,7 +3644,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3587,7 +3729,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3672,7 +3814,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3759,7 +3901,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3845,7 +3987,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3917,7 +4059,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -3989,7 +4131,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4061,7 +4203,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4133,7 +4275,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4205,7 +4347,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4277,7 +4419,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4349,7 +4491,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4421,7 +4563,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4493,7 +4635,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4600,7 +4742,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4675,7 +4817,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4736,7 +4878,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4777,7 +4919,7 @@
         <number>6971</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-17T20:18:17Z</updateDate>
+        <updateDate>2026-11-20T01:38:28Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>W000779</bioguideId>
@@ -4800,8 +4942,8 @@
           </item>
         </onBehalfOfSponsor>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>4</countIncludingWithdrawnCosponsors>
-          <count>4</count>
+          <countIncludingWithdrawnCosponsors>5</countIncludingWithdrawnCosponsors>
+          <count>5</count>
           <item>
             <bioguideId>M001176</bioguideId>
             <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
@@ -4843,6 +4985,16 @@
             <sponsorshipDate>2026-11-17</sponsorshipDate>
             <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>W000790</bioguideId>
+            <fullName>Sen. Warnock, Raphael G. [D-GA]</fullName>
+            <firstName>Raphael</firstName>
+            <lastName>Warnock</lastName>
+            <party>D</party>
+            <state>GA</state>
+            <sponsorshipDate>2026-11-19</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -4853,7 +5005,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4925,7 +5077,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -4987,7 +5139,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5049,7 +5201,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5111,7 +5263,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5173,7 +5325,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5235,7 +5387,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5308,7 +5460,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5381,7 +5533,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5454,7 +5606,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5563,7 +5715,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5636,7 +5788,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5708,7 +5860,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5780,7 +5932,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5878,7 +6030,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -5968,7 +6120,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6065,7 +6217,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6152,7 +6304,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6213,7 +6365,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6274,7 +6426,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6335,7 +6487,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6396,7 +6548,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6457,7 +6609,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6533,7 +6685,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6594,7 +6746,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6655,7 +6807,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6716,7 +6868,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6803,7 +6955,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6864,7 +7016,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -6905,7 +7057,7 @@
         <number>6942</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-16T22:10:32Z</updateDate>
+        <updateDate>2026-11-19T23:44:58Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>P000145</bioguideId>
@@ -6917,8 +7069,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>6</countIncludingWithdrawnCosponsors>
-          <count>6</count>
+          <countIncludingWithdrawnCosponsors>7</countIncludingWithdrawnCosponsors>
+          <count>7</count>
           <item>
             <bioguideId>K000377</bioguideId>
             <fullName>Sen. Kelly, Mark [D-AZ]</fullName>
@@ -6981,6 +7133,16 @@
             <sponsorshipDate>2026-11-16</sponsorshipDate>
             <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>C001113</bioguideId>
+            <fullName>Sen. Cortez Masto, Catherine [D-NV]</fullName>
+            <firstName>Catherine</firstName>
+            <lastName>Cortez Masto</lastName>
+            <party>D</party>
+            <state>NV</state>
+            <sponsorshipDate>2026-11-19</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -6991,7 +7153,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7064,7 +7226,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7137,7 +7299,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7210,7 +7372,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7283,7 +7445,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7356,7 +7518,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7473,7 +7635,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7534,7 +7696,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7595,7 +7757,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7712,7 +7874,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7800,7 +7962,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7861,7 +8023,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -7948,7 +8110,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8035,7 +8197,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8122,7 +8284,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8240,7 +8402,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8348,7 +8510,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8446,7 +8608,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8555,7 +8717,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8663,7 +8825,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8724,7 +8886,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8785,7 +8947,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8846,7 +9008,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8907,7 +9069,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -8968,7 +9130,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9053,7 +9215,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9160,7 +9322,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9201,7 +9363,7 @@
         <number>6915</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-17T22:02:32Z</updateDate>
+        <updateDate>2026-11-19T22:31:02Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>K000394</bioguideId>
@@ -9213,8 +9375,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>3</countIncludingWithdrawnCosponsors>
-          <count>3</count>
+          <countIncludingWithdrawnCosponsors>4</countIncludingWithdrawnCosponsors>
+          <count>4</count>
           <item>
             <bioguideId>B001288</bioguideId>
             <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
@@ -9245,6 +9407,16 @@
             <sponsorshipDate>2026-11-17</sponsorshipDate>
             <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>W000779</bioguideId>
+            <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+            <firstName>Ron</firstName>
+            <lastName>Wyden</lastName>
+            <party>D</party>
+            <state>OR</state>
+            <sponsorshipDate>2026-11-19</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-11-12T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -9255,7 +9427,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9316,7 +9488,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9411,7 +9583,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9472,7 +9644,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9533,7 +9705,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9594,7 +9766,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9680,7 +9852,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9741,7 +9913,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9827,7 +9999,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -9896,7 +10068,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -9957,7 +10129,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -10019,7 +10191,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -10081,7 +10253,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -10186,7 +10358,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -10247,7 +10419,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -10383,7 +10555,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -10444,7 +10616,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -10505,7 +10677,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -10651,7 +10823,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -10839,7 +11011,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -10977,7 +11149,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11031,7 +11203,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11109,7 +11281,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11177,7 +11349,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11231,7 +11403,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -11312,7 +11484,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6889</number>
@@ -11437,7 +11609,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6888</number>
@@ -11565,7 +11737,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendmentsToAmendment>
           <count>1</count>
@@ -11640,7 +11812,7 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-11-19T15:55:33Z</updateDate>
+        <updateDate>2026-11-18T15:04:22Z</updateDate>
         <latestAction>
           <actionDate>2026-11-18</actionDate>
           <text>SA 6887 fell when SA 6886 tabled.</text>
@@ -11686,7 +11858,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6886</number>
@@ -11792,7 +11964,7 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-11-19T15:55:16Z</updateDate>
+        <updateDate>2026-11-18T15:04:09Z</updateDate>
         <latestAction>
           <actionDate>2026-11-18</actionDate>
           <text>Motion to table amendment SA 6886 agreed to in Senate by Voice Vote.</text>
@@ -11834,7 +12006,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendmentsToAmendment>
           <count>1</count>
@@ -11936,7 +12108,7 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-11-19T15:54:37Z</updateDate>
+        <updateDate>2026-11-18T15:03:58Z</updateDate>
         <latestAction>
           <actionDate>2026-11-18</actionDate>
           <text>SA 6885 fell when SA 6884 tabled.</text>
@@ -11982,7 +12154,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6884</number>
@@ -12088,7 +12260,7 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>To improve the bill.</purpose>
-        <updateDate>2026-11-19T15:54:15Z</updateDate>
+        <updateDate>2026-11-18T15:03:46Z</updateDate>
         <latestAction>
           <actionDate>2026-11-18</actionDate>
           <text>Motion to table amendment SA 6884 agreed to in Senate by Voice Vote.</text>
@@ -12130,7 +12302,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendedAmendment>
           <number>6883</number>
@@ -12239,7 +12411,7 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>In the nature of a substitute.</purpose>
-        <updateDate>2026-11-19T15:53:44Z</updateDate>
+        <updateDate>2026-11-18T16:53:42Z</updateDate>
         <latestAction>
           <actionDate>2026-11-18</actionDate>
           <text>Amendment SA 6883 agreed to in Senate by Yea-Nay Vote. 69 - 27. Record Vote Number: 267.</text>
@@ -12329,10 +12501,10 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <amendmentsToAmendment>
-          <count>124</count>
+          <count>125</count>
         </amendmentsToAmendment>
         <actions>
           <count>15</count>
@@ -12932,7 +13104,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -12986,7 +13158,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13040,7 +13212,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13094,7 +13266,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13148,7 +13320,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13202,7 +13374,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13256,7 +13428,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13310,7 +13482,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13364,7 +13536,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13418,7 +13590,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13496,7 +13668,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13550,7 +13722,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13604,7 +13776,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13658,7 +13830,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13712,7 +13884,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13766,7 +13938,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13844,7 +14016,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13898,7 +14070,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -13952,7 +14124,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14006,7 +14178,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14060,7 +14232,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14114,7 +14286,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14168,7 +14340,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14222,7 +14394,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14276,7 +14448,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14330,7 +14502,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14364,7 +14536,7 @@
         <number>6855</number>
         <congress>119</congress>
         <type>SAMDT</type>
-        <updateDate>2026-11-17T22:12:20Z</updateDate>
+        <updateDate>2026-11-19T18:19:35Z</updateDate>
         <sponsors>
           <item>
             <bioguideId>S001194</bioguideId>
@@ -14376,8 +14548,8 @@
           </item>
         </sponsors>
         <cosponsors>
-          <countIncludingWithdrawnCosponsors>8</countIncludingWithdrawnCosponsors>
-          <count>8</count>
+          <countIncludingWithdrawnCosponsors>9</countIncludingWithdrawnCosponsors>
+          <count>9</count>
           <item>
             <bioguideId>B001267</bioguideId>
             <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
@@ -14462,6 +14634,16 @@
             <sponsorshipDate>2026-11-17</sponsorshipDate>
             <isOriginalCosponsor>False</isOriginalCosponsor>
           </item>
+          <item>
+            <bioguideId>W000779</bioguideId>
+            <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+            <firstName>Ron</firstName>
+            <lastName>Wyden</lastName>
+            <party>D</party>
+            <state>OR</state>
+            <sponsorshipDate>2026-11-19</sponsorshipDate>
+            <isOriginalCosponsor>False</isOriginalCosponsor>
+          </item>
         </cosponsors>
         <submittedDate>2026-11-10T05:00:00Z</submittedDate>
         <chamber>Senate</chamber>
@@ -14472,7 +14654,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14581,7 +14763,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14635,7 +14817,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14689,7 +14871,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14743,7 +14925,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14797,7 +14979,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14866,7 +15048,7 @@
           <originChamberCode>H</originChamberCode>
           <number>2347</number>
           <title>Survivor Justice Tax Prevention Act</title>
-          <updateDateIncludingText>2026-11-19</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>2</count>
@@ -14936,8 +15118,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-11-18</actionDate>
-      <text>Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 31. Record Vote Number: 268. (CR S5736)</text>
+      <actionDate>2026-11-19</actionDate>
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 62 - 33. Record Vote Number: 270.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

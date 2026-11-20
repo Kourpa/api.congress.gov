@@ -134,8 +134,25 @@
       "acted_at": "2025-04-29",
       "action_code": "",
       "references": [],
-      "text": "Received in the Senate.",
+      "text": "Received in the Senate, read twice.",
       "type": "action"
+    },
+    {
+      "acted_at": "2026-11-19",
+      "action_code": "",
+      "how": "by Unanimous Consent",
+      "references": [
+        {
+          "reference": "CR S5793-5794",
+          "type": "consideration"
+        }
+      ],
+      "result": "pass",
+      "status": "PASSED:BILL",
+      "text": "Passed Senate without amendment by Unanimous Consent.",
+      "type": "vote",
+      "vote_type": "vote2",
+      "where": "s"
     }
   ],
   "amendments": [],
@@ -397,6 +414,8 @@
     "enacted": false,
     "house_passage_result": "pass",
     "house_passage_result_at": "2025-04-28T18:57:02-04:00",
+    "senate_passage_result": "pass",
+    "senate_passage_result_at": "2026-11-19",
     "vetoed": false
   },
   "introduced_at": "2025-02-04",
@@ -420,8 +439,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASS_OVER:HOUSE",
-  "status_at": "2025-04-28T18:57:02-04:00",
+  "status": "PASSED:BILL",
+  "status_at": "2026-11-19",
   "subjects": [
     "Commerce",
     "Consumer affairs",
@@ -480,6 +499,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-07-11T22:08:20Z",
+  "updated_at": "2026-11-20T16:05:11Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr973.xml"
 }
