@@ -1,4 +1,4 @@
-<bill session="119" type="s" number="1060" updated="2026-04-06T12:55:11Z">
+<bill session="119" type="s" number="1060" updated="2026-11-19T18:34:41Z">
   <state datetime="2025-03-13">REFERRED</state>
   <status>
     <introduced datetime="2025-03-13"/>
@@ -31,7 +31,11 @@
   <committees>
     <committee code="SSJU" name="Senate Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="s" number="1073" relation="cross-congress related"/>
+    <bill session="117" type="h" number="7839" relation="cross-congress related"/>
+    <bill session="117" type="s" number="4258" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Commerce"/>
   </subjects>
