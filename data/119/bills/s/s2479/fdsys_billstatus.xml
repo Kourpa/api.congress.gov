@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>2479</number>
-    <updateDate>2026-11-20T16:11:05Z</updateDate>
-    <updateDateIncludingText>2026-11-20T18:18:40Z</updateDateIncludingText>
+    <updateDate>2026-11-21T12:08:43Z</updateDate>
+    <updateDateIncludingText>2026-11-21T12:08:43Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -49,11 +49,41 @@
     </relatedBills>
     <actions>
       <item>
+        <actionDate>2026-11-20</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2026-11-20</actionDate>
+        <actionTime>10:40:07</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-20</actionDate>
+        <actionTime>10:32:29</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
         <actionDate>2026-11-19</actionDate>
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5796)</text>
+        <text>Passed Senate with an amendment by Unanimous Consent.</text>
         <type>Floor</type>
       </item>
       <item>
@@ -71,7 +101,7 @@
         <sourceSystem>
           <name>Senate</name>
         </sourceSystem>
-        <text>Measure laid before Senate by unanimous consent. (consideration: CR S5796)</text>
+        <text>Measure laid before Senate by unanimous consent.</text>
         <type>Floor</type>
       </item>
       <item>
@@ -156,7 +186,20 @@
       <name>Government Operations and Politics</name>
     </policyArea>
     <subjects>
-      <legislativeSubjects/>
+      <legislativeSubjects>
+        <item>
+          <name>Federally chartered organizations</name>
+          <updateDate>2026-11-20T20:26:03Z</updateDate>
+        </item>
+        <item>
+          <name>Military personnel and dependents</name>
+          <updateDate>2026-11-20T20:26:16Z</updateDate>
+        </item>
+        <item>
+          <name>National Guard and reserves</name>
+          <updateDate>2026-11-20T20:26:09Z</updateDate>
+        </item>
+      </legislativeSubjects>
       <policyArea>
         <name>Government Operations and Politics</name>
         <updateDate>2025-09-12T20:15:14Z</updateDate>
@@ -168,7 +211,7 @@
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>Reserve Organization of America Charter Amendments Act of 2026</title>
-        <updateDate>2026-11-20T11:58:38Z</updateDate>
+        <updateDate>2026-11-21T12:03:36Z</updateDate>
       </item>
       <item>
         <titleType>Short Title(s) as Passed Senate</titleType>
@@ -203,7 +246,7 @@
         <congress>119</congress>
         <type>SAMDT</type>
         <purpose>In the nature of a substitute.</purpose>
-        <updateDate>2026-11-20T16:11:05Z</updateDate>
+        <updateDate>2026-11-21T12:08:43Z</updateDate>
         <latestAction>
           <actionDate>2026-11-19</actionDate>
           <text>Amendment SA 7032 agreed to in Senate by Unanimous Consent.</text>
@@ -254,7 +297,7 @@
           <originChamberCode>S</originChamberCode>
           <number>2479</number>
           <title>Reserve Organization of America Charter Amendments Act of 2026</title>
-          <updateDateIncludingText>2026-11-20</updateDateIncludingText>
+          <updateDateIncludingText>2026-11-21</updateDateIncludingText>
         </amendedBill>
         <actions>
           <count>6</count>
@@ -274,7 +317,7 @@
                 <code>0</code>
                 <name>Senate</name>
               </sourceSystem>
-              <text>Amendment SA 7032 proposed by Senator Moreno for Senator Blackburn. In the nature of a substitute. (consideration: CR S5796)</text>
+              <text>Amendment SA 7032 proposed by Senator Moreno for Senator Blackburn. (consideration: CR S5796) In the nature of a substitute.</text>
               <type>Floor</type>
             </item>
             <item>
@@ -288,9 +331,9 @@
             </item>
             <item>
               <actionDate>2026-11-19</actionDate>
-              <text>Senate amendment submitted</text>
+              <text>Senate amendment proposed (on the floor): Amendment SA 7032 proposed by Senator Moreno for Senator Blackburn.</text>
               <type>Floor</type>
-              <actionCode>91000</actionCode>
+              <actionCode>93000</actionCode>
               <sourceSystem>
                 <code>9</code>
                 <name>Library of Congress</name>
@@ -298,9 +341,9 @@
             </item>
             <item>
               <actionDate>2026-11-19</actionDate>
-              <text>Senate amendment proposed (on the floor): Amendment SA 7032 proposed by Senator Moreno for Senator Blackburn.</text>
+              <text>Senate amendment submitted</text>
               <type>Floor</type>
-              <actionCode>93000</actionCode>
+              <actionCode>91000</actionCode>
               <sourceSystem>
                 <code>9</code>
                 <name>Library of Congress</name>
@@ -344,8 +387,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-11-19</actionDate>
-      <text>Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5796)</text>
+      <actionDate>2026-11-20</actionDate>
+      <text>Message on Senate action sent to the House.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

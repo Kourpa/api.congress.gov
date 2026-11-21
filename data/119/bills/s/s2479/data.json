@@ -31,12 +31,7 @@
     {
       "acted_at": "2026-11-19",
       "action_code": "",
-      "references": [
-        {
-          "reference": "CR S5796",
-          "type": "consideration"
-        }
-      ],
+      "references": [],
       "text": "Measure laid before Senate by unanimous consent.",
       "type": "action"
     },
@@ -44,18 +39,34 @@
       "acted_at": "2026-11-19",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [
-        {
-          "reference": "CR S5796",
-          "type": "text of amendment in the nature of a substitute"
-        }
-      ],
+      "references": [],
       "result": "pass",
       "status": "PASS_OVER:SENATE",
       "text": "Passed Senate with an amendment by Unanimous Consent.",
       "type": "vote",
       "vote_type": "vote",
       "where": "s"
+    },
+    {
+      "acted_at": "2026-11-20T10:32:29-05:00",
+      "action_code": "H14000",
+      "references": [],
+      "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-20T10:40:07-05:00",
+      "action_code": "H15000",
+      "references": [],
+      "text": "Held at the desk.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-20",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [
@@ -127,7 +138,10 @@
   "status": "PASS_OVER:SENATE",
   "status_at": "2026-11-19",
   "subjects": [
-    "Government operations and politics"
+    "Federally chartered organizations",
+    "Government operations and politics",
+    "Military personnel and dependents",
+    "National Guard and reserves"
   ],
   "subjects_top_term": "Government operations and politics",
   "summary": null,
@@ -161,6 +175,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-11-20T16:11:05Z",
+  "updated_at": "2026-11-21T12:08:43Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2479.xml"
 }
