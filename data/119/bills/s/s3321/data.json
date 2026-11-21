@@ -32,22 +32,34 @@
       "acted_at": "2026-11-19",
       "action_code": "",
       "how": "by Voice Vote",
-      "references": [
-        {
-          "reference": "CR S5786",
-          "type": "consideration"
-        },
-        {
-          "reference": "CR S5786",
-          "type": "text"
-        }
-      ],
+      "references": [],
       "result": "pass",
       "status": "PASS_OVER:SENATE",
       "text": "Passed Senate without amendment by Voice Vote.",
       "type": "vote",
       "vote_type": "vote",
       "where": "s"
+    },
+    {
+      "acted_at": "2026-11-20T10:32:30-05:00",
+      "action_code": "H14000",
+      "references": [],
+      "text": "Received in the House.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-20T10:40:13-05:00",
+      "action_code": "H15000",
+      "references": [],
+      "text": "Held at the desk.",
+      "type": "action"
+    },
+    {
+      "acted_at": "2026-11-20",
+      "action_code": "",
+      "references": [],
+      "text": "Message on Senate action sent to the House.",
+      "type": "action"
     }
   ],
   "amendments": [],
@@ -112,7 +124,10 @@
   "status": "PASS_OVER:SENATE",
   "status_at": "2026-11-19",
   "subjects": [
-    "Labor and employment"
+    "Employee leave",
+    "Labor and employment",
+    "Marriage and family status",
+    "Military personnel and dependents"
   ],
   "subjects_top_term": "Labor and employment",
   "summary": null,
@@ -160,6 +175,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-11-20T15:56:40Z",
+  "updated_at": "2026-11-21T12:03:36Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3321.xml"
 }
