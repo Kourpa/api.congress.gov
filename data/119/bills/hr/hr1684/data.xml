@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1684" updated="2026-11-20T09:07:29Z">
+<bill session="119" type="h" number="1684" updated="2026-11-23T17:33:33Z">
   <state datetime="2025-02-27">REFERRED</state>
   <status>
     <introduced datetime="2025-02-27"/>
@@ -232,7 +232,12 @@
   <committees>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="s" number="2295" relation="cross-congress related"/>
+    <bill session="117" type="h" number="5441" relation="cross-congress related"/>
+    <bill session="118" type="h" number="3090" relation="cross-congress related"/>
+    <bill session="118" type="s" number="4004" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Animals"/>
   </subjects>

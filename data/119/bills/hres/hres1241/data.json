@@ -9,16 +9,6 @@
     },
     {
       "acted_at": "2026-04-30",
-      "action_code": "1025",
-      "committees": [
-        "HSWM"
-      ],
-      "references": [],
-      "text": "Submitted in House",
-      "type": "action"
-    },
-    {
-      "acted_at": "2026-04-30",
       "action_code": "H11100",
       "committees": [
         "HSWM"
@@ -218,8 +208,7 @@
   ],
   "enacted_as": null,
   "history": {
-    "active": true,
-    "active_at": "2026-04-30",
+    "active": false,
     "awaiting_signature": false,
     "enacted": false,
     "vetoed": false
@@ -244,7 +233,12 @@
     "Social welfare"
   ],
   "subjects_top_term": "Social welfare",
-  "summary": null,
+  "summary": {
+    "as": "Introduced in House",
+    "asOf": "2026-04-30",
+    "date": "2026-11-23T15:41:48Z",
+    "text": "This resolution requests that the President submit certain information to Congress related to the reported duplication and sharing of Numerical Identification System information, death records, and other personally identifiable information held by\u00a0the Social Security Administration by an individual acting for the Department of Government Efficiency.\u00a0The resolution also requests information on reported statements by this individual regarding expectations of receiving a presidential pardon if these activities were deemed to be illegal."
+  },
   "titles": [
     {
       "as": null,
@@ -261,6 +255,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-09-19T23:29:57Z",
+  "updated_at": "2026-11-23T15:43:09Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1241.xml"
 }

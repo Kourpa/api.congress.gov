@@ -1,7 +1,7 @@
-<bill session="119" type="h" number="10159" updated="2026-11-21T09:07:03Z">
-  <state datetime="2026-09-29">PASSED:BILL</state>
+<bill session="119" type="h" number="10159" updated="2026-11-23T14:09:08Z">
+  <state datetime="2026-11-20">ENACTED:SIGNED</state>
   <status>
-    <unknown datetime="2026-09-29"/>
+    <unknown datetime="2026-11-20"/>
   </status>
   <introduced datetime="2026-08-27"/>
   <titles>
@@ -65,6 +65,9 @@
     <topresident datetime="2026-11-20">
       <text>Presented to President.</text>
     </topresident>
+    <signed datetime="2026-11-20" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
   </actions>
   <committees>
     <committee code="SSAS" name="Senate Armed Services" subcommittee="" activity="Discharged From, Referred To"/>
