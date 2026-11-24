@@ -4,7 +4,16 @@
       "acted_at": "2026-11-20",
       "action_code": "",
       "how": "by Unanimous Consent",
-      "references": [],
+      "references": [
+        {
+          "reference": "CR S5847",
+          "type": "consideration"
+        },
+        {
+          "reference": "CR S5845",
+          "type": "text"
+        }
+      ],
       "result": "pass",
       "status": "PASSED:SIMPLERES",
       "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
@@ -218,8 +227,10 @@
   },
   "status": "PASSED:SIMPLERES",
   "status_at": "2026-11-20",
-  "subjects": [],
-  "subjects_top_term": null,
+  "subjects": [
+    "Education"
+  ],
+  "subjects_top_term": "Education",
   "summary": null,
   "titles": [
     {
@@ -237,6 +248,6 @@
       "type": "official"
     }
   ],
-  "updated_at": "2026-11-21T11:56:46Z",
+  "updated_at": "2026-11-24T15:52:32Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sres/BILLSTATUS-119sres971.xml"
 }

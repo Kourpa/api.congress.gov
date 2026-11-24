@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>1288</number>
-    <updateDate>2026-11-21T12:03:36Z</updateDate>
-    <updateDateIncludingText>2026-11-21T12:03:36Z</updateDateIncludingText>
+    <updateDate>2026-11-24T13:54:32Z</updateDate>
+    <updateDateIncludingText>2026-11-24T13:54:32Z</updateDateIncludingText>
     <originChamber>Senate</originChamber>
     <originChamberCode>S</originChamberCode>
     <type>S</type>
@@ -86,14 +86,6 @@
     <actions>
       <item>
         <actionDate>2026-11-20</actionDate>
-        <sourceSystem>
-          <name>Senate</name>
-        </sourceSystem>
-        <text>Message on Senate action sent to the House.</text>
-        <type>Floor</type>
-      </item>
-      <item>
-        <actionDate>2026-11-20</actionDate>
         <actionTime>10:40:00</actionTime>
         <text>Held at the desk.</text>
         <type>Floor</type>
@@ -113,6 +105,14 @@
           <code>2</code>
           <name>House floor actions</name>
         </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-11-20</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
       </item>
       <item>
         <actionDate>2026-11-19</actionDate>
@@ -328,7 +328,8 @@
     </textVersions>
     <latestAction>
       <actionDate>2026-11-20</actionDate>
-      <text>Message on Senate action sent to the House.</text>
+      <text>Held at the desk.</text>
+      <actionTime>10:40:00</actionTime>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">

@@ -1,4 +1,4 @@
-<bill session="119" type="sr" number="971" updated="2026-11-21T11:56:46Z">
+<bill session="119" type="sr" number="971" updated="2026-11-24T15:52:32Z">
   <state datetime="2026-11-20">PASSED:SIMPLERES</state>
   <status>
     <unknown datetime="2026-11-20"/>
@@ -31,10 +31,14 @@
   <actions>
     <vote how="by Unanimous Consent" type="vote" datetime="2026-11-20" where="s" result="pass" state="PASSED:SIMPLERES">
       <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5847" label="consideration"/>
+      <reference ref="CR S5845" label="text"/>
     </vote>
   </actions>
   <committees/>
   <relatedbills/>
-  <subjects/>
+  <subjects>
+    <term name="Education"/>
+  </subjects>
   <amendments/>
 </bill>
