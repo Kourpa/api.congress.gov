@@ -3,8 +3,8 @@
   <version>3.0.0</version>
   <bill>
     <number>7866</number>
-    <updateDate>2026-09-21T18:08:24Z</updateDate>
-    <updateDateIncludingText>2026-09-21T18:08:24Z</updateDateIncludingText>
+    <updateDate>2026-11-25T09:05:52Z</updateDate>
+    <updateDateIncludingText>2026-11-25T09:05:52Z</updateDateIncludingText>
     <originChamber>House</originChamber>
     <originChamberCode>H</originChamberCode>
     <type>HR</type>
@@ -19,6 +19,10 @@
         <chamber>House</chamber>
         <type>Standing</type>
         <activities>
+          <item>
+            <name>Reported By</name>
+            <date>2026-11-24T16:52:06Z</date>
+          </item>
           <item>
             <name>Markup By</name>
             <date>2026-09-16T15:06:00Z</date>
@@ -49,6 +53,51 @@
       </item>
     </relatedBills>
     <actions>
+      <item>
+        <actionDate>2026-11-24</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 788.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>U00788</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-11-24</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-893.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-11-24</actionDate>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 119-893.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
       <item>
         <actionDate>2026-09-16</actionDate>
         <committees>
@@ -233,6 +282,16 @@
     <title>American Lending Fairness Act of 2026</title>
     <titles>
       <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <titleTypeCode>102</titleTypeCode>
+        <title>American Lending Fairness Act of 2026</title>
+        <updateDate>2026-11-25T07:08:33Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
         <titleType>Display Title</titleType>
         <titleTypeCode>45</titleTypeCode>
         <title>American Lending Fairness Act of 2026</title>
@@ -257,6 +316,15 @@
     </titles>
     <textVersions>
       <item>
+        <type>Reported in House</type>
+        <date>2026-11-24T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hr7866rh/xml/BILLS-119hr7866rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
         <type>Introduced in House</type>
         <date>2026-03-09T04:00:00Z</date>
         <formats>
@@ -267,8 +335,8 @@
       </item>
     </textVersions>
     <latestAction>
-      <actionDate>2026-09-16</actionDate>
-      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 31 - 18.</text>
+      <actionDate>2026-11-24</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 788.</text>
     </latestAction>
   </bill>
   <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
