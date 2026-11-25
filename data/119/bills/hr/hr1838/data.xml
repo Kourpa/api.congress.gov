@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1838" updated="2026-07-21T15:09:42Z">
+<bill session="119" type="h" number="1838" updated="2026-11-25T18:28:44Z">
   <state datetime="2025-03-04">REFERRED</state>
   <status>
     <introduced datetime="2025-03-04"/>
@@ -32,7 +32,11 @@
     <committee code="HSAG22" name="House Agriculture" subcommittee="Commodity Markets, Digital Assets, and Rural Development" activity="Referral"/>
     <committee code="HSIF" name="House Energy and Commerce" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="h" number="4329" relation="cross-congress related"/>
+    <bill session="118" type="h" number="4351" relation="cross-congress related"/>
+    <bill session="117" type="s" number="1908" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Science, technology, communications"/>
   </subjects>

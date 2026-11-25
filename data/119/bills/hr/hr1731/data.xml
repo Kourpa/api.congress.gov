@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1731" updated="2026-06-11T23:41:23Z">
+<bill session="119" type="h" number="1731" updated="2026-11-25T18:38:46Z">
   <state datetime="2025-12-03">REPORTED</state>
   <status>
     <unknown datetime="2025-12-03"/>
@@ -53,7 +53,9 @@
     <committee code="HSPW" name="House Transportation and Infrastructure" subcommittee="" activity="Referred To"/>
     <committee code="HSPW13" name="House Transportation and Infrastructure" subcommittee="Economic Development, Public Buildings, and Emergency Management" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="3309" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Science, technology, communications"/>
     <term name="Government buildings, facilities, and property"/>

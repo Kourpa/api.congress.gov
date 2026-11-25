@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="249" updated="2026-09-08T18:09:59Z">
+<bill session="119" type="h" number="249" updated="2026-11-25T20:10:13Z">
   <state datetime="2025-05-13T19:03:03-04:00">PASS_OVER:HOUSE</state>
   <status>
     <unknown datetime="2025-05-13T19:03:03-04:00"/>
@@ -78,7 +78,10 @@
     <committee code="SSEG04" name="Senate Energy and Natural Resources" subcommittee="National Parks" activity="Hearings By (Subcommittee), Hearings By (Subcommittee)"/>
     <committee code="HSII" name="House Natural Resources" subcommittee="" activity="Reported By, Markup By, Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="9528" relation="cross-congress related"/>
+    <bill session="118" type="s" number="5006" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Public lands and natural resources"/>
     <term name="Congressional tributes"/>

@@ -146,6 +146,24 @@
       "references": [],
       "text": "Presented to President.",
       "type": "topresident"
+    },
+    {
+      "acted_at": "2026-11-23",
+      "action_code": "E30000",
+      "references": [],
+      "status": "ENACTED:SIGNED",
+      "text": "Signed by President.",
+      "type": "signed"
+    },
+    {
+      "acted_at": "2026-11-23",
+      "action_code": "E40000",
+      "congress": "119",
+      "law": "public",
+      "number": "149",
+      "references": [],
+      "text": "Became Public Law No: 119-149.",
+      "type": "enacted"
     }
   ],
   "amendments": [],
@@ -227,13 +245,17 @@
       "withdrawn_at": null
     }
   ],
-  "enacted_as": null,
+  "enacted_as": {
+    "congress": "119",
+    "law_type": "public",
+    "number": "149"
+  },
   "history": {
     "active": true,
     "active_at": "2026-06-25",
-    "awaiting_signature": true,
-    "awaiting_signature_since": "2026-11-17",
-    "enacted": false,
+    "awaiting_signature": false,
+    "enacted": true,
+    "enacted_at": "2026-11-23",
     "house_passage_result": "pass",
     "house_passage_result_at": "2026-11-09T16:40:01-05:00",
     "senate_passage_result": "pass",
@@ -327,8 +349,8 @@
     "title": "Rep.",
     "type": "person"
   },
-  "status": "PASSED:BILL",
-  "status_at": "2026-11-11",
+  "status": "ENACTED:SIGNED",
+  "status_at": "2026-11-23",
   "subjects": [
     "Administrative law and regulatory procedures",
     "Armed forces and national security",
@@ -388,6 +410,6 @@
       "type": "display"
     }
   ],
-  "updated_at": "2026-11-18T09:05:49Z",
+  "updated_at": "2026-11-25T14:39:26Z",
   "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8552.xml"
 }
