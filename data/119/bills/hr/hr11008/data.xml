@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="11008" updated="2026-11-13T15:46:16Z">
+<bill session="119" type="h" number="11008" updated="2026-11-25T22:21:34Z">
   <state datetime="2026-11-11">REFERRED</state>
   <status>
     <introduced datetime="2026-11-11"/>
@@ -25,7 +25,12 @@
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="117" type="h" number="6797" relation="cross-congress related"/>
+    <bill session="117" type="s" number="3227" relation="cross-congress related"/>
+    <bill session="118" type="s" number="4377" relation="cross-congress related"/>
+    <bill session="118" type="h" number="8851" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Immigration"/>
   </subjects>

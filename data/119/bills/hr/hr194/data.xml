@@ -1,12 +1,12 @@
-<bill session="119" type="h" number="194" updated="2025-05-27T20:13:32Z">
+<bill session="119" type="h" number="194" updated="2026-11-25T21:54:47Z">
   <state datetime="2025-01-03">REFERRED</state>
   <status>
     <introduced datetime="2025-01-03"/>
   </status>
   <introduced datetime="2025-01-03"/>
   <titles>
-    <title type="display">Venue Named Under Exception Act</title>
     <title type="short" as="introduced">Venue Named Under Exception Act</title>
+    <title type="display">Venue Named Under Exception Act</title>
     <title type="official" as="introduced">To amend chapter 211 of title 18, United States Code, to modify venue for certain offenses.</title>
   </titles>
   <sponsor bioguide_id="S001224"/>
@@ -24,7 +24,9 @@
   <committees>
     <committee code="HSJU" name="House Judiciary" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="9582" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Crime and law enforcement"/>
     <term name="District of Columbia"/>
@@ -34,5 +36,9 @@
     <term name="Virginia"/>
   </subjects>
   <amendments/>
-  <summary date="2025-05-27T20:08:27Z" status="Introduced in House"></summary>
+  <summary date="2025-05-27T20:08:27Z" status="Introduced in House">Venue Named Under Exception Act or the VENUE Act
+
+This bill changes the venue rules for cases involving criminal offenses on federal property in the National Capital Region. Venue refers to the court where it is proper for a case to proceed.
+
+Specifically, the bill requires certain cases involving criminal offenses committed on federal property in the National Capital Region (Washington, DC and specified regions of Maryland and Virginia) to be brought in the district of the last known residence of the offender (or of any one of two or more joint offenders). If the last residence of the offender is not known,&#160;then the case may be brought in DC.&#160;</summary>
 </bill>

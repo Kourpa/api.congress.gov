@@ -1,4 +1,4 @@
-<bill session="119" type="h" number="1938" updated="2025-10-04T08:05:48Z">
+<bill session="119" type="h" number="1938" updated="2026-11-25T21:54:15Z">
   <state datetime="2025-03-06">REFERRED</state>
   <status>
     <introduced datetime="2025-03-06"/>
@@ -49,7 +49,9 @@
     <committee code="HSPW02" name="House Transportation and Infrastructure" subcommittee="Water Resources and Environment" activity="Referral"/>
     <committee code="HSAS" name="House Armed Services" subcommittee="" activity="Referred To"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill session="118" type="h" number="6095" relation="cross-congress related"/>
+  </relatedbills>
   <subjects>
     <term name="Environmental protection"/>
   </subjects>
